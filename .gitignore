@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- volumath ---
+# Generated documents. Rebuild with tools/vm.py build and tools/vm.py sheet.
+/build/
+# Downloaded source material: large, and owned by its authors. Every exercise
+# cites its source, so the database stays complete without these files.
+/sources/originals/
