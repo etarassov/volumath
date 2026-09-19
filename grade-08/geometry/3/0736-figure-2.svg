@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200" font-family="Georgia, 'Times New Roman', serif">
+  <path d="M 30 160 A 40 40 0 0 1 70 120 A 40 40 0 0 1 110 80 A 40 40 0 0 1 190 80 A 40 40 0 0 1 230 120 A 40 40 0 0 1 270 160 Z"
+        fill="#cfcfcf" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="30,160 270,160 230,120 190,80 110,80 70,120" fill="#ffffff" stroke="#000" stroke-width="1.6"/>
+  <g fill="#000" font-size="13" text-anchor="middle">
+    <text x="30" y="176">(0 ; 0)</text>
+    <text x="84" y="142">(1 ; 1)</text>
+    <text x="104" y="74" text-anchor="end">(2 ; 2)</text>
+    <text x="196" y="74" text-anchor="start">(4 ; 2)</text>
+    <text x="216" y="142">(5 ; 1)</text>
+    <text x="270" y="176">(6 ; 0)</text>
+  </g>
+</svg>

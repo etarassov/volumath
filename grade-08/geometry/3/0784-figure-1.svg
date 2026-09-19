@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 175" width="440" height="175">
+  <rect width="440" height="175" fill="#ffffff"/>
+  <g>
+    <circle cx="40" cy="85" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="76" cy="85" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="112" cy="85" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="148" cy="85" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="184" cy="85" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="220" cy="85" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="256" cy="85" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+  </g>
+  <path d="M 40 67 L 256 67 A 18 18 0 0 1 256 103 L 40 103 A 18 18 0 0 1 40 67 Z" fill="none" stroke="#000000" stroke-width="1.8"/>
+  <g>
+    <circle cx="360" cy="85" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="396.000" cy="85.000" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="378.000" cy="116.177" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="342.000" cy="116.177" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="324.000" cy="85.000" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="342.000" cy="53.823" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+    <circle cx="378.000" cy="53.823" r="18" fill="#e8e8e8" stroke="#000000" stroke-width="1.1"/>
+  </g>
+  <path d="M 411.588 94.000 L 393.588 125.177 A 18 18 0 0 1 378.000 134.177 L 342.000 134.177 A 18 18 0 0 1 326.412 125.177 L 308.412 94.000 A 18 18 0 0 1 308.412 76.000 L 326.412 44.823 A 18 18 0 0 1 342.000 35.823 L 378.000 35.823 A 18 18 0 0 1 393.588 44.823 L 411.588 76.000 A 18 18 0 0 1 411.588 94.000 Z" fill="none" stroke="#000000" stroke-width="1.8"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#000000">
+    <text x="105" y="165" text-anchor="middle">à plat</text>
+    <text x="360" y="165" text-anchor="middle">en fagot</text>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+{
+  "unit": "coloriage",
+  "source": "clublyon",
+  "title": "Problèmes divers (Moscou) et démonstrations par coloriage, 21 mars 2024",
+  "file": "sources/originals/clublyon/Moscou.Coloriage.pdf",
+  "pages": [
+    1,
+    2
+  ],
+  "id_block": [
+    "0801",
+    "0825"
+  ],
+  "status": "done",
+  "imported": [
+    "0801",
+    "0802",
+    "0803",
+    "0804",
+    "0805",
+    "0806",
+    "0807",
+    "0808",
+    "0809",
+    "0810",
+    "0811",
+    "0812",
+    "0813",
+    "0814",
+    "0815"
+  ],
+  "skipped": [
+    {
+      "ref": "exercice 8 (quatre nains, lac en triangle équilatéral)",
+      "reason": "résolu et vérifié (les deux triangles ont les mêmes deux côtés et le même angle de 60°, donc troisièmes côtés égaux), mais laissé de côté pour ne pas dépasser quinze exercices. Bon candidat 3e geometry difficulté 4 pour une séance ultérieure."
+    },
+    {
+      "ref": "exercice 10 (tableau 5 × 8, chaque chiffre sur exactement 4 lignes ou colonnes)",
+      "reason": "résolu (chaque chiffre doit remplir un rectangle 2 × 2 entier, puis une colonne de 5 cases devrait contenir un nombre pair de cases par chiffre : impossible), mais laissé de côté pour ne pas dépasser quinze exercices. Très bon candidat 3e combinatorics difficulté 5."
+    },
+    {
+      "ref": "exercice 12 (six pêcheurs, 100 poissons)",
+      "reason": "résolu et vérifié par force brute (les six prises sont distinctes, toutes ≤ 20, et il y a toujours une prise multiple de 4 dont le départ laisse la propriété vraie). Écarté parce que l'énoncé de la feuille est ambigu : lu à la lettre (« si un pêcheur rentre ») il est faux, seul « on peut toujours choisir un pêcheur qui rentre » est vrai."
+    },
+    {
+      "ref": "exercice 17 (échiquier 10 × 10 avec 25 tétraminos droits)",
+      "reason": "déjà dans la base : 0508 « Des bandes de quatre cases » (3e, coloring, difficulté 4), même problème. Écarté avant rédaction."
+    }
+  ],
+  "retired_ids": [],
+  "notes": "Correspondance feuille -> ids : ex 1 = 0801, ex 2 = 0802, ex 3 = 0803, ex 4 = 0804, ex 5 = 0805, ex 6 = 0806, ex 7 = 0807, ex 9 = 0808, ex 11 = 0809, ex 13 = 0810, ex 14 = 0811, ex 15 = 0812, ex 16 = 0813, ex 18 = 0814, ex 19 = 0815.\nDeux réparations d'énoncé, signalées au coordinateur : (a) exercice 9 (tram), la feuille écrit que le chemin QUI NE PASSE PAS par le cirque prend trois fois plus de temps ; avec la deuxième condition cela donne un arc de longueur négative, donc aucune solution. La comparaison a été remise dans l'autre sens dans 0808, seule lecture cohérente, et elle donne la réponse ronde « 11 fois plus court ». (b) exercice 18 (lézards), la feuille dit « se déplacent en diagonale vers une autre case » ; 0814 précise « vers une case voisine en diagonale », qui est l'énoncé d'Engel et le seul qui donne la réponse 9.\n0814 (lézards 9 × 9, minimum 9 cases vides) et 0179 (coccinelles 7 × 7, au moins 7 cases vides) partagent l'argument des bandes verticales. 0814 pointe vers 0179 par see_also ; le lien inverse reste à poser par le coordinateur, 0179 étant hors de ce bloc d'ids.\nRéponses vérifiées par ordinateur : 0801, 0802, 0803, 0804, 0805, 0806, 0807, 0808, 0810, 0811, 0814, 0815. Vérifiées à la main par deux chemins : 0809, 0812, 0813.",
+  "updated": "2026-09-19"
+}

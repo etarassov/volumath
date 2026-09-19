@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200" font-family="Georgia, 'Times New Roman', serif">
+  <path d="M 30 160 A 40 40 0 0 1 70 120 A 40 40 0 0 1 110 80 A 40 40 0 0 1 190 80 A 40 40 0 0 1 230 120 A 40 40 0 0 1 270 160 Z"
+        fill="#ececec" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+  <g fill="none" stroke="#000" stroke-width="1.2" stroke-dasharray="5 4">
+    <path d="M 70 120 A 40 40 0 0 1 110 160"/>
+    <path d="M 110 160 A 40 40 0 0 1 190 160"/>
+    <path d="M 190 160 A 40 40 0 0 1 230 120"/>
+    <path d="M 110 80 A 40 40 0 0 1 150 120"/>
+    <path d="M 150 120 A 40 40 0 0 1 190 80"/>
+  </g>
+</svg>

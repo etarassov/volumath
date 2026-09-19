@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 370" width="380" height="370" font-family="Georgia, 'Times New Roman', serif">
+  <polygon points="45,105 165,105 165,75 195,75 195,45 255,45 255,75 345,75 345,135 285,135 285,165 255,165 255,345 165,345 165,195 105,195 105,135 45,135"
+           fill="#f2f2f2" stroke="#000" stroke-width="2" stroke-linejoin="round"/>
+  <g font-size="16" fill="#000">
+    <text x="105" y="97" text-anchor="middle">4</text>
+    <text x="157" y="96" text-anchor="end">1</text>
+    <text x="180" y="90" text-anchor="middle">1</text>
+    <text x="188" y="66" text-anchor="end">1</text>
+    <text x="225" y="37" text-anchor="middle">2</text>
+    <text x="263" y="66" text-anchor="start">1</text>
+    <text x="300" y="67" text-anchor="middle">3</text>
+    <text x="353" y="111" text-anchor="start">2</text>
+    <text x="315" y="152" text-anchor="middle">2</text>
+    <text x="293" y="156" text-anchor="start">1</text>
+    <text x="270" y="182" text-anchor="middle">1</text>
+    <text x="263" y="261" text-anchor="start">6</text>
+    <text x="157" y="276" text-anchor="end" font-style="italic">X</text>
+    <text x="135" y="212" text-anchor="middle">2</text>
+    <text x="97" y="171" text-anchor="end">2</text>
+    <text x="75" y="152" text-anchor="middle">2</text>
+    <text x="37" y="126" text-anchor="end">1</text>
+  </g>
+</svg>

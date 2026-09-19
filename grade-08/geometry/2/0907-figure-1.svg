@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <g fill="none" stroke="#000" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+    <polygon points="34.0,34.0 266.0,34.0 266.0,266.0 34.0,266.0" fill="#eeeeee"/>
+    <line x1="34.0" y1="34.0" x2="266.0" y2="34.0"/>
+    <line x1="266.0" y1="34.0" x2="266.0" y2="266.0"/>
+    <line x1="266.0" y1="266.0" x2="34.0" y2="266.0"/>
+    <line x1="34.0" y1="266.0" x2="34.0" y2="34.0"/>
+    <line x1="34.0" y1="34.0" x2="150.0" y2="266.0"/>
+    <line x1="34.0" y1="34.0" x2="208.0" y2="266.0"/>
+    <path d="M 34.0 78.0 A 44.0 44.0 0 0 0 53.7 73.4"/>
+    <path d="M 102.0 34.0 A 68.0 68.0 0 0 1 74.8 88.4"/>
+  </g>
+  <g fill="#000">
+    <circle cx="34.0" cy="34.0" r="2.6"/>
+    <circle cx="266.0" cy="34.0" r="2.6"/>
+    <circle cx="266.0" cy="266.0" r="2.6"/>
+    <circle cx="34.0" cy="266.0" r="2.6"/>
+    <circle cx="150.0" cy="266.0" r="2.6"/>
+    <circle cx="208.0" cy="266.0" r="2.6"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#000">
+    <text x="17.0" y="30.0">A</text>
+    <text x="274.0" y="30.0">B</text>
+    <text x="274.0" y="280.0">C</text>
+    <text x="17.0" y="280.0">D</text>
+    <text x="146.0" y="283.0">Q</text>
+    <text x="204.0" y="283.0">P</text>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#000">
+    <text x="44.0" y="92.0">&#945;</text>
+    <text x="106.0" y="74.0">2&#945;</text>
+  </g>
+</svg>

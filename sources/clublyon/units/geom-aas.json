@@ -1,0 +1,67 @@
+{
+  "unit": "geom-aas",
+  "source": "clublyon",
+  "title": "Géométrie, d'après M. Aassila «Objectif Olympiades»",
+  "file": "sources/originals/clublyon/Geometry.pdf",
+  "pages": [
+    1,
+    3
+  ],
+  "id_block": [
+    "0901",
+    "0925"
+  ],
+  "status": "done",
+  "imported": [
+    "0902",
+    "0903",
+    "0904",
+    "0905",
+    "0906",
+    "0907",
+    "0908",
+    "0909",
+    "0910",
+    "0911",
+    "0912",
+    "0913",
+    "0914",
+    "0915",
+    "0916"
+  ],
+  "skipped": [
+    {
+      "ref": "P 19 (Chine, 1991)",
+      "why": "l'énoncé cite un point E qui n'est défini nulle part ; en supposant que la bissectrice issue de A coupe [BC] en E, la réponse est 55°, mais elle demande Menelaus ou les masses, hors niveau collège"
+    },
+    {
+      "ref": "P 21 (Russie, 1952) et P 39 (URSS, 1952)",
+      "why": "problèmes d'angles «adventices» de type Langley ; je n'ai pas de démonstration élémentaire rigoureuse, seulement une valeur numérique, donc non publiés"
+    },
+    {
+      "ref": "P 44 (Tournament of the Towns, 2015)",
+      "why": "l'énoncé place K, L, M «sur les côtés AC, BC, BC» ; avec deux points sur BC la conclusion a = b est fausse (le calcul donne a(1-cos C) = b(cos C - sin C)), l'énoncé est donc mal recopié"
+    },
+    {
+      "ref": "P 46 (théorème de Morley)",
+      "why": "hors de portée à ce niveau"
+    },
+    {
+      "ref": "P 15 (Chine, 1997)",
+      "why": "déjà dans la base sous le numéro 0352, «Un angle de 45 degrés dans un triangle rectangle»"
+    },
+    {
+      "ref": "P 45 (Roumanie, 2010)",
+      "why": "résolu et vérifié (BAC = 135°), mais la solution demande Al-Kashi ou des longueurs exactes en racines : niveau 2de-1re, hors du spectre de cette feuille"
+    },
+    {
+      "ref": "P 4, P 6, P 7, P 8, P 10, P 11, P 12, P 20, P 22, P 23, P 25, P 26, P 27, P 31, P 33, P 34, P 35, P 37, P 38, P 41, P 42, P 43",
+      "why": "non retenus pour garder un lot de quinze ; tous résolubles, plusieurs sont d'excellents candidats pour une prochaine session (voir notes)"
+    }
+  ],
+  "retired_ids": [
+    "0901"
+  ],
+  "notes": "Doublon a arbitrer : P 1 (mon 0901) est le meme probleme que 0626 et 0651, importes en parallele depuis d'autres feuilles du meme club ; trois exemplaires dans grade-08/geometry/1. Je l'avais d'abord retire, puis restaure sur consigne du coordinateur. Verifications : toutes les reponses numeriques (0905 = 50 degres, 0907 = 2, 0909 = 10 degres, 0910 = 15 degres, 0913 = 180/7, 0914 = 72 degres, 0915 = perimetre 2) ont ete controlees par calcul sur plusieurs configurations ; 0902, 0903, 0904, 0906, 0908, 0911, 0912, 0916 sont des demonstrations sans valeur numerique, verifiees par le raisonnement et, pour 0904, 0906, 0911, 0912, par des figures calculees. Reserve pour une prochaine session, tous resolus pendant ce passage : P 22, P 23, P 26, P 27, P 33, P 34, P 35, P 38, P 41, P 42, P 43 (niveau 3e, difficulte 4 ou 5), et P 45 (2de, difficulte 5, reponse 135 degres, demonstration avec des longueurs exactes en racines).\n\nCOORDINATOR, 2026-09-19. 0901 retired. 'Le troisième angle du triangle' reached the club on three different sheets and all three copies landed in grade-08/geometry/1, which is plain waste rather than a cross-grade pair. Kept 0626 (unit ensembles): none of the three has a figure, so the choice came down to the solution, and 0626 carries three follow-up questions including whether a triangle can have two right angles, against one for 0901 and none for 0651. 0901 must never be reused.",
+  "updated": "2026-09-19"
+}

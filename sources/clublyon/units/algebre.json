@@ -1,0 +1,65 @@
+{
+  "unit": "algebre",
+  "source": "clublyon",
+  "title": "Algèbre, problèmes des stages Animath, 8 septembre 2023",
+  "file": "sources/originals/clublyon/Algebre.pdf",
+  "pages": [
+    1,
+    7
+  ],
+  "id_block": [
+    "0601",
+    "0625"
+  ],
+  "status": "done",
+  "imported": [
+    "0601",
+    "0602",
+    "0603",
+    "0604",
+    "0605",
+    "0606",
+    "0607",
+    "0608",
+    "0609",
+    "0610",
+    "0611",
+    "0612",
+    "0613",
+    "0614",
+    "0615"
+  ],
+  "skipped": [
+    {
+      "ref": "exercices 5, 9, 27, 28, 29, 31, 32, 33, 51, 52, 60",
+      "reason": "Calculs de routine (sommes de Gauss, fractions au même dénominateur, divisions euclidiennes déguisées, petits critères de divisibilité). Tous résolus sans difficulté, tous importables en 1 ou 2 étoiles si le club en veut davantage. Non retenus seulement pour garder une répartition entre facile, moyen et difficile dans les quinze."
+    },
+    {
+      "ref": "exercices 10, 17, 18, 21, 23, 24, 26 bis",
+      "reason": "Décompositions en facteurs premiers, PGCD et PPCM sur des nombres donnés. Mêmes remarques : corrects et faciles, mais les feuilles « Nombres.Introduction » et « Calcul » traitées en parallèle couvrent déjà ce terrain, risque de doublon élevé."
+    },
+    {
+      "ref": "exercice 38 (Coupe Animath de Printemps 2017, P2)",
+      "reason": "n à cinq chiffres, m son renversé, montrer que n+m a au moins un chiffre pair. Résolu, et vérifié par force brute sur les 90000 valeurs de n : zéro contre-exemple. La preuve passe par une analyse des retenues colonne par colonne. Si tous les chiffres de n+m étaient impairs : le chiffre des unités impair donne a0+a4 impair ; le chiffre des dizaines de mille impair force alors la retenue entrante c4 à être paire, donc nulle, donc a1+a3+c3 <= 9 ; mais le chiffre des centaines, égal à 2*a2 plus la retenue c2, ne peut être impair que si c2 = 1, c'est-à-dire a1+a3+c1 >= 10 ; enfin les chiffres des dizaines et des milliers, tous deux impairs, donnent c1 et c3 de même parité, donc égaux. Contradiction. C'est juste, mais lourd à rédiger pour un 4e ou un 3e. À reprendre par une session qui veut un 5 étoiles."
+    },
+    {
+      "ref": "exercices 42, 43, 49, 59, 66, 67, 71, 75, 77",
+      "reason": "Tous résolus et vérifiés par calcul exhaustif en Python : 42 donne 6666600 ; 43 donne 1665, la somme ne change pas (et c'est le seul total possible) ; 49 donne 150 rectangles ; 59 donne p=2, q=5 donc p+q=7 ; 66 donne a dans {13,30,47,64,81}, somme 235 ; 67 donne 42 chemins (nombre de Catalan C5) ; 71 donne n=1997 et lui seul ; 75 donne (a;b)=(6;7), soit 6732. Pour 77 : la première question est possible, par exemple {1,4},{2,5},{3,8},{6,7},{9,10} de sommes 5, 7, 11, 13, 19 ; la seconde est IMPOSSIBLE, avec une preuve courte : chaque somme est un nombre premier impair au plus égal à 20+19=39, or les nombres premiers impairs jusqu'à 39 sont 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, onze nombres de somme 195 ; dix d'entre eux totalisent donc au plus 192, alors que 1+2+...+20 = 210. Écartés par manque de place dans le bloc, pas par doute sur la réponse. Réserve immédiate pour une session suivante, en 3 à 5 étoiles."
+    },
+    {
+      "ref": "exercices 46, 47, 53, 57, 58, 65",
+      "reason": "Exposants vérifiés avec tools/pdfsupers.py. 46 vaut 4, 47 vaut 32, 53 donne n=34, 65 donne 125 jours. Bons exercices de 3e, écartés seulement pour ne pas surcharger le bloc. 57 et 58 font intervenir des racines carrées imbriquées, plutôt 2de."
+    },
+    {
+      "ref": "exercices 54, 55, 56, 61, 63, 64, 68, 70, 72, 74, 76",
+      "reason": "Géométrie. Hors du sujet de cette unité, et les feuilles Angles / Géométrie du même club sont traitées par d'autres unités."
+    },
+    {
+      "ref": "exercices 62, 73",
+      "reason": "62 (jetons en cercle, valeurs possibles de n) et 73 (2015 entiers en cercle, supprimer deux voisins) : je n'ai pas de démonstration complète que je puisse écrire au niveau collège. Non importés, conformément à la consigne de ne rien publier dont la preuve a un trou."
+    }
+  ],
+  "retired_ids": [],
+  "notes": "Feuille « Algèbre + Problèmes issus des stages Animath », 8 septembre 2023, 77 exercices en 7 pages, sans aucune solution. Toutes les réponses publiées ont été vérifiées par calcul en Python, sauf 0605, 0606 et 0609 qui se vérifient à la main en une ligne. Les exposants ont été relus avec tools/pdfsupers.py avant usage : le PDF aplatit bien la typographie, la couche texte donne « 2999 » là où la page affiche 2^999.\n\nCOLLISIONS AVEC D'AUTRES AGENTS. Je n'ai supprimé aucun fichier, pour ne pas refaire l'accident du 0535 (deux agents dédoublonnant la même paire en sens inverse, et le problème disparaît).\n1) 0603 « Trois fractions à simplifier » faisait doublon exact avec 0853 « Simplifier trois fractions » (mêmes fractions 125/1000, 64/256, 77/121, arrivées par deux feuilles différentes du même club : Algebre.pdf ex. 26 et Nombres.Introduction.pdf ex. 38). Pendant ma session, le propriétaire de 0853 l'a retiré de son côté. Il ne reste donc que 0603, et rien n'est perdu. Plus rien à arbitrer.\n2) 0604 « Quatre cartes à ordonner » et 0840 « De combien de façons ordonner quatre cartes ? » : même dossier grade-08/combinatorics/1, même problème, même réponse 24. À l'heure où j'écris, 0840 est encore un squelette vide (« À écrire »), 0604 est complet. À arbitrer par le coordinateur ; je n'ai pas touché à 0840.\n3) vm.py check a un moment rapproché 0605 « Calculer a − c sans connaître a, b et c » de 0755 « Calculer b + c sans connaître ni b ni c ». Ce ne sont PAS les mêmes problèmes : 0605 s'obtient en soustrayant deux égalités, 0755 en factorisant ab+ac+4b+4c. La note a disparu depuis. Garder les deux.\n\nIl reste dans cette feuille une bonne vingtaine d'exercices résolus et vérifiés, listés dans skipped avec leur réponse, prêts à être importés par une session suivante avec un nouveau bloc d'identifiants. Les deux seuls que je n'ai pas su démontrer proprement sont les exercices 62 et 73.",
+  "updated": "2026-09-19"
+}

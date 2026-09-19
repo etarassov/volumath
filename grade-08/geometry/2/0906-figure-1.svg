@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 313" width="320" height="313">
+  <g fill="none" stroke="#000" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+    <polygon points="46.6,34.0 34.0,223.0 286.0,223.0" fill="#eeeeee"/>
+    <line x1="46.6" y1="34.0" x2="34.0" y2="223.0"/>
+    <line x1="34.0" y1="223.0" x2="286.0" y2="223.0"/>
+    <line x1="286.0" y1="223.0" x2="46.6" y2="34.0"/>
+    <line x1="46.6" y1="34.0" x2="193.4" y2="278.6"/>
+    <line x1="34.0" y1="223.0" x2="126.6" y2="167.4"/>
+    <line x1="286.0" y1="223.0" x2="193.4" y2="278.6"/>
+    <path d="M 118.1 172.6 L 112.9 164.0 L 121.5 158.8"/>
+    <path d="M 201.9 273.4 L 196.8 264.9 L 188.2 270.0"/>
+    <line x1="97.0" y1="217.5" x2="97.0" y2="228.5"/>
+    <line x1="223.0" y1="217.5" x2="223.0" y2="228.5"/>
+  </g>
+  <g fill="#000">
+    <circle cx="46.6" cy="34.0" r="2.6"/>
+    <circle cx="34.0" cy="223.0" r="2.6"/>
+    <circle cx="286.0" cy="223.0" r="2.6"/>
+    <circle cx="160.0" cy="223.0" r="2.6"/>
+    <circle cx="126.6" cy="167.4" r="2.6"/>
+    <circle cx="193.4" cy="278.6" r="2.6"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#000">
+    <text x="42.6" y="25.0">A</text>
+    <text x="16.0" y="233.0">B</text>
+    <text x="294.0" y="229.0">C</text>
+    <text x="157.0" y="240.0">D</text>
+    <text x="133.6" y="163.4">L</text>
+    <text x="201.4" y="288.6">M</text>
+  </g>
+</svg>

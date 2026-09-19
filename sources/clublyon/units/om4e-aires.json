@@ -1,0 +1,43 @@
+{
+  "unit": "om4e-aires",
+  "source": "clublyon",
+  "title": "Préparation Olympiades de 4ème : aires, 26 janvier 2024",
+  "file": "sources/originals/clublyon/Péparation.OMCollege.pdf",
+  "pages": [
+    1,
+    10
+  ],
+  "id_block": [
+    "0726",
+    "0750"
+  ],
+  "status": "done",
+  "imported": [
+    "0726",
+    "0727",
+    "0728",
+    "0729",
+    "0730",
+    "0731",
+    "0732",
+    "0733",
+    "0734",
+    "0735",
+    "0736",
+    "0737",
+    "0738",
+    "0739",
+    "0740"
+  ],
+  "skipped": [
+    "exercice 11 (ovale de la mosaique de Nimes) : la figure du PDF ne permet pas de retrouver de facon sure les centres des quatre quarts de cercle, et l'exercice a trois questions qui en dependent",
+    "exercice 32 (37 points dans un triangle equilateral de cote 6) : le principe des tiroirs donne une distance inferieure ou egale a 1, l'enonce demande strictement inferieure a 1 ; fermer cet ecart proprement demande un decoupage en parties semi-ouvertes, trop lourd pour la 4e",
+    "exercice 36 (bloc de bois coupe en huit) : la reponse 22 depend de la lecture, sur une photo, de la position de chacun des sept blocs etiquetes ; lecture non certaine, donc non publie",
+    "exercice 23 question 4 (produit de quatre entiers consecutifs plus 1) : deja dans la base en 0409",
+    "exercice 24 (triangle isocele, bissectrice, BD = DA, angles 36-72-72) : tres proche de 0351 (3e), meme resultat par une chasse aux angles voisine",
+    "exercices 15 a 22, 25 a 31, 33 a 42 non retenus cette fois : le quota de quinze etait atteint, rien ne s'y oppose sur le fond"
+  ],
+  "retired_ids": [],
+  "notes": "Feuille en deux parties : « Aires » (exercices 1 a 12, d'apres AMC et olympiades inter-academiques) puis « Preparation OM de 4eme » (exercices 13 a 42, d'apres Coupe Animath et Moscou). Les onze exercices d'aires importes couvrent presque toute la premiere partie (manquent 11 et une partie de 1-12 : voir skipped). La deuxieme partie est encore largement disponible et ne recoupe PAS la feuille om4e-v2, qui reprend des sujets de Versailles. Candidats surs pour une prochaine session, deja resolus et verifies ici : ex 16 (Baba-Yaga, 33 eleves, reponse 22), ex 17 (225 en somme d'entiers consecutifs : oui pour 5, non pour 4), ex 19 (immeubles d'Alexie et Baptiste : 3 etages et 4 etages), ex 30 (m=59, n=13, p=2), ex 33 (2020e nombre = 1), ex 35 (carre de cote 10, XY = 500), ex 25/27 deja importes. ATTENTION lecture du PDF : a 200 dpi le « 3 » de l'exercice 19 se lit « 5 » et l'enonce devient insoluble ; relire tout chiffre douteux a 300 dpi ou plus avec pdftoppm -x -y -W -H.",
+  "updated": "2026-09-19"
+}

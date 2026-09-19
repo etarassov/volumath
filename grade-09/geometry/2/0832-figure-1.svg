@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 290" width="240" height="290">
+  <rect x="0" y="0" width="240" height="290" fill="#ffffff"/>
+  <polygon points="70,255 190.0,255 70,47.2" stroke="#000000" stroke-width="1.6" fill="none"/>
+  <line x1="70" y1="171.9" x2="142.0" y2="171.9" stroke="#000000" stroke-width="1.6" fill="none"/>
+  <polyline points="83.0,255.0 83.0,242.0 70.0,242.0" stroke="#000000" stroke-width="1.2" fill="none"/>
+  <path d="M 70.0 77.2 A 30 30 0 0 0 85.0 73.2" stroke="#000000" stroke-width="1.2" fill="none"/>
+  <circle cx="70" cy="171.9" r="2.6" fill="#000000"/>
+  <circle cx="142.0" cy="171.9" r="2.6" fill="#000000"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#000000">
+    <text x="50" y="261">A</text>
+    <text x="198.0" y="261">B</text>
+    <text x="64" y="39.2">C</text>
+    <text x="48" y="175.9">M</text>
+    <text x="150.0" y="175.9">N</text>
+    <text x="82" y="91.2" font-size="14">30°</text>
+  </g>
+</svg>

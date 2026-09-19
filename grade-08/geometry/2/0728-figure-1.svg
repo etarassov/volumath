@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 290" width="500" height="290" font-family="Georgia, 'Times New Roman', serif">
+  <line x1="30" y1="150" x2="470" y2="150" stroke="#999" stroke-width="1"/>
+  <path d="M 138 150 A 22 22 0 0 1 182 150 A 44 44 0 0 1 94 150 A 66 66 0 0 1 226 150 A 88 88 0 0 1 50 150 A 110 110 0 0 1 270 150"
+        fill="none" stroke="#000" stroke-width="1.7"/>
+  <path d="M 358 150 A 22 22 0 0 1 314 150 A 44 44 0 0 1 402 150 A 66 66 0 0 1 270 150 A 88 88 0 0 1 446 150 A 110 110 0 0 1 226 150"
+        fill="none" stroke="#000" stroke-width="1.7"/>
+  <g fill="#ffffff">
+    <rect x="44" y="132" width="12" height="17"/>
+    <rect x="88" y="132" width="12" height="17"/>
+    <rect x="132" y="132" width="12" height="17"/>
+    <rect x="176" y="132" width="12" height="17"/>
+    <rect x="220" y="132" width="12" height="17"/>
+    <rect x="264" y="132" width="12" height="17"/>
+    <rect x="308" y="132" width="12" height="17"/>
+    <rect x="352" y="132" width="12" height="17"/>
+    <rect x="396" y="132" width="12" height="17"/>
+    <rect x="440" y="132" width="12" height="17"/>
+  </g>
+  <g font-size="13" fill="#000" text-anchor="middle" font-style="italic">
+    <text x="50" y="145">E</text>
+    <text x="94" y="145">C</text>
+    <text x="138" y="145">A</text>
+    <text x="182" y="145">B</text>
+    <text x="226" y="145">D</text>
+    <text x="270" y="145">F</text>
+    <text x="314" y="145">G</text>
+    <text x="358" y="145">H</text>
+    <text x="402" y="145">I</text>
+    <text x="446" y="145">J</text>
+  </g>
+  <g fill="#000">
+    <circle cx="50" cy="150" r="2.4"/><circle cx="94" cy="150" r="2.4"/><circle cx="138" cy="150" r="2.4"/>
+    <circle cx="182" cy="150" r="2.4"/><circle cx="226" cy="150" r="2.4"/><circle cx="270" cy="150" r="2.4"/>
+    <circle cx="314" cy="150" r="2.4"/><circle cx="358" cy="150" r="2.4"/><circle cx="402" cy="150" r="2.4"/>
+    <circle cx="446" cy="150" r="2.4"/>
+  </g>
+</svg>

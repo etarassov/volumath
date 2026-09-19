@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" width="320" height="220" font-family="serif" font-size="14">
+  <polygon points="40,180 280,180 115,50" fill="none" stroke="#000" stroke-width="1.6"/>
+  <line x1="115" y1="50" x2="115" y2="180" stroke="#000" stroke-width="1.2" stroke-dasharray="5 4"/>
+  <path d="M 70 180 A 30 30 0 0 0 55 154" fill="none" stroke="#000" stroke-width="1.1"/>
+  <text x="74" y="170">60°</text>
+  <polyline points="115,168 127,168 127,180" fill="none" stroke="#000" stroke-width="1.1"/>
+  <circle cx="40" cy="180" r="2.5" fill="#000"/>
+  <circle cx="280" cy="180" r="2.5" fill="#000"/>
+  <circle cx="115" cy="50" r="2.5" fill="#000"/>
+  <circle cx="115" cy="180" r="2.5" fill="#000"/>
+  <text x="26" y="197">A</text>
+  <text x="285" y="197">B</text>
+  <text x="109" y="42">C</text>
+  <text x="110" y="199">H</text>
+  <text x="196" y="196" font-style="italic">c</text>
+  <text x="66" y="112" font-style="italic">b</text>
+  <text x="208" y="110" font-style="italic">a</text>
+</svg>

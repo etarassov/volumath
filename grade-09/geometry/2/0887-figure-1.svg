@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 215" width="350" height="215">
+  <line x1="30.0" y1="195.0" x2="237.7" y2="81.1" stroke="#999" stroke-width="1"/>
+  <line x1="30.0" y1="195.0" x2="212.7" y2="12.3" stroke="#999" stroke-width="1"/>
+  <line x1="30.0" y1="195.0" x2="311.6" y2="134.2" stroke="#999" stroke-width="1"/>
+  <line x1="129.2" y1="140.6" x2="122.8" y2="102.2" stroke="#000" stroke-width="2"/>
+  <line x1="122.8" y1="102.2" x2="170.8" y2="164.6" stroke="#000" stroke-width="2"/>
+  <line x1="129.2" y1="140.6" x2="170.8" y2="164.6" stroke="#000" stroke-width="2" stroke-dasharray="6 4"/>
+  <line x1="209.8" y1="96.4" x2="198.2" y2="26.8" stroke="#000" stroke-width="2"/>
+  <line x1="198.2" y1="26.8" x2="285.2" y2="139.9" stroke="#000" stroke-width="2"/>
+  <line x1="209.8" y1="96.4" x2="285.2" y2="139.9" stroke="#000" stroke-width="2" stroke-dasharray="6 4"/>
+  <circle cx="30.0" cy="195.0" r="3" fill="#000"/>
+  <circle cx="129.2" cy="140.6" r="3" fill="#000"/>
+  <circle cx="122.8" cy="102.2" r="3" fill="#000"/>
+  <circle cx="170.8" cy="164.6" r="3" fill="#000"/>
+  <circle cx="209.8" cy="96.4" r="3" fill="#000"/>
+  <circle cx="198.2" cy="26.8" r="3" fill="#000"/>
+  <circle cx="285.2" cy="139.9" r="3" fill="#000"/>
+  <text x="19.0" y="201.0" font-family="serif" font-size="15" text-anchor="middle">O</text>
+  <text x="124.2" y="157.6" font-family="serif" font-size="15" text-anchor="middle">A</text>
+  <text x="110.8" y="104.2" font-family="serif" font-size="15" text-anchor="middle">B</text>
+  <text x="174.8" y="182.6" font-family="serif" font-size="15" text-anchor="middle">C</text>
+  <text x="203.8" y="114.4" font-family="serif" font-size="15" text-anchor="middle">A'</text>
+  <text x="185.2" y="28.8" font-family="serif" font-size="15" text-anchor="middle">B'</text>
+  <text x="288.2" y="158.9" font-family="serif" font-size="15" text-anchor="middle">C'</text>
+  <text x="244.7" y="77.1" font-family="serif" font-size="14" text-anchor="start">d1</text>
+  <text x="219.7" y="14.3" font-family="serif" font-size="14" text-anchor="start">d2</text>
+  <text x="318.6" y="131.2" font-family="serif" font-size="14" text-anchor="start">d3</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 250" width="320" height="250">
+  <rect x="0" y="0" width="320" height="250" fill="#ffffff"/>
+  <polygon points="157.5,215.0 217.5,120.0 90.0,120.0" fill="#e4e4e4"/>
+  <polygon points="150,25 30,215 285,215" stroke="#000000" stroke-width="1.6" fill="none"/>
+  <line x1="157.5" y1="215.0" x2="217.5" y2="120.0" stroke="#000000" stroke-width="1.6" fill="none"/>
+  <line x1="217.5" y1="120.0" x2="90.0" y2="120.0" stroke="#000000" stroke-width="1.6" fill="none"/>
+  <line x1="90.0" y1="120.0" x2="157.5" y2="215.0" stroke="#000000" stroke-width="1.6" fill="none"/>
+  <circle cx="157.5" cy="215.0" r="2.6" fill="#000000"/>
+  <circle cx="217.5" cy="120.0" r="2.6" fill="#000000"/>
+  <circle cx="90.0" cy="120.0" r="2.6" fill="#000000"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#000000">
+    <text x="145" y="17">A</text>
+    <text x="12" y="221">B</text>
+    <text x="293" y="221">C</text>
+    <text x="161.5" y="233.0">A'</text>
+    <text x="227.5" y="120.0">B'</text>
+    <text x="66.0" y="120.0">C'</text>
+  </g>
+</svg>

@@ -159,5 +159,15 @@ signs flatten too, so check inequalities against the student handout, which pres
 - When several agents import at once, each is given its own block of ids in advance. Never
   call `vm.py new` without `--id` during a parallel import, it would hand the same number to
   two agents.
+- **During a parallel import, never delete a finished exercise because it duplicates one from
+  another agent's block, not even your own file.** Both owners notice the pair at the same
+  moment, each deletes their own copy trusting the other to survive, and the problem
+  disappears from the database entirely. This has now happened twice, to 0379/0535 and to
+  0756/0860. Keep your file, cross link with `see_also` when the two sit at different grades,
+  and let the coordinator arbitrate once every agent has stopped. Skipping a duplicate you
+  have not yet written is still fine, and so is dropping one of two files you own yourself.
+- After a parallel import, reconcile the ledgers against the disk before believing either.
+  Every id listed in `imported` must exist as a file, and every id in `retired_ids` must
+  either be absent on purpose or have a named survivor that really is still there.
 - Progress for a source lives in `sources/<source>/units/*.json`, one file per unit of work,
   so parallel agents never write to the same file. See `sources/README.md`.

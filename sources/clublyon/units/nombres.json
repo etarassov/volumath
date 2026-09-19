@@ -1,0 +1,64 @@
+{
+  "unit": "nombres",
+  "source": "clublyon",
+  "title": "Calcul avec des nombres, priorité des opérations, 16 avril 2024",
+  "file": "sources/originals/clublyon/Nombres.Introduction.pdf",
+  "pages": [
+    1,
+    5
+  ],
+  "id_block": [
+    "0851",
+    "0875"
+  ],
+  "status": "done",
+  "imported": [
+    "0851",
+    "0852",
+    "0854",
+    "0855",
+    "0856",
+    "0857",
+    "0859",
+    "0862",
+    "0863",
+    "0864",
+    "0865",
+    "0866",
+    "0867",
+    "0868",
+    "0869"
+  ],
+  "skipped": [
+    "exercice 3 : puzzle de parenthèses avec une division ; les deux cibles 37 et 55 sont atteignables (vérifié par force brute sur les 429 parenthésages), mais l'exercice 2 couvre déjà l'idée et deux copies dans le même dossier seraient du gaspillage",
+    "exercices 5, 6, 7, 8, 39, 41, 43, 46 : exercices d'entraînement purs (substituer, développer, réduire, factoriser, réduire au même dénominateur). Rien à découvrir ; la place a été donnée aux énoncés qui apprennent quelque chose. 46 est presque identique à 45, importé sous 0867",
+    "exercice 9 : factorisations de trinômes ; même idée que 0863 et que 0758 déjà en base",
+    "exercice 10 : déjà en base sous 0753 « La différence 2020² − 2019² » (importé d'une autre feuille du club)",
+    "exercice 12 : déjà en base sous 0752 « Deux sommes suffisent »",
+    "exercice 13 : déjà en base sous 0755 « Calculer b + c sans connaître ni b ni c »",
+    "exercice 15 : même famille que 0605, 0752, 0755 et que l'exercice 14 importé sous 0869 ; une quatrième copie serait du gaspillage",
+    "exercice 16 : série d'équations du premier degré, même créneau que 0602 « Six équations du premier degré »",
+    "exercice 17 : déjà en base sous 0680 « L'aire du rectangle de périmètre 24 »",
+    "exercices 18, 20, 21, 22 : problèmes de mise en équation très proches de l'exercice 19, importé sous 0859",
+    "exercice 23 : déjà en base sous 0681 « La moyenne d'âge du second groupe » (ma copie 0858 a été retirée)",
+    "exercice 24 : déjà en base sous 0682 « Augmenté de 75 % quand les chiffres s'inversent » (ma copie 0861 a été retirée)",
+    "exercices 27, 30, 31 : équations qui se factorisent en un carré ; même idée que 0863 et que 0758 déjà en base",
+    "exercice 33 : a² − b² = 3 ; déjà couvert par 0408 « Des différences de carrés » et 0882",
+    "exercice 34 : déjà en base sous 0756 « Trois nombres et leurs trois moyennes » (ma copie 0860 a été retirée)",
+    "exercice 35 : déjà en base sous 0761 « Le rectangle allongé puis rétréci »",
+    "exercice 36 : identité x⁴ + x² + 1 = (x² + x + 1)(x² − x + 1) ; bon candidat, mais c'est surtout un développement à mener proprement, difficulté 2 en 3e. Laissé de côté faute de place",
+    "exercice 37 : identité x³ + y³ + z³ − 3xyz ; le développement à trois variables dépasse le niveau collège, à placer plutôt dans une feuille de 2de",
+    "exercice 38 : déjà en base sous 0603 « Trois fractions à simplifier » (ma copie 0853 a été retirée)",
+    "exercice 40 : ranger sept fractions par ordre croissant ; correct et vérifié (5/12 < 23/45 < 27/50 < 7/8 < 7/4 < 2 < 39/12) mais laissé de côté, la feuille donnait déjà trois exercices de fractions retenus",
+    "exercice 44 : quotients entiers 15/(x+2) et 17/(2x−1) ; même technique que l'exercice 47, importé sous 0868, qui est plus riche",
+    "exercice 48 : déjà en base sous 0615 « Une somme qui se télescope » ; l'exercice 49, plus général, a été importé sous 0865 et pointe vers 0615 par see_also"
+  ],
+  "retired_ids": [
+    "0853",
+    "0858",
+    "0860",
+    "0861"
+  ],
+  "notes": "15 exercices importés, tous résolus et vérifiés par calcul (la feuille n'a aucune solution). Attention : les feuilles du club se recopient beaucoup entre elles. Quatre de mes fichiers (0853, 0858, 0860, 0861) doublonnaient des exercices ajoutés pendant mon import par les agents des feuilles Algebre.pdf et CalculLitteral.pdf ; je les ai retirés et remplacés par 0866 à 0869, pris ailleurs dans la même feuille. Les ids 0853, 0858, 0860 et 0861 ne doivent jamais être réutilisés. 0864 (a + b = ab, 3e) et 0760 (même problème, 4e) sont liés par see_also côté 0864 ; il reste à ajouter le lien réciproque dans 0760, qui n'est pas dans mon bloc d'ids. 0865 pointe vers 0615 par see_also (même idée de somme télescopique, cas k = 1). Restent disponibles dans cette feuille, non encore pris par personne : exercices 3, 36, 40, 44 et les séries d'entraînement 5 à 8, 39, 41, 42 (42 importé), 43.",
+  "updated": "2026-09-19"
+}

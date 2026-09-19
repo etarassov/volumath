@@ -1,0 +1,112 @@
+{
+  "unit": "calcul-lit",
+  "source": "clublyon",
+  "title": "Calcul littéral, équations, problèmes divers, 9 février 2024",
+  "file": "sources/originals/clublyon/CalculLitteral.pdf",
+  "pages": [
+    1,
+    5
+  ],
+  "id_block": [
+    "0751",
+    "0775"
+  ],
+  "status": "done",
+  "imported": [
+    "0751",
+    "0752",
+    "0753",
+    "0754",
+    "0755",
+    "0757",
+    "0758",
+    "0759",
+    "0760",
+    "0761",
+    "0762",
+    "0763",
+    "0764",
+    "0765",
+    "0766",
+    "0767"
+  ],
+  "skipped": [
+    {
+      "ref": "exercice 1",
+      "reason": "2x - 1 = 2019, une seule étape. Encore plus mince que l'exercice 2, qui a été pris comme représentant à une étoile. Réponse : x = 1010."
+    },
+    {
+      "ref": "exercice 3",
+      "reason": "Déjà dans la base : 0857 « Poupées russes » (unité nombres, Nombres.Introduction.pdf, exercice 26), équation identique 1 + 2(3 + 4(5 + 6/(7-x))) = 63. Doublon évité."
+    },
+    {
+      "ref": "exercices 4 et 5",
+      "reason": "Le même problème deux fois : factoriser le facteur commun puis résoudre un carré. Bons candidats à deux étoiles pour une session suivante. Réponses vérifiées : ex. 4, 2(x+2)^2 = 18 donc x = 1 ou x = -5 ; ex. 5, 2(x+3)^2 = 50 donc x = 2 ou x = -8."
+    },
+    {
+      "ref": "exercices 9 et 10",
+      "reason": "Même famille que les exercices 7 et 8 (combiner les équations sans les résoudre). Écartés pour ne pas importer quatre problèmes presque identiques. Réponses vérifiées : ex. 9, la somme des trois équations donne 6a+5b+10c = 53, donc 53 + 40x49 = 2013 (le système a bien une solution entière, a=3, b=5, c=1) ; ex. 10, a+b+c = 60 et a-c = 20, donc le produit vaut 1200."
+    },
+    {
+      "ref": "exercices 11 et 12",
+      "reason": "Mêmes que l'exercice 13 mais sans la mise en facteur du 5 : (x-1)^2 = 0 donc x = 1, et (2x-3)^2 = 0 donc x = 3/2. L'exercice 13 a été gardé comme représentant."
+    },
+    {
+      "ref": "exercice 15",
+      "reason": "(a+b)^2 = 100 donc a+b = 10 ou -10. Joli piège (beaucoup d'élèves oublient la valeur négative), deux étoiles en 3e. Écarté seulement faute de place."
+    },
+    {
+      "ref": "exercices 16 et 17",
+      "reason": "Différence de carrés égale à un petit nombre premier : trop proche de 0408 « Des différences de carrés » (3e, x^2 - y^2 = 19) déjà dans la base. Réponses vérifiées : ex. 16, a = 2 et b = 1 ; ex. 17, après multiplication par xy on obtient x^2 - y^2 = 5, d'où (x,y) = (3,2), (3,-2), (-3,2), (-3,-2)."
+    },
+    {
+      "ref": "exercice 18",
+      "reason": "Somme de 2019 entiers consécutifs dont le plus petit vaut 50 % du plus grand. Bon problème à trois étoiles en 4e, écarté faute de place. Réponse vérifiée : le plus petit vaut 2018, les nombres vont de 2018 à 4036, la somme vaut 2019 x 3027 = 6 111 513."
+    },
+    {
+      "ref": "exercice 19",
+      "reason": "2020^8 - 1 = (2020^4 - 1)(2020^4 + 1), donc pas premier. Deux étoiles en 3e. Écarté parce que 0762 couvre déjà l'idée « factoriser pour montrer qu'un grand nombre n'est pas premier »."
+    },
+    {
+      "ref": "exercices 22 et 23",
+      "reason": "Manipulation de proportions. Ex. 22 : en posant k = a/b = c/d, les trois égalités demandées se vérifient directement. Ex. 23 : le produit en croix donne 4x = 3y, donc x/y = 3/4 (bon candidat à une étoile pour une session suivante). Écartés faute de place, l'exercice 24 ayant été pris comme représentant."
+    },
+    {
+      "ref": "exercice 27",
+      "reason": "Identité x^3 + y^3 + z^3 - 3xyz = (x+y+z)(x^2+y^2+z^2-xy-xz-yz). La démonstration n'est qu'un développement à trois lettres, long et sans idée ; viserait plutôt la 2de."
+    },
+    {
+      "ref": "exercices 28, 29 et 31",
+      "reason": "Applications directes de Pythagore, du même niveau que l'exercice 30 qui a été gardé comme représentant à une étoile. Réponses : ex. 28, hypoténuses 5, 25, 20 et 40 ; ex. 29, 12 racine de 2 puis 18 ; ex. 31, côté 12 et périmètre 48."
+    },
+    {
+      "ref": "exercices 33, 34, 35, 37 et 38",
+      "reason": "Cinq bons problèmes de Pythagore avec angles de 30 et 60 degrés, écartés faute de place ; réserve toute prête pour une session suivante. Réponses calculées : ex. 33, EC = 6, AE = 18, DE = 6 racine de 3, AD = 12 racine de 3 ; ex. 34, BC = 12, AB = 6, AC = 6 racine de 3, AD = 3 racine de 3 ; ex. 35, aire 8 racine de 3 et périmètre 12 + 4 racine de 3 ; ex. 37, l'angle BIC = 180 - angle B donne angle B = 60, le triangle est équilatéral et AD = 10 racine de 3 ; ex. 38, DM = 1,4."
+    },
+    {
+      "ref": "exercice 40 (Coupe Animath de Printemps 2015, P2)",
+      "reason": "Maximiser PA + PB + PC quand P parcourt le périmètre. La réponse est un sommet, celui opposé au plus petit côté de l'angle droit (valeur : hypoténuse + plus grand côté de l'angle droit), mais la démonstration propre repose sur la convexité de P -> PA + PB + PC le long de chaque côté, que je ne sais pas écrire rigoureusement au niveau collège. Écarté comme le demande la consigne."
+    },
+    {
+      "ref": "exercice 41",
+      "reason": "L'énoncé se contredit : il donne le périmètre (36) et demande le périmètre. Question visée sans doute : les longueurs des côtés. Le problème lui-même est bon (a^2 + (a+1)^2 = (a+2)^2 donne a = 3, donc 3-4-5, puis 9, 12, 15). Écarté pour ne pas réécrire la question posée ; à reprendre par une session qui accepte de la réparer."
+    },
+    {
+      "ref": "exercice 44 (Olympiades de quatrième)",
+      "reason": "Demande la figure 1 : les tangences (cercle C2 tangent intérieurement à C1 et tangent à la droite qui porte le diamètre) ne sont lisibles que sur le dessin, pas dans le texte. Réponse : a^2 + r^2 = (R - r)^2, donc a = racine de (R^2 - 2Rr). Bon candidat pour une session prête à redessiner la figure en SVG."
+    },
+    {
+      "ref": "exercices 45, 46, 47 et 48 (Olympiades de quatrième)",
+      "reason": "Réimpressions d'olympiades qui ont de fortes chances de figurer aussi dans les deux feuilles Péparation.OMCollege, importées en parallèle (unités om4e-aires et om4e-v2) : laissées à ces unités pour éviter une collision. Réponses calculées au passage : ex. 45, crochet à 189 cm du bord gauche, la ficelle forme un triangle isocèle (deux brins de 30 cm sur une base de 44 cm), crochet à 70,6 cm du haut du mur ; ex. 46, l'échelle atteint racine de 22,75 = 4,77 m > 4 m, donc oui ; ex. 47, 100 racine de 3 = 173,2 m par le sommet, et 150 m par le chemin déplié (deux fois 50 racine de 3 avec un angle de 120 degrés au sommet). Ex. 48 demande en plus une lecture fine de la figure 3."
+    },
+    {
+      "ref": "exercices 49 et 50",
+      "reason": "Les deux problèmes étoilés de la feuille, quatre étoiles en 3e, écartés faute de place. Ex. 49 : MB^2 + MC^2 = 2(MA^2 + AB^2) se démontre en projetant M sur (BC) puis en appliquant Pythagore deux fois. Ex. 50 : « AD la plus longue des diagonales » est un lapsus, il s'agit de AC ; l'identité AB x AE + AD x AF = AC^2 s'obtient en écrivant AC^2 = AD^2 - AB^2 + 2 AB x AE et AC^2 = AB^2 - AD^2 + 2 AD x AF, puis en additionnant."
+    }
+  ],
+  "retired_ids": [
+    "0756"
+  ],
+  "notes": "Feuille en deux parties : calcul littéral et équations (ex. 1 à 27), théorème de Pythagore (ex. 28 à 50). Quinze exercices importés, répartis 4 x une étoile, 5 x deux étoiles, 5 x trois étoiles, 1 x quatre étoiles ; sept en 4e, huit en 3e. Toutes les réponses ont été vérifiées par le calcul (force brute en Python pour les exercices 6 et 24, vérification numérique pour 42 et 43). Trois recoupements avec les unités voisines, à connaître : (1) l'exercice 20 de la feuille (trois nombres et leurs moyennes deux à deux, réponse 15, 19 et 31) avait été importé sous l'id 0756 puis retiré, car 0860 « Trois nombres et leurs moyennes deux à deux » (unité nombres) est exactement le même problème, au même niveau 4e ; l'id 0756 est retiré et ne doit jamais être réutilisé. (2) L'exercice 3 était déjà dans la base sous l'id 0857 (unité nombres), donc non importé. (3) 0760 « La somme égale au produit » (4e) et 0864 « Quand la somme égale le produit » (3e, unité nombres) sont le même classique à deux niveaux différents : j'ai mis see_also 0864 dans 0760, la réciproque reste à ajouter dans 0864 par le coordinateur, je n'y touche pas. À surveiller aussi : 0764 « Le quadrilatère aux diagonales perpendiculaires » (3e) et 0895 « Le quadrilatère inscrit aux diagonales perpendiculaires » (2de, encore vide au moment de l'import) peuvent finir par se recouper. 0765 partage son lemme (AD^2 = DB x DC) avec 0410 « La hauteur et la moyenne géométrique » (2de), sans être le même problème.\n\nCOORDINATOR, 2026-09-19. Exercice 20 was lost: this unit retired 0756 believing 0860 (unit nombres) survived, while the nombres unit retired 0860 believing 0756 survived. Both files were deleted and the problem existed nowhere. Republished from the source as 0767 in this block, answer 15, 19, 31, verified. 0756 and 0860 stay retired.",
+  "updated": "2026-09-19"
+}

@@ -1,0 +1,57 @@
+{
+  "unit": "inegalites",
+  "source": "clublyon",
+  "title": "Inégalités, égalités, équations et systèmes, 3 novembre 2023",
+  "file": "sources/originals/clublyon/Inégalités.pdf",
+  "pages": [
+    1,
+    5
+  ],
+  "id_block": [
+    "0676",
+    "0700"
+  ],
+  "status": "done",
+  "imported": [
+    "0676",
+    "0677",
+    "0678",
+    "0679",
+    "0680",
+    "0681",
+    "0682",
+    "0683",
+    "0684",
+    "0685",
+    "0686",
+    "0687",
+    "0688",
+    "0689",
+    "0690"
+  ],
+  "skipped": [
+    "ex. 1 et 3 — même idée que 0676 (une somme de carrés vaut zéro), doublons dans le même dossier",
+    "ex. 4 — x(x^2-2x+5)=10, se factorise en (x-2)(x^2+5)=0 : bon exercice 3e diff. 3, laissé faute de place",
+    "ex. 6, 8, 9, 10, 12, 13, 14, 15, 16 — inégalités toutes résolues (voir notes), laissées pour ne pas empiler cinq exercices « appliquer (x-y)^2 >= 0 » au même niveau",
+    "ex. 11 — encadrement de 1/(2k+1)+...+1/(3k) puis .../(4k) : résolu, bon diff. 4, laissé faute de place",
+    "ex. 19 — âges de trois personnes : même moule que 0680 et 0684 (une équation linéaire), doublon de forme",
+    "ex. 24 — rectangle +25 % / -15 %, aire +375 m^2 : aire initiale 6000 m^2, vérifié, laissé faute de place",
+    "ex. 25, 26, 31 — division euclidienne, liste des diviseurs, décomposition en facteurs premiers : pur exercice de cours, pas un problème, sous la barre même à une étoile",
+    "ex. 28, 29, 30 — petits tests de divisibilité, candidats évidents pour une prochaine passe en difficulté 1",
+    "ex. 32 — dernier chiffre de 2^2020, 3^2020, ... : bon diff. 2-3, laissé faute de place",
+    "ex. 33 et 39 — divisibilité de produits d'entiers consécutifs : recoupe 0001 et 0409 déjà en base",
+    "ex. 34 importé (0686) ; ex. 35 (n - s(n) divisible par 9) laissé, facile et prenable en difficulté 2",
+    "ex. 36 — plus petit nombre de 30 chiffres, somme 30, divisible par 30 : réponse 100000000000000000000000029990 (1, puis 24 zéros, puis 2999 0), vérifiée par programme, laissée faute de place",
+    "ex. 38, 40, 41 — reposent sur x^4 mod 5 / cycles des derniers chiffres : résolubles en 3e par les derniers chiffres, laissées faute de place",
+    "ex. 43 — tout entier a un multiple écrit avec des 0 et des 1 : tiroirs sur 1, 11, 111, ... ; résolu, diff. 5, laissé faute de place",
+    "ex. 44 — mains de 5 cartes contenant un carré : 13 x 48 = 624, vérifié",
+    "ex. 45 — 225 comme somme de 5 (oui : 43+...+47) ou de 4 (non : 4n+6 est pair) entiers consécutifs, vérifié",
+    "ex. 46 — a_n = dernier chiffre de 7n ; a_n = 0 ssi 10 divise n ; a_1+...+a_2005 = 9025, vérifié",
+    "ex. 47 importé (0689) ; ex. 48 (2018 pièces dans b boîtes) laissé : résolu, réponse « non », diff. 3",
+    "ex. 49 — ab32 divisible par 99 : unique couple (a, b) = (6, 7), soit 6732, vérifié",
+    "aucun exercice de cette feuille n'a été écarté pour cause d'énoncé non résolu"
+  ],
+  "retired_ids": [],
+  "notes": "Feuille de 50 exercices, cinq sections : Égalités (1-4), Inégalités (5-17), Équations et systèmes (18-24), Division euclidienne et diviseurs (25-43), Divers (44-50, problèmes de Coupe Animath). Bloc d'ids 0676-0700 : 0676-0690 utilisés, 0691-0700 encore libres. Il reste largement de quoi faire une seconde passe sur cette feuille, voir la liste skipped : les exercices 4, 6, 8 à 16, 24, 28 à 30, 32, 35, 36, 38, 40, 41, 43, 44, 45, 46, 48, 49 sont tous résolus et prenables. Les exercices 13 à 16 relèvent plutôt de la 2de (IAG à n termes), le reste tient en 4e/3e. Toutes les réponses numériques publiées ont été vérifiées par programme (force brute ou recherche exhaustive) ; les démonstrations d'inégalités ont été contrôlées par tirage aléatoire de 200 000 couples. Deux points de rendu à savoir : une virgule décimale dans une formule doit être écrite $\\text{13,6}$ sinon elle s'imprime « 13, 6 » ; et \\begin{cases} rend mal (accolade minuscule sur une seule ligne) avec pandoc vers Typst, \\begin{aligned} et les tableaux Markdown rendent bien.",
+  "updated": "2026-09-19"
+}

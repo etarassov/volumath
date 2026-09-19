@@ -1,0 +1,98 @@
+{
+  "unit": "angles",
+  "source": "clublyon",
+  "title": "Angles et droites du triangle, 6 octobre 2023",
+  "file": "sources/originals/clublyon/Angles.2.pdf",
+  "pages": [
+    1,
+    4
+  ],
+  "id_block": [
+    "0651",
+    "0675"
+  ],
+  "status": "done",
+  "imported": [
+    "0652",
+    "0653",
+    "0654",
+    "0655",
+    "0656",
+    "0657",
+    "0659",
+    "0660",
+    "0661",
+    "0662",
+    "0663",
+    "0664",
+    "0665"
+  ],
+  "skipped": [
+    {
+      "ref": "P 4",
+      "why": "énoncé de cours (les trois cas d'égalité des triangles), pas un problème"
+    },
+    {
+      "ref": "P 5",
+      "why": "coquille dans l'énoncé : « N ∈ (BC) » est impossible, il faut lire N ∈ (AC) avec CN = 2·AN. Le résultat AP = PM est vrai (vérifié en coordonnées) et se démontre avec le théorème des milieux ; laissé à une passe ultérieure pour ne pas réécrire l'énoncé"
+    },
+    {
+      "ref": "P 7",
+      "why": "résolu (angles 36°, 72°, 72°, vérifié en coordonnées) mais trop proche de 0351 « Deux triangles isocèles dans un triangle isocèle » déjà en base"
+    },
+    {
+      "ref": "P 11",
+      "why": "bon problème (droite bicolore, trois points de même couleur en progression arithmétique) mais hors du thème angles ; à prendre dans une passe logique"
+    },
+    {
+      "ref": "P 12",
+      "why": "doublon de 0259 « Sept segments, un triangle » déjà en base"
+    },
+    {
+      "ref": "P 16",
+      "why": "configuration ambiguë : « l'un des angles vaut 40° » donne deux cas, et dans le cas de l'angle à la base le point D sort du segment [AB] et la conclusion BC ∥ DE devient fausse"
+    },
+    {
+      "ref": "P 17, P 18, P 19",
+      "why": "classiques corrects mais laissés de côté pour tenir la limite de quinze exercices"
+    },
+    {
+      "ref": "P 20",
+      "why": "très proche de 0226 « Deux bissectrices perpendiculaires » (grade 8) : même mécanique d'angle constant entre deux bissectrices"
+    },
+    {
+      "ref": "Ex 22, 23, 24",
+      "why": "résultats de cours (cercle circonscrit, orthocentre, centre de gravité) plutôt que problèmes"
+    },
+    {
+      "ref": "Ex 25",
+      "why": "minimum de CM + MN + NC par double symétrie ; correct seulement si l'angle AOB < 90°, condition absente de l'énoncé"
+    },
+    {
+      "ref": "Ex 26",
+      "why": "réponse trouvée et vérifiée (BAC = 135°) mais aucune démonstration synthétique de niveau collège ; il faut la loi des sinus ou tan 75°. Lacune assumée, à reprendre"
+    },
+    {
+      "ref": "Ex 27",
+      "why": "réponse trouvée et vérifiée numériquement pour cinq valeurs de l'angle au sommet (AMC = 150°, constante) mais la seule démonstration trouvée passe par le théorème de Ceva trigonométrique, hors niveau. Lacune assumée"
+    },
+    {
+      "ref": "Ex 28",
+      "why": "énoncé incohérent tel qu'il est tapé (D quelconque sur la bissectrice, condition AE + EC = DA + AC non exploitable)"
+    },
+    {
+      "ref": "Ex 31",
+      "why": "correct et vérifié (MB' = MC' = BC/2), laissé de côté faute de place ; dégénère si le triangle est rectangle en A"
+    },
+    {
+      "ref": "P 33 à P 45 sauf P 35",
+      "why": "section « Principe des tiroirs » : hors du thème de l'unité angles, et recoupe probablement l'unité combi"
+    }
+  ],
+  "retired_ids": [
+    "0658",
+    "0651"
+  ],
+  "notes": "Feuille en deux parties : P1 à P32 (angles et droites du triangle), puis P33 à P45 (principe des tiroirs). Quinze exercices importés, tous géométriques sauf 0653 (un tiroir facile, pour les une étoile). Aucune solution dans la source : toutes les réponses ont été démontrées ici et les valeurs numériques vérifiées en Python. Doublons repérés avec d'autres blocs, à arbitrer : 0651 (P1) est identique à 0901 « Le troisième angle du triangle » (même dossier grade-08/geometry/1) ; 0658 (Ex30) porte le même titre que 0837 « Cinq fois l'angle au sommet » (grade 8, difficulté 3, encore « À écrire » au moment du contrôle). Rien n'a été supprimé, conformément à la consigne du coordinateur.\n\nCOORDINATOR, 2026-09-19. 0658 retired. It was the same problem as 0837 (unit similitude), which reached the club on two different sheets, Angles.2.pdf ex 30 and Geometrie.pdf ex 27. Same grade, so one copy is waste. Kept 0837 because it carries a figure and its 'going further' asks the student to prove the general formula rather than stating it. 0658 must never be reused.\n\nCOORDINATOR, 2026-09-19. 0651 retired. 'Le troisième angle du triangle' reached the club on three different sheets and all three copies landed in grade-08/geometry/1, which is plain waste rather than a cross-grade pair. Kept 0626 (unit ensembles): none of the three has a figure, so the choice came down to the solution, and 0626 carries three follow-up questions including whether a triangle can have two right angles, against one for 0901 and none for 0651. 0651 must never be reused.",
+  "updated": "2026-09-19"
+}

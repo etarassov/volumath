@@ -1,0 +1,87 @@
+{
+  "unit": "similitude",
+  "source": "clublyon",
+  "title": "Triangles semblables, 11 avril 2024",
+  "file": "sources/originals/clublyon/Geometrie.pdf",
+  "pages": [
+    1,
+    4
+  ],
+  "id_block": [
+    "0826",
+    "0850"
+  ],
+  "status": "done",
+  "imported": [
+    "0826",
+    "0827",
+    "0828",
+    "0829",
+    "0830",
+    "0831",
+    "0832",
+    "0833",
+    "0834",
+    "0835",
+    "0836",
+    "0837",
+    "0838",
+    "0839",
+    "0841"
+  ],
+  "skipped": [
+    {
+      "ref": "problème 5 (P 5, deux droites par P, cocyclicité)",
+      "reason": "L'énoncé écrit « triangle PAA' semblable à triangle PBB' <=> A, A', B, B' cocycliques ». Avec la convention d'ordre des lettres rappelée en tête de la feuille, PAA' ~ PBB' donne PA/PB = PA'/PB', c'est-à-dire (AA') parallèle à (BB'), alors que la cocyclicité donne PA x PB = PA' x PB'. Ce ne sont pas la même condition : l'équivalence n'est vraie qu'avec la similitude croisée PAA' ~ PB'B. L'énoncé est donc faux tel qu'il est écrit. Non importé pour ne pas publier une équivalence fausse ; à reprendre en écrivant explicitement la correspondance des sommets."
+    },
+    {
+      "ref": "problème 6 (P 6, théorème de la bissectrice, BD/DC = AB/AC)",
+      "reason": "Doublon exact avec 0386 « La bissectrice et les aires » (grade-09/geometry/4), déjà dans la base et plus riche (il guide la démonstration par les aires et ajoute deux calculs numériques). Résolu de mon côté, non importé."
+    },
+    {
+      "ref": "problèmes 19 et 20 pris ensemble, et problème 21 (théorème de la médiane)",
+      "reason": "Le 19 est importé (0836). Le 20 (angle obtus, AC^2 = AB^2 + BC^2 + 2 BD x BC) et le 21 (AB^2 + AC^2 = 2 AD^2 + BC^2/2) sont résolus et vérifiés numériquement sur des triangles tirés au hasard ; ils sont placés en « Pour aller plus loin » de 0836 avec leur indication, plutôt qu'en fichiers séparés, pour ne pas mettre trois relations métriques voisines dans le même bloc. Prêts à être importés tels quels par une session suivante."
+    },
+    {
+      "ref": "exercice 26 (P 26, BA + AI = BC, Olympiade nationale roumaine 2013)",
+      "reason": "Résolu (AI = AB(racine de 2 - 1), vérifié numériquement) mais déjà importé par une autre unité sous l'identifiant 0664 « La somme qui redonne l'hypoténuse » (grade-09/geometry/4). Non repris."
+    },
+    {
+      "ref": "exercice 29 (P 29, triangles isocèles rectangles construits sur AB et AC, MDE isocèle rectangle)",
+      "reason": "J'ai une démonstration par le théorème des milieux : avec N milieu de [AB] et P milieu de [AC], les triangles DNM et MPE sont superposables (DN = MP, NM = PE, angles en N et en P égaux à 90° + angle A), d'où MD = ME ; l'angle droit en M sort ensuite d'une chasse aux angles. Mais cette chasse aux angles suppose une configuration particulière (position de D et E par rapport à M), et je n'ai pas su fermer proprement tous les cas au niveau collège. Écarté conformément à la consigne : pas de publication avec un trou dans la preuve."
+    },
+    {
+      "ref": "exercice 25 (P 25, Olympiade nationale roumaine 2012)",
+      "reason": "Triangle équilatéral, X sur la demi-droite [CA) au-delà de A, D sur la bissectrice de l'angle BAX, E sur [AB) avec AE + EC = DA + AC, montrer que [CD) est la bissectrice de l'angle ACE. Je ne l'ai pas résolu. Non importé."
+    },
+    {
+      "ref": "problème 43 (P 43, maximum de PA + PB + PC sur le périmètre d'un triangle rectangle en A)",
+      "reason": "Réponse : le maximum est atteint en un sommet, celui qui est au bout du plus court des deux côtés de l'angle droit (si les deux côtés sont égaux, les deux sommets aigus conviennent). Vérifié numériquement. Mais la démonstration propre repose sur la convexité de P -> PA + PB + PC le long d'un segment, hors de portée au collège. Écarté pour ce trou-là."
+    },
+    {
+      "ref": "problème 45 (P 45, Animath 2015 sélection, angles IPA et INC égaux)",
+      "reason": "Non résolu. Niveau olympiade, très au-dessus du reste de la feuille."
+    },
+    {
+      "ref": "problème 47 (P 47, petit carré de côté x, triangles équilatéraux, côté du grand carré)",
+      "reason": "Non résolu : l'énoncé renvoie à une figure que je n'ai pas su lire sans ambiguïté (quels triangles sont équilatéraux et comment ils s'appuient sur les deux carrés). Il faudrait redessiner la figure avant de l'importer."
+    },
+    {
+      "ref": "problème 49 (P 49, deux cercles tangents extérieurement et leurs tangentes communes)",
+      "reason": "La troisième question demande « calculer la longueur E' en fonction de R et R' », où E' n'est défini nulle part : la couche texte du PDF a visiblement mangé un point. Énoncé incomplet, non importé."
+    },
+    {
+      "ref": "problèmes 30 à 38, 42, 44, 46, 48, 50 (toute la partie « stages Animath » non géométrique)",
+      "reason": "La même liste Animath 2015 figure dans la feuille Algebre.pdf, traitée en parallèle par l'unité algebre (bloc 0601-0625), qui l'a couverte ou l'a listée dans ses propres skipped avec les réponses. Rien repris ici pour éviter les doublons. Seuls les trois problèmes de géométrie de cette partie (39, 40, 41), que l'unité algebre a explicitement laissés à la géométrie, ont été importés : 0829, 0833, 0838."
+    },
+    {
+      "ref": "problèmes 10, 11, 13, 14, 16, 17, 18, 22, 23, 24, 27 bis, 28 bis",
+      "reason": "Réserve pour une session suivante. Ce sont de bons exercices de Thalès et de triangles semblables (parallèles dans un quadrilatère, trapèze avec AE/ED = BF/FC, centres de gravité de deux triangles, rapports le long d'une médiane). Le 11 (trapèze, EF parallèle à CD) est résolu : on passe par le point G de la diagonale [AC] tel que AG/AC = AE/AD, et on montre que E, G, F sont alignés parce que (EG) et (GF) sont toutes deux parallèles à (CD). Écartés seulement par manque de place dans le bloc de quinze."
+    }
+  ],
+  "retired_ids": [
+    "0840"
+  ],
+  "notes": "Feuille « Triangles semblables », niveau collège débutants, 11 avril 2024. Quatre pages : rappels de cours, puis 29 problèmes de géométrie (P 1 à P 21 sans étoile, exercices 22 à 29 avec une ou deux étoiles), puis une annexe « Problèmes issus des stages Animath » (P 30 à P 50) qui n'a presque rien à voir avec les triangles semblables. Aucune solution dans la source : toutes les réponses publiées ici ont été démontrées puis vérifiées.\n\nVÉRIFICATIONS. Vérifiés par calcul (Python, coordonnées, plusieurs triangles tirés au hasard) : 0827 (les quatre jeux de longueurs), 0830 (les quatre petits triangles, et recherche exhaustive des 20 triplets de sommets), 0831, 0832 (AB = 10, BC = 20, NB = 8), 0833 (174°), 0834 (les deux paires de triangles semblables et MA x MC = MB x MD), 0835 (les trois produits), 0836 (et aussi les formules des « pour aller plus loin »), 0837 (20°, 80°, 80°), 0838 (aire 1250, moitié du losange), 0839 (MB' = MC' = BC/2 sur des triangles quelconques, et le lien entre AM perpendiculaire à B'C' et AB = AC). Vérifiés à la main seulement, parce qu'il n'y a rien à calculer : 0826, 0828, 0829 (54°, recoupé par l'angle du pentagone 108°), 0841 (le raisonnement du parallélogramme, recoupé sur une figure).\n\nÉNONCÉS RETOUCHÉS. 0830 : la feuille dit « trouver tous les triangles semblables à ABC » sans dire parmi quoi. La question n'est pas seulement imprécise, elle n'a pas de réponse stable : un calcul exhaustif montre que pour un triangle quelconque il y a exactement les quatre petits triangles des milieux, mais que pour un triangle rectangle il y en a d'autres. J'ai donc demandé de montrer que les quatre morceaux sont semblables à ABC, et mis la vraie question ouverte (avec l'avertissement sur le cas rectangle) en « pour aller plus loin ». 0837 : la feuille dit « l'angle formé par les deux bissectrices », ce qui désigne deux angles supplémentaires ; j'ai nommé le point I et écrit l'angle BIC, ce qui donne la réponse entière 20/80/80 (l'autre lecture donnerait 180/11 degré, manifestement non voulu). 0834 : j'ai précisé que les quatre points sont dans l'ordre A, B, C, D sur le cercle, sans quoi les cordes [AC] et [BD] ne se coupent pas. 0841 : la feuille suppose les médianes concourantes ; la démonstration publiée établit aussi la concourance.\n\nCOLLISIONS AVEC D'AUTRES AGENTS, à arbitrer par le coordinateur. Je n'ai supprimé aucun fichier terminé, conformément à la consigne reçue en cours de session.\n1) 0837 « Cinq fois l'angle au sommet » (grade-08/geometry/3) et 0658 « Les bissectrices valent cinq fois l'angle au sommet » (grade-08/geometry/2, unité angles) : même problème, arrivé par deux feuilles du même club (Geometrie.pdf ex. 27 et Angles.2.pdf ex. 30). Même grade, dossiers de difficulté différents. Les deux réponses coïncident (20°, 80°, 80°). Il faut en garder un seul ; 0658 a été écrit avant le mien.\n2) 0840 « De combien de façons ordonner quatre cartes ? » : identifiant retiré. Ce n'était qu'un squelette vide quand j'ai constaté qu'il faisait doublon avec 0604 « Quatre cartes à ordonner », terminé, dans le même dossier. Je ne le publierai pas, et rien n'est perdu puisque 0604 porte le problème. L'identifiant 0840 ne doit jamais être réutilisé.\n3) Voisinages à ne pas confondre avec des doublons : 0835 « Trois produits dans le triangle rectangle » et 0765 « Deux relations pour la hauteur » portent sur la même figure mais sur des relations différentes (HB x HC = AH^2 et les deux autres produits, contre 1/AD^2 = 1/AB^2 + 1/AC^2) ; 0830 « Les quatre triangles des milieux » et 0878 « L'aire du triangle des milieux » partagent la figure mais posent une question différente (similitude contre aire) et sont à deux grades différents ; 0835 est par ailleurs relié par see_also à 0410 « La hauteur et la moyenne géométrique », qui reprend la première des trois égalités en 2de. Je n'ai pas pu ajouter le see_also réciproque dans 0410, qui appartient à un autre bloc.\n\nCOORDINATOR, 2026-09-19. 0837 kept over the duplicate 0658 and moved from difficulty 3 to difficulty 2. Naming the unknown, applying the angle sum twice and solving a linear equation is technique rather than an idea, which is a 2 on the rubric, and the unit that imported the twin had rated it 2 as well.",
+  "updated": "2026-09-19"
+}

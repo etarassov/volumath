@@ -1,5 +1,153 @@
 [
   {
+    "id": "0602",
+    "title": "Six équations du premier degré",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 1,
+    "duration_min": 15,
+    "tags": [
+      "equations",
+      "premier degre",
+      "calcul litteral"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 2",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/algebra/1/0602-six-first-degree-equations.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0680",
+    "title": "L'aire du rectangle de périmètre 24",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 1,
+    "duration_min": 5,
+    "tags": [
+      "rectangle",
+      "perimetre",
+      "aire",
+      "equation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 18",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-08/algebra/1/0680-area-of-the-rectangle-with-perimeter-24.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0751",
+    "title": "L'équation cachée dans un long calcul",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 1,
+    "duration_min": 5,
+    "tags": [
+      "equation",
+      "priorites-operatoires",
+      "calcul"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 2",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-08/algebra/1/0751-hidden-equation-in-a-long-calculation.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0752",
+    "title": "Deux sommes suffisent",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 1,
+    "duration_min": 5,
+    "tags": [
+      "calcul-litteral",
+      "sommes",
+      "entiers"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 7",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-08/algebra/1/0752-two-sums-are-enough.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0854",
+    "title": "Un produit moins un autre, de tête",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "factorisation",
+      "facteur commun",
+      "calcul mental"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 11, section « Calcul littéral »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-08/algebra/1/0854-product-minus-product-mentally.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0203",
     "title": "Celsius et Fahrenheit, le même nombre",
     "grade": 8,
@@ -22,6 +170,245 @@
       "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
     },
     "path": "grade-08/algebra/2/0203-same-number-celsius-fahrenheit.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0605",
+    "title": "Calculer a − c sans connaître a, b et c",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "calcul litteral",
+      "equations",
+      "astuce"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 7",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/algebra/2/0605-a-minus-c-without-knowing-them.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0629",
+    "title": "La saucisse, le chien et le chat",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "equations",
+      "mise-en-equation",
+      "masses",
+      "systeme"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 8, section « Problèmes divers », d'après A. V. Shapovalov, 2013",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-08/algebra/2/0629-the-sausage-the-dog-and-the-cat.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0676",
+    "title": "Deux carrés dont la somme est nulle",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "carres",
+      "puissances",
+      "equation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 2",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-08/algebra/2/0676-two-squares-summing-to-zero.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0755",
+    "title": "Le facteur commun caché",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "factorisation",
+      "facteur-commun",
+      "calcul-litteral"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 8",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-08/algebra/2/0755-find-b-plus-c-by-factoring.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0767",
+    "title": "Trois nombres et leurs moyennes deux à deux",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "moyenne",
+      "equations",
+      "somme"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de maths, Lyon, niveau collège débutants",
+      "reference": "CalculLitteral.pdf, « Problèmes divers », exercice 20 (le même problème figure aussi dans Nombres.Introduction.pdf)",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-08/algebra/2/0767-three-numbers-from-pairwise-means.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0803",
+    "title": "Les semis autour de la table ronde",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "somme",
+      "carre",
+      "mise-en-equation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 3, d'après Mathematical Olympiads for Middle School (Moscou), 2013",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/algebra/2/0803-seeds-around-the-round-table.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0857",
+    "title": "Une équation en poupées russes",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "equation",
+      "parentheses emboitees",
+      "quotient"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 26, section « Divers »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-08/algebra/2/0857-nested-equation-russian-dolls.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0859",
+    "title": "Le double, puis quinze ans de moins",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "mise en equation",
+      "ages",
+      "inconnue"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 19, section « Équations »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-08/algebra/2/0859-double-then-fifteen-years-less.md",
     "sections": [
       "Going further",
       "Hints",
@@ -150,6 +537,220 @@
     ]
   },
   {
+    "id": "0609",
+    "title": "La côte gravie à 30 km/h",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "vitesse moyenne",
+      "duree",
+      "proportionnalite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 39, d'après une préparation aux olympiades",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/algebra/3/0609-the-hill-climbed-at-thirty.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0612",
+    "title": "Trois opérations pour arriver à 2015",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "calcul litteral",
+      "equations",
+      "cas a examiner"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 69, Coupe Animath 2015, sélection",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/algebra/3/0612-three-operations-to-reach-2015.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0760",
+    "title": "La somme égale au produit",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "factorisation",
+      "entiers",
+      "equation",
+      "double-distributivite"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0864"
+    ],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 6",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-08/algebra/3/0760-sum-equals-product.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0761",
+    "title": "Le rectangle allongé puis rétréci",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "pourcentage",
+      "aire",
+      "coefficient-multiplicateur",
+      "rectangle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 21",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-08/algebra/3/0761-rectangle-stretched-then-squeezed.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0807",
+    "title": "Les poissons de l'aquarium",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "fractions",
+      "mise-en-equation",
+      "comparaison"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 7, d'après Mathematical Olympiads for Middle School (Moscou), 2015",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/algebra/3/0807-the-fish-in-the-aquarium.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0808",
+    "title": "La ligne de tram circulaire",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "proportions",
+      "mise-en-equation",
+      "cercle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 9, d'après Mathematical Olympiads for Middle School (Moscou), 2016",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/algebra/3/0808-the-circular-tram-line.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0869",
+    "title": "Le calcul qui tombe sur 2013",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "calcul litteral",
+      "combinaison",
+      "systeme",
+      "somme"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 14, section « Calcul littéral »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-08/algebra/3/0869-the-computation-landing-on-2013.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0151",
     "title": "Ranger les carrés de trois nombres",
     "grade": 8,
@@ -212,6 +813,307 @@
     ]
   },
   {
+    "id": "0601",
+    "title": "Calculs avec des puissances",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "puissances",
+      "priorites",
+      "calcul"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 1",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/arithmetic/1/0601-powers-warm-up.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0603",
+    "title": "Trois fractions à simplifier",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "fractions",
+      "simplification",
+      "diviseurs"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 26",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/arithmetic/1/0603-three-fractions-to-simplify.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0627",
+    "title": "Divisibles par 3 mais pas par 6",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "multiples",
+      "divisibilite",
+      "denombrement",
+      "parite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 23, section « Ensembles »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-08/arithmetic/1/0627-divisible-by-3-but-not-by-6.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0685",
+    "title": "Les nombres premiers inférieurs à 50",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "nombres-premiers",
+      "crible",
+      "divisibilite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 27",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-08/arithmetic/1/0685-primes-below-fifty.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0737",
+    "title": "Zéro moins un plus deux moins trois",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "somme",
+      "regroupement",
+      "calcul astucieux"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 13, d'après Coupe Animath de Printemps 2020, P1",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/arithmetic/1/0737-zero-minus-one-plus-two-minus-three.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0738",
+    "title": "Un produit de fractions qui se télescope",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "fractions",
+      "produit",
+      "simplification",
+      "calcul astucieux"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 14, d'après Coupe Animath d'Automne 2020, P1",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/arithmetic/1/0738-a-telescoping-product-of-fractions.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0787",
+    "title": "Le jeu de fléchettes : 5, 7 ou 11 points",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 15,
+    "tags": [
+      "sommes",
+      "decomposition",
+      "multiples",
+      "essais-organises"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 15, questions 1 et 2a, d'après Olympiades académiques de Versailles, 2011",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/arithmetic/1/0787-darts-five-seven-eleven-points.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0851",
+    "title": "Les mêmes chiffres, trois résultats",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "priorite des operations",
+      "calcul",
+      "entiers"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 1, section « Calculer avec des nombres, priorité des opérateurs »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-08/arithmetic/1/0851-same-digits-three-results.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0852",
+    "title": "Calculer avec des nombres relatifs",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "nombres relatifs",
+      "signes",
+      "priorite des operations"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 4, section « Nombres relatifs »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-08/arithmetic/1/0852-computing-with-signed-numbers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0867",
+    "title": "Une même valeur écrite de trois façons",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "fractions egales",
+      "proportion",
+      "entiers naturels"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 45, section « Fractions »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-08/arithmetic/1/0867-same-value-written-three-ways.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0102",
     "title": "Les bonbons des trois amies",
     "grade": 8,
@@ -234,6 +1136,189 @@
       "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
     },
     "path": "grade-08/arithmetic/2/0102-candies-for-three-friends.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0606",
+    "title": "Comparer des puissances",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "puissances",
+      "comparaison",
+      "calcul"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 3",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/arithmetic/2/0606-comparing-powers.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0686",
+    "title": "Deux nombres premiers qui diffèrent de 11",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "nombres-premiers",
+      "parite",
+      "divisibilite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 34, d'après USA Contests 2008",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-08/arithmetic/2/0686-two-primes-eleven-apart.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0776",
+    "title": "Les chiffres de 10²⁰⁰⁶ − 2006",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "puissances-de-dix",
+      "chiffres",
+      "somme-des-chiffres",
+      "soustraction"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 1, d'après Olympiades académiques de Versailles, 2006",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/arithmetic/2/0776-digits-of-ten-power-2006-minus-2006.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0790",
+    "title": "La carpette et l'éponge de Sierpinski",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 2,
+    "duration_min": 25,
+    "tags": [
+      "puissances",
+      "fractions",
+      "aire",
+      "volume",
+      "comparaison"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 16, d'après Olympiades académiques de Versailles, 2011",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/arithmetic/2/0790-sierpinski-carpet-and-sponge.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0856",
+    "title": "Des parenthèses pour obtenir 18, puis 25",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "priorite des operations",
+      "parentheses",
+      "recherche"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 2, section « Calculer avec des nombres, priorité des opérateurs »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-08/arithmetic/2/0856-parentheses-for-eighteen-then-twentyfive.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0866",
+    "title": "Quatre calculs avec des fractions",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "fractions",
+      "denominateur commun",
+      "simplification",
+      "ppcm"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 42, section « Fractions »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-08/arithmetic/2/0866-four-fraction-computations.md",
     "sections": [
       "Going further",
       "Hints",
@@ -695,6 +1780,375 @@
     ]
   },
   {
+    "id": "0610",
+    "title": "Le code de la carte bancaire",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "criteres de divisibilite",
+      "chiffres",
+      "recherche exhaustive"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 41, d'après une préparation aux olympiades",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0610-the-bank-card-code.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0611",
+    "title": "Le triathlon d'Alex",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "multiples",
+      "ppcm",
+      "calendrier"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 40, d'après une préparation aux olympiades",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0611-alex-triathlon-training.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0635",
+    "title": "Benjamin et Adrien effacent le tableau",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "divisibilite",
+      "restes",
+      "somme",
+      "raisonnement",
+      "encadrement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 31, section « Ensembles »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0635-benjamin-and-adrien-erase-the-board.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0778",
+    "title": "Le plus grand produit d'une décomposition",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "decomposition",
+      "produit",
+      "maximum",
+      "recherche-de-cas",
+      "optimisation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 3, d'après Olympiades académiques de Versailles, 2006",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0778-largest-product-of-a-decomposition.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0779",
+    "title": "Deux mille sept écrit deux mille sept fois",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "divisibilite",
+      "somme-des-chiffres",
+      "factorisation",
+      "grands-nombres"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 5, d'après Olympiades académiques de Versailles, 2007",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0779-2007-written-2007-times.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0783",
+    "title": "Le tableau rempli en spirale",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "carres-parfaits",
+      "tableau",
+      "regularite",
+      "generalisation",
+      "diagonale"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 10, d'après Olympiades académiques de Versailles, 2010",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0783-the-table-filled-in-a-spiral.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0785",
+    "title": "L'heure et les minutes sont des carrés",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "carres-parfaits",
+      "duree",
+      "recherche-de-cas",
+      "horloge"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 13, d'après Olympiades académiques de Versailles, 2011",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0785-hours-and-minutes-both-squares.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0786",
+    "title": "Sept barrières pour un terrain rectangulaire",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 40,
+    "tags": [
+      "perimetre",
+      "aire",
+      "decomposition",
+      "recherche-de-cas",
+      "rectangle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 14, d'après Olympiades académiques de Versailles, 2011",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0786-seven-fences-for-a-rectangular-field.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0801",
+    "title": "Une journée sur une planète lointaine",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "diviseurs",
+      "decomposition",
+      "nombres-premiers"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 1, d'après Mathematical Olympiads for Middle School (Moscou), 2012",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0801-a-day-on-a-distant-planet.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0802",
+    "title": "Victor multiplie par 10, Alice par 15",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "nombres-premiers",
+      "fractions",
+      "decimaux"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 2, d'après Mathematical Olympiads for Middle School (Moscou), 2013",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0802-two-primes-from-the-same-number.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0804",
+    "title": "Les champignons d'Anya",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "partage",
+      "parts-egales",
+      "raisonnement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 4, d'après Mathematical Olympiads for Middle School (Moscou), 2014",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0804-anyas-mushrooms.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0876",
+    "title": "Trois nombres premiers de deux en deux",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "nombres premiers",
+      "divisibilite",
+      "multiples de 3",
+      "restes"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 1, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0876-three-primes-two-apart.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0105",
     "title": "Le plus petit nombre à somme de chiffres imposée",
     "grade": 8,
@@ -877,6 +2331,603 @@
     ]
   },
   {
+    "id": "0789",
+    "title": "Les scores impossibles aux fléchettes",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "sommes",
+      "multiples",
+      "demonstration",
+      "recherche-de-cas",
+      "entiers-consecutifs"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 15, question 4, d'après Olympiades académiques de Versailles, 2011",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/arithmetic/4/0789-impossible-darts-scores.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0135",
+    "title": "Le cavalier de a1 à h8",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "echiquier",
+      "coloriage",
+      "parite",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0507"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 15, задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/coloring/3/0135-knight-from-a1-to-h8.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0179",
+    "title": "Des coccinelles qui changent de case",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "coloriage",
+      "principe-des-tiroirs",
+      "parite",
+      "damier",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0814"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 20, задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/coloring/3/0179-beetles-on-a-seven-by-seven-board.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0505",
+    "title": "Deux coins découpés",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "damier",
+      "dominos",
+      "coloriage",
+      "pavage",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-08/coloring/3/0505-two-corners-cut-from-a-6x6-board.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0506",
+    "title": "Le grand remue-ménage",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "damier",
+      "coloriage",
+      "parite",
+      "tiroirs",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0278"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 2 «Переполох»",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-08/coloring/3/0506-beetles-on-a-5x5-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0711",
+    "title": "Une seule case noire sur l'échiquier ?",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "coloriage",
+      "echiquier",
+      "invariant",
+      "parite",
+      "impossibilite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 30",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/coloring/3/0711-a-single-black-cell-on-the-chessboard.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0712",
+    "title": "Autant de cases blanches que de noires",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "coloriage",
+      "echiquier",
+      "denombrement",
+      "parite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 18",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/coloring/3/0712-as-many-white-cells-as-black-ones.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0811",
+    "title": "Un rectangle avec les cinq tétraminos",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "coloriage",
+      "pavage",
+      "echiquier",
+      "tetraminos"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 14, d'après Arthur Engel, « Solutions d'expert »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/coloring/3/0811-a-rectangle-from-five-tetrominoes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0812",
+    "title": "Vingt-cinq tétraminos en T",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "coloriage",
+      "pavage",
+      "echiquier",
+      "tetraminos",
+      "parite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 15, d'après Arthur Engel, « Solutions d'expert »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/coloring/3/0812-twenty-five-t-tetrominoes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0813",
+    "title": "Quinze T et un carré",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "coloriage",
+      "pavage",
+      "echiquier",
+      "tetraminos",
+      "parite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 16, d'après Arthur Engel, « Solutions d'expert »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/coloring/3/0813-fifteen-t-pieces-and-one-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0184",
+    "title": "La case qui reste libre",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 4,
+    "duration_min": 45,
+    "tags": [
+      "coloriage",
+      "pavage",
+      "quadrillage",
+      "symetrie",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 20, задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/coloring/4/0184-uncovered-cell-in-a-five-by-five-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0810",
+    "title": "Le carrelage cassé",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "coloriage",
+      "pavage",
+      "invariant",
+      "parite",
+      "carreaux"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 13, d'après Arthur Engel, « Solutions d'expert »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/coloring/4/0810-the-broken-floor-tile.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0815",
+    "title": "Un chemin par les quatorze villes",
+    "grade": 8,
+    "theme": "coloring",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "coloriage",
+      "graphe",
+      "chemin",
+      "parite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 19, d'après Arthur Engel, « Solutions d'expert »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/coloring/4/0815-a-path-through-fourteen-towns.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0604",
+    "title": "Quatre cartes à ordonner",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "denombrement",
+      "ordre",
+      "cartes"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 48, Coupe Animath 2015, éliminatoires",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/combinatorics/1/0604-ordering-four-cards.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0687",
+    "title": "Combien de nombres divisibles par 5 ?",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "denombrement",
+      "multiples",
+      "divisibilite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 37",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-08/combinatorics/1/0687-how-many-numbers-divisible-by-five.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0701",
+    "title": "Combien de nombres ont trois chiffres ?",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 1,
+    "duration_min": 5,
+    "tags": [
+      "denombrement",
+      "chiffres",
+      "comptage"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 2",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/combinatorics/1/0701-how-many-three-digit-numbers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0702",
+    "title": "Combien d'entiers entre 81 et 2023 ?",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 1,
+    "duration_min": 5,
+    "tags": [
+      "denombrement",
+      "comptage",
+      "intervalle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 1",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/combinatorics/1/0702-how-many-integers-between-81-and-2023.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0703",
+    "title": "Trois chiffres distincts, et le zéro qui gêne",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "denombrement",
+      "chiffres",
+      "permutations",
+      "zero"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 3",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/combinatorics/1/0703-three-distinct-digits-and-the-zero.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0704",
+    "title": "Un 9 au début, un 9 à la fin",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "denombrement",
+      "chiffres",
+      "principe-multiplicatif"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 8",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/combinatorics/1/0704-nine-at-the-start-nine-at-the-end.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0206",
     "title": "Comparer sans compter",
     "grade": 8,
@@ -907,6 +2958,128 @@
     ]
   },
   {
+    "id": "0607",
+    "title": "Les mots de la langue aayyaa",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "denombrement",
+      "puissances",
+      "mots"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 50, Coupe Animath 2015, éliminatoires",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/combinatorics/2/0607-words-of-the-aayyaa-language.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0705",
+    "title": "Pair, impair, pair, impair",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "denombrement",
+      "chiffres",
+      "parite",
+      "principe-multiplicatif"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 9",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/combinatorics/2/0705-even-odd-even-odd.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0706",
+    "title": "Un nombre qui se lit dans les deux sens",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "denombrement",
+      "palindrome",
+      "chiffres"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 14",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/combinatorics/2/0706-six-digit-palindromes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0788",
+    "title": "Trois fléchettes dans la cible",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 2,
+    "duration_min": 25,
+    "tags": [
+      "denombrement",
+      "sommes",
+      "recherche-de-cas",
+      "parite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 15, questions 2b et 3, d'après Olympiades académiques de Versailles, 2011",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/combinatorics/2/0788-three-darts-in-the-target.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0103",
     "title": "Un bouquet de vingt et une fleurs",
     "grade": 8,
@@ -928,36 +3101,6 @@
       "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
     },
     "path": "grade-08/combinatorics/3/0103-bouquet-of-twenty-one-flowers.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "0135",
-    "title": "Le cavalier de a1 à h8",
-    "grade": 8,
-    "theme": "combinatorics",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "echiquier",
-      "coloriage",
-      "parite",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "created": "2026-09-18",
-    "source": {
-      "name": "Малый мехмат МГУ, пособие для преподавателей",
-      "reference": "Ast2017.pdf, листок 15, задача 2",
-      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
-      "original_language": "ru",
-      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
-    },
-    "path": "grade-08/combinatorics/3/0135-knight-from-a1-to-h8.md",
     "sections": [
       "Going further",
       "Hints",
@@ -1086,37 +3229,6 @@
       "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
     },
     "path": "grade-08/combinatorics/3/0178-dominoes-in-a-two-by-n-strip.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "0179",
-    "title": "Des coccinelles qui changent de case",
-    "grade": 8,
-    "theme": "combinatorics",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "coloriage",
-      "principe-des-tiroirs",
-      "parite",
-      "damier",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "created": "2026-09-18",
-    "source": {
-      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
-      "reference": "Ast2017b.pdf, листок 20, задача 1",
-      "url": "https://mmmf.msu.ru/for_schools/",
-      "original_language": "ru",
-      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
-    },
-    "path": "grade-08/combinatorics/3/0179-beetles-on-a-seven-by-seven-board.md",
     "sections": [
       "Going further",
       "Hints",
@@ -1277,6 +3389,68 @@
     ]
   },
   {
+    "id": "0709",
+    "title": "Un produit de chiffres qui est pair",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "denombrement",
+      "chiffres",
+      "parite",
+      "complementaire"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 10",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0709-even-product-of-digits.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0710",
+    "title": "Trois 7, un 8 et un 9",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "denombrement",
+      "chiffres",
+      "anagrammes",
+      "parite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 25 (la question « pour aller plus loin » est l'exercice 26)",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0710-three-sevens-an-eight-and-a-nine.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0154",
     "title": "Huit tours qui ne se prennent pas",
     "grade": 8,
@@ -1362,37 +3536,6 @@
       "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
     },
     "path": "grade-08/combinatorics/4/0183-cutting-two-by-two-squares.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "0184",
-    "title": "La case qui reste libre",
-    "grade": 8,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 45,
-    "tags": [
-      "coloriage",
-      "pavage",
-      "quadrillage",
-      "symetrie",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "created": "2026-09-18",
-    "source": {
-      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
-      "reference": "Ast2017b.pdf, листок 20, задача 4",
-      "url": "https://mmmf.msu.ru/for_schools/",
-      "original_language": "ru",
-      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
-    },
-    "path": "grade-08/combinatorics/4/0184-uncovered-cell-in-a-five-by-five-square.md",
     "sections": [
       "Going further",
       "Hints",
@@ -1491,6 +3634,67 @@
     ]
   },
   {
+    "id": "0614",
+    "title": "Trois cercles et sept nombres",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 40,
+    "tags": [
+      "compter deux fois",
+      "majoration",
+      "placement de nombres"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 44, d'après une préparation aux olympiades",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-08/combinatorics/4/0614-three-circles-seven-numbers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0806",
+    "title": "Des singes et quatre sortes de fruits",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "maximum",
+      "majoration",
+      "construction",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 6, d'après Mathematical Olympiads for Middle School (Moscou), 2015",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/combinatorics/4/0806-monkeys-and-four-kinds-of-fruit.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0235",
     "title": "Trois amis ou trois inconnus",
     "grade": 8,
@@ -1544,6 +3748,368 @@
       "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
     },
     "path": "grade-08/combinatorics/5/0585-baron-chess-tournament-replays.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0626",
+    "title": "Le troisième angle du triangle",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 5,
+    "tags": [
+      "angles",
+      "triangle",
+      "somme-des-angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 36, section « Angles », en partie d'après M. Aassila, Objectif Olympiades de Mathématiques",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-08/geometry/1/0626-third-angle-of-the-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0652",
+    "title": "Le segment qui joint les pieds de deux médianes",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "mediane",
+      "milieu",
+      "theoreme-des-milieux",
+      "triangle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, problème 6",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-08/geometry/1/0652-segment-joining-the-feet-of-two-medians.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0727",
+    "title": "Trois rectangles identiques",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "rectangle",
+      "perimetre",
+      "longueur",
+      "figure"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 2, d'après AMC 2019",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/geometry/1/0727-three-identical-rectangles.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0733",
+    "title": "Deux petits cercles dans un grand",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "aire",
+      "disque",
+      "rayon",
+      "diametre"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 8, d'après AMC 2018",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/geometry/1/0733-two-small-circles-in-a-big-one.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0754",
+    "title": "Les diagonales d'un rectangle de 6 cm sur 8 cm",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 5,
+    "tags": [
+      "pythagore",
+      "rectangle",
+      "diagonale"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 30 (section « Théorème de Pythagore »)",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-08/geometry/1/0754-diagonals-of-a-6-by-8-rectangle.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0781",
+    "title": "Le rectangle 65 sur 72 est-il pythagoricien ?",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "pythagore",
+      "diagonale",
+      "carres-parfaits",
+      "rectangle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 8, questions 1 et 2, d'après Olympiades académiques de Versailles, 2007",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/geometry/1/0781-is-the-65-by-72-rectangle-pythagorean.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0827",
+    "title": "Quatre calculs avec le théorème de Thalès",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 20,
+    "tags": [
+      "thales",
+      "paralleles",
+      "longueurs"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 7",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-08/geometry/1/0827-four-computations-with-thales.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0828",
+    "title": "Deux cercles concentriques et deux rayons",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "cercle",
+      "thales",
+      "paralleles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 9",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-08/geometry/1/0828-two-concentric-circles-and-two-rays.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0829",
+    "title": "Le pentagone régulier et son centre",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "pentagone",
+      "angles",
+      "cercle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 39, d'après les stages Animath 2015, éliminatoires",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-08/geometry/1/0829-regular-pentagon-and-its-centre.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0902",
+    "title": "Deux hauteurs et deux angles égaux",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "triangle",
+      "hauteur",
+      "somme-des-angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 3, d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-08/geometry/1/0902-two-altitudes-two-equal-angles.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0903",
+    "title": "Une hauteur qui est aussi une médiane",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "triangle-isocele",
+      "mediatrice",
+      "cas-d-egalite",
+      "hauteur"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 28, d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-08/geometry/1/0903-altitude-that-is-also-a-median.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0916",
+    "title": "La hauteur qui recopie les angles",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "triangle-rectangle",
+      "hauteur",
+      "angles-complementaires"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 2, d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-08/geometry/1/0916-altitude-that-copies-the-angles.md",
     "sections": [
       "Going further",
       "Hints",
@@ -1642,6 +4208,617 @@
     ]
   },
   {
+    "id": "0630",
+    "title": "Le point de rencontre des bissectrices",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "angles",
+      "bissectrice",
+      "triangle",
+      "somme-des-angles",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 41, section « Angles », en partie d'après M. Aassila, Objectif Olympiades de Mathématiques",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-08/geometry/2/0630-where-the-bisectors-meet.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0631",
+    "title": "Deux reports dans un triangle isocèle",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "angles",
+      "triangle-isocele",
+      "calcul-dangles",
+      "angles-plats"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 52, section « Angles », USA 1977",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-08/geometry/2/0631-two-lengths-carried-over.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0654",
+    "title": "Un triangle isocèle avec un angle de 35 degrés",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "triangle-isocele",
+      "somme-des-angles",
+      "disjonction-de-cas",
+      "angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, problème 2",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-08/geometry/2/0654-isosceles-triangle-with-a-35-degree-angle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0655",
+    "title": "Un point sur la bissectrice",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "bissectrice",
+      "distance",
+      "triangles-egaux",
+      "angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, problème 3",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-08/geometry/2/0655-a-point-on-the-bisector.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0656",
+    "title": "Le plus court chemin de part et d'autre d'une droite",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "inegalite-triangulaire",
+      "distance",
+      "minimum"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, problème 21",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-08/geometry/2/0656-shortest-path-across-a-line.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0657",
+    "title": "Les deux symétriques d'un même point",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "symetrie-axiale",
+      "triangle-isocele",
+      "angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, problème 15",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-08/geometry/2/0657-the-two-reflections-of-one-point.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0684",
+    "title": "Le plus petit angle du triangle",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "triangle",
+      "angles",
+      "equation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 23, d'après la Coupe Animath de printemps 2018",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-08/geometry/2/0684-smallest-angle-of-the-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0726",
+    "title": "La longueur X dans la figure en croix",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "figure",
+      "angles droits",
+      "longueurs",
+      "tour complet"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 1, d'après AMC 2012",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/geometry/2/0726-the-length-x-in-the-cross-figure.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0728",
+    "title": "Un mètre de laine suffira-t-il ?",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "perimetre",
+      "demi-cercle",
+      "longueur",
+      "rayon"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 3, d'après Entraînement pour les olympiades de mathématiques 2017",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/geometry/2/0728-will-one-metre-of-wool-be-enough.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0730",
+    "title": "Trois cercles aux coins d'un rectangle",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "aire",
+      "disque",
+      "rectangle",
+      "quart de disque"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 5, d'après AMC 2014",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/geometry/2/0730-three-circles-at-the-corners-of-a-rectangle.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0732",
+    "title": "Deux moitiés de même périmètre",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "aire",
+      "triangle",
+      "perimetre",
+      "partage"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 7, d'après AMC 2017",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/geometry/2/0732-two-halves-with-the-same-perimeter.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0757",
+    "title": "Le côté du losange",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "pythagore",
+      "losange",
+      "diagonales"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 32 (section « Théorème de Pythagore »)",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-08/geometry/2/0757-side-of-a-rhombus-from-its-diagonals.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0831",
+    "title": "Une somme de rapports qui fait 1",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "thales",
+      "losange",
+      "paralleles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 12",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-08/geometry/2/0831-sum-of-ratios-equal-to-one.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0833",
+    "title": "Un polygone régulier à 120 côtés",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "polygone",
+      "angles",
+      "isocele"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 40, d'après les stages Animath 2015, éliminatoires",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-08/geometry/2/0833-regular-polygon-with-120-sides.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0837",
+    "title": "Cinq fois l'angle au sommet",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "bissectrice",
+      "angles",
+      "isocele"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, exercice 27",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-08/geometry/2/0837-five-times-the-apex-angle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0878",
+    "title": "L'aire du triangle des milieux",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "milieux",
+      "droite des milieux",
+      "aire",
+      "triangle"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0830"
+    ],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 22, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-08/geometry/2/0878-medial-triangle-area.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0904",
+    "title": "La bissectrice et la parallèle",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "bissectrice",
+      "paralleles",
+      "angles-alternes-internes",
+      "triangle-isocele"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 5, d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-08/geometry/2/0904-bisector-and-the-parallel.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0905",
+    "title": "Un angle caché dans un triangle à 80 degrés",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "triangle-isocele",
+      "chasse-aux-angles",
+      "somme-des-angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 17 (USA, 1977), d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-08/geometry/2/0905-hidden-angle-in-the-eighty-degree-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0906",
+    "title": "Deux projections sur une médiane",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "mediane",
+      "cas-d-egalite",
+      "angles-opposes-par-le-sommet",
+      "projection"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 30, d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-08/geometry/2/0906-two-projections-on-a-median.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0907",
+    "title": "Le carré de côté 8 et le segment de 10",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "carre",
+      "theoreme-de-pythagore",
+      "triangle-rectangle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 40 (Chine, 1999), d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-08/geometry/2/0907-square-of-side-eight-and-segment-of-ten.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0226",
     "title": "Deux bissectrices perpendiculaires",
     "grade": 8,
@@ -1695,6 +4872,535 @@
       "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
     },
     "path": "grade-08/geometry/3/0452-rectangle-laid-over-a-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0633",
+    "title": "Un point au bout de la diagonale",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "carre",
+      "diagonale",
+      "symetrie-axiale",
+      "triangle-equilateral",
+      "calcul-dangles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 14, section « Problèmes divers », d'après E. H. Bakaev, 2017",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-08/geometry/3/0633-a-point-beyond-the-diagonal.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0636",
+    "title": "Le quadrilatère à trois côtés égaux",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "quadrilatere",
+      "angles",
+      "triangle-isocele",
+      "mediatrice",
+      "calcul-dangles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 16, section « Problèmes divers », d'après M. A. Volchkevich, 2020",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-08/geometry/3/0636-quadrilateral-with-three-equal-sides.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0659",
+    "title": "Trois points alignés dans un triangle rectangle",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "symetrie-axiale",
+      "triangle-rectangle",
+      "alignement",
+      "angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, problème 13",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-08/geometry/3/0659-three-collinear-points-in-a-right-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0660",
+    "title": "Le triangle équilatéral caché dans le carré",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "carre",
+      "triangle-equilateral",
+      "triangle-isocele",
+      "chasse-aux-angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, problème 8, d'après la Coupe Animath de printemps 2021, problème 3",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-08/geometry/3/0660-equilateral-triangle-inside-a-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0661",
+    "title": "Le pied de la hauteur et le milieu du côté",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "triangle-isocele",
+      "hauteur",
+      "mediatrice",
+      "symetrie-centrale",
+      "chasse-aux-angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, problème 9, d'après la Coupe Animath de printemps 2022, problème 2",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-08/geometry/3/0661-foot-of-the-altitude-and-the-midpoint.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0662",
+    "title": "Trois bissectrices et un alignement",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "bissectrice",
+      "angles-adjacents",
+      "demi-droites-opposees",
+      "alignement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, problème 14",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-08/geometry/3/0662-three-bisectors-and-an-alignment.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0729",
+    "title": "Le cercle découpé en quatre arcs",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "aire",
+      "cercle",
+      "quart de disque",
+      "pythagore",
+      "carre"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 4, d'après AMC 2012",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/geometry/3/0729-circle-cut-into-four-arcs.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0731",
+    "title": "Les ailes de chauve-souris",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "aire",
+      "rectangle",
+      "triangle",
+      "thales",
+      "symetrie"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 6, d'après AMC 2016",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/geometry/3/0731-the-bat-wings.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0734",
+    "title": "Un carré d'aire 4 dans un carré d'aire 5",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "aire",
+      "carre",
+      "decoupage",
+      "triangle rectangle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 9, d'après AMC 2012",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/geometry/3/0734-square-of-area-4-inside-a-square-of-area-5.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0735",
+    "title": "Le ballon qui roule sur trois demi-cercles",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "perimetre",
+      "demi-cercle",
+      "rayon",
+      "roulement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 10, d'après AMC 2013",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/geometry/3/0735-ball-rolling-on-three-semicircles.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0736",
+    "title": "Les six demi-cercles empilés",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "aire",
+      "demi-cercle",
+      "decoupage",
+      "trapeze"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 12, d'après Olympiades inter-académiques de mathématiques, quatrième, 2019",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/geometry/3/0736-six-stacked-semicircles.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0777",
+    "title": "L'escargot qui rebondit sur les murs",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 35,
+    "tags": [
+      "pythagore",
+      "thales",
+      "reflexion",
+      "proportionnalite",
+      "alignement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 2, d'après Olympiades académiques de Versailles, 2006",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/geometry/3/0777-snail-bouncing-off-the-garden-walls.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0784",
+    "title": "Le ruban autour de sept tuyaux",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "perimetre",
+      "cercle",
+      "tangentes",
+      "hexagone",
+      "angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 11, d'après Olympiades académiques de Versailles, 2010",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/geometry/3/0784-tape-around-seven-pipes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0838",
+    "title": "L'aire d'un quadrilatère dans un losange",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "losange",
+      "aire",
+      "milieux"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 41, d'après les stages Animath 2015, éliminatoires",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-08/geometry/3/0838-area-of-a-quadrilateral-in-a-rhombus.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0879",
+    "title": "Les milieux d'un rectangle, les milieux d'un losange",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "milieux",
+      "droite des milieux",
+      "rectangle",
+      "losange",
+      "diagonales"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 23, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-08/geometry/3/0879-midpoints-rectangle-rhombus.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0908",
+    "title": "L'hypoténuse double d'un côté",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "triangle-rectangle",
+      "symetrie-axiale",
+      "triangle-equilateral",
+      "trente-degres"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 9, d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-08/geometry/3/0908-hypotenuse-twice-a-leg.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0909",
+    "title": "Quatre longueurs égales et un angle de 140 degrés",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "triangle-isocele",
+      "angle-exterieur",
+      "chasse-aux-angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 16 (USA, 1978), d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-08/geometry/3/0909-four-equal-lengths-and-a-140-degree-angle.md",
     "sections": [
       "Going further",
       "Hints",
@@ -1765,6 +5471,38 @@
     ]
   },
   {
+    "id": "0780",
+    "title": "Le losange caché dans le carré",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 40,
+    "tags": [
+      "medianes",
+      "centre-de-gravite",
+      "losange",
+      "diagonales",
+      "aire"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 6, d'après Olympiades académiques de Versailles, 2007",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-08/geometry/4/0780-rhombus-hidden-in-the-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0160",
     "title": "Un damier privé d'une case",
     "grade": 8,
@@ -1788,6 +5526,35 @@
       "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
     },
     "path": "grade-08/geometry/5/0160-board-minus-one-cell-trominoes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0653",
+    "title": "Sept cent trente-trois élèves",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "principe-des-tiroirs",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle », section « Principe des tiroirs »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, problème 35",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-08/logic-reasoning/1/0653-seven-hundred-thirty-three-pupils.md",
     "sections": [
       "Going further",
       "Hints",
@@ -1848,6 +5615,66 @@
       "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
     },
     "path": "grade-08/logic-reasoning/2/0426-theos-age.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0707",
+    "title": "Les carottes du potager",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "invariant",
+      "parite",
+      "impossibilite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 51, envoi POFM 2021-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/logic-reasoning/2/0707-the-carrots-in-the-vegetable-patch.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0708",
+    "title": "Cinquante pièces à retourner",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "invariant",
+      "parite",
+      "impossibilite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 49, envoi POFM 2020-2021",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/logic-reasoning/2/0708-fifty-coins-to-turn-over.md",
     "sections": [
       "Going further",
       "Hints",
@@ -2007,71 +5834,6 @@
     ]
   },
   {
-    "id": "0505",
-    "title": "Deux coins découpés",
-    "grade": 8,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "damier",
-      "dominos",
-      "coloriage",
-      "pavage",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "created": "2026-09-18",
-    "source": {
-      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
-      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 1",
-      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
-      "original_language": "ru",
-      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
-    },
-    "path": "grade-08/logic-reasoning/3/0505-two-corners-cut-from-a-6x6-board.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "0506",
-    "title": "Le grand remue-ménage",
-    "grade": 8,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "damier",
-      "coloriage",
-      "parite",
-      "tiroirs",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "0278"
-    ],
-    "created": "2026-09-18",
-    "source": {
-      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
-      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 2 «Переполох»",
-      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
-      "original_language": "ru",
-      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
-    },
-    "path": "grade-08/logic-reasoning/3/0506-beetles-on-a-5x5-square.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "0552",
     "title": "Le chevalier, le menteur et l'espion",
     "grade": 8,
@@ -2124,6 +5886,190 @@
       "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
     },
     "path": "grade-08/logic-reasoning/3/0582-oldest-and-best-chess-mathematician.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0634",
+    "title": "Les pivoines et les tulipes",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "raisonnement",
+      "comptage",
+      "ordre",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 5, section « Problèmes divers », d'après A. V. Shapovalov",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0634-peonies-and-tulips.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0713",
+    "title": "Les douze arêtes du cube",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "cube",
+      "somme",
+      "double-comptage",
+      "impossibilite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercices 34 et 39 (le même problème, posé deux fois ; l'exercice 39 est un envoi POFM 2012-2013)",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0713-the-twelve-edges-of-a-cube.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0714",
+    "title": "Dix-huit sommes toutes différentes ?",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "tiroirs",
+      "echiquier",
+      "somme",
+      "impossibilite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 44, envoi POFM 2018-2019",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0714-eighteen-sums-all-different.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0740",
+    "title": "Des pièces, des boîtes et des maisons",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "comptage double",
+      "encadrement",
+      "raisonnement par l absurde"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 27, d'après Coupe Animath d'Automne 2018, P1",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0740-coins-boxes-and-houses.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0805",
+    "title": "Deux pizzas pour cinq enfants",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "logique",
+      "disjonction-de-cas",
+      "contraintes"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 5, d'après Mathematical Olympiads for Middle School (Moscou), 2015",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0805-two-pizzas-for-five-children.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0877",
+    "title": "Vingt-trois allumettes sur la table",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "jeu",
+      "strategie gagnante",
+      "multiples",
+      "division euclidienne"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 3, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0877-twenty-three-matches.md",
     "sections": [
       "Going further",
       "Hints",
@@ -2435,6 +6381,370 @@
     ]
   },
   {
+    "id": "0739",
+    "title": "Le foot à trois",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "denombrement",
+      "comptage double",
+      "parite",
+      "alternance"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0689"
+    ],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024",
+      "reference": "Péparation.OMCollege.pdf, exercice 25, d'après Coupe Animath d'Automne 2017, P3",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.pdf"
+    },
+    "path": "grade-08/logic-reasoning/4/0739-three-person-football.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0681",
+    "title": "La moyenne d'âge du second groupe",
+    "grade": 8,
+    "theme": "probability-statistics",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "moyenne",
+      "effectifs",
+      "statistiques"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 20",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-08/probability-statistics/2/0681-average-age-of-the-second-group.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0677",
+    "title": "La somme de deux carrés et leur double produit",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 1,
+    "duration_min": 5,
+    "tags": [
+      "inegalite",
+      "identite-remarquable",
+      "carres"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 5",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-09/algebra/1/0677-sum-of-two-squares-versus-double-product.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0753",
+    "title": "La différence 2020² − 2019²",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 1,
+    "duration_min": 5,
+    "tags": [
+      "identite-remarquable",
+      "difference-de-carres",
+      "calcul-mental"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 14",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-09/algebra/1/0753-difference-2020-squared-2019-squared.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0855",
+    "title": "La somme vaut 8, et le reste ?",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "identites remarquables",
+      "calcul litteral",
+      "carre d une somme"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 32, section « Divers »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-09/algebra/1/0855-sum-is-eight-what-follows.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0608",
+    "title": "Deux nombres dont les carrés diffèrent de 6",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "identites remarquables",
+      "difference de carres",
+      "calcul litteral"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 45, Coupe Animath 2015, éliminatoires",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-09/algebra/2/0608-two-numbers-squares-differ-by-six.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0678",
+    "title": "Cinq inégalités, une seule idée",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "inegalite",
+      "identite-remarquable",
+      "carres",
+      "calcul-litteral"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 7",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-09/algebra/2/0678-five-inequalities-one-idea.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0683",
+    "title": "Des crayons et des classeurs",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "systeme",
+      "equations",
+      "prix",
+      "decimaux"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 22, d'après la Coupe Animath de printemps 2019",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-09/algebra/2/0683-pencils-and-binders.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0758",
+    "title": "Une équation qui se factorise",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "identite-remarquable",
+      "factorisation",
+      "equation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 13",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-09/algebra/2/0758-equation-that-factors-into-a-square.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0759",
+    "title": "Une égalité de fractions, un rapport de carrés",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "produit-en-croix",
+      "fractions",
+      "calcul-litteral"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 24",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-09/algebra/2/0759-ratio-of-squares-from-a-proportion.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0782",
+    "title": "Une famille de rectangles pythagoriciens",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "identites-remarquables",
+      "pythagore",
+      "demonstration",
+      "diagonale"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »",
+      "reference": "Péparation.OMCollege.v2.pdf, 7 mars 2024, exercice 8, question 3, d'après Olympiades académiques de Versailles, 2007",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf"
+    },
+    "path": "grade-09/algebra/2/0782-a-family-of-pythagorean-rectangles.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0880",
+    "title": "Une somme qui ne descend jamais sous 2y",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "inegalite",
+      "identites remarquables",
+      "fractions",
+      "cas d egalite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 10, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-09/algebra/2/0880-sum-never-below-2y.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0152",
     "title": "Le plus grand rectangle de périmètre 4",
     "grade": 9,
@@ -2617,6 +6927,130 @@
     ]
   },
   {
+    "id": "0682",
+    "title": "Augmenté de 75 % quand les chiffres s'inversent",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "chiffres",
+      "pourcentage",
+      "equation",
+      "entiers"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 21",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-09/algebra/3/0682-increased-by-75-percent-when-the-digits-swap.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0762",
+    "title": "Deux grands nombres qui ne sont pas premiers",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "identite-remarquable",
+      "nombre-premier",
+      "factorisation",
+      "puissances"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercices 25 et 26",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-09/algebra/3/0762-two-large-numbers-that-are-not-prime.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0862",
+    "title": "Le tableau qui double et qui triple",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "tableau",
+      "calcul litteral",
+      "factorisation",
+      "fractions"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 25, section « Équations »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-09/algebra/3/0862-table-that-doubles-and-triples.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0863",
+    "title": "Deux produits qui font 50",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "factorisation",
+      "facteur commun",
+      "identites remarquables",
+      "equation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 28, section « Divers »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-09/algebra/3/0863-two-products-making-fifty.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0409",
     "title": "Quatre entiers consécutifs",
     "grade": 9,
@@ -2699,6 +7133,197 @@
       "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
     },
     "path": "grade-09/algebra/4/0533-farmer-haystack-impossible-rates.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0615",
+    "title": "Une somme qui se télescope",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 45,
+    "tags": [
+      "fractions",
+      "telescopage",
+      "majoration",
+      "nombres impairs"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0865"
+    ],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 35",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-09/algebra/4/0615-a-sum-that-telescopes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0715",
+    "title": "Six paniers de fruits",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "somme",
+      "mise-en-equation",
+      "divisibilite",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
+      "reference": "Combinatoire.Invariants.pdf, exercice 52, envoi POFM 2022-2023",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
+    },
+    "path": "grade-09/algebra/4/0715-six-baskets-of-fruit.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0865",
+    "title": "Une somme de 671 fractions",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "fractions",
+      "somme telescopique",
+      "calcul litteral",
+      "suites"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0615"
+    ],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 49, section « Fractions »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-09/algebra/4/0865-sum-of-671-fractions.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0885",
+    "title": "Trois sommes qui se suivent",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "entiers consecutifs",
+      "systeme",
+      "parite",
+      "calcul litteral"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 17, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-09/algebra/4/0885-three-consecutive-sums.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0640",
+    "title": "Deux règles et l'entier 13",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 5,
+    "duration_min": 45,
+    "tags": [
+      "ensembles",
+      "implication",
+      "identite-remarquable",
+      "developpement",
+      "raisonnement-de-proche-en-proche"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 34, section « Ensembles » (marqué d'une étoile dans la feuille)",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-09/algebra/5/0640-two-rules-and-the-integer-13.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0679",
+    "title": "Un produit de cinquante fractions",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 5,
+    "duration_min": 40,
+    "tags": [
+      "inegalite",
+      "fractions",
+      "produit",
+      "telescopage"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 17",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-09/algebra/5/0679-product-of-fifty-fractions.md",
     "sections": [
       "Going further",
       "Hints",
@@ -2971,6 +7596,223 @@
       "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
     },
     "path": "grade-09/arithmetic/3/0553-two-missing-digits-multiple-of-72.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0613",
+    "title": "Un nombre premier caché dans x² + x + y = 58",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "parite",
+      "nombres premiers",
+      "entiers consecutifs"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »",
+      "reference": "Algebre.pdf, exercice 20",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Algebre.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0613-prime-hidden-in-x-squared-plus-x-plus-y.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0688",
+    "title": "Le nombre qui perd 9999",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "chiffres",
+      "equation",
+      "divisibilite",
+      "entiers"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 42",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0688-the-number-that-loses-9999.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0864",
+    "title": "Quand la somme égale le produit",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "equation entiere",
+      "factorisation",
+      "entiers naturels",
+      "diviseurs"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0760"
+    ],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 29, section « Divers »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0864-when-sum-equals-product.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0868",
+    "title": "Trois quotients qu'on voudrait entiers",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "divisibilite",
+      "division euclidienne",
+      "diviseurs",
+      "entiers naturels"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024",
+      "reference": "Nombres.Introduction.pdf, exercice 47, section « Fractions »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Nombres.Introduction.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0868-three-quotients-we-want-integer.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0881",
+    "title": "Toujours divisible par 6",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "divisibilite",
+      "factorisation",
+      "entiers consecutifs",
+      "parite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 7, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0881-always-divisible-by-six.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0882",
+    "title": "Une différence de carrés qui vaudrait 3",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "identites remarquables",
+      "equations entieres",
+      "nombres premiers",
+      "restes"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 5, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0882-difference-of-squares-equal-three.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0883",
+    "title": "Quand n divise deux puissance n",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "divisibilite",
+      "puissances",
+      "facteurs premiers",
+      "decomposition"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 4, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0883-when-n-divides-two-to-the-n.md",
     "sections": [
       "Going further",
       "Hints",
@@ -3379,6 +8221,293 @@
     ]
   },
   {
+    "id": "0639",
+    "title": "Quatre chiffres et un multiple de 99",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "divisibilite",
+      "chiffres",
+      "ecriture-decimale",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 33, section « Ensembles »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0639-four-digits-and-a-multiple-of-99.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0884",
+    "title": "Les cent billes d'Alice",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "restes",
+      "carres",
+      "principe des tiroirs",
+      "pire des cas"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 6, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0884-alices-hundred-marbles.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0690",
+    "title": "Un nombre à cinq chiffres et son renversé",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 5,
+    "duration_min": 45,
+    "tags": [
+      "chiffres",
+      "parite",
+      "retenues",
+      "addition"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 50, d'après la Coupe Animath de printemps 2017, problème 2",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-09/arithmetic/5/0690-five-digit-number-and-its-reverse.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0278",
+    "title": "Les coccinelles du plateau 5 × 5",
+    "grade": 9,
+    "theme": "coloring",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "coloriage",
+      "damier",
+      "invariant",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0506"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 4, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/coloring/3/0278-ladybirds-on-a-5x5-board.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0507",
+    "title": "Le voyage du cavalier",
+    "grade": 9,
+    "theme": "coloring",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "echiquier",
+      "cavalier",
+      "coloriage",
+      "parite",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0135"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 3 «Путешествие коня»",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/coloring/3/0507-knights-journey-from-a1-to-h8.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0508",
+    "title": "Des bandes de quatre cases",
+    "grade": 9,
+    "theme": "coloring",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "damier",
+      "pavage",
+      "coloriage",
+      "bandes",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/coloring/4/0508-tiling-10x10-with-1x4-strips.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0509",
+    "title": "Onze bandes et un coin",
+    "grade": 9,
+    "theme": "coloring",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "damier",
+      "pavage",
+      "coloriage",
+      "divisibilite",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/coloring/4/0509-eleven-strips-and-one-corner.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0510",
+    "title": "Quinze couchés, dix-sept debout",
+    "grade": 9,
+    "theme": "coloring",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "damier",
+      "dominos",
+      "coloriage",
+      "parite",
+      "pavage"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 4 «Раскраски-2», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/coloring/4/0510-fifteen-horizontal-and-seventeen-vertical-dominoes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0814",
+    "title": "Les lézards du carré 9 × 9",
+    "grade": 9,
+    "theme": "coloring",
+    "difficulty": 5,
+    "duration_min": 45,
+    "tags": [
+      "coloriage",
+      "bandes",
+      "minimum",
+      "construction",
+      "diagonale"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0179"
+    ],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 18, d'après Arthur Engel, « Solutions d'expert »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-09/coloring/5/0814-lizards-on-a-nine-by-nine-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0405",
     "title": "La somme d'une ligne du triangle de Pascal",
     "grade": 9,
@@ -3774,6 +8903,36 @@
     ]
   },
   {
+    "id": "0826",
+    "title": "Un triangle semblable à lui-même dans l'autre sens",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "similitude",
+      "isocele",
+      "triangle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 1",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-09/geometry/1/0826-triangle-similar-to-itself-reversed.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0002",
     "title": "Un triangle dans un carré",
     "grade": 9,
@@ -3796,6 +8955,129 @@
       "local_copy": ""
     },
     "path": "grade-09/geometry/2/0002-area-of-triangle-in-a-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0766",
+    "title": "Les côtés dans le rapport 2 sur 3",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "pythagore",
+      "triangle-rectangle",
+      "proportion",
+      "racine-carree"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 39 (section « Théorème de Pythagore »)",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-09/geometry/2/0766-right-triangle-legs-in-ratio-two-to-three.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0830",
+    "title": "Les quatre triangles des milieux",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "milieux",
+      "similitude",
+      "triangle"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0878"
+    ],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 2",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-09/geometry/2/0830-the-four-midpoint-triangles.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0832",
+    "title": "Un angle de 30 degrés et une parallèle",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "thales",
+      "triangle-rectangle",
+      "angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 8",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-09/geometry/2/0832-thirty-degree-angle-and-a-parallel.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0887",
+    "title": "Trois droites concourantes et des parallèles",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 25,
+    "tags": [
+      "theoreme de thales",
+      "parallelisme",
+      "rapports",
+      "droites concourantes"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 21, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-09/geometry/2/0887-concurrent-lines-and-parallels.md",
     "sections": [
       "Going further",
       "Hints",
@@ -4106,6 +9388,284 @@
     ]
   },
   {
+    "id": "0763",
+    "title": "Le périmètre du trapèze isocèle",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "pythagore",
+      "trapeze",
+      "hauteur",
+      "perimetre"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 36 (section « Théorème de Pythagore »)",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-09/geometry/3/0763-perimeter-of-an-isosceles-trapezoid.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0764",
+    "title": "Le quadrilatère aux diagonales perpendiculaires",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "pythagore",
+      "quadrilatere",
+      "diagonales",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 42 (section « Théorème de Pythagore »)",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-09/geometry/3/0764-quadrilateral-with-perpendicular-diagonals.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0834",
+    "title": "Quatre points sur un cercle et deux cordes",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "cercle",
+      "angle-inscrit",
+      "similitude"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 4",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-09/geometry/3/0834-four-points-on-a-circle-two-chords.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0835",
+    "title": "Trois produits dans le triangle rectangle",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "triangle-rectangle",
+      "hauteur",
+      "similitude"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0410"
+    ],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 3",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-09/geometry/3/0835-three-products-in-a-right-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0836",
+    "title": "Pythagore quand l'angle n'est pas droit",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "pythagore",
+      "hauteur",
+      "longueurs"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 19",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-09/geometry/3/0836-pythagoras-when-the-angle-is-not-right.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0886",
+    "title": "Reconnaître un angle de 60 degrés",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "triangle rectangle",
+      "mediane",
+      "hypotenuse",
+      "triangle equilateral",
+      "equivalence"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 25, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-09/geometry/3/0886-recognising-a-sixty-degree-angle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0910",
+    "title": "Trente degrés dans un triangle isocèle",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "triangle-isocele",
+      "chasse-aux-angles",
+      "somme-des-angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 13 (USA, 1956), d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-09/geometry/3/0910-thirty-degrees-in-an-isosceles-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0911",
+    "title": "Quarante-cinq degrés et deux hauteurs",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "hauteur",
+      "orthocentre",
+      "triangle-rectangle-isocele",
+      "cas-d-egalite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 24, d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-09/geometry/3/0911-forty-five-degrees-and-two-altitudes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0912",
+    "title": "La bissectrice qui partage le côté en deux parts égales",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "bissectrice",
+      "mediane",
+      "triangle-isocele",
+      "cas-d-egalite",
+      "symetrie-centrale"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 29, d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-09/geometry/3/0912-bisector-that-is-also-a-median.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0354",
     "title": "Une différence de côtés égale à la bissectrice",
     "grade": 9,
@@ -4259,6 +9819,348 @@
     ]
   },
   {
+    "id": "0663",
+    "title": "Deux longueurs reportées sur le plus grand côté",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "triangle-isocele",
+      "inegalite-triangulaire",
+      "somme-des-angles",
+      "chasse-aux-angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, problème 10, d'après la Coupe Animath de printemps 2022, problème 4",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-09/geometry/4/0663-two-lengths-marked-on-the-longest-side.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0664",
+    "title": "La somme qui redonne l'hypoténuse",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "bissectrice",
+      "triangle-isocele",
+      "symetrie-axiale",
+      "triangle-rectangle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, exercice 29, d'après l'Olympiade nationale de Roumanie 2013",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-09/geometry/4/0664-the-sum-that-gives-back-the-hypotenuse.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0765",
+    "title": "Deux relations pour la hauteur",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "pythagore",
+      "hauteur",
+      "triangle-rectangle",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024",
+      "reference": "CalculLitteral.pdf, exercice 43 (section « Théorème de Pythagore »)",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/CalculLitteral.pdf"
+    },
+    "path": "grade-09/geometry/4/0765-two-relations-for-the-altitude.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0809",
+    "title": "Un angle de 60 degrés et le tiers du périmètre",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "triangle",
+      "equilateral",
+      "pythagore",
+      "identite-remarquable"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »",
+      "reference": "Moscou.Coloriage.pdf, exercice 11, d'après Mathematical Olympiads for Middle School (Moscou), 2016",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Moscou.Coloriage.pdf"
+    },
+    "path": "grade-09/geometry/4/0809-sixty-degree-angle-and-a-third-of-the-perimeter.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0839",
+    "title": "Les deux pieds de hauteur et le milieu",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "hauteur",
+      "milieu",
+      "mediatrice",
+      "similitude"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, exercice 28",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-09/geometry/4/0839-two-altitude-feet-and-the-midpoint.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0841",
+    "title": "Le centre de gravité coupe les médianes au tiers",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "mediane",
+      "milieux",
+      "parallelogramme"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024",
+      "reference": "Geometrie.pdf, problème 15",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometrie.pdf"
+    },
+    "path": "grade-09/geometry/4/0841-centroid-cuts-medians-in-thirds.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0913",
+    "title": "Quatre égalités qui fixent l'angle B",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "triangle-isocele",
+      "angle-exterieur",
+      "chasse-aux-angles",
+      "equation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 14 (USA, 1961), d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-09/geometry/4/0913-four-equalities-fix-angle-b.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0914",
+    "title": "Un triangle où B vaut deux fois C",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "bissectrice",
+      "triangle-isocele",
+      "cas-d-egalite",
+      "chasse-aux-angles"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 32, d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-09/geometry/4/0914-angle-b-twice-angle-c.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0665",
+    "title": "Deux équerres posées sur un triangle",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 5,
+    "duration_min": 50,
+    "tags": [
+      "triangle-rectangle-isocele",
+      "theoreme-des-milieux",
+      "triangles-egaux",
+      "parallelogramme",
+      "milieu"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »",
+      "reference": "Angles.2.pdf, 6 octobre 2023, exercice 32",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Angles.2.pdf"
+    },
+    "path": "grade-09/geometry/5/0665-two-right-isosceles-triangles-on-a-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0915",
+    "title": "Un périmètre qui ne change pas",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 5,
+    "duration_min": 40,
+    "tags": [
+      "triangle-equilateral",
+      "cas-d-egalite",
+      "perimetre",
+      "construction-auxiliaire"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Géométrie »",
+      "reference": "Geometry.pdf, P 36 (Chine, 1991), d'après M. Aassila, « Objectif Olympiades de Mathématiques — Géométrie 1 »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Geometry.pdf"
+    },
+    "path": "grade-09/geometry/5/0915-perimeter-that-never-changes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0628",
+    "title": "Deux familles de nombres impairs",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 1,
+    "duration_min": 15,
+    "tags": [
+      "ensembles",
+      "union",
+      "intersection",
+      "cardinal",
+      "nombres-impairs"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 18, section « Ensembles »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-09/logic-reasoning/1/0628-two-families-of-odd-numbers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0276",
     "title": "Victor et les rectangles",
     "grade": 9,
@@ -4289,31 +10191,30 @@
     ]
   },
   {
-    "id": "0278",
-    "title": "Les coccinelles du plateau 5 × 5",
+    "id": "0632",
+    "title": "Retrouver X et Y",
     "grade": 9,
     "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 25,
+    "difficulty": 2,
+    "duration_min": 20,
     "tags": [
-      "coloriage",
-      "damier",
-      "invariant",
-      "denombrement"
+      "ensembles",
+      "union",
+      "intersection",
+      "produit-cartesien",
+      "couples"
     ],
     "adapted_from": null,
-    "see_also": [
-      "0506"
-    ],
-    "created": "2026-09-18",
+    "see_also": [],
+    "created": "2026-09-19",
     "source": {
-      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
-      "reference": "AU.pdf, листок 4, задача 6",
-      "url": "https://mmmf.msu.ru/for_schools/",
-      "original_language": "ru",
-      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 17, section « Ensembles »",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
     },
-    "path": "grade-09/logic-reasoning/3/0278-ladybirds-on-a-5x5-board.md",
+    "path": "grade-09/logic-reasoning/2/0632-find-x-and-y.md",
     "sections": [
       "Going further",
       "Hints",
@@ -4502,29 +10403,29 @@
     ]
   },
   {
-    "id": "0507",
-    "title": "Le voyage du cavalier",
+    "id": "0637",
+    "title": "Trois règles pour atteindre 11",
     "grade": 9,
     "theme": "logic-reasoning",
     "difficulty": 3,
-    "duration_min": 20,
+    "duration_min": 25,
     "tags": [
-      "echiquier",
-      "cavalier",
-      "coloriage",
-      "parite",
-      "demonstration"
+      "ensembles",
+      "implication",
+      "raisonnement-a-rebours",
+      "puissances-de-trois"
     ],
     "adapted_from": null,
-    "created": "2026-09-18",
+    "see_also": [],
+    "created": "2026-09-19",
     "source": {
-      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
-      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 3 «Путешествие коня»",
-      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
-      "original_language": "ru",
-      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 35, section « Ensembles » (marqué d'une étoile dans la feuille)",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
     },
-    "path": "grade-09/logic-reasoning/3/0507-knights-journey-from-a1-to-h8.md",
+    "path": "grade-09/logic-reasoning/3/0637-three-rules-to-reach-11.md",
     "sections": [
       "Going further",
       "Hints",
@@ -4747,99 +10648,6 @@
     ]
   },
   {
-    "id": "0508",
-    "title": "Des bandes de quatre cases",
-    "grade": 9,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "damier",
-      "pavage",
-      "coloriage",
-      "bandes",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "created": "2026-09-18",
-    "source": {
-      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
-      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 4",
-      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
-      "original_language": "ru",
-      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
-    },
-    "path": "grade-09/logic-reasoning/4/0508-tiling-10x10-with-1x4-strips.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "0509",
-    "title": "Onze bandes et un coin",
-    "grade": 9,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "damier",
-      "pavage",
-      "coloriage",
-      "divisibilite",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "created": "2026-09-18",
-    "source": {
-      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
-      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 6",
-      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
-      "original_language": "ru",
-      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
-    },
-    "path": "grade-09/logic-reasoning/4/0509-eleven-strips-and-one-corner.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "0510",
-    "title": "Quinze couchés, dix-sept debout",
-    "grade": 9,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 25,
-    "tags": [
-      "damier",
-      "dominos",
-      "coloriage",
-      "parite",
-      "pavage"
-    ],
-    "adapted_from": null,
-    "created": "2026-09-18",
-    "source": {
-      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
-      "reference": "Kan2018.pdf, листок 4 «Раскраски-2», задача 2",
-      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
-      "original_language": "ru",
-      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
-    },
-    "path": "grade-09/logic-reasoning/4/0510-fifteen-horizontal-and-seventeen-vertical-dominoes.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "0528",
     "title": "Huit maréchaux-ferrants et dix chevaux",
     "grade": 9,
@@ -4953,6 +10761,70 @@
       "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
     },
     "path": "grade-09/logic-reasoning/4/0557-hundred-knights-hundred-liars-friends.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0638",
+    "title": "Le bal masqué de la forêt",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 40,
+    "tags": [
+      "raisonnement",
+      "denombrement",
+      "majoration",
+      "contraintes"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
+      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 9, section « Problèmes divers », d'après M. A. Khachaturyan, 2020",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0638-the-masked-ball-in-the-forest.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0689",
+    "title": "Le foot à trois",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "raisonnement",
+      "denombrement",
+      "parite",
+      "jeu"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0739"
+    ],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023",
+      "reference": "Inégalités.pdf, exercice 47, d'après la Coupe Animath d'automne 2017, problème 3",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Inégalités.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0689-three-player-football.md",
     "sections": [
       "Going further",
       "Hints",
@@ -5084,6 +10956,36 @@
     ]
   },
   {
+    "id": "0888",
+    "title": "Une inégalité en une seule ligne",
+    "grade": 10,
+    "theme": "algebra",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "inegalite",
+      "signe d une difference",
+      "identites remarquables",
+      "cas d egalite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 13, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-10/algebra/1/0888-one-line-inequality.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0331",
     "title": "Des nombres écrits en cercle",
     "grade": 10,
@@ -5175,6 +11077,129 @@
     ]
   },
   {
+    "id": "0889",
+    "title": "Une inégalité à regrouper deux par deux",
+    "grade": 10,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "inegalite",
+      "identites remarquables",
+      "puissances",
+      "cas d egalite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 11, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-10/algebra/3/0889-pair-up-the-terms.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0890",
+    "title": "Une expression toujours positive",
+    "grade": 10,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "inegalite",
+      "somme de carres",
+      "forme canonique",
+      "cas d egalite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 12, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-10/algebra/4/0890-always-nonnegative-expression.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0891",
+    "title": "Deux d'entre eux ont une somme au plus 2",
+    "grade": 10,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "inegalite",
+      "raisonnement par l absurde",
+      "ordonner",
+      "somme de carres"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 15, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-10/algebra/4/0891-two-of-them-sum-at-most-two.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0892",
+    "title": "Trois réels de somme nulle",
+    "grade": 10,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "fractions",
+      "calcul litteral",
+      "identites",
+      "somme nulle"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 18, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-10/algebra/4/0892-three-reals-summing-to-zero.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "0283",
     "title": "Combien de participants au congrès ?",
     "grade": 10,
@@ -5197,6 +11222,37 @@
       "local_copy": "sources/originals/mmmf-msu/AU.pdf"
     },
     "path": "grade-10/arithmetic/3/0283-smallest-number-with-given-remainders.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0893",
+    "title": "Quand n + p est une puissance de n",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "nombres premiers",
+      "divisibilite",
+      "puissances",
+      "equations entieres"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 2, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-10/arithmetic/3/0893-when-n-plus-p-is-a-power-of-n.md",
     "sections": [
       "Going further",
       "Hints",
@@ -5442,6 +11498,37 @@
       "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
     },
     "path": "grade-10/arithmetic/4/0503-forbidden-digit-cancellation.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0894",
+    "title": "Sept divise la somme des carrés",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "restes",
+      "divisibilite",
+      "carres",
+      "disjonction de cas"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 8, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-10/arithmetic/4/0894-seven-divides-the-sum-of-squares.md",
     "sections": [
       "Going further",
       "Hints",
@@ -6013,6 +12100,9 @@
       "inegalite"
     ],
     "adapted_from": null,
+    "see_also": [
+      "0835"
+    ],
     "created": "2026-09-18",
     "source": {
       "name": "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015",
@@ -6022,6 +12112,38 @@
       "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
     },
     "path": "grade-10/geometry/4/0410-altitude-as-geometric-mean.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0895",
+    "title": "La perpendiculaire qui vise le milieu",
+    "grade": 10,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 40,
+    "tags": [
+      "cercle",
+      "angle inscrit",
+      "triangle rectangle",
+      "mediane",
+      "hypotenuse"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-19",
+    "source": {
+      "name": "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023",
+      "reference": "Preparation.POFM.pdf, exercice 24, d'après les envois POFM 2019-2022",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": "sources/originals/clublyon/Preparation.POFM.pdf"
+    },
+    "path": "grade-10/geometry/4/0895-cyclic-quadrilateral-perpendicular-diagonals.md",
     "sections": [
       "Going further",
       "Hints",

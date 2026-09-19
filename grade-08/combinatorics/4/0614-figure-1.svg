@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="20 18 180 172" width="330" height="315">
+<rect x="20" y="18" width="180" height="172" fill="#ffffff"/>
+<circle cx="110.00" cy="80.00" r="55.00" fill="none" stroke="#000000" stroke-width="1.4"/>
+<circle cx="84.02" cy="125.00" r="55.00" fill="none" stroke="#000000" stroke-width="1.4"/>
+<circle cx="135.98" cy="125.00" r="55.00" fill="none" stroke="#000000" stroke-width="1.4"/>
+<text x="110.00" y="55.00" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="#000000">7</text>
+<text x="70.00" y="153.00" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="#000000">6</text>
+<text x="150.00" y="153.00" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="#000000">5</text>
+<text x="82.30" y="99.00" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="#000000">1</text>
+<text x="137.70" y="99.00" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="#000000">2</text>
+<text x="110.00" y="147.00" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="#000000">3</text>
+<text x="110.00" y="117.00" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="#000000">4</text>
+</svg>

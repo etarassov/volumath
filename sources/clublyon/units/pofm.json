@@ -1,0 +1,47 @@
+{
+  "unit": "pofm",
+  "source": "clublyon",
+  "title": "Problèmes des envois POFM, 12 mai 2023",
+  "file": "sources/originals/clublyon/Preparation.POFM.pdf",
+  "pages": [
+    1,
+    2
+  ],
+  "id_block": [
+    "0876",
+    "0900"
+  ],
+  "status": "done",
+  "imported": [
+    "0876",
+    "0877",
+    "0878",
+    "0879",
+    "0880",
+    "0881",
+    "0882",
+    "0883",
+    "0884",
+    "0885",
+    "0886",
+    "0887",
+    "0888",
+    "0889",
+    "0890",
+    "0891",
+    "0892",
+    "0893",
+    "0894",
+    "0895"
+  ],
+  "skipped": [
+    "exercice 9 (a^b | b^c et a^c | c^b donc a^2 | bc) : resolu, mais la seule preuve propre passe par l'exposant de chaque nombre premier (valuation p-adique), tres au-dessus du niveau du reste de la feuille. Preuve dans les notes.",
+    "exercice 14 (2/(a+b)+2/(b+c)+2/(c+a) >= 9/(a+b+c)) : resolu et verifie numeriquement, non retenu pour ne pas importer une sixieme inegalite de la meme famille dans le meme lot. A reprendre.",
+    "exercice 16 (a + b^2 + b/a >= 3b) : resolu, mais la preuve naturelle est l'inegalite arithmetico-geometrique a trois termes, hors programme ; la route elementaire demande t = racine de b puis la factorisation t(t-1)^2(t+2), plus lourde que tout le reste de la feuille.",
+    "exercice 19 (les milieux d'un quadrilatere forment un parallelogramme, Varignon) : deja dans la base, c'est 0359 en 3e.",
+    "exercice 20 (AC = IJ dans un triangle rectangle) : resultat verifie en coordonnees, mais enonce tres long, figure indispensable et demonstration analytique sans idee ; non retenu dans ce lot."
+  ],
+  "retired_ids": [],
+  "notes": "Feuille courte : 25 exercices, 20 importes, les 5 autres sont listes dans skipped. Aucune solution dans la source : toutes les reponses ont ete redemontrees ici. Verifiees par force brute en Python : ex. 1 (p=3 seul, teste jusqu'a 200000), ex. 2 ((2,2) seul, n jusqu'a 2000 et n^k jusqu'a 10^30), ex. 3 (jeu resolu par recurrence sur les positions, Antoine gagne, positions perdantes = multiples de 5), ex. 4 (les n qui divisent 2^n jusqu'a 20000 sont exactement les puissances de 2), ex. 5 (aucune solution, x<4000 et y<2000), ex. 6 (carres modulo 7 = {0,1,2,4}), ex. 7 (n de -1000 a 1000), ex. 8 (les 343 triplets de restes modulo 7), ex. 9 (aucun contre-exemple pour a,b,c < 30), ex. 12 (identite verifiee sur 2000 triplets aleatoires), ex. 17 (a,b,c de -30 a 30, 354 triplets valides, tous consecutifs), ex. 18 (A+B = -3 verifie numeriquement, et un triplet verifiant l'hypothese donne bien A = -1). Verifiees numeriquement (echantillonnage ou grille) : ex. 10, 11, 13, 14, 15, 16. Verifiees en coordonnees : ex. 20, 21 (cas homothetique), 24 (5 configurations aleatoires), 25. 0878 (4e, aire du triangle des milieux) et 0830 (3e, les quatre triangles des milieux, autre bloc d'ids) partagent la meme figure mais posent deux questions differentes avec deux outils differents ; les deux sont gardes, see_also ajoute cote 0878, a arbitrer par le coordinateur. Preuve de l'exercice 9 pour une reprise : pour chaque nombre premier p, en notant alpha, beta, gamma les exposants de p dans a, b, c, les hypotheses donnent b*alpha <= c*beta et c*alpha <= b*gamma ; en multipliant, alpha^2 <= beta*gamma <= ((beta+gamma)/2)^2, donc 2*alpha <= beta+gamma.",
+  "updated": "2026-09-19"
+}

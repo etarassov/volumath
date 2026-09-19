@@ -1,0 +1,57 @@
+{
+  "unit": "om4e-v2",
+  "source": "clublyon",
+  "title": "Préparation Olympiades de 4ème, 7 mars 2024",
+  "file": "sources/originals/clublyon/Péparation.OMCollege.v2.pdf",
+  "pages": [
+    1,
+    8
+  ],
+  "id_block": [
+    "0776",
+    "0800"
+  ],
+  "status": "done",
+  "imported": [
+    "0776",
+    "0777",
+    "0778",
+    "0779",
+    "0780",
+    "0781",
+    "0782",
+    "0783",
+    "0784",
+    "0785",
+    "0786",
+    "0787",
+    "0788",
+    "0789",
+    "0790"
+  ],
+  "skipped": [
+    {
+      "ref": "exercice 4 (arbelos)",
+      "why": "La question 1 demande l'angle droit inscrit dans un demi-cercle et la relation CM² = CA·CB ; la question 2 demande une tangence. C'est du niveau 2de, au-dessus de la cible de la feuille. La question 1 seule ferait un bon exercice de 3e ou 2de, à reprendre plus tard."
+    },
+    {
+      "ref": "exercice 7 (sommes d'inverses valant 1)",
+      "why": "Déjà dans la base : 0177 « L'unité en 2017 fractions différentes » (4e, ****) couvre la question 5, et son « Pour aller plus loin » couvre les questions 1 à 4. Doublon écarté avant écriture."
+    },
+    {
+      "ref": "exercice 8, question 4 (rectangle PQRS inscrit dans le cercle)",
+      "why": "Les questions 1 à 3 sont importées (0781 et 0782). La question 4 demande l'équation d'un cercle, ou Thalès suivi d'une factorisation, donc 3e/2de, et le paragraphe final sur le point T n'est qu'une remarque sans question."
+    },
+    {
+      "ref": "exercice 9 (suite de motifs, Versailles 2010)",
+      "why": "Figure lisible à 300 dpi (pdftoppm -r 300), mais le motif de l'étape 1 est un carré penché dont les sommets ne tombent pas sur des nœuds du quadrillage : son aire en carreaux n'est pas déterminable avec certitude sur le scan, et tout l'exercice en dépend. Pas importé plutôt que deviné."
+    },
+    {
+      "ref": "exercice 12 (jeu de découpage des triangles équilatéraux)",
+      "why": "Figures lisibles à 300 dpi : figure 1 = bande de 5 petits triangles (le noir au milieu), figure 2 = grand triangle de côté 3 (9 petits triangles, le noir au centre de la rangée du bas). Question 1 résolue et vérifiée par programme : le jeu de la bande équivaut au Nim misère à deux tas (a,b) = nombre de triangles à gauche et à droite du noir, départ (2,2) ; les positions perdantes pour celui qui reçoit sont (0,1), (1,0) et (a,a) avec a >= 2, donc Amandine perd et Benjamin gagne. Non importé uniquement parce que le quota de 15 exercices était atteint, et parce que la question 2 (triangle de côté 3) demande une analyse de jeu complète encore à faire. Très bon candidat pour une reprise."
+    }
+  ],
+  "retired_ids": [],
+  "notes": "Feuille sans solutions : toutes les solutions ont été écrites ici, et toutes les réponses ont été vérifiées par programme (Python). Vérifications : ex. 1 (2006 chiffres, somme des chiffres 18047) ; ex. 2 (PN = 2,25 m et H, P, E non alignés) ; ex. 3 (produits maximaux de 7 et de 28, par force brute sur toutes les décompositions) ; ex. 5 (N mod 9 = 0, N mod 81 = 0, N mod 243 = 81) ; ex. 6 (AMCN losange, aire 1/3) ; ex. 8 (65² + 72² = 97² ; identité (p²-q²)² + (2pq)² = (p²+q²)² testée pour tous p > q jusqu'à 30) ; ex. 10 (601) ; ex. 11 (longueurs 240 + 20π et 120 + 20π, recalculées par enveloppe convexe des centres) ; ex. 13 (04:36 et 09:09) ; ex. 14 (périmètre 46, aires 126, 130, 132, largeur 7 impossible, par énumération complète) ; ex. 15 (quatre jeux pour 40, deux pour 34, neuf scores à trois fléchettes, non-scores 1 2 3 4 6 8 9 13) ; ex. 16 (étape 6 pour la carpette, étape 3 pour l'éponge). Les réponses des rubriques « Pour aller plus loin » ont aussi été vérifiées. L'exercice 15 a donné trois fichiers (0787, 0788, 0789) et l'exercice 8 deux (0781 en 4e, 0782 en 3e). Ids 0791 à 0800 non utilisés.",
+  "updated": "2026-09-19"
+}
