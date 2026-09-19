@@ -6,14 +6,503 @@
   "4401",
   "4600"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 106,
  "sessions_with_answers": 41,
- "next_session": 0,
- "imported": [],
- "skipped": [],
- "retired_ids": [],
- "notes": "",
+ "next_session": 3,
+ "imported": [
+  {
+   "id": "4401",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 1,
+   "title": "Deux pourcentages croisés",
+   "session": "737",
+   "file": "Handout-619-737.pdf",
+   "ref": "devoir maison, question 1"
+  },
+  {
+   "id": "4402",
+   "grade": 8,
+   "theme": "geometry",
+   "difficulty": 1,
+   "title": "Le jardin transformé en carré",
+   "session": "699",
+   "file": "Handout-572-699.pdf",
+   "ref": "AMC 8 1999, problème 5"
+  },
+  {
+   "id": "4403",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 1,
+   "title": "Somme des chiffres égale à 8",
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 22"
+  },
+  {
+   "id": "4404",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Trois produits, une somme",
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 14"
+  },
+  {
+   "id": "4405",
+   "grade": 8,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Deux remises de 15 % ou une remise de 30 %",
+   "session": "737",
+   "file": "Handout-619-737.pdf",
+   "ref": "problème 5"
+  },
+  {
+   "id": "4406",
+   "grade": 8,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "L'essence baisse de 20 %",
+   "session": "737",
+   "file": "Handout-619-737.pdf",
+   "ref": "problème 4"
+  },
+  {
+   "id": "4407",
+   "grade": 8,
+   "theme": "probability-statistics",
+   "difficulty": 2,
+   "title": "Deux nombres de 1 à 4, somme supérieure à 4",
+   "session": "1231",
+   "file": "Handout-1218-1231.pdf",
+   "ref": "problème 6"
+  },
+  {
+   "id": "4408",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 2,
+   "title": "Douze poissons en trois jours",
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 27"
+  },
+  {
+   "id": "4409",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "La croix de cinq nombres",
+   "session": "699",
+   "file": "Handout-572-699.pdf",
+   "ref": "AMC 8 1999, problème 11"
+  },
+  {
+   "id": "4410",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 2,
+   "title": "Les vingt-cinq feuilles arrachées",
+   "session": "1270",
+   "file": "Handout-1255-1270.pdf",
+   "ref": "problème 2"
+  },
+  {
+   "id": "4411",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Le dernier chiffre de 2 puissance 50",
+   "session": "1276",
+   "file": "Handout-1265-1276.pdf",
+   "ref": "problème 4"
+  },
+  {
+   "id": "4412",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Dix-huit cartes marquées 4 ou 5",
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 26"
+  },
+  {
+   "id": "4413",
+   "grade": 8,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Quarante pour cent de garçons au club",
+   "session": "737",
+   "file": "Handout-619-737.pdf",
+   "ref": "problème 7"
+  },
+  {
+   "id": "4414",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Reste 1, reste 2, reste 3, reste 4, reste 5",
+   "session": "1276",
+   "file": "Handout-1265-1276.pdf",
+   "ref": "problème 6"
+  },
+  {
+   "id": "4417",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Le produit qui s'écrit AABB",
+   "session": "1276",
+   "file": "Handout-1265-1276.pdf",
+   "ref": "problème 2"
+  },
+  {
+   "id": "4418",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Cent soldats, trois de garde",
+   "session": "1270",
+   "file": "Handout-1255-1270.pdf",
+   "ref": "problème 3"
+  },
+  {
+   "id": "4419",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Les différences positives au tableau",
+   "session": "1270",
+   "file": "Handout-1255-1270.pdf",
+   "ref": "problème 4"
+  },
+  {
+   "id": "4420",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Cinq personnes, autant d'amis",
+   "session": "1280",
+   "file": "Handout-1280-1280.pdf",
+   "ref": "problème 3"
+  },
+  {
+   "id": "4421",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "999 puis 2001, le même diviseur",
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 17"
+  },
+  {
+   "id": "4422",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Dix chiffres qui se suivent de 1",
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 24"
+  },
+  {
+   "id": "4423",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Vingt-cinq habitants en file indienne",
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 23"
+  },
+  {
+   "id": "4424",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Le produit des âges vaut 1664",
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 16"
+  },
+  {
+   "id": "4425",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 2,
+   "title": "Sept convives et sept chaises",
+   "session": "1218",
+   "file": "Handout-1207-1218.pdf",
+   "ref": "problèmes 2 et 3"
+  },
+  {
+   "id": "4426",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Des carrés moins des produits",
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 21"
+  }
+ ],
+ "skipped": [
+  {
+   "session": "1264",
+   "file": "Handout-1248-1264.pdf",
+   "ref": "tout le polycopié",
+   "reason": "Cours guidé : on fait redécouvrir l'aire du disque pas à pas (parallélogramme de secteurs, carrés inscrit et circonscrit). Aucun problème ne tient debout tout seul."
+  },
+  {
+   "session": "1270",
+   "file": "Handout-1255-1270.pdf",
+   "ref": "problème 1",
+   "reason": "Déjà dans la base : 0135 (4e, coloriage) et 0507 (3e, coloriage), le cavalier de a1 à h8."
+  },
+  {
+   "session": "1270",
+   "file": "Handout-1255-1270.pdf",
+   "ref": "problème 5",
+   "reason": "Un 13-gone convexe découpé en parallélogrammes. La preuve du corrigé (les côtés d'un assemblage de parallélogrammes vont forcément par paires parallèles) est affirmée, pas démontrée, et je n'ai pas su la rendre rigoureuse au niveau d'un club.",
+   "answer": "Impossible."
+  },
+  {
+   "session": "1270",
+   "file": "Handout-1255-1270.pdf",
+   "ref": "problème 6",
+   "reason": "La version à 5 chiffres est déjà dans la base : 0690 « Un nombre à cinq chiffres et son renversé » (3e, arithmétique, 5 étoiles).",
+   "answer": "La somme contient toujours au moins un chiffre pair."
+  },
+  {
+   "session": "1270",
+   "file": "Handout-1255-1270.pdf",
+   "ref": "problème 7",
+   "reason": "Pas importé faute de place. Prêt à l'emploi : 3e, logique, 4 étoiles.",
+   "answer": "Non, les neuf nombres ne peuvent jamais devenir tous égaux. En remontant : neuf 1 viendraient de neuf 1 ou de neuf 0 ; neuf 0 viendraient d'un cercle où 0 et 1 alternent, impossible avec un nombre impair de cases."
+  },
+  {
+   "session": "1270",
+   "file": "Handout-1255-1270.pdf",
+   "ref": "problème 8",
+   "reason": "Pas importé faute de place. Prêt à l'emploi : 3e, logique, 4 étoiles.",
+   "answer": "Impossible. Les places de 1, 2, …, 9 auraient toutes la même parité, or il n'y a que 5 places de chaque parité pour 9 nombres."
+  },
+  {
+   "session": "1270",
+   "file": "Handout-1255-1270.pdf",
+   "ref": "problème d'échauffement (onze engrenages)",
+   "reason": "Pas importé faute de place. Excellente 1 ou 2 étoiles en 4e.",
+   "answer": "Non : les sens de rotation alternent le long de la chaîne, et 11 est impair."
+  },
+  {
+   "session": "1276",
+   "file": "Handout-1265-1276.pdf",
+   "ref": "problème 3",
+   "reason": "Jumeau dans le même dossier que 0881 « Toujours divisible par 6 » (n^3 - 7n, 3e arithmétique 3 étoiles).",
+   "answer": "n^3 + 2n est toujours divisible par 3 (trois cas selon le reste de n modulo 3)."
+  },
+  {
+   "session": "1276",
+   "file": "Handout-1265-1276.pdf",
+   "ref": "problème 5",
+   "reason": "Demande les congruences : plutôt 2de/1re. Laissé à une autre unité ou à un passage ultérieur.",
+   "answer": "2222^5555 + 5555^2222 est divisible par 7. Vérifié : 2222 = 3 et 5555 = -3 modulo 7, donc la somme vaut 3^2222 (3^3333 + 1) modulo 7, et 3^3333 = 27^1111 = (-1)^1111 = -1."
+  },
+  {
+   "session": "1276",
+   "file": "Handout-1265-1276.pdf",
+   "ref": "échauffement 2",
+   "reason": "Pas importé faute de place. Très bonne 1 étoile en 4e.",
+   "answer": "Non : 12 est divisible par 4 et par 6 sans être divisible par 24. On peut seulement conclure à la divisibilité par 12."
+  },
+  {
+   "session": "1218",
+   "file": "Handout-1207-1218.pdf",
+   "ref": "problème 4",
+   "reason": "Sept couples autour d'une table ronde, conjoints face à face. Je n'ai pas su fixer une convention de comptage qui ne prête pas à discussion (rotations, symétries), et le corrigé est un scan sans couche texte. Non réglé."
+  },
+  {
+   "session": "1218",
+   "file": "Handout-1207-1218.pdf",
+   "ref": "problème 6",
+   "reason": "Pas importé faute de place. Prêt à l'emploi : 3e ou 2de, dénombrement, 3 étoiles.",
+   "answer": "72. Six personnes autour d'une table ronde (rotations identifiées) : 5! = 120 ; celles où les deux sont voisins : 4! x 2 = 48 ; 120 - 48 = 72. Vérifié par le calcul."
+  },
+  {
+   "session": "1218",
+   "file": "Handout-1207-1218.pdf",
+   "ref": "problème 7",
+   "reason": "Pas importé faute de place. Prêt à l'emploi : 3e, dénombrement, 3 étoiles.",
+   "answer": "126 façons de partager 10 joueurs en deux équipes de 5 non étiquetées ; 56 si deux joueurs donnés doivent être ensemble ; 70 s'ils doivent être séparés. Vérifié par le calcul."
+  },
+  {
+   "session": "1218",
+   "file": "Handout-1207-1218.pdf",
+   "ref": "problème 5",
+   "reason": "Pas importé faute de place.",
+   "answer": "3 628 800 = 6! x 7! : sept femmes et sept hommes en alternance autour d'une table ronde, rotations identifiées."
+  },
+  {
+   "session": "1217",
+   "file": "Handout-1202-1217.pdf",
+   "ref": "tout le polycopié",
+   "reason": "Cours guidé sur les boules et les cloisons (stars and bars). Les énoncés isolés perdent leur sens sans la construction du polycopié. Le corrigé est un scan sans couche texte."
+  },
+  {
+   "session": "1228",
+   "file": "Handout-1216-1228.pdf",
+   "ref": "tout le polycopié",
+   "reason": "Cours guidé qui construit la notion de probabilité à trous (« écris l'ensemble S = … »). Rien qui tienne debout comme exercice."
+  },
+  {
+   "session": "1231",
+   "file": "Handout-1218-1231.pdf",
+   "ref": "problème 3",
+   "reason": "Le glaçon et la file de voitures : « lands on or within 20 feet of the front of a car » admet plusieurs lectures et change la réponse. Pas réglé rigoureusement."
+  },
+  {
+   "session": "1231",
+   "file": "Handout-1218-1231.pdf",
+   "ref": "problème 4",
+   "reason": "Pas importé : matière de 2de/1re (probabilités géométriques), hors du cœur de cette unité.",
+   "answer": "8/25. L'attente vaut a + b avec a et b uniformes sur [0 ; 5] ; l'aire du triangle a + b < 4 vaut 8, sur 25."
+  },
+  {
+   "session": "1231",
+   "file": "Handout-1218-1231.pdf",
+   "ref": "problème 5",
+   "reason": "Pas importé : matière de 2de. Comblerait un trou, la base a très peu de probabilités.",
+   "answer": "7/16 = 1 - (15/20)^2 : deux amis arrivant au hasard entre 8 h et 8 h 20, s'attendant 5 minutes."
+  },
+  {
+   "session": "1231",
+   "file": "Handout-1218-1231.pdf",
+   "ref": "problème 7",
+   "reason": "Pas importé faute de place.",
+   "answer": "12/47 : les deux plus petites faces du pavé 3 x 4 x 5 font 24 sur une surface totale de 94."
+  },
+  {
+   "session": "1280",
+   "file": "Handout-1280-1280.pdf",
+   "ref": "problème 8",
+   "reason": "Jumeau dans le même dossier que 0583 « Deux cueilleurs de noisettes » (4e, dénombrement, 3 étoiles)."
+  },
+  {
+   "session": "1280",
+   "file": "Handout-1280-1280.pdf",
+   "ref": "problème 10",
+   "reason": "Déjà dans la base : 0429 « Cinq nœuds du quadrillage » (3e, géométrie, 3 étoiles)."
+  },
+  {
+   "session": "1280",
+   "file": "Handout-1280-1280.pdf",
+   "ref": "problèmes 2, 4, 6, 7, 9",
+   "reason": "Pas importés faute de place, tous bons et prêts à l'emploi (principe des tiroirs, 3e).",
+   "answer": "2 : au moins neuf caisses de la même sorte. 4 : un élève a résolu au moins cinq problèmes. 6 : deux des huit sommes d'un carré 3 x 3 rempli de -1, 0, 1 sont égales. 7 : parmi 8 entiers distincts au plus égaux à 15, au moins trois paires ont la même différence. 9 : parmi douze entiers, deux ont une différence multiple de 11."
+  },
+  {
+   "session": "737",
+   "file": "Handout-619-737.pdf",
+   "ref": "problèmes 2, 3, 8, 9, 14, 15",
+   "reason": "Pas importés faute de place, tous vérifiés sur le corrigé.",
+   "answer": "2 : +100 % puis -50 % ramène au prix de départ. 3 : dans les deux cas on mange plus il y a deux semaines (facteur 0,96). 8 : il a marqué plus de lancers l'an dernier (0,78 contre 0,80). 9 : il a maigri (facteur 0,972). 14 : 50 % (car 21,6/51,2 = 27/64 et (1-x^2)^3 = 27/64). 15 : Derek arrive le premier (0,99 fois la vitesse pour Pax)."
+  },
+  {
+   "session": "737",
+   "file": "Handout-619-737.pdf",
+   "ref": "problèmes 11, 12",
+   "reason": "Calculs de révision sur les fractions, sans énoncé intéressant.",
+   "answer": "11 : 0,370370... = 10/27. 12 : 51,2/21,6 = 64/27."
+  },
+  {
+   "session": "737",
+   "file": "Handout-619-737.pdf",
+   "ref": "problème 10 (placements de Deven)",
+   "reason": "Pas importé faute de place. Prêt à l'emploi : 4e, algèbre, 3 étoiles.",
+   "answer": "20 % : 7500 x (1-x)^2 = 4800 donne (1-x)^2 = 0,64."
+  },
+  {
+   "session": "699",
+   "file": "Handout-572-699.pdf",
+   "ref": "AMC 8 1999, problème 13",
+   "reason": "Jumeau de 0681 « La moyenne d'âge du second groupe » (4e, probabilités-statistiques, 2 étoiles) : même technique de moyenne pondérée, même dossier.",
+   "answer": "28 ans pour les adultes."
+  },
+  {
+   "session": "699",
+   "file": "Handout-572-699.pdf",
+   "ref": "AMC 8 1999, problèmes 2 et 28 (Kangourou)",
+   "reason": "Les angles des aiguilles d'une horloge sont déjà dans la base : 0134 et 0210 (4e, géométrie).",
+   "answer": "AMC 2 : 60 degrés à 10 h. Kangourou 28 : 100 degrés à 16 h 40."
+  },
+  {
+   "session": "699",
+   "file": "Handout-572-699.pdf",
+   "ref": "AMC 8 1999, problèmes 7, 12, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25",
+   "reason": "Pas importés faute de place. Réponses du corrigé officiel, toutes utilisables telles quelles.",
+   "answer": "7 : borne 130. 12 : 27 %. 15 : 40 plaques de plus. 16 : 5 bonnes réponses de plus. 17 : 5 demi-douzaines d'oeufs. 18 : 11 fournées. 19 : 6 plaquettes de beurre. 21 : angle A = 30 degrés (figure à redessiner). 22 : un poisson vaut 8/3 de sac de riz. 23 : CM = racine de 13 (figure à redessiner). 24 : reste 1. 25 : l'aire ombrée tend vers 6, c'est une vraie suite géométrique, excellent candidat pour la 1re."
+  },
+  {
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 1",
+   "reason": "Déjà dans la base : 0676 « Deux carrés dont la somme est nulle » (4e, algèbre, 2 étoiles).",
+   "answer": "x + y = 7."
+  },
+  {
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problèmes 2 et 20",
+   "reason": "En dessous de la 4e même à une étoile.",
+   "answer": "2 : 8 triangles. 20 : il reste 1/20 de litre."
+  },
+  {
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 13",
+   "reason": "Le garçon qui dit la vérité le jeudi et le vendredi et ment le mardi. L'argument du corrigé est trop allusif et je n'ai pas su le rendre complet sans ambiguïté sur « au hasard » les autres jours. Non réglé."
+  },
+  {
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 19",
+   "reason": "Déjà dans la base : 0105 « Le plus petit nombre à somme de chiffres imposée » (4e, arithmétique, 4 étoiles).",
+   "answer": "Premier chiffre 7."
+  },
+  {
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problème 30",
+   "reason": "Le produit télescopique lui-même est déjà dans la base : 0738 (4e, arithmétique, 1 étoile).",
+   "answer": "a + b = 35 (a = 18, b = 17)."
+  },
+  {
+   "session": "781",
+   "file": "Handout-678-781.pdf",
+   "ref": "problèmes 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 25, 29",
+   "reason": "Pas importés faute de place. Réponses vérifiées (corrigé, et force brute pour 5, 7, 9, 12, 25, 29). Tous prêts à l'emploi.",
+   "answer": "3 : 1024 reste en dernier. 4 : le nombre est 6. 5 : au plus 10 éléments (les neuf nombres de la forme 3k+1, plus un multiple de 3). 6 : dans 10 ans. 7 : le sixième est 21 (liste 6, 8, 10, 14, 15, 21). 8 : chiffre des unités 0. 9 : 2 couples, (a,b) = (2,6) et (5,3). 10 : le premier sage a 2, 4 et 6, somme 12. 11 : b/a est le plus grand. 12 : le nombre était 47921, somme des chiffres 23 (unique, vérifié par force brute). 15 : de Morgan est né en 1806 (43^2 = 1849). 25 : le plus grand quotient est 25/76. 29 : 6 solutions, a dans {1, 2, 4, 5, 10, 20} (attention, le corrigé liste bien six valeurs mais conclut « 5 » par étourderie)."
+  }
+ ],
+ "retired_ids": [
+  {
+   "id": "4416",
+   "reason": "Écrit puis retiré tout de suite : « a + b = ab » est déjà dans la base en double, 0760 (4e, algèbre, 3 étoiles) et 0864 (3e, arithmétique, 3 étoiles), qui sont déjà reliés entre eux. Le numéro 4416 n'est pas réutilisé ; le problème de remplacement a pris 4426."
+  },
+  {
+   "id": "4415",
+   "why": "Duplicate of 4220 in the same folder grade-09/arithmetic/3, same problem and same title. The coordinator kept 4220, which asks 10! first and then 100! and whose going-further also shows no n! ends in exactly 5 zeros. Both owning agents independently recommended keeping 4220. Never reuse the id 4415. The statement also exists in Handout-1265-1276.pdf, problem 1.",
+   "survivor": "4220",
+   "decided": "2026-09-19"
+  }
+ ],
+ "notes": "Passage 1, 2026-09-19. 25 exercices importés (4401-4415, 4417-4426), répartition : trois 1 étoile, huit 2 étoiles, neuf 3 étoiles, cinq 4 étoiles ; 14 en 4e et 11 en 3e. Rien n'est allé plus haut que la 3e : cette unité est vraiment du collège.\n\nSéances travaillées : 1264 (rien à prendre), 1270 Parity, 1276 Divisibility, 1218 Combinatorics II (partielle), 1228 Probability (rien à prendre), 1231 Geometric Probability (partielle), 1217 Combinatorics I (rien à prendre), 1280 Pigeonhole (partielle), 737 Percentages (partielle), 699 AMC Prep (partielle), 781 Math Kangaroo (partielle). next_session = 3 (1218 Combinatorics II), mais les séances 5, 12, 31, 33 et 38 gardent beaucoup de matière prête à l'emploi : voir « skipped », les réponses y sont écrites.\n\nÀ savoir pour la suite :\n- Les polycopiés 737 Percentages, 699 AMC Prep (AMC 8 1999) et 781 Math Kangaroo sont des listes de problèmes avec corrigé, sans cours autour : ce sont de loin les plus rentables de l'unité, et il en reste au moins vingt-cinq de bons, réponses déjà écrites ci-dessus.\n- Les polycopiés « Counting and Symmetry » I, II, III (indices 7, 8, 9) n'ont pas été ouverts.\n- Corrigés qui sont des scans sans couche texte, donc inutilisables en extraction : Handout-1208-1218.pdf, Handout-1203-1217.pdf, Handout-1240-1231.pdf.\n- Doublon à arbitrer : 4415 « Les zéros à la fin de 100 ! » (3e, arithmétique, 3 étoiles) et 4220, du bloc d'une autre agente, sont le même problème dans le même dossier. 4220 est apparu pendant mon travail, après mon vm.py list de départ. Je garde mon fichier comme le veut la règle : c'est au coordinateur de trancher une fois tout le monde arrêté.\n- Paire à regarder aussi : 4406 « L'essence baisse de 20 % » (4e, algèbre, 2 étoiles) et 4206 « Vingt-cinq pour cent de pommes en plus » (4e, arithmétique, 2 étoiles, bloc d'une autre agente) posent la même question à l'envers, avec les mêmes nombres. Dossiers différents, mais même grade.\n- Le cavalier de a1 à h8, les cinq nœuds du quadrillage, les cueilleurs de noisettes, le nombre renversé, a + b = ab, le produit télescopique, l'angle des aiguilles et le plus petit nombre à somme de chiffres imposée sont tous déjà dans la base : ces polycopiés reprennent Fomin, comme la source de Moscou.",
  "updated": "2026-09-19",
  "sessions": [
   {

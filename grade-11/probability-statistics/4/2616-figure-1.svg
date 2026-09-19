@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="330" viewBox="0 0 330 330">
+  <rect x="0" y="0" width="330" height="330" fill="#ffffff"/>
+  <!-- carre 60x60 -> 240 px de cote, origine en (60, 280), 1 min = 4 px -->
+  <rect x="60" y="40" width="240" height="240" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- bande |x-y| <= 5 : 5 min = 20 px -->
+  <polygon points="60,280 60,260 280,40 300,40 300,60 80,280" fill="#c8c8c8" stroke="none"/>
+  <!-- droites frontieres -->
+  <line x1="60" y1="260" x2="280" y2="40" stroke="#000000" stroke-width="1.5"/>
+  <line x1="80" y1="280" x2="300" y2="60" stroke="#000000" stroke-width="1.5"/>
+  <rect x="60" y="40" width="240" height="240" fill="none" stroke="#000000" stroke-width="2"/>
+  <!-- axes et graduations -->
+  <line x1="60" y1="280" x2="316" y2="280" stroke="#000000" stroke-width="1.5"/>
+  <line x1="60" y1="280" x2="60" y2="26" stroke="#000000" stroke-width="1.5"/>
+  <text x="304" y="298" font-family="serif" font-size="14" font-style="italic">x</text>
+  <text x="46" y="26" font-family="serif" font-size="14" font-style="italic">y</text>
+  <text x="50" y="298" font-family="serif" font-size="13">0</text>
+  <text x="290" y="298" font-family="serif" font-size="13">60</text>
+  <text x="36" y="46" font-family="serif" font-size="13">60</text>
+  <text x="120" y="110" font-family="serif" font-size="13">pas de</text>
+  <text x="120" y="128" font-family="serif" font-size="13">rencontre</text>
+  <text x="196" y="228" font-family="serif" font-size="13">pas de</text>
+  <text x="196" y="246" font-family="serif" font-size="13">rencontre</text>
+  <text x="186" y="150" font-family="serif" font-size="13" transform="rotate(-45 186 150)">rencontre</text>
+</svg>

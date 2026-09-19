@@ -6,14 +6,360 @@
   "2201",
   "2400"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 27,
  "sessions_with_answers": 1,
- "next_session": 0,
- "imported": [],
- "skipped": [],
+ "next_session": 8,
+ "imported": [
+  {
+   "id": "2201",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Une différence de puissances centièmes",
+   "ref": "Handout-823-872.pdf, ex. 11(d)"
+  },
+  {
+   "id": "2202",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Toujours un multiple de 7",
+   "ref": "Handout-823-872.pdf, Extensions 1 et 2"
+  },
+  {
+   "id": "2203",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Dix puissances de dix gigantesques",
+   "ref": "Handout-823-872.pdf, ex. 11(f)"
+  },
+  {
+   "id": "2204",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Les deux derniers chiffres de 3 puissance 1234",
+   "ref": "Handout-823-872.pdf, Extensions 3"
+  },
+  {
+   "id": "2205",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Le deux mille sixième nombre de Fibonacci",
+   "ref": "Handout-823-872.pdf, ex. 8(e)"
+  },
+  {
+   "id": "2206",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Trois affixes sur une même droite",
+   "ref": "Handout-835-919.pdf, ex. 6, 1re question"
+  },
+  {
+   "id": "2207",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Les huit racines de z^8 = 1",
+   "ref": "Handout-835-919.pdf, ex. 7, 3 dernières questions"
+  },
+  {
+   "id": "2209",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 2,
+   "title": "La valeur exacte de sin 75°",
+   "ref": "Handout-834-918.pdf, ex. 8"
+  },
+  {
+   "id": "2210",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 4,
+   "title": "Tout depuis la tangente de l'angle moitié",
+   "ref": "Handout-834-918.pdf, ex. 9"
+  },
+  {
+   "id": "2211",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Des triplets pythagoriciens à partir d'une fraction",
+   "ref": "Handout-834-918.pdf, ex. 10"
+  },
+  {
+   "id": "2212",
+   "grade": 11,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "La loi des sinus et le cercle circonscrit",
+   "ref": "Handout-836-920.pdf, ex. 10"
+  },
+  {
+   "id": "2213",
+   "grade": 11,
+   "theme": "geometry",
+   "difficulty": 5,
+   "title": "L'aire d'un triangle à partir de ses trois côtés",
+   "ref": "Handout-836-920.pdf, ex. 11, 13 et 14"
+  },
+  {
+   "id": "2214",
+   "grade": 11,
+   "theme": "geometry",
+   "difficulty": 5,
+   "title": "L'aire de la voile",
+   "ref": "Handout-833-879.pdf, set 3 ex. 3"
+  },
+  {
+   "id": "2215",
+   "grade": 11,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Deux côtés imposés, l'aire la plus grande",
+   "ref": "Handout-836-920.pdf, ex. 11 et 12"
+  },
+  {
+   "id": "2216",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Jusqu'où voit-on depuis le phare ?",
+   "ref": "Handout-833-879.pdf, set 2 ex. 1"
+  },
+  {
+   "id": "2217",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Un carré dans le croissant",
+   "ref": "Handout-833-879.pdf, set 3 ex. 4"
+  },
+  {
+   "id": "2218",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Le chaton sur l'échelle qui glisse",
+   "ref": "Handout-833-879.pdf, set 1 ex. 3"
+  },
+  {
+   "id": "2219",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Des 1, des 0, et un multiple de 225",
+   "ref": "Handout-822-889.pdf, ex. 2"
+  },
+  {
+   "id": "2220",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "La pièce qui roule autour d'une pièce",
+   "ref": "Handout-833-879.pdf, set 1 ex. 2"
+  },
+  {
+   "id": "2221",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "La ceinture et le fil d'acier autour de la Terre",
+   "ref": "Handout-833-879.pdf, set 5 ex. 2 et 3"
+  },
+  {
+   "id": "2223",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Une personne entre, ou deux sortent",
+   "ref": "Handout-623-735.pdf, ex. 4"
+  },
+  {
+   "id": "2224",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Mille et un cailloux",
+   "ref": "Handout-623-735.pdf, ex. 10"
+  },
+  {
+   "id": "2225",
+   "grade": 9,
+   "theme": "coloring",
+   "difficulty": 3,
+   "title": "L'« angela », une pièce qui saute de 1 et de 3",
+   "ref": "Handout-623-735.pdf, ex. 5"
+  },
+  {
+   "id": "2226",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Les deux épées magiques",
+   "ref": "Handout-623-735.pdf, ex. 8"
+  }
+ ],
+ "skipped": [
+  {
+   "ref": "Handout-623-735.pdf, ex. 1 et 2 (8x8 avec des 3x1 ; deux coins opposés retirés)",
+   "reason": "classiques déjà couverts dans la base (0505, 0711, 0812, 0813)",
+   "answer": "1 : impossible, 64 n'est pas divisible par 3. 2 : impossible, les deux coins retirés sont de même couleur, il reste 32 cases d'une couleur et 30 de l'autre."
+  },
+  {
+   "ref": "Handout-623-735.pdf, ex. 3 (les portes de la maison)",
+   "reason": "pas importé faute de temps, mais bon problème de 3e ou 2de",
+   "answer": "Si chaque pièce a un nombre pair de portes, le nombre de portes donnant sur l'extérieur est pair. Preuve : chaque porte a deux faces, donc le nombre total de faces est pair ; la somme des faces tournées vers les pièces est paire ; donc le reste, les faces tournées vers l'extérieur, est pair."
+  },
+  {
+   "ref": "Handout-623-735.pdf, ex. 6(a) (8x8 avec quinze 1x4 et un tromino en L)",
+   "reason": "pas importé faute de temps",
+   "answer": "Impossible. Colorier par lignes en alternant deux couleurs : chaque 1x4 couvre un nombre pair de cases de chaque couleur, le L en couvre un nombre impair."
+  },
+  {
+   "ref": "Handout-623-735.pdf, ex. 6(b) (10x10 avec des tétraminos en T)",
+   "reason": "déjà dans la base : 0812",
+   "answer": "Impossible."
+  },
+  {
+   "ref": "Handout-623-735.pdf, ex. 6(c) (102x102 avec des 1x4)",
+   "reason": "trop proche de 0508 (10x10 avec des 1x4)",
+   "answer": "Impossible. Colorier les lignes avec 4 couleurs qui se répètent ; la différence des effectifs de deux couleurs doit rester divisible par 4, ce qu'elle n'est pas au départ sur 102x102."
+  },
+  {
+   "ref": "Handout-623-735.pdf, ex. 7 (chiffre final de 8^1989)",
+   "reason": "trop proche de 0554 et 2806 (tours de puissances), et de 2203 que j'ai importé",
+   "answer": "9 (c'est-à-dire la racine numérique) : 8 ≡ -1 mod 9, donc 8^1989 ≡ -1 ≡ 8 mod 9. La réponse est 8. Vérifié en Python."
+  },
+  {
+   "ref": "Handout-623-735.pdf, ex. 9 (amibes martiennes A, B, C)",
+   "reason": "déjà dans la base : 0457 (3e) et 0281 (2de, bactéries)",
+   "answer": "Type B."
+  },
+  {
+   "ref": "Handout-823-872.pdf, ex. 1 à 10 (feuille d'entraînement sur les congruences)",
+   "reason": "exercices d'application mécanique, sans idée ; ne tiennent pas debout seuls"
+  },
+  {
+   "ref": "Handout-823-872.pdf, ex. 11(b) (reste de 4^18 * 19^80 modulo 9)",
+   "reason": "trop mécanique pour un exercice à part",
+   "answer": "1. Attention : le texte extrait donne « 418 . 1980 », c'est en réalité 4^18 * 19^80. 4^3 = 64 ≡ 1 mod 9 donc 4^18 ≡ 1 ; 19 ≡ 1 mod 9 donc 19^80 ≡ 1."
+  },
+  {
+   "ref": "Handout-823-872.pdf, ex. 8(d) (17 + 177 + 1777 + ... + 1 suivi de vingt 7, modulo 8)",
+   "reason": "pas importé faute de temps ; bon exercice de 2de ou 1re",
+   "answer": "4. Il y a 20 termes ; chacun est ≡ 1 mod 8 (17 ≡ 1, et tout nombre finissant par 777 est ≡ 1 car 776 = 97*8) ; 20 ≡ 4 mod 8. Vérifié en Python."
+  },
+  {
+   "ref": "Handout-823-872.pdf, ex. 11(e)",
+   "reason": "trop court",
+   "answer": "Si n^2 ≡ 1 mod 5 alors n ≡ 1 ou n ≡ 4 mod 5."
+  },
+  {
+   "ref": "Handout-823-872.pdf, Extensions ex. 4 (x ≡ 2 mod 5 et x ≡ 3 mod 6)",
+   "reason": "pas importé faute de temps ; ferait un bon exercice de Terminale (restes chinois)",
+   "answer": "x ≡ 27 mod 30, c'est-à-dire x ∈ {..., -3, 27, 57, 87, 117, ...}. Vérifié en Python."
+  },
+  {
+   "ref": "Handout-779-886.pdf (Number Theory Part 2, session 4 de la liste)",
+   "reason": "FICHIER IDENTIQUE à Handout-823-872.pdf (même md5 f4b0cbeb3207d84243abbf21f76ea1c4). Rien de nouveau à y prendre : la session 4 est donc déjà traitée."
+  },
+  {
+   "ref": "Handout-822-889.pdf, ex. 1 (somme des chiffres de 100! répétée)",
+   "reason": "trop court seul ; bon candidat pour un « pour aller plus loin »",
+   "answer": "9. 100! est divisible par 9, donc sa racine numérique vaut 9. Vérifié en Python sur le vrai 100!."
+  },
+  {
+   "ref": "Handout-822-889.pdf, ex. 3 ((n^3 - n)/6 entier)",
+   "reason": "déjà dans la base sous une forme très proche : 0881 (n^3 - 7n divisible par 6)"
+  },
+  {
+   "ref": "Handout-822-889.pdf, ex. 4 (PGCD = 5 et PPCM = 30)",
+   "reason": "pas importé faute de temps ; exercice court de 3e ou 2de",
+   "answer": "Deux couples : {5, 30} et {10, 15}. Vérifié par recherche exhaustive."
+  },
+  {
+   "ref": "Handout-822-889.pdf, ex. 5 (xyzw divisible par 99 ssi xy + zw l'est)",
+   "reason": "trop proche de 0639 (3e, « Quatre chiffres et un multiple de 99 »)",
+   "answer": "100 ≡ 1 mod 99, donc le nombre xyzw = 100*(xy) + zw ≡ xy + zw mod 99."
+  },
+  {
+   "ref": "Handout-833-879.pdf, set 4 ex. 4 (n droites découpent le plan)",
+   "reason": "déjà dans la base : 0328"
+  },
+  {
+   "ref": "Handout-833-879.pdf, set 4 ex. 3 (milieux d'un quadrilatère)",
+   "reason": "Varignon, déjà dans la base (« Le parallélogramme des milieux »)"
+  },
+  {
+   "ref": "Handout-833-879.pdf, set 4 ex. 2 (somme des angles extérieurs d'un n-gone)",
+   "reason": "résultat de cours, pas un problème",
+   "answer": "360°, quel que soit n."
+  },
+  {
+   "ref": "Handout-833-879.pdf, set 1 ex. 1 (lieu des points où d(AB) + d(CD) = d(BC) + d(AD))",
+   "reason": "énoncé ambigu (distance au segment ou à la droite ?) ; à reformuler avant import",
+   "answer": "Avec les DROITES : le carré plein, plus les quatre demi-droites des deux diagonales prolongées au-delà des sommets. Preuve : avec A(0,0), B(a,0), C(a,a), D(0,a), la condition s'écrit |y| + |y-a| = |x| + |x-a| ; la fonction f(t) = |t| + |t-a| vaut a sur [0,a] et croît linéairement au-delà."
+  },
+  {
+   "ref": "Handout-833-879.pdf, set 1 ex. 4 (cercle de rayon R roulant DANS un cercle de rayon 2R)",
+   "reason": "superbe problème (couple de Tusi), pas importé faute de temps ; vaut une 1re difficulté 5",
+   "answer": "Un point du petit cercle décrit un DIAMÈTRE du grand cercle (un segment, pas une courbe). Démonstration synthétique : le centre O du grand cercle est SUR le petit cercle (distance au centre C du petit = R = son rayon) ; O, P et T (point de contact) sont donc concycliques sur le petit cercle ; le roulement sans glissement donne arc(TP) sur le petit = arc(TA) sur le grand, donc l'angle au centre PCT vaut 2 fois l'angle AOT ; l'angle inscrit POT vaut la moitié de PCT, donc POT = AOT, et P reste sur la droite fixe (OA)."
+  },
+  {
+   "ref": "Handout-833-879.pdf, set 1 ex. 5 (carré inscrit dans un triangle)",
+   "reason": "pas importé faute de temps ; bon exercice de 2de difficulté 4",
+   "answer": "Construction par homothétie : construire d'abord un carré posé sur la base avec deux sommets sur la base et un troisième n'importe où, puis appliquer l'homothétie de centre un sommet de la base qui amène ce troisième sommet sur le côté opposé."
+  },
+  {
+   "ref": "Handout-833-879.pdf, set 2 ex. 2 (cases non voisines sur un damier 6x6)",
+   "reason": "trop proche des problèmes de coccinelles/lézards déjà dans la base",
+   "answer": "9. Majoration : découper le damier en neuf blocs 2x2, chacun contient au plus une case choisie. Réalisation : les cases des lignes 1, 3, 5 et des colonnes 1, 3, 5."
+  },
+  {
+   "ref": "Handout-833-879.pdf, set 3 ex. 1 (nombre max de côtés de l'intersection d'un triangle et d'un quadrilatère)",
+   "reason": "pas importé faute de temps ; bon exercice de 2de difficulté 4",
+   "answer": "7. Chaque côté du polygone d'intersection est porté par un côté du triangle (3) ou du quadrilatère (4), et chaque droite fournit au plus un côté."
+  },
+  {
+   "ref": "Handout-833-879.pdf, set 5 ex. 1 (tête et pieds le long de l'équateur)",
+   "reason": "même idée que 2221 que j'ai importé",
+   "answer": "2*pi*1,6 ≈ 10,05 m, indépendamment du rayon de la Terre."
+  },
+  {
+   "ref": "Handout-833-879.pdf, set 6 (les chèvres attachées) et set 7 (ponts et routes)",
+   "reason": "pas importés faute de temps ; set 7 ex. 1 et 3 sont deux très bons classiques",
+   "answer": "Set 7 ex. 1 : symétrique de la maison par rapport à la rivière, puis segment. Set 7 ex. 3 : translater une des deux villes du vecteur du pont, puis segment. Set 6 : intersections de disques et de couronnes, avec des piquets coulissants."
+  },
+  {
+   "ref": "Handout-834-918.pdf, ex. 1 à 7 (cercle trigonométrique, formules d'addition)",
+   "reason": "exposé de cours, pas des problèmes autonomes"
+  },
+  {
+   "ref": "Handout-835-919.pdf, ex. 1 à 5 (calculs sur les complexes) et ex. 6, questions 2 et 3",
+   "reason": "exercices d'application de cours ; la question sur z -> 1/z serait un bon Terminale difficulté 5 mais demande un long travail de rédaction",
+   "answer": "z -> 1/z : inversion composée avec la conjugaison. Une droite ne passant pas par O devient un cercle passant par O, un cercle ne passant pas par O devient un cercle."
+  },
+  {
+   "ref": "Handout-835-919.pdf, ex. 7, questions 1 et 2 (racine conjuguée ; toute cubique réelle a une racine réelle)",
+   "reason": "écrit en parallèle par un autre agent : 2606 (grade-12/algebra/4). Non écrit de mon côté."
+  },
+  {
+   "ref": "Handout-836-920.pdf, ex. 1 à 8 (loi des sinus, exposé et applications numériques)",
+   "reason": "exposé de cours et calculs à la calculatrice"
+  },
+  {
+   "ref": "Handout-836-920.pdf, ex. 9 (cas ambigu côté-côté-angle)",
+   "reason": "pas importé faute de temps ; bon exercice de 1re difficulté 3",
+   "answer": "Avec A = 50°, a = 8, b = 10, sin B = b sin A / a = 10 sin 50° / 8 ≈ 0,957, donc B ≈ 73,2° ou B ≈ 106,8° : les deux triangles existent. Le côté-côté-angle ne détermine pas le triangle."
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "ÉTAT : sessions 0 à 7 de la liste dépouillées (les meilleures pièces prises, le reste consigné dans 'skipped' avec sa réponse). next_session = 8 (Invariants, event 731). ATTENTION session 4 : Handout-779-886.pdf est OCTET POUR OCTET le même fichier que Handout-823-872.pdf (md5 f4b0cbeb3207d84243abbf21f76ea1c4) : la session 4 est donc déjà faite. OUTILLAGE : Handout-623-735.pdf et Handout-624-735.pdf (Invariants II et son corrigé) n'ont AUCUNE couche texte exploitable, il faut rendre les pages en images (pymupdf, 140 dpi suffit). Les handouts de 2014 s'extraient bien avec 'pdftotext -layout', MAIS les exposants sont aplatis : '418 . 1980' est en réalité 4^18 * 19^80, et '31234' est 3^1234. Vérifier chaque puissance sur la page rendue. NIVEAUX : cette unité alimente vraiment la 1re et la Terminale. Les sessions Trigonométrie 1 et 2, Nombres complexes et Théorie des nombres donnent de la vraie matière de lycée ; le Geometry Kaleidoscope donne surtout de la 2de et de la 1re. Les sessions Invariants sont, elles, du niveau 3e et recoupent beaucoup ce qui vient déjà de Moscou. RESTE À FAIRE dans les sessions déjà ouvertes : le couple de Tusi (Handout-833-879, set 1 ex. 4), le carré inscrit dans un triangle (set 1 ex. 5), les problèmes de ponts et de chèvres (sets 6 et 7), le cas ambigu côté-côté-angle (Handout-836-920 ex. 9), les restes chinois (Handout-823-872, Ext. 4). Les réponses de tous ces problèmes sont dans 'skipped'.",
  "updated": "2026-09-19",
  "sessions": [
   {
@@ -429,6 +775,42 @@
      "file": "Handout-545-669.pdf"
     }
    ]
+  }
+ ],
+ "ids_used": [
+  "2201",
+  "2202",
+  "2203",
+  "2204",
+  "2205",
+  "2206",
+  "2207",
+  "2209",
+  "2210",
+  "2211",
+  "2212",
+  "2213",
+  "2214",
+  "2215",
+  "2216",
+  "2217",
+  "2218",
+  "2219",
+  "2220",
+  "2221",
+  "2223",
+  "2224",
+  "2225",
+  "2226"
+ ],
+ "ids_free_in_block": "2208, 2222, et 2227 à 2400",
+ "answers_found": "Toutes les réponses ci-dessus ont été vérifiées en Python (brute force ou calcul modulaire) ou contre le fichier de réponses Handout-624-735.pdf. Les réponses de la session Invariants II concordent avec le corrigé officiel, SAUF sur un point, voir 'errata_in_source'.",
+ "errata_in_source": [
+  {
+   "ref": "Handout-624-735.pdf, réponse 5(a)",
+   "problem": "Handout-623-735.pdf, ex. 5(a) : l'« angela » (pièce qui avance de 1 puis de 3) peut-elle aller d'un coin à un coin non opposé, par exemple de a1 à j1 sur un damier 10x10 ?",
+   "published_answer": "« yes. can be easily accomplished by drawing out a chessboard and making the necessary moves »",
+   "correct_answer": "NON, c'est impossible. Un coup d'angela fait varier la somme colonne+rangée de ±1±3, toujours un nombre pair : la couleur de la case ne change jamais. a1 a pour somme 2 (paire), j1 a pour somme 11 (impaire). Le corrigé se contredit d'ailleurs lui-même, puisque sa réponse à 5(b) utilise exactement cet argument. Vérifié par parcours en largeur en Python : depuis a1 l'angela atteint exactement les 50 cases de sa couleur ; j1 est inatteignable, j10 est atteinte en 5 coups (a1-b4-c7-d10-g9-j10). C'est la version corrigée qui est publiée dans l'exercice 2225."
   }
  ]
 }

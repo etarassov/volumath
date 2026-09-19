@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 164 164" width="164" height="164">
+  <rect x="6" y="6" width="38" height="38" fill="#dce7f4" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="44" y="6" width="38" height="38" fill="#dce7f4" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="6" y="44" width="38" height="38" fill="#dce7f4" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="82" y="6" width="38" height="38" fill="#f4e3dc" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="82" y="44" width="38" height="38" fill="#f4e3dc" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="120" y="44" width="38" height="38" fill="#f4e3dc" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="44" y="44" width="38" height="38" fill="#e3f0dd" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="44" y="82" width="38" height="38" fill="#e3f0dd" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="82" y="82" width="38" height="38" fill="#e3f0dd" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="6" y="82" width="38" height="38" fill="#f0ecd8" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="6" y="120" width="38" height="38" fill="#f0ecd8" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="44" y="120" width="38" height="38" fill="#f0ecd8" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="120" y="82" width="38" height="38" fill="#e8dcee" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="82" y="120" width="38" height="38" fill="#e8dcee" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="120" y="120" width="38" height="38" fill="#e8dcee" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="120" y="6" width="38" height="38" fill="#b9b9b9" stroke="#8a8a8a" stroke-width="1"/>
+  <line x1="6" y1="6" x2="44" y2="6" stroke="#000000" stroke-width="3"/>
+  <line x1="6" y1="6" x2="6" y2="44" stroke="#000000" stroke-width="3"/>
+  <line x1="44" y1="6" x2="82" y2="6" stroke="#000000" stroke-width="3"/>
+  <line x1="44" y1="44" x2="82" y2="44" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="6" x2="82" y2="44" stroke="#000000" stroke-width="3"/>
+  <line x1="6" y1="82" x2="44" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="6" y1="44" x2="6" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="44" y1="44" x2="44" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="6" x2="120" y2="6" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="6" x2="82" y2="44" stroke="#000000" stroke-width="3"/>
+  <line x1="120" y1="6" x2="120" y2="44" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="82" x2="120" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="44" x2="82" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="120" y1="44" x2="158" y2="44" stroke="#000000" stroke-width="3"/>
+  <line x1="120" y1="82" x2="158" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="158" y1="44" x2="158" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="44" y1="44" x2="82" y2="44" stroke="#000000" stroke-width="3"/>
+  <line x1="44" y1="44" x2="44" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="44" x2="82" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="44" y1="120" x2="82" y2="120" stroke="#000000" stroke-width="3"/>
+  <line x1="44" y1="82" x2="44" y2="120" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="82" x2="120" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="120" x2="120" y2="120" stroke="#000000" stroke-width="3"/>
+  <line x1="120" y1="82" x2="120" y2="120" stroke="#000000" stroke-width="3"/>
+  <line x1="6" y1="82" x2="44" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="6" y1="82" x2="6" y2="120" stroke="#000000" stroke-width="3"/>
+  <line x1="44" y1="82" x2="44" y2="120" stroke="#000000" stroke-width="3"/>
+  <line x1="6" y1="158" x2="44" y2="158" stroke="#000000" stroke-width="3"/>
+  <line x1="6" y1="120" x2="6" y2="158" stroke="#000000" stroke-width="3"/>
+  <line x1="44" y1="120" x2="82" y2="120" stroke="#000000" stroke-width="3"/>
+  <line x1="44" y1="158" x2="82" y2="158" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="120" x2="82" y2="158" stroke="#000000" stroke-width="3"/>
+  <line x1="120" y1="82" x2="158" y2="82" stroke="#000000" stroke-width="3"/>
+  <line x1="120" y1="82" x2="120" y2="120" stroke="#000000" stroke-width="3"/>
+  <line x1="158" y1="82" x2="158" y2="120" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="120" x2="120" y2="120" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="158" x2="120" y2="158" stroke="#000000" stroke-width="3"/>
+  <line x1="82" y1="120" x2="82" y2="158" stroke="#000000" stroke-width="3"/>
+  <line x1="120" y1="158" x2="158" y2="158" stroke="#000000" stroke-width="3"/>
+  <line x1="158" y1="120" x2="158" y2="158" stroke="#000000" stroke-width="3"/>
+  <rect x="6" y="6" width="152" height="152" fill="none" stroke="#000000" stroke-width="3"/>
+</svg>

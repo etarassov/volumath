@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="240" viewBox="0 0 250 240">
+  <rect x="0" y="0" width="250" height="240" fill="#ffffff"/>
+  <g stroke="#bbbbbb" stroke-width="1">
+    <line x1="30" y1="30" x2="30" y2="190"/>
+    <line x1="70" y1="30" x2="70" y2="190"/>
+    <line x1="110" y1="30" x2="110" y2="190"/>
+    <line x1="150" y1="30" x2="150" y2="190"/>
+    <line x1="190" y1="30" x2="190" y2="190"/>
+    <line x1="30" y1="30" x2="190" y2="30"/>
+    <line x1="30" y1="70" x2="190" y2="70"/>
+    <line x1="30" y1="110" x2="190" y2="110"/>
+    <line x1="30" y1="150" x2="190" y2="150"/>
+    <line x1="30" y1="190" x2="190" y2="190"/>
+  </g>
+  <line x1="30" y1="190" x2="190" y2="30" stroke="#000000" stroke-width="1.6"/>
+  <line x1="30" y1="150" x2="150" y2="30" stroke="#000000" stroke-width="1.4" stroke-dasharray="6 4"/>
+  <polyline points="30,190 110,190 110,150 150,150 150,70 190,70 190,30"
+            fill="none" stroke="#c0392b" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="30" cy="190" r="4" fill="#c0392b"/>
+  <circle cx="190" cy="30" r="4" fill="#c0392b"/>
+  <text x="14" y="207" font-family="serif" font-size="14" fill="#000000">O</text>
+  <text x="198" y="27" font-family="serif" font-size="14" fill="#000000">(n ; n)</text>
+</svg>

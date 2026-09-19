@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360">
+  <rect x="0" y="0" width="360" height="360" fill="#ffffff"/>
+  <!-- repere : origine du dessin en (300,60) ; 1 unite = 30 px ; x vers la droite, y vers le haut -->
+  <g stroke="#bbbbbb" stroke-width="1">
+    <line x1="30" y1="30" x2="30" y2="330"/><line x1="60" y1="30" x2="60" y2="330"/>
+    <line x1="90" y1="30" x2="90" y2="330"/><line x1="120" y1="30" x2="120" y2="330"/>
+    <line x1="150" y1="30" x2="150" y2="330"/><line x1="180" y1="30" x2="180" y2="330"/>
+    <line x1="210" y1="30" x2="210" y2="330"/><line x1="240" y1="30" x2="240" y2="330"/>
+    <line x1="270" y1="30" x2="270" y2="330"/><line x1="330" y1="30" x2="330" y2="330"/>
+    <line x1="30" y1="30" x2="330" y2="30"/><line x1="30" y1="90" x2="330" y2="90"/>
+    <line x1="30" y1="120" x2="330" y2="120"/><line x1="30" y1="150" x2="330" y2="150"/>
+    <line x1="30" y1="180" x2="330" y2="180"/><line x1="30" y1="210" x2="330" y2="210"/>
+    <line x1="30" y1="240" x2="330" y2="240"/><line x1="30" y1="270" x2="330" y2="270"/>
+    <line x1="30" y1="300" x2="330" y2="300"/><line x1="30" y1="330" x2="330" y2="330"/>
+  </g>
+  <!-- les deux quarts opposes, grises : centre (210,150), rayon 120 -->
+  <!-- quart entre la direction (1,1) [vers le haut-droite] et (-1,1) : secteur du haut -->
+  <path d="M 210 150 L 294.85 65.15 A 120 120 0 0 0 125.15 65.15 Z" fill="#d8d8d8" stroke="none"/>
+  <!-- quart oppose : secteur du bas -->
+  <path d="M 210 150 L 125.15 234.85 A 120 120 0 0 0 294.85 234.85 Z" fill="#d8d8d8" stroke="none"/>
+  <!-- le cercle -->
+  <circle cx="210" cy="150" r="120" fill="none" stroke="#000000" stroke-width="2"/>
+  <!-- axes -->
+  <line x1="30" y1="60" x2="335" y2="60" stroke="#000000" stroke-width="1.5"/>
+  <line x1="300" y1="25" x2="300" y2="330" stroke="#000000" stroke-width="1.5"/>
+  <text x="338" y="64" font-family="serif" font-size="14">x</text>
+  <text x="304" y="24" font-family="serif" font-size="14">y</text>
+  <text x="304" y="56" font-family="serif" font-size="13">O</text>
+  <!-- droite y = x : passe par (-3,-3) -> (210,150) avec pente 1 (vers le haut a droite) -->
+  <line x1="60" y1="300" x2="330" y2="30" stroke="#000000" stroke-width="1.5"/>
+  <!-- droite y = -x-6 : passe par (210,150), pente -1 -->
+  <line x1="90" y1="30" x2="330" y2="270" stroke="#000000" stroke-width="1.5"/>
+  <text x="332" y="28" font-family="serif" font-size="13">y = x</text>
+  <text x="300" y="288" font-family="serif" font-size="13">y = −x − 6</text>
+  <circle cx="210" cy="150" r="3.5" fill="#000000"/>
+  <text x="186" y="170" font-family="serif" font-size="13">Ω(−3 ; −3)</text>
+</svg>

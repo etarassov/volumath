@@ -6,14 +6,306 @@
   "3001",
   "3200"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 109,
  "sessions_with_answers": 16,
- "next_session": 0,
- "imported": [],
- "skipped": [],
+ "next_session": 16,
+ "imported": [
+  {
+   "id": "3001",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Trois puissances 107 modulo 109",
+   "from": "Handout-3291-2885.pdf ex.12",
+   "answer": ""
+  },
+  {
+   "id": "3002",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Les trois derniers chiffres de 2017^2017",
+   "from": "Handout-3338-2918.pdf ex.18",
+   "answer": ""
+  },
+  {
+   "id": "3003",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Les deux derniers chiffres d'une tour de 12",
+   "from": "Handout-3338-2918.pdf ex.3",
+   "answer": ""
+  },
+  {
+   "id": "3004",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "6^83 + 8^83 modulo 49",
+   "from": "Handout-3422-2965.pdf ex.7 (AIME 1983)",
+   "answer": ""
+  },
+  {
+   "id": "3005",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Une congruence du second degre modulo 75",
+   "from": "Handout-3277-2873.pdf ex.4",
+   "answer": ""
+  },
+  {
+   "id": "3006",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Un premier de la forme 3k+2 qui divise a^2+ab+b^2",
+   "from": "Handout-3422-2965.pdf ex.3",
+   "answer": ""
+  },
+  {
+   "id": "3007",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Le plus petit cube qui se termine par 888",
+   "from": "Handout-3422-2965.pdf ex.8 (AIME 1988)",
+   "answer": ""
+  },
+  {
+   "id": "3008",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "17a + 6b = 13",
+   "from": "Handout-3277-2873.pdf ex.7",
+   "answer": ""
+  },
+  {
+   "id": "3009",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "(x^2+1)(y^2+1)+9 = 6(x+y)",
+   "from": "Handout-3201-2760.pdf ex.2 (Turquie 2014)",
+   "answer": ""
+  },
+  {
+   "id": "3010",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 3,
+   "title": "Le minimum de (x^2+2x+5)/(x+1)",
+   "from": "Handout-3199-2749.pdf ex.10",
+   "answer": ""
+  },
+  {
+   "id": "3011",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 3,
+   "title": "Le maximum de a^2(12-2a) sur [0;6]",
+   "from": "Handout-3199-2749.pdf ex.5",
+   "answer": ""
+  },
+  {
+   "id": "3012",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Un systeme a trois inconnues ou seul z est demande",
+   "from": "Handout-3218-2798.pdf ex.7",
+   "answer": ""
+  },
+  {
+   "id": "3013",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Deux transformations qui ne changent rien",
+   "from": "Handout-2233-1983.pdf ex.4",
+   "answer": ""
+  },
+  {
+   "id": "3014",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 5,
+   "title": "Deux eleves qui couvrent les six problemes",
+   "from": "Handout-2235-1984.pdf ex.3",
+   "answer": ""
+  },
+  {
+   "id": "3015",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Le plus petit x^2+y^2 sur la droite 5x+12y=60",
+   "from": "Handout-3199-2749.pdf ex.8 (AHSME 1961)",
+   "answer": ""
+  },
+  {
+   "id": "3016",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "La grenouille et les dix-neuf marches",
+   "from": "Handout-3142-2701.pdf ex.5",
+   "answer": ""
+  },
+  {
+   "id": "3017",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Le plus grand n tel que n+10 divise n^3+100",
+   "from": "Handout-3291-2885.pdf ex.4 (AIME 1986)",
+   "answer": "n = 890"
+  },
+  {
+   "id": "3018",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Trois etoiles, neuf chiffres, un multiple de 37",
+   "from": "Handout-3291-2885.pdf ex.8",
+   "answer": "24"
+  },
+  {
+   "id": "3019",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Coller les nombres a deux chiffres jusqu'a un multiple de 99",
+   "from": "Handout-3291-2885.pdf ex.9",
+   "answer": "n = 33"
+  },
+  {
+   "id": "3020",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 5,
+   "title": "Six chiffres entre 1 et 5, divisible par 101",
+   "from": "Handout-3277-2873.pdf ex.11",
+   "answer": "100"
+  },
+  {
+   "id": "3021",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Les chiffres de 2^n et ceux de 5^n",
+   "from": "Handout-1878-1762.pdf pb.7",
+   "answer": "demonstration, total = n+1"
+  },
+  {
+   "id": "3022",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "7^p + 3^p - 4 n'est jamais un carre",
+   "from": "Handout-3291-2885.pdf ex.15 (JBMO 2007)",
+   "answer": "toujours 2 mod 4"
+  },
+  {
+   "id": "3023",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Le tour du magicien",
+   "from": "Handout-3277-2873.pdf ex.8 (AIME 1986)",
+   "answer": "358"
+  },
+  {
+   "id": "3024",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Quand 1!+2!+...+n! est-il un carre ?",
+   "from": "Handout-3277-2873.pdf ex.5 (HMMT Guts 2004)",
+   "answer": "(m,n) = (1,1) et (3,3)"
+  },
+  {
+   "id": "3025",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Trois nombres premiers construits sur p",
+   "from": "Handout-3291-2885.pdf ex.10",
+   "answer": "p = 3"
+  }
+ ],
+ "skipped": [
+  {
+   "session": "2885 / Handout-3291-2885.pdf",
+   "items": "ex.1,2,3 (preuves de cours : inverse modulaire, Bezout, petit th. de Fermat), ex.11 (tiroirs, somme d'un bloc divisible par n), ex.13 (JBMO 2008, arrangement de 1^1..2008^2008)",
+   "reason": "ex.1-3 sont des theoremes du cours du handout, pas des problemes autonomes ; ex.11 et 13 sont bons mais le quota etait atteint"
+  },
+  {
+   "session": "2885 / Handout-3291-2885.pdf ex.7",
+   "items": "AMC12 2014B, S = somme des C(2014,k) pour k de 0 a 62, modulo 2017",
+   "reason": "la couche texte du PDF ecrase les indices du coefficient binomial ; reponse calculee 1024, mais il faut relire la page a 300 dpi avant de publier l'enonce"
+  },
+  {
+   "session": "2900 / Handout-3312-2900.pdf",
+   "items": "tout le handout",
+   "reason": "doublon quasi complet du handout 2885 (ex.4-15 identiques) ; rien de neuf"
+  },
+  {
+   "session": "2918 / Handout-3338-2918.pdf",
+   "items": "ex.4 a 8 (formules pour phi(p^a), phi(pq), phi(p^2 q), phi(p^a q^b)), ex.20 (somme des phi(d) = n)",
+   "reason": "cours sur l'indicatrice d'Euler, hors programme francais meme en maths expertes, et ce sont des demonstrations de formules plutot que des problemes"
+  },
+  {
+   "session": "2918 / Handout-3338-2918.pdf",
+   "items": "ex.12,13,14 (systemes complets de residus)",
+   "reason": "vocabulaire tres specialise, il faudrait replier trois definitions dans l'enonce"
+  },
+  {
+   "session": "2873 / Handout-3277-2873.pdf ex.6",
+   "items": "TNMO-FR 2018, suite x0=2018 avec xn = xn-1 - 12 ou 9xn-1 - 4",
+   "reason": "QCM dont les options font tout le travail ; reecrit en question ouverte il devient flou. Invariant : tous les xn valent 2 modulo 12, la bonne option est (D) 2018^2018 - 2018"
+  },
+  {
+   "session": "2749 / Handout-3199-2749.pdf ex.6",
+   "items": "maximum de 3x - x^3 et de 2x - x^3",
+   "reason": "enonce faux tel quel : sur R ces expressions ne sont pas majorees. Le handout sous-entend x > 0 sans le dire"
+  },
+  {
+   "session": "2749 / Handout-3199-2749.pdf ex.11",
+   "items": "IMO 2012 probleme 2",
+   "reason": "niveau IMO, au-dessus de Terminale meme a cinq etoiles"
+  },
+  {
+   "session": "2798 / Handout-3218-2798.pdf ex.4",
+   "items": "TJNMO-FR 2009, 2x^2 - 3y = -8,5 et y^2 - 4x = 7",
+   "reason": "les deux equations ne se recollent pas en somme de carres nuls comme le suggere la serie ; soit un signe est ecrase par l'extraction, soit l'enonce est different. A relire en image"
+  },
+  {
+   "session": "2781 / Handout-3203-2781.pdf ex.5,6",
+   "items": "QCM (couples (A,B) sans solution ; diagonales d'un pave)",
+   "reason": "QCM dont les options portent le probleme"
+  },
+  {
+   "session": "1983 / Handout-2233-1983.pdf ex.5,6,8",
+   "items": "amis dans un groupe de 2n+1, triangles d'aire 1, permutations a k points fixes",
+   "reason": "demonstrations generales longues, au-dessus de Terminale"
+  },
+  {
+   "session": "1984 / Handout-2235-1984.pdf ex.1,2,4,5",
+   "items": "tournoi d'echecs, remplacement (a+b)/2 et (a-b)/2, jeu des triangles colories, clubs et societes (IMO 2005 P6)",
+   "reason": "niveau olympiade internationale"
+  },
+  {
+   "session": "1762 / Handout-1878-1762.pdf ex.5,10,11,12,13",
+   "items": "developpements decimaux periodiques, 1/(10^n+1), permutations des periodes, carre commencant par des chiffres donnes, 2^n+1 = AABBCCDD",
+   "reason": "les cinq demandent la theorie des developpements periodiques developpee sur les trois premieres pages du handout"
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "ANSWERS DEJA CALCULES ET VERIFIES, prets a reutiliser (aucun n'est encore importe).\n\nHandout-3277-2873.pdf (Modular Arithmetic I) :\n  ex.1 chiffre des unites de k^3 + 3^k avec k = 2022^3 + 3^2022 -> 6\n  ex.2 101 | 2a191776b9 -> (a,b) = (9,4)\n  ex.3 deux derniers chiffres non nuls de 20! -> 64\n  ex.9 couples (a,b) dans [1;17]^2 avec 17 | 1+4a+5b+3ab -> 33\n  ex.10 plus grand premier p avec p|n^2+1 et p|(n+1)^2+8 -> 17 (n = 13)\n\nHandout-3291-2885.pdf (Fermat) :\n  ex.5 n < 500 avec 300 | n^3 - 30n^2 + 200 -> 17 valeurs (n = 10 mod 30)\n  ex.6 plus grand premier p avec p|n^2+3 et p|(n+1)^2+3 -> 13 (n = 6)\n  ex.7 AMC12 2014B, somme des C(2014,k), k de 0 a 62, mod 2017 -> 1024 (relire la page avant de publier)\n  ex.13 JBMO 2008 shortlist -> non, la concatenation vaut 2 mod 3\n  ex.14 1!+...+n! = m^k avec k>=2 -> (n,m,k) = (3,3,2) et (1,1,k) pour tout k\n\nHandout-3338-2918.pdf (Euler phi) :\n  ex.1 chiffre des unites de 7^(7^7) -> 3\n  ex.2 2^(50^50) mod 13 -> 3\n  ex.11 nombre de carres modulo 25 -> 11 (0,1,4,6,9,11,14,16,19,21,24)\n  ex.15 2^(1000^1000) mod 7 -> 2 ; ex.16 mod 15 -> 1\n  ex.17 trois derniers chiffres de 2013^1000 -> 001\n  ex.19 Canada MO 2003, trois derniers chiffres de 2003^(2002^2001) -> 241\n\nHandout-3422-2965.pdf (Modular Arithmetic IV) :\n  ex.5 Irlande 2009, n^8+n+1 premier -> n = 1 seulement (n^2+n+1 divise n^8+n+1, verifie)\n  ex.9 plus petit entier dont le cube finit par 207 -> 143\n  ex.10 plus grand entier non somme d'un compose multiple de 7 et d'un compose multiple de 13 -> 111\n  ex.11 AIME 2021 II, plus petit n avec 1000 | 2^n + 5^n - n -> 797\n\nHandout-3218-2798.pdf (Equations) :\n  ex.1 a = -9/10, b = (a+1)(a^2+1)(a^4+1) -> 19b + 10a^8 = 10 (telescopage par (a-1))\n  ex.3 m+n+k = 2020 et m^2+n^2+k^2 = mn+mk+nk+7 -> (m,n,k) = (672,673,675)\n  ex.5 AIME 2008 I, x^2+84x+2008 = y^2 -> (x,y) = (18,62), x+y = 80\n  ex.8 x^3+y^3+z^3 -> 1045 ou 1360\n  ex.9 x^2y+y^2z+z^2x = xy^2+yz^2+zx^2 = 21 et x+y+z = 6 -> x^2+y^2+z^2 = 18 (x=y=1, z=4)\n  ex.11 TNMO-FR 2018, x irrationnel, x^2-2x et x^3-5x rationnels -> x^3-5x = 2 (tres bon candidat 1re/Terminale)\n  ex.13 solutions en reels positifs de x^2+1=2y, y^2+1=2z, z^2+1=2x -> une seule, x=y=z=1\n\nHandout-3203-2781.pdf (Cauchy-Schwarz) :\n  ex.1 x^2+y^2 = 4, max de x+2y -> 2*racine(5)\n  ex.3 x^2+y^2 = 1, 3x+4y -> entre -5 et 5\n  ex.4 x^2+y^2+z^2 = 1, max de 3x+4y+12z -> 13, en (3/13, 4/13, 12/13)\n  ex.7 Nesbitt : a/(b+c)+b/(a+c)+c/(a+b) >= 3/2\n\nHandout-3142-2701.pdf (Recursion) :\n  ex.1a 1x10 avec des tuiles 1x1, 1x2, 1x3 -> 274 (tribonacci)\n  ex.1b 1x10 avec des tuiles 1x1 et 1x3 -> 28\n  ex.2 2x10 avec des tuiles 1x2 et 2x2 -> 683 (a_n = a_{n-1} + 2 a_{n-2})\n  ex.3 fourmi sur un triangle, probabilite d'etre en A apres 6 pas -> 11/32\n  ex.4 nombre de chemins de 8 pas revenant en A sur un triangle -> 86\n  ex.6 AIME 2001 I, facteur et 19 maisons -> 351\n  ex.8 parties de {1,...,10} contenant trois entiers consecutifs -> 520 (= 1024 - 504)\n\nHandout-1878-1762.pdf (Digits and base representations) :\n  pb.3 nombres de 1 a 2019 de surchiffre 5 -> 224\n  pb.4 3 x 2ABCDE = ABCDE2 -> 285714 (tres bon 4e/3e, non importe faute de quota)\n  pb.9a 9...9(n) 8 0...0(n) 1 = (10^(n+1) - 1)^2 ; pb.9b 9...9(n) 4 0...0(n) 9 = (10^(n+1) - 3)^2\n\nHandout-2233-1983.pdf (Combinatorics) :\n  ex.1 8^2010, reduction iteree de la somme des chiffres -> 1 (8 = -1 mod 9), tres bon 4e\n  ex.2 six 0 et cinq 1, operation d'effacement -> le dernier nombre est 1 (parite du nombre de 1), bon 4e/3e\n  ex.3 n impair, 1..2n, on remplace a,b par |a-b| -> le dernier nombre est impair\n  ex.7 somme des i*C(n,i) = n*2^(n-1), bon 1re\n\nPOUR LA PROCHAINE PASSE : les seances 0 a 15 (celles avec corriges) sont maintenant depouillees ; il reste a piocher dans les reponses ci-dessus. La suite de la liste (a partir de l'indice 16) n'a pas de corriges. Les seances 19 a 26 et 29, 33 a 47, 58 a 64 sont de la geometrie olympique (Ceva, Menelaus, axe radical, inversion, quadrilateres cycliques) : elles demandent des figures SVG et beaucoup de temps. Les seances 52 a 56, 61, 63, 65, 92 a 108 (equations differentielles, topologie algebrique, caracteres de Dirichlet, theorie des groupes, postulat de Bertrand, reciprocite quadratique, series generatrices) sont universitaires : a sauter en bloc. Les plus rentables ensuite sont les indices 27 (Board Problems), 32 (Induction), 36 (Diophantine), 38 et 42 (Game Theory), 48 a 51 (Mixed / Counting), 67 a 70 (Counting, Pigeonhole, Invariants) et 73, 74 (Graphs).",
  "updated": "2026-09-19",
  "sessions": [
   {

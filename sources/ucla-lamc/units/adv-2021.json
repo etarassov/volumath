@@ -6,14 +6,138 @@
   "1401",
   "1600"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 198,
  "sessions_with_answers": 27,
  "next_session": 0,
- "imported": [],
- "skipped": [],
- "retired_ids": [],
- "notes": "",
+ "imported": [
+  "1401",
+  "1402",
+  "1403",
+  "1404",
+  "1405",
+  "1406",
+  "1407",
+  "1408",
+  "1409",
+  "1410",
+  "1411",
+  "1412",
+  "1414",
+  "1415",
+  "1416",
+  "1417",
+  "1418",
+  "1419",
+  "1420",
+  "1421",
+  "1422",
+  "1423",
+  "1424",
+  "1425",
+  "1426"
+ ],
+ "skipped": [
+  {
+   "session": "3573",
+   "file": "Handout-3916-3573.pdf",
+   "ref": "partie 1, problème 1",
+   "reason": "Cryptarithme de compétition « maximiser MATHM + AJORS ». L'énoncé ne dit pas si les lettres doivent désigner des chiffres deux à deux distincts, et le barème est du type « seule la meilleure équipe marque ». Pas d'énoncé fermé, non importable tel quel."
+  },
+  {
+   "session": "3573",
+   "file": "Handout-3916-3573.pdf",
+   "ref": "partie 2, problème 2",
+   "reason": "ÉNONCÉ INCOHÉRENT. « (a+b)(a+b−1) = ab et a²+b² = 3, trouver a³+b³ ». Avec s = a+b et p = ab on a p = s²−s, donc a²+b² = s²−2p = −s²+2s = 3, soit s²−2s+3 = 0, de discriminant −8 : aucune solution réelle. En poussant formellement, a³+b³ = 4s+3, qui n'est pas constant. La réponse « 3 » du corrigé n'est pas retrouvable. Il manque probablement un signe dans le handout."
+  },
+  {
+   "session": "3573",
+   "file": "Handout-3916-3573.pdf",
+   "ref": "partie 3, problème 4",
+   "reason": "« Échiquier 8×8, combien de coloriages avec exactement 31 cases noires deux à deux non voisines par un côté ? » RÉPONSE VÉRIFIÉE PAR PROGRAMME : 68 (et 2 pour 31 remplacé par 32). Structure trouvée : 64 = 2 × 32 coloriages obtenus en retirant une case à l'un des deux damiers, plus 4 configurations « décalées » qui ne sont contenues dans aucun damier. Non importé parce que la démonstration à la main de ces 4 cas supplémentaires est longue et fragile. Excellent sujet pour un passage qui prendrait le temps de l'écrire."
+  },
+  {
+   "session": "3573",
+   "file": "Handout-3916-3573.pdf",
+   "ref": "partie 4, problème 5",
+   "reason": "ÉNONCÉ CONTRADICTOIRE (les cinq boîtes de pâtisseries). Les relations écrites en anglais donnent C = E/3, B = 2(C+E), A = E/2, A = D/10 et B = 4D, d'où 8C = B = 4D = 40A = 20E = 60C : impossible sauf C = 0. Le corrigé annonce 310, valeur non retrouvée. Traduction fautive quelque part dans le handout."
+  },
+  {
+   "session": "3573",
+   "file": "Handout-3916-3573.pdf",
+   "ref": "partie 5 « Review », problèmes 1 à 5",
+   "reason": "Ordre d'un élément dans un groupe, (Z/14Z)*, automate fini déterministe, groupes à 4 et 5 éléments à isomorphisme près, flot maximal dans un graphe. Hors programme français à tous les niveaux du club. Réponses du corrigé, pour mémoire : 9 ; {1,3,5,9,11,13} ; 39 ; 2 et 1 ; flot maximal 14."
+  },
+  {
+   "session": "3398",
+   "file": "Handout-3789-3398.pdf",
+   "ref": "section 1, problèmes 1.1 à 1.4",
+   "reason": "Logique propositionnelle formelle : tables de vérité avec les connecteurs →, ¬, ∧, ∨, réécriture avec ¬ et ∧ seulement, et une déduction dans une théorie L avec Modus Ponens. Le formalisme n'est pas celui du lycée français. Réponses du corrigé : 1.1 (c,d) ∈ {(V,V),(F,V)} avec a = b = V ; 1.2 non équivalentes, contre-exemple (a,b,c) = (F,V,V) ; 1.3 ¬((A ∧ ¬B) ∧ (C ∧ ¬D))."
+  },
+  {
+   "session": "3398",
+   "file": "Handout-3789-3398.pdf",
+   "ref": "problèmes 1.5 et 1.6",
+   "reason": "Le carrefour sur l'île des chevaliers et des menteurs, et les trois tortues dans le tuyau. Deux classiques déjà largement représentés dans la base (0185, 0432, 0537, 0552, 0556, 0557). Sautés avant écriture."
+  },
+  {
+   "session": "3398",
+   "file": "Handout-3789-3398.pdf",
+   "ref": "sections 2, 3 et 4",
+   "reason": "Jonglage (notation siteswap), empilements de cercles et nerf d'un empilement, projection stéréographique, cardinalité (bijection explicite de [0,1) sur (0,1), ensembles dénombrables). Chaque problème demande trois pages de mise en place propre au handout. Réponses du corrigé pour mémoire : 2.1 « 234 valide, 98 non, 513 non » ; 4.1 m^n, non dénombrable, dénombrable, non dénombrable."
+  },
+  {
+   "session": "3602",
+   "file": "Handout-3937-3602.pdf",
+   "ref": "tout le handout « Really Big Numbers »",
+   "reason": "Flèches de Knuth, fonction d'Ackermann, nombre de Graham. Le problème 3 (montrer que 2 ↑ⁿ 2 = 4 pour tout n) est une vraie récurrence de Terminale et serait importable en repliant la définition des flèches dans l'énoncé ; laissé pour un passage ultérieur. Le reste (A(4,4), récursivité primitive, hypercubes de Ramsey) est hors de portée."
+  },
+  {
+   "session": "3684",
+   "file": "Handout-4003-3684.pdf",
+   "ref": "tout le handout « Prime Numbers and Factorizations »",
+   "reason": "Anneaux, unités, éléments premiers contre éléments irréductibles, anneaux intègres, entiers de Gauss Z[i], Z[√−5]. Niveau licence. Seul le problème 1 (infinité de nombres premiers) serait au niveau d'un club de Terminale, mais c'est un classique susceptible d'être déjà importé ailleurs. Les séances 4009-3686 et 4021-3710 sont la suite du même cours et tombent sous la même remarque."
+  },
+  {
+   "session": "3635",
+   "file": "Handout-3959-3635.pdf",
+   "ref": "tout le handout « The Fundamental Theorem of Algebra »",
+   "reason": "Division euclidienne des polynômes, degré du reste, « a est racine de f si et seulement si (x−a) divise f ». Ce sont des exercices de cours plutôt que des problèmes de club. Réserve honnête pour un passage qui chercherait du 1re algèbre de routine : les trois divisions du problème 2 donnent (x+1, reste 2), (x²−2x−1, reste 0) et (x²+4x−13, reste −21x+5)."
+  },
+  {
+   "session": "3653",
+   "file": "Handout-3976-3653.pdf",
+   "ref": "problèmes 1, 2, 4, 5 et la suite du handout",
+   "reason": "Tracé de courbes d'équations polynomiales, degré d'un polynôme à deux variables, conjecture du théorème de Bézout. Les tracés sont des exercices de cours de 2de ; la conjecture demande tout le fil du handout. Seul le problème 3.4 a été retenu (id 1426). Réponses des autres systèmes du problème 3 : (1;1) ; la droite y = x tout entière ; (1;1) et (1;−1)."
+  },
+  {
+   "session": "3441",
+   "file": "Handout-3823-3441.pdf",
+   "ref": "problèmes 1, 3, 4 et suite (fonctions génératrices)",
+   "reason": "Le problème 1 (pavages d'un rectangle 2×n par des dominos, réponse 89 pour 2×10) fait doublon avec l'exercice 0178 déjà présent en 4e. Le problème 3 et toute la partie « fonctions génératrices » (chemins de Dyck, nombres de Catalan, séries formelles) sont hors programme. Seul le problème 2.2 a été retenu (id 1411)."
+  },
+  {
+   "session": "3429",
+   "file": "Handout-3798-3429.pdf",
+   "ref": "problèmes 5, 6 à 11",
+   "reason": "Problème 5 : le problème de Monty Hall, classique susceptible d'être importé par un autre agent, laissé de côté. Problèmes 6 à 10 : tribus, espaces probabilisables, De Morgan sur des unions dénombrables — formalisme de licence. Problème 11 (paradoxe de Simpson, calculs rénaux) : les pourcentages du handout ne se recollent pas en effectifs entiers (93 % et 73 % pour 350 patients donnent 87,5), il faudrait retrouver les effectifs de l'étude originale ; bon sujet de statistiques de 1re pour un passage qui accepte de reconstruire les données."
+  },
+  {
+   "session": "3397",
+   "file": "Handout-3773-3397.pdf",
+   "ref": "problème 1 et toute la partie « axiome du choix »",
+   "reason": "Le problème 1 (deux personnes, chapeaux rouges ou bleus, garantir une bonne réponse) est exactement le même mécanisme que l'exercice 1408 écrit à partir de la même séance sous sa forme « deux prisonniers et deux pièces » : non dupliqué. La partie principale (relation d'équivalence sur les suites, classes, axiome du choix, ligne infinie de chapeaux) est hors programme."
+  }
+ ],
+ "retired_ids": [
+  {
+   "id": "1413",
+   "why": "Same computation as 0406 (3e), just 14 factors instead of 19. It added no mathematics, and filing a 3e computation at 1re inflates that folder, which the import brief warns against. Its own agent called it the least distinctive of the three. The genuine upper-grade version of this problem is 1802, which proves the general formula. 3422 was repointed from 1413 to 1802. Never reuse the id 1413.",
+   "survivor": "0406",
+   "decided": "2026-09-19"
+  }
+ ],
+ "notes": "Passage 1 (Opus, 2026-09-19), 26 exercices, ids 1401 à 1426, aucun id retiré.\n\nSéances dépouillées, par indice dans la liste « sessions » de ce fichier : 11 (Hat Puzzles, 3397), 15 (Winter Competition, 3573), 16 (Electrical Circuits and Random Walks, 3551), 19 (Bézout's Theorem part 1, 3653), 27 (Recurrences and Generating Functions, 3441), 36 (Introduction to Probability, 3429).\nSéances ouvertes, lues et rejetées en bloc : 13 (Fall Competition, 3398), 17 (Fundamental Theorem of Algebra, 3635), 20 (Big Numbers, 3602), 21 (Primes and Factorization, 3684). Voir « skipped » pour le détail et pour les réponses déjà calculées.\nToutes les autres séances n'ont pas été ouvertes. « next_session » est laissé à 0 : reprendre au début de la liste en sautant les indices ci-dessus.\n\nLE FICHIER LE PLUS RENTABLE DE L'UNITÉ est de loin Handout-3916-3573.pdf, « Winter Competition / Game » (indice 15) : 25 problèmes courts et autonomes, avec un corrigé à réponses sèches dans Handout-3917-3573.pdf. Quatorze des vingt-cinq sont maintenant importés, quatre sont inexploitables ou hors programme (détail dans « skipped »), et le reste de la partie 5 est de l'algèbre abstraite. Attention, ce corrigé se trompe deux fois (voir ci-dessous).\n\nDEUX ERREURS RELEVÉES DANS LES DOCUMENTS DE LA SÉANCE 3573 :\n1) Partie 2, problème 1 : le handout imprime le dernier facteur « 1 − 1/255 », mais la suite des dénominateurs est 4, 9, 16, ... c'est-à-dire n², et la réponse 8/15 du corrigé correspond à 1 − 1/225 = 1 − 1/15². C'est donc une coquille pour 225. L'exercice 1413 énonce proprement le produit jusqu'à 1 − 1/15².\n2) Partie 1, problème 5 : le corrigé donne 2858 pour « n < 10 000 », mais le décompte exact pour 1 ≤ n ≤ 9 999 est 2857 (vérifié par programme, et à la main : période 21, six bons restes 2, 4, 5, 6, 10, 15, et 9 999 = 21 × 476 + 3). La valeur 2858 correspond à 1 ≤ n ≤ 10 000. L'exercice 1401 utilise donc la borne « 1 ≤ n ≤ 10 000 », ce qui rend l'énoncé cohérent avec le corrigé.\n\nRÉPARTITION DES 26 EXERCICES : Terminale 11 (1401, 1402, 1403, 1404, 1405, 1406, 1407, 1409, 1410, 1411 et rien d'autre en arithmétique), 1re 8 (1412, 1413, 1414, 1415, 1416, 1417, 1418, 1426), 2de 3 (1408, 1419, 1420), 3e 3 (1421, 1422, 1423), 4e 2 (1424, 1425). Difficultés de 2 à 5.\n\nDOUBLON À ARBITRER PAR LE COORDINATEUR : l'exercice 1413 (produit des 1 − 1/n² jusqu'à n = 15, 1re) est le même problème que 0406 (3e, import MSU, jusqu'à n = 20) et que 2003 (Terminale, autre agent de ce passage, formule générale démontrée). Les trois sont à trois niveaux différents et 1413 porte un see_also vers les deux autres. J'avais d'abord supprimé 1413 puis je l'ai rétabli : l'agent voisin qui a écrit 3422 y pointe déjà par see_also, et la suppression cassait sa référence. Si le coordinateur veut n'en garder que deux, c'est 1413 qui est le moins distinctif.\n\nPOUR LE PASSAGE SUIVANT : les séances « Advanced 2 » et « Advanced 3 » de cette unité (théorie des groupes, anneaux de polynômes, variétés affines, automates, codes correcteurs, relativité restreinte, règle à calcul) sont pour l'essentiel du niveau licence et ne donneront rien. Le gisement restant est du côté des séances « Advanced 1 » à thème classique : probabilités, dénombrement, récurrences, arithmétique. Les compétitions (indices 13 et 15) sont le meilleur format parce que les problèmes y sont déjà autonomes.",
  "updated": "2026-09-19",
  "sessions": [
   {

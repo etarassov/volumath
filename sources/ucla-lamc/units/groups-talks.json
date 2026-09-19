@@ -6,14 +6,244 @@
   "4801",
   "5000"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 145,
  "sessions_with_answers": 17,
- "next_session": 0,
- "imported": [],
- "skipped": [],
+ "next_session": 9,
+ "imported": [
+  {
+   "id": "4801",
+   "grade": 12,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Tous les chevaux ont la même couleur",
+   "from": "handoutId10-0.pdf, section 2"
+  },
+  {
+   "id": "4802",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Une tour de puissances divisible par 3^(n+1)",
+   "from": "handoutId10-0.pdf, section 4 ex 2"
+  },
+  {
+   "id": "4803",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "La somme de trois cubes consécutifs est divisible par 9",
+   "from": "handoutId10-0.pdf, section 4 ex 1"
+  },
+  {
+   "id": "4804",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Une somme de racines carrées inversées, majorée par 2 racine de n",
+   "from": "handoutId10-0.pdf, section 5 ex 1"
+  },
+  {
+   "id": "4805",
+   "grade": 12,
+   "theme": "coloring",
+   "difficulty": 4,
+   "title": "Colorier en deux couleurs un plan découpé par des droites",
+   "from": "handoutId10-0.pdf, section 7 ex 1"
+  },
+  {
+   "id": "4806",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Le produit des voisins de Fibonacci",
+   "from": "handoutId10-0.pdf, section 8 ex 2"
+  },
+  {
+   "id": "4807",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Le pouvoir de vote au Conseil de sécurité",
+   "from": "Handout-189-206.pdf ex 3"
+  },
+  {
+   "id": "4808",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Un dé auquel il manque un point",
+   "from": "handoutId11-0.pdf ex 16"
+  },
+  {
+   "id": "4809",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "Une probabilité qui vaut 1",
+   "from": "handoutId11-0.pdf ex 19"
+  },
+  {
+   "id": "4810",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Les plaques à deux lettres voisines",
+   "from": "handoutId11-0.pdf ex 5"
+  },
+  {
+   "id": "4811",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Partager un gâteau à trois",
+   "from": "Handout-186-205.pdf ex 1"
+  },
+  {
+   "id": "4812",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Trois navires qui ne pèsent rien",
+   "from": "Handout-189-206.pdf ex 2"
+  },
+  {
+   "id": "4813",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Le cavalier sur l'échiquier 4 x 4",
+   "from": "Handout-192-208.pdf ex 11"
+  },
+  {
+   "id": "4814",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Une formule à nombres premiers, vraiment ?",
+   "from": "handoutId10-0.pdf section 4 ex 4"
+  },
+  {
+   "id": "4815",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Des angles qui se suivent régulièrement",
+   "from": "handoutId11-0.pdf ex 20"
+  },
+  {
+   "id": "4816",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Les mille casiers",
+   "from": "Handout-192-208.pdf ex 22"
+  },
+  {
+   "id": "4817",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Le coureur sur le pont de chemin de fer",
+   "from": "Handout-192-208.pdf ex 26"
+  },
+  {
+   "id": "4818",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "La voix unique de Cendrillon",
+   "from": "Handout-186-205.pdf ex 6"
+  },
+  {
+   "id": "4819",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Un quart des faces sont rouges",
+   "from": "handoutId11-0.pdf ex 14"
+  },
+  {
+   "id": "4820",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Les sonneries de la pendule",
+   "from": "Handout-192-208.pdf ex 2"
+  },
+  {
+   "id": "4821",
+   "grade": 8,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Un nombre moins son miroir",
+   "from": "Handout-192-208.pdf ex 8"
+  },
+  {
+   "id": "4822",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Le coffre au trésor et les deux pythons",
+   "from": "Handout-192-208.pdf ex 25"
+  },
+  {
+   "id": "4823",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Les bûcherons et les troncs",
+   "from": "Handout-192-208.pdf ex 27"
+  },
+  {
+   "id": "4824",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Cent animaux pour cent euros",
+   "from": "Handout-192-208.pdf ex 19"
+  }
+ ],
+ "skipped": [
+  {
+   "session": "0-4, Middle School Summer Club (Handout-2415/2416/2423/2424/2425/2426/2430/2431/2444/2445)",
+   "reason": "no problem statements on disk. The 'problems' files are lists of artofproblemsolving.com URLs only, and the lecture notes hold worked examples below 4e. Handout-2415 and Handout-2430 have no text layer at all."
+  },
+  {
+   "session": "7, Group B, Handout-183/184/185-209",
+   "reason": "the file labelled 'tropical mathematics' is in fact Jeff Hicks's knot-theory and braid-group lecture. Far above Terminale, and every problem depends on figures drawn on the board. The two companion files have no text layer."
+  },
+  {
+   "problem": "Handout-186-205.pdf, exercices 2 to 5 (apportionment of seats)",
+   "reason": "a lesson rather than a problem: the four rounding methods need three pages of definitions, and finding the divisor D is a trial-and-error search with no unique answer. Answers worked out anyway, see verified_answers."
+  },
+  {
+   "problem": "Handout-192-208.pdf, exercice 28 (bus, 3/4 get off and 7 get on, three times)",
+   "reason": "the handout answer (28) contradicts an exhaustive search: the smallest possible final number is 10, from 52 -> 20 -> 12 -> 10. Not imported because the source answer is wrong and the intended reading is unclear."
+  },
+  {
+   "problem": "Handout-192-208.pdf, exercice 24 (letters needed to spell one to ninety-nine)",
+   "reason": "English-specific word lengths, the answer 854 means nothing in French"
+  },
+  {
+   "problem": "handoutId11-0.pdf, exercice 6 (anagrams of MATHEMATICAL)",
+   "reason": "too close to 2406 'Les anagrammes d'un très long mot' (Terminale, another agent's block). Answer for a French version: MATHEMATIQUES has 13!/(2!)^4 = 389 188 800 anagrams, CERCLE has 180."
+  },
+  {
+   "problem": "handoutId10-0.pdf, section 7 exercice 2 (regions cut by n lines)",
+   "reason": "already in the database as 0328 'En combien de morceaux n droites coupent-elles le plan ?'"
+  },
+  {
+   "problem": "Handout-192-208.pdf, exercice 29 (sequences of 1s and 2s summing to 10, answer 89)",
+   "reason": "the same Fibonacci count is already in as 2019 'Carreler une frise de 24 cases' and 3016 'La grenouille et les dix-neuf marches'"
+  },
+  {
+   "problem": "Handout-192-208.pdf, exercices 1, 7, 9, 14, 15, 20, 30",
+   "reason": "relay stunts or cut-and-rearrange tasks judged in person (sing a song, trace an envelope in one stroke, cut a shape into two identical pieces), with no written answer and no usable figure"
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "Imported 24 exercises, ids 4801-4824, spread over grades 8 to 12 and difficulties 2 to 5. Worked sessions 5, 6, 8 (Group A: apportionment, voting power, Math Relays) and the two 2007 named talks, handoutId10-0.pdf (Introduction to Induction, Olga Radko) and handoutId11-0.pdf (Essential Counting Strategies, Kevin Wang). THREE SAME-FOLDER DUPLICATES with another agent's block, all from the induction material: 4801 = 2005 (Tous les chevaux ont la meme couleur), 4805 = 2006 (two-colouring the plane cut by lines), 4806 = 2004 (Fibonacci identity F(n-1)F(n+1) - F(n)^2). The other agent worked Handout-991-1043.pdf (Advanced, Induction I), which carries the same classics as Olga Radko's 2007 talk. Per the parallel-import rule nothing was deleted; the coordinator should keep one of each pair. LESSON FOR THE NEXT PASS: the 2007-2008 named talks overlap heavily with the Advanced induction and counting handouts, so run 'vm.py list --grade 11' and '--grade 12' before writing anything from them. Sessions 0-4 and 7 are dead ends, see skipped. Resume at session 9 (Problems with Trees / Combinatorial Game Theory, which has an answers file).",
  "updated": "2026-09-19",
  "sessions": [
   {
@@ -2201,6 +2431,113 @@
      "file": "handoutId5-0.pdf"
     }
    ]
+  }
+ ],
+ "verified_answers": [
+  {
+   "ref": "Handout-192-208.pdf ex 6",
+   "q": "multiples of 5 strictly between 197 and 1007",
+   "a": "162"
+  },
+  {
+   "ref": "Handout-192-208.pdf ex 10",
+   "q": "seller takes 20 %, grower wants 1 EUR per kg",
+   "a": "sell at 1,25 EUR per kg"
+  },
+  {
+   "ref": "Handout-192-208.pdf ex 12",
+   "q": "31 December of year X is a Tuesday, possible weekday of 1 January of year X+4",
+   "a": "Saturday or Sunday (shift = 4 + L days, L = 0 or 1 leap year among X+1..X+3)"
+  },
+  {
+   "ref": "Handout-192-208.pdf ex 13",
+   "q": "six fair coin tosses, at least two tails",
+   "a": "57/64"
+  },
+  {
+   "ref": "Handout-192-208.pdf ex 16",
+   "q": "N with N-12 a prime power (exponent > 1), N-1 prime, digits prime powers",
+   "a": "N = 44 is the only one below 1000 (brute forced)"
+  },
+  {
+   "ref": "Handout-192-208.pdf ex 18",
+   "q": "Egyptian fraction for 12/13",
+   "a": "1/2 + 1/3 + 1/12 + 1/156"
+  },
+  {
+   "ref": "Handout-192-208.pdf ex 21",
+   "q": "one paints a fence in 5 h, the other in 7 h, together",
+   "a": "35/12 h = 2 h 55 min"
+  },
+  {
+   "ref": "Handout-192-208.pdf ex 23",
+   "q": "voting power with weights 4, 3, 2, 1 and quota 6",
+   "a": "5/12, 1/4, 1/4, 1/12 (brute forced)"
+  },
+  {
+   "ref": "Handout-192-208.pdf ex 28",
+   "q": "bus, 3/4 get off and 7 get on, three times, smallest final count",
+   "a": "10 (from 52), NOT the 28 printed in the answer key"
+  },
+  {
+   "ref": "Handout-186-205.pdf ex 3",
+   "q": "10 seats, crews 77/46/30/27, four apportionment methods",
+   "a": "Hamilton (largest remainder) 4-3-2-1 ; Jefferson (round down, lower D, e.g. D=15,2) 5-3-1-1 ; Adams (round up, raise D, e.g. D=23) 4-2-2-2 ; Webster (round to nearest, e.g. D=18,2) 4-3-2-1"
+  },
+  {
+   "ref": "Handout-189-206.pdf ex 4",
+   "q": "Emerald City council, weights 5, 3, 1, 1, 1, quota 8",
+   "a": "9 winning coalitions, powers 9/19, 7/19, 1/19, 1/19, 1/19 (brute forced). Nice surprise: Dorothy with 3 votes outweighs the three 1-vote members put together."
+  },
+  {
+   "ref": "handoutId11-0.pdf ex 8",
+   "q": "four-digit integers with at least one digit 2 or 3",
+   "a": "9000 - 7*8^3 = 5416"
+  },
+  {
+   "ref": "handoutId11-0.pdf ex 12",
+   "q": "15 vents, at least one on",
+   "a": "2^15 - 1 = 32767"
+  },
+  {
+   "ref": "handoutId11-0.pdf ex 13",
+   "q": "paths spelling TRIANGLE down the letter triangle, moving down or down-right",
+   "a": "2^7 = 128 (needs an SVG of the letter triangle)"
+  },
+  {
+   "ref": "handoutId11-0.pdf ex 22",
+   "q": "'prime-looking' numbers below 1000 (composite, not divisible by 2, 3 or 5)",
+   "a": "100 (brute forced)"
+  },
+  {
+   "ref": "handoutId11-0.pdf ex 23",
+   "q": "number of possible endpoints of a ten-step lattice walk",
+   "a": "121 (brute forced); the reachable points are |x|+|y| <= 10 with |x|+|y| even"
+  },
+  {
+   "ref": "handoutId11-0.pdf ex 24",
+   "q": "bug on a cube, 7 random moves, visits every vertex exactly once",
+   "a": "18 Hamiltonian paths from a fixed vertex, probability 18/3^7 = 2/243 (brute forced)"
+  },
+  {
+   "ref": "handoutId11-0.pdf ex 25",
+   "q": "subsets of {1..15}, no two consecutive, min element >= size",
+   "a": "405 (brute forced)"
+  },
+  {
+   "ref": "handoutId11-0.pdf ex 26",
+   "q": "squares with all four vertices in a 10x10 array of points (tilted ones included)",
+   "a": "825 (brute forced)"
+  },
+  {
+   "ref": "handoutId10-0.pdf section 5 ex 2",
+   "q": "the inequality printed as '2^n > 1 + n 2^(n-1)'",
+   "a": "the real statement is 2^n > 1 + n*sqrt(2^(n-1)) for n >= 2; the flat text drops the square root sign"
+  },
+  {
+   "ref": "handoutId10-0.pdf section 4 ex 2",
+   "q": "the divisibility printed as '2^3n + 1 divisible by 3^(n+1)'",
+   "a": "the real statement is 2^(3^n) + 1, a nested power. The flat reading 2^(3n) is false already at n = 2 (65 is not divisible by 27). Imported as 4802."
   }
  ]
 }

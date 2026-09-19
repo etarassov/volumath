@@ -6,14 +6,329 @@
   "3801",
   "4000"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 262,
  "sessions_with_answers": 26,
  "next_session": 0,
- "imported": [],
- "skipped": [],
+ "imported": [
+  {
+   "id": "3801",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 1,
+   "title": "Les autocollants de Pierre",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 1"
+  },
+  {
+   "id": "3802",
+   "grade": 8,
+   "theme": "probability-statistics",
+   "difficulty": 1,
+   "title": "La moyenne des trois derniers",
+   "file": "Handout-4070-3775.pdf",
+   "problem": "problème 7 (AMC 8 2004 Q9)"
+  },
+  {
+   "id": "3803",
+   "grade": 8,
+   "theme": "combinatorics",
+   "difficulty": 2,
+   "title": "Les nombres écrits avec les chiffres de 2004",
+   "file": "Handout-4070-3775.pdf",
+   "problem": "problème 19 (AMC 8 2004 Q2)"
+  },
+  {
+   "id": "3804",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 2,
+   "title": "Le sac de billes rouges et vertes",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 17"
+  },
+  {
+   "id": "3805",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 2,
+   "title": "Trois menteurs et leurs cailloux",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 20"
+  },
+  {
+   "id": "3806",
+   "grade": 8,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Les coffres et les pièces d'or",
+   "file": "Handout-4070-3775.pdf",
+   "problem": "problème 5 (AMC 8 2017 Q17)"
+  },
+  {
+   "id": "3807",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Deux puissance 400 contre trois puissance 200",
+   "file": "Handout-4306-4113.pdf",
+   "problem": "problème 1.3"
+  },
+  {
+   "id": "3808",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Le dragon à deux têtes et celui à trois têtes",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 3"
+  },
+  {
+   "id": "3809",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Des plus et des fois entre 1 et 6",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 19"
+  },
+  {
+   "id": "3810",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Multiplié par 10 puis par 15",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 5"
+  },
+  {
+   "id": "3811",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Le chien, le chat et la saucisse",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 7"
+  },
+  {
+   "id": "3812",
+   "grade": 9,
+   "theme": "probability-statistics",
+   "difficulty": 2,
+   "title": "Deux dés pas comme les autres",
+   "file": "Handout-4070-3775.pdf",
+   "problem": "problème 21 (AMC 8 2019 Q18)"
+  },
+  {
+   "id": "3813",
+   "grade": 9,
+   "theme": "probability-statistics",
+   "difficulty": 2,
+   "title": "Plus de piles que de faces",
+   "file": "Handout-4133-3874.pdf",
+   "problem": "problème 17"
+  },
+  {
+   "id": "3814",
+   "grade": 9,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "Les deux E du mot NEUVE",
+   "file": "Handout-4133-3874.pdf",
+   "problem": "problème 15 (SEVEN devenu NEUVE)"
+  },
+  {
+   "id": "3815",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Le devoir de Chloé et de Zoé",
+   "file": "Handout-4070-3775.pdf",
+   "problem": "problème 3 (AMC 8 2017 Q14)"
+  },
+  {
+   "id": "3816",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Le reste du trajet",
+   "file": "Handout-4070-3775.pdf",
+   "problem": "problème 4 (AMC 8 2019 Q16), miles convertis en km"
+  },
+  {
+   "id": "3817",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Trois peintres et une seule salle",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 12"
+  },
+  {
+   "id": "3818",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Cent nombres au tableau",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 18"
+  },
+  {
+   "id": "3819",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Quatre voitures dans le rond-point",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 21"
+  },
+  {
+   "id": "3820",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Les coccinelles de la forêt magique",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 4"
+  },
+  {
+   "id": "3821",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Les mille bouteilles et les souris",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 23"
+  },
+  {
+   "id": "3822",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 5,
+   "title": "Treize enfants autour de la table",
+   "file": "Handout-4165-3921.pdf",
+   "problem": "problème 8"
+  },
+  {
+   "id": "3823",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Les cubes qui divisent un produit de factorielles",
+   "file": "Handout-4070-3775.pdf",
+   "problem": "problème 11 (AMC 10A 2005 Q15)"
+  },
+  {
+   "id": "3824",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Un triangle dans l'octogone",
+   "file": "Handout-4070-3775.pdf",
+   "problem": "problème 24 (AMC 8 2018 Q23)"
+  },
+  {
+   "id": "3825",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Quatre points, six longueurs",
+   "file": "Handout-4070-3775.pdf",
+   "problem": "problème 17 (AMC 10B 2012 Q21)"
+  }
+ ],
+ "skipped": [
+  {
+   "ref": "Handout-4165-3921.pdf, problème 2 (sept entiers consécutifs où le chiffre 2 apparaît 16 fois)",
+   "reason": "Réponse non unique : la recherche exhaustive donne 2215-2221 et 2229-2235 comme seuls départs sous 3000. Bon exercice quand même, à importer en 4e trois étoiles si un prochain passage veut de la matière facile."
+  },
+  {
+   "ref": "Handout-4165-3921.pdf, problème 6 (devinette Eh / Oi / Oh / Ai)",
+   "reason": "Jeu sur des mots anglais, intraduisible. Réponse du corrigé : 150."
+  },
+  {
+   "ref": "Handout-4165-3921.pdf, problème 9 (la Grande Île et la Petite Île)",
+   "reason": "Repose sur la figure du handout et demande un dessin libre, mal adapté au format de la base."
+  },
+  {
+   "ref": "Handout-4165-3921.pdf, problème 10 (33 géants, 240 pièces d'or)",
+   "reason": "Non tranché rigoureusement dans le temps imparti, et le corrigé s'arrête au problème 8. À reprendre."
+  },
+  {
+   "ref": "Handout-4165-3921.pdf, problème 11 (placer des signes pour obtenir 2, 6, 1000)",
+   "reason": "Casse-tête sans réponse unique et sans corrigé dans la source."
+  },
+  {
+   "ref": "Handout-4165-3921.pdf, problème 13 (les vaches de Newton : 70 vaches en 24 jours, 60 en 30 jours, et en 96 jours ?)",
+   "reason": "Vérifié par calcul : l'herbe pousse de 20 vaches-jours par jour, le stock initial vaut 1200 vaches-jours, donc il faudrait 3120/96 = 32,5 vaches. Réponse non entière : l'énoncé est bancal tel quel. Importable seulement en changeant les nombres."
+  },
+  {
+   "ref": "Handout-4165-3921.pdf, problème 14 (le dollar manquant)",
+   "reason": "Paradoxe de formulation plutôt que mathématique. Amusant en séance, sans intérêt comme fiche."
+  },
+  {
+   "ref": "Handout-4165-3921.pdf, problème 15 (grille de 2 × 3 points, en retirer le moins possible pour qu'aucun alignement de 3 ne subsiste)",
+   "reason": "Réponse 2 (les deux seuls alignements de trois points sont les deux rangées). Trop mince pour une fiche."
+  },
+  {
+   "ref": "Handout-4165-3921.pdf, problème 16 (cube 3 × 3 × 3 de petits cubes colorés, deux cubes se touchant par un coin de couleurs différentes)",
+   "reason": "Non importé faute de place. Réponse 8, établie : les 8 petits cubes d'un bloc 2 × 2 × 2 partagent un coin donc exigent 8 couleurs, et colorier selon la parité des trois coordonnées suffit. Prêt à écrire en 3e quatre étoiles."
+  },
+  {
+   "ref": "Handout-4165-3921.pdf, problème 22 (table 2 × 3 remplie avec 1..6, sommes de lignes et de colonnes divisibles par 3)",
+   "reason": "Non importé faute de place. Réponse 48, vérifiée par énumération des 720 permutations. Prêt à écrire en 3e quatre étoiles."
+  },
+  {
+   "ref": "Handout-4165-3921.pdf, problème 24 (jeu d'Alice et Bob sur une grille 4 × 4)",
+   "reason": "Stratégie gagnante longue à rédiger proprement, remise à un prochain passage."
+  },
+  {
+   "ref": "Handout-4070-3775.pdf, problème 1 (racines emboîtées)",
+   "reason": "Réponse 8. Déjà importé par un autre bloc sous 4008."
+  },
+  {
+   "ref": "Handout-4070-3775.pdf, problème 2 (moyenne harmonique de 1, 2 et 4)",
+   "reason": "Réponse 12/7. La définition est donnée dans l'énoncé, il ne reste qu'un calcul : peu de valeur."
+  },
+  {
+   "ref": "Handout-4070-3775.pdf, problème 6 (trois tailles de boîtes de lessive, classer du meilleur au pire achat)",
+   "reason": "Réponse du corrigé : moyenne, grande, petite (M, L, S). Non importé faute de place, prêt à écrire en 3e trois étoiles."
+  },
+  {
+   "ref": "Handout-4070-3775.pdf, problèmes 8, 9, 10, 20, 22, 23",
+   "reason": "Réponses vérifiées (4 solutions réelles ; 3 valeurs de n, à savoir 2, 7 et 17 ; A + B = 8 ; 4/9 ; 4536 palindromes ; 190 partages). Tous déjà importés par le bloc 4001-4200 sous 4010, 4011, 4012, 4014, 4015 et 4003."
+  },
+  {
+   "ref": "Handout-4070-3775.pdf, problème 12 (mots croisés numériques 4 × 4)",
+   "reason": "Repose sur la grille du handout. Réponses du corrigé : 8847, 8642, 2222, 2021."
+  },
+  {
+   "ref": "Handout-4070-3775.pdf, problèmes 13, 14, 15, 16, 18 (géométrie)",
+   "reason": "Énoncés dépendant des figures du handout. Le 18 (D sur [AC] avec AD:DC = 1:2, E milieu de [BD], F intersection de (AE) et (BC), aire de ABC = 360) se décrit entièrement en mots : aire de EBF = 30, vérifiée par coordonnées. Déjà importé par un autre bloc sous 4024."
+  },
+  {
+   "ref": "Handout-4070-3775.pdf, problèmes 25 à 30 (algèbre de Boole)",
+   "reason": "Hors programme français au collège et au lycée."
+  },
+  {
+   "ref": "Handout-4133-3874.pdf, problèmes 13, 14, 16, 18",
+   "reason": "Réponses vérifiées : 2/9 (deux filles parmi 5 filles et 5 garçons), 48/95 (un garçon et une fille parmi 12 et 8), 2/7 (deux sommets voisins d'un octogone), 5/72 (exactement deux 6 avec trois dés). Non importés faute de place, tous prêts à écrire en 3e deux ou trois étoiles."
+  },
+  {
+   "ref": "Handout-4306-4113.pdf, problèmes 2.6 et 3.1",
+   "reason": "Non importés faute de place. 2.6 : une feuille de 0,1 mm pliée 60 fois atteint 0,1 × 2^60 mm ≈ 1,15 × 10^11 km, très au-delà des 149 millions de km Terre-Soleil. 3.1 : 10! = 3 628 800 > 3^10 = 59 049, et 100! ≈ 9,3 × 10^157 > 10^100. Prêts à écrire en 3e deux étoiles."
+  },
+  {
+   "ref": "Handout-4926-5228.pdf (Math dominoes, 2025)",
+   "reason": "Séance entière écartée. Beaucoup de questions d'estimation hors mathématiques (nombre de papes, minutage d'un film), et la couche texte du PDF perd la lettre f et tous les noms de variables en italique, ce qui rend les énoncés illisibles sans relecture image par image."
+  },
+  {
+   "ref": "Handout-4330-4125.pdf (Game Theory), problèmes 1.1, 1.2, 1.3",
+   "reason": "Le 1.1 (deux joueurs posent des jetons ronds sur une table ronde, qui gagne ?) est un bon classique de symétrie, à importer en 3e trois étoiles. Les 1.2 et 1.3 (pirates) demandent une récurrence longue. Le fichier de corrigé Handout-4340-4125.pdf est un scan manuscrit, inutilisable comme vérification."
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "SÉANCES DÉJÀ EXPLOITÉES (ne pas les refaire) : event 3921 (Handout-4165-3921.pdf, Think Outside the Box, 24 problèmes, corrigé partiel Handout-4188-3921.pdf) ; event 3775 (Handout-4070-3775.pdf, Mid-Quarter Competition 1A, 30 problèmes AMC, corrigé complet Handout-4071-3775.pdf) ; event 3874 (Handout-4133-3874.pdf, More on Counting) ; event 4113 (Handout-4306-4113.pdf, Big Numbers) survolé ; event 4125 (Handout-4330-4125.pdf, Game Theory) survolé ; event 5228 (Math dominoes) écarté. next_session reste à 0 car j'ai piqué dans la liste plutôt que de la suivre en ordre : les deux premières séances (Financial Algebra, events 5645 et 5646) n'ont pas été ouvertes.\n\nVÉRIFICATIONS. Toutes les réponses publiées ont été vérifiées : soit par force brute en Python (3803, 3809, 3812, 3813, 3814, 3819, 3820, 3822, 3823, 3824), soit contre le corrigé officiel Handout-4071-3775.pdf (3802, 3806, 3815, 3816, 3825), soit par calcul à la main refait deux fois (3801, 3804, 3805, 3807, 3808, 3810, 3811, 3817, 3818, 3821).\n\nERREUR DANS LA SOURCE. Handout-4188-3921.pdf donne 2/5 comme réponse au problème 5 (un nombre multiplié par 10 et par 15 donne deux fois un nombre premier). C'est faux : 10 × 2/5 = 4 n'est pas premier. La bonne réponse, unique, est 1/5. Vérifiée par énumération et par preuve (3p = 2q avec p et q premiers force p = 2 et q = 3). C'est la réponse publiée dans 3810.\n\nAUTRE PIÈGE. Les PDF « Math dominoes » et « Mid-Quarter Competition » sont exportés depuis PowerPoint : pdftotext y perd la lettre f et tous les identifiants en italique. Lire ces pages en image (pymupdf, 150 dpi) avant de faire confiance à un énoncé.\n\nDOUBLONS AVEC LE BLOC 4001-4200. Cet agent a traité le même Handout-4070-3775.pdf. Aucun fichier n'a été supprimé, conformément à la règle. Paires dans le MÊME dossier, à arbitrer par le coordinateur : 3806 et 4005 (4e algebra 2, « Les coffres et les pièces d'or ») ; 3816 et 4009 (3e algebra 3, la vitesse moyenne de 50 km/h). Paires à cheval sur deux dossiers, reliées par see_also depuis mes fichiers : 3812 et 4006, 3815 et 4004, 3823 et 4017, 3824 et 4018, 3825 et 4016. Deux doublons avec des imports antérieurs, également reliés par see_also : 3810 et 0802, 3811 et 0629. Les fichiers 0802, 0629 et ceux du bloc 4001-4200 n'ont pas de lien retour, je n'ai pas le droit d'y toucher.\n\nMATIÈRE RESTANTE. Handout-4165-3921.pdf n'est pas épuisé (problèmes 2, 10, 11, 16, 22, 24 encore disponibles, avec réponses déjà établies pour 16 et 22, voir skipped). Handout-4306-4113.pdf (Big Numbers) et Handout-4133-3874.pdf (probabilités faciles) ont encore de quoi faire trois ou quatre fiches chacun. Il reste 236 séances non ouvertes, dont 20 avec corrigé.",
  "updated": "2026-09-19",
  "sessions": [
   {

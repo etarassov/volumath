@@ -6,14 +6,469 @@
   "3201",
   "3400"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 97,
  "sessions_with_answers": 9,
- "next_session": 0,
- "imported": [],
- "skipped": [],
+ "next_session": 3,
+ "imported": [
+  {
+   "id": "3201",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Quand |x² − 9| est un nombre premier",
+   "session": "4966",
+   "file": "Handout-4789-4966.pdf"
+  },
+  {
+   "id": "3202",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Six couples d'entiers pour xy + 3x + 4y = 13",
+   "session": "4966",
+   "file": "Handout-4789-4966.pdf"
+  },
+  {
+   "id": "3203",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Un produit de sept facteurs qui s'effondre",
+   "session": "4966",
+   "file": "Handout-4789-4966.pdf"
+  },
+  {
+   "id": "3204",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "La bordure d'un mètre autour du tapis",
+   "session": "4966",
+   "file": "Handout-4789-4966.pdf"
+  },
+  {
+   "id": "3205",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Une longue expression avec 2022 et 2023",
+   "session": "4966",
+   "file": "Handout-4789-4966.pdf"
+  },
+  {
+   "id": "3206",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Une équation qui cache un produit",
+   "session": "4966",
+   "file": "Handout-4789-4966.pdf"
+  },
+  {
+   "id": "3207",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Une fraction géante écrite en base deux",
+   "session": "4966",
+   "file": "Handout-4789-4966.pdf"
+  },
+  {
+   "id": "3208",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Le pourcentage de victoires après le tournoi",
+   "session": "4966",
+   "file": "Handout-4789-4966.pdf"
+  },
+  {
+   "id": "3209",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 5,
+   "title": "Un diviseur de x^2022 + x^1011 + 1",
+   "session": "4966",
+   "file": "Handout-4789-4966.pdf"
+  },
+  {
+   "id": "3210",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 3,
+   "title": "Quatre racines autour d'un axe de symétrie",
+   "session": "4981",
+   "file": "Handout-4800-4981.pdf"
+  },
+  {
+   "id": "3211",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 3,
+   "title": "Un polynôme connu seulement par composition",
+   "session": "4981",
+   "file": "Handout-4800-4981.pdf"
+  },
+  {
+   "id": "3212",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Quand x² − ax + 2a a deux racines entières",
+   "session": "4981",
+   "file": "Handout-4800-4981.pdf"
+  },
+  {
+   "id": "3213",
+   "grade": 12,
+   "theme": "functions-analysis",
+   "difficulty": 5,
+   "title": "Cinq logarithmes emboîtés",
+   "session": "4981",
+   "file": "Handout-4800-4981.pdf"
+  },
+  {
+   "id": "3214",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 4,
+   "title": "Une fonction qui transforme les produits en sommes",
+   "session": "4981",
+   "file": "Handout-4800-4981.pdf"
+  },
+  {
+   "id": "3215",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Le meilleur nombre de diviseurs pour sa taille",
+   "session": "4981",
+   "file": "Handout-4805-4981.pdf"
+  },
+  {
+   "id": "3216",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 4,
+   "title": "Une suite qui se répète tous les six rangs",
+   "session": "4981",
+   "file": "Handout-4805-4981.pdf"
+  },
+  {
+   "id": "3217",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Quelles valeurs prend la somme des facteurs premiers ?",
+   "session": "4981",
+   "file": "Handout-4800-4981.pdf"
+  },
+  {
+   "id": "3218",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Le numérateur d'une somme de dix-sept fractions",
+   "session": "5008",
+   "file": "Handout-4813-5008.pdf"
+  },
+  {
+   "id": "3219",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Un reste avec des puissances de deux gigantesques",
+   "session": "5008",
+   "file": "Handout-4813-5008.pdf"
+  },
+  {
+   "id": "3220",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Une équation avec une partie entière",
+   "session": "5008",
+   "file": "Handout-4813-5008.pdf"
+  },
+  {
+   "id": "3221",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Un polynôme de degré six à racines entières",
+   "session": "5008",
+   "file": "Handout-4813-5008.pdf"
+  },
+  {
+   "id": "3222",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Les nombres montants divisibles par 15",
+   "session": "5008",
+   "file": "Handout-4813-5008.pdf"
+  },
+  {
+   "id": "3223",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Les nombres qui ont l'air premiers",
+   "session": "5025",
+   "file": "Handout-4819-5025.pdf"
+  },
+  {
+   "id": "3224",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Sept chiffres qui ne redescendent jamais",
+   "session": "5025",
+   "file": "Handout-4819-5025.pdf"
+  },
+  {
+   "id": "3225",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Un périmètre qui ne dépend pas du point choisi",
+   "session": "4964",
+   "file": "Handout-4794-4964.pdf"
+  },
+  {
+   "id": "3226",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "L'hexagone des trois carrés",
+   "session": "4964",
+   "file": "Handout-4794-4964.pdf"
+  }
+ ],
+ "skipped": [
+  {
+   "file": "Handout-4789-4966.pdf",
+   "item": "échauffements 1 à 5",
+   "reason": "application directe du cours, en dessous de la 2de",
+   "answers": "1) x=±racine(13)  2) (x,y)=(6,3) et (1,-2)  3) x+y+z=-7  4) a=4  5) x=4 (avec y=4-x=0, z=3-x=-1). Tous recalculés à la main."
+  },
+  {
+   "file": "Handout-4789-4966.pdf",
+   "item": "section 2, identités remarquables (63x65, a^3-b^3 avec a-b=9 et ab=7)",
+   "reason": "exercices d'application du cours, pas des problèmes",
+   "answers": "63x65 = 64^2-1 = 4095 ; a^3-b^3 = 9 x (81+21) = 918"
+  },
+  {
+   "file": "Handout-4789-4966.pdf",
+   "item": "exemple 2.1.2 : 1/a + 1/b = 1/6 en entiers positifs",
+   "reason": "classique déjà présent dans la base sous une autre forme (voir 0407 et « L'unité en 2017 fractions différentes »)",
+   "answers": "(a-6)(b-6)=36 -> (7,42),(8,24),(9,18),(10,15),(12,12) et symétriques"
+  },
+  {
+   "file": "Handout-4789-4966.pdf",
+   "item": "exercice 2.2.1 : factoriser x^5-y^5, x^5+y^5, x^4-y^4, x^4+y^4",
+   "reason": "c'est une leçon, pas un problème"
+  },
+  {
+   "file": "Handout-4789-4966.pdf",
+   "item": "exercice 2.2.3 : 52683x52683 - 52660x52706",
+   "reason": "même idée que l'exercice 0407 déjà en base (2de, algèbre, 3 étoiles), sans apport",
+   "answers": "= 23^2 = 529 (vérifié)"
+  },
+  {
+   "file": "Handout-4789-4966.pdf",
+   "item": "exercice 2.2.4 : ((3^2008)^2-(3^2006)^2)/((3^2007)^2-(3^2005)^2)",
+   "reason": "idée voisine de 3203 mais plus faible",
+   "answers": "9"
+  },
+  {
+   "file": "Handout-4789-4966.pdf",
+   "item": "exercice 2.2.12 : -4 < 1/x < 3",
+   "reason": "exercice de routine de 2de",
+   "answers": "x < -1/4 ou x > 1/3"
+  },
+  {
+   "file": "Handout-4789-4966.pdf",
+   "item": "exercices 2.2.13 et 2.2.14",
+   "reason": "la couche texte du PDF écrase les fractions et les exposants, l'énoncé n'est pas reconstituable de façon sûre ; il faudrait relire la page 5 en image à 300 dpi",
+   "answers": "réponses données par le corrigé, NON vérifiées : 13) 384/25  14) x^3 = 12"
+  },
+  {
+   "file": "Handout-4789-4966.pdf",
+   "item": "exercice 2.2.15 (AIME 2015 #14)",
+   "reason": "le corrigé du PDF est tronqué et je n'ai pas fini le calcul moi-même",
+   "answers": "non établi"
+  },
+  {
+   "file": "Handout-4800-4981.pdf",
+   "item": "échauffements et exemples de la section 2.1",
+   "reason": "matériel de cours (transformations de courbes, composition, réciproque), en dessous du niveau visé"
+  },
+  {
+   "file": "Handout-4800-4981.pdf",
+   "item": "exercice 2.2.1 : g(x)=ax+b avec g(g(x))=9x+28",
+   "reason": "bon petit problème mais budget atteint ; à prendre au prochain passage",
+   "answers": "(a,b) = (3,7) et (-3,-14) (vérifié à la main)"
+  },
+  {
+   "file": "Handout-4800-4981.pdf",
+   "item": "exercice 2.2.3 : f(x)=x/(x+1), calculer f^4(2009)",
+   "reason": "budget atteint ; candidat 1re, 3 étoiles",
+   "answers": "f^n(x) = x/(nx+1), donc f^4(2009) = 2009/8037 (vérifié)"
+  },
+  {
+   "file": "Handout-4800-4981.pdf",
+   "item": "exercice 2.2.7 : g(x)=(ax+b)/(cx+d), laquelle de a/b, a/c, a/d ne peut être dans l'ensemble de définition de g^-1",
+   "reason": "le corrigé du PDF ne donne rien ; budget atteint",
+   "answers": "a/c. En effet g^-1(x) = (b-dx)/(cx-a), qui n'est pas défini en x = a/c (vérifié à la main)"
+  },
+  {
+   "file": "Handout-4800-4981.pdf",
+   "item": "exercice 2.2.8 (AMC 12 2000 #15) : f(x/3)=x^2+x+1, somme des z tels que f(3z)=7",
+   "reason": "budget atteint ; candidat 1re, 3 étoiles",
+   "answers": "-1/9 (corrigé du PDF, cohérent avec mon calcul : f(y)=9y^2+3y+1, 81z^2+9z-6=0)"
+  },
+  {
+   "file": "Handout-4800-4981.pdf",
+   "item": "exercice 2.2.9 (AMC 12B 2004 #13) : f(x)=ax+b et f^-1(x)=bx+a",
+   "reason": "budget atteint ; candidat 1re, 3 étoiles",
+   "answers": "a+b = -2 (a=b=-1)"
+  },
+  {
+   "file": "Handout-4800-4981.pdf",
+   "item": "exercice 2.2.10 (AMC 12A 2017 #7) : suite récurrente, f(2017)",
+   "reason": "trop facile une fois qu'on voit f(n)=n+1",
+   "answers": "2018"
+  },
+  {
+   "file": "Handout-4800-4981.pdf",
+   "item": "exercice 2.2.14 (AMC 12B 2015 #20) : f(2015,2) pour une récurrence à deux indices",
+   "reason": "pas de corrigé dans le PDF et je n'ai pas fait le calcul",
+   "answers": "non établi"
+  },
+  {
+   "file": "Handout-4813-5008.pdf",
+   "item": "exercices 1, 3, 7, 12, 13",
+   "reason": "corrects mais faciles, plutôt 4e/3e ; laissés pour un passage qui vise ces niveaux",
+   "answers": "1) n=60, somme des chiffres 6  3) 3+8+5+6 = 22  7) 9x1582 = 14238  12) compteur 15951 -> 16061, 110 unités en 2 h, soit 55 (en km/h après conversion)  13) 7 carrés (36,144,324,576,900,1296,1764) — tous recalculés"
+  },
+  {
+   "file": "Handout-4813-5008.pdf",
+   "item": "exercice 4 : rapport somme des diviseurs impairs / diviseurs pairs de 34x34x63x270",
+   "reason": "bon candidat 2de 3 étoiles, budget atteint",
+   "answers": "N = 2^3 x 3^5 x 5 x 7 x 17^2, rapport 1 : 14"
+  },
+  {
+   "file": "Handout-4813-5008.pdf",
+   "item": "exercice 5 : 32d en base n vaut 263, 324 en base n vaut 11d1 en base six",
+   "reason": "bon candidat 2de/1re, budget atteint",
+   "answers": "n=9, d=2, n+d = 11 (vérifié par recherche exhaustive)"
+  },
+  {
+   "file": "Handout-4813-5008.pdf",
+   "item": "exercice 8 : 66 x 1,abab... dépasse 66 x 1,ab de 0,5",
+   "reason": "candidat 3e, budget atteint",
+   "answers": "ab = 75"
+  },
+  {
+   "file": "Handout-4813-5008.pdf",
+   "item": "exercice 9 : pour quelles bases b le nombre 2021_b - 221_b n'est-il pas divisible par 3",
+   "reason": "candidat 1re, budget atteint ; très bon une fois reformulé en question ouverte",
+   "answers": "2021_b - 221_b = 2b^2(b-1), non divisible par 3 exactement quand b == 2 (mod 3)"
+  },
+  {
+   "file": "Handout-4813-5008.pdf",
+   "item": "exercice 14 : nombre de zéros après la virgule dans 1/20^20",
+   "reason": "budget atteint. ATTENTION : la couche texte du PDF affiche « 1/2020 » alors qu'il s'agit de 1/20^20 ; c'est exactement le piège décrit dans le brief",
+   "answers": "26 zéros (1/20^20 = 9,5367...e-27, vérifié)"
+  },
+  {
+   "file": "Handout-4813-5008.pdf",
+   "item": "exercice 15 : effacements successifs dans 12345123451...",
+   "reason": "candidat 2de, budget atteint",
+   "answers": "la liste devient périodique de période 12 ; chiffres en positions 2019, 2020, 2021 : 4, 2, 5, somme 11 (vérifié par simulation)"
+  },
+  {
+   "file": "Handout-4813-5008.pdf",
+   "item": "exercice 18 : D(96), nombre de factorisations ordonnées",
+   "reason": "candidat Terminale 5 étoiles, budget atteint",
+   "answers": "D(96) = 112 (vérifié par récurrence exhaustive)"
+  },
+  {
+   "file": "Handout-4813-5008.pdf",
+   "item": "exercice 19 : PGCD(63, n+120)=21 et PGCD(n+63,120)=60, n>1000 minimal",
+   "reason": "très bon candidat 1re 5 étoiles, budget atteint",
+   "answers": "n = 1917, somme des chiffres 18 (vérifié par recherche exhaustive ; les suivants sont 2757 et 4437)"
+  },
+  {
+   "file": "Handout-4819-5025.pdf",
+   "item": "sections 1 à 4 (échauffements, définitions, identités binomiales)",
+   "reason": "matériel de cours : factorielles, arrangements, combinaisons, crible, Vandermonde, crosse de hockey"
+  },
+  {
+   "file": "Handout-4819-5025.pdf",
+   "item": "section 5, exercice 5 (AIME II 2017 #1) : parties de {1,...,8} incluses ni dans {1,..,5} ni dans {4,...,8}",
+   "reason": "bon candidat 2de 3 étoiles, budget atteint",
+   "answers": "2^8 - 2^5 - 2^5 + 2^2 = 196 (vérifié)"
+  },
+  {
+   "file": "Handout-4819-5025.pdf",
+   "item": "section 5, exercice 6 (AMC 10A 2018 #11) : 7 dés, somme 10",
+   "reason": "candidat 1re probabilités, budget atteint",
+   "answers": "n = 84 (vérifié par énumération des 6^7 tirages)"
+  },
+  {
+   "file": "Handout-4819-5025.pdf",
+   "item": "section 5, exercice 9 (AMC 10A 2016 #20) : (a+b+c+d+1)^N a 1001 termes contenant a,b,c,d",
+   "reason": "candidat 1re 4 étoiles, budget atteint",
+   "answers": "C(N,4) = 1001 donne N = 14 (vérifié)"
+  },
+  {
+   "file": "Handout-4819-5025.pdf",
+   "item": "section 5, exercice 12 (AIME I 2020 #7) : comités avec une femme de plus que d'hommes",
+   "reason": "candidat Terminale 5 étoiles, budget atteint",
+   "answers": "N = C(23,11) = 1352078 = 2 x 7 x 13 x 17 x 19 x 23, somme des diviseurs premiers 81 (vérifié)"
+  },
+  {
+   "file": "Handout-4819-5025.pdf",
+   "item": "section 5, exercice 13 (AIME 1986 #13) : suites de 15 lancers avec 2 HH, 3 HT, 4 TH, 5 TT",
+   "reason": "candidat Terminale 5 étoiles, budget atteint",
+   "answers": "560 (vérifié par énumération des 2^15 suites)"
+  },
+  {
+   "file": "Handout-4819-5025.pdf",
+   "item": "section 5, exercice 14 (AIME 2001 #2) : espagnol et français parmi 2001 élèves",
+   "reason": "candidat 2de 4 étoiles, budget atteint",
+   "answers": "M - m = 298 (vérifié par énumération)"
+  },
+  {
+   "file": "Handout-4819-5025.pdf",
+   "item": "section 5, exercice 15 (AMC 12A 2021 #15) : chorale, ténors et basses",
+   "reason": "budget atteint",
+   "answers": "N = 4095, reste 95 modulo 100 (vérifié par énumération ; à ne pas confondre avec 96)"
+  },
+  {
+   "file": "Handout-4819-5025.pdf",
+   "item": "section 6, exercice 1 (AIME II 2020 #9) : six spectateurs qui ne se rassoient plus côte à côte",
+   "reason": "candidat Terminale 5 étoiles, budget atteint",
+   "answers": "90 (vérifié par énumération des 720 permutations)"
+  },
+  {
+   "file": "Handout-4794-4964.pdf",
+   "item": "échauffements 1 à 5 et exercice 1 (13 cercles)",
+   "reason": "échauffements trop faciles ; le problème des 13 cercles demande une figure lourde à redessiner",
+   "answers": "1) BE=8  2) 5<x<35  3) b=7  4) BC=8 (A à l'origine, B et C sur y=x^2)  5) aire 6,5 ; 13 cercles : aire (13+4racine(3))pi - 13pi = 4racine(3)pi"
+  },
+  {
+   "file": "Handout-4794-4964.pdf",
+   "item": "exemple 2 : triangles semblables emboîtés, aire du trapèze DBCE",
+   "reason": "figure à redessiner, budget atteint ; bon candidat 2de",
+   "answers": "aire(ADE) = 16, donc trapèze = 40 - 16 = 24"
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "Passage 1 : les 4 premières séances à corrigé (4966 Algèbre, 4964 Géométrie, 4981 Fonctions, 5008 Théorie des nombres) plus le début de 5025 (Dénombrement). 26 exercices, ids 3201 à 3226. next_session = 3 pointe sur la séance 4998, première séance jamais ouverte. Restent intactes : 4998 (Handout-4806/4814), 5018 nombres complexes (Handout-4816/4817/4818), 5043 test blanc AMC 10 et 12 (Handout-4830 à 4833), 4508 percolation (Handout-4575/4576), puis toutes les séances sans corrigé à partir de l'indice 9. \nCe que le prochain passage doit savoir. (1) Les corrigés de cette source sont parfois FAUX ou INCOMPLETS. Trois cas rencontrés : le corrigé de xy+3x+4y=13 n'énumère que les diviseurs positifs de 25 et rate trois solutions sur six (corrigé dans 3202) ; le corrigé du polynôme de degré 6 annonce B = 88 alors que B = -88 (corrigé dans 3221) ; le corrigé de la chorale n'est pas donné et la réponse répandue 96 est fausse, c'est 95. Tout vérifier en force brute. (2) L'aplatissement typographique frappe vraiment : l'exercice 14 de Handout-4813-5008.pdf s'affiche « 1/2020 » alors que c'est 1/20^20, et les exercices 13 et 14 de Handout-4789-4966.pdf sont illisibles en texte. Relire ces pages en image. (3) Les groupes « Math Competitions Training » de 2025 sont en fait des reprises du groupe AMC 10/12 de 2023 : les en-têtes disent « ORMC AMC 10/12 Group, Week N ». Risque réel de doublon avec l'unité amc1012 ; deux doublons sont déjà apparus (voir retired_ids).",
  "updated": "2026-09-19",
  "sessions": [
   {
@@ -1430,5 +1885,28 @@
     }
    ]
   }
+ ],
+ "duplicates_to_arbitrate": [
+  {
+   "mine": "3204",
+   "other": "3407",
+   "grade": 10,
+   "note": "même problème (AMC 12B 2008 #16, la bordure d'un mètre). Les deux fichiers ont été conservés conformément à la règle : je ne supprime pas pendant un import parallèle. 3204 est en difficulté 4 avec la discussion complète des cas, 3407 en difficulté 3."
+  },
+  {
+   "mine": "3208",
+   "other": "3408",
+   "grade": 10,
+   "note": "même problème (AIME 1992 I #3, le taux de victoires). Les deux fichiers conservés, arbitrage à faire. 3208 est en difficulté 4, 3408 en difficulté 3."
+  }
+ ],
+ "sessions_done": [
+  "4966",
+  "4981",
+  "5008"
+ ],
+ "sessions_partial": [
+  "4964 (échauffements et exemple 1 pris, exemple 2 et exercice 1 laissés)",
+  "5025 (exercices 4 et 7 de la section 5 pris, le reste listé dans skipped)"
  ]
 }

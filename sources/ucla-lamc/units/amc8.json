@@ -6,14 +6,357 @@
   "3601",
   "3800"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 60,
  "sessions_with_answers": 2,
- "next_session": 0,
- "imported": [],
- "skipped": [],
+ "next_session": 3,
+ "imported": [
+  {
+   "id": "3601",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Les deux nombres effacés",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 3",
+   "answer": "K - B = 5",
+   "verified": "brute force + corrigé officiel"
+  },
+  {
+   "id": "3602",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 2,
+   "title": "Deux billes de la même couleur",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 4",
+   "answer": "4",
+   "verified": "corrigé officiel"
+  },
+  {
+   "id": "3603",
+   "grade": 8,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Quatre nombres impairs qui se suivent",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 5",
+   "answer": "105",
+   "verified": "brute force + corrigé officiel"
+  },
+  {
+   "id": "3604",
+   "grade": 8,
+   "theme": "geometry",
+   "difficulty": 2,
+   "title": "Trois points alignés, deux distances",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 2",
+   "answer": "2 et 8, somme 10",
+   "verified": "brute force + corrigé officiel"
+  },
+  {
+   "id": "3605",
+   "grade": 8,
+   "theme": "geometry",
+   "difficulty": 2,
+   "title": "Deux hexagones et deux triangles",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 6",
+   "answer": "6/7",
+   "verified": "corrigé officiel ; figure inutile, l'énoncé décrit l'assemblage"
+  },
+  {
+   "id": "3606",
+   "grade": 8,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Toutes les sommes avec quatre pièces",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 10",
+   "answer": "288 centimes",
+   "verified": "brute force ; pièces converties en euros (1, 5, 10, 20 c), d'où 288 au lieu de 328"
+  },
+  {
+   "id": "3607",
+   "grade": 8,
+   "theme": "combinatorics",
+   "difficulty": 1,
+   "title": "Les sept portes de la salle",
+   "session": 2,
+   "file": "Handout-5117-5589.pdf",
+   "ref": "pb 1.2",
+   "answer": "42",
+   "verified": "calcul direct"
+  },
+  {
+   "id": "3608",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "La plus petite note possible",
+   "session": 5,
+   "file": "Handout-5143-5656.pdf",
+   "ref": "pb 6.3 = AMC 8 2019 pb 7",
+   "answer": "7",
+   "verified": "brute force ; notes converties sur 20, d'où 7 au lieu de 48"
+  },
+  {
+   "id": "3609",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Les six bons pour une glace",
+   "session": 5,
+   "file": "Handout-5143-5656.pdf",
+   "ref": "pb 5.2 = AMC 8 2019 pb 14",
+   "answer": "mercredi",
+   "verified": "brute force sur les 7 jours de départ"
+  },
+  {
+   "id": "3610",
+   "grade": 8,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "A divise B + C + D + E",
+   "session": 2,
+   "file": "Handout-5117-5589.pdf",
+   "ref": "pb 1.6",
+   "answer": "72",
+   "verified": "brute force sur les 120 permutations"
+  },
+  {
+   "id": "3611",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Les diviseurs de 120 divisibles par 12",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 7",
+   "answer": "4 (12, 24, 60, 120)",
+   "verified": "brute force + corrigé officiel"
+  },
+  {
+   "id": "3612",
+   "grade": 9,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "La grenouille et les cinq nénuphars",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 8",
+   "answer": "11/24",
+   "verified": "calcul exact en fractions + corrigé officiel"
+  },
+  {
+   "id": "3613",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Exactement deux chiffres après la virgule",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 12",
+   "answer": "40",
+   "verified": "brute force sur n < 250 + corrigé officiel"
+  },
+  {
+   "id": "3614",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Le chiffre des dizaines d'une grande puissance de 7",
+   "session": 5,
+   "file": "Handout-5143-5656.pdf",
+   "ref": "pb 6.8 = AMC 8 2011 pb 22",
+   "answer": "4 (7^2011 finit par 43)",
+   "verified": "pow(7,2011,100) = 43"
+  },
+  {
+   "id": "3615",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Nombres alternés divisibles par 15",
+   "session": 5,
+   "file": "Handout-5143-5656.pdf",
+   "ref": "pb 2.5 = AMC 8 2020 pb 19",
+   "answer": "4 (50505, 53535, 56565, 59595)",
+   "verified": "brute force sur les 5 chiffres"
+  },
+  {
+   "id": "3616",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Les trente-cinq patères",
+   "session": 5,
+   "file": "Handout-5143-5656.pdf",
+   "ref": "pb 5.3 = AMC 8 2025 pb 22",
+   "answer": "7 (1, 2, 3, 5, 8, 11, 17 manteaux)",
+   "verified": "brute force"
+  },
+  {
+   "id": "3617",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Combien de rectangles dans un quadrillage ?",
+   "session": 2,
+   "file": "Handout-5117-5589.pdf",
+   "ref": "pb 2.6",
+   "answer": "210",
+   "verified": "C(5,2) x C(7,2)"
+  },
+  {
+   "id": "3618",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Une suite qui finit par être divisible par 20",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 14",
+   "answer": "n = 15",
+   "verified": "brute force modulo 20 + corrigé officiel"
+  },
+  {
+   "id": "3619",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Deux racines entières, l'une multiple de l'autre",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 11",
+   "answer": "24, 42, 81 ; somme 147",
+   "verified": "brute force + corrigé officiel"
+  },
+  {
+   "id": "3620",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Le meilleur rangement de cinq nombres",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 17",
+   "answer": "652 pour (4, 3, 5, 2, 6)",
+   "verified": "brute force sur les 120 permutations + corrigé officiel"
+  },
+  {
+   "id": "3621",
+   "grade": 10,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "La troisième case tombe-t-elle dans le rectangle ?",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 15",
+   "answer": "17/63",
+   "verified": "brute force sur les 504 triplets + corrigé officiel"
+  },
+  {
+   "id": "3622",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "La tangente et le triangle rectangle",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 13",
+   "answer": "CD = 16/9",
+   "verified": "vérification en coordonnées (tangence confirmée par produit scalaire nul) + corrigé officiel",
+   "figure": "3622-figure-1.svg, redessinée, vérifiée à l'écran"
+  },
+  {
+   "id": "3623",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Une suite géométrique d'entiers qui finit sur 2025²",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 16",
+   "answer": "44 valeurs de a, toutes de la forme 45 k^3 avec 1 <= k <= 44",
+   "verified": "brute force sur toutes les raisons rationnelles m/n + corrigé officiel"
+  },
+  {
+   "id": "3624",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Deux triplets arithmétiques et une équation du troisième degré",
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "BmMT 2025 Individual Round, pb 20",
+   "answer": "18 (atteint pour q = 6)",
+   "verified": "dérivation symbolique refaite + balayage des q entiers + corrigé officiel"
+  }
+ ],
+ "skipped": [
+  {
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "pb 1 (100 salles de classe)",
+   "reason": "en dessous de la 4e même à une étoile",
+   "answer": "45"
+  },
+  {
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "pb 9 (aire grisée autour d'un triangle équilatéral)",
+   "reason": "énoncé ambigu sans la figure d'origine : le corrigé additionne 5/6 du disque et tout le demi-disque, alors que les deux se chevauchent sous [AB]. Ne pas importer sans avoir relu la figure page 1 du PDF en image.",
+   "answer": "périmètre 36 d'après le corrigé"
+  },
+  {
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "pb 18 (hexagone régulier, P sur [BF], (CP) coupe [AF] en Q)",
+   "reason": "pas importé faute de temps : demande une figure soignée et des racines carrées lourdes. Bon candidat 2de/1re géométrie 5 étoiles.",
+   "answer": "PQ = 3 racine(43) / 7"
+  },
+  {
+   "session": 0,
+   "file": "Handout-5091-5540.pdf",
+   "ref": "pb 19 (somme des chiffres des unités de n^(n!) pour n de 1 à 2025)",
+   "reason": "pas importé faute de temps ; le compte final est long. Bon candidat 2de arithmétique 4 ou 5 étoiles.",
+   "answer": "6691, vérifié par force brute"
+  },
+  {
+   "session": 1,
+   "file": "Handout-3688-3282.pdf",
+   "ref": "séance entière (Combinatorics, 2022)",
+   "reason": "les 18 problèmes sont des captures d'écran : aucune couche texte. Le fichier de réponses Handout-3693-3282.pdf ne donne que des lettres A à E, inutilisables une fois les options supprimées. Il faut lire les pages en image ; la référence du concours (AMC 8 1999 à 2015) est imprimée sous chaque capture et permet d'identifier chaque problème."
+  },
+  {
+   "session": 5,
+   "file": "Handout-5143-5656.pdf",
+   "ref": "pb 6.1 (AMC 8 2022 pb 13)",
+   "reason": "l'énoncé imprimé dans le polycopié a perdu le blanc à remplir (« One positive integer is ___ more than twice another »), il est donc insoluble tel quel. Il faudrait le sujet AMC d'origine."
+  },
+  {
+   "session": 5,
+   "file": "Handout-5143-5656.pdf",
+   "ref": "pb 6.6 (AMC 8 2017 pb 1, numéros de maillot)",
+   "reason": "énoncé tronqué dans le polycopié : la mise en place et les options manquent."
+  },
+  {
+   "session": 5,
+   "file": "Handout-5143-5656.pdf",
+   "ref": "pb 5.1 (histogramme des restes)",
+   "reason": "consigne de dessin d'histogramme, ne fait pas un exercice de la base."
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "Passage 1 (2026-09-19) : 24 exercices importés, ids 3601 à 3624, depuis trois séances seulement. La séance 0 (BmMT 2025) est de loin la plus riche de l'unité : ce n'est PAS un QCM, ce sont 20 questions à réponse courte avec un corrigé complet dans Handout-5092-5540.pdf, et le niveau monte jusqu'à la 1re et la Terminale (pb 16 et 20). Elle est maintenant presque épuisée : restent les pb 1 (trop facile), 9 (ambigu), 18 et 19 (voir skipped). Les séances 2 à 8 (groupe X26 AMC 8, 2026) ont une vraie couche texte et des problèmes déjà posés en questions ouvertes ; les séances 2 (Permutations) et 5 (Number Theory) sont entamées, avec des réponses déjà calculées dans answers_ready. Attention : beaucoup de séances plus anciennes (2022-2024) sont des captures d'écran sans couche texte, il faut les lire en image. Reprendre à la séance 3 (Stars and Bars, Handout-5123-5604.pdf), puis 4, 6, 7, 8, puis finir 2 et 5 avec answers_ready. Signalé par vm.py check : 3615 « Nombres alternés divisibles par 15 » ressemble à 3222 « Les nombres montants divisibles par 15 » (autre agent, autre polycopié UCLA). Ce sont deux problèmes différents (chiffres alternés contre chiffres croissants), pas de see_also.",
  "updated": "2026-09-19",
  "sessions": [
   {
@@ -928,5 +1271,28 @@
     }
    ]
   }
- ]
+ ],
+ "answers_ready": {
+  "comment": "Réponses déjà vérifiées par force brute mais non encore importées. Le prochain passage peut les utiliser telles quelles.",
+  "Handout-5143-5656.pdf": {
+   "1.3 nombre de diviseurs de 630": "24",
+   "6.2 entiers entre 2020 et 2400 à quatre chiffres distincts croissants": "15 : 2345 2346 2347 2348 2349 2356 2357 2358 2359 2367 2368 2369 2378 2379 2389 (4e, dénombrement, 2 étoiles)",
+   "6.4 entiers à trois chiffres, reste 2 mod 6, 5 mod 9, 7 mod 11": "5 : 194, 392, 590, 788, 986 (3e ou 2de, arithmétique, 3 étoiles)",
+   "6.5 cubes parfaits entre 2^8+1 et 2^18+1 inclus": "58 (de 7^3 à 64^3) (3e, arithmétique, 2 étoiles)",
+   "6.7 nombre de chiffres de 4^5 x 5^10": "11, car le produit vaut 10^10 (4e, arithmétique, 2 étoiles)",
+   "6.9 entiers à 4 chiffres, 4 chiffres différents, multiple de 5, 5 le plus grand chiffre": "84 (2de, dénombrement, 4 étoiles)",
+   "6.10 entiers de 1 à 1000 ne contenant pas le chiffre 1": "728 (3e, dénombrement, 3 étoiles)"
+  },
+  "Handout-5117-5589.pdf": {
+   "1.3 mots de 3 lettres avec ABCDEF sans répétition": "120",
+   "1.4 président, vice-président, secrétaire, adjoint parmi 10": "5040",
+   "1.5 nombres de 4 chiffres avec 1,2,3,4,5 sans répétition, multiples de 3": "24 (4e, dénombrement, 2 étoiles)",
+   "2.2 choisir 2 billes parmi 6": "15",
+   "2.3 choisir 5 titulaires parmi 12": "792",
+   "2.4 choisir 5 titulaires parmi 12 dont 2 co-capitaines": "7920",
+   "2.5 chemins dans la grille, 10 pas dont 4 vers le haut": "210",
+   "défi 1 : nombres de 5 chiffres pris dans 1..6 sans répétition, au moins une montée et au moins une descente": "708 = 720 - 12 (2de, dénombrement, 3 étoiles)",
+   "défi 2 : choisir 4 beignets parmi 6 parfums avec répétition": "126 (2de, dénombrement, combinaisons avec répétition)"
+  }
+ }
 }

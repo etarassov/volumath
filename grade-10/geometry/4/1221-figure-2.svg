@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 290" width="432" height="391">
+<line x1="45.00" y1="195.00" x2="300.00" y2="195.00" stroke="#000" stroke-width="1.8"/>
+<line x1="45.00" y1="195.00" x2="208.91" y2="-0.34" stroke="#000" stroke-width="1.8"/>
+<path d="M 75.00,195.00 A 30.0,30.0 0 0 0 64.28,172.02" fill="none" stroke="#666" stroke-width="1"/>
+<line x1="156.26" y1="239.95" x2="132.36" y2="195.00" stroke="#1a5fb4" stroke-width="1.6" stroke-dasharray="5,4"/>
+<line x1="98.47" y1="131.27" x2="69.95" y2="77.62" stroke="#1a5fb4" stroke-width="1.6" stroke-dasharray="5,4"/>
+<line x1="45.00" y1="195.00" x2="156.26" y2="239.95" stroke="#999" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="45.00" y1="195.00" x2="69.95" y2="77.62" stroke="#999" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="156.26" y1="150.05" x2="132.36" y2="195.00" stroke="#a51d2d" stroke-width="2.2"/>
+<line x1="132.36" y1="195.00" x2="98.47" y2="131.27" stroke="#a51d2d" stroke-width="2.2"/>
+<line x1="98.47" y1="131.27" x2="156.26" y2="150.05" stroke="#a51d2d" stroke-width="2.2"/>
+<circle cx="45.00" cy="195.00" r="3.0" fill="#000"/>
+<text x="30.00" y="201.00" font-family="serif" font-size="15" font-style="italic">O</text>
+<circle cx="156.26" cy="150.05" r="3.0" fill="#000"/>
+<text x="161.26" y="142.05" font-family="serif" font-size="15" font-style="italic">P</text>
+<circle cx="132.36" cy="195.00" r="3.0" fill="#000"/>
+<text x="128.36" y="212.00" font-family="serif" font-size="15" font-style="italic">M</text>
+<circle cx="98.47" cy="131.27" r="3.0" fill="#000"/>
+<text x="81.47" y="127.27" font-family="serif" font-size="15" font-style="italic">N</text>
+<circle cx="156.26" cy="239.95" r="3.0" fill="#000"/>
+<text x="160.26" y="254.95" font-family="serif" font-size="15" font-style="italic">A</text>
+<circle cx="69.95" cy="77.62" r="3.0" fill="#000"/>
+<text x="52.95" y="74.62" font-family="serif" font-size="15" font-style="italic">B</text>
+<text x="78.00" y="183.00" font-family="serif" font-size="13">50°</text>
+</svg>

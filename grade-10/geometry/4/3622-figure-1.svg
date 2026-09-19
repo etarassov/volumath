@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260" width="420" height="260">
+  <circle cx="130" cy="100" r="98.49" fill="none" stroke="#333333" stroke-width="1.6"/>
+  <line x1="195.6" y1="5.2" x2="273.9" y2="181.1" stroke="#888888" stroke-width="1.2" stroke-dasharray="6 4"/>
+  <line x1="40" y1="140" x2="255.6" y2="140" stroke="#000000" stroke-width="1.8"/>
+  <line x1="220" y1="60" x2="255.6" y2="140" stroke="#000000" stroke-width="1.8"/>
+  <line x1="220" y1="60" x2="40" y2="140" stroke="#000000" stroke-width="1.8"/>
+  <line x1="220" y1="60" x2="220" y2="140" stroke="#000000" stroke-width="1.8"/>
+  <path d="M 220 128 L 232 128 L 232 140" fill="none" stroke="#000000" stroke-width="1.4"/>
+  <circle cx="220" cy="60" r="3.4" fill="#000000"/>
+  <circle cx="40" cy="140" r="3.4" fill="#000000"/>
+  <circle cx="220" cy="140" r="3.4" fill="#000000"/>
+  <circle cx="255.6" cy="140" r="3.4" fill="#000000"/>
+  <text x="220" y="48" font-family="serif" font-size="17" text-anchor="middle" fill="#000000">A</text>
+  <text x="29" y="154" font-family="serif" font-size="17" text-anchor="middle" fill="#000000">B</text>
+  <text x="205" y="170" font-family="serif" font-size="17" text-anchor="middle" fill="#000000">C</text>
+  <text x="266" y="159" font-family="serif" font-size="17" text-anchor="middle" fill="#000000">D</text>
+  <text x="210" y="105" font-family="serif" font-size="15" text-anchor="middle" fill="#000000">4</text>
+  <text x="130" y="159" font-family="serif" font-size="15" text-anchor="middle" fill="#000000">9</text>
+  <text x="240" y="161" font-family="serif" font-size="15" text-anchor="middle" fill="#000000">?</text>
+</svg>

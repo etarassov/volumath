@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 300" width="260" height="300">
+  <rect x="50" y="50" width="100" height="100" fill="#f2f2f2" stroke="#000" stroke-width="1.5"/>
+  <polygon points="70,150 150,150 150,70" fill="#9fc0e0" fill-opacity="0.85" stroke="none"/>
+  <line x1="50" y1="170" x2="170" y2="50" stroke="#000" stroke-width="1.5"/>
+  <rect x="50" y="50" width="100" height="100" fill="none" stroke="#000" stroke-width="1.5"/>
+  <line x1="40" y1="250" x2="200" y2="250" stroke="#000" stroke-width="1.5"/>
+  <line x1="50" y1="265" x2="50" y2="35" stroke="#000" stroke-width="1.5"/>
+  <line x1="150" y1="246" x2="150" y2="254" stroke="#000" stroke-width="1.5"/>
+  <line x1="70" y1="246" x2="70" y2="254" stroke="#000" stroke-width="1.5"/>
+  <line x1="46" y1="150" x2="54" y2="150" stroke="#000" stroke-width="1.5"/>
+  <line x1="46" y1="50" x2="54" y2="50" stroke="#000" stroke-width="1.5"/>
+  <line x1="50" y1="150" x2="150" y2="150" stroke="#888" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="42" y="266" font-family="serif" font-size="13">0</text>
+  <text x="64" y="266" font-family="serif" font-size="13">1</text>
+  <text x="146" y="266" font-family="serif" font-size="13">5</text>
+  <text x="36" y="155" font-family="serif" font-size="13">5</text>
+  <text x="30" y="55" font-family="serif" font-size="13">10</text>
+  <text x="188" y="268" font-family="serif" font-size="14">x</text>
+  <text x="34" y="34" font-family="serif" font-size="14">y</text>
+  <text x="152" y="44" font-family="serif" font-size="13">y = x + 4</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<rect x="0" y="0" width="400" height="400" fill="#ffffff"/>
+<circle cx="200" cy="200" r="104.0" fill="none" stroke="#999999" stroke-width="1.2" stroke-dasharray="5 5"/>
+<circle cx="200" cy="200" r="52.0" fill="#f2c14e" stroke="#7a5230" stroke-width="2.4"/>
+<text x="200" y="206" font-family="serif" font-size="15" fill="#5a3b1e" text-anchor="middle">fixe</text>
+<circle cx="304.00" cy="200.00" r="52.0" fill="#dbe8f7" fill-opacity="0.75" stroke="#2c6fbb" stroke-width="2.2"/>
+<line x1="304.00" y1="200.00" x2="252.00" y2="200.00" stroke="#d1332e" stroke-width="2.6"/>
+<circle cx="252.00" cy="200.00" r="6" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<circle cx="304.00" cy="200.00" r="3" fill="#1b4f86"/>
+<text x="304.0" y="136.0" font-family="serif" font-size="13" fill="#1b4f86" text-anchor="middle">départ</text>
+<circle cx="200.00" cy="96.00" r="52.0" fill="#dbe8f7" fill-opacity="0.75" stroke="#2c6fbb" stroke-width="2.2"/>
+<line x1="200.00" y1="96.00" x2="252.00" y2="96.00" stroke="#d1332e" stroke-width="2.6"/>
+<circle cx="252.00" cy="96.00" r="6" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<circle cx="200.00" cy="96.00" r="3" fill="#1b4f86"/>
+<text x="200.0" y="32.0" font-family="serif" font-size="13" fill="#1b4f86" text-anchor="middle">1/4 du tour</text>
+<circle cx="96.00" cy="200.00" r="52.0" fill="#dbe8f7" fill-opacity="0.75" stroke="#2c6fbb" stroke-width="2.2"/>
+<line x1="96.00" y1="200.00" x2="44.00" y2="200.00" stroke="#d1332e" stroke-width="2.6"/>
+<circle cx="44.00" cy="200.00" r="6" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<circle cx="96.00" cy="200.00" r="3" fill="#1b4f86"/>
+<text x="96.0" y="136.0" font-family="serif" font-size="13" fill="#1b4f86" text-anchor="middle">1/2 tour</text>
+<circle cx="200.00" cy="304.00" r="52.0" fill="#dbe8f7" fill-opacity="0.75" stroke="#2c6fbb" stroke-width="2.2"/>
+<line x1="200.00" y1="304.00" x2="252.00" y2="304.00" stroke="#d1332e" stroke-width="2.6"/>
+<circle cx="252.00" cy="304.00" r="6" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<circle cx="200.00" cy="304.00" r="3" fill="#1b4f86"/>
+<text x="200.0" y="378.0" font-family="serif" font-size="13" fill="#1b4f86" text-anchor="middle">3/4 du tour</text>
+</svg>

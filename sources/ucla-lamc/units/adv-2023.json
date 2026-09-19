@@ -6,14 +6,319 @@
   "1201",
   "1400"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 228,
  "sessions_with_answers": 67,
  "next_session": 0,
- "imported": [],
- "skipped": [],
+ "imported": [
+  {
+   "id": "1201",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "Personne ne repart avec son chapeau",
+   "from": "Handout-4425-4240.pdf, problème 1"
+  },
+  {
+   "id": "1202",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Le dé à N faces lancé N fois",
+   "from": "Handout-4425-4240.pdf, problèmes 2 et 13"
+  },
+  {
+   "id": "1203",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Combien de boîtes resteront vides ?",
+   "from": "Handout-4425-4240.pdf, problèmes 3 et 14"
+  },
+  {
+   "id": "1204",
+   "grade": 12,
+   "theme": "functions-analysis",
+   "difficulty": 4,
+   "title": "Encadrer le logarithme d'une factorielle",
+   "from": "Handout-4425-4240.pdf, problèmes 17 et 18"
+  },
+  {
+   "id": "1205",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Le costume à 12 000 €",
+   "from": "Handout-4548-4513.pdf, problème 1.8"
+  },
+  {
+   "id": "1206",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 5,
+   "title": "Le pot et les trois fautes",
+   "from": "Handout-4216-3990.pdf, problème 1.3"
+  },
+  {
+   "id": "1207",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Le reste de x²⁰²³ + 1",
+   "from": "Handout-4216-3990.pdf, problème 6.5"
+  },
+  {
+   "id": "1208",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Un polynôme caché dans un autre",
+   "from": "Handout-4216-3990.pdf, problème 6.10"
+  },
+  {
+   "id": "1209",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Le plus petit n au-delà de 2023",
+   "from": "Handout-4216-3990.pdf, problème 6.3"
+  },
+  {
+   "id": "1210",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Chaque terme est la moyenne de ses voisins",
+   "from": "Handout-4548-4513.pdf, problèmes 1.4 à 1.6"
+  },
+  {
+   "id": "1211",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Les chemins de Barbara",
+   "from": "Handout-4216-3990.pdf, problème 6.8"
+  },
+  {
+   "id": "1212",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Quatre polygones réguliers dans un même cercle",
+   "from": "Handout-4216-3990.pdf, problème 6.9"
+  },
+  {
+   "id": "1213",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Les douze pirates",
+   "from": "Handout-4216-3990.pdf, problème 6.6"
+  },
+  {
+   "id": "1214",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 2,
+   "title": "Parier « petit » sur deux dés",
+   "from": "Handout-4216-3990.pdf, problème 1.1"
+  },
+  {
+   "id": "1215",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Dans quelles bases 2023 finit-il par 3 ?",
+   "from": "Handout-4216-3990.pdf, problème 6.1"
+  },
+  {
+   "id": "1216",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Sept fois un nombre écrit avec des sept",
+   "from": "Handout-4216-3990.pdf, problème 6.7"
+  },
+  {
+   "id": "1217",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Un multiple qui ne s'écrit qu'avec des 1",
+   "from": "Handout-4515-4459.pdf, problème 9"
+  },
+  {
+   "id": "1218",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Le triangle rayé",
+   "from": "Handout-4466-4318.pdf, problème 1.5"
+  },
+  {
+   "id": "1219",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Où construire le pont",
+   "from": "Handout-4559-4528.pdf, problème 5"
+  },
+  {
+   "id": "1220",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 2,
+   "title": "Les trois distances aux côtés",
+   "from": "Handout-4559-4528.pdf, problème 6"
+  },
+  {
+   "id": "1221",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Le plus petit périmètre dans un angle",
+   "from": "Handout-4559-4528.pdf, problème 3"
+  }
+ ],
+ "skipped": [
+  {
+   "ref": "Handout-4216-3990.pdf, 1.2",
+   "why": "exercice de cours sur E et V d'une somme ; la feuille de reponses se contredit elle-meme",
+   "answer": "4X : E=20, V=32. 2(X1+X2) : E=20, V=16. X1+...+X4 : E=20, V=8. La seconde liste de la feuille de reponses est fausse."
+  },
+  {
+   "ref": "Handout-4216-3990.pdf, 2.1 et 2.2",
+   "why": "application directe de la definition de la distance de Manhattan, sans idee",
+   "answer": "2.1 : 5 et 7 ; 13 et 17 ; 25 et 31."
+  },
+  {
+   "ref": "Handout-4216-3990.pdf, 3.1 et 3.2",
+   "why": "reposent sur une carte des Etats-Unis et sur un graphe dessines dans le polycopie ; la feuille de reponses hesite elle-meme sur 3.1",
+   "answer": null
+  },
+  {
+   "ref": "Handout-4216-3990.pdf, 4.1",
+   "why": "« probabilite que deux cordes au hasard d'un carre se coupent », reponse annoncee pi/8 : modele aleatoire non precise, je n'ai pas pu la retrouver ni la rendre rigoureuse",
+   "answer": null
+  },
+  {
+   "ref": "Handout-4216-3990.pdf, 4.2",
+   "why": "question ouverte (proposer un protocole de mesure), pas de reponse unique",
+   "answer": null
+  },
+  {
+   "ref": "Handout-4216-3990.pdf, 5.1",
+   "why": "bon probleme mais long ; a garder pour une passe ulterieure en logic-reasoning 2de ou 1re",
+   "answer": "3 pesees suffisent pour 13 pieces dont une fausse de poids inconnu : mettre une piece de cote et traiter les 12 autres en 3 pesees."
+  },
+  {
+   "ref": "Handout-4216-3990.pdf, 5.2",
+   "why": "une ligne, trop mince pour un exercice",
+   "answer": "20 bits."
+  },
+  {
+   "ref": "Handout-4216-3990.pdf, 6.2",
+   "why": "enumeration fastidieuse, peu d'idee",
+   "answer": "La mediane de S vaut 2302."
+  },
+  {
+   "ref": "Handout-4216-3990.pdf, 6.4",
+   "why": "la feuille de reponses hesite (« 1/4045 ou 1/2023 ? ») et je n'ai pas tranche",
+   "answer": null
+  },
+  {
+   "ref": "Handout-4425-4240.pdf, 4 et 19",
+   "why": "demande la formule de Stirling, au-dela de la Terminale",
+   "answer": "N / G(1..N) tend vers e ; pour N=10, 10/4,529 = 2,208."
+  },
+  {
+   "ref": "Handout-4425-4240.pdf, 5 et 6",
+   "why": "probabilites continues (tirages de reels dans [0;1]), hors programme",
+   "answer": "Dans le probleme 5, l'esperance du nombre de tirages vaut e - 1, donc 1 + E = e."
+  },
+  {
+   "ref": "Handout-4425-4240.pdf, 8, 10, 11, 12, 13",
+   "why": "manipulations de series et demonstration du binome de Newton : soit du cours, soit hors de portee en toute rigueur au lycee",
+   "answer": null
+  },
+  {
+   "ref": "Handout-4425-4240.pdf, 15, 16, 17",
+   "why": "exercices de cours sur les logarithmes",
+   "answer": "15 : 2 ; -4 ; 3 ; 1,5 ; -3 ; -1."
+  },
+  {
+   "ref": "Handout-4548-4513.pdf, 1.1, 1.2, 1.7, 1.13, 1.14",
+   "why": "exercices de cours sur les suites arithmetiques et geometriques",
+   "answer": "1.2 : a_n = -1000 + 40n. 1.7 : esperance de gain nulle, donc toujours 10 dollars."
+  },
+  {
+   "ref": "Handout-4548-4513.pdf, 1.11",
+   "why": "application directe d'une suite geometrique",
+   "answer": "1000 x 0,93^12 = 418,60 : Ingrid a perdu environ 581 euros."
+  },
+  {
+   "ref": "Handout-4548-4513.pdf, 1.9",
+   "why": "bon candidat Terminale (loi binomiale), garde pour une passe ulterieure",
+   "answer": "Probabilite d'etre revenu a 0 apres n coups : 0 si n impair ; C(2m, m) / 2^(2m) si n = 2m."
+  },
+  {
+   "ref": "Handout-4548-4513.pdf, 1.10",
+   "why": "principe de reflexion ; tres joli mais demande un argument de symetrie delicat, garde pour plus tard",
+   "answer": "P(max > 500) = 2 x P(fortune finale = 500)."
+  },
+  {
+   "ref": "Handout-4548-4513.pdf, 1.15 a 1.18",
+   "why": "ruine du joueur avec piece truquee ; excellents candidats Terminale pour une passe ulterieure (la suite des ecarts est geometrique de raison (1-p)/p)",
+   "answer": "1.18 : Bob a une chance positive de ne jamais etre ruine si et seulement si p > 1/2."
+  },
+  {
+   "ref": "Handout-4548-4513.pdf, 1.21, 1.23, 1.24",
+   "why": "demonstrations de definitions (linearite de l'esperance)",
+   "answer": "1.24 : E(S_n^2) = n."
+  },
+  {
+   "ref": "Handout-4515-4459.pdf, 1 a 8",
+   "why": "classiques du principe des tiroirs deja presents dans la base via Moscou et Lyon (echiquier mutile, n+1 entiers, connaissances a une soiree, cinq points du reseau, points antipodaux de l'ocean)",
+   "answer": null
+  },
+  {
+   "ref": "Handout-4559-4528.pdf, 1",
+   "why": "le classique du reflet (minimiser AC + CB avec C sur une droite) : laisse expres pour une passe ulterieure, il merite son propre exercice 2de et sert de lemme a 1219 et 1221",
+   "answer": "C est l'intersection de (A'B) avec la droite, ou A' est le symetrique de A."
+  },
+  {
+   "ref": "Handout-4559-4528.pdf, 2",
+   "why": "propriete focale de l'ellipse : l'ellipse n'est pas au programme du lycee francais",
+   "answer": "Tous les points X de l'ellipse conviennent."
+  },
+  {
+   "ref": "Handout-4559-4528.pdf, 4",
+   "why": "bon candidat 2de pour une passe ulterieure",
+   "answer": "Le point T qui minimise la somme des distances aux quatre sommets d'un quadrilatere convexe est l'intersection des diagonales."
+  },
+  {
+   "ref": "Handout-4559-4528.pdf, 7 et 8",
+   "why": "point de Fermat ; le cas equilateral (7) est accessible mais le cas general (8) demande une construction hors programme",
+   "answer": "7 : le centre du triangle equilateral."
+  },
+  {
+   "ref": "Handout-4466-4318.pdf, 1.1",
+   "why": "niveau 4e/3e, la base est deja tres fournie a ces niveaux",
+   "answer": "A 4 h 40, l'angle vaut 100 degres."
+  },
+  {
+   "ref": "Handout-4466-4318.pdf, 1.2 et 1.3",
+   "why": "la feuille de reponses ne contient que des liens YouTube, inverifiables hors ligne",
+   "answer": null
+  },
+  {
+   "ref": "Handout-4466-4318.pdf, 1.4",
+   "why": "bon candidat 3e/2de en logic-reasoning pour une passe ulterieure",
+   "answer": "Les fourmis se comportent comme si elles se traversaient : 50 arrivent chez Jane, 20 chez Jack, et il y a 50 x 20 = 1000 collisions."
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "Passe 1. Les seances ne sont pas traitees dans l'ordre de la liste : j'ai choisi les polycopies qui contiennent de vrais problemes detachables plutot que du cours. Indices traites : 4 (Random walks), 6 (Pigeonhole), 12 (Geometric optimization), 47 (competition Advanced 1 de decembre 2023), 59 (The number e), 64 (Fun and Games 2). Leurs jumeaux de groupe B (indices 5, 7, 13, 65) sont des polycopies quasi identiques, un coup d'oeil rapide suffit. Les plus rentables restent « The number e » (indice 59) et « Random walks » (indice 4), tous deux a moitie exploites : voir les reponses deja calculees dans skipped. Les polycopies 2024-2025 d'Advanced 2 (indices 0 a 13) sont surtout de l'informatique theorique, de la cryptographie et de la linguistique, peu exploitables ; les indices 34 a 65 (Advanced 1, 2023-2024) sont bien plus riches en mathematiques de lycee. Doublon signale : 1217 (2de) et 4617 (3e) sont le meme probleme des multiples ne s'ecrivant qu'avec des 1, importe en parallele depuis deux polycopies differents ; les deux fichiers ont ete conserves, 1217 porte un see_also vers 4617 et vers 1809.",
  "updated": "2026-09-19",
  "sessions": [
   {
@@ -3656,5 +3961,13 @@
     }
    ]
   }
+ ],
+ "sessions_done": [
+  4,
+  6,
+  12,
+  47,
+  59,
+  64
  ]
 }

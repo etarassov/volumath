@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 230" width="400" height="230">
+  <path d="M 30 190 A 170 170 0 0 1 370 190" fill="#eef2f7" stroke="#000" stroke-width="2"/>
+  <line x1="30" y1="190" x2="370" y2="190" stroke="#000" stroke-width="2"/>
+  <rect x="120" y="40" width="160" height="150" fill="#d8d8d8" fill-opacity="0.7" stroke="#000" stroke-width="2"/>
+  <circle cx="30" cy="190" r="4" fill="#000"/>
+  <circle cx="120" cy="190" r="4" fill="#000"/>
+  <circle cx="280" cy="190" r="4" fill="#000"/>
+  <circle cx="370" cy="190" r="4" fill="#000"/>
+  <circle cx="120" cy="40" r="4" fill="#000"/>
+  <circle cx="280" cy="40" r="4" fill="#000"/>
+  <text x="24" y="212" font-family="serif" font-size="18">F</text>
+  <text x="114" y="212" font-family="serif" font-size="18">D</text>
+  <text x="274" y="212" font-family="serif" font-size="18">A</text>
+  <text x="364" y="212" font-family="serif" font-size="18">E</text>
+  <text x="112" y="30" font-family="serif" font-size="18">C</text>
+  <text x="274" y="30" font-family="serif" font-size="18">B</text>
+  <text x="62" y="182" font-family="serif" font-size="15">9</text>
+  <text x="195" y="182" font-family="serif" font-size="15">16</text>
+  <text x="320" y="182" font-family="serif" font-size="15">9</text>
+</svg>

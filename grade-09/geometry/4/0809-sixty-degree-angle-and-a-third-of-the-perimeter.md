@@ -42,7 +42,7 @@ $$a = BC, \qquad b = AC, \qquad c = AB.$$
 Le côté opposé à l'angle $\widehat{A}$ est $[BC]$, de longueur $a$. L'hypothèse dit
 $$a = \frac{a + b + c}{3}, \qquad \text{c'est-à-dire} \qquad 3a = a + b + c,$$
 donc
-$$b + c = 2a. \tag{1}$$
+$$b + c = 2a. \qquad (1)$$
 
 **Étape 2. Faire entrer l'angle de $60°$ dans le calcul.**
 
@@ -65,7 +65,7 @@ Le point $H$ est sur la droite $(AB)$ à la distance $\dfrac{b}{2}$ de $A$, donc
 $$HB^2 = \left( c - \frac{b}{2} \right)^2 = c^2 - bc + \frac{b^2}{4}.$$
 
 D'où
-$$a^2 = \frac{3b^2}{4} + c^2 - bc + \frac{b^2}{4} = b^2 + c^2 - bc. \tag{2}$$
+$$a^2 = \frac{3b^2}{4} + c^2 - bc + \frac{b^2}{4} = b^2 + c^2 - bc. \qquad (2)$$
 
 **Étape 4. Réunir les deux relations.**
 

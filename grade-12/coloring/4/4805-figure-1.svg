@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280" width="420" height="280">
+<rect x="0" y="0" width="420" height="280" fill="#ffffff"/>
+<polygon points="415.00,16.25 415.00,275.00 260.00,275.00 167.23,217.02 278.28,68.97 368.89,27.78" fill="#b8b8b8" stroke="none"/>
+<polygon points="260.00,275.00 181.25,275.00 156.92,230.77 167.23,217.02" fill="#ffffff" stroke="none"/>
+<polygon points="278.28,68.97 295.38,46.15 368.89,27.78" fill="#ffffff" stroke="none"/>
+<polygon points="415.00,6.82 415.00,16.25 368.89,27.78" fill="#ffffff" stroke="none"/>
+<polygon points="326.25,5.00 415.00,5.00 415.00,6.82 368.89,27.78 295.38,46.15" fill="#b8b8b8" stroke="none"/>
+<polygon points="278.28,68.97 167.23,217.02 140.00,200.00 110.00,145.45" fill="#ffffff" stroke="none"/>
+<polygon points="167.23,217.02 156.92,230.77 140.00,200.00" fill="#b8b8b8" stroke="none"/>
+<polygon points="295.38,46.15 278.28,68.97 110.00,145.45 84.40,98.90" fill="#b8b8b8" stroke="none"/>
+<polygon points="32.75,5.00 326.25,5.00 295.38,46.15 84.40,98.90" fill="#ffffff" stroke="none"/>
+<polygon points="156.92,230.77 181.25,275.00 123.75,275.00" fill="#b8b8b8" stroke="none"/>
+<polygon points="110.00,145.45 140.00,200.00 76.84,160.53" fill="#b8b8b8" stroke="none"/>
+<polygon points="140.00,200.00 156.92,230.77 123.75,275.00 5.00,275.00 5.00,193.18 76.84,160.53" fill="#ffffff" stroke="none"/>
+<polygon points="84.40,98.90 110.00,145.45 76.84,160.53 8.57,117.86" fill="#ffffff" stroke="none"/>
+<polygon points="76.84,160.53 5.00,193.18 5.00,118.75 8.57,117.86" fill="#b8b8b8" stroke="none"/>
+<polygon points="5.00,5.00 32.75,5.00 84.40,98.90 8.57,117.86 5.00,115.62" fill="#b8b8b8" stroke="none"/>
+<polygon points="8.57,117.86 5.00,118.75 5.00,115.62" fill="#ffffff" stroke="none"/>
+<line x1="32.75" y1="5.00" x2="181.25" y2="275.00" stroke="#000000" stroke-width="1.6"/>
+<line x1="326.25" y1="5.00" x2="123.75" y2="275.00" stroke="#000000" stroke-width="1.6"/>
+<line x1="415.00" y1="16.25" x2="5.00" y2="118.75" stroke="#000000" stroke-width="1.6"/>
+<line x1="415.00" y1="6.82" x2="5.00" y2="193.18" stroke="#000000" stroke-width="1.6"/>
+<line x1="260.00" y1="275.00" x2="5.00" y2="115.62" stroke="#000000" stroke-width="1.6"/>
+<rect x="5" y="5" width="410" height="270" fill="none" stroke="#000000" stroke-width="1.6"/>
+</svg>

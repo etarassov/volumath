@@ -6,14 +6,476 @@
   "2001",
   "2200"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 26,
  "sessions_with_answers": 6,
- "next_session": 0,
- "imported": [],
- "skipped": [],
- "retired_ids": [],
- "notes": "",
+ "next_session": 6,
+ "imported": [
+  {
+   "id": "2001",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Neuf divise toujours 4ⁿ + 15n − 1",
+   "file": "Handout-991-1043.pdf",
+   "problem": "12"
+  },
+  {
+   "id": "2007",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Le carré 2ⁿ × 2ⁿ et les trominos en L",
+   "file": "Handout-991-1043.pdf",
+   "problem": "8"
+  },
+  {
+   "id": "2008",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Quand un nombre premier divise un produit",
+   "file": "Handout-1067-1096.pdf",
+   "problem": "16-18"
+  },
+  {
+   "id": "2009",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Une équation du second degré à racine première",
+   "file": "Handout-1272-1283.pdf",
+   "problem": "12"
+  },
+  {
+   "id": "2010",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Les trois racines de x³ − 5x − 2",
+   "file": "Handout-1294-1311.pdf",
+   "problem": "8"
+  },
+  {
+   "id": "2011",
+   "grade": 12,
+   "theme": "functions-analysis",
+   "difficulty": 4,
+   "title": "Trois racines cubiques de somme nulle",
+   "file": "Handout-1272-1283.pdf",
+   "problem": "6"
+  },
+  {
+   "id": "2012",
+   "grade": 12,
+   "theme": "logic-reasoning",
+   "difficulty": 5,
+   "title": "Le sous-marin sur la droite des entiers",
+   "file": "Handout-1101-1119.pdf",
+   "problem": "7 (2e liste)"
+  },
+  {
+   "id": "2013",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Une équation sous une racine carrée",
+   "file": "Handout-1272-1283.pdf",
+   "problem": "2"
+  },
+  {
+   "id": "2014",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Une équation en x + 1/x",
+   "file": "Handout-1272-1283.pdf",
+   "problem": "3"
+  },
+  {
+   "id": "2015",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Un carré caché sous la racine",
+   "file": "Handout-1272-1283.pdf",
+   "problem": "5"
+  },
+  {
+   "id": "2016",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "La somme des carrés des racines",
+   "file": "Handout-1272-1283.pdf",
+   "problem": "11"
+  },
+  {
+   "id": "2017",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 3,
+   "title": "Le point le plus proche de n points donnés",
+   "file": "Handout-1272-1283.pdf",
+   "problem": "19"
+  },
+  {
+   "id": "2018",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Trois inverses dont la somme atteint 9",
+   "file": "Handout-1272-1283.pdf",
+   "problem": "21 et 22"
+  },
+  {
+   "id": "2019",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Carreler une frise de 24 cases",
+   "file": "Handout-991-1043.pdf",
+   "problem": "7"
+  },
+  {
+   "id": "2020",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 3,
+   "title": "Le minimum d'une somme de valeurs absolues",
+   "file": "Handout-1257-1240.pdf",
+   "problem": "1"
+  },
+  {
+   "id": "2021",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Sept lacs, dix canaux, combien d'îles ?",
+   "file": "Handout-1257-1240.pdf",
+   "problem": "5"
+  },
+  {
+   "id": "2022",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Un remplacement qui conserve quelque chose",
+   "file": "Handout-1027-1074.pdf",
+   "problem": "9"
+  },
+  {
+   "id": "2023",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Un fil de 60 cm pour faire un cube",
+   "file": "Handout-1257-1240.pdf",
+   "problem": "3"
+  },
+  {
+   "id": "2024",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 2,
+   "title": "Cinq routes au départ de chaque ville",
+   "file": "Handout-1267-1279.pdf",
+   "problem": "2"
+  },
+  {
+   "id": "2025",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Les six cerises de la tarte",
+   "file": "Handout-1027-1074.pdf",
+   "problem": "7"
+  },
+  {
+   "id": "2026",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Un tableau dont lignes et colonnes font 1",
+   "file": "Handout-1027-1074.pdf",
+   "problem": "5"
+  }
+ ],
+ "skipped": [
+  {
+   "file": "Handout-991-1043.pdf",
+   "problem": "1, 2, 3",
+   "reason": "Formules de sommes classiques (1+...+n, carrés, 1·2+2·3+...). Trop standard pour un exercice à part.",
+   "answer": "n(n+1)/2 ; n(n+1)(2n+1)/6 ; n(n+1)(n+2)/3"
+  },
+  {
+   "file": "Handout-991-1043.pdf",
+   "problem": "4",
+   "reason": "Bon candidat non importé faute de temps. À placer en 1re arithmetic, difficulté 3.",
+   "answer": "FAUX. Contre-exemple x = 40 : 40² + 40 + 41 = 1681 = 41². Vérifié par ordinateur : 40 est le plus petit entier naturel qui échoue."
+  },
+  {
+   "file": "Handout-991-1043.pdf",
+   "problem": "9",
+   "reason": "Énoncé anglais ambigu (jetons bleus/rouges en cercle) et je n'ai pas pu le formaliser puis le démontrer avec certitude dans le temps imparti. À reprendre : c'est le « lemme du cycle ».",
+   "answer": "Non établi rigoureusement. La réponse attendue est « oui, on gagne toujours », mais ne pas l'importer sans preuve."
+  },
+  {
+   "file": "Handout-991-1043.pdf",
+   "problem": "11",
+   "reason": "Trop facile seul pour la Terminale : 8 ≡ 1 mod 7 donne le résultat en une ligne.",
+   "answer": "Oui, 7 divise 8ⁿ − 1 pour tout n."
+  },
+  {
+   "file": "Handout-1001-1051.pdf",
+   "problem": "1, 2, 3, 5, 6",
+   "reason": "Doublons de Induction I (Handout-991-1043.pdf).",
+   "answer": ""
+  },
+  {
+   "file": "Handout-1067-1096.pdf",
+   "problem": "1 à 9, 14",
+   "reason": "Exercices d'entraînement sur la divisibilité et le PGCD, en dessous du niveau du club.",
+   "answer": ""
+  },
+  {
+   "file": "Handout-1067-1096.pdf",
+   "problem": "10",
+   "reason": "Simple calcul de PGCD.",
+   "answer": "PGCD(53024, 4033) = 1 (4033 = 37 × 109)"
+  },
+  {
+   "file": "Handout-1067-1096.pdf",
+   "problem": "11",
+   "reason": "Problème du fermier : bon candidat 3e/2de, non importé faute de temps.",
+   "answer": "PGCD(2871, 1716) = 33 arbres par rangée"
+  },
+  {
+   "file": "Handout-1067-1096.pdf",
+   "problem": "12, 13, 15",
+   "reason": "Étapes de la démonstration que l'algorithme d'Euclide donne bien le PGCD ; matière de cours, en partie reprise dans 2008.",
+   "answer": ""
+  },
+  {
+   "file": "Handout-1027-1074.pdf",
+   "problem": "1",
+   "reason": "Caméléons 20/13/10 : très proche de 0457 « Les amibes martiennes » (3e). Non importé pour éviter un quasi-doublon, mais la réponse est intéressante car contraire à l'attente.",
+   "answer": "OUI, tous peuvent devenir rouges. 13 ≡ 10 ≡ 1 mod 3 : rouge+bleu → 19 R, 12 B, 12 V, puis les 12 bleus et 12 verts s'apparient et donnent 24 rouges de plus, soit 43 rouges."
+  },
+  {
+   "file": "Handout-1027-1074.pdf",
+   "problem": "2, 3, 8",
+   "reason": "Doublons certains : 0505 (deux coins découpés), 0812 (vingt-cinq tétraminos en T), 0508/0509 (bandes de quatre cases).",
+   "answer": ""
+  },
+  {
+   "file": "Handout-1027-1074.pdf",
+   "problem": "4",
+   "reason": "Bon candidat non importé (2de arithmetic, difficulté 3).",
+   "answer": "Le dernier nombre est IMPAIR. |a−b| a la même parité que a+b, donc la parité de la somme est invariante ; 1+2+...+2n = n(2n+1), impair quand n est impair. Vérifié pour n = 1, 3, 5, 7."
+  },
+  {
+   "file": "Handout-1027-1074.pdf",
+   "problem": "6",
+   "reason": "Bon candidat non importé (3e/2de arithmetic).",
+   "answer": "NON, on n'atteindra jamais 12. N = 9999333666369999999999999991999999333369 vérifie N ≡ 1 mod 9 (somme des chiffres 289), et la somme des chiffres conserve le reste modulo 9. La suite est 289 → 19 → 10 → 1. Comme 12 ≡ 3 mod 9, c'est impossible."
+  },
+  {
+   "file": "Handout-1027-1074.pdf",
+   "problem": "10",
+   "reason": "Problème de physique (conservation de l'énergie), pas de mathématiques.",
+   "answer": ""
+  },
+  {
+   "file": "Handout-1027-1074.pdf",
+   "problem": "11",
+   "reason": "Bon candidat non importé : « si chaque pièce d'une maison a un nombre pair de portes, alors il y a un nombre pair de portes donnant sur l'extérieur ». C'est le lemme des poignées de main appliqué au graphe des pièces.",
+   "answer": "Vrai. Compter les couples (pièce, porte) : chaque porte intérieure est comptée deux fois, chaque porte extérieure une fois."
+  },
+  {
+   "file": "Handout-1027-1074.pdf",
+   "problem": "12",
+   "reason": "Lemme de Sperner : trop avancé, et il faut toute la construction du polycopié.",
+   "answer": ""
+  },
+  {
+   "file": "Handout-1272-1283.pdf",
+   "problem": "1, 7",
+   "reason": "Démonstration de la formule du discriminant et des relations coefficients-racines : matière de cours de 1re.",
+   "answer": ""
+  },
+  {
+   "file": "Handout-1272-1283.pdf",
+   "problem": "4",
+   "reason": "Lecture graphique simple.",
+   "answer": "c > 0 : avec a > 0 et D < 0 la parabole est entièrement au-dessus de l'axe des abscisses, donc f(0) = c > 0."
+  },
+  {
+   "file": "Handout-1272-1283.pdf",
+   "problem": "8, 9, 10",
+   "reason": "Exercices d'application des relations coefficients-racines.",
+   "answer": "8 : x² + x − 12 = 0. 9 : pour ax³+bx²+cx+d, x1+x2+x3 = −b/a, x1x2+x1x3+x2x3 = c/a, x1x2x3 = −d/a. 10 : x³ − 6x² + 11x − 6 = 0."
+  },
+  {
+   "file": "Handout-1272-1283.pdf",
+   "problem": "13 à 18",
+   "reason": "Leçon sur la convexité : chaque exercice s'appuie sur la définition donnée dans le polycopié et ne tient pas seul.",
+   "answer": "18 : minimum en x = −b/(2a), valeur (4ac − b²)/(4a)."
+  },
+  {
+   "file": "Handout-1272-1283.pdf",
+   "problem": "20",
+   "reason": "Bon candidat non importé (1re geometry, difficulté 4) : distance d'un point à une droite, obtenue en minimisant un trinôme.",
+   "answer": "d = |a x0 + b y0 + c| / √(a² + b²)"
+  },
+  {
+   "file": "Handout-1257-1240.pdf",
+   "problem": "2",
+   "reason": "« 100 personnes à une soirée, deux ont le même nombre de connaissances » : principe des tiroirs. Très proche du cœur de 0285 (2de, quatre élèves). À arbitrer avant import.",
+   "answer": "Vrai. Les degrés sont dans {0,...,99} mais 0 et 99 ne peuvent pas coexister, donc 99 valeurs possibles pour 100 personnes."
+  },
+  {
+   "file": "Handout-1257-1240.pdf",
+   "problem": "4, 6, 7, 8",
+   "reason": "Théorie des arbres : demande les définitions du polycopié.",
+   "answer": "8 : un graphe fini connexe est un arbre si et seulement si V = E + 1."
+  },
+  {
+   "file": "Handout-1257-1240.pdf",
+   "problem": "9, 10, 11",
+   "reason": "R(3,3) = 6 : doublon certain de 0235 « Trois amis ou trois inconnus » (4e).",
+   "answer": "R(3,3) = 6 ; à 5 personnes le contre-exemple est le pentagone (cycle de longueur 5)."
+  },
+  {
+   "file": "Handout-1257-1240.pdf",
+   "problem": "12, 14",
+   "reason": "Nombres de Ramsey : R(2,5) est immédiat, R(5,5) est un problème ouvert.",
+   "answer": "R(2,5) = 5. R(5,5) reste inconnu ; le polycopié donne l'encadrement 43 ≤ R(5,5) ≤ 49."
+  },
+  {
+   "file": "Handout-1267-1279.pdf",
+   "problem": "1",
+   "reason": "Bon candidat non importé (3e/2de logic-reasoning, difficulté 2) : connexité d'un graphe, à reformuler avec des villes françaises.",
+   "answer": "NON. Le réseau a deux composantes : {Portland, New York, Boston, Los Angeles, San Francisco} et {San Diego, Washington, Austin, Charlotte}."
+  },
+  {
+   "file": "Handout-1267-1279.pdf",
+   "problem": "3",
+   "reason": "Bon candidat non importé (2de, difficulté 3).",
+   "answer": "OUI. Tous les sommets de l'octaèdre sont de degré 4, donc pair : un circuit eulérien existe."
+  },
+  {
+   "file": "Handout-1267-1279.pdf",
+   "problem": "4",
+   "reason": "Même problème que 2023 (cube, nombre minimal de levers de crayon). Importé sous la forme du fil de fer.",
+   "answer": "3 levers, soit 4 traits."
+  },
+  {
+   "file": "Handout-1267-1279.pdf",
+   "problem": "5",
+   "reason": "Trois étangs, dix ruisseaux : même idée que 2021 (sept lacs, dix canaux) que je viens d'importer. Non importé pour ne pas mettre deux fois le même raisonnement.",
+   "answer": "8 îles (10 − 3 + 1)."
+  },
+  {
+   "file": "Handout-1267-1279.pdf",
+   "problem": "6 à 12",
+   "reason": "Formule d'Euler et classification des solides de Platon : suite de démonstrations qui s'appuient les unes sur les autres et sur le cours du polycopié.",
+   "answer": ""
+  },
+  {
+   "file": "Handout-1294-1311.pdf",
+   "problem": "4",
+   "reason": "Bon candidat non importé (Terminale algebra, difficulté 5) : une racine réelle par la formule de Cardan.",
+   "answer": "x = ∛4 − ∛2 ≈ 0,3275. Vérifié numériquement : u³+v³ = 2 et uv = −2, donc u³ et v³ sont racines de t² − 2t − 8 = 0, soit 4 et −2."
+  },
+  {
+   "file": "Handout-1294-1311.pdf",
+   "problem": "5",
+   "reason": "Cardan après changement de variable z = x − 2 ; même idée que le 4.",
+   "answer": "Le changement de variable x = y − 2 ramène l'équation à y³ − 3y − 4 = 0 (vérifié par développement)."
+  },
+  {
+   "file": "Handout-1294-1311.pdf",
+   "problem": "6, 7",
+   "reason": "Division euclidienne des polynômes : exercice technique, utile mais sans idée.",
+   "answer": "6 : x³+3x²+5x−4 = (x−1)(x²+4x+9) + 5. 7 : 3x⁵−2x³+10x²−x+11 divisé par x²+x+1."
+  },
+  {
+   "file": "Handout-1294-1311.pdf",
+   "problem": "10 à 28",
+   "reason": "Construction des nombres complexes : bons candidats Terminale (maths expertes) pour une passe ultérieure, mais ce sont surtout des vérifications de propriétés algébriques.",
+   "answer": "10 : i^2017 = i. 11 : Re(z) = 1+√2, Im(z) = −3. 28 : x = −1 ± i√2."
+  },
+  {
+   "file": "Handout-1101-1119.pdf",
+   "problem": "tout sauf 7",
+   "reason": "Exercices de bijections : presque tous définitionnels (trouver une bijection entre deux ensembles finis ou entre N et Z). Peu d'idée à chercher.",
+   "answer": ""
+  },
+  {
+   "file": "Handout-1185-1198.pdf",
+   "problem": "1, 3, 4",
+   "reason": "Chiffres de César et de substitution sur des messages anglais. Le travail sur les fréquences de lettres ne se transpose pas en français, et retraduire les messages reviendrait à réécrire le polycopié.",
+   "answer": ""
+  },
+  {
+   "file": "Handout-1185-1198.pdf",
+   "problem": "2",
+   "reason": "Bon candidat non importé (1re/Terminale combinatorics, difficulté 2) : dénombrement des chiffres.",
+   "answer": "(a) 25 chiffres de César non triviaux. (b) 26! ≈ 4,03 × 10²⁶ chiffres de substitution. (c) 26!/2 ÷ 10¹² ≈ 2,0 × 10¹⁴ s ≈ 6,4 millions d'années. Vérifié par calcul."
+  },
+  {
+   "file": "Handout-1134-1143.pdf",
+   "problem": "1 à 32",
+   "reason": "Compétition interne composée de problèmes AMC 8/10, presque tous de niveau 3e/2de et très dépendants de figures. Laissés pour une passe ultérieure : la base est déjà riche à ces niveaux, et mon unité devait remplir 1re et Terminale.",
+   "answer": ""
+  },
+  {
+   "file": "Handout-981-1035.pdf",
+   "problem": "1 à 6",
+   "reason": "Problèmes d'olympiades russes de niveau 6e à 4e (autocollants, dragons à deux têtes, coccinelles menteuses). En dessous du niveau visé, et ce fonds russe est déjà couvert par l'import MSU.",
+   "answer": "1 : 121 autocollants. 3 : le dragon à trois têtes, v3 = 21/20 v2. 4 : cinq coccinelles (deux à 4 points, trois à 6 points). 5 : oui, avec le nombre 1/5."
+  },
+  {
+   "file": "Handout-1053-1097.pdf et suivants",
+   "problem": "session « Tricks for Mental Math »",
+   "reason": "Astuces de calcul mental (carrés des nombres finissant par 5, multiplication par 11...). Ce sont des techniques, pas des problèmes : difficulté 1 au mieux, et sans idée à trouver.",
+   "answer": ""
+  }
+ ],
+ "retired_ids": [
+  {
+   "id": "2003",
+   "why": "Same problem as 1802, same grade and theme (Terminale algebra), near word for word: prove the product of (1 - 1/k^2) equals (n+1)/(2n) by induction. Kept 1802, which sits at difficulty 2, the right rating for a Terminale induction whose formula is given, and which has the fuller hint ladder. The two things 2003 had and 1802 did not, the bounds-and-limit remark and the worked telescoping, were moved into 1802 before deletion. Never reuse the id 2003.",
+   "survivor": "1802",
+   "decided": "2026-09-19"
+  },
+  {
+   "id": "2002",
+   "why": "Same problem in the same folder grade-12/algebra/3 as 2811, the sum of cubes equals the square of the sum. Kept 2811: it asks the student to compute 1^3+2^3, then +3^3, then +4^3 and notice the pattern before proving it, which suits a club session better, and its solution and hint ladder are fuller.",
+   "survivor": "2811",
+   "decided": "2026-09-19"
+  },
+  {
+   "id": "2005",
+   "why": "Same problem in the same folder grade-12/logic-reasoning/3 as 4801, Polya's false induction that all horses share a colour. Kept 4801: it notices that the bogus proof does correctly establish P(2)=>P(3)=>... so that only P(2) is missing, and its going-further asks the student to invent a false statement that is nonetheless hereditary, which is the real lesson of the exercise.",
+   "survivor": "4801",
+   "decided": "2026-09-19"
+  },
+  {
+   "id": "2006",
+   "why": "Same problem in the same folder grade-12/coloring/4 as 4805, two-colouring the regions cut out by finitely many lines. Kept 4805: its statement defines what neighbouring regions are, which the problem needs, and it has five hints against four and a fuller solution.",
+   "survivor": "4805",
+   "decided": "2026-09-19"
+  },
+  {
+   "id": "2004",
+   "why": "Same Cassini identity as 4806, same folder grade-12/algebra/4. The two statements differ only by the indexing convention (F1=F2=1 against F0=0, F1=1), which flips the sign of (-1)^n. Kept 4806: it asks for the first six values before the proof, and its title says what the problem is about.",
+   "survivor": "4806",
+   "decided": "2026-09-19"
+  }
+ ],
+ "notes": "26 exercices importés (2001 à 2026), dont 12 en Terminale et 9 en 1re : ces deux niveaux étaient vides avant cette passe. Ids restants du bloc : 2027 à 2200.\n\nSessions traitées (les six avec réponses, plus « Quadratic equations » de Gleizer, « Ramsey Theory », le test de janvier 2017, « Infinity I », « Induction II » et « The Cardano formula ») : leurs problèmes sont tous soit importés, soit listés dans skipped avec une réponse.\n\nSessions encore intactes, à reprendre à partir de next_session = 6 : les trois « Intro to Graphs » (1201-1205, 1222-1209, 1223-1229), « Cool Results on Primes » (1100-1099), « Invariants I » (1021-1067, dont le problème 0 sur le bâtiment et le problème 2 sur la liste de 0 et de 1), « Quadratics » de Noah Olander (1140-1158, dont le problème 15 qui mène à l'inégalité de Cauchy-Schwarz), « Graph Theory I » (1121-1138), « How many infinities are there? » (1102-1111), « Proof by Contradiction » (1133-1150), « Algorithms I » (1184-1197) et « Complex Numbers III » (1187-1199).\n\nPistes les plus prometteuses pour la suite, dans l'ordre : le problème 15 de Handout-1140-1158.pdf (Cauchy-Schwarz par le discriminant, Terminale 5), « Complex Numbers III » et les problèmes 10 à 28 de Handout-1294-1311.pdf pour l'arithmétique des complexes en Terminale, et « Proof by Contradiction » pour la 2de.\n\nAttention pour le coordinateur : deux doublons exacts dans le même dossier avec d'autres blocs, signalés et NON supprimés conformément à la règle (2002 / 2811 « La somme des cubes est un carré », grade-12/algebra/3 ; 2005 / 4801 « Tous les chevaux ont la même couleur », grade-12/logic-reasoning/3). Par ailleurs 2003 (Terminale) est le jumeau à un autre niveau de 0406 (3e) : le lien see_also a été posé côté 2003 seulement, puisque 0406 est hors de mon bloc.",
  "updated": "2026-09-19",
  "sessions": [
   {

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 235" width="432" height="317">
+<line x1="45.00" y1="195.00" x2="295.00" y2="195.00" stroke="#000" stroke-width="1.8"/>
+<line x1="45.00" y1="195.00" x2="205.70" y2="3.49" stroke="#000" stroke-width="1.8"/>
+<path d="M 75.00,195.00 A 30.0,30.0 0 0 0 64.28,172.02" fill="none" stroke="#666" stroke-width="1"/>
+<line x1="156.26" y1="150.05" x2="127.00" y2="195.00" stroke="#a51d2d" stroke-width="2"/>
+<line x1="127.00" y1="195.00" x2="157.49" y2="60.94" stroke="#a51d2d" stroke-width="2"/>
+<line x1="157.49" y1="60.94" x2="156.26" y2="150.05" stroke="#a51d2d" stroke-width="2"/>
+<circle cx="45.00" cy="195.00" r="3.0" fill="#000"/>
+<text x="30.00" y="201.00" font-family="serif" font-size="15" font-style="italic">O</text>
+<circle cx="156.26" cy="150.05" r="3.0" fill="#000"/>
+<text x="163.26" y="143.05" font-family="serif" font-size="15" font-style="italic">P</text>
+<circle cx="127.00" cy="195.00" r="3.0" fill="#000"/>
+<text x="123.00" y="212.00" font-family="serif" font-size="15" font-style="italic">M</text>
+<circle cx="157.49" cy="60.94" r="3.0" fill="#000"/>
+<text x="139.49" y="56.94" font-family="serif" font-size="15" font-style="italic">N</text>
+<text x="78.00" y="183.00" font-family="serif" font-size="13">50°</text>
+<text x="291.00" y="212.00" font-family="serif" font-size="14" font-style="italic">x</text>
+<text x="209.70" y="17.49" font-family="serif" font-size="14" font-style="italic">y</text>
+</svg>

@@ -6,14 +6,104 @@
   "2601",
   "2800"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 43,
  "sessions_with_answers": 2,
- "next_session": 0,
- "imported": [],
- "skipped": [],
+ "next_session": 2,
+ "imported": [
+  "2601",
+  "2602",
+  "2603",
+  "2604",
+  "2605",
+  "2606",
+  "2607",
+  "2608",
+  "2609",
+  "2610",
+  "2611",
+  "2612",
+  "2613",
+  "2614",
+  "2615",
+  "2616",
+  "2617",
+  "2618",
+  "2619",
+  "2620",
+  "2621",
+  "2622",
+  "2623",
+  "2624",
+  "2625"
+ ],
+ "skipped": [
+  {
+   "session": "828 Group Theory 2",
+   "file": "Handout-720-828.pdf",
+   "reason": "Session entiere sautee. Theorie des groupes (groupe, ordre d'un element, groupe abelien, classification des groupes d'ordre <= 4). Hors programme francais a tous les niveaux; chaque exercice demanderait deux pages de definitions repliees dans l'enonce. Le fichier de solutions Handout-721-828.pdf ne change rien a ce constat."
+  },
+  {
+   "session": "552 AMC Problem Session",
+   "file": "Handout-456-552.pdf",
+   "item": "exercice 5",
+   "reason": "Pavage du plan par carres et pentagones : l'enonce renvoie a une image du pavage que le texte ne decrit pas. Reponse verifiee dans le fichier : les pentagones couvrent 5/9 du plan. Importable si un jour on redessine le pavage."
+  },
+  {
+   "session": "552 AMC Problem Session",
+   "file": "Handout-456-552.pdf",
+   "item": "exercice 7",
+   "reason": "Triangle ABC avec angle B = 45 deg, D sur [BC] tel que 2 BD = CD et angle DAB = 15 deg ; trouver angle ACB. Reponse du fichier : 75 deg. Demande la loi des sinus dans une configuration que la Terminale francaise ne travaille pas. A reprendre avec une solution trigonometrique."
+  },
+  {
+   "session": "552 AMC Problem Session",
+   "file": "Handout-456-552.pdf",
+   "item": "exercice 9",
+   "reason": "Deux fourmis sur un triangle equilateral, la troisieme au milieu du segment qui les joint ; rapport des aires 1/16 d'apres le fichier. Je n'ai pas su etablir rigoureusement la forme de la trajectoire dans le temps imparti. Reponse NON verifiee par moi."
+  },
+  {
+   "session": "552 AMC Problem Session",
+   "file": "Handout-456-552.pdf",
+   "item": "exercice 10",
+   "reason": "Triangle rectangle isocele en C, P interieur avec PA=11, PB=7, PC=6 ; aire = 21*sqrt(2) + 85/2. Reponse VERIFIEE par moi (voir answers_worked_out). Pas importee faute de place, tres bon candidat Terminale difficulte 5."
+  },
+  {
+   "session": "682 Bugs on a Log",
+   "file": "Handout-580-682.pdf",
+   "item": "exercice 1",
+   "reason": "2013 insectes sur un celeri d'un metre, classique du croisement = traversee. L'enonce ne donne aucune vitesse, donc la question 'combien de temps au maximum' n'a pas de reponse chiffree telle quelle. A importer en fixant une vitesse, ou en demandant la distance parcourue."
+  },
+  {
+   "session": "519 Probability I",
+   "file": "Handout-451-519.pdf",
+   "item": "exercice 12",
+   "reason": "Corde tiree au hasard plus longue que le rayon : c'est le paradoxe de Bertrand, la reponse depend de ce que veut dire 'au hasard'. Enonce mal pose, saute volontairement."
+  },
+  {
+   "session": "519 Probability I",
+   "file": "Handout-451-519.pdf",
+   "item": "exercice 14",
+   "reason": "Aiguille de Buffon : demande une integrale, au-dela de la Terminale. Le fichier donne lui-meme 2/pi."
+  },
+  {
+   "session": "751 AMC Preparation",
+   "file": "Handout-632-751.pdf",
+   "item": "2006 AMC 12 B, probleme 25",
+   "reason": "Suite a_(n+2) = |a_(n+1) - a_n| avec a1 = 999, a2 < 999, a2006 = 1 : combien de valeurs de a2 ? J'ai VERIFIE par force brute que la reponse est 324 (= phi(999)/2). La demonstration rigoureuse (la suite atteint le cycle (d, d, 0) avec d = PGCD, puis condition de phase) est un long texte de niveau olympiade. A reprendre."
+  },
+  {
+   "session": "familles entieres",
+   "file": "plusieurs",
+   "reason": "Sautees comme famille, hors programme du lycee francais et chacune demandant plusieurs pages de ses propres definitions : Matrices (653-741), Introduction to Linear Algebra (654-747), Linear Transformations (656-764), What is a Basis (655-763), Metric Spaces I et II (575-697, 588-702), Quaternions (581-681), Surfaces I et II (452-505, 417-513), Quadratic Forms (508-559), Quadratic Reciprocity (423-517 et annexes), Smart Code I et II (398-495, 405-499), Special Relativity (462-553), Stirling's Formula (523-633), Rational Algebraic and Transcendental Numbers (518-629)."
+  },
+  {
+   "session": "680 Game Theory II / 667 Game Theory",
+   "file": "Handout-568-680.pdf, Handout-544-667.pdf",
+   "reason": "Pas importe cette fois : le Nim a trois tas demande la somme de Nim (XOR binaire), et le handout 667 n'est qu'une liste de regles de jeux sans aucune question. Le jeu de soustraction (24 jetons, on en retire 1, 2 ou 3) est importable tel quel mais ressemble beaucoup a 0877 'Vingt-trois allumettes sur la table' deja en base en 4e ; a arbitrer."
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "Sessions traitees : 828 (sautee en entier, theorie des groupes) et 552 (fichier de reponses AMC, 15 problemes avec reponses : c'est la mine d'or de cette unite, 9 exercices en sont sortis). Pioche aussi dans les sessions 683 Fair Divisions, 674 Roots of Unity, 712 Complex Numbers, 519 Probability I, 771 Introduction to Sequences, 751 AMC Preparation, 668 Taxicab Geometry. DEUX PDF SANS COUCHE TEXTE : Handout-443-520.pdf (Geometric Probability and Paradoxes, 4 pages) et Handout-511-615.pdf (Pick's Theorem and Ehrhart Theory, 2 pages) sont des scans image. Il faut les rendre en images et les lire a l'oeil ; le theoreme de Pick est un tres bon sujet, une prochaine passe devrait s'en occuper. Le handout 589-683 Fair Divisions (continuite et TVI) est le filon le plus riche pour la Terminale : les problemes 3, 4, 5, 9 et tout le handout 600-684 Inscribed Figures restent a prendre, dans la meme veine que 2601-2603. Session 754 (Handout-635-754.pdf, 2004 AMC 12) pas encore ouverte. Attention aux exposants aplatis : la reponse de l'exercice 3 du fichier 456-552 se lit '49' dans le texte extrait alors que c'est 4^9 ; toujours passer par tools/pdfsupers.py.",
  "updated": "2026-09-19",
  "sessions": [
   {
@@ -645,6 +735,108 @@
      "file": "Handout-398-495.pdf"
     }
    ]
+  }
+ ],
+ "answers_worked_out": [
+  {
+   "ref": "Handout-456-552.pdf ex.1",
+   "q": "nx+y=1, ny+z=1, x+nz=1 sans solution",
+   "a": "n = -1. Pour n != -1, x=y=z=1/(n+1) marche. VERIFIE. Importe en 2613."
+  },
+  {
+   "ref": "Handout-456-552.pdf ex.3",
+   "q": "72_8! / 18_2!",
+   "a": "4^9 = 262144. ATTENTION: le texte plat du PDF affiche '49', c'est bien 4 puissance 9, confirme par pdfsupers. VERIFIE. Importe en 2625."
+  },
+  {
+   "ref": "Handout-456-552.pdf ex.4",
+   "q": "lait et eau, 20 % puis 1/3",
+   "a": "25 %. Volume initial 4 onces dont 1 de lait. VERIFIE par resolution. NON importe : melange classique niveau 3e, bon candidat facile."
+  },
+  {
+   "ref": "Handout-456-552.pdf ex.10",
+   "q": "triangle rectangle isocele en C, P interieur, PA=11 PB=7 PC=6, aire ?",
+   "a": "s^2 = 85 + 42*sqrt(2), aire = s^2/2 = 85/2 + 21*sqrt(2). VERIFIE par moi : en posant C=(0,0), A=(s,0), B=(0,s), P=(x,y), on obtient x=(s^2-85)/(2s), y=(s^2-13)/(2s), puis u=s^2 verifie u^2-170u+3697=0, u = 85 +/- 42*sqrt(2) ; seule la racine 85+42*sqrt(2) place P a l'interieur."
+  },
+  {
+   "ref": "Handout-556-674.pdf PS2 ex.2",
+   "q": "aire du polygone dont les sommets sont les racines de x^7+x^6+...+x+1 = 0",
+   "a": "(3*sqrt(2)+1)/2 = 2,6213. Ce sont les racines 8-iemes de l'unite sauf 1, donc 7 sommets d'un octogone regulier du cercle unite. VERIFIE numeriquement (enveloppe convexe). Tres bon candidat Terminale."
+  },
+  {
+   "ref": "Handout-555-674.pdf PS1 ex.2",
+   "q": "|z| = 1 et |z+1| = 1",
+   "a": "z = -1/2 +/- i*sqrt(3)/2, donc z^3 = 1. Facile, bon candidat Terminale difficulte 2-3."
+  },
+  {
+   "ref": "Handout-555-674.pdf PS1 ex.1",
+   "q": "z = (2-i)^2 / (3+2i)^2, Re, Im, |z|",
+   "a": "|z| = 5/13. Exercice de calcul, niveau Terminale difficulte 1-2."
+  },
+  {
+   "ref": "Handout-556-674.pdf PS2 ex.4",
+   "q": "sin 2 + sin 4 + ... + sin 178 (degres)",
+   "a": "cotan(1 deg). Formule de somme trigonometrique hors programme francais ; faisable avec la somme geometrique complexe."
+  },
+  {
+   "ref": "Handout-451-519.pdf ex.4",
+   "q": "nombre moyen de lancers d'un de pour obtenir un 6",
+   "a": "6. Loi geometrique, bon candidat Terminale difficulte 3."
+  },
+  {
+   "ref": "Handout-451-519.pdf ex.5",
+   "q": "nombre moyen de piles sur 100 lancers",
+   "a": "50. Trop facile seul, a grouper."
+  },
+  {
+   "ref": "Handout-451-519.pdf ex.8",
+   "q": "nombre de chemins du reseau de (0,0) a (a,b)",
+   "a": "C(a+b, a). Bon candidat 1re. ATTENTION : 0155 'Chemins dans un quadrillage' existe deja en 4e, cross-linker."
+  },
+  {
+   "ref": "Handout-444-522.pdf ex.1",
+   "q": "des de Sicherman",
+   "a": "(1,2,2,3,3,4) et (1,3,4,5,6,8) donnent exactement la meme loi pour la somme que deux des ordinaires. VERIFIE par enumeration. Excellent candidat 1re ou Terminale difficulte 3, en le posant comme une verification a faire."
+  },
+  {
+   "ref": "Handout-444-522.pdf ex.3b",
+   "q": "C(n,0)^2 + C(n,1)^2 + ... + C(n,n)^2",
+   "a": "C(2n, n). Demonstration par les chemins du reseau. Bon candidat Terminale difficulte 4."
+  },
+  {
+   "ref": "Handout-444-522.pdf ex.5",
+   "q": "chemins de (0,0) a (n,n) qui ne passent pas au-dessus de y = x",
+   "a": "nombre de Catalan C(2n,n)/(n+1). Terminale difficulte 5."
+  },
+  {
+   "ref": "Handout-662-771.pdf ex.0 l)",
+   "q": "colorations des sommets d'un carre avec n couleurs, sommets voisins de couleurs differentes",
+   "a": "(n-1)^4 + (n-1). VERIFIE par enumeration pour n de 1 a 6 (0, 2, 18, 84, 260, 630). Pour le triangle : n(n-1)(n-2). Bon candidat Terminale difficulte 4."
+  },
+  {
+   "ref": "Handout-662-771.pdf ex.5",
+   "q": "nombre de facons d'ecrire n comme somme ordonnee de 1 et de 2",
+   "a": "Fibonacci, meme recurrence que les mots sans deux A de suite (importe en 2618). A cross-linker si importe."
+  },
+  {
+   "ref": "Handout-662-771.pdf ex.6",
+   "q": "mots de Dyck de longueur 2n",
+   "a": "nombres de Catalan. Terminale difficulte 5."
+  },
+  {
+   "ref": "Handout-662-771.pdf ex.2 d)",
+   "q": "a0 = 0, a(n+1) = a(n) + n^2, formule explicite",
+   "a": "a(n) = (n-1)n(2n-1)/6. Bon candidat 1re difficulte 3 (recurrence)."
+  },
+  {
+   "ref": "Handout-632-751.pdf 2006 AMC 12B",
+   "q": "problemes verifies par force brute",
+   "a": "pb 9 (entiers pairs a trois chiffres strictement croissants) = 34 ; pb 10 (cotes a, 3a, 15, perimetre maximal) = 43 ; pb 14 (sandwichs d'Elmo, N(4B+5J) = 253, cout de la confiture) = 1,65 euro avec N=11, B=2, J=3 ; pb 17 (des charges 1:2:...:6, P(somme 7)) = 8/63 ; pb 18 (marche de 10 pas sur le reseau, nombre d'arrivees possibles) = 121 ; pb 25 = 324. TOUS VERIFIES."
+  },
+  {
+   "ref": "Handout-632-751.pdf 2006 AMC 12B pb 12 et 16",
+   "q": "parabole de sommet (p,p) / hexagone de sommets A(0,0) et C(7,1)",
+   "a": "b = 4 ; aire = 25*sqrt(3). VERIFIES. Importes en 2621 et 2622."
   }
  ]
 }

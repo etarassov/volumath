@@ -79,10 +79,34 @@ Two things to get right there:
 - A comma between items, as in `$1, 2, \ldots, 100$` or `$\mathrm{PGCD}(10, 6)$`, is fine and
   prints as expected.
 
+### What survives the trip to Typst
+
+Not every LaTeX command makes it through pandoc. These were all found by building a page and
+looking at it, which is the only way they show up. Nothing here raises an error.
+
+| Write this | Not this | Because |
+|---|---|---|
+| `\binom` | `\dbinom` | the `d` form prints its own source, raw, on the page |
+| `$$(\star) \qquad ...$$` | `\tag{...}` | tags are dropped silently, so a later reference points at nothing |
+| `(` `)` | `\big(` `\big)` | the `\big` forms open ugly gaps |
+| two equations joined by "et" | `\begin{cases}` | renders badly |
+| "pour $u > 0$" | `\left]0, +\infty\right[` | **breaks the build** with "unclosed delimiter" |
+
+`[0,1[` written without `\left`/`\right` is fine. Confirmed to render correctly: `\boxed`,
+`\binom`, `\underbrace`, `\prod`, `\pmod`, `\overline`, `\widehat`, `\tfrac`, `\mathbb`,
+`\mathcal`, `\varnothing`, the degree sign, and Markdown tables.
+
+**The `title:` field is not maths.** LaTeX there prints literally, backslashes and all. Write
+the title in plain text with unicode: `"11ⁿ − 4ⁿ est un multiple de 7"`.
+
 Figures are SVG. Putting colours and strokes as attributes on each shape (`fill="#d8d8d8"`,
 `stroke="#000"`) is the safe default. A `<style>` block with CSS classes also renders
 correctly in the current toolchain, verified on a figure that uses fills, dashes and
-`paint-order`. Either way, build the exercise and look at the page before trusting a figure.
+`paint-order`. A `√` inside an SVG `<text>` element comes out as `/`, so keep length labels
+out of the drawing. Either way, build the exercise and look at the page before trusting a
+figure, and check that the figure does not give the answer away: three separate figures have
+been redrawn because the first version showed the construction, the optimum, or the answer
+circle.
 
 ## Difficulty
 
@@ -115,6 +139,15 @@ against the whole database.
 
 Skip a problem rather than import it badly. Skip it too if it is below 4e even at one star.
 
+**The source can be wrong, and printed answers are not proof.** Across the imports so far,
+agents have found roughly a dozen genuine mistakes in published circle handouts: answer keys
+that contradict their own solutions, a problem asking students to prove something false, a
+count off by one, a solution that adds two overlapping regions, statements with a missing
+word that makes them insoluble. So treat the source answer as a check on your reasoning, not
+as the reasoning. When your answer and the book's disagree, work out which is right before
+writing anything, and if the book is wrong, say so in `source.reference` and publish the
+correct version. When you cannot settle a problem, skip it and record why.
+
 ## Commands
 
 ```
@@ -145,7 +178,29 @@ python3 tools/pdfsupers.py <file.pdf> <page> [<page>...]
 which rebuilds the page from glyph positions and prints exponents as `^{...}`. Comparison
 signs flatten too, so check inequalities against the student handout, which preserves them.
 
+Two cases where even that is not enough:
+
+- **A PDF exported from PowerPoint lies.** `pdftotext` silently drops the letter `f` and
+  every italic variable name, and `pdfsupers.py` garbles it too. A statement can read as
+  perfectly sensible French while missing a whole term.
+- **Some files have no text layer at all**, usually scans. `pdftotext` returns nothing, or a
+  handful of bytes.
+
+In both cases, render the page as an image and read it with your own eyes:
+
+```sh
+pdftoppm -r 150 -png -f <page> -l <page> <file.pdf> /path/to/out
+```
+
+When a digit or a sign makes a problem look broken, re-read that page at 300 dpi before
+concluding the problem is broken. Often it is the extraction that is broken.
+
 ## Rules
+
+- **`vm.py check` does not build anything.** It validates metadata and structure, so a file
+  can pass it clean and still fail to compile. Four exercises once sat in the collection
+  passing every check and unable to produce a PDF at all. Build what you write, and before
+  declaring a batch finished, build every exercise in it, not a sample.
 
 - Never edit anything in `build/`. It is generated and overwritten.
 - Never reuse an id, and never renumber. An id points at one file for good. When an exercise

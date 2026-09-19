@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 230" width="400" height="307">
+<polygon points="150.00,20.00 45.00,201.87 255.00,201.87" fill="#f4f4f4" stroke="#000" stroke-width="2"/>
+<line x1="128.00" y1="140.00" x2="128.00" y2="201.87" stroke="#1a5fb4" stroke-width="1.8"/>
+<circle cx="128.00" cy="201.87" r="2.8" fill="#1a5fb4"/>
+<line x1="128.00" y1="140.00" x2="196.46" y2="100.47" stroke="#1a5fb4" stroke-width="1.8"/>
+<circle cx="196.46" cy="100.47" r="2.8" fill="#1a5fb4"/>
+<line x1="128.00" y1="140.00" x2="92.54" y2="119.53" stroke="#1a5fb4" stroke-width="1.8"/>
+<circle cx="92.54" cy="119.53" r="2.8" fill="#1a5fb4"/>
+<circle cx="128.00" cy="140.00" r="3.2" fill="#000"/>
+<text x="146.00" y="12.00" font-family="serif" font-size="15" font-style="italic">A</text>
+<text x="28.00" y="216.87" font-family="serif" font-size="15" font-style="italic">B</text>
+<text x="263.00" y="216.87" font-family="serif" font-size="15" font-style="italic">C</text>
+<text x="113.00" y="135.00" font-family="serif" font-size="15" font-style="italic">P</text>
+<text x="124.00" y="218.87" font-family="serif" font-size="15" font-style="italic">D</text>
+<text x="203.46" y="103.47" font-family="serif" font-size="15" font-style="italic">E</text>
+<text x="75.54" y="119.53" font-family="serif" font-size="15" font-style="italic">F</text>
+</svg>

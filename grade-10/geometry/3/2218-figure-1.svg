@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="380" viewBox="0 0 400 380">
+<rect x="0" y="0" width="400" height="380" fill="#ffffff"/>
+<line x1="70" y1="330" x2="70" y2="75.0" stroke="#7a5230" stroke-width="7"/>
+<line x1="70" y1="330" x2="340.0" y2="330" stroke="#7a5230" stroke-width="7"/>
+<path d="M 185.0 330 A 115.0 115.0 0 0 0 70 215.0" fill="none" stroke="#d1332e" stroke-width="2.4" stroke-dasharray="7 5"/>
+<line x1="286.1" y1="330.0" x2="70.0" y2="251.3" stroke="#1b4f86" stroke-opacity="0.35" stroke-width="2.0"/>
+<circle cx="178.1" cy="290.7" r="5.5" fill="#d1332e" fill-opacity="0.35" stroke="#000000" stroke-width="1"/>
+<line x1="232.6" y1="330.0" x2="70.0" y2="167.4" stroke="#1b4f86" stroke-opacity="0.35" stroke-width="2.0"/>
+<circle cx="151.3" cy="248.7" r="5.5" fill="#d1332e" fill-opacity="0.35" stroke="#000000" stroke-width="1"/>
+<line x1="148.7" y1="330.0" x2="70.0" y2="113.9" stroke="#1b4f86" stroke-opacity="1.0" stroke-width="3.4"/>
+<circle cx="109.3" cy="221.9" r="5.5" fill="#d1332e" fill-opacity="1.0" stroke="#000000" stroke-width="1"/>
+<text x="119.3" y="213.9" font-family="serif" font-size="16" fill="#111111">M</text>
+<text x="152.7" y="320.0" font-family="serif" font-size="16" fill="#111111">A</text>
+<text x="79.0" y="117.9" font-family="serif" font-size="16" fill="#111111">B</text>
+<circle cx="70" cy="330" r="4" fill="#111111"/>
+<text x="48" y="350" font-family="serif" font-size="16" fill="#111111">O</text>
+</svg>

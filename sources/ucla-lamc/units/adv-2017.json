@@ -6,14 +6,369 @@
   "1801",
   "2000"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 48,
  "sessions_with_answers": 17,
  "next_session": 0,
- "imported": [],
- "skipped": [],
+ "imported": [
+  {
+   "id": "1801",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 1,
+   "title": "Une somme de trois en trois",
+   "ref": "Handout-1485-1439.pdf, ex. 1"
+  },
+  {
+   "id": "1802",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Un produit qui fond a chaque etape",
+   "ref": "Handout-1486-1439.pdf, ex. 1"
+  },
+  {
+   "id": "1803",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Toujours au-dessus de 13/24",
+   "ref": "Handout-1485-1439.pdf, ex. 3"
+  },
+  {
+   "id": "1804",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Quand 2^n depasse-t-il n^2 ?",
+   "ref": "Handout-1474-1433.pdf, ex. 4"
+  },
+  {
+   "id": "1805",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Le tableau ou l'on intercale les sommes",
+   "ref": "Handout-1478-1436.pdf, ex. 1"
+  },
+  {
+   "id": "1806",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Une somme de puissances toujours multiple de 7",
+   "ref": "Handout-1475-1433.pdf, ex. 3"
+  },
+  {
+   "id": "1807",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Seize divise 3^(2n+2)+8n-9",
+   "ref": "Handout-1496-1446.pdf, ex. 3"
+  },
+  {
+   "id": "1808",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "m carres consecutifs et le multiple de m",
+   "ref": "Handout-1496-1446.pdf, ex. 2"
+  },
+  {
+   "id": "1809",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Deux cent quarante-trois chiffres 1",
+   "ref": "Handout-1474-1433.pdf, ex. 1"
+  },
+  {
+   "id": "1810",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Des boules noires jamais cote a cote",
+   "ref": "Handout-1757-1621.pdf, ex. 2"
+  },
+  {
+   "id": "1811",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Trois coefficients binomiaux dans le rapport 5:5:3",
+   "ref": "Handout-1765-1624.pdf, ex. 3"
+  },
+  {
+   "id": "1812",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Le cube aux huit couleurs",
+   "ref": "Handout-1770-1631.pdf, nouveaux problemes ex. 1"
+  },
+  {
+   "id": "1813",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Un nombre premier dans le triangle de Pascal",
+   "ref": "Handout-1765-1624.pdf, ex. 4"
+  },
+  {
+   "id": "1814",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 1,
+   "title": "Deux racines, quelle que soit la valeur de p",
+   "ref": "Handout-1631-1520.pdf, nouveaux problemes ex. 1"
+  },
+  {
+   "id": "1815",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "x(x+1) = 2025 x 2026",
+   "ref": "Handout-1610-1516.pdf, nouveaux problemes ex. 3 (2018x2019 dans l'original)"
+  },
+  {
+   "id": "1816",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Des racines fabriquees avec les coefficients",
+   "ref": "Handout-1551-1502.pdf, ex. 1"
+  },
+  {
+   "id": "1817",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Quand b depasse a + c",
+   "ref": "Handout-1631-1520.pdf, nouveaux problemes ex. 4"
+  },
+  {
+   "id": "1818",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Somme et produit suffisent",
+   "ref": "Handout-1632-1520.pdf, devoirs ex. 1"
+  },
+  {
+   "id": "1819",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Trois coefficients impairs",
+   "ref": "Handout-1631-1520.pdf, nouveaux problemes ex. 5"
+  },
+  {
+   "id": "1820",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Cinq entiers au tableau, un efface",
+   "ref": "Handout-1598-1504.pdf, ex. 4"
+  },
+  {
+   "id": "1821",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 2,
+   "title": "Retrouver f a partir de f(2x+1)",
+   "ref": "Handout-1598-1504.pdf, ex. 3"
+  },
+  {
+   "id": "1822",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 3,
+   "title": "Une fonction qui ne peut pas exister",
+   "ref": "Handout-1599-1504.pdf, devoirs ex. 1"
+  },
+  {
+   "id": "1823",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 4,
+   "title": "Une partie paire et une partie impaire",
+   "ref": "Handout-1598-1504.pdf, ex. 2 b)"
+  },
+  {
+   "id": "1824",
+   "grade": 11,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Noir et blanc de part et d'autre de chaque droite",
+   "ref": "Handout-1479-1436.pdf, ex. 1"
+  }
+ ],
+ "skipped": [
+  {
+   "ref": "Handout-1485-1439.pdf, ex. 2",
+   "problem": "1/(1.2)+...+1/((n-1)n) = (n-1)/n",
+   "reason": "deja dans la base: 0615 (3e, Lyon), meme telescopage"
+  },
+  {
+   "ref": "Handout-1474-1433.pdf, ex. 5",
+   "problem": "nombre de regions decoupees par n droites en position generale",
+   "answer": "1 + n(n+1)/2",
+   "reason": "deja dans la base: 0328 (2de)"
+  },
+  {
+   "ref": "Handout-1478-1436.pdf, ex. 2",
+   "problem": "damier 2^n x 2^n prive d'une case, pave par des triominos en L",
+   "reason": "deja dans la base: 0160 (4e, difficulte 5)"
+  },
+  {
+   "ref": "Handout-1478-1436.pdf, ex. 3",
+   "problem": "n>=3 droites en position generale: au moins une region est un triangle",
+   "answer": "PRET A IMPORTER. Preuve: parmi tous les triangles formes par trois des droites, prendre celui d'aire minimale. Une droite qui couperait son interieur ne peut pas passer par un sommet (jamais trois droites concourantes), donc elle coupe deux cotes et decoupe un triangle strictement plus petit, forme lui aussi par trois des droites. Contradiction. Le triangle minimal est donc une region. 1re ou Terminale, geometrie, difficulte 4",
+   "reason": "manque de place dans ce passage"
+  },
+  {
+   "ref": "Handout-1496-1446.pdf, ex. 1",
+   "problem": "n^5 - n divisible par 5",
+   "reason": "la base a deja 'Quand a^n - a est-il divisible par n ?'"
+  },
+  {
+   "ref": "Handout-1474-1433.pdf, ex. 2 et 3",
+   "problem": "1+2+...+n, 1+3+...+(2n-1)=n^2, n^3+2n divisible par 3",
+   "reason": "classiques deja presents ou trop elementaires pour un fichier propre"
+  },
+  {
+   "ref": "Handout-1475-1433.pdf, ex. 1",
+   "problem": "1+4+...+(3n-2) = n(3n-1)/2",
+   "reason": "quasi-doublon de 1801, meme calcul"
+  },
+  {
+   "ref": "Handout-1475-1433.pdf, ex. 2",
+   "problem": "n^3+(n+1)^3+(n+2)^3 divisible par 9",
+   "reason": "importe en parallele par un autre agent sous 4803"
+  },
+  {
+   "ref": "Handout-1486-1439.pdf, ex. 2",
+   "problem": "1+x+...+x^n = (x^(n+1)-1)/(x-1) par recurrence",
+   "reason": "resultat de cours, pas un exercice"
+  },
+  {
+   "ref": "Handout-1610-1516.pdf, nouveaux problemes ex. 1 et 2",
+   "problem": "signe du trinome, minimum en -b/(2a)",
+   "reason": "ce sont les theoremes du cours de 1re eux-memes"
+  },
+  {
+   "ref": "Handout-1635-1527.pdf, ex. 2",
+   "problem": "x^2-4x+c avec somme des carres des racines = 12",
+   "answer": "c = 2 (s=4, p=c, s^2-2p=12); Delta = 8 > 0, racines 2 +/- racine(2)",
+   "reason": "un autre agent a 2016 'La somme des carres des racines' en 1re algebre"
+  },
+  {
+   "ref": "Handout-1635-1527.pdf, ex. 3",
+   "problem": "lire le discriminant sur le graphe d'une parabole unitaire dont l'axe des ordonnees est efface",
+   "answer": "pour a=1, Delta = (x1-x0)^2 ou x0 et x1 sont les abscisses des deux points d'intersection avec l'axe des abscisses, lues sur la graduation",
+   "reason": "demande de redessiner la figure du PDF en SVG, pas fait faute de temps. Bon candidat 1re difficulte 3"
+  },
+  {
+   "ref": "Handout-1631-1520.pdf, nouveaux problemes ex. 2",
+   "problem": "a) equation du second degre de racines racine(2) et -racine(7); b) equation a coefficients entiers ayant 4-racine(7) pour racine",
+   "answer": "a) x^2 + (racine(7)-racine(2))x - racine(14) = 0, non unique (tout multiple non nul convient); b) x^2 - 8x + 9 = 0. PRET A IMPORTER, 1re, difficulte 2",
+   "reason": "manque de place"
+  },
+  {
+   "ref": "Handout-1631-1520.pdf, nouveaux problemes ex. 3",
+   "problem": "les racines de ax^2+bx+c different de 2018; combien de racines a ax^2+2bx+4c ?",
+   "answer": "deux. En posant x=2y, a(2y)^2+2b(2y)+4c = 4(ay^2+by+c): les racines sont exactement les doubles des premieres, leur difference vaut 4036. PRET A IMPORTER, 1re, difficulte 3",
+   "reason": "manque de place"
+  },
+  {
+   "ref": "Handout-1598-1504.pdf, ex. 2 a)",
+   "problem": "parite de x|x|, |x+1|-|x-1|, |x+1|+|x-1|, 3x-x^2",
+   "answer": "impaire, impaire, paire, ni l'une ni l'autre (f(1)=2, f(-1)=-4). PRET A IMPORTER, 1re fonctions, difficulte 2",
+   "reason": "manque de place"
+  },
+  {
+   "ref": "Handout-1598-1504.pdf, ex. 1",
+   "problem": "comparer f et g pour quatre couples de fonctions",
+   "reason": "trop routinier"
+  },
+  {
+   "ref": "Handout-1611-1516.pdf, devoirs ex. 1",
+   "problem": "parmi les rectangles de perimetre fixe, le carre a la plus grande aire",
+   "reason": "classique, tres probablement deja dans la base a un niveau inferieur"
+  },
+  {
+   "ref": "Handout-1770-1631.pdf, nouveaux problemes ex. 2",
+   "problem": "nombres de 5 chiffres utilisant exactement 1,2,3,4,5 avec les chiffres pairs non voisins",
+   "answer": "72 = 5! - 2 x 4! (verifie par enumeration). PRET A IMPORTER, Terminale ou 2de, denombrement, difficulte 2",
+   "reason": "manque de place"
+  },
+  {
+   "ref": "Handout-1771-1631.pdf, devoirs ex. 1",
+   "problem": "aligner 2 vertes, 2 rouges, 2 bleues sans deux voisines de meme couleur",
+   "answer": "30 (solution du polycopie: 6 choix pour les deux premieres, puis 5 configurations)",
+   "reason": "manque de place; non verifie par enumeration"
+  },
+  {
+   "ref": "Handout-1787-1633.pdf, ex. 2",
+   "problem": "repartir 100 points entre 3 exercices, valeurs entieres strictement positives",
+   "answer": "C(99,2) = 4851 (verifie)",
+   "reason": "manque de place"
+  },
+  {
+   "ref": "Handout-1788-1633.pdf, devoirs ex. 1",
+   "problem": "repartir 200 voyageurs dans 3 wagons",
+   "answer": "C(202,2) = 20301 si les wagons peuvent etre vides (c'est la reponse du polycopie); C(199,2) = 19701 si aucun wagon n'est vide",
+   "reason": "manque de place"
+  },
+  {
+   "ref": "Handout-1792-1643.pdf, devoirs ex. 1",
+   "problem": "7 boules blanches et 2 noires dans 9 trous discernables, trous vides permis",
+   "answer": "C(10,2) x C(15,8) = 45 x 6435 = 289575 (verifie)",
+   "reason": "manque de place"
+  },
+  {
+   "ref": "Handout-1791-1643.pdf, ex. 3",
+   "problem": "10 eleves, 10 problemes; deux eleves n'ont jamais resolu le meme nombre de problemes; chaque probleme est resolu par le meme nombre d'eleves; Viserion a resolu 1 a 5 et pas 6 a 9. A-t-il resolu le 10 ?",
+   "answer": "OUI. Les 10 nombres d'exercices resolus sont 10 valeurs distinctes de 0 a 10, donc il en manque une, m. Leur somme 55-m doit etre un multiple de 10, donc m=5 et chaque probleme est resolu par 5 eleves. Viserion a resolu 5 ou 6 problemes; 5 est la valeur manquante, donc il en a resolu 6, donc il a resolu le probleme 10. PRET A IMPORTER, Terminale logique, difficulte 4",
+   "reason": "manque de place"
+  },
+  {
+   "ref": "Handout-1791-1643.pdf, ex. 4",
+   "problem": "collier de 10 perles, 3 rouges et 7 bleues, a rotation et symetrie pres",
+   "answer": "8 (verifie par enumeration sur les 120 choix)",
+   "reason": "manque de place; bon pendant de 1812"
+  },
+  {
+   "ref": "Handout-1802-1644.pdf, ex. 2",
+   "problem": "22 biscuits dans 10 boites indiscernables, au plus 3 par boite, aucune vide",
+   "answer": "5 (les repartitions sont donnees par le nombre c de boites a 3 biscuits, avec 2 <= c <= 6)",
+   "reason": "manque de place"
+  },
+  {
+   "ref": "Handout-1803-1644.pdf, devoirs ex. 1",
+   "problem": "un devoir de 100 points ou chaque exercice vaut au plus 3 points, exercices non etiquetes",
+   "answer": "884 (partitions de 100 en parts <= 3, verifie)",
+   "reason": "manque de place"
+  },
+  {
+   "ref": "toutes les seances, problemes de geometrie",
+   "problem": "quadrilateres inscriptibles, puissance d'un point, tangentes, triangles semblables",
+   "reason": "ce sont des mathematiques de 3e / 2de en France, et ces dossiers sont deja bien garnis. A reprendre seulement si un manque apparait en 2de"
+  },
+  {
+   "ref": "sessions 0 et 1 (Handout-1395-1382.pdf, Handout-1404-1390.pdf et leurs devoirs)",
+   "problem": "problemes de graphes: departements a nombre impair de voisins, 10 personnes et 14 paires ennemies, 50 scientifiques qui en connaissent 25, 2018 routes par ville",
+   "reason": "bon materiel 2de/1re de logique, non importe faute de place. C'est la ou reprendre en priorite"
+  },
+  {
+   "ref": "Kiselev 265 a 274",
+   "problem": "references a un manuel de geometrie absent du polycopie",
+   "reason": "les enonces ne sont pas dans les PDF, impossible a importer"
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "Passage 1 (Opus), 24 exercices, ids 1801 a 1824. Objectif du passage: remplir grade-11 et grade-12, vides au depart. 13 en Terminale (recurrence en algebre et en arithmetique, denombrement), 11 en 1re (second degre, relations coefficients-racines, fonctions). Ids 1825 a 2000 encore libres pour la suite.\n\nSeances epuisees pour l'essentiel: Induction I (1433), Induction and Geometry II/III/IV (1436, 1439, 1446), Vieta (1502), Functions and Quadratic Equations (1504), Quadratic Inequalities (1516), Quadratic Equations IV (1520), Combinations (1621), Combinations and Pascal's Triangle (1624, 1631).\n\nOu reprendre: next_session = 0, c'est-a-dire les seances Graphs and Geometry (0, 1) et Games and Geometry, dont j'ai lu les polycopies sans rien importer. Leurs problemes de graphes sont du bon materiel 2de/1re de logique. Les seances Quadratic Equations V (1527), Stars and Bars (1633, 1643) et Young Tableaux (1644, 1660) restent aussi largement disponibles: les reponses deja calculees sont dans skipped.\n\nDoublons a arbitrer (fichiers conserves des deux cotes, conformement a la regle): 1802 (Terminale algebre 2) et 2003 (Terminale algebre 3) sont exactement le meme enonce, le produit des (1 - 1/k^2); see_also pose du cote 1802. 1813 question 1 (Terminale combinatoire 4) reprend 1605 (Terminale arithmetique 3), p divise C(p,k); 1813 y ajoute p divise C(2p,p) - 2; see_also pose du cote 1813. 2016 (1re algebre 2, somme des carres des racines) recoupe la question 1 de 1818 (1re algebre 3), mais 1818 est un exercice a quatre questions plus large, les deux peuvent coexister.\n\nVerifications: toutes les reponses numeriques ont ete recalculees en Python (voir le detail dans le rapport). Les exposants ont ete relus avec tools/pdfsupers.py avant d'ecrire, car la couche texte aplatit 3^{2n+2} en '3 2n+2'. L'enonce 1815 remplace 2018 x 2019 de l'original par 2025 x 2026.",
  "updated": "2026-09-19",
  "sessions": [
   {

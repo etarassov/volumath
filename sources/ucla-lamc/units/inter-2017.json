@@ -6,14 +6,356 @@
   "4201",
   "4400"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 83,
  "sessions_with_answers": 46,
  "next_session": 0,
- "imported": [],
- "skipped": [],
+ "imported": [
+  {
+   "id": "4201",
+   "title": "Le bébé lynx et sa mère",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 1,
+   "session": "2086",
+   "file": "Handout-2354-2086.pdf, ex. 10"
+  },
+  {
+   "id": "4202",
+   "title": "Trois questions de pizza",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 1,
+   "session": "2086",
+   "file": "Handout-2354-2086.pdf, ex. 2-4"
+  },
+  {
+   "id": "4203",
+   "title": "Le nombre à deux chiffres écrit deux fois",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "session": "2086",
+   "file": "Handout-2354-2086.pdf, ex. 20"
+  },
+  {
+   "id": "4204",
+   "title": "Les cadenas du coffre au trésor",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 2,
+   "session": "2086",
+   "file": "Handout-2354-2086.pdf, ex. 19"
+  },
+  {
+   "id": "4205",
+   "title": "Remonter après une baisse de 60 %",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "session": "2086",
+   "file": "Handout-2354-2086.pdf, ex. 8"
+  },
+  {
+   "id": "4206",
+   "title": "Vingt-cinq pour cent de pommes en plus",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "session": "2086",
+   "file": "Handout-2354-2086.pdf, ex. 11"
+  },
+  {
+   "id": "4207",
+   "title": "Deux remises de 60 %",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "session": "2086",
+   "file": "Handout-2354-2086.pdf, ex. 14"
+  },
+  {
+   "id": "4208",
+   "title": "Le placement à 25 % par an",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "session": "2086",
+   "file": "Handout-2354-2086.pdf, ex. 9"
+  },
+  {
+   "id": "4209",
+   "title": "Le commerçant et sa remise",
+   "grade": 8,
+   "theme": "algebra",
+   "difficulty": 3,
+   "session": "2086",
+   "file": "Handout-2354-2086.pdf, ex. 18"
+  },
+  {
+   "id": "4210",
+   "title": "Sept et trois dans un triangle isocèle",
+   "grade": 8,
+   "theme": "geometry",
+   "difficulty": 2,
+   "session": "1860",
+   "file": "Handout-2065-1860.pdf, ex. 5"
+  },
+  {
+   "id": "4211",
+   "title": "Les diagonales du cerf-volant",
+   "grade": 8,
+   "theme": "geometry",
+   "difficulty": 2,
+   "session": "1894",
+   "file": "Handout-2071-1894.pdf, ex. 2"
+  },
+  {
+   "id": "4212",
+   "title": "La diagonale de la boîte",
+   "grade": 8,
+   "theme": "geometry",
+   "difficulty": 2,
+   "session": "1822",
+   "file": "Handout-2142-1822.pdf, ex. 8"
+  },
+  {
+   "id": "4213",
+   "title": "Les deux couloirs de la piste circulaire",
+   "grade": 8,
+   "theme": "geometry",
+   "difficulty": 2,
+   "session": "1822",
+   "file": "Handout-2142-1822.pdf, ex. 2"
+  },
+  {
+   "id": "4214",
+   "title": "Cent villes, quatre routes chacune",
+   "grade": 8,
+   "theme": "combinatorics",
+   "difficulty": 2,
+   "session": "1860",
+   "file": "Handout-2065-1860.pdf, ex. 1"
+  },
+  {
+   "id": "4215",
+   "title": "Les départements et leurs voisins",
+   "grade": 8,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "session": "1883",
+   "file": "Handout-2069-1883.pdf, ex. 4"
+  },
+  {
+   "id": "4216",
+   "title": "8 999 999 est-il un nombre premier ?",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 2,
+   "session": "1764",
+   "file": "Handout-1924-1764.pdf, ex. 3"
+  },
+  {
+   "id": "4217",
+   "title": "Le PGCD ne dépasse jamais la différence",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "session": "1801",
+   "file": "Handout-1957-1801.pdf, ex. 4"
+  },
+  {
+   "id": "4218",
+   "title": "Une fraction qui ne se simplifie jamais",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "session": "1801",
+   "file": "Handout-1957-1801.pdf, ex. 3"
+  },
+  {
+   "id": "4219",
+   "title": "Les nombres premiers et les multiples de 6",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "session": "1808",
+   "file": "Handout-1978-1808.pdf, ex. 2"
+  },
+  {
+   "id": "4220",
+   "title": "Les zéros à la fin de 100 !",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "session": "1790",
+   "file": "Handout-1942-1790.pdf, ex. 4",
+   "note": "doublon avec 4415 (autre agent), même dossier - à arbitrer par le coordinateur"
+  },
+  {
+   "id": "4221",
+   "title": "1986, somme de six carrés impairs ?",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "session": "1779",
+   "file": "Handout-1928-1779.pdf, ex. 6"
+  },
+  {
+   "id": "4222",
+   "title": "Cinq carrés qui se suivent",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 2,
+   "session": "2054",
+   "file": "Handout-2319-2054.pdf, ex. 3a"
+  },
+  {
+   "id": "4223",
+   "title": "Dix personnes et quatorze inimitiés",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "session": "1883",
+   "file": "Handout-2069-1883.pdf, ex. 5"
+  },
+  {
+   "id": "4224",
+   "title": "Quinze villes, sept voisines chacune",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "session": "1860",
+   "file": "Handout-2065-1860.pdf, ex. 2"
+  },
+  {
+   "id": "4225",
+   "title": "Dix millions d allumettes",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "session": "1945",
+   "file": "Handout-2192-1945.pdf, ex. 2"
+  }
+ ],
+ "skipped": [
+  {
+   "session": "1860",
+   "file": "Handout-2065-1860.pdf, ex. 3",
+   "what": "6 personnes, 3 qui se connaissent ou 3 qui ne se connaissent pas",
+   "reason": "deja dans la base : 0235 (4e, combinatorics, 5)"
+  },
+  {
+   "session": "1894",
+   "file": "Handout-2071-1894.pdf, ex. 4",
+   "what": "9 segments coupant chacun exactement 3 autres",
+   "reason": "deja dans la base : 0279 et 0485 (3e, combinatorics)"
+  },
+  {
+   "session": "1764",
+   "file": "Handout-1924-1764.pdf, ex. 2",
+   "what": "99 carres 2x2 decoupes dans 29x29, en decouper un de plus",
+   "reason": "deja dans la base : 0183 question 2 (4e, combinatorics, 4)"
+  },
+  {
+   "session": "1779",
+   "file": "Handout-1928-1779.pdf, ex. 5",
+   "what": "x^2+y^2=z^2 : l un des trois est divisible par 3",
+   "reason": "deja dans la base : 0378 (2de, arithmetic, 4)"
+  },
+  {
+   "session": "1779",
+   "file": "Handout-1928-1779.pdf, ex. 4 ; Handout-2319-2054.pdf, ex. 1",
+   "what": "n^5+4n et n^5-n divisibles par 5",
+   "reason": "meme contenu que 0479 (3e, arithmetic, 4)"
+  },
+  {
+   "session": "2086",
+   "file": "Handout-2354-2086.pdf, ex. 12 et 15",
+   "what": "champignons 99%->98% ; solution salee 1%->2%",
+   "reason": "meme idee que 0128, la pasteque qui a seche (4e, arithmetic, 3)"
+  },
+  {
+   "session": "2098",
+   "file": "Handout-2380-2098.pdf, ex. 5",
+   "what": "nombre de pavages d une bande 2x10 par des dominos",
+   "reason": "deja dans la base : 0178 (4e, combinatorics, 3)"
+  },
+  {
+   "session": "2060",
+   "file": "Handout-2338-2060.pdf, ex. 1",
+   "what": "tour ferme du cavalier sur un echiquier 7x7",
+   "reason": "trop proche de 0507 et 0135, deux problemes de cavalier en coloriage deja presents"
+  },
+  {
+   "session": "1935",
+   "file": "Handout-2173-1935.pdf, ex. 1",
+   "what": "jeu : partir de 1, ajouter 1 a 5, atteindre 30",
+   "reason": "meme jeu de soustraction que 0877 (4e, logic-reasoning, 3) ; on a importe a la place le jeu des puissances de nombres premiers, 4225"
+  },
+  {
+   "session": "2046",
+   "file": "Handout-2290-2046.pdf, ex. 1 et 5",
+   "what": "somme des n premiers impairs ; somme telescopique 1/(k(k+1))",
+   "reason": "deja dans la base : 0158 et 0615"
+  },
+  {
+   "session": "1917",
+   "file": "Handout-2091-1917.pdf, ex. 1a",
+   "what": "les ponts de Koenigsberg",
+   "reason": "deja dans la base : 0234 (4e, logic-reasoning, 4)"
+  },
+  {
+   "session": "2084",
+   "file": "Handout-2361-2084.pdf, ex. 1",
+   "what": "cordes AB et CD secantes en M : triangles semblables",
+   "reason": "deja dans la base : 0834 (3e, geometry, 3)"
+  },
+  {
+   "session": "1790",
+   "file": "Handout-1942-1790.pdf, ex. 2b",
+   "what": "reste 23 modulo 144 et reste 29 modulo 90, impossible",
+   "reason": "meme idee que 0584 (4e, arithmetic, 3)"
+  },
+  {
+   "session": "1822",
+   "file": "Handout-2142-1822.pdf, ex. 5",
+   "what": "liane s enroulant 7 fois autour d un tronc de 28 pieds, diametre 3 pieds",
+   "reason": "joli probleme de deroulement du cylindre, mais les nombres de l original donnent une reponse irrationnelle (environ 71,7 pieds) ; il faudrait changer les nombres, par exemple perimetre 3 m, hauteur 16 m, 4 tours, ce qui donne exactement 20 m"
+  },
+  {
+   "session": "1952",
+   "file": "Handout-2205-1952.pdf",
+   "what": "toute la feuille Probability I (esperance de score aux flechettes)",
+   "reason": "chaque enonce repose sur une cible dessinee dans le document ; il faudrait redessiner plusieurs figures. Interessant pour un passage ulterieur, la base manque de probabilites au college"
+  },
+  {
+   "session": "1875 / 1874",
+   "file": "Handout-2030-1875.pdf",
+   "what": "nombres figures et differences successives",
+   "reason": "feuille de cours, les enonces renvoient a des dessins de points imprimes dans le document ; le fichier solutions Handout-2140-1875.pdf est un scan sans couche texte"
+  },
+  {
+   "session": "1945",
+   "file": "Handout-2192-1945.pdf, ex. 1",
+   "what": "le roi boiteux sur un plateau 7x7",
+   "reason": "bon probleme mais demande une figure d echiquier et un enonce de regles soigne ; laisse pour un passage ulterieur"
+  },
+  {
+   "session": "1910 / 1909",
+   "file": "Handout-2053-1910.pdf, Handout-2054-1910.pdf, Handout-2051-1909.pdf, Handout-2052-1909.pdf",
+   "what": "les deux tests Math Kangaroo (1998 et 2013), seul vrai materiel a choix multiple de l unite",
+   "reason": "ce sont des scans purs, sans aucune couche texte (4 octets extraits) ; il faut les lire page par page en image"
+  },
+  {
+   "session": "2035",
+   "file": "Handout-2289-2035.pdf",
+   "what": "feuille Russian Olympiad",
+   "reason": "recoupe largement l import de Lyon : l ex. 5 est deja 0802, l ex. 7 est deja 0629 ; quelques exercices restent utilisables, voir les notes"
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "PASSAGE 1 (25 exercices, ids 4201 a 4225). Pas de progression sequentielle stricte dans la liste des seances : les seances ont ete choisies pour leur rendement. Seances exploitees : 2086 (Tricky Percents), 1860 / 1883 / 1894 (Graphs and Geometry I-III), 1822 (Perimeter and Circumference), 1764 (More Tilings and Algebra), 1801 (GCD), 1808 (Euclidean Algorithm), 1790 (More Remainders), 1779 (Algebra and Remainders), 2054 (Induction in Arithmetic), 1945 (Games and Geometry II). next_session remis a 0 : les seances restantes sont toutes a reprendre, en tenant compte des entrees de skipped.\n\nA SAVOIR POUR LA SUITE.\n1) Le materiel a choix multiple annonce est en fait tres rare dans cette unite. Les feuilles de Konstantin Miagkov (groupes Intermediate 2A et 2B) sont des listes de problemes a demontrer, et la feuille de pourcentages est a reponse ouverte. Le seul vrai materiel QCM, ce sont les deux tests Math Kangaroo de la seance 1910 / 1909, et ce sont des scans sans couche texte. Aucun enonce importe ici n a eu besoin d etre reecrit depuis un QCM.\n2) Les feuilles des groupes Intermediate 1A et 1B sont des feuilles de cours (definitions, exposition, cases a remplir) reprises d annees anterieures du Beginners Circle ; le rendement en exercices autonomes y est faible. Les feuilles 2A et 2B sont beaucoup plus rentables.\n3) Plusieurs fichiers solutions sont des scans sans couche texte (par exemple Handout-2140-1875.pdf). Quand la feuille principale porte deja les corriges en ligne, c est souvent le cas.\n4) Doublon a arbitrer : 4220 (Les zeros a la fin de 100 !) et 4415, ecrit par un autre agent, sont le meme probleme dans le meme dossier grade-09/arithmetic/3. Les deux fichiers ont ete conserves conformement a la regle ; au coordinateur de n en garder qu un.\n\nREPONSES DEJA VERIFIEES, POUR DES PROBLEMES NON IMPORTES (pretes a l emploi).\n- Handout-1978-1808.pdf, ex. 3 : trois entiers distincts > 1 dont le produit de deux quelconques est divisible par le troisieme : (2, 3, 6) ; une infinite d exemples avec (2k, 3k, 6k). Verifie par programme.\n- Handout-1942-1790.pdf, ex. 3 : n de reste 2 modulo 3 et de reste 9 modulo 11 donne le reste 20 modulo 33, et c est la seule possibilite. Verifie par programme.\n- Handout-2017-1818.pdf, ex. 4 : le plus petit entier > 1 de reste 1 dans les divisions par 2, 3, 5 et 7 est 211 ; ce sont exactement les 210k + 1. Verifie par programme.\n- Handout-2380-2098.pdf, ex. 3 : rectangle m x n, 10 cases rouges par ligne et 8 par colonne. Double comptage : 10m = 8n, donc 5m = 4n, donc 4 divise m et 5 divise n. Tres bon 3e, difficulte 3.\n- Handout-2071-1894.pdf, ex. 5 : 2018 routes par ville, reseau connexe ; fermer une route laisse le reseau connexe. Preuve par parite de la somme des degres dans une composante. Bon 2de, difficulte 4.\n- Handout-2338-2060.pdf, ex. 4 : ABCD avec angles droits en B et en D, angle ABD = 40 degres ; alors angle CAD = 50 degres (B et D sont sur le cercle de diametre AC). Verifie.\n- Handout-2069-1883.pdf, ex. 3 : ATTENTION, l enonce imprime dit BD = BE, c est une coquille. La conclusion correcte, et celle que sa propre demonstration imprimee atteint, est BD = DE. Verifie numeriquement : avec AB = BC = 1 et angle B = 108 degres, BD = DE = 0,38197 alors que BE = 0,72654. Bon 3e geometrie, difficulte 4, demande une figure.\n- Handout-2091-1917.pdf, ex. 5 : AB = AC, angle BAC = 30 degres, AD mediane, P sur [AD], Q sur [AB] avec PQ = PB et Q different de B ; alors angle PQC = 15 degres. Verifie numeriquement. Attention, un tel Q n existe que si P est assez loin sur [AD] : il faut le dire dans l enonce.\n- Handout-2142-1822.pdf, ex. 7 : compteur regle pour des roues de 18 pouces monte sur des roues de 16 pouces. Version metrique proposee : compteur regle pour 45 cm de diametre, roues reelles de 40 cm, affichage 45 km, distance reelle 40 km. Verifie.\n- Handout-2347-2076.pdf, ex. 3a : chaque eleve a resolu exactement 2 problemes et chaque probleme a ete resolu par exactement 2 eleves, donc il y a autant d eleves que de problemes (double comptage). Bon 3e, difficulte 2.\n- Handout-2354-2086.pdf, ex. 13 : deux baisses successives du meme pourcentage amenant le prix a 25 % du prix initial : chaque baisse vaut 50 %. Verifie.\n- Handout-2354-2086.pdf, ex. 16 : +25 % puis -25 %, population actuelle 4500. Juste apres la hausse il y avait 6000 habitants, et avant la hausse 4800. L enonce original est ambigu sur ce qu il demande, il faut le reformuler.\n- Handout-2289-2035.pdf, ex. 1 : Pierre echange 1 autocollant contre 5, donc +4 par echange ; en partant de 1 et apres 30 echanges il en a 121. Verifie.\n- Handout-2289-2035.pdf, ex. 2 : sept entiers consecutifs utilisant le chiffre 2 exactement 16 fois : 2215 a 2221 (aussi 2229 a 2235). Verifie par programme.\n- Handout-2289-2035.pdf, ex. 3 : trois bonds du dragon a deux tetes valent cinq bonds du dragon a trois tetes, et quatre bonds du premier prennent le temps de sept bonds du second ; c est le dragon a trois tetes qui va le plus vite (21 contre 20, a une meme unite pres). Verifie.\n- Handout-1924-1764.pdf, ex. 1 : plus grand nombre de rectangles 1x4 dans un carre 6x6. La reponse attendue est 8 par un coloriage en quatre couleurs, MAIS ce n a pas ete verifie ici : a controler avant tout import.\n- Handout-2319-2054.pdf, ex. 4 : 3^(2n+2) + 8n - 9 divisible par 16. Se demontre sans recurrence en ecrivant 9^(n+1) - 1 = 8(9^n + ... + 1) ; bon candidat 2de ou 1re.",
  "updated": "2026-09-19",
  "sessions": [
   {

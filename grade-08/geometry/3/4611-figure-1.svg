@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 205" width="470" height="205">
+  <line x1="340" y1="170" x2="430" y2="170" stroke="#000000" stroke-width="2"/>
+  <polygon points="160,70 60,170 340,170" fill="none" stroke="#000000" stroke-width="2"/>
+  <line x1="60" y1="170" x2="374" y2="40" stroke="#1a6fb0" stroke-width="2" stroke-dasharray="7 5"/>
+  <line x1="340" y1="170" x2="374" y2="40" stroke="#1a6fb0" stroke-width="2" stroke-dasharray="7 5"/>
+  <path d="M 79.8 150.2 A 28 28 0 0 1 85.9 159.3" fill="none" stroke="#1a6fb0" stroke-width="1.5"/>
+  <path d="M 93.3 156.2 A 36 36 0 0 1 96.0 170.0" fill="none" stroke="#1a6fb0" stroke-width="1.5"/>
+  <path d="M 315.5 156.4 A 28 28 0 0 1 347.1 142.9" fill="none" stroke="#1a6fb0" stroke-width="1.5"/>
+  <path d="M 349.1 135.2 A 36 36 0 0 1 376.0 170.0" fill="none" stroke="#1a6fb0" stroke-width="1.5"/>
+  <text x="152" y="60" font-family="serif" font-size="18" fill="#000000">P</text>
+  <text x="42" y="178" font-family="serif" font-size="18" fill="#000000">Q</text>
+  <text x="336" y="192" font-family="serif" font-size="18" fill="#000000">R</text>
+  <text x="436" y="190" font-family="serif" font-size="18" fill="#000000">S</text>
+  <text x="384" y="34" font-family="serif" font-size="18" fill="#000000">T</text>
+  <circle cx="160" cy="70" r="3" fill="#000000"/>
+  <circle cx="60" cy="170" r="3" fill="#000000"/>
+  <circle cx="340" cy="170" r="3" fill="#000000"/>
+  <circle cx="430" cy="170" r="3" fill="#000000"/>
+  <circle cx="374" cy="40" r="3" fill="#000000"/>
+</svg>

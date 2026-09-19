@@ -6,14 +6,245 @@
   "3401",
   "3600"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 176,
  "sessions_with_answers": 20,
- "next_session": 0,
- "imported": [],
- "skipped": [],
- "retired_ids": [],
- "notes": "",
+ "next_session": 2,
+ "imported": [
+  {
+   "id": "3401",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Trois équations, une seule somme",
+   "source": "Handout-4100-3834.pdf, échauffement 3"
+  },
+  {
+   "id": "3402",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Le rectangle dont l aire égale le périmètre",
+   "source": "Handout-5118-5603.pdf, problème 4"
+  },
+  {
+   "id": "3403",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Le compte des œufs",
+   "source": "Handout-3695-3278.pdf, 4.1 problème 3"
+  },
+  {
+   "id": "3404",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Trois quotients égaux",
+   "source": "Handout-4100-3834.pdf, 2.2 ex 14"
+  },
+  {
+   "id": "3405",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "La plus petite valeur d une somme de deux carrés",
+   "source": "Handout-5118-5603.pdf, problème 2"
+  },
+  {
+   "id": "3406",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Une équation avec une racine carrée",
+   "source": "Handout-5118-5603.pdf, problème 3"
+  },
+  {
+   "id": "3409",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Quand cette valeur absolue est un nombre premier",
+   "source": "Handout-4100-3834.pdf, 2.2 ex 2",
+   "duplicate_of": "3201 (même problème, niveau 3e) - see_also posé, à arbitrer"
+  },
+  {
+   "id": "3410",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Une équation à résoudre en nombres entiers",
+   "source": "Handout-4100-3834.pdf, 2.2 ex 8",
+   "duplicate_of": "3206 (même problème, même niveau) - see_also posé, à arbitrer"
+  },
+  {
+   "id": "3411",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "101, 10101, 1010101, et ainsi de suite",
+   "source": "Handout-3695-3278.pdf, 1.1 problème 3"
+  },
+  {
+   "id": "3412",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Le volume d un tétraèdre donné par ses arêtes",
+   "source": "Handout-3746-3344.pdf, 3.2 ex 3"
+  },
+  {
+   "id": "3413",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "De x+y et x3+y3 jusqu a x5+y5",
+   "source": "Handout-5118-5603.pdf, problème 8"
+  },
+  {
+   "id": "3414",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Quatre termes d une suite arithmétique",
+   "source": "Handout-5118-5603.pdf, problème 9"
+  },
+  {
+   "id": "3415",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Trois entiers, trois équations",
+   "source": "Handout-5118-5603.pdf, problème 12"
+  },
+  {
+   "id": "3416",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Un système symétrique à trois inconnues",
+   "source": "Handout-5118-5603.pdf, problème 13"
+  },
+  {
+   "id": "3417",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Aucune somme divisible par 7",
+   "source": "Handout-3695-3278.pdf, 2.2 problème 3"
+  },
+  {
+   "id": "3418",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "GLEAN dans le dictionnaire",
+   "source": "Handout-3716-3316.pdf, 1.3 problème 2"
+  },
+  {
+   "id": "3419",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Une somme de fractions avec des factorielles",
+   "source": "Handout-5118-5603.pdf, problème 5"
+  },
+  {
+   "id": "3420",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Une puissance qui vaut 1",
+   "source": "Handout-5118-5603.pdf, problème 6"
+  },
+  {
+   "id": "3421",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Un produit qui se télescope deux fois",
+   "source": "Handout-5118-5603.pdf, problème 10"
+  },
+  {
+   "id": "3422",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 5,
+   "title": "Deux mille équations exponentielles d un coup",
+   "source": "Handout-5118-5603.pdf, problème 7"
+  },
+  {
+   "id": "3423",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "Le deuxième terme d une permutation tirée au hasard",
+   "source": "Handout-3716-3316.pdf, 1.3 problème 3"
+  },
+  {
+   "id": "3424",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Un palindrome sur la plaque",
+   "source": "Handout-3716-3316.pdf, 3.2 problème 3"
+  },
+  {
+   "id": "3425",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 5,
+   "title": "Deux places de parking côte à côte",
+   "source": "Handout-3716-3316.pdf, 3.2 problème 4"
+  }
+ ],
+ "skipped": [
+  {
+   "session": 0,
+   "source": "Handout-5118-5603.pdf, problème 1 (AMC 10A 2022 #11)",
+   "reason": "Réponse vérifiée : m = 3 et m = 4, somme 7. Non importé parce que la notation racine m-ième n'est pas naturelle en France ; réutilisable en reformulant avec 4096^(1/m).",
+   "answer": "somme = 7"
+  },
+  {
+   "session": 0,
+   "source": "Handout-5118-5603.pdf, problème 11 (d'après SMT 2026)",
+   "reason": "Énoncé suspect : « a2 - a0 + a2 - a6 = 0 » répète a2, ce qui ressemble à une coquille (même si la solution officielle en est cohérente). Non importé pour ne pas transmettre un énoncé fautif.",
+   "answer": "Si l'énoncé est pris au pied de la lettre : r^2 = (racine(5)-1)/2, a^2 = r^2, et la somme des carrés vaut (1+racine(5))/2, le nombre d'or."
+  },
+  {
+   "session": 0,
+   "source": "Handout-5118-5603.pdf, problème 14 (AIME II 2015 #14)",
+   "reason": "Réponse vérifiée : 89. Non importé car le même problème figure aussi dans Handout-4100-3834.pdf (exercice 15) et dans son jumeau déjà dépouillé.",
+   "answer": "2x^3 + (xy)^3 + 2y^3 = 89 ; xy = 3*2^(1/3), x+y = 5*2^(-1/3), x^3y^3 = 54, x^3+y^3 = 35/2"
+  },
+  {
+   "session": 1,
+   "source": "Handout-4100-3834.pdf, tout le reste",
+   "reason": "Handout jumeau de Handout-4789-4966.pdf, déjà dépouillé par une autre unité (ids 3201-3209, mêmes numéros d'exercices). Ne plus y puiser.",
+   "answer": ""
+  },
+  {
+   "session": 6,
+   "source": "Handout-3716-3316.pdf, section 2.3, problème 2",
+   "reason": "Énoncé cassé : la solution officielle conclut i = 674, alors que le maximum de C(2022, i) est atteint en i = 1011. Il manque visiblement un facteur (2^i ?) dans l'énoncé imprimé.",
+   "answer": ""
+  }
+ ],
+ "retired_ids": [
+  {
+   "id": "3407",
+   "why": "Same problem as 3204 (AMC 12B 2008 #16, the one-metre painted border), same grade and same theme, grade-10 algebra, differing only by difficulty folder, so one of the two is waste. Kept 3204: it has five hints and a Going further section, where 3407 has four hints and none. Cause of the collision: Handout-4100-3834.pdf is a reprint of Handout-4789-4966.pdf, same exercise numbers. Never reuse the id 3407.",
+   "survivor": "3204",
+   "decided": "2026-09-19"
+  },
+  {
+   "id": "3408",
+   "why": "Same problem as 3208 (AIME 1992 I #3, the tennis player's win ratio), same grade and same theme, grade-10 algebra, differing only by difficulty folder. Kept 3208 for the same reason: five hints and a Going further section against four hints and none. Never reuse the id 3408.",
+   "survivor": "3208",
+   "decided": "2026-09-19"
+  }
+ ],
+ "notes": "IMPORTANT POUR LA SUITE.\n(1) DOUBLONS. Handout-4100-3834.pdf (AMC 10/12 2023, Week 1: Algebra) est un jumeau quasi identique de Handout-4789-4966.pdf, qui appartient a une autre unite et avait deja ete depouille (ids 3201-3209, memes numeros d'exercices en section 2.2). Je m'en suis apercu apres avoir ecrit quatre fichiers. Selon la regle, je les ai GARDES et cross-linkes par see_also : 3407<->3204 (meme probleme, grade 10), 3408<->3208 (grade 10), 3409<->3201 (grade 10 vs grade 9), 3410<->3206 (grade 10). A arbitrer par le coordinateur. NE PLUS PUISER dans Handout-4100-3834.pdf. Verifier aussi s'il existe un jumeau de Handout-5118-5603.pdf.\n(2) SEANCES TRAITEES : 0 (Handout-5118-5603, 8 problemes pris sur 14), 1 (Handout-4100-3834, a abandonner), 6 (Handout-3716-3316 combinatoire, 3 problemes pris), 7 (Handout-3695-3278 arithmetique modulaire, 3 pris), 9 (Handout-3746-3344 geometrie, 1 pris). next_session = 2 (Complex Numbers).\n(3) ATTENTION seance 2 : Handout-4135-3866.pdf (Complex Numbers) n'a AUCUNE couche texte, les six pages sont des images. Il faudra lire les pages comme images (pymupdf get_pixmap a 300 dpi) ou passer.\n(4) OUTILLAGE : ni sympy ni PIL ne sont installes ; pymupdf et pypdf le sont. Les verifications se font a la main avec fractions.Fraction et de la force brute.\n(5) REPONSES DEJA TROUVEES, pretes a reutiliser (verifiees sauf mention contraire) :\n  Handout-5118-5603.pdf : voir skipped.\n  Handout-3716-3316.pdf (combinatoire) : 1.2 ex1 THERE -> 5!/2! = 60 ; 1.3 pb1 HELLO 4 lettres -> 60 ; 2.3 pb1 jeu de 50 cartes -> 73/1225 ; 2.3 pb3 coefficient a2 -> C(18,3) = 816 (crosse de hockey) ; 2.3 pb4 (dur) -> (2^(3n) + 2*(-1)^n)/3, racines cubiques de l'unite ; 3.2 pb1 (AMC 10A 2006 #21) nombres a 4 chiffres avec au moins un 2 ou un 3 -> 9000 - 7*8^3 = 5416 ; 3.2 pb2 Sally 7 maisons 4 couleurs -> 4^7 - 4*3^6 = 13468 ; 4.2 pb1 (AMC 10 2001 #19) 4 beignets 3 sortes -> C(6,2) = 15 ; 4.2 pb2 6 biscuits 3 sortes -> C(8,2) = 28, et au moins un de chaque -> C(5,2) = 10 ; 4.2 pb3 (AMC 10A 2018 #11) 7 des somme 10 -> n = C(9,3) = 84 ; 4.2 pb4 (AMC 10B 2020 #25) D(96) = 112.\n  Handout-3695-3278.pdf (arithmetique) : 1.1 pb2 -> 2023 = 7 * 17^2 ; 2.2 pb2 -> 1+2+...+2022 = 2045253, reste 253 modulo 1000 ; 3.1 pb3 -> 6^83 + 8^83 = 35 modulo 49 (VERIFIE par calcul, tres bon probleme Terminale, difficulte 5) ; 4.1 pb1 -> somme des cubes = 4 modulo 6 (VERIFIE : a^3 = a mod 6, et 2018^2018 = 4 mod 6, tres bon probleme 1re/Terminale).\n  Handout-3746-3344.pdf (geometrie) : 1.2 ex1 (AMC 10B 2011 #13) deux reels dans [-20,10], P(produit > 0) = (2/3)^2 + (1/3)^2 = 5/9 (VERIFIE, bon probleme Terminale sans figure) ; 1.2 ex2 (AIME 1998 #9) m = 60 - 12*racine(15), a+b+c = 87 ; 2.1 ex3 triangle 13-14-15 -> aire 84 (Heron) ; 3.1 ex1 triangle rectangle de cotes 4 et 5 -> produit des troisiemes cotes possibles = 3*racine(41) ; 3.1 ex2 ABCD -> perimetre 84 (AC = 3*racine(85), AD = 31) ; 3.2 ex4 (AMC 10B 2021 #21) perimetre de AEC' = 2 (figure necessaire).\n(6) Le handout de la seance 0 (ORMC AMC Packet 2, 2026) est la meilleure source trouvee pour 1re et Terminale : enonces courts, autonomes, solutions completes. Chercher ses freres (Packet 1, Packet 3...) dans les seances X26 AMC 10/12 de 2026.",
  "updated": "2026-09-19",
  "sessions": [
   {

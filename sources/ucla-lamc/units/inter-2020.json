@@ -6,14 +6,343 @@
   "4001",
   "4200"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 274,
  "sessions_with_answers": 48,
- "next_session": 0,
- "imported": [],
- "skipped": [],
- "retired_ids": [],
- "notes": "",
+ "next_session": 4,
+ "imported": [
+  {
+   "id": "4001",
+   "grade": 8,
+   "theme": "combinatorics",
+   "difficulty": 1,
+   "title": "Colorier un carré 3 × 3",
+   "file": "Handout-3816-3443.pdf",
+   "ref": "exercice 4",
+   "answer": "3^9 = 19683"
+  },
+  {
+   "id": "4002",
+   "grade": 8,
+   "theme": "combinatorics",
+   "difficulty": 2,
+   "title": "Trois films en trois langues",
+   "file": "Handout-3816-3443.pdf",
+   "ref": "exercice 7",
+   "answer": "154"
+  },
+  {
+   "id": "4003",
+   "grade": 8,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Vingt-quatre pommes pour trois",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 14",
+   "answer": "190"
+  },
+  {
+   "id": "4004",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Les devoirs de Chloé et de Zoé",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 4",
+   "answer": "93 %"
+  },
+  {
+   "id": "4006",
+   "grade": 8,
+   "theme": "probability-statistics",
+   "difficulty": 2,
+   "title": "Deux dés sans 4 ni 6",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 16",
+   "answer": "5/9",
+   "note": "doublon de 3812 (3e), see_also posé"
+  },
+  {
+   "id": "4007",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Cent sacs et une seule pesée",
+   "file": "Handout-2484-2196.pdf",
+   "ref": "exercice d'échauffement",
+   "answer": "prendre k pièces dans le sac k ; excédent = 0,1 k g"
+  },
+  {
+   "id": "4008",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 1,
+   "title": "Trois racines emboîtées",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 1",
+   "answer": "8"
+  },
+  {
+   "id": "4010",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Combien de solutions pour (x² − 5)² = 16 ?",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 6",
+   "answer": "4 solutions : ±1, ±3"
+  },
+  {
+   "id": "4011",
+   "grade": 9,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Une moyenne égale à la médiane",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 7",
+   "answer": "3 valeurs : n = 2, 7, 17"
+  },
+  {
+   "id": "4012",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Le produit de deux nombres à 99 chiffres",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 8",
+   "answer": "a + b = 8 (le produit finit par 3015)"
+  },
+  {
+   "id": "4013",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Le rectangle posé sur le diamètre",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 11",
+   "answer": "240 cm² (16 × 15)",
+   "figure": true
+  },
+  {
+   "id": "4014",
+   "grade": 9,
+   "theme": "probability-statistics",
+   "difficulty": 2,
+   "title": "Deux boules tirées du sac",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 17",
+   "answer": "4/9"
+  },
+  {
+   "id": "4015",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Palindromes de sept chiffres sans chiffre répété trois fois",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 18",
+   "answer": "9·9·8·7 = 4536"
+  },
+  {
+   "id": "4016",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Quatre points, six distances",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 21",
+   "answer": "b/a = √3",
+   "note": "doublon de 3825 (2de), see_also posé"
+  },
+  {
+   "id": "4017",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Combien de cubes divisent 3! × 5! × 7! ?",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 9",
+   "answer": "6 (1, 8, 27, 64, 216, 1728)",
+   "note": "doublon de 3823 (2de, difficulté 4), see_also posé"
+  },
+  {
+   "id": "4018",
+   "grade": 10,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Un triangle dans l'octogone",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 15",
+   "answer": "40/56 = 5/7",
+   "note": "doublon de 3824 (2de combinatorics), see_also posé"
+  },
+  {
+   "id": "4019",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Un seul élève retrouve son chapeau",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 22",
+   "answer": "5 × D4 = 5 × 9 = 45"
+  },
+  {
+   "id": "4020",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Le triangle rectangle inscrit dans le carré",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 12",
+   "answer": "256/17 cm²",
+   "figure": true
+  },
+  {
+   "id": "4021",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "Deux amis à la gare",
+   "file": "Handout-2789-2392.pdf",
+   "ref": "problème 5",
+   "answer": "7/16",
+   "figure": true
+  },
+  {
+   "id": "4022",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Trois quantités égales pour un polynôme de degré 3",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 19",
+   "answer": "b = −11 (a = 6, c = 2)"
+  },
+  {
+   "id": "4023",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "Attendre le bus moins de quatre minutes",
+   "file": "Handout-2789-2392.pdf",
+   "ref": "problème 4",
+   "answer": "8/25",
+   "figure": true
+  },
+  {
+   "id": "4024",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "L'aire du petit triangle EBF",
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 13",
+   "answer": "30 (soit 1/12 de l'aire de ABC)",
+   "figure": true
+  },
+  {
+   "id": "4025",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Ranger cinq lots du moins cher au plus cher",
+   "file": "Handout-3816-3443.pdf",
+   "ref": "exercice 9",
+   "answer": "a) 120  b) 60  c) 18"
+  }
+ ],
+ "skipped": [
+  {
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 3",
+   "reason": "moyenne harmonique de 1, 2, 4 : calcul sec une fois la définition donnée, moins intéressant que le reste du lot. Réponse vérifiée : 12/7. Prêt à importer en 3e arithmetic 1 ou 2 étoiles si le prochain passage veut du facile."
+  },
+  {
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 10",
+   "reason": "trois rectangles identiques assemblés en un rectangle ABCD : la disposition n'est donnée que par une figure absente de la couche texte, impossible de la reconstituer avec certitude. Réponse du barème : 150 (pieds carrés → 150 m² avec un petit côté de 5 m). À reprendre après avoir lu la page 5 du PDF en image."
+  },
+  {
+   "file": "Handout-3131-2694.pdf",
+   "ref": "problème 20",
+   "reason": "grille de chiffres avec des régions délimitées par des traits gras, figure absente de la couche texte. Réponses du barème : ligne 1 = 8847, ligne 2 = 8642, ligne 3 = 2222, ligne 4 = 2021."
+  },
+  {
+   "file": "Handout-3816-3443.pdf",
+   "ref": "exercices 1, 2, 3, 5, 6, 8",
+   "reason": "applications directes du principe multiplicatif ou additif, trop proches de 4001 et 4002 pour mériter un fichier chacune. Réponses : ex. 1 = 9·8·7 = 504 ; ex. 2 = 5·5·8·26·6 = 31 200 pizzas simples ; ex. 3 = 9 ; ex. 5 = 26 ; ex. 6 = 6·8 + 5·4 = 68 ; ex. 8 = n!."
+  },
+  {
+   "file": "Handout-3816-3443.pdf",
+   "ref": "exercice 10",
+   "reason": "variante de l'exercice 9 (déjà importé en 4025) où deux lots ont exactement le même prix. Non importé faute de place, réponse vérifiée : 2 × 4! = 48. Bon candidat 3e combinatorics 3 étoiles pour le prochain passage."
+  },
+  {
+   "file": "Handout-3816-3443.pdf",
+   "ref": "exercice 12",
+   "reason": "10 personnes qui se serrent toutes la main (réponse 45) : la base a déjà « Poignées de main entre deux classes »."
+  },
+  {
+   "file": "Handout-3816-3443.pdf",
+   "ref": "exercices 11, 13, 14, 15, 16",
+   "reason": "exposé de cours sur les coefficients binomiaux et le triangle de Pascal, pas des problèmes autonomes."
+  },
+  {
+   "file": "Handout-2789-2392.pdf",
+   "ref": "problème 3",
+   "reason": "le glaçon qui tombe sur l'autoroute. Lecture de l'énoncé ambiguë (« à moins de 20 pieds de l'avant d'une voiture »). Sous la lecture « le glaçon tombe sur la voiture ou dans les 20 pieds devant elle », période 115 pieds, zone dangereuse 35 pieds, donc 7/23. Non vérifiable contre un corrigé : le fichier Handout-2812-2392.pdf n'a pas de couche texte. À importer seulement après avoir lu la page en image."
+  },
+  {
+   "file": "Handout-2789-2392.pdf",
+   "ref": "problème 13",
+   "reason": "un côté de 5, deux nombres tirés au hasard dans [0 ; 10], probabilité qu'ils forment un triangle. Réponse calculée et vérifiée : 5/8 (aire 62,5 sur 100). Non importé pour ne pas mettre trois probabilités géométriques d'un coup ; excellent candidat 1re probability-statistics 4 étoiles."
+  },
+  {
+   "file": "Handout-2789-2392.pdf",
+   "ref": "problème 6",
+   "reason": "deux nombres de 1 à 4, somme > 4 : réponses 5/8 (entiers) et 7/9 (réels). Déjà dans la base sous l'id 4407, importé par un autre agent depuis Handout-1218-1231.pdf."
+  },
+  {
+   "file": "Handout-2789-2392.pdf",
+   "ref": "problèmes 1, 2, 7 à 12",
+   "reason": "reposent entièrement sur des figures (cibles de fléchettes, régions hachurées) absentes de la couche texte."
+  },
+  {
+   "file": "Handout-2858-2459.pdf",
+   "ref": "Combinatorics, problème 4",
+   "reason": "mots d'au plus 4 lettres sur l'alphabet {A, B, C} : réponse 3 + 9 + 27 + 81 = 120. Même structure que 0607 « Les mots de la langue aayyaa », déjà dans la base en 4e."
+  },
+  {
+   "file": "Handout-2858-2459.pdf",
+   "ref": "reste de la feuille",
+   "reason": "simplifications de factorielles et questions de cours (permutations vs combinaisons), pas des problèmes."
+  },
+  {
+   "file": "Handout-2889-2489.pdf",
+   "ref": "A Lever Playing Field (séances 39 et 40)",
+   "reason": "loi du levier illustrée uniquement par des dessins de balances ; niveau en dessous de la 4e et entièrement dépendant des figures."
+  },
+  {
+   "file": "Handout-3572-3090.pdf",
+   "ref": "Game Theory I et II (séances 7 et 8)",
+   "reason": "tableaux de gains, stratégies dominées, maximin/minimax : hors programme français et sans contenu calculatoire vérifiable pour un club collège."
+  }
+ ],
+ "retired_ids": [
+  {
+   "id": "4005",
+   "why": "Same problem in the same folder grade-08/algebra/2 as 3806 (pirate, 9 coins per chest leaves 2 chests empty, 6 per chest leaves 3 coins; answer 45). Kept 3806 because its source.reference names the original contest, AMC 8 2017 problem 17, and the corrige file, while 4005 cited only the handout barame. Never reuse the id 4005.",
+   "survivor": "3806",
+   "decided": "2026-09-19"
+  },
+  {
+   "id": "4009",
+   "why": "Same problem in the same folder grade-09/algebra/3 as 3816 (15 km at 30 km/h, then 55 km/h, average 50 km/h; answer 110 km). Kept 3816 because its source.reference names the original contest, AMC 8 2019 problem 16, and the corrige file. 4009 had one extra hint (\"ecris l'equation distance totale = 50 x temps total\"), which is NOT recoverable: it was retired before the run was ever committed, so it exists nowhere. Add it to 3816 if a club leader wants a fourth rung. Never reuse the id 4009.",
+   "survivor": "3816",
+   "decided": "2026-09-19"
+  }
+ ],
+ "notes": "Passage 1 (2026-09-19), 25 exercices, ids 4001 à 4025. Le fichier le plus rentable de l'unité est de loin Handout-3131-2694.pdf (séance d'indice 3, « Week 1 Competition ») : 22 problèmes de style AMC avec barème complet en fin de fichier ; 19 des 22 sont maintenant importés. Attention : un agent voisin travaille Handout-4070-3775.pdf, une autre compétition LAMC qui reprend les mêmes problèmes AMC. Cinq collisions sont listées dans « duplicates ». Avant d'importer un problème de compétition, chercher son énoncé dans la base, pas seulement son fichier source. Deux fichiers de corrigés de cette unité n'ont aucune couche texte (Handout-2812-2392.pdf pour la probabilité géométrique, Handout-2819-2408.pdf pour la théorie des nombres) : il faut les lire en image ou se passer du corrigé. Reprendre à la séance d'indice 4 (event 2949, Polynomials 2) ; les séances 0 à 3 sont exploitées, mais 0 et 3 gardent les restes listés dans « skipped ».",
  "updated": "2026-09-19",
  "sessions": [
   {
@@ -4267,6 +4596,43 @@
      "file": "Handout-2451-2155.pdf"
     }
    ]
+  }
+ ],
+ "duplicates": [
+  {
+   "mine": "4005",
+   "other": "3806",
+   "where": "grade-08/algebra/2 (même dossier)",
+   "problem": "les coffres et les pièces d'or (AMC 8 2017 n° 17)",
+   "action": "gardé les deux, règle des imports parallèles ; au coordinateur d'en retirer un"
+  },
+  {
+   "mine": "4006",
+   "other": "3812",
+   "where": "4e vs 3e",
+   "problem": "dés 1,2,3,5,7,8, somme paire (AMC 8 2019 n° 18)",
+   "action": "see_also posé côté 4006, le lien retour reste à poser sur 3812"
+  },
+  {
+   "mine": "4016",
+   "other": "3825",
+   "where": "3e vs 2de",
+   "problem": "quatre points, longueurs a,a,a,a,2a,b (AMC 10B 2012 n° 21)",
+   "action": "see_also posé côté 4016"
+  },
+  {
+   "mine": "4017",
+   "other": "3823",
+   "where": "2de arithmetic difficulté 3 vs 4",
+   "problem": "cubes divisant 3!·5!·7! (AMC 10A 2005 n° 15)",
+   "action": "see_also posé côté 4017"
+  },
+  {
+   "mine": "4018",
+   "other": "3824",
+   "where": "2de probability-statistics vs 2de combinatorics",
+   "problem": "triangle dans l'octogone (AMC 8 2018 n° 23)",
+   "action": "see_also posé côté 4018"
   }
  ]
 }

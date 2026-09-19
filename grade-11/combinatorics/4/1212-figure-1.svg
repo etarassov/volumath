@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-120 -120 240 240" width="340" height="340">
+<circle cx="0" cy="0" r="100" fill="none" stroke="#999" stroke-width="1.2"/>
+<path d="M 0.00,-100.00 L -95.11,-30.90 L -58.78,80.90 L 58.78,80.90 L 95.11,-30.90 Z" fill="none" stroke="#1a5fb4" stroke-width="2.2"/>
+<path d="M -22.50,-97.44 L -95.63,-29.24 L -73.14,68.20 L 22.50,97.44 L 95.63,29.24 L 73.14,-68.20 Z" fill="none" stroke="#c01c28" stroke-width="2.2"/>
+<circle cx="-89.40" cy="-35.05" r="3.2" fill="#000"/>
+<circle cx="-9.15" cy="-93.36" r="3.2" fill="#000"/>
+<circle cx="-94.81" cy="-30.00" r="3.2" fill="#000"/>
+<circle cx="-61.78" cy="71.67" r="3.2" fill="#000"/>
+<circle cx="-31.59" cy="80.90" r="3.2" fill="#000"/>
+<circle cx="40.23" cy="80.90" r="3.2" fill="#000"/>
+<circle cx="66.84" cy="56.08" r="3.2" fill="#000"/>
+<circle cx="87.30" cy="-6.86" r="3.2" fill="#000"/>
+<circle cx="79.05" cy="-42.56" r="3.2" fill="#000"/>
+<circle cx="22.43" cy="-83.70" r="3.2" fill="#000"/>
+</svg>

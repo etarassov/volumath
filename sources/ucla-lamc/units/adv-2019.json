@@ -6,14 +6,374 @@
   "1601",
   "1800"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 219,
  "sessions_with_answers": 22,
- "next_session": 0,
- "imported": [],
- "skipped": [],
+ "next_session": 22,
+ "imported": [
+  {
+   "id": "1601",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Les cinquante spectateurs et la place perdue",
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 9
+  },
+  {
+   "id": "1602",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 5,
+   "title": "La tortue et les huit nombres du cercle",
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 12
+  },
+  {
+   "id": "1603",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Une somme de cosinus qui vaut toujours -1/2",
+   "session": "1714",
+   "file": "Handout-2014-1714.pdf",
+   "problem": 11
+  },
+  {
+   "id": "1604",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Le chiffre des unites de k^2 + 2^k",
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 15
+  },
+  {
+   "id": "1605",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Un nombre premier divise ses propres coefficients binomiaux",
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 14
+  },
+  {
+   "id": "1606",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Des A par paquets pairs, des B par paquets impairs",
+   "session": "1715",
+   "file": "Handout-2015-1715.pdf",
+   "problem": 6
+  },
+  {
+   "id": "1607",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Quand la somme des nombres de diviseurs est-elle impaire ?",
+   "session": "1714",
+   "file": "Handout-2014-1714.pdf",
+   "problem": 9
+  },
+  {
+   "id": "1608",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Les diviseurs de 2004^2004 qui ont exactement 2004 diviseurs",
+   "session": "1714",
+   "file": "Handout-2014-1714.pdf",
+   "problem": 5
+  },
+  {
+   "id": "1609",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "La tour des huit cubes",
+   "session": "1714",
+   "file": "Handout-2014-1714.pdf",
+   "problem": 7
+  },
+  {
+   "id": "1610",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Une fonction mystere sur les couples d'entiers",
+   "session": "1715",
+   "file": "Handout-2015-1715.pdf",
+   "problem": 4
+  },
+  {
+   "id": "1611",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Resoudre x^4 + y^4 + 2 = 4xy",
+   "session": "2069",
+   "file": "Handout-2330-2069.pdf",
+   "problem": "7c"
+  },
+  {
+   "id": "1612",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Au moins une des trois equations a une solution",
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 20
+  },
+  {
+   "id": "1613",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Le produit des solutions d'une equation avec une racine carree",
+   "session": "1714",
+   "file": "Handout-2014-1714.pdf",
+   "problem": 3
+  },
+  {
+   "id": "1614",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 5,
+   "title": "Le minimum de |x-1| + |2x-1| + ... + |119x-1|",
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 19
+  },
+  {
+   "id": "1615",
+   "grade": 11,
+   "theme": "functions-analysis",
+   "difficulty": 3,
+   "title": "La plus petite valeur de (81 + 16x^4)/x^2",
+   "session": "2069",
+   "file": "Handout-2330-2069.pdf",
+   "problem": 6
+  },
+  {
+   "id": "1616",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Un produit plus grand que la somme",
+   "session": "2069",
+   "file": "Handout-2330-2069.pdf",
+   "problem": 4
+  },
+  {
+   "id": "1617",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "Un jeu equitable avec une piece truquee",
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 11
+  },
+  {
+   "id": "1618",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "Le point du carre et le cote le plus proche",
+   "session": "1715",
+   "file": "Handout-2015-1715.pdf",
+   "problem": 1,
+   "figure": true
+  },
+  {
+   "id": "1619",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Un quart de l'aire, et l'angle cherche",
+   "session": "1715",
+   "file": "Handout-2015-1715.pdf",
+   "problem": 5,
+   "figure": true
+  },
+  {
+   "id": "1620",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "Le cube aux faces rouges et bleues",
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 13
+  },
+  {
+   "id": "1621",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Le triangle equilateral et le cercle tangent",
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 4,
+   "figure": true
+  },
+  {
+   "id": "1622",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Les milieux de toutes les cordes passant par un point",
+   "session": "1714",
+   "file": "Handout-2014-1714.pdf",
+   "problem": 4,
+   "figure": true
+  },
+  {
+   "id": "1623",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Effacer le premier chiffre, diviser par 29",
+   "session": "1715",
+   "file": "Handout-2015-1715.pdf",
+   "problem": 3
+  },
+  {
+   "id": "1624",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 5,
+   "title": "Un rectangle d'une seule couleur dans un plan tricolore",
+   "session": "1714",
+   "file": "Handout-2014-1714.pdf",
+   "problem": 1
+  }
+ ],
+ "skipped": [
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 18,
+   "reason": "L'enonce du handout est FAUX. Il demande de montrer que a^2-b^2 = 2021+27k n'a pas de solution entiere; or k=1 donne 2048 = 513^2-511^2. La 'solution' officielle affirme que 5 n'est pas une difference de deux carres modulo 9, ce qui est faux (9-4=5)."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 21,
+   "reason": "Traversee du pont a la torche : deja dans la base sous l'id 0529 (4e, logic-reasoning, difficulte 4)."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 10,
+   "reason": "Probleme de l'ascenseur. La premiere partie est modelisable (reponse 6/38 avec un cycle 1->20->1, le handout ecrit 6/40 sans justifier le denominateur), mais la deuxieme partie n'est pas resolue dans le corrige ('answer is 25.5% (probably)'). Non importe faute d'enonce sans ambiguite."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 17,
+   "reason": "n? = 2n+16 : la seule solution est n=7, mais la preuve d'unicite passe par le postulat de Bertrand, hors de portee."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 22,
+   "reason": "Maximum et minimum de xy sur l'ellipse 2x^2+xy+3y^2-11x-20y+40=0. Trop technique, et le corrige du handout est tronque."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 16,
+   "reason": "Deux derniers chiffres non nuls de 90! (reponse 12, verifiee). Calcul tres long, tres peu d'idee par etape; passe pour l'instant."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problems": "2, 3",
+   "reason": "Jeux de chapeaux interactifs a jouer en groupe, pas des exercices ecrits."
+  },
+  {
+   "session": "1714",
+   "file": "Handout-2014-1714.pdf",
+   "problem": 6,
+   "reason": "Sept segments de longueurs entre 1 et 10 : deja dans la base sous l'id 0259 (2de, geometry, difficulte 4), importe depuis la source MSU."
+  },
+  {
+   "session": "1714",
+   "file": "Handout-2014-1714.pdf",
+   "problem": 13,
+   "reason": "IMO 1988 probleme 6 (a^2+b^2)/(ab+1) est un carre parfait : descente de Vieta, hors de portee meme en Terminale et trop long a rediger proprement."
+  },
+  {
+   "session": "1715",
+   "file": "Handout-2015-1715.pdf",
+   "problem": 8,
+   "reason": "AIME I 2003 probleme 11 : probabilite que sin^2 x, cos^2 x, sin x cos x ne forment pas un triangle. Reponse exprimee avec arctan, enonce d'origine a choix multiples difficile a reformuler proprement."
+  },
+  {
+   "session": "1715",
+   "file": "Handout-2015-1715.pdf",
+   "problems": "9, 10, 11",
+   "reason": "Developpement de cos 5theta, sommes de cotangentes, encadrement de la somme des 1/n^2. Tres beau mais ce sont trois maillons d'une meme lecon : hors d'un handout, chaque maillon isole n'est plus autoportant."
+  },
+  {
+   "session": "2069",
+   "file": "Handout-2330-2069.pdf",
+   "problems": "1, 2, 3, 7a",
+   "reason": "Demonstrations des inegalites HM-GM-AM-QM elles-memes : c'est le cours du handout, pas un probleme autoportant."
+  },
+  {
+   "session": "2185",
+   "file": "Handout-2460-2185.pdf",
+   "problem": 4,
+   "reason": "AMC 12A 2002 : nombre de solutions de f(f(x)) = 6 a partir d'un graphe. Le graphe n'est pas lisible dans le PDF (image absente de la couche texte), impossible de redessiner la figure de facon fiable."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 23,
+   "reason": "Multiple de 2021 ecrit uniquement avec des 0 et des 1 (tiroirs sur les restes des repunits). Meme idee que l'exercice 4617 deja dans la base (3e, arithmetic, difficulte 5, 'Un multiple ecrit seulement avec des uns'), ecrit par un autre agent pendant cette session. Non ecrit, donc simplement saute."
+  },
+  {
+   "session": "2185",
+   "file": "Handout-2460-2185.pdf",
+   "problems": "1 (= 1714 probleme 2)",
+   "reason": "Chemin sur la surface du Rubik's cube passant par toutes les cases : probleme de parcours a manipuler, sans reponse dans le handout et long a etablir rigoureusement."
+  },
+  {
+   "session": "1714",
+   "file": "Handout-2014-1714.pdf",
+   "problem": 8,
+   "reason": "Decoupage d'un carre 102x102 en copies d'une piece connexe de 101 cases : olympiade difficile, aucun corrige dans le handout, non resolu ici."
+  },
+  {
+   "session": "2339",
+   "file": "Handout-2718-2339.pdf",
+   "problems": "tout le handout",
+   "reason": "Graphes planaires : lecon complete (formule d'Euler, K5, K3,3). Les exercices ne tiennent pas debout hors du cours du handout. Le probleme des trois maisons et des trois fournisseurs serait importable mais demande la formule d'Euler, a faire dans une passe dediee."
+  },
+  {
+   "session": "2374",
+   "file": "Handout-2754-2374.pdf",
+   "problems": "tout le handout",
+   "reason": "Colorations de graphes et polynome chromatique : meme remarque, c'est un cours."
+  },
+  {
+   "session": "1866",
+   "file": "Handout-2124-1866.pdf",
+   "problems": "tout le handout",
+   "reason": "Fonctions generatrices : cours suivi, chaque probleme depend du precedent."
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "Passe 1 terminee : 24 exercices (1601 a 1624) pris dans les sessions 2323 (Group Competition), 1714 et 1715 (Olympiad Style 1 et 2), 2069 (Mean Inequalities). Ces quatre handouts sont les plus 'autoportants' du lot : listes de problemes de concours plutot que lecons. Les sessions suivantes de la liste (index 22 et au-dela) n'ont plus de corrige. Attention, plusieurs handouts de ce bloc partagent la meme banque de problemes : 2185, 1714 et 1715 se recoupent largement, verifier les doublons avant d'importer depuis 2185. Le bloc d'ids 1625 a 1800 reste libre. PIEGE DE RENDU trouve pendant cette passe : un intervalle ouvert a la francaise ecrit avec \\left] ... \\right[ casse la compilation typst (« unclosed delimiter »). Ecrire « pour u > 0 » ou utiliser des crochets equilibres. Un intervalle ecrit [0,1[ sans \\left/\\right passe sans probleme. Rappel aussi : les decimales francaises dans une formule doivent s'ecrire \\text{0,527} et non 0{,}527, qui s'imprime « 0, 527 ».",
  "updated": "2026-09-19",
  "sessions": [
   {
@@ -3269,6 +3629,74 @@
      "file": "Handout-2387-2011.pdf"
     }
    ]
+  }
+ ],
+ "answers_worked_out": [
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 5,
+   "note": "Six petits triangles, aires 84, 40, 30, 35 donnees. Aire totale = 315 (corrige du handout). Necessite la figure du PDF, non redessinee ici."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 6,
+   "note": "Medianes AD et CE, P leur intersection, PE=1,5, PD=2, DE=2,5. VERIFIE : 1,5^2+2^2=2,5^2 donc AD perpendiculaire a CE. Centre de gravite : AP=2PD=4, CP=2PE=3, donc AD=6 et CE=4,5. Aire du quadrilatere AEDC a diagonales perpendiculaires = (1/2)*6*4,5 = 13,5. Bon exercice 2de/1re, a importer dans une passe ulterieure."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 7,
+   "note": "Triangle 3-4-5 rectangle en C, CD bissectrice de l'angle droit. VERIFIE par le calcul : r_a/r_b = 3(10 - racine(2))/28 = 0,91991. Detail : BD=20/7, AD=15/7, CD=12*racine(2)/7, r_a=3/(3+racine 2), r_b=4/(4+racine 2)."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 8,
+   "note": "Angle C = 60 degres, BC = 4, D milieu de BC : max de tan(BAD) = racine(3)/(4 racine(2) - 3) d'apres le corrige (AMC 12A 2008 probleme 24). NON verifie ici."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 10,
+   "note": "Ascenseur, premiere partie : sur un cycle 1->20->1 de longueur 38 etages parcourus, l'ascenseur ne descend en arrivant au 17e que s'il se trouvait entre le 17e (en montant) et le 17e (en redescendant), soit 3+3=6 unites sur 38, donc environ 0,158. Le handout ecrit 6/40 = 0,15 sans justifier 40. Deuxieme partie non resolue par le handout ('25.5% probably')."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 16,
+   "note": "Deux derniers chiffres non nuls de 90! : VERIFIE par calcul direct en Python, la reponse est 12."
+  },
+  {
+   "session": "2323",
+   "file": "Handout-2698-2323.pdf",
+   "problem": 18,
+   "note": "ATTENTION, enonce du handout FAUX : a^2-b^2 = 2021+27k admet des solutions, par exemple k=1 donne 2048 = 513^2-511^2. Le corrige pretend que 5 n'est pas difference de deux carres modulo 9, or 9-4=5. Ne pas importer tel quel."
+  },
+  {
+   "session": "2185",
+   "file": "Handout-2460-2185.pdf",
+   "problem": 6,
+   "note": "Rectangle monochrome dans un plan tricolore : importe sous l'id 1624 (le meme probleme figure aussi en 1714 probleme 1)."
+  },
+  {
+   "session": "2185",
+   "file": "Handout-2460-2185.pdf",
+   "problem": 3,
+   "note": "Tina choisit 2 nombres distincts dans {1..5}, Sergio 1 nombre dans {1..10}. P(Sergio > somme de Tina) = 2/5, VERIFIE par enumeration. Bon exercice 2de, non importe faute de place."
+  },
+  {
+   "session": "2185",
+   "file": "Handout-2460-2185.pdf",
+   "problem": 2,
+   "note": "Point aleatoire du carre unite, 1/5 <= d(P) <= 1/3 : reponse 56/225, VERIFIE. Importe sous l'id 1618."
+  },
+  {
+   "session": "2069",
+   "file": "Handout-2330-2069.pdf",
+   "problem": "5a,5c,8a",
+   "note": "Inegalites classiques non importees : x^2+y^2+z^2 >= xy+yz+zx ; x^2+y^2+1 >= xy+x+y ; si x+y=10 avec x,y >= 0 alors x^2+y^2 vaut au minimum 50 (x=y=5) et au maximum 100 (x=0 ou y=0). Toutes se demontrent en sommant des carres, niveau 2de/1re."
   }
  ]
 }

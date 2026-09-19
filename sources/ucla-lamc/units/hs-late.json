@@ -6,14 +6,422 @@
   "2801",
   "3000"
  ],
- "status": "pending",
+ "status": "in_progress",
  "sessions_total": 158,
  "sessions_with_answers": 7,
- "next_session": 0,
- "imported": [],
- "skipped": [],
+ "next_session": 11,
+ "imported": [
+  {
+   "id": "2801",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "Les billes d'Isabelle",
+   "session": "1322 Relays",
+   "ref": "Handout-1301-1322.pdf, pb 27",
+   "verified": "python + answer key (45)"
+  },
+  {
+   "id": "2802",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Le coefficient de x^28",
+   "session": "1322 Relays",
+   "ref": "Handout-1301-1322.pdf, pb 21",
+   "verified": "python (polynomial product) + answer key (224)"
+  },
+  {
+   "id": "2803",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "La parite de ad - bc",
+   "session": "1322 Relays",
+   "ref": "Handout-1301-1322.pdf, pb 12",
+   "verified": "exact fractions + answer key (5/8)"
+  },
+  {
+   "id": "2804",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "Quatre jetons tires d'un chapeau",
+   "session": "1322 Relays",
+   "ref": "Handout-1301-1322.pdf, pb 17",
+   "verified": "python + answer key (162)"
+  },
+  {
+   "id": "2805",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Plus lourd a droite qu'a gauche",
+   "session": "1322 Relays",
+   "ref": "Handout-1301-1322.pdf, pb 20",
+   "verified": "brute force over 120 permutations + answer key (48)"
+  },
+  {
+   "id": "2806",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Le chiffre des unites d'un tres grand nombre",
+   "session": "1322 Relays",
+   "ref": "Handout-1301-1322.pdf, pb 19",
+   "verified": "python bignum + answer key (6)",
+   "note": "same problem as 1604 (Terminale, 2020 instead of 2008), cross linked with see_also; coordinator should keep one"
+  },
+  {
+   "id": "2807",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Quand n! est divisible par 1+2+...+n",
+   "session": "1322 Relays",
+   "ref": "Handout-1301-1322.pdf, pb 16",
+   "verified": "brute force over n<=24 + answer key (16)"
+  },
+  {
+   "id": "2808",
+   "grade": 12,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Le tetraedre pose sur les trois axes",
+   "session": "1322 Relays",
+   "ref": "Handout-1301-1322.pdf, pb 18",
+   "verified": "hand computation + answer key (sqrt 95)",
+   "note": "see_also 3412 (2de, same technique, different data)"
+  },
+  {
+   "id": "2809",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Trois pas qui montent",
+   "session": "1322 Relays",
+   "ref": "Handout-1301-1322.pdf, pb 24",
+   "verified": "brute force over a1<=2008 + answer key (502)"
+  },
+  {
+   "id": "2810",
+   "grade": 11,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "La zone la plus proche de B",
+   "session": "1322 Relays",
+   "ref": "Handout-1301-1322.pdf, pb 25",
+   "verified": "shoelace by hand + answer key (2 sqrt3 /3)",
+   "figure": "2810-figure-1.svg"
+  },
+  {
+   "id": "2811",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "La somme des cubes est un carre",
+   "session": "875 Proofs using Induction",
+   "ref": "Handout-772-875.pdf, pb 1 challenge",
+   "verified": "classic identity, checked on n<=4",
+   "note": "SAME PROBLEM as 2002 in the same folder (another agent's block); kept per the no-delete rule, coordinator should keep one"
+  },
+  {
+   "id": "2812",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "11^n - 4^n est un multiple de 7",
+   "session": "875 Proofs using Induction",
+   "ref": "Handout-772-875.pdf, pb 2c",
+   "verified": "proof written out, checked n<=3"
+  },
+  {
+   "id": "2813",
+   "grade": 12,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Le tour du circuit et ses stations-service",
+   "session": "875 Proofs using Induction",
+   "ref": "Handout-772-875.pdf, pb 6b",
+   "verified": "full proof (minimum of partial sums)"
+  },
+  {
+   "id": "2814",
+   "grade": 12,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Ranger les equipes en file",
+   "session": "875 Proofs using Induction",
+   "ref": "Handout-772-875.pdf, pb 4",
+   "verified": "full proof by induction, three insertion cases"
+  },
+  {
+   "id": "2815",
+   "grade": 12,
+   "theme": "functions-analysis",
+   "difficulty": 3,
+   "title": "La somme des inverses ne s'arrete jamais",
+   "session": "1574 Limits of Sequences",
+   "ref": "Handout-1698-1574.pdf, section A",
+   "verified": "classic grouping proof, numeric check of H_1..H_8"
+  },
+  {
+   "id": "2816",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Des carres qui dominent les produits",
+   "session": "964 Inequalities",
+   "ref": "Handout-874-964.pdf, pb 4 et 5",
+   "verified": "algebraic proof, numeric spot checks"
+  },
+  {
+   "id": "2817",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Couper une fraction en deux sans perdre",
+   "session": "964 Inequalities",
+   "ref": "Handout-874-964.pdf, pb 8",
+   "verified": "algebraic proof (Engel form)"
+  },
+  {
+   "id": "2818",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Trois fractions dont la somme atteint au moins 3/2",
+   "session": "964 Inequalities",
+   "ref": "Handout-874-964.pdf, pb 9",
+   "verified": "Nesbitt, full proof from the two lemmas proved inline"
+  },
+  {
+   "id": "2819",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 3,
+   "title": "La piece truquee et les quatre lancers",
+   "session": "941 Counting and probabilities",
+   "ref": "Handout-854-941.pdf, pb 6",
+   "verified": "solved and checked numerically, p=(3-sqrt3)/6"
+  },
+  {
+   "id": "2820",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Sept nenuphars, huit sauts",
+   "session": "941 Counting and probabilities",
+   "ref": "Handout-854-941.pdf, pb 2",
+   "verified": "brute force for n=3,4,5 matched the formula; answer 105840"
+  },
+  {
+   "id": "2821",
+   "grade": 10,
+   "theme": "probability-statistics",
+   "difficulty": 2,
+   "title": "Le disque pose au hasard sur la table",
+   "session": "941 Counting and probabilities",
+   "ref": "Handout-854-941.pdf, pb 9",
+   "verified": "hand computation (9/25); feet converted to 1,5 m and 30 cm, same ratio"
+  },
+  {
+   "id": "2822",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Yoga, menuiserie et peinture",
+   "session": "1452 Combinatorics II",
+   "ref": "Handout-1510-1452.pdf, pb 2d (AMC 10B)",
+   "verified": "brute force over all (u,d,t) + hand check; answer 3"
+  }
+ ],
+ "skipped": [
+  {
+   "session": "1509 Circle Inversions / 1510 & 1528 & 1529 Hyperbolic Geometry I-III",
+   "why": "university-level inversive and hyperbolic geometry; every exercise rests on the handout's own axioms and models. Nothing standalone."
+  },
+  {
+   "session": "1639 & 1632 Wallpaper Patterns, 1501 & 1508 Symmetries and Groups, 1207 Symmetry with Dr Mike Hall",
+   "why": "orbifold notation and group theory; classification exercises, no standalone problems."
+  },
+  {
+   "session": "1589 & 1485 & 1105 & 1086 The Gini Index",
+   "why": "needs the Lorenz curve defined over two pages. LEAD FOR A LATER PASS: a real Terminale exercise can be built by folding the definition into the statement. Gini index G = 2 * integral of (x - L(x)) on [0,1]. For L(x) = x^2, G = 1/3; for L(x) = x^k, G = (k-1)/(k+1). Both checked by hand."
+  },
+  {
+   "session": "1492 Math on Chess Board",
+   "why": "good problems but 4e/3e level (knight colour-change parity, max non-attacking rooks = 8 and knights = 32, min queens covering the board = 5, min knights = 12, 8 non-attacking rooks = 8! placements, derangements for the no-main-diagonal version = D(8) = 14833). grade-08 and grade-09 are already well stocked and 0810/0813 already cover chessboard colouring. All answers above come from the handout itself, which carries its own solutions."
+  },
+  {
+   "session": "1549 & 1550 & 1614 & 1179 & 1180 Continued Fractions",
+   "why": "exercises use the handout's own bracket notation [a0, a1, ...] built over several pages; convertible but each statement would need a paragraph of setup."
+  },
+  {
+   "session": "1557 & 1561 Algorithms I / Advanced Algorithms",
+   "why": "computer science (longest common subsequence, polynomial-time, four-peg Hanoi); no French school mathematics."
+  },
+  {
+   "session": "1583 Sequences II",
+   "why": "epsilon-N analysis: subsequences, limsup/liminf, Cauchy sequences, Bolzano-Weierstrass. Above Terminale."
+  },
+  {
+   "session": "1574 Limits of Sequences",
+   "why": "same, except section A. Only the harmonic series item was usable and became 2801-block id 2815. Other section-A items that could be mined later: lim of sqrt(n^2+1) - n = 0 (conjugate trick, Terminale, d2); lim 2^n/n! = 0; lim 10^(1/n) = 1."
+  },
+  {
+   "problem": "Relays (Handout-1301-1322.pdf) pb 1",
+   "why": "unit conversion from ounces makes it clumsy in French",
+   "answer": "40 ounces in total"
+  },
+  {
+   "problem": "Relays pb 2",
+   "why": "2de level, no room left in this pass",
+   "answer": "7 values of n: 15, 20, 24, 25, 27, 28, 29 (brute forced)"
+  },
+  {
+   "problem": "Relays pb 3",
+   "why": "3e level",
+   "answer": "a muffin costs 5/3 of a banana"
+  },
+  {
+   "problem": "Relays pb 4",
+   "why": "3e level",
+   "answer": "sum of the three ages = 18"
+  },
+  {
+   "problem": "Relays pb 5",
+   "why": "3e/2de level",
+   "answer": "4 distinct values: 26, 46, 50, 70 (brute forced)"
+  },
+  {
+   "problem": "Relays pb 6",
+   "why": "needs the handout's figure redrawn",
+   "answer": "the flower beds occupy 1/5 of the yard"
+  },
+  {
+   "problem": "Relays pb 7",
+   "why": "2de percentages, no room left",
+   "answer": "x = 100/6 = 16,67, so 17 to the nearest integer"
+  },
+  {
+   "problem": "Relays pb 8",
+   "why": "3e/2de level",
+   "answer": "area ratio A/B = 4/9"
+  },
+  {
+   "problem": "Relays pb 9",
+   "why": "2de level, good candidate for a later pass",
+   "answer": "ratio home/stadium = 3/4"
+  },
+  {
+   "problem": "Relays pb 10",
+   "why": "needs the seven-circle figure redrawn; good 2de candidate",
+   "answer": "shaded area = 2*pi"
+  },
+  {
+   "problem": "Relays pb 11",
+   "why": "good 2de candidate (3:4:5 means right-angled, so the hypotenuse is a diameter)",
+   "answer": "area = 8,64"
+  },
+  {
+   "problem": "Relays pb 13",
+   "why": "needs a figure; good 2de candidate",
+   "answer": "area of the square = 22 + 12*sqrt(2)"
+  },
+  {
+   "problem": "Relays pb 14",
+   "why": "good 2de/1re candidate",
+   "answer": "min m+n = 60, with m = 45 and n = 15 (brute forced)"
+  },
+  {
+   "problem": "Relays pb 15",
+   "why": "good 1re geometry candidate",
+   "answer": "AB/DC = 5"
+  },
+  {
+   "problem": "Relays pb 22",
+   "why": "good 2de candidate on absolute values",
+   "answer": "area = 3 (a rhombus with diagonals 2 and 3)"
+  },
+  {
+   "problem": "Relays pb 23",
+   "why": "good 2de/1re candidate: the small circle's centre is on the bisector at distance 2r from O, and 2r + r = R",
+   "answer": "area ratio = 1/9"
+  },
+  {
+   "problem": "Relays pb 26",
+   "why": "the answer is only reachable by exhaustive search, no hand argument. Do not import.",
+   "answer": "N = 7223 (first n whose greedy-square sequence has 8 terms), units digit 3 (brute forced)"
+  },
+  {
+   "problem": "Combinatorics II (Handout-1510-1452.pdf) pb 2c",
+   "why": "no clean hand derivation; inclusion-exclusion over overlapping triples is a mess",
+   "answer": "349 arrangements of 6 people with no three consecutive in increasing alphabetical order (brute forced)"
+  },
+  {
+   "problem": "Combinatorics II pb 1b-1e (Catalan numbers, valid parenthesis strings)",
+   "why": "needs the handout's 'exceedance' build-up, and 2405 already covers paths staying under the diagonal"
+  },
+  {
+   "problem": "Counting and probabilities (Handout-854-941.pdf) pb 1",
+   "why": "too easy",
+   "answer": "5^3 = 125"
+  },
+  {
+   "problem": "Counting and probabilities pb 3",
+   "why": "statement ambiguous (are the fingers distinguishable? may a finger stay empty?). Under 'five distinguishable fingers, one ring each, the three gold rings identical' the count is 9240 (computed)."
+  },
+  {
+   "problem": "Counting and probabilities pb 4",
+   "why": "asks to prove Binet's formula for the staircase; long, and 3016 already covers the staircase count"
+  },
+  {
+   "problem": "Counting and probabilities pb 5",
+   "why": "good 2de candidate",
+   "answer": "P(x < y) = 1/8"
+  },
+  {
+   "problem": "Counting and probabilities pb 7",
+   "why": "Buffon's needle, above Terminale"
+  },
+  {
+   "problem": "Counting and probabilities pb 8",
+   "why": "brute force gives the answer but the hand derivation is long (generating functions)",
+   "answer": "reach 4 in 12 jumps: 935913 ways; reach 7 in 16 jumps: 148636944 ways (steps +-1 and +-2, computed)"
+  },
+  {
+   "problem": "Counting and probabilities pb 10",
+   "why": "statement ambiguous about what 'identical' means for choosing then lining up"
+  },
+  {
+   "problem": "Inequalities (Handout-874-964.pdf) pb 1 and 2",
+   "why": "AM >= GM >= HM for two numbers; overlaps with 2018 'Trois inverses dont la somme atteint 9' being written in another block. Good candidate if 2018 turns out to be something else."
+  },
+  {
+   "problem": "Inequalities pb 3",
+   "why": "good 1re/Terminale candidate, not enough room",
+   "answer": "x/y + y/z + z/x >= 3 for x,y,z > 0, equality iff x = y = z (AM-GM on three terms)"
+  },
+  {
+   "problem": "Inequalities pb 6",
+   "why": "IMO 2001, needs convexity of 1/sqrt(x) and Jensen; too hard even for Terminale 5 stars"
+  },
+  {
+   "problem": "Inequalities pb 7",
+   "why": "good Terminale candidate: Cauchy-Schwarz in n variables, provable with the discriminant of a well-chosen trinomial"
+  },
+  {
+   "problem": "Proofs using Induction (Handout-772-875.pdf) pb 5",
+   "why": "L-tromino tiling of a 2^n x 2^n board with one square removed is ALREADY in the database as 2007 (Terminale, combinatorics, 4 stars). Skipped before writing."
+  },
+  {
+   "problem": "Proofs using Induction pb 1a, 2a, 2b, 3a, 3b, Tower of Hanoi",
+   "why": "standard induction drills (sum of odd numbers = n^2, n^3-n multiple of 6, 5^n-1 multiple of 4, n(n-3)/2 diagonals, angle sum, 2^n-1 moves); folded into the 'Going further' of 2811 and 2812 rather than imported separately"
+  }
+ ],
  "retired_ids": [],
- "notes": "",
+ "notes": "Pass 1, 2026-09-19, 22 exercises (2801-2822 of the 2801-3000 block, contiguous, none left unused). Sources used: session 6 Relays (Handout-1301-1322 + answer key Handout-1302), session 27 Limits of Sequences, session 66 Combinatorics II, session 134 Counting and probabilities, session 139 Proofs using Induction, session 152 Inequalities. All 27 Relays answers were re-verified by brute force in Python and every one matched the official key, so the ten imported from it are double-checked. The other twelve were solved from scratch and checked (brute force where possible). Sessions 0 to 10 of the list have all been opened and judged; next_session is set to 11 but sessions 0-10 need no revisit. TWO DUPLICATES FOR THE COORDINATOR: 2811 duplicates 2002 in the same folder (grade-12/algebra/3, sum of cubes), and 2806 is the same problem as 1604 (units digit of k^2 + 2^k, 2008 instead of 2020) at a different grade, cross linked with see_also. Both were kept per the no-delete rule. WHAT IS LEFT IN THIS UNIT: the remaining 147 sessions are dominated by university topics (tropical geometry, quandles, homotopy, quadratic reciprocity, Gaussian integers, special relativity, queueing theory, stable marriage). The rich veins for a later pass are the AMC problem sessions (index 133 Handout-880-935, index 149: Handout-818-914 is an AMC 12 multiple-choice practice set and Handout-819-914 a relay-style problem list; neither carries an answer key, so both must be solved and verified), index 97 Problems from Moscow Math Olympiads, index 58 Probability and Bayes Rule, index 63 and 114 and 117 and 120 Game Theory, index 62 Geometry, index 31 and 156 Mass Point Geometry, index 144 Algebra and combinatorics, index 152 Inequalities (5 problems left), index 139 and 143 Induction (drills left), and index 84/109/13/4 The Gini Index if someone folds the Lorenz curve into a statement.",
  "updated": "2026-09-19",
  "sessions": [
   {

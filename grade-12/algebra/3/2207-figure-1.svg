@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<rect x="0" y="0" width="400" height="400" fill="#ffffff"/>
+<line x1="30" y1="200" x2="368" y2="200" stroke="#999999" stroke-width="1.2"/>
+<line x1="200" y1="32" x2="200" y2="368" stroke="#999999" stroke-width="1.2"/>
+<text x="372" y="205" font-family="serif" font-size="14" fill="#555555">Re</text>
+<text x="207" y="28" font-family="serif" font-size="14" fill="#555555">Im</text>
+<circle cx="200" cy="200" r="140" fill="none" stroke="#2c6fbb" stroke-width="2"/>
+<polygon points="340.00,200.00 298.99,101.01 200.00,60.00 101.01,101.01 60.00,200.00 101.01,298.99 200.00,340.00 298.99,298.99" fill="#dbe8f7" fill-opacity="0.55" stroke="#2c6fbb" stroke-width="1.4" stroke-dasharray="5 4"/>
+<circle cx="340.00" cy="200.00" r="5.5" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<circle cx="298.99" cy="101.01" r="5.5" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<circle cx="200.00" cy="60.00" r="5.5" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<circle cx="101.01" cy="101.01" r="5.5" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<circle cx="60.00" cy="200.00" r="5.5" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<circle cx="101.01" cy="298.99" r="5.5" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<circle cx="200.00" cy="340.00" r="5.5" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<circle cx="298.99" cy="298.99" r="5.5" fill="#d1332e" stroke="#000000" stroke-width="1"/>
+<text x="372.0" y="188.0" font-family="serif" font-size="13" fill="#111111" text-anchor="start">1</text>
+<text x="314.6" y="89.4" font-family="serif" font-size="13" fill="#111111" text-anchor="start">√2/2 + i√2/2</text>
+<text x="212.0" y="36.0" font-family="serif" font-size="13" fill="#111111" text-anchor="start">i</text>
+<text x="85.4" y="89.4" font-family="serif" font-size="13" fill="#111111" text-anchor="end">−√2/2 + i√2/2</text>
+<text x="28.0" y="188.0" font-family="serif" font-size="13" fill="#111111" text-anchor="end">−1</text>
+<text x="85.4" y="318.6" font-family="serif" font-size="13" fill="#111111" text-anchor="end">−√2/2 − i√2/2</text>
+<text x="212.0" y="376.0" font-family="serif" font-size="13" fill="#111111" text-anchor="start">−i</text>
+<text x="314.6" y="318.6" font-family="serif" font-size="13" fill="#111111" text-anchor="start">√2/2 − i√2/2</text>
+<circle cx="200" cy="200" r="3" fill="#333333"/>
+<text x="185" y="219" font-family="serif" font-size="14" fill="#333333">O</text>
+</svg>

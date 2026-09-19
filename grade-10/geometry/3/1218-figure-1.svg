@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" width="400" height="347">
+<polygon points="150.00,10.00 150.00,10.00 161.82,30.00 138.18,30.00" fill="#b9c9de" stroke="none"/>
+<polygon points="126.36,50.00 173.64,50.00 185.45,70.00 114.55,70.00" fill="#b9c9de" stroke="none"/>
+<polygon points="102.73,90.00 197.27,90.00 209.09,110.00 90.91,110.00" fill="#b9c9de" stroke="none"/>
+<polygon points="79.09,130.00 220.91,130.00 232.73,150.00 67.27,150.00" fill="#b9c9de" stroke="none"/>
+<polygon points="55.45,170.00 244.55,170.00 256.36,190.00 43.64,190.00" fill="#b9c9de" stroke="none"/>
+<polygon points="31.82,210.00 268.18,210.00 280.00,230.00 20.00,230.00" fill="#b9c9de" stroke="none"/>
+<line x1="138.18" y1="30.00" x2="161.82" y2="30.00" stroke="#666" stroke-width="0.9"/>
+<line x1="126.36" y1="50.00" x2="173.64" y2="50.00" stroke="#666" stroke-width="0.9"/>
+<line x1="114.55" y1="70.00" x2="185.45" y2="70.00" stroke="#666" stroke-width="0.9"/>
+<line x1="102.73" y1="90.00" x2="197.27" y2="90.00" stroke="#666" stroke-width="0.9"/>
+<line x1="90.91" y1="110.00" x2="209.09" y2="110.00" stroke="#666" stroke-width="0.9"/>
+<line x1="79.09" y1="130.00" x2="220.91" y2="130.00" stroke="#666" stroke-width="0.9"/>
+<line x1="67.27" y1="150.00" x2="232.73" y2="150.00" stroke="#666" stroke-width="0.9"/>
+<line x1="55.45" y1="170.00" x2="244.55" y2="170.00" stroke="#666" stroke-width="0.9"/>
+<line x1="43.64" y1="190.00" x2="256.36" y2="190.00" stroke="#666" stroke-width="0.9"/>
+<line x1="31.82" y1="210.00" x2="268.18" y2="210.00" stroke="#666" stroke-width="0.9"/>
+<polygon points="150.0,10.0 20.0,230.0 280.0,230.0" fill="none" stroke="#000" stroke-width="2"/>
+</svg>

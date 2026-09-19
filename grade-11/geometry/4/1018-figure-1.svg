@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 295" width="500" height="295">
+  <polygon points="45.0,255.0 445.0,255.0 120.2,48.3" fill="#eef2f7" stroke="#000000" stroke-width="2"/>
+  <line x1="45.0" y1="255.0" x2="235.5" y2="121.6" stroke="#1a6f3c" stroke-width="2"/>
+  <line x1="445.0" y1="255.0" x2="74.5" y2="173.9" stroke="#aa3333" stroke-width="2"/>
+  <circle cx="45.0" cy="255.0" r="3.5" fill="#000000"/>
+  <circle cx="445.0" cy="255.0" r="3.5" fill="#000000"/>
+  <circle cx="120.2" cy="48.3" r="3.5" fill="#000000"/>
+  <circle cx="235.5" cy="121.6" r="3.5" fill="#1a6f3c"/>
+  <circle cx="140.2" cy="188.3" r="3.5" fill="#1a6f3c"/>
+  <circle cx="74.5" cy="173.9" r="3.5" fill="#aa3333"/>
+  <text x="25.0" y="263.0" font-family="serif" font-size="18">A</text>
+  <text x="453.0" y="263.0" font-family="serif" font-size="18">B</text>
+  <text x="114.2" y="38.3" font-family="serif" font-size="18">C</text>
+  <text x="244.5" y="117.6" font-family="serif" font-size="18">D</text>
+  <text x="147.2" y="206.3" font-family="serif" font-size="18">M</text>
+  <text x="53.5" y="171.9" font-family="serif" font-size="18">P</text>
+  <text x="237.0" y="277.0" font-family="serif" font-size="15">20</text>
+  <text x="60.6" y="151.6" font-family="serif" font-size="15">11</text>
+</svg>
