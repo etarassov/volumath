@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="20 58 216 146" width="300" height="203" font-family="serif">
+  <path d="M 28.0 96.0 L 154.0 96.0 L 154.0 152.0 L 28.0 152.0 Z" fill="#e3e3e3" stroke="#000" stroke-width="1.5"/>
+  <path d="M 122.9 66.2 L 201.8 94.9 L 173.1 173.8 L 94.2 145.1 Z" fill="#b6b6b6" stroke="#000" stroke-width="1.5"/>
+  <path d="M 112.0 96.0 L 154.0 96.0 L 154.0 152.0 L 113.1 152.0 L 94.2 145.1 Z" fill="#fff" stroke="#000" stroke-width="1.5"/>
+  <g font-size="13" fill="#000">
+    <text x="42" y="122">rectangle</text>
+    <text x="196" y="196">carré</text>
+  </g>
+  <g stroke="#000" stroke-width="0.9" fill="none">
+    <path d="M 205 191 L 186 168"/>
+  </g>
+</svg>

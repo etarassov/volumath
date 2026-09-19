@@ -1,0 +1,101 @@
+{
+  "unit": "astb-c",
+  "source": "mmmf-msu",
+  "title": "Astachov et al., 7e classe russe, 2e partie, 3",
+  "manual": "sources/originals/mmmf-msu/Ast2017b.pdf",
+  "handouts": "sources/originals/mmmf-msu/Ast2017b_handouts.pdf",
+  "pages": [
+    51,
+    75
+  ],
+  "target_grades": "8",
+  "id_block": [
+    "0201",
+    "0225"
+  ],
+  "status": "done",
+  "imported": [
+    "0201",
+    "0202",
+    "0203",
+    "0204",
+    "0205",
+    "0206",
+    "0207",
+    "0208",
+    "0209",
+    "0210"
+  ],
+  "skipped": [
+    {
+      "ref": "листок 23, задача 6 (p. 51)",
+      "reason": "Les 222 élèves à répartir en salles. L'énoncé est page 50, hors de ma plage : seule la solution tombe dans mes pages. Laissé à l'unité qui couvre les pages précédentes."
+    },
+    {
+      "ref": "листок 23, задача 8 (p. 52-53)",
+      "reason": "Découper un rectangle en un maximum de rectangles tous différents (5x6, 12x6, 2x36). La majoration est jolie (somme des plus petites aires possibles), mais le manuel laisse les exemples aux enfants (« пример можно построить ») : il faudrait inventer et dessiner trois découpages. Candidat pour une session prête à faire les figures."
+    },
+    {
+      "ref": "листок 24, задача 1 (p. 54-55)",
+      "reason": "Neuf sous-questions a) à и) sur k et b, avec tracés. C'est une feuille d'entraînement, pas un problème qui tient debout seul. Les parties з) et и) (droite ne passant que par des points de coordonnées de même signe) valent la peine d'être reprises seules en 3e."
+    },
+    {
+      "ref": "листок 24, задача 3 (p. 56-57)",
+      "reason": "Droites perpendiculaires, réponse a = -1/c. Le critère sur les coefficients directeurs n'est vu qu'en seconde en France, et la démonstration du manuel (« échanger les axes ») est très floue."
+    },
+    {
+      "ref": "листок 24, задачи 4, 5, 6 (p. 57-59)",
+      "reason": "Tracés de droites, lecture de fonctions affines sur des graphiques, et régions du plan définies par des inégalités. Les deux premières sont du pur entraînement et dépendent de figures imprimées dans la source ; la troisième relève de la seconde."
+    },
+    {
+      "ref": "листок 24, задача 8 (p. 59-60)",
+      "reason": "« Ces deux graphiques peuvent-ils être ceux de y = kx+b et y = bx+k ? » Dépend entièrement de deux figures de la source, et c'est une suite directe de la задача 2, importée sous le numéro 0202."
+    },
+    {
+      "ref": "листок 25, задачи 3 et 4 (p. 62-63)",
+      "reason": "Escaliers mécaniques (3 min à l'arrêt / 2 min en montant ; 1 min / 45 s). Deux bons problèmes, écartés seulement pour ne pas mettre quatre escaliers dans la même unité. La задача 3 marche très bien en 4e si on prend la longueur de l'escalier égale à 6 unités : l'élève trouve 2 unités/min pour le voyageur, 1 pour l'escalier, donc 6 minutes. À importer dans une session suivante."
+    },
+    {
+      "ref": "листок 25, задача 5 (p. 64)",
+      "reason": "Deux personnes montent sur l'escalier par les deux bouts. Belle idée (la vitesse de rapprochement vaut 2v, l'escalier se simplifie), écartée pour la même raison de variété. Bon candidat pour plus tard."
+    },
+    {
+      "ref": "листок 25, задача 6 (p. 64-65)",
+      "reason": "Un pas en avant, deux pas en arrière sur l'escalier. La modélisation (vitesse relative, marches supposées très petites devant la longueur) tient plus de la physique que des maths de collège."
+    },
+    {
+      "ref": "листок 25, задачи 7 et 8 (p. 65-66)",
+      "reason": "Bateau à moteur contre le courant, puis bateau et kayak. Les deux conduisent à une équation du second degré (33/(x+6,5) + 4/(x-6,5) = 1), hors programme du collège français. À reprendre éventuellement en grade-10."
+    },
+    {
+      "ref": "листок 26, задача 4 (p. 69)",
+      "reason": "Diviseurs pairs ou impairs de 1234567890 et de 9078563412. L'idée est bonne (apparier d avec N/d, puis regarder si N est divisible par 4), mais l'unité contenait déjà trois problèmes d'appariement. Attention si on le reprend : le texte de la solution du manuel est fautif, il écrit « le diviseur 1234567890/n » au lieu de N/d."
+    },
+    {
+      "ref": "листок 26, задача 5 (p. 69-70)",
+      "reason": "Nombres à trois chiffres dont le chiffre du milieu est plus grand (ou plus petit) que les deux autres. Très bon problème, écarté par manque de place. Si on le reprend : l'argument propre est que abc -> 999-abc envoie injectivement « milieu plus grand » dans « milieu plus petit », et rate par exemple 918 ; le manuel est vague sur ce point."
+    },
+    {
+      "ref": "листок 26, задача 6 (p. 70-71)",
+      "reason": "Nombres de 1 à 1000000 ayant exactement trois diviseurs contre exactement deux. Demande les nombres premiers et le fait qu'un nombre à trois diviseurs est le carré d'un premier : en France cela relève de la 3e. À importer en grade-09."
+    },
+    {
+      "ref": "листок 26, задача 8 (p. 71-72)",
+      "reason": "Triangles à côtés entiers de périmètre 2018 contre 2021. Joli problème d'appariement (a,b,c) -> (a+1,b+1,c+1), écarté par manque de place. Attention : le manuel se contredit, la réponse imprimée dit « 2021 больше » (c'est la bonne) mais la dernière phrase de la solution dit « 2018 больше ». C'est une coquille : le triangle (1, 1010, 1010) de périmètre 2021 n'a pas d'antécédent."
+    },
+    {
+      "ref": "листок 27, задачи -1 et 0 (p. 73-74)",
+      "reason": "Exemples que l'enseignant traite au tableau en début de séance, pas des exercices autonomes."
+    },
+    {
+      "ref": "листок 27, задачи 2, 3, 4 (p. 74-75)",
+      "reason": "Aiguilles alignées après 9 h, superposition après midi, premier et deuxième angle droit après midi. Bons problèmes, mais ce sont des suites directes de la задача 1 importée sous le numéro 0210, où ils figurent dans « Pour aller plus loin ». À importer ensemble dans une séance « horloges » si on en veut une."
+    },
+    {
+      "ref": "листок 27, задача 5 (p. 75-76)",
+      "reason": "Sveta mesure deux fois le même angle à une demi-heure d'intervalle (réponse 82,5° ou 97,5°). La solution déborde sur la page 76, hors de ma plage : laissé à l'unité suivante."
+    }
+  ],
+  "notes": "Plage p. 51-75 du manuel : fin du листок 23 (Оценка+пример), puis листок 24 (fonctions affines et graphiques), листок 25 (escaliers mécaniques et courants), листок 26 (« Où y en a-t-il plus ? », appariements) et début du листок 27 (mesure des angles, horloges). Le листок 26 est la meilleure feuille de la plage : huit problèmes d'appariement, presque tous utilisables en 4e, et j'en ai laissé quatre de côté (задачи 4, 5, 6, 8) faute de place. Le листок 25 est riche mais répétitif : huit variations sur la même mise en équation, dont deux (задачи 7 et 8) mènent au second degré et sortent du collège. Le листок 24 est presque entièrement du tracé de droites et relève de la 3e ; seule la задача 2 méritait un import, plus la задача 7 (Celsius/Fahrenheit) qui tient en 4e. Deux coquilles repérées dans le manuel : листок 26 задача 3 a), la solution parle d'échanger 0 et 7 alors que la question porte sur 2 et 5 ; листок 26 задача 8, la dernière phrase de la solution contredit la réponse imprimée (c'est bien 2021 qui gagne). Deux solutions du manuel sont trop rapides et ont été refaites : листок 26 задача 3 b) (l'échange 0 <-> 7 abîme les nombres commençant par 7, il faut passer par les nombres qui ne contiennent pas le chiffre), et листок 23 задача 7 (la majoration se fait proprement en additionnant les trois inégalités, ce qui donne 3T >= 60). Rendu PDF : ne jamais écrire de nombre décimal à l'intérieur de $...$, pandoc transforme la virgule en espace fine et « 1,8 » devient « 1 8 ». Écrire les décimaux en texte, ou passer par une fraction. De même $\\circ$ ne passe pas : écrire le symbole ° directement, $105°$ fonctionne. Aucune puissance dans les énoncés retenus : vérifié page par page, à l'image, pour p. 51, 52, 56, 59, 61, 67, 68, 71 et 74 ; les seuls caractères en exposant de ces pages sont des symboles de degré. COLLISION À ARBITRER : le 0201 (листок 23, задача 7, les trois coureurs et la trottinette) est le même problème que le 0531, importé en parallèle depuis Kan2018.pdf, листок 6, задача 5, et placé en grade-09. Les deux imports sont indépendants et chacun cite correctement sa propre source ; le mien vise la 4e et démontre la majoration en additionnant les trois inégalités (3T >= 60), le 0531 vise la 3e. Je n'ai pas touché au 0531 et je n'ai pas mis adapted_from, qui serait faux : aucun des deux n'est la copie de l'autre. Si l'on ne veut en garder qu'un, le 0201 peut être remplacé par un des bons candidats laissés de côté ci-dessus (листок 26 задача 5 ou задача 8, листок 25 задача 3).",
+  "updated": "2026-09-18T22:48:38+02:00"
+}

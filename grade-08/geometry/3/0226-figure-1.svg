@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" width="300" height="240">
+<style>text{font-family:Georgia,"Times New Roman",serif;font-size:13px;fill:#000}.l{fill:none;stroke:#000;stroke-width:1.4}.b{fill:none;stroke:#000;stroke-width:1.2;stroke-dasharray:5 3}.a{fill:none;stroke:#000;stroke-width:0.9}</style>
+<path class="a" d="M 118.1,143.6 A 34 34 0 0 1 120.6,115.0"/>
+<line class="a" x1="120.1" y1="129.4" x2="112.1" y2="128.7"/>
+<path class="a" d="M 120.6,115.0 A 34 34 0 0 1 144.1,98.5"/>
+<line class="a" x1="132.8" y1="107.4" x2="128.2" y2="100.9"/>
+<path class="a" d="M 110.2,98.6 A 52 52 0 0 1 176.0,87.0"/>
+<line class="a" x1="143.3" y1="84.5" x2="142.2" y2="76.5"/><line class="a" x1="140.0" y1="85.0" x2="138.4" y2="77.2"/>
+<path class="a" d="M 176.0,87.0 A 52 52 0 0 1 198.9,149.8"/>
+<line class="a" x1="195.7" y1="117.2" x2="203.3" y2="114.7"/><line class="a" x1="194.5" y1="114.0" x2="201.9" y2="111.0"/>
+<line class="l" x1="150.0" y1="132.0" x2="50.4" y2="168.3"/>
+<line class="l" x1="150.0" y1="132.0" x2="68.8" y2="63.9"/>
+<line class="l" x1="150.0" y1="132.0" x2="131.6" y2="27.6"/>
+<line class="l" x1="150.0" y1="132.0" x2="249.6" y2="168.3"/>
+<line class="b" x1="150.0" y1="132.0" x2="70.3" y2="86.0"/>
+<line class="b" x1="150.0" y1="132.0" x2="196.0" y2="52.3"/>
+<circle cx="150.0" cy="132.0" r="2.6" fill="#000"/>
+<text x="37.2" y="173.0" text-anchor="middle" dominant-baseline="middle">A</text>
+<text x="58.1" y="54.9" text-anchor="middle" dominant-baseline="middle">B</text>
+<text x="129.2" y="13.8" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="262.8" y="173.0" text-anchor="middle" dominant-baseline="middle">D</text>
+<text x="58.2" y="79.0" text-anchor="middle" dominant-baseline="middle">K</text>
+<text x="203.0" y="40.2" text-anchor="middle" dominant-baseline="middle">L</text>
+<text x="147.0" y="148.0" text-anchor="middle">O</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" width="300" height="240">
+  <rect x="0" y="0" width="300" height="240" fill="#ffffff"/>
+  <g stroke="#000000" stroke-width="1.6" fill="none">
+    <path d="M 20.00 180.00 L 260.00 180.00 L 80.00 76.08 Z"/>
+    <path d="M 80.00 76.08 L 80.00 180.00"/>
+  </g>
+  <g stroke="#000000" stroke-width="1" fill="none">
+    <path d="M 74.50 85.60 L 84.03 91.10 L 89.53 81.58"/>
+    <path d="M 80 169 L 91 169 L 91 180"/>
+  </g>
+  <g fill="#000000">
+    <circle cx="20.00" cy="180.00" r="2.6"/>
+    <circle cx="260.00" cy="180.00" r="2.6"/>
+    <circle cx="80.00" cy="76.08" r="2.6"/>
+    <circle cx="80.00" cy="180.00" r="2.6"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#000000" text-anchor="middle">
+    <text x="13" y="196">A</text>
+    <text x="267" y="196">B</text>
+    <text x="73" y="60">C</text>
+    <text x="82" y="199">H</text>
+  </g>
+</svg>

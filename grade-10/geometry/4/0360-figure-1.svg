@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220" width="300" height="220">
+  <g fill="none" stroke="#000" stroke-width="1" stroke-linejoin="round">
+    <line x1="177.0" y1="105.0" x2="210.0" y2="105.0"/>
+    <line x1="177.0" y1="105.0" x2="210.0" y2="72.0"/>
+    <line x1="177.0" y1="105.0" x2="186.7" y2="48.7"/>
+    <line x1="177.0" y1="105.0" x2="154.1" y2="43.1"/>
+    <line x1="177.0" y1="105.0" x2="123.2" y2="54.5"/>
+    <line x1="177.0" y1="105.0" x2="100.6" y2="78.6"/>
+    <line x1="177.0" y1="105.0" x2="89.8" y2="109.8"/>
+    <line x1="177.0" y1="105.0" x2="91.6" y2="142.7"/>
+    <line x1="177.0" y1="105.0" x2="105.0" y2="172.9"/>
+    <line x1="177.0" y1="105.0" x2="127.6" y2="196.9"/>
+  </g>
+  <g fill="none" stroke="#000" stroke-width="1.6" stroke-linejoin="round">
+    <line x1="210.0" y1="105.0" x2="210.0" y2="72.0"/>
+    <line x1="210.0" y1="72.0" x2="186.7" y2="48.7"/>
+    <line x1="186.7" y1="48.7" x2="154.1" y2="43.1"/>
+    <line x1="154.1" y1="43.1" x2="123.2" y2="54.5"/>
+    <line x1="123.2" y1="54.5" x2="100.6" y2="78.6"/>
+    <line x1="100.6" y1="78.6" x2="89.8" y2="109.8"/>
+    <line x1="89.8" y1="109.8" x2="91.6" y2="142.7"/>
+    <line x1="91.6" y1="142.7" x2="105.0" y2="172.9"/>
+    <line x1="105.0" y1="172.9" x2="127.6" y2="196.9"/>
+  </g>
+  <g fill="#000">
+    <circle cx="210.0" cy="105.0" r="2.2"/>
+    <circle cx="210.0" cy="72.0" r="2.2"/>
+    <circle cx="186.7" cy="48.7" r="2.2"/>
+    <circle cx="154.1" cy="43.1" r="2.2"/>
+    <circle cx="123.2" cy="54.5" r="2.2"/>
+    <circle cx="100.6" cy="78.6" r="2.2"/>
+    <circle cx="89.8" cy="109.8" r="2.2"/>
+    <circle cx="91.6" cy="142.7" r="2.2"/>
+    <circle cx="105.0" cy="172.9" r="2.2"/>
+    <circle cx="127.6" cy="196.9" r="2.2"/>
+    <circle cx="177.0" cy="105.0" r="2.6"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#000" text-anchor="middle">
+    <text x="220.6" y="109.5">1</text>
+    <text x="217.5" y="69.0">&#8730;2</text>
+    <text x="188.5" y="42.8">&#8730;3</text>
+    <text x="150.5" y="37.7">&#8730;4</text>
+    <text x="115.5" y="51.8">&#8730;5</text>
+    <text x="90.6" y="79.6">&#8730;6</text>
+    <text x="79.3" y="114.8">&#8730;7</text>
+    <text x="82.0" y="151.5">&#8730;8</text>
+    <text x="97.3" y="184.6">&#8730;9</text>
+    <text x="122.6" y="210.7">&#8730;10</text>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#000" text-anchor="middle">
+    <text x="187.0" y="125.0">O</text>
+  </g>
+</svg>

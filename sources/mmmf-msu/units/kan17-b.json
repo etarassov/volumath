@@ -1,0 +1,82 @@
+{
+  "unit": "kan17-b",
+  "source": "mmmf-msu",
+  "title": "Kanounnikov, 8e classe russe, 1er semestre, 2",
+  "manual": "sources/originals/mmmf-msu/Kan2017.pdf",
+  "handouts": "sources/originals/mmmf-msu/Kan2017_handouts.pdf",
+  "pages": [
+    24,
+    46
+  ],
+  "target_grades": "9",
+  "id_block": [
+    "0451",
+    "0475"
+  ],
+  "status": "done",
+  "imported": [
+    {
+      "id": "0451",
+      "note": "grade-08 logic-reasoning d3 — листок 6, задача 1 — mathématiciens et philosophes (diagramme d'Euler)"
+    },
+    {
+      "id": "0452",
+      "note": "grade-08 geometry d3 — листок 7, задача 1 — rectangle 4x9 posé sur un carré 6x6, figure SVG"
+    },
+    {
+      "id": "0453",
+      "note": "grade-08 geometry d2 — листок 7, задача 5 — aires des triangles 5,5,6 et 5,5,8, figure SVG"
+    },
+    {
+      "id": "0454",
+      "note": "grade-09 arithmetic d4 — листок 6, задача 5 — carré 2017x2017 découpé, périmètre divisible par 4 (parité)"
+    },
+    {
+      "id": "0455",
+      "note": "grade-09 geometry d4 — листок 7, задача 6 — faux cas d'égalité (deux côtés + angle non compris), contre-exemple, figure SVG"
+    },
+    {
+      "id": "0456",
+      "note": "grade-09 logic-reasoning d5 — листок 8, задача 6 — carré 8x8 plié en 1x1 puis coupé : toujours 9 morceaux, figure SVG"
+    },
+    {
+      "id": "0457",
+      "note": "grade-09 logic-reasoning d3 — листок 9, задача 4 — amibes A/B/C, invariant de parité, réponse type B"
+    },
+    {
+      "id": "0458",
+      "note": "grade-09 arithmetic d3 — листок 9, задача 5 — dillers/dallers, invariant : d-l reste de la forme 11k+1"
+    },
+    {
+      "id": "0459",
+      "note": "grade-09 algebra d4 — листок 10, задача 3 — identité de Sophie Germain, n^4+4 jamais premier pour n>1"
+    },
+    {
+      "id": "0460",
+      "note": "grade-10 algebra d3 — листок 10, задача 2 — (x+1)^4=(x-3)^4, solution x=1 (le manuel imprime x=2, erreur)"
+    }
+  ],
+  "skipped": [
+    "листок 5 (Геометрия преображает алгебру), задачи 1-5 — feuille entièrement guidée par l'image : dans chaque problème, la figure EST la démonstration (sommes 1+3+5+..., somme des carrés par trois triangles tournés, somme des cubes, points des « hexes »). Figures trop lourdes à redessiner proprement en SVG, et le contenu (suites arithmétiques) relève du cours français plutôt que du club.",
+    "листок 6, задача 2 (découper un triangle acutangle en trois trapèzes) — bon problème mais très court ; écarté faute de place dans le bloc de dix.",
+    "листок 6, задача 3 (tours sur deux échiquiers en croix) — les deux plateaux n'existent que sous forme de dessin irrégulier, impossible à citer fidèlement sans le redessiner.",
+    "листок 6, задача 4 (Macha et Pacha, vitesses opposées puis poursuite) — bon problème de vitesse relative, grade-08 d3 ; écarté seulement faute de place. Bon candidat pour un complément.",
+    "листок 6, задача 6 (vers de terre qui repoussent) — la solution passe par un raisonnement avec un epsilon arbitrairement petit et une somme 1+2+4+...+2^8 ; au-dessus du niveau visé et difficile à rédiger rigoureusement pour un club.",
+    "листок 7, задача 2 (compter les carrés d'une grille 3x3 puis ceux de sommets dans un réseau 4x4 de points) — bon problème, deux figures nécessaires ; écarté faute de place.",
+    "листок 7, задача 3 (découper une figure donnée pour en faire un carré) — la figure de départ n'existe que sous forme de dessin ; recouvre en outre la задача 4.",
+    "листок 7, задача 4 (dessiner sur papier quadrillé un carré d'aire 2 puis 5) — trop mince seul, et fait double emploi avec la задача 2b.",
+    "листок 8, задачи 1, 2, 5 (dedans ou dehors : parité des traversées d'une ligne brisée fermée) — belle idée mais chaque énoncé repose sur une carte ou un labyrinthe très fouillé, impossible à redessiner fidèlement.",
+    "листок 8, задача 3 (parking 7x7, placer 28 voitures) — demande un schéma, et le manuel précise que le jury ignore lui-même le maximum : problème ouvert, pas un exercice.",
+    "листок 8, задача 4 (reconstituer des petits bateaux sur réseau triangulaire sous un « mouchoir ») — figure complexe indispensable.",
+    "листок 8, задача 7 (nappe 6x6 tachée, nombre minimal de pliages) — le motif des cases tachées n'existe que dans la figure ; de plus le manuel écrit « 26 quadrillages » là où il faut lire 36, ce qui rend la solution imprimée confuse.",
+    "листок 9, задача 1 (fraction 537/463 ramenée à 1/9 : la somme numérateur+dénominateur vaut toujours 1000) — joli et facile, grade-08 d2 ; écarté faute de place.",
+    "листок 9, задача 2 (16 verres, en retourner quatre à la fois) et задача 3 (six nombres, ajouter 1 à deux d'entre eux) — deux invariants de parité classiques, qui font double emploi avec l'exercice 0457 déjà retenu.",
+    "листок 9, задача 6 (transvasements eau / solution salée à 50 %) — demande un semi-invariant avec des inégalités sur les concentrations ; le manuel note lui-même que cela met en difficulté jusqu'aux enseignants. Au-dessus du niveau visé.",
+    "листок 10, задача 1 (a = b+1, peut-on avoir a^100 = b^100 ?) — bon problème grade-10 ; écarté faute de place. Réponse : oui, a = 1/2 et b = -1/2.",
+    "листок 10, задача 4 (1+2+2^2+...+2^63 comparé à 2^64, puis le produit (2+1)(2^2+1)...(2^32+1)) — excellent, les deux valent 2^64 - 1 ; écarté uniquement faute de place. Meilleur candidat pour un complément.",
+    "листок 10, задача 5 (factoriser x^4+1, x^4+x^3+x^2+x+1, x^6+x^3+1) — seul le a) est accessible ; le b) demande la substitution y = x + 1/x et le c) fait intervenir cos(2pi/9). Le manuel marque lui-même b) et c) d'une et deux étoiles et qualifie le c) de « pour plus tard ».",
+    "листок 10, задача 6 (nombres 1, 1/2, ..., 1/100 ; effacer a et b, écrire ab+a+b ; que reste-t-il ?) — excellent invariant, (a+1)(b+1) - 1, réponse 100 ; écarté uniquement faute de place. Deuxième meilleur candidat pour un complément."
+  ],
+  "notes": "Ids utilisés : 0451 à 0460. Ids 0461 à 0475 non utilisés.\n\nNUMÉROTATION. Le manuel dit « листок » (et non « занятие ») : les source.reference sont donc de la forme « Kan2017.pdf, листок 9, задача 4 ». Attention, le livret élève n'a PAS la même numérotation que le manuel : il saute le листок 4 du manuel (finales d'échecs) et le листок 8 (énigmes sur quadrillage), si bien qu'à partir du листок 5 le livret est en retard d'un numéro (листок 5 du manuel = листок 4 du livret), et que le листок 8 du manuel n'a aucun équivalent dans le livret. Toujours citer la numérotation du manuel.\n\nEXTRACTION DU PDF. pymupdf et pypdf perdent silencieusement tous les exposants : n^4+4 ressort en « n4 + 4 », 2^64 en « 264 », 2017^2 en « 20172 ». Chacun des dix exercices ci-dessous a été revérifié en rendant la page en image (pymupdf get_pixmap) et en la lisant à l'œil.\n\nERREUR DU MANUEL. листок 10, задача 2 : le manuel imprime x = 2 comme solution de (x+1)^4 = (x-3)^4. C'est faux, la solution est x = 1 (2^4 = (-2)^4 = 16 ; avec x = 2 on aurait 81 = 1). L'exercice 0460 donne x = 1 et n'a pas repris l'erreur.\nCOQUILLE DU MANUEL. листок 8, задача 7 : la solution parle d'une nappe de 26 carrés, alors que l'énoncé et la figure en montrent 36.\n\nOUTILS. pdftoppm/pdftotext absents de cette machine, mais pymupdf, pandoc, typst et rsvg-convert sont là : rsvg-convert permet de relire ses propres SVG en image avant de les livrer. Le dossier scratchpad est PARTAGÉ entre agents parallèles : un fichier nommé p29.png ou fig1.png se fait écraser en cours de route et on finit par lire la page d'un autre. Toujours préfixer ses fichiers temporaires.\n\nCE QU'IL RESTE DE BON dans ces pages, si l'on veut compléter plus tard : листок 10 задача 4 (1+2+...+2^63 et le produit (2+1)(2^2+1)...(2^32+1), qui valent tous deux 2^64 - 1) et листок 10 задача 6 (opération ab+a+b sur 1, 1/2, ..., 1/100, réponse 100) sont les deux meilleurs ; puis листок 6 задача 4 (Macha et Pacha) et листок 9 задача 1 (fraction 537/463). En revanche les листки 5 et 8 sont presque entièrement pilotés par l'image : la figure y est la démonstration, il n'y a quasiment rien à en tirer sans redessiner des dessins compliqués.",
+  "updated": "2026-09-18T22:58:05+02:00"
+}

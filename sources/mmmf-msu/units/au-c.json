@@ -1,0 +1,208 @@
+{
+  "unit": "au-c",
+  "source": "mmmf-msu",
+  "title": "Astachov et Oudimov, 8e-9e classes russes, 1er semestre, 3",
+  "manual": "sources/originals/mmmf-msu/AU.pdf",
+  "handouts": "sources/originals/mmmf-msu/AU_handouts.pdf",
+  "pages": [
+    47,
+    69
+  ],
+  "target_grades": "9-10",
+  "id_block": [
+    "0301",
+    "0325"
+  ],
+  "status": "done",
+  "imported": [
+    {
+      "id": "0301",
+      "ref": "листок 8, задача 2",
+      "grade": 9,
+      "theme": "arithmetic",
+      "difficulty": 3,
+      "title": "Un produit sans aucun zéro"
+    },
+    {
+      "id": "0302",
+      "ref": "листок 8, задача 8",
+      "grade": 9,
+      "theme": "arithmetic",
+      "difficulty": 4,
+      "title": "Le plus grand diviseur vaut 55"
+    },
+    {
+      "id": "0303",
+      "ref": "листок 8, задача 9",
+      "grade": 10,
+      "theme": "arithmetic",
+      "difficulty": 4,
+      "title": "Carrés parfaits et nombre de diviseurs"
+    },
+    {
+      "id": "0304",
+      "ref": "листок 9, задача 2",
+      "grade": 9,
+      "theme": "arithmetic",
+      "difficulty": 3,
+      "title": "Le réservoir et les trois bidons"
+    },
+    {
+      "id": "0305",
+      "ref": "листок 9, задача 3",
+      "grade": 9,
+      "theme": "arithmetic",
+      "difficulty": 3,
+      "title": "L'horloge coloriée"
+    },
+    {
+      "id": "0306",
+      "ref": "листок 9, задача 6",
+      "grade": 10,
+      "theme": "arithmetic",
+      "difficulty": 5,
+      "title": "Dix entiers consécutifs"
+    },
+    {
+      "id": "0307",
+      "ref": "листок 10, задача 7",
+      "grade": 9,
+      "theme": "arithmetic",
+      "difficulty": 4,
+      "title": "Du rectangle au carré",
+      "figure": "0307-figure-1.svg"
+    },
+    {
+      "id": "0308",
+      "ref": "листок 10, задача 6",
+      "grade": 10,
+      "theme": "arithmetic",
+      "difficulty": 4,
+      "title": "Sommes et différences au tableau"
+    },
+    {
+      "id": "0309",
+      "ref": "листок 11, задача 5",
+      "grade": 9,
+      "theme": "logic-reasoning",
+      "difficulty": 3,
+      "title": "Les pièces sur la table ronde"
+    },
+    {
+      "id": "0310",
+      "ref": "листок 11, задача 3",
+      "grade": 9,
+      "theme": "logic-reasoning",
+      "difficulty": 3,
+      "title": "La tablette de chocolat"
+    }
+  ],
+  "skipped": [
+    {
+      "ref": "листок 8, задача 1",
+      "reason": "Exercice d'application directe du test de primalité, une seule étape. Trop mécanique pour un club."
+    },
+    {
+      "ref": "листок 8, задача 3",
+      "reason": "Le a) est immédiat ; le b) repose sur la même idée que 0301 (facteurs 2 et 5) et 0303 (exposants pairs). Redondant avec ce qui est importé."
+    },
+    {
+      "ref": "листок 8, задача 4",
+      "reason": "Bon problème (nombre multiplié par le produit de ses chiffres = 1533 / 366), mais non retenu faute de place dans les dix. Candidat solide pour une session ultérieure."
+    },
+    {
+      "ref": "листок 8, задача 5",
+      "reason": "Établit la formule du nombre de diviseurs de p^a q^b r^c. Contenu de cours dans le manuel, mais c'est un vrai raisonnement pour un élève français, qui ne voit pas cette formule. Candidat solide, à importer avec la задача 7 qui en dépend."
+    },
+    {
+      "ref": "листок 8, задача 6",
+      "reason": "Exemple d'un nombre à 2014 diviseurs : ne tient pas debout sans la задача 5, dont elle est une simple application."
+    },
+    {
+      "ref": "листок 8, задача 7",
+      "reason": "Très bon problème (2n a 15 diviseurs, combien n peut-il en avoir ?), mais il faut la formule de la задача 5. À importer en paire avec elle."
+    },
+    {
+      "ref": "листок 8, задача 10",
+      "reason": "Carré multiplié par un cube : même idée d'exposants dans la décomposition que la задача 3b, déjà écartée."
+    },
+    {
+      "ref": "листок 8, задача 11",
+      "reason": "Très joli (barrer une factorielle dans 1!·2!·...·100! pour obtenir un carré), niveau 5 en seconde. Écarté par manque de place, excellent candidat pour une session ultérieure."
+    },
+    {
+      "ref": "листок 9, задача 1",
+      "reason": "Calculs de PGCD et PPCM, application directe."
+    },
+    {
+      "ref": "листок 9, задача 4",
+      "reason": "Bon problème (15a = 14b avec PGCD 13 ; puis 56a = 65b implique a+b composé). Non retenu faute de place, candidat pour une session ultérieure."
+    },
+    {
+      "ref": "листок 9, задача 5",
+      "reason": "Démonstration des formules PGCD/PPCM par les décompositions. Le manuel lui-même indique de la traiter au tableau : c'est du cours, pas un exercice autonome."
+    },
+    {
+      "ref": "листок 9, задача 7",
+      "reason": "Combien de paires ont pour PPCM 2000 ? Bon problème de dénombrement, non retenu faute de place. Candidat pour une session ultérieure."
+    },
+    {
+      "ref": "листок 10, задачи 1 et 2",
+      "reason": "Démonstration de PGCD(a,b) = PGCD(a−b,b) et du pas de l'algorithme d'Euclide. C'est le cours du листок ; ces deux démonstrations sont intégrées aux solutions de 0307 et 0308."
+    },
+    {
+      "ref": "листок 10, задача 3",
+      "reason": "Trois calculs de PGCD par l'algorithme d'Euclide, application directe."
+    },
+    {
+      "ref": "листок 10, задача 4",
+      "reason": "Simplification de 5840383/34173679. C'est le même algorithme appliqué à de très grands nombres : du calcul, pas une idée."
+    },
+    {
+      "ref": "листок 10, задача 5",
+      "reason": "PGCD(n, n+1), PGCD(2n, 2n+2), etc. : application immédiate une fois la задача 1 connue."
+    },
+    {
+      "ref": "листок 10, задача 8",
+      "reason": "PGCD(10^7−1, 10^5−1) et PGCD(a^m−1, a^n−1). Magnifique, mais la factorisation a^m − a^n = a^n(a^{m−n} − 1) menée dans un algorithme d'Euclide sur les exposants dépasse la seconde. À revoir pour la première."
+    },
+    {
+      "ref": "листок 10, задача 9",
+      "reason": "PGCD(5a+3b, 13a+8b) = PGCD(a,b). Bon exercice, mais placé en « Pour aller plus loin » de 0308 plutôt qu'importé séparément."
+    },
+    {
+      "ref": "листок 11, задача 1",
+      "reason": "100 uns et des signes + ou − : même invariant de parité que 0310, en plus faible."
+    },
+    {
+      "ref": "листок 11, задача 2",
+      "reason": "Dix 1 et dix 2 effacés deux par deux : bel invariant (parité de la somme), de la même famille que 0310. Bon candidat pour une session ultérieure si l'on veut un deuxième jeu-blague."
+    },
+    {
+      "ref": "листок 11, задача 4",
+      "reason": "Ostap Bender jouant deux parties d'échecs simultanées. Repose sur un personnage de la littérature russe, et l'énoncé demande « comment a-t-il fait » plutôt qu'une question à réponse vérifiable. La même idée de recopiage est déjà dans 0309."
+    },
+    {
+      "ref": "листок 11, задача 6",
+      "reason": "Deux tas de 20 et 30 allumettes : la solution renvoie explicitement au jeu traité au tableau en début de séance (deux tas égaux), donc l'exercice ne tient pas debout tout seul. Même symétrie que 0309."
+    },
+    {
+      "ref": "листок 11, задача 7",
+      "reason": "Damier 7×7, stratégie par symétrie centrale. Bon problème, mais l'idée est exactement celle de 0309, déjà importé."
+    },
+    {
+      "ref": "листок 11, задача 8",
+      "reason": "50 cailloux, on en ajoute de 1 à 9, celui qui atteint 200 gagne. Stratégie « compléter à 10 », idée différente de celles importées. Bon candidat pour une session ultérieure."
+    },
+    {
+      "ref": "листок 11, задача 9",
+      "reason": "Deux enseignantes « mangent » 40 élèves. Même idée que la задача 8, et l'habillage ne passe pas sur une feuille distribuée à des enfants."
+    },
+    {
+      "ref": "листок 11, задача 10",
+      "reason": "Jeu de Bachet en quatre parties. Même stratégie de complément que la задача 8, mais découpé en quatre questions qui se répètent."
+    }
+  ],
+  "notes": "Pages 47 à 69 = листки 8 (nombres premiers et diviseurs), 9 (PGCD et PPCM), 10 (algorithme d'Euclide) et 11 (jeux mathématiques, stratégies explicites). Le manuel est un pdf texte : pypdf suffit pour l'extraire, pdftoppm/pdftotext ne sont pas installés sur cette machine, donc l'outil Read ne sait pas ouvrir ces pdf. Les handouts (pages 10 à 14) donnent les mêmes énoncés, en plus courts. Les trois листки d'arithmétique sont excellents et fournissent bien plus que dix exercices : les candidats les plus forts laissés de côté sont листок 8 задачи 5+7 (formule du nombre de diviseurs, à importer ensemble), листок 8 задача 11 (barrer une factorielle), листок 9 задачи 4 et 7, листок 11 задачи 2 et 8. Attention : листок 10 задачи 1 et 2 sont du cours ; leurs démonstrations sont déjà écrites dans les solutions de 0307 et 0308, il ne faut donc pas les réimporter telles quelles. Le листок 11 est riche mais répétitif : trois idées seulement (invariant de comptage, symétrie, complément à une constante), déclinées sur dix énoncés. Deux exercices suffisent à les représenter, un troisième pourrait couvrir le complément à une constante (задача 8). Ids utilisés : 0301 à 0310. Il reste 0311 à 0325 libres dans ce bloc. VÉRIFICATION DES EXPOSANTS (faite après coup) : l'extraction de texte aplatit bien les exposants (2^6·5^5 sort en « 26· 55 »). Comme pdftoppm n'est pas installé, le rendu visuel est impossible ; je les ai donc contrôlés par la géométrie des glyphes, avec pypdf et le rappel visitor_text, qui donne pour chaque fragment sa ligne de base (tm[5]) et sa taille de police : un fragment plus petit (8 pt contre 12 pt) et surélevé de 4,3 pt est un exposant. Résultat : un seul des dix exercices contient des puissances venant de la source, le 0301, et la page 48 dit bien 200000 = 2·10^5 = 2·2^5·5^5 = 2^6·5^5 = 64·3125, ce qui correspond au fichier. Les neuf autres énoncés et solutions ne contiennent aucun exposant ; les « 2/3 » et « 3/4 » du листок 9 задача 2 sont des fractions (numérateur surélevé, dénominateur abaissé), pas des puissances, et le « 1913-й час » du листок 9 задача 3 est bien le nombre 1913 et non 19^13. Piège repéré au passage : la solution du листок 11 задача 5 (table ronde) écrit « симметрично ходам первого » là où il faut lire « второго » ; c'est une coquille du manuel, corrigée dans 0309.",
+  "updated": "2026-09-18T22:42:29+02:00"
+}

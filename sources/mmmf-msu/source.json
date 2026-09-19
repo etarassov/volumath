@@ -1,0 +1,13 @@
+{
+  "source": "mmmf-msu",
+  "name": "Малый мехмат МГУ — школе",
+  "name_fr": "Petit Mekhmat de l'Université d'État de Moscou, matériel pour les clubs de maths",
+  "url": "https://mmmf.msu.ru/for_schools/",
+  "language": "ru",
+  "kind": "Méthodes pour clubs de mathématiques, publiées par la faculté de mathématiques et mécanique de l'Université d'État de Moscou, avec le soutien du département de l'éducation de la ville de Moscou.",
+  "structure": "Chaque développement comporte un livret d'énoncés pour les élèves (_handouts.pdf) et un manuel pour l'enseignant (.pdf) qui contient les solutions et des commentaires pédagogiques.",
+  "citation": "Малый мехмат МГУ, https://mmmf.msu.ru/for_schools/",
+  "note_levels": "Les classes russes ne correspondent pas aux classes françaises. Classe russe N ≈ dossier grade-(N+1). Le site précise lui-même que la correspondance avec les classes est « en grande partie conventionnelle ». Le niveau français se décide d'après les mathématiques utilisées.",
+  "coverage": "Le matériel s'arrête vers la seconde. Rien pour la première ni la terminale.",
+  "downloaded": "2026-09-18"
+}

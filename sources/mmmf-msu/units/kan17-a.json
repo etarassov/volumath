@@ -1,0 +1,171 @@
+{
+  "unit": "kan17-a",
+  "source": "mmmf-msu",
+  "title": "Kanounnikov, 8e classe russe, 1er semestre, 1",
+  "manual": "sources/originals/mmmf-msu/Kan2017.pdf",
+  "handouts": "sources/originals/mmmf-msu/Kan2017_handouts.pdf",
+  "pages": [
+    1,
+    23
+  ],
+  "target_grades": "9",
+  "id_block": [
+    "0426",
+    "0450"
+  ],
+  "status": "done",
+  "imported": [
+    {
+      "id": "0426",
+      "ref": "листок 1, задача 1",
+      "grade": 8,
+      "theme": "logic-reasoning",
+      "difficulty": 2,
+      "title": "L'âge de Théo"
+    },
+    {
+      "id": "0427",
+      "ref": "листок 1, задача 5",
+      "grade": 9,
+      "theme": "logic-reasoning",
+      "difficulty": 3,
+      "title": "Quatre cartes à retourner"
+    },
+    {
+      "id": "0428",
+      "ref": "листок 3, задача 1",
+      "grade": 9,
+      "theme": "combinatorics",
+      "difficulty": 3,
+      "title": "Deux fois dans la même rangée"
+    },
+    {
+      "id": "0429",
+      "ref": "листок 3, задача 3",
+      "grade": 9,
+      "theme": "geometry",
+      "difficulty": 3,
+      "title": "Cinq nœuds du quadrillage"
+    },
+    {
+      "id": "0430",
+      "ref": "листок 1, задача 4",
+      "grade": 9,
+      "theme": "arithmetic",
+      "difficulty": 4,
+      "title": "Cinq nombres, une somme divisible par 3"
+    },
+    {
+      "id": "0431",
+      "ref": "листок 1, задача 6",
+      "grade": 9,
+      "theme": "logic-reasoning",
+      "difficulty": 4,
+      "title": "Cinq pêcheurs et neuf poissons"
+    },
+    {
+      "id": "0432",
+      "ref": "листок 1, задача 3",
+      "grade": 9,
+      "theme": "logic-reasoning",
+      "difficulty": 4,
+      "title": "Chevaliers et menteurs"
+    },
+    {
+      "id": "0433",
+      "ref": "листок 2, задача 5",
+      "grade": 9,
+      "theme": "geometry",
+      "difficulty": 4,
+      "title": "Deux chèvres dans un pré triangulaire"
+    },
+    {
+      "id": "0434",
+      "ref": "листок 4, задача 2",
+      "grade": 9,
+      "theme": "logic-reasoning",
+      "difficulty": 4,
+      "title": "Le jeu de l'horloge"
+    },
+    {
+      "id": "0435",
+      "ref": "листок 3, задача 2",
+      "grade": 10,
+      "theme": "arithmetic",
+      "difficulty": 4,
+      "title": "Une différence de carrés divisible par 100"
+    }
+  ],
+  "skipped": [
+    {
+      "ref": "листок 1, задача 2",
+      "reason": "Produit de deux entiers par leur somme toujours pair. Doublon avec l'exercice 0001 deja dans la base (parite de n^2+n) : meme factorisation, meme disjonction de cas."
+    },
+    {
+      "ref": "листок 2, задача 1",
+      "reason": "Separer les chevres des choux par trois droites. Tout l'enonce est dans le dessin d'origine, impossible a restituer fidelement."
+    },
+    {
+      "ref": "листок 2, задача 2",
+      "reason": "Corde coulissant sur une corde tendue entre deux piquets. La reponse est une region a dessiner, et la problematique ne sert surtout que de brique pour la задача 4."
+    },
+    {
+      "ref": "листок 2, задача 3",
+      "reason": "Chevre en laisse de 1 m autour d'un rectangle 5 m x 3 m. Joli, mais la reponse est entierement un dessin (bande arrondie plus rectangle interieur inaccessible) et elle s'appuie sur la задача 2. A reprendre si un jour on accepte des figures plus lourdes."
+    },
+    {
+      "ref": "листок 2, задача 4",
+      "reason": "Retenir une chevre dans un demi-disque, un rectangle, un triangle. Ne tient pas debout sans la construction de la задача 2."
+    },
+    {
+      "ref": "листок 2, задача 6",
+      "reason": "Jardiniers aux noeuds du quadrillage, chaque fleur soignee par les trois plus proches. La reponse est une region grise compliquee, difficile a dessiner proprement et a enoncer sans ambiguite."
+    },
+    {
+      "ref": "листок 2, задача 7",
+      "reason": "Fermier, triangles de 50 m, cloisons de longueur minimale. La disposition des chevres et des choux n'existe que sur l'image, l'enonce est irrecuperable en texte."
+    },
+    {
+      "ref": "листок 3, задача 4",
+      "reason": "Photographe et 20 oiseaux (8, 7, 5), combien de cliches pour garantir 5 d'une espece et 3 d'une autre. Bon probleme, ecarte seulement faute de place (10 exercices au maximum). A importer plus tard."
+    },
+    {
+      "ref": "листок 3, задача 5",
+      "reason": "Ecrire un multiple de 1234567 avec des 1 seulement. Tres joli, mais l'etape finale (supprimer les zeros) demande le theoreme de Gauss ou l'unicite de la decomposition en facteurs premiers, hors de portee jusqu'en seconde en France."
+    },
+    {
+      "ref": "листок 3, задача 6",
+      "reason": "Neuf chaussettes, contraintes sur quatre et sur cinq d'entre elles. Bon probleme de 4e, ecarte faute de place. A importer plus tard (attention : la solution du manuel ecrit «au plus trois enfants» la ou il faut lire «au moins trois»)."
+    },
+    {
+      "ref": "листок 3, задача 7",
+      "reason": "Route de 1 km, lampadaires eclairant 1 m, aucun ne pouvant etre eteint : maximum 1997. La preuve du maximum et la construction avec des fractions comme 999/1997 sont trop delicates a rediger honnetement a notre niveau."
+    },
+    {
+      "ref": "листок 3, задача 8",
+      "reason": "Tapis 10 m x 10 m, 80 trous, decouper un carre de 1 m sans trou (deux versions). Excellent, ecarte faute de place. A importer plus tard, plutot en 3e difficulte 4."
+    },
+    {
+      "ref": "листок 4, задача 1",
+      "reason": "Decagone et dodecagone, segments sans point commun, strategie de symetrie. Demanderait une figure et un enonce tres precis sur l'interdiction de partager meme une extremite ; le rapport longueur d'enonce sur idee est mauvais."
+    },
+    {
+      "ref": "листок 4, задача 3",
+      "reason": "Dame puis cavalier sur un echiquier, deplacements interdits vers la gauche et vers le bas. Suppose de connaitre les regles des echecs, et la reponse est un tableau 8x8 de positions gagnantes et perdantes."
+    },
+    {
+      "ref": "листок 4, задача 4",
+      "reason": "Jeu de Wythoff avec des tas de 8 et 9 cailloux. Bon probleme autonome, ecarte faute de place et parce que 0434 couvre deja l'analyse retrograde des positions. A importer plus tard."
+    },
+    {
+      "ref": "листок 4, задача 5",
+      "reason": "Jeton sur les noeuds d'un hexagone decoupe en triangles, strategie d'appariement. Le graphe du jeu n'existe que sur l'image."
+    },
+    {
+      "ref": "листок 4, задача 6",
+      "reason": "Trois positions d'echecs a gagner avec les blancs. Ce sont des echecs, pas des mathematiques utilisables en club."
+    }
+  ],
+  "notes": "Pages 1 a 23 = preface (p. 4-6) puis листки 1 a 4 : Логика (6 problemes), Козы (7), Принцип Дирихле (8), Что наша жизнь? Игра! (6), soit 27 problemes en tout. 10 importes, 17 ecartes. Le manuel numerote ses seances «Листок N», jamais «занятие» : les references disent donc «листок N, задача K». Ce листок 2 (Козы) est presque entierement pilote par ses dessins : seule la задача 5 tient debout en texte seul. Le листок 4 melange de vraies belles questions de strategie et deux problemes d'echecs inutilisables. Quatre bons problemes ont ete laisses uniquement par manque de place et meritent un passage ulterieur, avec un bloc d'ids neuf : листок 3 задачи 4 (oiseaux), 6 (chaussettes), 8 (tapis troue) et листок 4 задача 4 (jeu de Wythoff). Deux ecarts assumes avec le manuel : dans 0433, le manuel ne traite que le cas ou le pied de la hauteur tombe dans le cote, j'ai ajoute le cas du triangle obtus ; dans 0429, j'ai remplace l'argument en deux temps du manuel par les quatre classes de parite, plus court et plus clair. Dans 0431, la majoration par (a1+a2) + a3 + a4 + a5 evite entierement le calcul avec delta du manuel. Extraction : pdftoppm n'est pas installe sur cette machine, mais PyMuPDF (import pymupdf) lit le texte et rasterise les pages, ce qui permet de relire une page a l'oeil quand le texte extrait est douteux. Sur ces pages-ci il n'y a de toute facon quasiment aucun exposant, le seul etant a^2 - b^2 dans la solution de листок 3 задача 2 (verifie visuellement).",
+  "updated": "2026-09-18T22:44:50"
+}

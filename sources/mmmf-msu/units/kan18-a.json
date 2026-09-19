@@ -1,0 +1,99 @@
+{
+  "unit": "kan18-a",
+  "source": "mmmf-msu",
+  "title": "Kanounnikov, 8e classe russe, 2e semestre, 1",
+  "manual": "sources/originals/mmmf-msu/Kan2018.pdf",
+  "handouts": "sources/originals/mmmf-msu/Kan2018_handouts.pdf",
+  "pages": [
+    1,
+    21
+  ],
+  "target_grades": "9",
+  "id_block": [
+    "0501",
+    "0525"
+  ],
+  "status": "done",
+  "imported": [
+    {
+      "id": "0501",
+      "note": "листок 1, задача 1 — comparaison de fractions, grade-09 algebra 3"
+    },
+    {
+      "id": "0502",
+      "note": "листок 1, задача 2 — 11...1 moins 22...2 est un carré parfait, grade-09 arithmetic 4"
+    },
+    {
+      "id": "0503",
+      "note": "листок 1, задача 3 — simplification interdite ab/bc = a/c, grade-10 arithmetic 4"
+    },
+    {
+      "id": "0504",
+      "note": "листок 2, задача 2 — tapis/balai volant, un des deux reseaux est connexe, grade-09 logic-reasoning 4"
+    },
+    {
+      "id": "0505",
+      "note": "листок 3, задача 1 — damier 6x6 ampute de 2 coins, dominos, grade-08 logic-reasoning 3"
+    },
+    {
+      "id": "0506",
+      "note": "листок 3, задача 2 «Переполох» — coccinelles sur carre 5x5, grade-08 logic-reasoning 3"
+    },
+    {
+      "id": "0507",
+      "note": "листок 3, задача 3 «Путешествие коня» — cavalier a1 vers h8, grade-09 logic-reasoning 3"
+    },
+    {
+      "id": "0508",
+      "note": "листок 3, задача 4 — damier 10x10 et bandes 1x4, coloriage par blocs 2x2, grade-09 logic-reasoning 4"
+    },
+    {
+      "id": "0509",
+      "note": "листок 3, задача 6 — 11 bandes 1x3 et 1 coin sur damier 6x6, coloriage en 3 chiffres, grade-09 logic-reasoning 4"
+    },
+    {
+      "id": "0510",
+      "note": "листок 4, задача 2 — 15 dominos horizontaux + 17 verticaux sur 8x8, coloriage en bandes, grade-09 logic-reasoning 4"
+    }
+  ],
+  "skipped": [
+    {
+      "ref": "листок 2, задача 1",
+      "reason": "Cent villes, nombre minimal de lignes aeriennes. La minoration repose sur le lemme des arbres construit tout au long de la seance, et la condition « au plus deux escales » ne contraint rien (l'etoile la verifie deja). Ne tient pas debout seule."
+    },
+    {
+      "ref": "листок 2, задача 3",
+      "reason": "Fermer une station de metro en gardant le reseau connexe. Demande arbre couvrant + sommet pendant : theorie des graphes construite pendant la seance, hors programme francais."
+    },
+    {
+      "ref": "листок 2, задача 4",
+      "reason": "Filet de volley 50x600, nombre maximal de ficelles coupees. Repose sur « aretes = sommets - 1 dans un arbre », etabli par la задача 1 de la meme seance."
+    },
+    {
+      "ref": "листок 2, задача 5",
+      "reason": "Hydre a cent cous. Somme des degres + optimisation sur la structure du graphe, tres au-dessus du lycee."
+    },
+    {
+      "ref": "листок 3, задача 5",
+      "reason": "Triangle decoupe en 25 triangles, trajet du scarabee (reponse 21). La majoration est un joli coloriage, mais la reponse complete exige aussi un trajet explicite de 21 triangles, difficile a rendre lisible en noir et blanc. Bon candidat pour plus tard : un trajet valide existe (8 triangles sur la rangee du bas, puis 6, puis 4, puis 3)."
+    },
+    {
+      "ref": "листок 4, задача 1",
+      "reason": "Carte a jouer que l'on fait basculer sur la table. Demande de definir proprement « l'orientation » de la carte et deux coloriages differents ; enonce ecrit trop lourd."
+    },
+    {
+      "ref": "листок 4, задача 3",
+      "reason": "Cube de fromage 3x3x3 sans le cube central, la souris. Tres bon probleme (coloriage en echiquier a trois dimensions), ecarte seulement par la limite de dix exercices. A reprendre en priorite."
+    },
+    {
+      "ref": "листок 4, задача 4",
+      "reason": "2000 cases marquees, en choisir 500 sans contact. Coloriage en quatre couleurs + principe des tiroirs, theme combinatorics. Ecarte seulement par la limite de dix exercices. A reprendre."
+    },
+    {
+      "ref": "листок 4, задача 5",
+      "reason": "Bataille navale, 21 bateaux de trois cases sur 8x8, une case manquee. Coloriage en trois couleurs plus un argument de symetrie, deux figures, difficulte 5 : trop long pour cette serie."
+    }
+  ],
+  "notes": "Pages 1-21 = preface (p. 1-6, aucun probleme) puis листки 1 a 4, soit 19 problemes : листок 1 « Буквы помогают » (3), листок 2 « Связные графы » (5), листок 3 « Раскраски » (6), листок 4 « Раскраски-2 » (5). 10 importes, 9 ecartes.\n\nPIEGE DE NUMEROTATION, листок 2 : dans « Ответы и комментарии » les solutions ne suivent pas l'ordre des enonces. La solution 2 resout le probleme 3 (metro), la solution 3 resout le probleme 4 (filet de volley), la solution 4 resout le probleme 2 (tapis/balai). Toujours verifier de quel enonce parle une solution avant de la reprendre.\n\nEXTRACTION DE TEXTE : pypdf et pymupdf suppriment silencieusement les exposants. Pages 7, 8 et 17 relues visuellement. Dans cette plage les seules puissances sont 3^2, 33^2, 111^2 et 333^2 (листок 1, задача 2, p. 7-8). Attention au piege inverse : dans листок 1, задача 1, « 20182017/20172018 » est bien une fraction de deux nombres a huit chiffres, PAS 2018^2017/2017^2018 (verifie a l ecran, et confirme par la solution qui parle d ajouter 1 au numerateur et au denominateur).\n\nLe manuel appelle une seance « листок » (Листок 1. Буквы помогают, etc.) : c est le mot utilise dans tous les source.reference.\n\nLes листки 3 et 4 sont entierement consacres aux coloriages, d ou six exercices logic-reasoning tres proches par la methode mais distincts par le coloriage employe : echiquier ordinaire (0505, 0506, 0507), echiquier a l echelle des blocs 2x2 (0508), trois chiffres 1-2-3 (0509), bandes horizontales (0510).\n\nRESTE A PRENDRE en priorite, si quelqu un reprend cette plage : листок 4 задача 3 (fromage 3x3x3 sans le cube central) et листок 4 задача 4 (2000 cases, en choisir 500 sans contact, coloriage en 4 couleurs + tiroirs, theme combinatorics). Tous deux ecartes uniquement a cause de la limite de dix exercices.\n\nLe repertoire scratchpad est partage entre les agents paralleles : donner un nom unique a tout script auxiliaire (un helper generique nomme unit.py a ete ecrase en cours de route par un autre agent).",
+  "updated": "2026-09-18T22:52:27+02:00"
+}

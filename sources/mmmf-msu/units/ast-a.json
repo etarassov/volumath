@@ -1,0 +1,65 @@
+{
+  "unit": "ast-a",
+  "source": "mmmf-msu",
+  "title": "Astachov et al., 7e classe russe, 1re partie, début",
+  "manual": "sources/originals/mmmf-msu/Ast2017.pdf",
+  "handouts": "sources/originals/mmmf-msu/Ast2017_handouts.pdf",
+  "pages": [
+    1,
+    27
+  ],
+  "target_grades": "8",
+  "id_block": [
+    "0101",
+    "0125"
+  ],
+  "status": "done",
+  "imported": [
+    "0101",
+    "0102",
+    "0103",
+    "0104",
+    "0105",
+    "0106",
+    "0107",
+    "0108",
+    "0109",
+    "0110"
+  ],
+  "skipped": [
+    {
+      "ref": "листок 1, задачи 1, 3, 7, 8",
+      "reason": "1 : application directe en une seule étape. 3 : demande la photo d'une pile de dés avec les points visibles, non redessinable proprement. 7 : décagone non convexe à dessiner, plus un argument de type théorème de Jordan, au-dessus de la 4e. 8 : comptage de type graphe suivi d'une construction explicite longue, plutôt 3e ou 2de."
+    },
+    {
+      "ref": "листок 1, задача 2",
+      "reason": "Énigme de menteurs correcte mais très classique ; écartée au profit de problèmes à idée plus marquante. Bonne réserve pour une séance future."
+    },
+    {
+      "ref": "листок 2, задачи 1, 5, 7",
+      "reason": "1 : une seule étape, trop facile. 5 : la solution est un dessin (ligne brisée de six segments sur seize points), importable plus tard avec une figure SVG de solution. 7 : le dragon d'Ivan-Tsarévitch, joli, mais la preuve de minimalité est longue et vise plutôt la 3e."
+    },
+    {
+      "ref": "листок 3, задачи 1, 2, 3, 4, 6, 7",
+      "reason": "1 et 2 : reposent entièrement sur des figures imprimées (patrons du cube, vues colorées d'un même cube), non reproductibles fidèlement. 3 : réponse sous forme de trois plans d'étages, visualisation 3D lourde. 4 : l'énoncé ne précise pas où les deux cubes se touchent, et le décompte publié de la surface ne vaut que si le petit cube commun est un coin. 6 : la fourmi sur le cube, la question « comment » a une réponse molle et la longueur exige Pythagore (3e). 7 : demande une figure de patron."
+    },
+    {
+      "ref": "листок 4, tout le feuillet (задачи 1 à 9)",
+      "reason": "Neuf problèmes de traversée de rivière, tous du même genre : la réponse est une liste de manœuvres plutôt qu'une idée, et un seul suffirait dans la base. Le meilleur est la задача 5 (deux garçons et une troupe de soldats), gardée pour une séance future. La задача 6 (trois bédouins et leurs épouses) demanderait en plus une reformulation."
+    },
+    {
+      "ref": "листок 5, задачи 1, 3, 4, 6, 7, 9",
+      "reason": "1 et 6 : exercices d'application. 4 : quasi doublon de la задача 2. 7 : nombre de zéros terminant 2017!, comptage des puissances de 5, très au-dessus de la 4e. 9 : tour de puissances 7^7^7, raisonnement modulo 4 sur l'exposant, 3e ou plus. 3 : l'exposant était illisible dans la couche texte, mais il a été récupéré depuis l'image de la page 19. L'énoncé exact est : « Le livre Guinness des records affirme que le plus grand nombre premier connu vaut 25321^127 − 1. N'est-ce pas une coquille ? ». La réponse est oui : 25321 se termine par 1, donc toutes ses puissances aussi, donc 25321^127 − 1 se termine par 0, est divisible par 10 et ne peut pas être premier. Problème tout à fait importable en 4e, écarté uniquement parce que le bloc de dix exercices était déjà rempli."
+    },
+    {
+      "ref": "листок 6, задачи 1, 2, 3, 4, 5, 7, 8, 10",
+      "reason": "1, 2, 3 : même famille que l'exercice 0101 retenu, la задача 3 en est presque un doublon. 4, 8 et 10 : ancrées dans l'année 2017, il faudrait les réécrire à chaque année scolaire. 5 : devinette plus que mathématiques. 7 : le calendrier à deux dés repose sur l'astuce du 6 retourné en 9, gadget matériel."
+    },
+    {
+      "ref": "листок 7, задачи 1, 2, 3, 8, 9, 10, 11",
+      "reason": "1, 2, 3 et 8 : applications directes des critères de divisibilité par 3 et par 9. 9 et 10b : utilisent le fait qu'un nombre et la somme de ses chiffres ont le même reste modulo 3 et 9, outil de 3e. 11 : démonstration vraiment difficile."
+    }
+  ],
+  "notes": "RENDU DES PAGES. pdftoppm (poppler) est absent de cette machine, donc l'outil Read ne sait pas ouvrir un PDF directement. Ce n'est pas bloquant : pymupdf sait rendre les pages en image sans poppler. Recette employée, à reprendre telle quelle :\n    python3 -m pip install --user pymupdf pypdf\n    import pymupdf; doc = pymupdf.open(chemin)\n    doc[n-1].get_pixmap(matrix=pymupdf.Matrix(2.2, 2.2)).save('page.png')   # puis Read sur le PNG\nL'argument clip=pymupdf.Rect(x0, y0, x1, y1) avec un zoom 3.0 permet d'agrandir une zone précise, ce qui est la bonne façon de lire un exposant douteux. pypdf reste utile pour balayer vite le texte, mais il ne doit jamais servir seul à fixer une formule.\n\nPIÈGE MAJEUR : LES EXPOSANTS DISPARAISSENT. L'extraction texte (pypdf comme pymupdf) supprime silencieusement toute mise en exposant. Dans ce document : 2016^2 sort en « 20162 », 3^3 en « 33 », 2^100 en « 2100 », 2017^2017 en « 20172017 », 25321^127 en « 25321127 ». Un nombre anormalement long ou répétitif est presque toujours une puissance. Toute expression contenant une puissance doit être confirmée sur l'image de la page avant d'être traduite.\n\nVÉRIFICATION FAITE. Les dix exercices 0101 à 0110 ont été relus un par un sur les images rendues des pages 6, 7, 10, 11, 12, 14, 20 et 23, énoncés et solutions. Aucune erreur trouvée, aucune puissance mal lue. Deux puissances réelles existent dans la plage 1-27 : 2016^2 = 4064256 (листок 2 задача 4, repris dans l'exercice 0106, lecture confirmée correcte) et 3^3 = 27 (листок 3 задача 4, problème écarté). Les dimensions du type 3 × 3 × 3 et 4 × 4 × 4 des листок 3 задача 5 (exercice 0108) sont bien des produits et non des puissances.\n\nPAGINATION d'Ast2017.pdf (53 pages) : la page imprimée N est la page PDF N. Pages 1 à 5 : titre, sommaire, conseils d'animation. Листок 1 commence page 6. La plage 1-27 couvre les листки 1 à 7 ; le листок 8 commence page 28. Le manuel numérote ses unités « Листок N, задача M » et n'emploie « занятие » que dans la prose générale : c'est donc « листок » qu'il faut mettre dans source.reference pour que la référence pointe sur quelque chose de trouvable.\n\nAUTRES PIÈGES DE LA COUCHE TEXTE : les guillemets sortent en /guillemotleft.cyr et /guillemotright.cyr, le tiret cadratin en /emdash.cyr, et les espaces entre mots sautent souvent.\n\nERRATA DU MANUEL, tous les deux vérifiés sur l'image de la page. листок 2 задача 3б : la ligne Ответ imprime 199999999999 alors que la solution rédigée donne 19999999999900, qui est la bonne réponse à la question posée. листок 5 задача 2в : la ligne Ответ imprime 1 alors que la solution rédigée aboutit à 9 ; c'est 9 qui est correct (au passage, cette solution écrit « ....9^3 = ....1 » là où il faut lire ....9, mais sa conclusion reste juste).\n\nRESTENT À IMPORTER dans la plage 1-27, de bonne qualité : листок 2 задача 7 (dragon, plutôt 3e), листок 3 задача 8 (briques 1x2x2 dans un cube 3x3x3, l'exemple se donne en trois plans d'étages, donc sans figure), листок 4 задача 5 (soldats et deux garçons), листок 5 задачи 2, 3 et 8, листок 6 задача 6, листок 7 задачи 4, 5, 6 et 7. Identifiants 0111 à 0125 encore libres.\n\nSCRATCHPAD PARTAGÉ entre les agents qui importent en parallèle. Un script auxiliaire nommé unit.py y a été écrasé par un autre agent en cours de route. Toujours préfixer ses fichiers temporaires avec le nom de son unité.",
+  "updated": "2026-09-18T22:48:18"
+}

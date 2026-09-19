@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" width="300" height="240" font-family="serif">
+  <rect x="48" y="18" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="82" y="18" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="116" y="18" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="150" y="18" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="184" y="18" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="218" y="18" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="48" y="52" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="82" y="52" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="116" y="52" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="150" y="52" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="184" y="52" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="218" y="52" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="48" y="86" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="82" y="86" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="116" y="86" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="150" y="86" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="184" y="86" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="218" y="86" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="48" y="120" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="82" y="120" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="116" y="120" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="150" y="120" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="184" y="120" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="218" y="120" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="48" y="154" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="82" y="154" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="116" y="154" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="150" y="154" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="184" y="154" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="218" y="154" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="48" y="188" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="82" y="188" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="116" y="188" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="150" y="188" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="184" y="188" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="218" y="188" width="34" height="34" fill="none" stroke="#000" stroke-width="1.2"/>
+  <text x="65" y="41" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="99" y="41" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="133" y="41" font-size="18" text-anchor="middle" fill="#000">3</text>
+  <text x="167" y="41" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="201" y="41" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="235" y="41" font-size="18" text-anchor="middle" fill="#000">3</text>
+  <text x="65" y="75" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="99" y="75" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="133" y="75" font-size="18" text-anchor="middle" fill="#000">3</text>
+  <text x="167" y="75" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="201" y="75" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="235" y="75" font-size="18" text-anchor="middle" fill="#000">3</text>
+  <text x="65" y="109" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="99" y="109" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="133" y="109" font-size="18" text-anchor="middle" fill="#000">3</text>
+  <text x="167" y="109" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="201" y="109" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="235" y="109" font-size="18" text-anchor="middle" fill="#000">3</text>
+  <text x="65" y="143" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="99" y="143" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="133" y="143" font-size="18" text-anchor="middle" fill="#000">3</text>
+  <text x="167" y="143" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="201" y="143" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="235" y="143" font-size="18" text-anchor="middle" fill="#000">3</text>
+  <text x="65" y="177" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="99" y="177" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="133" y="177" font-size="18" text-anchor="middle" fill="#000">3</text>
+  <text x="167" y="177" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="201" y="177" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="235" y="177" font-size="18" text-anchor="middle" fill="#000">3</text>
+  <text x="65" y="211" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="99" y="211" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="133" y="211" font-size="18" text-anchor="middle" fill="#000">3</text>
+  <text x="167" y="211" font-size="18" text-anchor="middle" fill="#000">1</text>
+  <text x="201" y="211" font-size="18" text-anchor="middle" fill="#000">2</text>
+  <text x="235" y="211" font-size="18" text-anchor="middle" fill="#000">3</text>
+</svg>

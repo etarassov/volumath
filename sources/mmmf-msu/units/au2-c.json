@@ -1,0 +1,50 @@
+{
+  "unit": "au2-c",
+  "source": "mmmf-msu",
+  "title": "Astachov et al., 8e-9e classes russes, 2e semestre, 3",
+  "manual": "sources/originals/mmmf-msu/AU2.pdf",
+  "handouts": "sources/originals/mmmf-msu/AU2_handouts.pdf",
+  "pages": [
+    45,
+    65
+  ],
+  "target_grades": "9-10",
+  "id_block": [
+    "0401",
+    "0425"
+  ],
+  "status": "done",
+  "imported": [
+    "0401",
+    "0402",
+    "0403",
+    "0404",
+    "0405",
+    "0406",
+    "0407",
+    "0408",
+    "0409",
+    "0410"
+  ],
+  "skipped": [
+    "листок 10, задачи 1 à 4 : construction du cours (permutations, arrangements, combinaisons, formule de C^k_n). Ce sont des étapes de leçon, pas des problèmes autonomes.",
+    "листок 10, задача 5 (nombre de triangles avec 10 points) : application directe de la formule des combinaisons, même méthode que 0402 en plus simple.",
+    "листок 10, задачи 6 et 7 (extraterrestres dans les soucoupes, pièces blanches sur la première rangée) : exercices d'entraînement qui exigent la formule multinomiale, donc des outils de première.",
+    "листок 11, задачи 1 à 7, 9, 10 : dix questions qui se ramènent toutes à trois types (ordonner 36 objets, en choisir 2, les partager en deux paquets). Seule la задача 8 (requins, devenue 0403) a été retenue ; les autres seraient des doublons. La задача 4 (six sortes de bonbons) est en outre ambiguë en russe.",
+    "листок 11, l'activité elle-même (« regroupez ces questions en familles ») : très bonne activité de club, mais elle tient d'une séance entière et ne rentre pas dans le format un problème par fichier.",
+    "листок 12, задачи 1 et 2 (écrire le triangle, nombre de termes de la ligne 2015) : une seule étape, trop faciles même en 3e.",
+    "листок 12, задача 3 (croissance puis décroissance dans une ligne) : la preuve passe par un raisonnement par récurrence sur les lignes, hors programme avant la terminale, et c'est surtout un lemme pour la задача 4.",
+    "листок 12, задача 4 (combien de fois le nombre 10 apparaît) : bon problème, laissé de côté pour tenir la limite de dix. À reprendre dans une prochaine session.",
+    "листок 12, задача 6 (somme alternée d'une ligne) et задача 9 (chemins jusqu'à un nombre N) : reprises comme « Pour aller plus loin » de 0405 et 0404 plutôt qu'importées séparément.",
+    "листок 13 en entier (histoire des tee-shirts, identités sur les nombres de combinaisons) : toute la séance suppose la notation C^k_n et le triangle de Pascal comme objets d'étude, c'est-à-dire le programme de première. Hors du niveau visé ici. La задача 7 ((C^0)^2+...+(C^n)^2 = C^n_{2n}) ferait un très beau double comptage pour une séance de 1re.",
+    "листок 14, задачи 1, 2, 4, 5 (calculs de 81^2, 202^3, expression avec 37,79 et 56,93, expressions symétriques avec a+b et ab) : entraînement au calcul, peu d'idée, et l'astuce « on pose a et b » est déjà dans 0407.",
+    "листок 14, задача 7 (si b = a-1 alors (a+b)(a^2+b^2)...(a^32+b^32) = a^64-b^64) : excellent problème, écarté seulement pour tenir la limite de dix. À prendre en priorité la prochaine fois.",
+    "листок 14, задача 8 (valeur d'une expression pour a = -3-5√3) : repose sur les identités du cube (a^3+b^3), qui ne sont pas au programme français, et reste surtout un long calcul.",
+    "листок 14, задача 10 ((a+b+c)^2, puis xy+yz+zx ≤ 0) : bon problème, écarté pour la limite de dix.",
+    "листок 15, задачи 1, 2, 4, 5 : applications directes de l'inégalité de la moyenne une fois celle-ci donnée ; elles supposent le théorème énoncé en début de séance et ne tiennent pas seules.",
+    "листок 15, задача 3 (si ab > a+b alors a+b > 4) et задача 7 (x^2+y^2+a^2+b^2 = 2) : bons problèmes, écartés pour la limite de dix.",
+    "листок 15, задача 8 (abc = 1 implique a+b+c ≥ 3, puis moyenne de trois et de n nombres) : la partie a) et b) seraient jouables en 2de, mais les points в) et г) demandent les racines cubiques et n-ièmes, au-delà du niveau visé."
+  ],
+  "notes": "Ids utilisés : 0401 à 0410. Le reste du bloc (0411 à 0425) est libre.\nPIÈGE D'EXTRACTION : le texte extrait de ce PDF (pymupdf, pypdf) perd tous les exposants. « 2n » est 2^n, « 27 = 128 » est 2^7 = 128, « 201520152 » est 20152015^2. Chaque puissance des exercices ci-dessus a été revérifiée en affichant la page en image (rendu pymupdf, le Read direct du PDF échoue faute de poppler).\nERREURS DE LA SOURCE repérées au passage :\n- листок 10, задача 8 : la solution du manuel conclut 55 alors que C^4_12 = 495. La formule y est juste, c'est la dernière ligne de calcul qui saute des facteurs. 0401 donne 495.\n- листок 11, solution du type 3 : le manuel imprime « 2^3 6 » là où il faut lire 2^36 (accolades oubliées en TeX).\n- листок 14, задача 9 : l'énoncé demande x^2-y^2 = 19 puis 111, mais la solution imprimée traite 31 et 303. 0408 résout les nombres de l'énoncé (19 : (10,9) ; 111 : (56,55) et (20,17)), recalculés à la main.\n- листок 15, задача 6 : la solution écrit AB = AH + CH au lieu de AH + HB. Corrigé dans 0410.\nNUMÉROTATION : le livret élève (AU2_handouts.pdf) ne numérote pas comme le manuel. Pour le листок 10, le livret commence à la задача des lettres, donc задача N du manuel = задача N-1 du livret. Les références des exercices citent le manuel, avec le mot « листок », qui est celui qu'emploie le manuel lui-même.\nPOUR UNE PROCHAINE SESSION : le листок 13 entier relève de la première (identités sur les combinaisons). Les meilleurs restes au niveau 3e-2de sont листок 14 задача 7 (a^64-b^64), листок 14 задача 10, листок 15 задачи 3, 5 et 7, et листок 12 задача 4.\nLe mot russe МЕХМАТ de la задача 7 du листок 12 a été remplacé par PASCAL, qui a aussi six lettres et rend la figure plus parlante ; le compte (32) est inchangé.\nDOUBLONS ENTRE UNITÉS : le même classique a été importé en parallèle depuis Ast2017b.pdf. 0401 (2de) reprend le même quadrillage 5x9 que 0155 (4e), et 0405 (3e) la même somme de ligne que 0156 (4e) ; les niveaux et les méthodes de résolution diffèrent, donc les deux versions se justifient. J'ai ajouté see_also des deux côtés du mien (0401 -> 0155, 0405 -> 0156) ; il reste à ajouter le lien réciproque dans 0155 et 0156, qui appartiennent à une autre unité, pour que vm.py check se taise.",
+  "updated": "2026-09-18T22:57:14+02:00"
+}

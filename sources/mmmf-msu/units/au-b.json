@@ -1,0 +1,189 @@
+{
+  "unit": "au-b",
+  "source": "mmmf-msu",
+  "title": "Astachov et Oudimov, 8e-9e classes russes, 1er semestre, 2",
+  "manual": "sources/originals/mmmf-msu/AU.pdf",
+  "handouts": "sources/originals/mmmf-msu/AU_handouts.pdf",
+  "pages": [
+    24,
+    46
+  ],
+  "target_grades": "9-10",
+  "id_block": [
+    "0276",
+    "0300"
+  ],
+  "status": "done",
+  "imported": [
+    {
+      "id": "0276",
+      "ref": "листок 3, задача 4",
+      "grade": 9,
+      "theme": "logic-reasoning",
+      "difficulty": 2
+    },
+    {
+      "id": "0277",
+      "ref": "листок 3, задача 5",
+      "grade": 9,
+      "theme": "algebra",
+      "difficulty": 3
+    },
+    {
+      "id": "0278",
+      "ref": "листок 4, задача 6",
+      "grade": 9,
+      "theme": "logic-reasoning",
+      "difficulty": 3
+    },
+    {
+      "id": "0279",
+      "ref": "листок 7, задача 3",
+      "grade": 9,
+      "theme": "combinatorics",
+      "difficulty": 3
+    },
+    {
+      "id": "0280",
+      "ref": "листок 6, задача 9",
+      "grade": 9,
+      "theme": "combinatorics",
+      "difficulty": 3
+    },
+    {
+      "id": "0281",
+      "ref": "листок 4, задача 9",
+      "grade": 10,
+      "theme": "arithmetic",
+      "difficulty": 4
+    },
+    {
+      "id": "0282",
+      "ref": "листок 4, задача 5",
+      "grade": 10,
+      "theme": "arithmetic",
+      "difficulty": 4
+    },
+    {
+      "id": "0283",
+      "ref": "листок 5, задача 9",
+      "grade": 10,
+      "theme": "arithmetic",
+      "difficulty": 3
+    },
+    {
+      "id": "0284",
+      "ref": "листок 5, задача 6",
+      "grade": 10,
+      "theme": "arithmetic",
+      "difficulty": 4
+    },
+    {
+      "id": "0285",
+      "ref": "листок 7, задача 7",
+      "grade": 10,
+      "theme": "combinatorics",
+      "difficulty": 5
+    }
+  ],
+  "skipped": [
+    {
+      "ref": "листок 3, задача 1",
+      "reason": "12 pièces le long des parois d'une boîte carrée : six cas à traiter et un énoncé qui dépend beaucoup d'un dessin et d'une convention (pièces empilées, pièces dans les coins). Traduisible mais lourd pour un club."
+    },
+    {
+      "ref": "листок 3, задача 2",
+      "reason": "Six contre-exemples à trouver : bon exercice d'entraînement, mais c'est une série de questions courtes plutôt qu'un problème. Le point f) demande le théorème de Gauss."
+    },
+    {
+      "ref": "листок 3, задача 3",
+      "reason": "24 diagonales dans un rectangle 5×8 : construction agréable mais la figure et la vérification sont difficiles à rendre lisibles en noir et blanc."
+    },
+    {
+      "ref": "листок 3, задача 6",
+      "reason": "Palindrome formé en permutant 1..N. Très bon problème mais très long : l'exemple avec N = 19 plus la justification que N ≤ 18 est impossible. À reprendre si on veut un problème de difficulté 5 en 2de."
+    },
+    {
+      "ref": "листок 3, задача 7",
+      "reason": "« si 88a est divisible par b alors a l'est » : la caractérisation complète (b premier avec 88) demande le théorème de Gauss, hors programme en 3e et 2de."
+    },
+    {
+      "ref": "листок 4, задачи 1, 3, 4",
+      "reason": "Invariants de parité (grenouille, nombres effacés au tableau, verres retournés) : corrects mais très proches les uns des autres, et 0278 et 0281 couvrent déjà l'idée d'invariant."
+    },
+    {
+      "ref": "листок 4, задача 2",
+      "reason": "Fou et cavalier sur un échiquier : demande de connaître les déplacements des pièces, ce qui n'est pas acquis pour tous les élèves."
+    },
+    {
+      "ref": "листок 4, задача 7",
+      "reason": "7a) est la répétition exacte de la задача 5 (importée en 0282) ; 7b) (ajout de la somme des chiffres, arriver à 123456789) est bon mais fait doublon avec 0282 sur le critère de divisibilité par 9."
+    },
+    {
+      "ref": "листок 4, задача 8",
+      "reason": "Nombres 1 à 6 en cercle, invariant des sommes diamétralement opposées. Bon problème, mis de côté pour ne pas avoir un troisième invariant additif dans la même livraison."
+    },
+    {
+      "ref": "листок 5, задачи 1, 2, 4, 5",
+      "reason": "Exercices d'application directe sur les restes (quotient égal au reste, restes emboîtés, somme de factorielles, tables de multiplication des restes). Utiles en séance mais sans idée propre : difficulté 1 à 2."
+    },
+    {
+      "ref": "листок 5, задача 3",
+      "reason": "Produit de cinq entiers consécutifs divisible par 30 puis par 120 : bon problème de 3e, écarté seulement pour ne pas surcharger le thème arithmetic. Bon candidat pour une session ultérieure."
+    },
+    {
+      "ref": "листок 5, задача 7",
+      "reason": "n⁵+4n divisible par 5, etc. : disjonction de cas sur les restes, très proche de 0284 et 0282 dans l'esprit."
+    },
+    {
+      "ref": "листок 5, задача 8",
+      "reason": "Carrés modulo 4 et somme de carrés impairs : très bon problème, écarté pour ne pas ajouter une cinquième arithmétique. À importer en priorité la prochaine fois."
+    },
+    {
+      "ref": "листок 5, задача 10",
+      "reason": "Suites d'entiers consécutifs tous composés (astuce de la factorielle) : bon problème, mais la partie c) avec 2013 nombres rend l'énoncé lourd."
+    },
+    {
+      "ref": "листок 5, задача 11",
+      "reason": "Carrés parfaits n'ayant que les chiffres 1, 5, 9 : excellent mais s'appuie sur la задача 8 du même листок, que je n'ai pas importée. À prendre en paire avec elle."
+    },
+    {
+      "ref": "листок 6, задачи 1, 2",
+      "reason": "Découverte des graphes : lire une liste de voisinages et voir les composantes connexes. Trop proche d'un simple dessin, difficulté 1."
+    },
+    {
+      "ref": "листок 6, задачи 3, 4, 5, 6",
+      "reason": "Variantes de la même formule « nombre d'arêtes = somme des degrés divisée par 2 » (routes en Islande, à Cuba, martiens, 2013 routes). 0279 et 0280 couvrent déjà cette idée, en mieux."
+    },
+    {
+      "ref": "листок 6, задача 7",
+      "reason": "« tous les élèves ont un nombre différent d'amis » : très bon, mais 0285 traite le même cercle d'idées de façon plus riche. Repris comme extension dans 0285."
+    },
+    {
+      "ref": "листок 6, задача 8",
+      "reason": "Sommets bleus et verts, double comptage des arêtes bicolores : bon problème, mais c'est exactement la mécanique de 0280 (ballon de football), qui est plus concret."
+    },
+    {
+      "ref": "листок 7, задачи 1, 2",
+      "reason": "Application directe du lemme des poignées de main (compter les arêtes, existence de graphes de degrés donnés). La 2) demanderait en plus une figure de construction."
+    },
+    {
+      "ref": "листок 7, задача 4",
+      "reason": "19 savants, 2 ou 4 lettres envoyées, 3 reçues : correct mais se résout en deux lignes par simple parité, sans idée nouvelle après 0279."
+    },
+    {
+      "ref": "листок 7, задача 5",
+      "reason": "Capitale à 39 routes, forteresse à 1 route : très bon problème de difficulté 5. Écarté car 0285 occupe déjà cette place ; excellent candidat pour la suite."
+    },
+    {
+      "ref": "листок 7, задача 6",
+      "reason": "n+1 filles et n garçons : la construction donnée dans le manuel pour n impair est esquissée et demanderait d'être refaite entièrement pour être honnête auprès d'un élève."
+    },
+    {
+      "ref": "листок 7, задача 8",
+      "reason": "Rues de trois couleurs à chaque carrefour : joli, mais la mise en place (ce qui est sommet, ce qui est arête, comment traiter les routes sortantes) est délicate à écrire sans ambiguïté."
+    }
+  ],
+  "notes": "Pages 24 à 46 du manuel = листок 3 (exemples et contre-exemples), 4 (invariants), 5 (restes), 6 (graphes 1), 7 (graphes 2, lemme des poignées de main). 44 problèmes en tout, 10 importés.\nLe AU_handouts.pdf reprend les énoncés mot pour mot : листок 3 en page 4, листок 4 en pages 5-6, листок 5 en page 7, листок 6 en page 8, листок 7 en page 9. Rien à y gagner sauf pour vérifier un énoncé.\nAttention : la задача 5 du листок 4 et la задача 7а du même листок sont le même problème (tableau 10×10 de chiffres). Le manuel le pose deux fois avec des solutions rédigées différemment. Importé une seule fois, en 0282.\nLe texte s'extrait bien avec pypdf, mais les tirets cadratins sortent en '/emdash.cyr' et les guillemets russes en '/guillemotleft.cyr'. Les exposants se collent au nombre : dans le листок 5 задача 6, '77' se lit 7^7 et '777' se lit 7^(7^7).\nRéserve pour une prochaine session sur la même plage, par ordre d'intérêt : листок 5 задачи 8 et 11 (carrés modulo 4, à importer en paire), листок 7 задача 5 (la forteresse Dalnaïa), листок 3 задача 6 (le palindrome du baron), листок 5 задача 3 (produit de cinq entiers consécutifs, bon pour la 3e).\nLe manuel indique pour chaque problème les indications que l'enseignant doit donner (lignes '◦' et '–'). Elles ont servi de base aux sections Hints.\nIds utilisés : 0276 à 0285. Le bloc 0286 à 0300 reste libre.",
+  "updated": "2026-09-18T22:37:31"
+}

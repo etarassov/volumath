@@ -1,0 +1,97 @@
+{
+  "unit": "astb-b",
+  "source": "mmmf-msu",
+  "title": "Astachov et al., 7e classe russe, 2e partie, 2",
+  "manual": "sources/originals/mmmf-msu/Ast2017b.pdf",
+  "handouts": "sources/originals/mmmf-msu/Ast2017b_handouts.pdf",
+  "pages": [
+    26,
+    50
+  ],
+  "target_grades": "8",
+  "id_block": [
+    "0176",
+    "0200"
+  ],
+  "status": "done",
+  "imported": [
+    "0176",
+    "0177",
+    "0178",
+    "0179",
+    "0180",
+    "0181",
+    "0182",
+    "0183",
+    "0184",
+    "0185"
+  ],
+  "skipped": [
+    {
+      "ref": "листок 19, задача 5",
+      "reason": "Tri de 2017 cartes par échanges avec une carte rouge. Idée algorithmique correcte, mais la solution du manuel mélange les images « rangée » et « paquet de cartes » et devient illisible ; trop long à réécrire proprement pour le gain."
+    },
+    {
+      "ref": "листок 20, задача 3",
+      "reason": "2000 cases marquées, en extraire 500 qui ne se touchent pas (coloriage en 4 couleurs). Bon problème, mais la méthode est la même que celle des exercices 0179 et 0183 déjà retenus ; gardé en réserve pour varier une séance future."
+    },
+    {
+      "ref": "листок 20, задачи 5, 7, 9",
+      "reason": "5 : la marelle, dépend du dessin des 10 cases numérotées. 7 : figure irrégulière de 20 cases portant les poids. 9 : jeu de coloriage sur 8 × 8 dont la solution suit un dessin précis de carrés. Ces figures n'existent que comme images dans le manuel et ne se reconstituent pas de façon sûre à partir du texte."
+    },
+    {
+      "ref": "листок 20, задача 6",
+      "reason": "Damier 12 × 12 pavé par des carrés 2 × 2 et des tétraminos en T ; on remplace un carré par un T et le pavage devient impossible (parité du nombre de cases noires). Très bon problème, écarté uniquement parce que l'unité atteignait déjà dix exercices. À importer en priorité."
+    },
+    {
+      "ref": "листок 20, задача 8",
+      "reason": "Jeu 9 × 9, nombre minimal de cases surchargées après un déplacement en diagonale. La fin de la solution du manuel est corrompue : elle parle de « répartir les nombres par dizaines » et de flèches rouges et bleues, ce qui appartient visiblement à un autre problème. L'exemple ne peut pas être reconstitué de façon fiable."
+    },
+    {
+      "ref": "листок 21, задачи 2, 3",
+      "reason": "2 : équation 9x + 15 = 15x + 9 mal résolue ; l'erreur tient en une ligne, trop mince. 3 : trajet à pied et en bus, où le « raisonnement » proposé est en fait correct. Idée pédagogique intéressante mais l'exercice est très léger."
+    },
+    {
+      "ref": "листок 21, задачи 4, 5",
+      "reason": "4 : le stand de tir, 10 cartouches et 3 par touche. 5 : treize bateaux 1 × 4 sur une grille 10 × 10, où le « raisonnement » oublie le contact par les coins et confond majoration et exemple. Deux bons « trouve l'erreur », écartés faute de place. Excellente réserve."
+    },
+    {
+      "ref": "листок 21, задача 6",
+      "reason": "Sapins et boules de trois couleurs : c'est l'énoncé lui-même qui est contradictoire. Demande la formule du crible pour trois ensembles, au-dessus de la 4e ; conviendrait en 3e ou en 2de."
+    },
+    {
+      "ref": "листок 21, задача 7",
+      "reason": "Le paradoxe classique du triangle découpé qui « prouve » 64 = 65 (les pentes 2/5 et 3/8 diffèrent). Très beau problème de club, mais il demande deux figures de découpage soignées et exactes ; laissé de côté pour rester dans le budget de figures de cette unité. À reprendre, c'est le meilleur de ceux qui restent."
+    },
+    {
+      "ref": "листок 21, задача 8",
+      "reason": "Appels téléphoniques, minimum 21 élèves. La bonne majoration passe par le nombre de paires n(n−1)/2 ; plutôt 3e."
+    },
+    {
+      "ref": "листок 22, задачи 2, 3, 5, 6",
+      "reason": "2 : plus petit nombre à chiffres tous différents divisible par 5. 3 : deux entiers consécutifs de sommes de chiffres multiples de 4. 5 : le nombre ABBA avec AB − BA = A + B. 6 : nombre à deux chiffres divisé par 14 quand on barre le dernier chiffre. Tous corrects mais en une ou deux étapes ; en dessous de la barre d'un exercice de club."
+    },
+    {
+      "ref": "листок 22, задачи 4, 8, 10",
+      "reason": "4 : plus petit entier dont la somme des chiffres et celle du suivant sont multiples de 5 (49999, joli raisonnement sur les retenues). 8 : le rébus ABC + AC + A = BCC. 10 : nombres de trois chiffres dont la somme des chiffres est divisée par 3 quand le nombre augmente de 3. Bons exercices, écartés faute de place. Bonne réserve d'arithmétique."
+    },
+    {
+      "ref": "листок 22, задача 9",
+      "reason": "Rébus ПОТОП × 99999. Le motif P-O-T-O-P d'un mot russe est le cœur du problème ; il faudrait inventer un mot français de cinq lettres au même motif, et l'exercice perdrait son sel. Non transposable."
+    },
+    {
+      "ref": "листок 22, задача 11",
+      "reason": "Somme des chiffres de 2999 × 11…1 (100 uns). La solution du manuel se contredit sur le décompte final (« 100 trois, 100 uns et 96 deux ») et le nombre écrit ne colle pas ; il faudrait tout refaire soi-même."
+    },
+    {
+      "ref": "листок 23, задача 1",
+      "reason": "Nombre maximal de triminos en L découpés dans un 8 × 8. Le manuel donne la majoration (64 = 3 × 21 + 1) mais expédie l'exemple par « les enfants le dessineront eux-mêmes » ; les 21 pièces demandent une construction explicite à vérifier."
+    },
+    {
+      "ref": "листок 23, задачи 2, 4, 5",
+      "reason": "2 : 8 forgerons et 10 chevaux, temps minimal 25 minutes (majoration puis emploi du temps explicite). 4 : nombre minimal de cases noircies sur 8 × 8. 5 : les 30 brochets, 9 rassasiées au plus. Trois bons « majoration + exemple », écartés faute de place. À importer ensuite."
+    }
+  ],
+  "notes": "Pages 26 à 50 : fin du листок 19 (Construction progressive), листок 20 (Coloriages), листок 21 (Trouve l'erreur), листок 22 (Écriture décimale), début du листок 23 (Majoration + exemple, задачи 1 à 5). Dans ce manuel une séance se dit « листок », c'est le mot utilisé dans les source.reference. Tout est parti en grade-08 : aucun de ces problèmes n'a besoin d'outils de 3e. ATTENTION extraction : la couche texte du PDF (pymupdf, pypdf) supprime silencieusement tous les exposants. Sur ces pages, « 2n˘1 » est en réalité 2^n − 1 (листок 23 задача 3), « 1/22016 » est 1/2^2016 (листок 19 задача 7), « 2n × 2n » est 2^n × 2^n. Toute expression contenant une puissance doit être vérifiée en regardant la page en image. Les puissances des dix exercices importés ici ont toutes été vérifiées visuellement sur les pages 26, 27, 31, 41, 44 et 49. ERREUR DU MANUEL, листок 19 задача 7 : la solution imprimée donne 1 = 1/2 + 1/4 + … + 1/2^2016 + 1/2^2017, dont la somme vaut 1 − 1/2^2017 et non 1 ; la construction visée (couper 1/2 en 1/4 + 1/4) fabrique d'ailleurs deux fractions égales, alors que l'énoncé les veut toutes distinctes. L'exercice 0177 reconstruit une solution correcte à partir de 1/n = 1/(n+1) + 1/(n(n+1)) appliquée à la plus petite fraction. FIGURES : les SVG doivent porter leurs couleurs en attributs (fill=, stroke=) directement sur chaque forme. Un bloc <style> avec des classes CSS est ignoré par les convertisseurs et tout ressort en noir. Le листок 21 « Trouve l'erreur » est un format rare et très efficace en club ; il reste cinq problèmes de cette séance à importer, dont le paradoxe 64 = 65. Le листок 23 se poursuit après la page 50, dans l'unité astb-c.",
+  "updated": "2026-09-18T22:48:16+02:00"
+}

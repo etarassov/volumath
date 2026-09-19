@@ -1,0 +1,119 @@
+{
+  "unit": "astb-d",
+  "source": "mmmf-msu",
+  "title": "Astachov et al., 7e classe russe, 2e partie, 4",
+  "manual": "sources/originals/mmmf-msu/Ast2017b.pdf",
+  "handouts": "sources/originals/mmmf-msu/Ast2017b_handouts.pdf",
+  "pages": [
+    76,
+    99
+  ],
+  "target_grades": "8",
+  "id_block": [
+    "0226",
+    "0250"
+  ],
+  "status": "done",
+  "imported": [
+    {
+      "id": "0226",
+      "note": "листок 27 задача 8 — bissectrices perpendiculaires, geometry g8 d3"
+    },
+    {
+      "id": "0227",
+      "note": "листок 27, задача 7 — trois demi-droites, angle entre bissectrices (50° ou 130°), geometry g8 d4"
+    },
+    {
+      "id": "0228",
+      "note": "листок 28, задача 1 — tableau 5×10, sommes 30 et 10, impossible, logic-reasoning g8 d3"
+    },
+    {
+      "id": "0229",
+      "note": "листок 28, задача 6 — 2017 boules / 7 couleurs, somme des inverses = 7, arithmetic g8 d4"
+    },
+    {
+      "id": "0230",
+      "note": "листок 28, задача 7 — l'argent de Marie, prix du livre = 20 €, algebra g8 d3"
+    },
+    {
+      "id": "0231",
+      "note": "листок 28, задача 8 — ballon de football, 20 pièces blanches, combinatorics g8 d3"
+    },
+    {
+      "id": "0232",
+      "note": "листок 29, задача 6 — 20 parties 12,5 points, 5 victoires de plus que de défaites, logic-reasoning g8 d3"
+    },
+    {
+      "id": "0233",
+      "note": "листок 29, задача 5 — tournoi à 4, 2,5 points impossible (max 2), logic-reasoning g8 d4"
+    },
+    {
+      "id": "0234",
+      "note": "листок 30, задача 3 — sept ponts de Königsberg, impossible (4 sommets impairs), logic-reasoning g8 d4"
+    },
+    {
+      "id": "0235",
+      "note": "листок 30, задача 11 — parmi six personnes, trois amis ou trois inconnus, combinatorics g8 d5"
+    }
+  ],
+  "skipped": [
+    {
+      "ref": "листок 27, задача 5 (с. 76)",
+      "reason": "Angle des aiguilles inchangé après une demi-heure. Bon problème, mais la solution correcte demande de raisonner sur un angle orienté modulo 360°, trop lourd à écrire proprement pour la 4e."
+    },
+    {
+      "ref": "листок 27, задача 6 (с. 76-77)",
+      "reason": "Bissectrices d'angles adjacents supplémentaires : c'est un résultat de cours en France (5e/4e), pas un problème. Repris comme « pour aller plus loin » de 0226."
+    },
+    {
+      "ref": "листок 27, задача 9 (с. 78)",
+      "reason": "Quatre demi-droites, ∠AOD = 60°/120°/180°. L'énumération des signes ± est très technique et demanderait trois ou quatre figures."
+    },
+    {
+      "ref": "листок 28, задачи -1 et 0 (с. 79)",
+      "reason": "Problèmes d'introduction de la séance. La задача -1 (tableau 5×5, lignes positives / colonnes négatives) est reprise comme « pour aller plus loin » de 0228."
+    },
+    {
+      "ref": "листок 28, задача 2 (с. 80)",
+      "reason": "Pile de carrés numérotés 1,2,3,4 : même idée que 0228 (somme totale multiple de 10 contre 48). Déjà importé ailleurs dans la base sous le titre « La pile de carrés »."
+    },
+    {
+      "ref": "листок 28, задача 3 (с. 80)",
+      "reason": "25 nombres, question de contre-exemple. Bon problème mais l'énoncé russe est ambigu sur le choix du quatrième nombre, risque de contresens à la traduction."
+    },
+    {
+      "ref": "листок 28, задача 4 (с. 80-81)",
+      "reason": "15 joueurs, 5 parties nulles chacun : bon classique de parité, mais très proche de 0231 (double comptage) et de 0233 (tournoi)."
+    },
+    {
+      "ref": "листок 28, задача 5 (с. 81)",
+      "reason": "Étoiles dans un carré 10×10. Très joli, mais découper 99 cases en 33 rectangles 1×3 demande une figure soignée ; gardé pour une prochaine session."
+    },
+    {
+      "ref": "листок 28, задача 9 (с. 83)",
+      "reason": "30 diagonales d'un échiquier. Demande de bien connaître un échiquier et un comptage délicat par couleur de case ; peu accessible à un club français."
+    },
+    {
+      "ref": "листок 28, задача 10 (с. 83-84)",
+      "reason": "Agence de voyages, 13 + 4x = x + 100. Bonne mise en équation mais quasi identique à 0230 et à la задача 0 de la séance."
+    },
+    {
+      "ref": "листок 29, задачи 0 à 4 (с. 85-87)",
+      "reason": "Problèmes d'échauffement sur le barème des tournois (nombre de parties, somme des points). Trop proches du cours de la séance pour tenir seuls ; la задача 3 (reconstituer un tournoi à 4 équipes) reste un bon candidat pour plus tard."
+    },
+    {
+      "ref": "листок 29, задачи 7 à 10 (с. 89-90)",
+      "reason": "Quatre bons problèmes laissés faute de place : 16 équipes et parité (7), tournoi à élimination directe avec 128 boxeurs (8), trouver les deux plus forts en 68 combats (9), premier devenu dernier après disqualification (10). À prendre en priorité dans une prochaine session."
+    },
+    {
+      "ref": "листок 30, задачи 1, 2 et 4 à 10 (с. 91-97)",
+      "reason": "La задача 1 repose sur une figure du manuel non extractible. Les задачи 4 à 9 sont les théorèmes d'Euler eux-mêmes, démontrés par récurrence : hors de portée en 4e. La задача 2 (ville de Charambaram) est bonne mais fait double emploi avec 0234."
+    },
+    {
+      "ref": "Диагностическая работа (с. 98-99)",
+      "reason": "Travail de diagnostic donné après quinze séances : le manuel n'indique que les réponses, sans aucune solution ni commentaire. Plusieurs énoncés dépassent aussi la 4e (minimum de x² + 2x + 4y² + 4y + 5, nombres croissants à 4 et 5 chiffres)."
+    }
+  ],
+  "notes": "Pages 76-99 = fin du листок 27 « Измерение углов » (задачи 5-9), puis листок 28 « Подсчёт двумя способами » (с. 79-84), листок 29 « Турниры » (с. 85-90), листок 30 « Эйлеровы графы » (с. 91-97), et enfin une Диагностическая работа (с. 98-99) qui ne donne que les réponses. Les листки 28 et 29 sont la meilleure matière de cette plage et restent loin d'être épuisés : voir skipped, en particulier листок 29 задачи 7 à 10 et листок 28 задача 5. ATTENTION 1 : pdftoppm n'est pas installé sur cette machine, donc l'outil Read ne peut pas afficher les pages ; j'ai vérifié l'absence d'exposants dans mes dix problèmes en relisant les runs de texte de pypdf avec leur corps et leur ligne de base (un exposant est un petit caractère à la même hauteur que le texte courant, une fraction empilée donne deux petits caractères à 8 points d'écart). Aucun exposant dans mes pages ; il y en a de vrais с. 99 (x² et y²). ATTENTION 2 : le manuel se trompe с. 97, задача 10 : la réponse imprimée est « pour tout n pair » alors que le raisonnement du manuel lui-même (degré n-1 de chaque sommet) donne n impair. Vérifier avant de l'importer. Le manuel dit « листок N » dans ses titres et sa table des matières, c'est le mot utilisé dans source.reference. DOUBLON À ARBITRER : 0231 « Le ballon de football » (grade 8, d'après Ast2017b листок 28 задача 8) et 0280 « Le ballon de football » (grade 9, d'après AU.pdf листок 6 задача 9) sont le même problème, importé en parallèle depuis deux manuels différents du même fonds. Je n'ai pas touché à 0280 et je n'ai pas posé adapted_from, qui deviendrait une référence morte si l'un des deux fichiers était supprimé. Mon avis : la mise en équation 3x = 5(32-x) est du niveau 4e, donc garder 0231 en grade 8 ; sinon garder 0280 et donner à l'autre un adapted_from.",
+  "updated": "2026-09-18T22:44:25+02:00"
+}

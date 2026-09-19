@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 160" width="300" height="160">
+  <g fill="none" stroke="#000" stroke-width="1.6" stroke-linejoin="round">
+    <polygon points="193,69 40,125 260,125" fill="#eeeeee"/>
+    <line x1="193" y1="69" x2="184" y2="125"/>
+  </g>
+  <g fill="#000">
+    <circle cx="193" cy="69" r="2.6"/>
+    <circle cx="40" cy="125" r="2.6"/>
+    <circle cx="260" cy="125" r="2.6"/>
+    <circle cx="184" cy="125" r="2.6"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#000" text-anchor="middle">
+    <text x="193" y="59">A</text>
+    <text x="30" y="142">B</text>
+    <text x="270" y="142">C</text>
+    <text x="180" y="143">D</text>
+  </g>
+</svg>

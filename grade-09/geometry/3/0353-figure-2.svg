@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" width="300" height="240">
+  <polygon points="96,192 150,153 116,129" fill="#d9d9d9" stroke="none"/>
+  <polygon points="150,26 204,192 62,90 238,90 96,192" fill="none" stroke="#000" stroke-width="1.6" stroke-linejoin="round"/>
+  <g fill="#000">
+    <circle cx="150" cy="26" r="2.6"/>
+    <circle cx="238" cy="90" r="2.6"/>
+    <circle cx="204" cy="192" r="2.6"/>
+    <circle cx="96" cy="192" r="2.6"/>
+    <circle cx="62" cy="90" r="2.6"/>
+    <circle cx="150" cy="153" r="2.6"/>
+    <circle cx="116" cy="129" r="2.6"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#000" text-anchor="middle">
+    <text x="150" y="17">A</text>
+    <text x="252" y="86">B</text>
+    <text x="216" y="211">C</text>
+    <text x="84" y="211">D</text>
+    <text x="46" y="86">E</text>
+    <text x="150" y="176">P</text>
+    <text x="98" y="140">Q</text>
+  </g>
+</svg>

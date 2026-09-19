@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 210" width="300" height="210">
+  <rect x="0" y="0" width="300" height="210" fill="#ffffff"/>
+  <rect x="24" y="152" width="28" height="28" fill="#e0e0e0"/>
+  <rect x="248" y="40" width="28" height="28" fill="#e0e0e0"/>
+  <g stroke="#000000" stroke-width="0.8" fill="none">
+  <line x1="24" y1="40" x2="24" y2="180"/>
+  <line x1="52" y1="40" x2="52" y2="180"/>
+  <line x1="80" y1="40" x2="80" y2="180"/>
+  <line x1="108" y1="40" x2="108" y2="180"/>
+  <line x1="136" y1="40" x2="136" y2="180"/>
+  <line x1="164" y1="40" x2="164" y2="180"/>
+  <line x1="192" y1="40" x2="192" y2="180"/>
+  <line x1="220" y1="40" x2="220" y2="180"/>
+  <line x1="248" y1="40" x2="248" y2="180"/>
+  <line x1="276" y1="40" x2="276" y2="180"/>
+  <line x1="24" y1="40" x2="276" y2="40"/>
+  <line x1="24" y1="68" x2="276" y2="68"/>
+  <line x1="24" y1="96" x2="276" y2="96"/>
+  <line x1="24" y1="124" x2="276" y2="124"/>
+  <line x1="24" y1="152" x2="276" y2="152"/>
+  <line x1="24" y1="180" x2="276" y2="180"/>
+  </g>
+  <polyline points="38,166 66,166 94,166 94,138 122,138 122,110 150,110 178,110 178,82 206,82 234,82 262,82 262,54" fill="none" stroke="#000000" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="38" cy="166" r="3.4" fill="#000000"/>
+  <circle cx="262" cy="54" r="3.4" fill="#000000"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#000000" text-anchor="middle">
+    <text x="262" y="32">arrivée</text>
+    <text x="38" y="200">départ</text>
+  </g>
+</svg>

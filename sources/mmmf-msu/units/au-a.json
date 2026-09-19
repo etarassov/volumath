@@ -1,0 +1,47 @@
+{
+  "unit": "au-a",
+  "source": "mmmf-msu",
+  "title": "Astachov et Oudimov, 8e-9e classes russes, 1er semestre, 1",
+  "manual": "sources/originals/mmmf-msu/AU.pdf",
+  "handouts": "sources/originals/mmmf-msu/AU_handouts.pdf",
+  "pages": [
+    1,
+    23
+  ],
+  "target_grades": "9-10",
+  "id_block": [
+    "0251",
+    "0275"
+  ],
+  "status": "done",
+  "imported": [
+    "0251",
+    "0252",
+    "0253",
+    "0254",
+    "0255",
+    "0256",
+    "0257",
+    "0258",
+    "0259",
+    "0260"
+  ],
+  "skipped": [
+    "письменная работа, задача 1 (fils deux fois plus jeune que le père) — trop facile, niveau 6e/5e, sous le seuil de la base",
+    "письменная работа, задача 2 (triangle isocèle avec un angle de 45°) — deux cas à distinguer, mais reste un exercice de cours de 5e/4e, trop mince pour 3e",
+    "письменная работа, задача 4 (quatre filles, une vérité et un mensonge chacune) — bon casse-tête logique mais très proche d'autres énigmes vrai/faux déjà classiques ; gardé en réserve si on veut étoffer logic-reasoning",
+    "письменная работа, задача 6 (anagrammes de МЕХМАТ avec deux consonnes entre les voyelles) — repose sur la structure de consonnes et voyelles d'un mot russe ; un mot français équivalent existe (PARTIR) mais la traduction déforme le problème",
+    "письменная работа, задача 7 (ABCD trapèze, montrer que ABMD est un carré) — figure indispensable et configuration difficile à décrire sans ambiguïté ; chasse aux angles correcte mais l'énoncé prête à confusion sur la position de M",
+    "листок 1, задача 1 (découper un carré 4×4 en deux parties égales de quatre façons) — la réponse est une collection de figures, il faudrait quatre SVG et la notion de « parties égales » reste floue",
+    "листок 1, задача 2 (transvasements 15 L avec des seaux de 5 L et 9 L) — puzzle de transvasement sans idée mathématique réutilisable, niveau collège inférieur",
+    "листок 1, задача 3 (placer + et − dans 1*2*4*8*16*32*64 = 27) — se résout par tâtonnement, le manuel le dit lui-même ; l'idée binaire n'est pas nécessaire",
+    "листок 1, задача 4 (anagrammes de МАЛЫЙ et МЕХМАТ) — même obstacle de traduction que la задача 6 de la письменная работа, et c'est surtout un exercice d'application",
+    "листок 1, задача 7 (91 champignons véreux) — joli principe des tiroirs mais trop simple pour 3e/2de, mieux placé en 4e ; à récupérer si on ouvre un bloc grade-08",
+    "листок 1, задача 8 (jeu des pions sur l'échiquier 8×8, stratégie de symétrie) — très bon sujet mais l'énoncé du jeu demande beaucoup de précisions et une figure pour être sans ambiguïté ; à reprendre dans une séance consacrée aux jeux",
+    "листок 2, задачи 1 à 5 (35 élèves et initiales, 102 coquilles sur 25 pages, boules rouges et bleues, cheveux des Moscovites, 65 élèves et trois examens) — applications directes du principe des tiroirs, niveau 4e, une seule étape",
+    "листок 2, задача 6 (34 passagers, 9 arrêts) — bonne idée (minorer par 0+1+…+8) mais très proche de la задача 7 du même листок, déjà importée sous 0257",
+    "листок 2, задача 9 (Nikita découpe une feuille, 100 polygones de même nombre de sommets) — énoncé mal posé : le résultat dépend de la façon de découper, et la solution du manuel est elliptique et difficile à rendre rigoureuse"
+  ],
+  "notes": "Pages 1-23 couvertes : conseils généraux pour animer le club (p. 4-7), la « письменная работа » (devoir de diagnostic, p. 8-11, 9 problèmes), le листок 1 « Знакомство » (p. 12-18, 10 problèmes) et le листок 2 « от противного и принцип Дирихле » (p. 19-23, 9 problèmes). Le листок 3 commence p. 24, hors de ce lot. Les numéros de page imprimés coïncident avec les numéros de page du PDF.\n\nLECTURE DU PDF : l'outil Read ne peut pas afficher ce PDF sur cette machine (poppler/pdftoppm absent). L'extraction de texte avec pypdf fonctionne très bien et c'est la bonne façon de lire AU.pdf et AU_handouts.pdf. Les guillemets et tirets russes sortent sous la forme /guillemotleft.cyr et /emdash.cyr, cela se lit sans peine.\n\nDEUX ERREURS DANS LE MANUEL, à ne pas recopier : листок 2 задача 5 justifie le nombre 64 par « quatre examens et quatre notes, donc 4^4 = 64 », alors que l'énoncé parle de trois examens et que c'est 4^3 = 64 (le résultat est bon, seule la justification est fautive) ; листок 2 задача 6 annonce 0+1+...+8 = 35 alors que la somme vaut 36 (la conclusion tient toujours, puisque 36 > 34).\n\nQUALITÉ DU LOT : la « письменная работа » est un devoir de diagnostic, son niveau est très inégal — les задачи 1 et 2 sont nettement sous le niveau du club, les задачи 8 et 9 sont parmi les meilleures de tout le lot. Le листок 2 est consacré au principe des tiroirs et ses cinq premiers problèmes sont des applications directes, à réserver à la 4e ; seules les задачи 7 et 8 ont une vraie idée.\n\nIDS RESTANTS : 0261 à 0275 sont libres mais les pages 1-23 sont épuisées. Ce qui reste d'importable y est signalé dans skipped : la задача 4 de la письменная работа (énigme vrai/faux), la задача 7 du листок 1 (champignons véreux, plutôt en 4e) et la задача 8 du листок 1 (jeu des pions, très bon sujet mais l'énoncé demande une figure et beaucoup de précisions).\n\nEXPOSANTS ET INDICES PERDUS À L'EXTRACTION (vérification faite) : l'extraction de texte (pypdf) supprime silencieusement les exposants, les indices et les barres de fraction. « 4^4 » ressort en « 44 », « a_1 » en « a1 », et une fraction empilée ressort en deux morceaux séparés. Comme l'outil Read ne peut pas afficher ce PDF sur cette machine, j'ai contrôlé autrement : un script parcourt chaque page avec un visiteur pypdf et signale tout fragment dont la taille de police est inférieure à celle du corps (10,91) ou dont la ligne de base est décalée. Un exposant sort en taille 7,97 ; un indice sort en taille 7,97 avec un décalage de -1,6.\n\nLes pages 8 à 23 ont été passées au crible de cette façon. Résultat : les seuls fragments en petite police de ce lot sont (a) les signes degré de la задача 2 de la письменная работа et de la задача 7, deux problèmes écartés ; (b) les numérateurs et dénominateurs de fractions, notamment (6·3+10·4+9·5)/2 p. 10 et les fractions 1/10, 2/10, 3/10, 5/10, 8/10, 13/10 de la задача 8 du листок 2 p. 22 ; (c) les indices a_1 à a_7 de cette même задача 8 ; (d) le 4^4 de la задача 5 du листок 2 p. 21, problème écarté. Aucune puissance ne se cache dans les dix exercices importés : les nombres qui paraissent répétitifs (123456789, 123456798, 2013×2013, 1991, 2011) sont bien des nombres ordinaires, et le « 2013× 2013 » de la задача 10 du листок 1 est bien un produit, pas une puissance.\n\nÀ noter : c'est ce contrôle qui confirme l'erreur du manuel signalée plus haut. La задача 5 du листок 2 écrit réellement 4^4 = 64 alors que l'énoncé porte sur trois examens et que la bonne justification est 4^3 = 64.",
+  "updated": "2026-09-18T22:43:05+02:00"
+}

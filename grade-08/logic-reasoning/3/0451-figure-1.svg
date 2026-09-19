@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 230" width="300" height="230" font-family="serif">
+  <defs>
+    <clipPath id="left-disc">
+      <circle cx="112" cy="132" r="70"/>
+    </clipPath>
+  </defs>
+  <circle cx="188" cy="132" r="70" clip-path="url(#left-disc)" fill="#d8d8d8"/>
+  <circle cx="112" cy="132" r="70" fill="none" stroke="#000" stroke-width="1.6"/>
+  <circle cx="188" cy="132" r="70" fill="none" stroke="#000" stroke-width="1.6"/>
+  <g font-size="17" fill="#000" text-anchor="middle">
+    <text x="78" y="139">6a</text>
+    <text x="150" y="139">a</text>
+    <text x="222" y="139">8a</text>
+  </g>
+  <g font-size="13" fill="#000" text-anchor="middle">
+    <text x="72" y="30">Mathématiciens</text>
+    <text x="228" y="30">Philosophes</text>
+  </g>
+  <g stroke="#000" stroke-width="1" fill="none">
+    <path d="M 72 38 L 72 68"/>
+    <path d="M 228 38 L 228 68"/>
+  </g>
+</svg>

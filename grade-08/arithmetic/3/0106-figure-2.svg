@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" width="300" height="240">
+  <rect width="300" height="240" fill="#ffffff"/>
+  <g fill="#eeeeee" stroke="#000000" stroke-width="0.8">
+    <rect x="90" y="60" width="24" height="24"/>
+    <rect x="114" y="60" width="24" height="24"/>
+    <rect x="138" y="60" width="24" height="24"/>
+    <rect x="162" y="60" width="24" height="24"/>
+    <rect x="186" y="60" width="24" height="24"/>
+    <rect x="90" y="84" width="24" height="24"/>
+    <rect x="114" y="84" width="24" height="24"/>
+    <rect x="138" y="84" width="24" height="24"/>
+    <rect x="162" y="84" width="24" height="24"/>
+    <rect x="186" y="84" width="24" height="24"/>
+    <rect x="90" y="108" width="24" height="24"/>
+    <rect x="114" y="108" width="24" height="24"/>
+    <rect x="138" y="108" width="24" height="24"/>
+    <rect x="162" y="108" width="24" height="24"/>
+    <rect x="186" y="108" width="24" height="24"/>
+    <rect x="90" y="132" width="24" height="24"/>
+    <rect x="114" y="132" width="24" height="24"/>
+    <rect x="138" y="132" width="24" height="24"/>
+    <rect x="162" y="132" width="24" height="24"/>
+    <rect x="186" y="132" width="24" height="24"/>
+    <rect x="90" y="156" width="24" height="24"/>
+    <rect x="114" y="156" width="24" height="24"/>
+    <rect x="138" y="156" width="24" height="24"/>
+    <rect x="162" y="156" width="24" height="24"/>
+    <rect x="186" y="156" width="24" height="24"/>
+  </g>
+  <g fill="none" stroke="#000000" stroke-width="2.6" stroke-linejoin="round">
+    <polyline points="114,60 114,84 90,84"/>
+    <polyline points="138,60 138,108 90,108"/>
+    <polyline points="162,60 162,132 90,132"/>
+    <polyline points="186,60 186,156 90,156"/>
+    <rect x="90" y="60" width="120" height="120"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#000000" text-anchor="middle">
+    <text x="102" y="77">1</text>
+    <text x="126" y="101">3</text>
+    <text x="150" y="125">5</text>
+    <text x="174" y="149">7</text>
+    <text x="198" y="173">9</text>
+  </g>
+</svg>

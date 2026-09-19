@@ -1,0 +1,91 @@
+{
+  "unit": "kan18-b",
+  "source": "mmmf-msu",
+  "title": "Kanounnikov, 8e classe russe, 2e semestre, 2",
+  "manual": "sources/originals/mmmf-msu/Kan2018.pdf",
+  "handouts": "sources/originals/mmmf-msu/Kan2018_handouts.pdf",
+  "pages": [
+    22,
+    42
+  ],
+  "target_grades": "9",
+  "id_block": [
+    "0526",
+    "0550"
+  ],
+  "status": "done",
+  "imported": [
+    "0527",
+    "0528",
+    "0529",
+    "0530",
+    "0532",
+    "0533",
+    "0534",
+    "0536",
+    "0537",
+    "0538",
+    "0539"
+  ],
+  "skipped": [
+    {
+      "ref": "листок 5, задача 3 (шахматы Фишера)",
+      "reason": "Bon problème (réponse 960) mais il faut connaître les pièces d'échecs et la couleur des cases ; l'énoncé demanderait un échiquier dessiné pour rester lisible dans un club français."
+    },
+    {
+      "ref": "листок 5, задача 4 (diagonales d'un n-gone convexe)",
+      "reason": "Très joli (bijection avec les quadruplets de sommets, réponse C(n,4)), mais la réponse est un coefficient binomial en n : au-delà de la seconde. Écarté aussi faute de place, c'est un bon candidat pour une séance ultérieure."
+    },
+    {
+      "ref": "листок 5, задача 5 (la palissade de 100 planches)",
+      "reason": "Le a) est un simple exercice d'application du principe multiplicatif ; le b) demande une récurrence et la somme d'une suite géométrique, donc 1re ou terminale. Rien d'exploitable au niveau visé."
+    },
+    {
+      "ref": "листок 6, задача 4 (les 30 brochets)",
+      "reason": "Bon problème (réponse 9). Écarté uniquement parce que le quota de dix était atteint. Le manuel ne donne la construction que sous forme d'image, il faut la refaire soi-même ; une chaîne où chaque brochet rassasié mange le précédent plus deux autres marche."
+    },
+    {
+      "ref": "листок 7, задача 1 (tournoi de tennis en double)",
+      "reason": "Excellent mais long : il faut compter les 15 parties, les 12 parties de chaque joueur, puis les 6 parties contre Sacha. Demanderait la seconde et une rédaction étendue. Bon candidat pour une séance ultérieure."
+    },
+    {
+      "ref": "листок 8, задача 1 (les pêcheurs et les 27 poissons)",
+      "reason": "La réponse repose sur une lecture détournée de l'énoncé (ils ne sont que trois, l'un est le fils de l'autre) plutôt que sur une idée mathématique. La partie parité seule est trop mince."
+    },
+    {
+      "ref": "листок 8, задача 2 (les sept verres retournés par quatre)",
+      "reason": "Invariant de parité classique mais très standard : une fois l'invariant nommé, il ne reste rien à chercher. Les créneaux ont été gardés pour des problèmes plus riches."
+    },
+    {
+      "ref": "листок 8, задача 4 (chevaliers, princesses et dragons)",
+      "reason": "Superbe problème de parité (réponse : un dragon), mais l'argument complet est long et délicat : il faut éliminer les chevaliers, puis les princesses, puis exhiber un scénario. Demanderait la seconde et beaucoup de place. Bon candidat pour une séance ultérieure."
+    },
+    {
+      "ref": "листок 8, задача 5 (huit tours sur l'échiquier)",
+      "reason": "Bonne preuve de parité par les coordonnées. Écarté faute de place, et il faut la convention de coloriage de l'échiquier."
+    },
+    {
+      "ref": "листок 8, задача 6 (tournoi de huit équipes dans huit écoles)",
+      "reason": "Bon argument de parité (7 équipes par école, donc 7/2 matchs : impossible). Écarté uniquement faute de place."
+    },
+    {
+      "ref": "листок 9, задачи 1 et 2 (découpages et aires colorées)",
+      "reason": "Entièrement dépendants des figures 1 à 4, qui sont des images du PDF absentes de la couche texte. La solution du manuel se réduit d'ailleurs à « c'est clair sur le dessin suivant ». Impossible à restituer fidèlement sans rendu des pages."
+    },
+    {
+      "ref": "листок 9, задача 3б (problème d'Abu al-Wafa)",
+      "reason": "Dépend de la figure 6, dont je n'ai pas pu reconstituer la configuration exacte à partir du texte seul. Le 3а, qui est le lemme utile, a été importé sous le numéro 0535."
+    },
+    {
+      "ref": "листок 10, задачи 1 à 4 (toutes)",
+      "reason": "Les énoncés sont bien pages 41-42, mais les réponses et commentaires commencent page 43, hors de la plage attribuée à cette unité. De plus les problèmes 1, 2 et 3 reposent sur des figures non lisibles dans la couche texte. Seul le 4 (quadrilatère convexe, côtés divisés en cinq, aire du quadrilatère central 25 fois plus petite) est autonome, mais sans sa solution."
+    }
+  ],
+  "notes": "EXTRACTION. pdftoppm/poppler n'est pas installé sur cette machine, donc l'outil Read ne peut pas ouvrir le PDF directement. Contournement qui marche : rendre les pages en PNG avec pymupdf (d[p-1].get_pixmap(matrix=pymupdf.Matrix(2.2, 2.2)).save(...)) puis lire les PNG avec Read. C'est INDISPENSABLE : la couche texte de ce PDF perd TOUS les exposants. Vu de mes propres yeux sur ces pages : 2^5 ressort en « 25 », 2^6 en « 26 », 4^2 en « 42 », 3^99 en « 399 », x^2 - y^2 en « x2 - y2 », C^4_n en « C4 n ». Les onze exercices ont été vérifiés visuellement page par page (22, 23, 24, 26, 27, 30, 31, 32, 33, 36, 37) et toute l'arithmétique a été recalculée. Trois points confirmés à l'image : листок 5 задача 1 vaut bien 2^5 = 32 ; листок 8 задача 3 porte bien sur le nombre plat 101010 et non sur une puissance, ce que confirme l'argument du manuel lui-même (« il suffit de regarder les deux derniers chiffres ») ; листок 9 figure 5 montre que les triangles verts sont bien ceux posés sur les côtés obliques du trapèze.\n\nCOQUILLES DU MANUEL. (1) листок 6 : la numérotation des réponses ne suit pas celle des énoncés. La réponse imprimée « 2 » correspond à la задача 3 (somme des chiffres, multiple de 14) et la réponse « 3 » à la задача 2 (la passerelle) ; les réponses 1, 4 et 5 sont bien en face de leur énoncé. Signalé dans source.reference de 0529 et 0530. (2) листок 7 задача 3 : le manuel imprime « 2(x+y+z) = 1 + 4 + 4/3 » ; il faut lire 1 + 3 + 4/3 = 16/3, et la valeur 2⅔ donnée juste après correspond bien à cette lecture corrigée. Vérifié à l'image page 32.\n\nDOUBLONS. Trois de mes exercices faisaient double emploi avec des exercices d'autres unités, découverts seulement quand ces unités ont fini d'écrire. Voir retired_ids. 0539 remplace 0535. Leçon pour les prochains : lancer `vm.py check` ET relire la liste complète des titres avant d'écrire, pas seulement après. Le check ne repère pas les doublons dont les titres diffèrent (c'est le cas de 0526 contre 0404).\n\nSOURCES ENCORE DISPONIBLES sur cette plage de pages, par ordre d'intérêt : листок 7 задача 1 (tournoi de tennis en double, réponse 8), листок 6 задача 4 (les 30 brochets, réponse 9), листок 5 задача 3 (échecs de Fischer, réponse 960). Attention, листок 8 задача 5 (les huit tours) est déjà pris par « Huit tours qui ne se prennent pas ».\n\nLes листки 9 et 10 sont presque entièrement graphiques. Le листок 10 a ses énoncés pages 41-42 mais ses solutions commencent page 43, hors de cette unité : une unité couvrant la page 43 et suivantes devrait le reprendre en entier.\n\nIds 0540 à 0550 du bloc non utilisés. Ids 0526, 0531, 0535 retirés, à ne jamais réattribuer.",
+  "updated": "2026-09-18T23:05:23",
+  "retired_ids": {
+    "0526": "Créé puis supprimé par moi. Doublon de fond avec 0404 « Lire le mot PASCAL » (AU2.pdf, листок 12, задача 7) : même dénombrement, mêmes 2^5 = 32 chemins, même argument des cinq choix binaires ; seule la disposition des lettres différait. NE JAMAIS RÉATTRIBUER.",
+    "0531": "Créé puis supprimé par moi. Doublon exact de 0201 « Trois coureurs et une seule trottinette » (Ast2017b.pdf, листок 23, задача 7) : même énoncé, mêmes 3000 m, mêmes 125 et 250 m/min. NE JAMAIS RÉATTRIBUER.",
+    "0535": "Créé puis supprimé par moi, car il faisait doublon avec 0379 « Les diagonales du trapèze » (AU2.pdf, листок 7), présent à ce moment-là. 0379 a ensuite disparu du dépôt sans mon intervention : le propriétaire de 0379 et moi avons dédoublonné la même paire en sens inverse. Sur instruction du coordinateur, le contenu a été republié sous 0539. NE JAMAIS RÉATTRIBUER."
+  }
+}

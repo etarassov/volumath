@@ -1,0 +1,113 @@
+{
+  "unit": "astb-a",
+  "source": "mmmf-msu",
+  "title": "Astachov et al., 7e classe russe, 2e partie, 1",
+  "manual": "sources/originals/mmmf-msu/Ast2017b.pdf",
+  "handouts": "sources/originals/mmmf-msu/Ast2017b_handouts.pdf",
+  "pages": [
+    1,
+    25
+  ],
+  "target_grades": "8",
+  "id_block": [
+    "0151",
+    "0175"
+  ],
+  "status": "done",
+  "imported": [
+    "0151",
+    "0152",
+    "0153",
+    "0154",
+    "0155",
+    "0156",
+    "0157",
+    "0158",
+    "0159",
+    "0160"
+  ],
+  "skipped": [
+    {
+      "ref": "листок 16, задача 1",
+      "reason": "Question de mise en route en huit parties sur les signes de -x, x-1, x^2, x^3... : de l'entraînement, aucune idée à trouver."
+    },
+    {
+      "ref": "листок 16, задача 2",
+      "reason": "Cas particulier de la задача 3, importée à sa place sous 0151."
+    },
+    {
+      "ref": "листок 16, задача 4",
+      "reason": "Exercice d'entraînement pur sur les identités remarquables."
+    },
+    {
+      "ref": "листок 16, задача 5",
+      "reason": "Cinq inégalités à démontrer par mise sous forme de carré : répétitif, et la seule vraie idée (somme de deux carrés) est déjà dans 0152."
+    },
+    {
+      "ref": "листок 16, задача 7",
+      "reason": "Cinq équations à résoudre, entraînement ; la partie б fait intervenir une puissance quatrième, hors niveau."
+    },
+    {
+      "ref": "листок 16, задача 8",
+      "reason": "Même astuce que 0152 mais à trois variables, sans idée nouvelle."
+    },
+    {
+      "ref": "листок 16, задача 9",
+      "reason": "Simple changement de variables dans la задача 8, ne tient pas debout seule."
+    },
+    {
+      "ref": "листок 17, задача 1",
+      "reason": "Construit la notation C(n,k) et ses propriétés ; les combinaisons sont du programme de terminale en France."
+    },
+    {
+      "ref": "листок 17, задача 2",
+      "reason": "Cinq parties qui construisent la formule de C(n,k) ; la seule idée réutilisable (diviser par le nombre d'ordres) est dans 0153."
+    },
+    {
+      "ref": "листок 17, задача 5",
+      "reason": "Répartir douze êtres dans quatre soucoupes de trois : s'appuie sur la notation C(n,k) de la feuille et les calculs sont lourds."
+    },
+    {
+      "ref": "листок 17, задача 7",
+      "reason": "Source incohérente : l'énoncé parle de 22 arbres mais la réponse donnée est C(12,4)x2, qui ne correspond qu'à 12 arbres. Impossible à importer fidèlement."
+    },
+    {
+      "ref": "листок 17, задача 8",
+      "reason": "Boules et cloisons : belle idée, mais s'appuie sur la notation C(n,k), et le manuel se contredit (solution C(27,6), réponse C(26,6) ; c'est la réponse qui est juste)."
+    },
+    {
+      "ref": "листок 18, задача 1",
+      "reason": "Recopier le triangle de Pascal, puis une question d'une ligne : de l'entraînement."
+    },
+    {
+      "ref": "листок 18, задача 2",
+      "reason": "La démonstration du manuel reste très vague, et une démonstration correcte est trop lourde pour le niveau."
+    },
+    {
+      "ref": "листок 18, задача 5",
+      "reason": "Construit le lien entre le triangle de Pascal et les combinaisons ; la partie a) recoupe 0155."
+    },
+    {
+      "ref": "листок 18, задача 6",
+      "reason": "Binôme de Newton : aucun élève français ne le rencontre avant la terminale."
+    },
+    {
+      "ref": "листок 18, задача 7",
+      "reason": "Calcul de 21^4 et 19^4 par le binôme de Newton, dépend de la задача 6."
+    },
+    {
+      "ref": "листок 18, задача 8",
+      "reason": "Dépend du binôme de Newton et demande de résoudre un système, très au-dessus du niveau."
+    },
+    {
+      "ref": "листок 18, задача 9",
+      "reason": "Quatre identités à démontrer avec le binôme de Newton, dépend de la задача 6."
+    },
+    {
+      "ref": "листок 19, задача 3",
+      "reason": "Polygone « barbu » traversé par des droites « barbues » : l'énoncé n'a de sens qu'avec la figure, et cette figure (les poils de barbe) ne se redessine pas proprement en SVG."
+    }
+  ],
+  "notes": "PORTEE. Pages 1 a 25 = листок 16 (egalites et inegalites), листок 17 (combinatoire 1), листок 18 (combinatoire 2, triangle de Pascal et binome de Newton), et листок 19 (construction de proche en proche) задачи 1 a 4 seulement. Le листок 19 en compte 8 : les задачи 5 a 8 commencent page 26 et sont du bon materiel (cartes de 1 a 2017, 10017 divisible par 53, fractions unitaires, pavages d'une bande 2xn par des dominos).\n\nLIRE LE PDF. Ni poppler ni pdftotext sur cette machine, et l'outil Read exige pdftoppm pour les PDF : il refuse donc ces fichiers. Passer par pypdf dans un venv jetable.\n\nEXPOSANTS : ne jamais se fier a extract_text() nu, qui les aplatit (2^n sort en « 2n », C_n^k en « Ck n », (8!)^2 en « (8!)2 »). MAIS pypdf les conserve si on passe par le visiteur : extract_text(visitor_text=f) avec f(text, cm, tm, font_dict, font_size). Dans ce document le corps de texte est a font_size 10.9 ; un exposant est un run a font_size 8.0 dont la ligne de base tm[5] est environ 4 points PLUS HAUTE que celle du run courant, un indice un run de 8.0 dont la base est plus basse. Il suffit de reconstruire le texte en enveloppant ces runs dans ^{} et _{} pour obtenir une lecture fiable, sans rendu graphique. Recette validee sur ce volume.\n\nSIGNES. Les ⩽ du manuel s'extraient correctement, mais les ⩾ sortent en « > » (листок 16 задача 5а : le manuel affiche « > 0 » la ou le handout donne /greaterorequalslant 0). Verifier toute inegalite large sur Ast2017b_handouts.pdf.\n\nNIVEAU. Les combinaisons C(n,k) relevent de la terminale en France : les листки 17 et 18 ont du etre reformules en denombrement elementaire (compter les choix ordonnes puis diviser par le nombre d'ordres, ou regle additive du triangle de Pascal) ou ecartes.\n\nERREURS DE LA SOURCE (3, toutes verifiees sur le rendu avec exposants). 1) листок 17 задача 7 : l'enonce dit 22 arbres, la reponse donne C(12,4)x2, qui ne vaut que pour 12 arbres. Ecartee. 2) листок 17 задача 8б : la solution redigee dit C(27,6), la reponse dit C(26,6) ; c'est la reponse qui est juste. Ecartee. 3) листок 17 задача 4 : la reponse imprimee est 8^2·7^2·6^2·...·2^1·1^2 = (8!)^2, avec un 2^1 la ou il faut 2^2 ; la forme fermee (8!)^2 est juste, et la solution la confirme (64 = 8^2, 49 = 7^2, 36 = 6^2). Importee sous 0154, avec la forme fermee (8!)^2. A noter aussi : листок 18 задача 4, l'exemple du manuel ecrit « 1 + 4 - 6 + 4 - 1 » alors que sa propre regle de signes donne « 1 - 4 + 6 - 4 + 1 » ; les deux valent 0, 0157 suit la regle enoncee.\n\nVERIFICATION DES PUISSANCES. Les 10 exercices importes ont ete relus un par un sur le rendu avec exposants (pages 5, 6, 11, 12, 13, 17, 18, 23, 24, 25) : 2^n de 0156, n^2 et 2^(n+1)-1 de 0158, (8!)^2 de 0154, cote 2^n et decoupe en quatre 2^n de 0160, carres de 0151 et 0152, C(10,3)=120 de 0153, C(12,4)=495 de 0155, n^2=90n de 0159. Aucune correction n'a ete necessaire.",
+  "updated": "2026-09-18T22:44:21+02:00"
+}

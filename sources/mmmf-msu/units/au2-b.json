@@ -1,0 +1,221 @@
+{
+  "unit": "au2-b",
+  "source": "mmmf-msu",
+  "title": "Astachov et al., 8e-9e classes russes, 2e semestre, 2",
+  "manual": "sources/originals/mmmf-msu/AU2.pdf",
+  "handouts": "sources/originals/mmmf-msu/AU2_handouts.pdf",
+  "pages": [
+    23,
+    44
+  ],
+  "target_grades": "9-10",
+  "id_block": [
+    "0376",
+    "0400"
+  ],
+  "status": "done",
+  "imported": [
+    {
+      "id": "0376",
+      "ref": "листок 6, задача 6",
+      "grade": 9,
+      "theme": "arithmetic",
+      "difficulty": 3
+    },
+    {
+      "id": "0377",
+      "ref": "листок 6, задача 8",
+      "grade": 9,
+      "theme": "arithmetic",
+      "difficulty": 4
+    },
+    {
+      "id": "0378",
+      "ref": "листок 6, задача 11",
+      "grade": 10,
+      "theme": "arithmetic",
+      "difficulty": 4
+    },
+    {
+      "id": "0380",
+      "ref": "листок 7, задача 4 а)",
+      "grade": 9,
+      "theme": "geometry",
+      "difficulty": 3
+    },
+    {
+      "id": "0381",
+      "ref": "листок 7, задача 4 б)",
+      "grade": 10,
+      "theme": "geometry",
+      "difficulty": 4
+    },
+    {
+      "id": "0382",
+      "ref": "листок 8, задача 4",
+      "grade": 9,
+      "theme": "combinatorics",
+      "difficulty": 3
+    },
+    {
+      "id": "0383",
+      "ref": "листок 8, задача 9",
+      "grade": 10,
+      "theme": "combinatorics",
+      "difficulty": 4
+    },
+    {
+      "id": "0385",
+      "ref": "листок 9, задача 8",
+      "grade": 10,
+      "theme": "combinatorics",
+      "difficulty": 5
+    },
+    {
+      "id": "0386",
+      "ref": "листок 7, задача 2",
+      "grade": 9,
+      "theme": "geometry",
+      "difficulty": 4
+    },
+    {
+      "id": "0387",
+      "ref": "листок 8, задача 7",
+      "grade": 10,
+      "theme": "combinatorics",
+      "difficulty": 3
+    }
+  ],
+  "skipped": [
+    {
+      "ref": "листок 5, задачи 5 и 7",
+      "reason": "Constructions à la règle et au compas de √(m/n), √6 et √(1/6) : les deux énoncés renvoient explicitement aux задачи 1 et 4 du même листок, qui sont aux pages 21-22, donc dans l'unité au2-a. Ne tiennent pas debout seuls."
+    },
+    {
+      "ref": "листок 5, задачи 6 и 8",
+      "reason": "Construire √(ab) (hauteur d'un triangle rectangle) et ab/c (Thalès). Deux bons problèmes de 2de, mais le листок 5 commence page 21 : il appartient pour l'essentiel à l'unité au2-a, et couper une chaîne de constructions entre deux unités ferait double emploi. À reprendre si au2-a ne les a pas pris."
+    },
+    {
+      "ref": "листок 5, задача 9 (*)",
+      "reason": "Construire √|q₁a₁² + ... + qₙaₙ²| avec des qᵢ rationnels de signes quelconques. Marqué (*) « pour les plus forts » dans le manuel : notation indicielle générale, renumérotation des termes, récurrence. Trop abstrait pour un club de 3e ou 2de."
+    },
+    {
+      "ref": "листок 6, задача 1",
+      "reason": "Retrouver le troisième côté connaissant deux côtés (3 et 5, 24 et 25, ...). Application directe du théorème de Pythagore, difficulté 1."
+    },
+    {
+      "ref": "листок 6, задача 2",
+      "reason": "Donner un triangle pythagoricien d'hypoténuse 15, 39, 100, 289. Une seule idée, agrandir un triangle connu, et cinq calculs identiques : difficulté 1 à 2."
+    },
+    {
+      "ref": "листок 6, задача 3",
+      "reason": "Montrer qu'il y a une infinité de triplets pythagoriciens. Se règle en une ligne à partir de la задача 2 (multiplier un triplet par k). Trop mince pour un exercice à part."
+    },
+    {
+      "ref": "листок 6, задача 4",
+      "reason": "Pas de triangle pythagoricien isocèle, ni avec un angle de 30°. Demande l'irrationalité de √2 ET de √3 ; √3 n'est pas au programme français. Repris comme piste dans « Pour aller plus loin » de 0376."
+    },
+    {
+      "ref": "листок 6, задача 5",
+      "reason": "Un triplet pythagoricien peut-il être formé de trois nombres impairs ? Même idée de parité que 0376, mais en une ligne. Couvert par 0376."
+    },
+    {
+      "ref": "листок 6, задача 7",
+      "reason": "Triangle primitif : hypoténuse impaire, côtés de l'angle droit de parités différentes. S'appuie directement sur la задача 6 b). Repris comme extension dans « Pour aller plus loin » de 0376."
+    },
+    {
+      "ref": "листок 7, задача 1",
+      "reason": "Diagonales d'un trapèze : S(ABC) = S(BCD) puis S(AOB) = S(COD). Importé puis retiré : c'est exactement l'exercice 0535 (Kan2018.pdf, листок 9, задача 3а), déjà dans la base au même niveau, même thème et même difficulté. L'id 0379 avait été attribué puis abandonné ; il reste retiré, personne ne doit le réutiliser."
+    },
+    {
+      "ref": "листок 6, задачи 9 и 10",
+      "reason": "Existence d'un triangle pythagoricien pour tout côté impair, puis infinité de triangles non semblables. Ce sont les suites immédiates de la задача 8 (importée en 0377), et le manuel se contente d'esquisser la non-similitude. Repris comme extensions dans 0377."
+    },
+    {
+      "ref": "листок 7, problèmes préliminaires (3)",
+      "reason": "La médiane partage le triangle en deux aires égales ; S(CAK):S(CBK) = m:n ; S(AMN)/S(ABC) = (m/n)(p/q). Ce sont les outils que l'enseignant démontre au tableau en début de séance, difficulté 1 à 2. Le troisième est intégré comme première partie de 0381."
+    },
+    {
+      "ref": "листок 7, задача 3",
+      "reason": "Point O à l'intérieur d'un parallélogramme : S(AOB) + S(COD) = ½ S(ABCD). Classique et bon, mais très proche de 0379 dans la technique. Repris comme extension dans « Pour aller plus loin » de 0379."
+    },
+    {
+      "ref": "листок 7, задача 5",
+      "reason": "« Le pantalon de Pythagore » : carrés construits sur les trois côtés d'un triangle rectangle, sommets extérieurs reliés, égalité des aires des triangles gris. L'énoncé ne veut rien dire sans la рис. 1 : c'est le dessin seul qui dit quels triangles sont gris. Impossible à redessiner sans ambiguïté, et la démonstration du manuel n'est qu'esquissée."
+    },
+    {
+      "ref": "листок 7, задача 6",
+      "reason": "a) Milieux des côtés d'un parallélogramme, les droites DK, BM, AL, CN délimitent un petit parallélogramme, rapport 1:5 : bon problème, mais la démonstration passe par les aires de quatre trapèzes et quatre triangles, c'est long. b) dépend de la рис. 2 exactement comme la задача 5."
+    },
+    {
+      "ref": "листок 7, задача 7",
+      "reason": "Droites menées par un point intérieur d'un carré, parallèles aux côtés et aux diagonales ; somme des aires blanches = somme des aires grises. Entièrement dépendant de la рис. 3 : le coloriage des huit régions ne se décrit pas en mots."
+    },
+    {
+      "ref": "листок 8, problèmes préliminaires (2)",
+      "reason": "Fruits au marché (pommes, poires, prunes) et nombres de cinq chiffres, dont les palindromes. Ce sont les exemples que l'enseignant traite au tableau avant d'énoncer les règles de somme et de produit. Difficulté 1."
+    },
+    {
+      "ref": "листок 8, задача 1",
+      "reason": "Trajets de Petrovitch, 5·2·3 = 60 puis 60·60 = 3600 pour l'aller-retour. Le piège de l'aller-retour est amusant mais le problème reste une application directe de la règle du produit."
+    },
+    {
+      "ref": "листок 8, задача 2",
+      "reason": "Interrupteurs à deux et trois positions, 2⁴ = 16 puis 2⁴·3³ = 432. Application directe."
+    },
+    {
+      "ref": "листок 8, задача 3",
+      "reason": "a) Nombres de six chiffres divisibles par 5 : direct. b) Entiers de 0 à 999999 sans deux chiffres égaux côte à côte : bon, mais la réponse 9⁶+9⁵+9⁴+9³+9²+10 = 597871 oblige à sommer six cas, ce qui alourdit sans rien apporter de neuf."
+    },
+    {
+      "ref": "листок 8, задача 5",
+      "reason": "Numéros de téléphone à sept chiffres « beaux » (pairs et impairs alternés, sans zéro), 72000. Un numéro français a dix chiffres et commence toujours par 0X : l'histoire devrait être réécrite en « code à sept chiffres » et perdrait tout son sel, pour un décompte déjà présent ailleurs."
+    },
+    {
+      "ref": "листок 8, задача 6",
+      "reason": "Six lettres confiées à trois coursiers, 3⁶ = 729. Joli piège 3⁶ contre 6³, mais la réponse tient en une ligne."
+    },
+    {
+      "ref": "листок 8, задача 8",
+      "reason": "Schéma de déverrouillage, quatre points parmi neuf : 4·3·2 = 24 puis 9·8·7·6 = 3024. Application directe, et la partie a) fait doublon avec la factorielle du листок 9."
+    },
+    {
+      "ref": "листок 8, задача 10",
+      "reason": "Deux tours qui ne s'attaquent pas, 64·49 = 3136 puis 1568. Bon problème, mais c'est le petit frère de 0384 (huit tours). Repris comme extension dans « Pour aller plus loin » de 0384."
+    },
+    {
+      "ref": "листок 9, problème préliminaire (anagrammes de КОШКА et СМЕТАНА)",
+      "reason": "Exemple traité au tableau par l'enseignant. Attention : le manuel s'y trompe, il annonce 5! = 120 anagrammes pour КОШКА alors que ce mot contient deux К (réponse 60)."
+    },
+    {
+      "ref": "листок 9, задача 1",
+      "reason": "Code à quatre chiffres formé avec 1, 9, 4, 5, avec puis sans répétition : 4⁴ = 256 et 4! = 24. Application directe de la définition."
+    },
+    {
+      "ref": "листок 9, задача 2",
+      "reason": "Quatre pots de fleurs à aligner, 4! = 24, puis 12 quand deux pots deviennent identiques. Bonne entrée en matière sur les permutations avec répétition, mais difficulté 1 à 2."
+    },
+    {
+      "ref": "листок 9, задача 4",
+      "reason": "Anagrammes de ТОЧКА, ПРЯМАЯ, МОЛОКО, БИССЕКТРИСА. Il faudrait choisir des mots français ayant les mêmes répétitions de lettres (CARRE, MEDIANE, BISSECTRICE...), ce qui revient à écrire un autre exercice. De plus le manuel se trompe : il répond 4! = 24 pour ТОЧКА, qui a cinq lettres toutes différentes (120). À importer un jour, mais en refaisant tous les décomptes."
+    },
+    {
+      "ref": "листок 9, задача 5",
+      "reason": "Simplifier k!(k+1), k!/(k-1)!, (k+2)!/k!. Pur exercice technique, difficulté 1."
+    },
+    {
+      "ref": "листок 9, задача 6",
+      "reason": "Comparer 5!+3! et 8! (rapport 320). Calcul agréable où il faut factoriser par 3!, mais cela reste un exercice de calcul, difficulté 2."
+    },
+    {
+      "ref": "листок 9, задача 7",
+      "reason": "Dix égalités sur les factorielles, à démontrer ou à réfuter par un contre-exemple. Bon entraînement au raisonnement, mais c'est une série de dix questions courtes plutôt qu'un problème. Candidat possible en logic-reasoning pour une prochaine session."
+    },
+    {
+      "ref": "листок 9, задача 3",
+      "reason": "Huit tours qui ne s'attaquent pas sur l'échiquier, 8! puis (8!)². Importé puis retiré : c'est exactement l'exercice 0154 (Ast2017b.pdf, листок 17, задача 4), déjà dans la base en 4e avec la même difficulté ; une copie en 2de n'apporterait rien. L'id 0384 avait été attribué puis abandonné ; il reste retiré, personne ne doit le réutiliser."
+    }
+  ],
+  "notes": "Pages 23 à 44 du manuel = fin du листок 5 (construction de segments, задачи 5-9 ; le листок commence page 21, donc dans l'unité au2-a), листок 6 « Пифагоровы треугольники » (11 problèmes, pages 26-29), листок 7 « Равные площади » (3 problèmes préliminaires + 7 problèmes, pages 30-34), листок 8 « Сложить или умножить? » (2 préliminaires + 10 problèmes, pages 35-40), листок 9 « Факториал! » (1 préliminaire + 8 problèmes, pages 41-44). Environ 40 problèmes en tout, 10 importés.\nLe fichier AU2_handouts.pdf reprend les énoncés mot pour mot : листок 6 en page 6, листок 7 en page 7, листок 8 en page 8, листок 9 en page 9. Chaque page du handout apparaît deux fois quand on en extrait le texte. Rien à y gagner sauf pour vérifier un énoncé.\nATTENTION AUX EXPOSANTS. L'extraction de texte ordinaire (pypdf, pymupdf) perd silencieusement tous les exposants : « 5· 3 = 1875 » est en réalité 5⁴·3, « 8!· 8! = 8! = 1 625 702 400 » est (8!)², « 9 + 9 + 9 + 9 + 9 + 10 = 597871 » est 9⁶+9⁵+9⁴+9³+9²+10, « 3 = 729 » est 3⁶, « x + 7 = y » est x² + 7² = y². Méthode qui marche : passer une fonction visitor_text à extract_text et relever tm[5] (la hauteur de chaque morceau) ; les exposants ressortent alors comme une ligne séparée juste au-dessus du texte. Les chiffres de tous les exercices importés ici ont été vérifiés de cette façon.\nERREUR DU MANUEL, листок 8 задача 9 (nombres de neuf chiffres inchangés après un demi-tour de la feuille) : la réponse donnée, 5⁴·3 = 1875, oublie qu'un nombre de neuf chiffres ne commence pas par 0. Le compte correct est 4·5³·3 = 1500. C'est la valeur retenue dans 0383, avec la contrainte expliquée dans la solution.\nERREURS DU MANUEL, листок 9 : l'exemple préliminaire annonce 5! = 120 anagrammes pour КОШКА, mot qui contient deux К (60 en réalité) ; la задача 4 а) répond 4! = 24 pour ТОЧКА, mot de cinq lettres toutes différentes (120). Refaire tous les décomptes si on importe ce листок.\nCoquille bénigne, листок 6 задача 6 : les trois parties de la solution sont toutes étiquetées « а) » dans le manuel ; ce sont bien a), b) et c) dans l'ordre.\nLe manuel donne pour presque chaque problème l'indication que l'enseignant doit fournir (lignes commençant par ◦ puis –). Elles ont servi de base aux sections Hints.\nRéserve pour une prochaine session sur la même plage, par ordre d'intérêt : листок 7 задача 6 а) (parallélogramme des milieux, rapport 1:5), листок 9 задача 7 (les dix égalités sur les factorielles, plutôt en logic-reasoning), листок 8 задача 3 б) (entiers sans deux chiffres égaux voisins), листок 5 задачи 6 et 8 (constructions de √(ab) et de ab/c, si l'unité au2-a ne les a pas prises), листок 8 задача 5 (numéros « beaux », à reformuler en code à sept chiffres).\nDOUBLONS AVEC D'AUTRES SOURCES. Deux problèmes de cette plage existaient déjà dans la base, importés d'autres recueils du même éditeur : les diagonales du trapèze (листок 7 задача 1) sont l'exercice 0535 venu de Kan2018.pdf, et les huit tours de l'échiquier (листок 9 задача 3) sont l'exercice 0154 venu d'Ast2017b.pdf. Les deux avaient été rédigés ici sous les ids 0379 et 0384, puis retirés au profit de листок 7 задача 2 (0386) et листок 8 задача 7 (0387). Les ids 0379 et 0384 sont donc retirés définitivement et ne doivent jamais être réattribués. Leçon pour la suite : avant de rédiger, chercher le sujet dans la base (grep sur un mot clé de l'énoncé), car ces recueils MSU reprennent beaucoup de grands classiques d'un livret à l'autre.\nFigures : trois SVG dessinés à la main (0380 carré dans un carré, 0381 triangle des points de partage, 0386 triangle et bissectrice). Aucun des problèmes importés ne dépend d'une figure du manuel.\nIds utilisés : 0376, 0377, 0378, 0380, 0381, 0382, 0383, 0385, 0386, 0387. Ids retirés : 0379 et 0384. Le bloc 0388 à 0400 reste libre.",
+  "updated": "2026-09-18T22:53:17"
+}

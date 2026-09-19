@@ -1,0 +1,105 @@
+{
+  "unit": "au-d",
+  "source": "mmmf-msu",
+  "title": "Astachov et Oudimov, 8e-9e classes russes, 1er semestre, 4",
+  "manual": "sources/originals/mmmf-msu/AU.pdf",
+  "handouts": "sources/originals/mmmf-msu/AU_handouts.pdf",
+  "pages": [
+    70,
+    91
+  ],
+  "target_grades": "9-10",
+  "id_block": [
+    "0326",
+    "0350"
+  ],
+  "status": "done",
+  "imported": [
+    "0326",
+    "0327",
+    "0328",
+    "0329",
+    "0330",
+    "0331",
+    "0332",
+    "0333",
+    "0334",
+    "0335"
+  ],
+  "skipped": [
+    {
+      "ref": "листок 12, задача 1",
+      "reason": "Roi boiteux sur un damier 7x7, deux variantes. Une fois l'analyse des positions expliquée au tableau, c'est un remplissage de cases sans idée nouvelle, et il faudrait une figure de damier. Le b) fait de plus double emploi avec la задача 6."
+    },
+    {
+      "ref": "листок 12, задача 2",
+      "reason": "Cavalier boiteux sur un damier 11x15. Le manuel decrit le motif des positions gagnantes (une colonne, puis deux, puis une...) sans le demontrer, et ce motif est difficile a reconstruire de facon sure. Trop fragile pour etre importe."
+    },
+    {
+      "ref": "листок 12, задача 4",
+      "reason": "Bon probleme : on part de 4, on ajoute un entier strictement plus petit, il faut atteindre 2013 (positions perdantes 2013, 1006, 503, 251, 125, 62, 31, 15, 7, 3 ; le premier joueur gagne). Verifie par force brute. Ecarte faute de place dans les dix. Les b) et c) manipulent 2^2013, hors de portee en seconde. Bon candidat pour une session ulterieure, en ne gardant que le a)."
+    },
+    {
+      "ref": "листок 12, задача 6",
+      "reason": "Deux tas de 5 et 7 cailloux. ATTENTION : la reponse du manuel est fausse. Il annonce que le second joueur gagne, alors qu'une position est perdante exactement quand les deux tas sont pairs ; (5,7) n'est pas de cette forme, donc c'est le PREMIER joueur qui gagne (en prenant un caillou dans chaque tas). Verifie par force brute. La reduction du manuel vers la задача 1b est decalee d'une unite. Le probleme lui-meme est excellent et tres accessible : a importer plus tard avec une solution corrigee."
+    },
+    {
+      "ref": "листок 12, задача 7",
+      "reason": "Jeu de multiplication : on annonce un entier de 2 a 9, puis on multiplie par un entier de 2 a 9, gagne celui qui depasse 1000. Tres bon probleme, l'analyse par intervalles est instructive. Verifie : le premier joueur gagne en annoncant 4, 5 ou 6. Ecarte faute de place seulement."
+    },
+    {
+      "ref": "листок 13, задачи 1, 7",
+      "reason": "Sommes classiques (1+2+...+n, somme des impairs, somme des carres, 1+2+...+2^n, 1.1!+...+n.n!). Exercices d'entrainement a la recurrence, sans idee propre ; la premiere est du cours. De plus la 7b utilise les factorielles, que les eleves francais ne rencontrent qu'en terminale."
+    },
+    {
+      "ref": "листок 13, задача 2 a) et c)",
+      "reason": "Cases coloriees sous la diagonale, et pyramide de cases. Se ramenent immediatement aux sommes de la задача 1. Seul le b) (droites qui decoupent le plan) a ete importe, sous le numero 0328."
+    },
+    {
+      "ref": "листок 13, задача 3",
+      "reason": "Le << polygone barbu >> : l'enonce ne tient pas debout sans la figure du manuel, et le vocabulaire (soies, cote barbu) demanderait une reecriture complete. Figure non extractible du PDF."
+    },
+    {
+      "ref": "листок 13, задача 4",
+      "reason": "Carre 2^n x 2^n prive d'une case, pave par des triominos en L. Tres beau probleme, mais la preuve est une vraie recurrence (descente de 2^(n+1) a 2^n), et le raisonnement par recurrence est au programme de terminale en France, hors de la cible grade-09/grade-10. A reprendre dans une unite visant la premiere ou la terminale."
+    },
+    {
+      "ref": "листок 13, задача 5",
+      "reason": "Tours de Hanoi. Meme remarque : les a) et b) sont constructifs, mais le c) (on ne peut pas faire mieux que 2^n - 1 deplacements) exige une recurrence. A reprendre pour un niveau plus eleve."
+    },
+    {
+      "ref": "листок 13, задача 6",
+      "reason": "Parmi 2^(n+1) entiers on peut en choisir 2^n dont la somme est divisible par 2^n. Recurrence delicate, bien au-dessus de la cible."
+    },
+    {
+      "ref": "листок 14, задача 4",
+      "reason": "Tours (puis dames) sur un echiquier : y a-t-il toujours une piece qui en attaque au plus deux autres ? Bon probleme, l'argument de la tour la plus haute puis la plus a gauche est joli. Ecarte faute de place ; le b) demanderait une petite figure (quatre dames dans les coins)."
+    },
+    {
+      "ref": "листок 14, задача 5",
+      "reason": "Le voyageur fou qui va toujours vers la ville la plus eloignee. La demonstration du manuel a besoin que toutes les distances entre villes soient deux a deux differentes, ce que l'enonce ne dit pas ; sans cette hypothese le raisonnement tombe dans un cas d'egalite. Il faudrait ajouter l'hypothese, ce qui modifie l'enonce. Ecarte au profit de la задача 7, qui porte la meme idee et enonce bien l'hypothese."
+    },
+    {
+      "ref": "листок 14, задача 7",
+      "reason": "Les 25 astronomes qui observent chacun la planete la plus proche. Excellent probleme : le a) sort du couple le plus proche, le b) demande une descente (on retire les couples qui s'observent, 25 impair mene a la contradiction). Ecarte uniquement faute de place. Le meilleur candidat restant de cette unite."
+    },
+    {
+      "ref": "листок 15, задачи 1, 2, 3",
+      "reason": "Exercices de definition : lister les elements et les parties d'un ensemble, calculer une intersection et une reunion. Application directe du cours, en dessous du niveau de la base."
+    },
+    {
+      "ref": "листок 15, задачи 4, 5",
+      "reason": "Nombres a n chiffres formes de 1 et 2, et nombre de parties d'un ensemble a n elements : deux fois 2^n. La question d) qui relie les deux (une bijection) est jolie mais trop mince a elle seule pour faire un exercice."
+    },
+    {
+      "ref": "листок 15, задача 7",
+      "reason": "Martiens avec oreilles et yeux, nombre minimal de martiens. Meme idee d'inclusion-exclusion que la задача 6, mais bien plus facile et sans construction a fournir. La задача 6 (les trois tapis) a ete importee a sa place, sous le numero 0334."
+    },
+    {
+      "ref": "листок 15, задача 9",
+      "reason": "Jeu de mots a trois joueurs avec un bareme de points. La solution du manuel est confuse : elle melange les prenoms Вася et Ваня, et le systeme d'inegalites contient des coquilles (a - z ecrit āz). Le bareme lui-meme est ambigu. Impossible de le rendre fidelement."
+    }
+  ],
+  "notes": "Pages 70-91 du manuel = листки 12 a 15 : jeux et analyse des positions (12), recurrence (13), methode de l'extreme (14), ensembles (15). Dix problemes importes, 0326 a 0335 ; ids 0336 a 0350 non utilises.\n\nDEUX ERREURS DANS LA SOURCE, verifiees par force brute :\n- листок 12, задача 6 : le manuel dit que le second joueur gagne avec les tas (5,7) ; c'est le premier. Une position est perdante exactement quand les deux tas sont pairs.\n- листок 13, задача 2 б) : la reponse annoncee est n(n+1)/2 pour le nombre de morceaux du plan ; le compte correct est 1 + n(n+1)/2 (le texte de la solution du manuel, lui, est juste). L'exercice 0328 porte la bonne reponse.\n\nNIVEAU : le листок 13 est en grande partie inexploitable pour grade-09/grade-10, parce que le raisonnement par recurrence est un contenu de terminale en France. Seule la задача 2 б) a pu etre importee, en la redigeant comme un comptage (<< chaque nouvelle droite ajoute k+1 morceaux >>) et non comme une recurrence formelle. Les задачи 4 (triominos en L) et 5 (tours de Hanoi) sont de tres beaux problemes qui meritent une unite visant la premiere ou la terminale.\n\nMEILLEURS RESTES pour une session ulterieure : листок 14 задача 7 (les 25 astronomes), листок 12 задача 7 (jeu de multiplication jusqu'a 1000), листок 12 задача 4 a) (partir de 4, atteindre 2013), листок 14 задача 4 (tours et dames sur l'echiquier).\n\nDOUBLON POSSIBLE : un autre agent a cree grade-09/logic-reasoning/4/0434 << Le jeu de l'horloge >>, encore vide au moment de cet import. Mon 0326 << Le jeu de la pendule >> est le jeu du cadran ou l'on avance l'aiguille de 2 ou 3 heures pour atteindre 11 heures. A verifier et dedoublonner si c'est le meme probleme.\n\nOUTILLAGE : pdftoppm / poppler n'est pas installe sur cette machine, donc l'outil Read ne peut pas rendre les pages du PDF. L'extraction de texte par pypdf fonctionne bien (python3 -c \"import pypdf\"). Le russe sort proprement, mais les mots sont souvent colles sans espace et les tirets cadratins apparaissent sous la forme /emdash.cyr. Les figures du manuel ne sont pas extractibles : tout probleme qui depend d'une figure de la source doit etre redessine ou ecarte.\n\nTrois figures SVG ont ete dessinees : 0328-figure-1.svg (trois droites, sept morceaux), 0333-figure-1.svg (chemin en L sur l'echiquier), 0334-figure-1.svg (les trois tapis sur le sol).\n\nVERIFICATION DES EXPOSANTS (alerte coordination) : l'extraction de texte fait tomber les exposants. Chaque enonce importe a ete recontrole en extrayant le texte avec les positions verticales des caracteres (pypdf, visitor_text, comparaison de tm[5] avec la ligne de base) afin de reperer les caracteres surieleves. Resultat : aucun des dix exercices importes ne contient d'exposant perdu.\n- pages 82, 84, 85, 86, 90 (листок 14 задачи 1, 2, 6, 8 et листок 15 задача 8) : aucun caractere sureleve, donc aucune puissance dans ces enonces.\n- page 83 (листок 14 задача 3) : le seul groupe sureleve est 'a+b', numerateur de la fraction (a+b)/2 dans la definition de la moyenne. Ce n'est pas une puissance.\n- page 89 (листок 15 задача 6, les tapis) : tous les groupes sureleves sont le '2' de м2, c'est-a-dire l'unite metre carre. Les aires sont bien 12, 5, 4, 3, 1,5 et 0,5 metres carres, non des puissances.\n- page 73 (листок 12 задача 5, l'arbre aux pieces) : l'enonce ne contient aucune puissance ; la solution du manuel porte bien 2^k - 1 (exposant k confirme). Recoupe par force brute : positions perdantes 1, 3, 7, 15, 31, 63, 127, 255.\n- page 76 (листок 13 задача 2 б), les droites) : aucun caractere sureleve dans l'enonce. Page 77, le seul '2' sureleve de la ligne des reponses appartient au в) (n^2) ; la reponse imprimee pour le б) est donc bien n(n+1)/2 sans exposant perdu, et elle reste fausse.\nPour refaire ce controle : pdftoppm n'etant pas installe, on ne peut pas rendre les pages ; passer par pypdf avec visitor_text et comparer les ordonnees de chaque fragment a la ligne de base.",
+  "updated": "2026-09-18T22:42:44"
+}

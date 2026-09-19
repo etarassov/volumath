@@ -1,0 +1,89 @@
+{
+  "unit": "au2-a",
+  "source": "mmmf-msu",
+  "title": "Astachov et al., 8e-9e classes russes, 2e semestre, 1",
+  "manual": "sources/originals/mmmf-msu/AU2.pdf",
+  "handouts": "sources/originals/mmmf-msu/AU2_handouts.pdf",
+  "pages": [
+    1,
+    22
+  ],
+  "target_grades": "9-10",
+  "id_block": [
+    "0351",
+    "0375"
+  ],
+  "status": "done",
+  "imported": [
+    "0351",
+    "0352",
+    "0353",
+    "0354",
+    "0355",
+    "0356",
+    "0357",
+    "0358",
+    "0359",
+    "0360"
+  ],
+  "skipped": [
+    {
+      "ref": "листок 1, задача 1",
+      "why": "Même idée d'angle extérieur que 0353 mais plus faible ; l'étoile la remplace avantageusement."
+    },
+    {
+      "ref": "листок 1, задача 3",
+      "why": "« Médiane = moitié du côté donc triangle rectangle » : c'est la réciproque d'un théorème du programme de 3e (cercle circonscrit au triangle rectangle). En France, l'élève récite le cours au lieu de chercher."
+    },
+    {
+      "ref": "листок 1, задача 4",
+      "why": "Calcul d'angles correct mais sans surprise ; trois chasses aux angles de ce листок sont déjà retenues (0351, 0352, 0353)."
+    },
+    {
+      "ref": "листок 1, задача 8",
+      "why": "Billard du baron de Münchhausen. La solution du manuel se contente de « il est facile de se convaincre » ; une rédaction honnête demande le dépliage des réflexions, et la figure est difficile à rendre proprement."
+    },
+    {
+      "ref": "листок 2, задачи 1 et 2",
+      "why": "Application directe de l'inégalité triangulaire, une étoile au niveau 3e."
+    },
+    {
+      "ref": "листок 2, задача 3 (a à e)",
+      "why": "Exercice à cinq parties. a) et b) sont immédiats ; d) recoupe largement 0358 qui a été retenu. Le format multi-parties se découpe mal en un exercice."
+    },
+    {
+      "ref": "листок 2, задача 7",
+      "why": "Repris comme « Pour aller plus loin » de 0357 plutôt que comme exercice séparé : c'est le contre-exemple naturel de 0357."
+    },
+    {
+      "ref": "листок 3, задачи 1 à 8 (tout le листок)",
+      "why": "Constructions à la règle et au compas. La réponse est une procédure suivie d'une discussion du nombre de solutions, chaque énoncé demande plusieurs figures, et le sujet a largement disparu des programmes français. Les задачи 5 et 8 ont une vraie idée et mériteraient une passe dédiée avec de bonnes figures."
+    },
+    {
+      "ref": "листок 4, задачи 1, 2 et 3",
+      "why": "Applications directes du théorème de la droite des milieux. La задача 3 tient en une ligne : MN = AC/2 et MN = AB/2 donnent AC = AB."
+    },
+    {
+      "ref": "листок 4, задача 5",
+      "why": "BM = 3AM et CN = 3AN donc MN parallèle à BC : en France le théorème de Thalès et sa réciproque sont au programme de 4e-3e, l'exercice devient une application immédiate."
+    },
+    {
+      "ref": "листок 4, задача 7",
+      "why": "Repris comme « Pour aller plus loin » de 0359, dont il est la suite directe (les diagonales du parallélogramme de Varignon)."
+    },
+    {
+      "ref": "листок 4, задачи 4 et 9",
+      "why": "Constructions (triangle puis pentagone à partir des milieux des côtés) ; même raison que pour le листок 3, et la задача 9 dépend de la задача 6."
+    },
+    {
+      "ref": "листок 4, задача 8",
+      "why": "a) est joli (le segment joignant les milieux de deux médianes vaut a/4) mais exige une figure chargée de quatre points auxiliaires ; b) et c) sont des théorèmes du cours français sur le trapèze."
+    },
+    {
+      "ref": "листок 5, задача 1",
+      "why": "Repris comme « Pour aller plus loin » de 0360 : construction de 1/n et m/n par le théorème de Thalès."
+    }
+  ],
+  "notes": "PIÈGE D'EXTRACTION. La couche texte de AU2.pdf perd les exposants et place indices et exposants sur des lignes de base séparées. Pour lire une formule sûrement, utiliser un visiteur pypdf qui enregistre tm[5] (ligne de base) et la taille de police : le corps de texte est à 14,3 pt, les exposants et indices à 10 pt, les exposants au-dessus de la ligne et les indices en dessous. Exemple vérifié ainsi : листок 2 задача 7 donne bien 2, 2^2, 2^3, ..., 2^10 (et non 2, 22, 23, ..., 210). Toutes les valeurs numériques des dix exercices importés ont été revérifiées de cette façon.\n\nERREURS DU MANUEL repérées au passage. (1) листок 2 задача 8 : le manuel écrit « l9 > 13 + 21 = 33 » puis « l10 > 21 + 33 = 55 » ; les bonnes valeurs sont 34 puis 55. L'exercice 0357 utilise la chaîne corrigée. (2) листок 2 задача 3 г) : le manuel écrit « AB ∩ CD = E » là où il veut dire les diagonales ; la задача 6 page 10 écrit correctement « AC ∩ BD = E ». (3) листок 4 задача 5 : le manuel conclut « KL = 1/2 MN = 3 » alors qu'il faut lire MN = 1/2 KL = 3.\n\nDÉCOUPAGE DE LA SOURCE. Les pages 1 à 22 sont entièrement dans la section « Геометрия » : la répartition par thèmes est donc forcément dominée par la géométrie (9 exercices sur 10). La combinatoire commence au листок 8 (page 35) et l'algèbre au листок 14 (page 59). Table des листки : 1 p.4, 2 p.8, 3 p.12, 4 p.17, 5 p.21, 6 p.26, 7 p.30.\n\nRESTE À FAIRE dans cette plage. Le листок 5 court des pages 21 à 25 : seules les задачи 1 à 4 (page 22) sont dans ma plage et elles sont traitées par 0360. Les задачи suivantes du листок 5 sont au-delà de la page 22. Le листок 3 (constructions) est entièrement non traité et demanderait une passe dédiée avec de vraies figures.\n\nRENDU LATEX. \\widehat{...}, ^\\circ, \\sqrt, \\dfrac et \\le passent correctement par pandoc puis typst (vérifié en compilant les dix PDF). Attention en revanche à ne jamais tester une formule avec `echo` sous zsh : \\alpha, \\circ et \\frac y sont interprétés comme des séquences d'échappement et la formule arrive tronquée à pandoc. Utiliser un heredoc ou un fichier.\n\nDOUBLON SIGNALÉ SANS OBJET. `vm.py check` rapproche 0351 « Deux triangles isocèles dans un triangle isocèle » de 0453 « Deux triangles isocèles » (Kan2017) : ce sont deux problèmes totalement différents, seuls les titres se ressemblent.",
+  "updated": "2026-09-18T22:51:26+02:00"
+}

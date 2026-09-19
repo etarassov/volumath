@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 115" width="300" height="115" font-family="serif">
+  <rect x="40" y="20" width="26" height="26" fill="#d8d8d8" stroke="#000" stroke-width="1.2"/>
+  <rect x="66" y="20" width="26" height="26" fill="#d8d8d8" stroke="#000" stroke-width="1.2"/>
+  <rect x="40" y="46" width="26" height="26" fill="#d8d8d8" stroke="#000" stroke-width="1.2"/>
+  <rect x="66" y="46" width="26" height="26" fill="#d8d8d8" stroke="#000" stroke-width="1.2"/>
+  <rect x="150" y="33" width="26" height="26" fill="#d8d8d8" stroke="#000" stroke-width="1.2"/>
+  <rect x="176" y="33" width="26" height="26" fill="#d8d8d8" stroke="#000" stroke-width="1.2"/>
+  <rect x="202" y="33" width="26" height="26" fill="#d8d8d8" stroke="#000" stroke-width="1.2"/>
+  <rect x="228" y="33" width="26" height="26" fill="#d8d8d8" stroke="#000" stroke-width="1.2"/>
+  <text x="66" y="104" font-size="15" text-anchor="middle" fill="#000">carré 2 × 2</text>
+  <text x="202" y="104" font-size="15" text-anchor="middle" fill="#000">bande 1 × 4</text>
+</svg>

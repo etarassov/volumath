@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" width="300" height="240" font-family="serif">
+  <rect width="300" height="240" fill="#fff"/>
+  <g fill="#ececec" stroke="#000" stroke-width="1.5">
+    <circle cx="82.5" cy="117.5" r="72.9"/>
+    <circle cx="187.5" cy="117.5" r="92.0"/>
+  </g>
+  <polygon points="45,180 255,180 120,55" fill="none" stroke="#000" stroke-width="2"/>
+  <line x1="120" y1="55" x2="120" y2="180" stroke="#000" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <polyline points="120,168 132,168 132,180" fill="none" stroke="#000" stroke-width="1.5"/>
+  <g fill="#000">
+    <circle cx="82.5" cy="117.5" r="3"/>
+    <circle cx="187.5" cy="117.5" r="3"/>
+    <circle cx="120" cy="180" r="3"/>
+  </g>
+  <g font-size="15" fill="#000">
+    <text x="31" y="197">A</text>
+    <text x="259" y="197">C</text>
+    <text x="114" y="46">B</text>
+    <text x="66" y="112">M</text>
+    <text x="194" y="112">N</text>
+    <text x="112" y="199">H</text>
+  </g>
+</svg>

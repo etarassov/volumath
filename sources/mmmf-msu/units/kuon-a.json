@@ -1,0 +1,113 @@
+{
+  "unit": "kuon-a",
+  "source": "mmmf-msu",
+  "title": "Kouznetsov et Onoprienko, 6e-7e classes russes, 2e semestre",
+  "manual": "sources/originals/mmmf-msu/KuOn2017.pdf",
+  "handouts": "sources/originals/mmmf-msu/KuOn2017_handouts.pdf",
+  "pages": [
+    1,
+    30
+  ],
+  "target_grades": "8",
+  "id_block": [
+    "0576",
+    "0600"
+  ],
+  "status": "done",
+  "imported": [
+    "0576",
+    "0577",
+    "0578",
+    "0579",
+    "0580",
+    "0581",
+    "0582",
+    "0583",
+    "0584",
+    "0585"
+  ],
+  "skipped": [
+    {
+      "ref": "листок 1, задача 1",
+      "what": "Tableau 5x10, somme 30 par ligne et 10 par colonne",
+      "why": "Trop facile pour un club de 4e : une seule ligne de calcul (150 contre 100) et aucune seconde idée. C'est le problème d'entrée du listok."
+    },
+    {
+      "ref": "листок 1, задача 3",
+      "what": "Carabas et Barabas, qui connaît qui",
+      "why": "Doublon de la задача 2 (importée en 0576) avec des données inutiles en plus. Placé en « Pour aller plus loin » de 0576."
+    },
+    {
+      "ref": "листок 1, задача 5",
+      "what": "Hexagone, nombres sur les côtés et sommets, en retrouver un effacé",
+      "why": "CORRIGE apres lecture visuelle de la page 7 : l'enonce est entierement verbal, aucune figure n'est necessaire (le dessin de la page 9 illustre seulement la solution). Bon probleme, ecarte uniquement parce que le quota de dix etait atteint. Candidat serieux pour une reprise, avec un hexagone SVG simple en appui."
+    },
+    {
+      "ref": "листок 1, задача 7",
+      "what": "Trois filles, bonbons 4/2/1, chacune 20 bonbons",
+      "why": "Idée réelle mais très mince (60 doit être multiple de 7) et très proche de 0578 déjà importé. Trop léger pour une 4e à deux étoiles."
+    },
+    {
+      "ref": "листок 2, задача 1",
+      "what": "Photographe, il doit rester des oiseaux des trois espèces",
+      "why": "Version d'echauffement de la zadacha 2, importee en 0579. Placee en « Pour aller plus loin » de 0579."
+    },
+    {
+      "ref": "листок 2, задача 3",
+      "what": "Photographe, 11 oiseaux d'une espèce et 10 d'une autre",
+      "why": "Même énoncé de base que 0579, importer les deux ferait doublon. Placée en « Pour aller plus loin » de 0579."
+    },
+    {
+      "ref": "листок 2, задача 4",
+      "what": "Chaussettes, 8 noires 6 blanches 1 grise",
+      "why": "Classique des tiroirs, mais les questions a) et c) se répondent en une phrase ; trop facile pour une 4e même à une étoile. La finesse (une seule chaussette grise) ne porte que deux des quatre questions."
+    },
+    {
+      "ref": "листок 2, задача 5",
+      "what": "Boîte de 10 rouges, 15 bleues, 20 vertes",
+      "why": "Même raisonnement exact que 0579. Placée en « Pour aller plus loin » de 0579."
+    },
+    {
+      "ref": "листок 3, задачи 1, 2, 4, 5, 6",
+      "what": "Flocon, grille en croix, graphe à 8 ronds, étoile à 11 ronds, deux cercles",
+      "why": "CORRIGE apres lecture visuelle des pages 15 et 16. Les figures existent bien et sont maintenant connues : zadacha 1 flocon (6 ronds autour d'un rond central, trois alignements de trois), zadacha 2 croix de 9 cases, zadacha 4 graphe de 8 ronds fortement relie, zadacha 5 etoile a 5 branches avec 11 ronds, zadacha 6 deux cercles concentriques coupes par trois rayons, 7 ronds. Les zadachi 1 et 2 restent ecartees comme trop faciles pour une 4e (il suffit d'apparier 1+7=2+6=3+5 ou 1+9=2+8=...). Les zadachi 4, 5 et 6 sont importables lors d'une reprise : il faut redessiner le graphe en SVG a partir de la page rendue en image."
+    },
+    {
+      "ref": "листок 4, задачи 1 et 2",
+      "what": "Phrases contraires (cinéma, boules, champignons, compagnie)",
+      "why": "Excellent travail de logique mais ce sont des exercices de langue à trous, sans question à résoudre, et la задача 1 demande une mise en page en deux colonnes. Ne tiennent pas dans le format énoncé / solution."
+    },
+    {
+      "ref": "листок 4, задачи 4 et 5",
+      "what": "Plombiers et rap ; l'écriture de Denis",
+      "why": "Deux variantes de la même erreur (confondre une implication et sa réciproque), plus courtes que la задача 3. Placées en « Pour aller plus loin » de 0582."
+    },
+    {
+      "ref": "листок 4, задача 6",
+      "what": "Certains / tous les camarades de Micha ont 12 ans",
+      "why": "Très joli (le cas où Micha n'a aucun camarade), mais la vérité d'un « pour tout » sur un ensemble vide est hors de portée d'une 4e sans un long préambule. À reprendre en 2de ou 1re."
+    },
+    {
+      "ref": "листок 5, задача 1",
+      "what": "Cinq ouvriers, 1500 roubles, magnétophone à 320",
+      "why": "Le manuel lui-même la dit « très simple » : une multiplication. En dessous de la 4e même à une étoile."
+    },
+    {
+      "ref": "листок 5, задача 3",
+      "what": "82 cubes, 10 de couleurs différentes ou 10 de même couleur",
+      "why": "Bonne idée (9 x 9 = 81) mais la même famille que 0583, et plus courte. Placée en « Pour aller plus loin » de 0583."
+    },
+    {
+      "ref": "листок 5, задача 4",
+      "what": "Triangles portant 1, 2, 3 empilés, somme 55 par coin",
+      "why": "Version allégée de la задача 6 du листок 1, importée en 0578. Placée en « Pour aller plus loin » de 0578."
+    },
+    {
+      "ref": "листок 5, задача 6",
+      "what": "Deux nombres de deux chiffres avec ab x cd = abcd",
+      "why": "Bon problème, mis de côté seulement parce que le quota de dix était atteint et que la notation ab avec barre demande une mise en place. Premier candidat pour une reprise de cette unité."
+    }
+  ],
+  "notes": "Pages 1 a 30 = listki 1 a 5 (podschet dvumya sposobami, ptichka vyletaet, chisla v kruzhochkakh, logichno myslit, dokazatelstvo ot protivnogo). Les pages 1 a 6 sont la preface pedagogique, sans exercice. Chaque listok occupe une page d'enonces suivie de 2 a 4 pages de solutions et commentaires. Le livret numerote ses seances « Листок N » (c'est le mot a mettre dans source.reference) ; le mot « занятие » n'apparait que dans la prose de la preface, jamais comme etiquette numerotee. Le handouts.pdf repete chaque feuille deux fois par page (deux exemplaires a decouper) : le texte extrait est donc double.\nLIRE LES PDF ICI : pas de pdftoppm ni de pdftotext sur cette machine, donc l'outil Read ne peut pas ouvrir un PDF. PyMuPDF (import pymupdf) est installe : page.get_text() donne le texte russe, et page.get_pixmap(matrix=pymupdf.Matrix(2.2, 2.2)).save('x.png') donne une image que l'outil Read ouvre sans probleme. C'est la seule facon de voir les figures. ATTENTION : le repertoire scratchpad est partage entre agents ; un fichier nomme p27.png y a ete ecrase par un autre agent en cours de session. Toujours ecrire les images dans un sous-repertoire propre a l'unite et verifier la premiere ligne du texte de la page avant de se fier a une image.\nEXPOSANTS : l'extraction de texte perd les exposants. Verification faite sur ce livret, pages 1 a 30, en listant les spans avec le drapeau superscript (flags & 1) : le seul resultat est la page 8, et il s'agit des numerateurs des fractions 1/7, 1/6, 1/9, 1/10 dans les solutions des zadachi 2 et 3 du listok 1, pas de puissances. Aucun des dix exercices importes ne contient de puissance ; chaque nombre a ete recalcule independamment et les pages 7, 8, 9, 10, 11, 15, 16, 27 et 30 ont ete relues en image. La zadacha 6 du listok 5 utilise en revanche des barres de surlignage (ab, cd, abcd avec barre) que l'extraction perd aussi : le texte sort « ab · cd = abcd ». Refaire ce controle des spans sur les pages 31 a 91 avant d'y importer quoi que ce soit.\nLe listok 3 a plusieurs solutions correctes par probleme, le manuel le dit lui-meme. Reste a faire pour ce livret : pages 31 a 91 (listki 6 a 14, jeu de l'abaque, seance diagnostique), non couvertes par cette unite.",
+  "updated": "2026-09-18T20:47:47Z"
+}

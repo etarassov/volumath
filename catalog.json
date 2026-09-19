@@ -1,0 +1,6154 @@
+[
+  {
+    "id": "0203",
+    "title": "Celsius et Fahrenheit, le même nombre",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "equation",
+      "temperature",
+      "conversion",
+      "relatifs"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017",
+      "reference": "Ast2017b.pdf, листок 24, задача 7 (p. 59)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/algebra/2/0203-same-number-celsius-fahrenheit.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0181",
+    "title": "Le 2 qui passe à la fin",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "equation",
+      "ecriture-decimale",
+      "mise-en-equation",
+      "chiffres"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 22, задача 7",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/algebra/3/0181-six-digit-number-moving-the-leading-two.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0204",
+    "title": "L'escalier mécanique qui s'allonge",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "equation",
+      "vitesse",
+      "escalier",
+      "modelisation"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017",
+      "reference": "Ast2017b.pdf, листок 25, задача 1 (p. 61)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/algebra/3/0204-escalator-that-gets-longer.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0230",
+    "title": "L'argent de Marie",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "mise-en-equation",
+      "double-comptage",
+      "prix",
+      "monnaie"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 28 «Подсчёт двумя способами», задача 7, с. 82",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/algebra/3/0230-maries-coins-and-notes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0481",
+    "title": "Le partage de la recette",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "pourcentage",
+      "proportion",
+      "partage",
+      "rapport"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2017.pdf, листок 13, задача 2, с. 56",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-08/algebra/3/0481-two-shares-and-percentages.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0151",
+    "title": "Ranger les carrés de trois nombres",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "carres",
+      "inegalites",
+      "relatifs",
+      "signes",
+      "contre-exemple"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)",
+      "reference": "Ast2017b.pdf, листок 16, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/algebra/4/0151-squares-of-three-ordered-numbers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0205",
+    "title": "Trente marches en descendant, soixante-dix en montant",
+    "grade": 8,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "equation",
+      "escalier",
+      "vitesse",
+      "modelisation",
+      "fractions"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017",
+      "reference": "Ast2017b.pdf, листок 25, задача 2 (p. 61-62)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/algebra/4/0205-thirty-down-seventy-up-escalator.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0102",
+    "title": "Les bonbons des trois amies",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "divisibilite",
+      "multiple",
+      "invariant",
+      "raisonnement-par-labsurde"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 1, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/arithmetic/2/0102-candies-for-three-friends.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0001",
+    "title": "Parité de n² + n",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "parite",
+      "entiers",
+      "factorisation",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Exercice classique, ajouté comme exemple de mise en forme",
+      "reference": "",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": ""
+    },
+    "path": "grade-08/arithmetic/3/0001-parity-of-n-squared-plus-n.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0104",
+    "title": "Le nombre écrit au tableau",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "chiffres",
+      "produit",
+      "cycle",
+      "periodicite",
+      "reste"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 2, задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0104-the-number-on-the-board.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0106",
+    "title": "La pyramide de carreaux",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "nombres-impairs",
+      "somme",
+      "carre",
+      "denombrement",
+      "generalisation"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 2, задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0106-pyramid-of-odd-numbers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0109",
+    "title": "Les bidons de lait",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "chiffre-des-unites",
+      "divisibilite",
+      "unicite",
+      "entiers"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 5, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0109-milk-cans-of-ten-and-seventeen-litres.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0110",
+    "title": "La date de naissance de Lucie",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "somme-de-chiffres",
+      "maximum",
+      "calendrier",
+      "unicite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 6, задача 9",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0110-birth-date-with-digit-sum-48.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0126",
+    "title": "Les deux nageurs et le radeau",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "vitesse",
+      "courant",
+      "mouvement",
+      "raisonnement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 9, задача 9",
+      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0126-two-swimmers-and-the-raft.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0128",
+    "title": "La pastèque qui a séché",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "pourcentages",
+      "proportions",
+      "invariant"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 12, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0128-the-watermelon-that-dried-out.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0130",
+    "title": "Deux nombres qui se suivent et leurs chiffres",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "somme-des-chiffres",
+      "divisibilite",
+      "entiers",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 13, задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0130-consecutive-numbers-and-their-digit-sums.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0158",
+    "title": "La somme des nombres impairs",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "impairs",
+      "sommes",
+      "carres",
+      "demonstration",
+      "decoupage"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)",
+      "reference": "Ast2017b.pdf, листок 19, задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0158-sum-of-odd-numbers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0159",
+    "title": "Deux élèves prennent des notes",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "impairs",
+      "sommes",
+      "carres",
+      "equation",
+      "probleme-concret"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)",
+      "reference": "Ast2017b.pdf, листок 19, задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0159-two-note-takers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0176",
+    "title": "Toute la suite est divisible par 53",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "divisibilite",
+      "suites",
+      "ecriture-decimale",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 19, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0176-divisible-by-53-forever.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0185",
+    "title": "Les trois chiffres de l'ogre",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "ecriture-decimale",
+      "chiffres",
+      "strategie",
+      "numeration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 22, задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0185-the-ogres-three-digits.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0551",
+    "title": "Retrouver le nombre de départ",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "multiples",
+      "encadrement",
+      "divisibilite",
+      "recherche-de-cas"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 11 «В целых числах», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0551-guess-the-starting-number.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0577",
+    "title": "Neuf chiffres en ronde",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "numeration",
+      "chiffres",
+      "somme",
+      "comptage-double"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей",
+      "reference": "KuOn2017.pdf, листок 1 «Подсчёт двумя способами», задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0577-nine-digits-in-a-circle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0584",
+    "title": "Deux restes impossibles",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "division-euclidienne",
+      "reste",
+      "absurde",
+      "multiples"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей",
+      "reference": "KuOn2017.pdf, листок 5 «Доказательство от противного», задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
+    },
+    "path": "grade-08/arithmetic/3/0584-impossible-pair-of-remainders.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0105",
+    "title": "Le plus petit nombre à somme de chiffres imposée",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "chiffres",
+      "somme-de-chiffres",
+      "divisibilite",
+      "minimum",
+      "encadrement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 2, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/arithmetic/4/0105-smallest-number-with-a-given-digit-sum.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0127",
+    "title": "Faut-il marcher jusqu'à l'arrêt suivant ?",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "vitesse",
+      "mouvement",
+      "fractions",
+      "disjonction-de-cas"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 9, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/arithmetic/4/0127-walk-to-the-next-bus-stop.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0129",
+    "title": "Combien d'élèves ont passé le contrôle ?",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "pourcentages",
+      "multiples",
+      "divisibilite",
+      "fractions"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 12, задача 7",
+      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/arithmetic/4/0129-how-many-pupils-took-the-test.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0177",
+    "title": "L'unité en 2017 fractions différentes",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "fractions",
+      "construction",
+      "demonstration",
+      "denominateurs"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 19, задача 7",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/arithmetic/4/0177-one-as-sum-of-2017-unit-fractions.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0207",
+    "title": "Somme des chiffres : pairs contre impairs",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "chiffres",
+      "somme",
+      "paires",
+      "parite",
+      "retenue"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017",
+      "reference": "Ast2017b.pdf, листок 26, задача 2 (p. 67-68)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/arithmetic/4/0207-digit-sums-even-versus-odd.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0229",
+    "title": "Sept couleurs pour 2017 boules",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "fractions",
+      "inverse",
+      "regroupement",
+      "double-comptage"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 28 «Подсчёт двумя способами», задача 6, с. 81-82",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/arithmetic/4/0229-seven-colours-for-2017-balls.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0206",
+    "title": "Comparer sans compter",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "paires",
+      "denombrement",
+      "divisibilite",
+      "chiffres"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017",
+      "reference": "Ast2017b.pdf, листок 26, задача 1 (p. 67)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/2/0206-compare-without-counting-pairs.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0103",
+    "title": "Un bouquet de vingt et une fleurs",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "denombrement",
+      "principe-multiplicatif",
+      "cas-impossible"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 1, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0103-bouquet-of-twenty-one-flowers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0135",
+    "title": "Le cavalier de a1 à h8",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "echiquier",
+      "coloriage",
+      "parite",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 15, задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0135-knight-from-a1-to-h8.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0153",
+    "title": "Combien de triangles avec dix points ?",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "denombrement",
+      "triangles",
+      "points-alignes",
+      "choix",
+      "repetitions"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)",
+      "reference": "Ast2017b.pdf, листок 17, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0153-triangles-from-ten-points.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0155",
+    "title": "Chemins dans un quadrillage",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "denombrement",
+      "quadrillage",
+      "chemins",
+      "triangle-de-pascal",
+      "choix"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0401"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)",
+      "reference": "Ast2017b.pdf, листок 17, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0155-paths-in-a-grid.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0156",
+    "title": "La somme d'une ligne du triangle de Pascal",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "triangle-de-pascal",
+      "sommes",
+      "puissances-de-deux",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0405"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)",
+      "reference": "Ast2017b.pdf, листок 18, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0156-sum-of-a-pascal-row.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0178",
+    "title": "Des dominos dans une bande",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "denombrement",
+      "pavage",
+      "dominos",
+      "recurrence"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 19, задача 8",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0178-dominoes-in-a-two-by-n-strip.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0179",
+    "title": "Des coccinelles qui changent de case",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "coloriage",
+      "principe-des-tiroirs",
+      "parite",
+      "damier",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 20, задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0179-beetles-on-a-seven-by-seven-board.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0231",
+    "title": "Le ballon de football",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "double-comptage",
+      "mise-en-equation",
+      "polygones",
+      "ballon"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0280"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 28 «Подсчёт двумя способами», задача 8, с. 82-83",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0231-the-football-ball.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0576",
+    "title": "Poignées de main entre deux classes",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "denombrement",
+      "comptage-double",
+      "egalite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей",
+      "reference": "KuOn2017.pdf, листок 1 «Подсчёт двумя способами», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0576-handshakes-between-two-classes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0579",
+    "title": "Le photographe et les oiseaux",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "pire-cas",
+      "denombrement",
+      "strategie",
+      "certitude"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей",
+      "reference": "KuOn2017.pdf, листок 2 «Птичка вылетает!», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0579-photographer-and-the-birds.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0581",
+    "title": "Le triangle qui fait 17",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "placement",
+      "somme",
+      "comptage-double",
+      "triangle"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей",
+      "reference": "KuOn2017.pdf, листок 3 «Числа в кружочках», задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0581-triangle-sides-summing-to-17.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0583",
+    "title": "Deux cueilleurs de noisettes",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "absurde",
+      "tiroirs",
+      "somme",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей",
+      "reference": "KuOn2017.pdf, листок 5 «Доказательство от противного», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
+    },
+    "path": "grade-08/combinatorics/3/0583-two-equal-nut-pickers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0154",
+    "title": "Huit tours qui ne se prennent pas",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "denombrement",
+      "echiquier",
+      "tours",
+      "factorielle",
+      "tiroirs"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)",
+      "reference": "Ast2017b.pdf, листок 17, задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/4/0154-eight-non-attacking-rooks.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0157",
+    "title": "Des plus et des moins dans le triangle de Pascal",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "triangle-de-pascal",
+      "symetrie",
+      "sommes",
+      "parite",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)",
+      "reference": "Ast2017b.pdf, листок 18, задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/4/0157-alternating-sum-in-pascal-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0183",
+    "title": "Découper des carrés 2 × 2",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 40,
+    "tags": [
+      "quadrillage",
+      "marquage",
+      "principe-des-tiroirs",
+      "decoupage",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 20, задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/4/0183-cutting-two-by-two-squares.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0184",
+    "title": "La case qui reste libre",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 45,
+    "tags": [
+      "coloriage",
+      "pavage",
+      "quadrillage",
+      "symetrie",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 20, задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/4/0184-uncovered-cell-in-a-five-by-five-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0208",
+    "title": "Quel chiffre apparaît le plus souvent ?",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "chiffres",
+      "paires",
+      "denombrement",
+      "echange"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017",
+      "reference": "Ast2017b.pdf, листок 26, задача 3 (p. 68-69)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/4/0208-six-digit-codes-which-digit-appears.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0209",
+    "title": "Le point rouge et les polygones",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "paires",
+      "polygones",
+      "cercle",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017",
+      "reference": "Ast2017b.pdf, листок 26, задача 7 (p. 71)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/4/0209-red-point-and-convex-polygons.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0578",
+    "title": "La pile de carrés",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "comptage-double",
+      "divisibilite",
+      "construction",
+      "multiples"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей",
+      "reference": "KuOn2017.pdf, листок 1 «Подсчёт двумя способами», задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
+    },
+    "path": "grade-08/combinatorics/4/0578-stack-of-numbered-squares.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0235",
+    "title": "Trois amis ou trois inconnus",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 5,
+    "duration_min": 35,
+    "tags": [
+      "principe-des-tiroirs",
+      "disjonction-de-cas",
+      "graphes",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 30 «Эйлеровы графы», задача 11, с. 97",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/combinatorics/5/0235-three-friends-or-three-strangers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0585",
+    "title": "Le tournoi du baron de Münchhausen",
+    "grade": 8,
+    "theme": "combinatorics",
+    "difficulty": 5,
+    "duration_min": 35,
+    "tags": [
+      "absurde",
+      "denombrement",
+      "parite",
+      "tournoi",
+      "disjonction-de-cas"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей",
+      "reference": "KuOn2017.pdf, листок 5 «Доказательство от противного», задача 7",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
+    },
+    "path": "grade-08/combinatorics/5/0585-baron-chess-tournament-replays.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0134",
+    "title": "L'angle des aiguilles à 3 h 05",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "angles",
+      "horloge",
+      "fractions",
+      "degres"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 14, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/geometry/2/0134-angle-between-clock-hands-at-five-past-three.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0210",
+    "title": "L'angle des aiguilles de l'horloge",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "angles",
+      "horloge",
+      "degres",
+      "proportionnalite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017",
+      "reference": "Ast2017b.pdf, листок 27, задача 1 (p. 74)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/geometry/2/0210-angle-between-clock-hands.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0453",
+    "title": "Le triangle 5, 5, 6 et le triangle 5, 5, 8",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "aire",
+      "triangle isocele",
+      "pythagore",
+      "hauteur"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников",
+      "reference": "Kan2017.pdf, листок 7, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-08/geometry/2/0453-two-isosceles-triangles-same-area.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0226",
+    "title": "Deux bissectrices perpendiculaires",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "angles",
+      "bissectrice",
+      "demi-droites",
+      "demonstration",
+      "calcul-dangles"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 27 «Измерение углов», задача 8, с. 77",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/geometry/3/0226-two-perpendicular-bisectors.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0452",
+    "title": "Le carré recouvert en partie",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "aire",
+      "carre",
+      "rectangle",
+      "soustraction"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников",
+      "reference": "Kan2017.pdf, листок 7, задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-08/geometry/3/0452-rectangle-laid-over-a-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0108",
+    "title": "Découper un cube en petits cubes",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "cube",
+      "espace",
+      "decoupage",
+      "minimum",
+      "construction"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 3, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/geometry/4/0108-cutting-a-cube-into-unit-cubes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0227",
+    "title": "Trois demi-droites et deux bissectrices",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "angles",
+      "bissectrice",
+      "demi-droites",
+      "disjonction-de-cas",
+      "calcul-dangles"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 27 «Измерение углов», задача 7, с. 77",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/geometry/4/0227-three-rays-and-two-bisectors.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0160",
+    "title": "Un damier privé d'une case",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 5,
+    "duration_min": 45,
+    "tags": [
+      "decoupage",
+      "pavage",
+      "triomino",
+      "puissances-de-deux",
+      "de-proche-en-proche"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)",
+      "reference": "Ast2017b.pdf, листок 19, задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/geometry/5/0160-board-minus-one-cell-trominoes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0180",
+    "title": "Une démonstration qui prouve que 2 + 2 = 5",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "trouver-lerreur",
+      "division-par-zero",
+      "factorisation",
+      "raisonnement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 21, задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/logic-reasoning/2/0180-find-the-error-two-plus-two-equals-five.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0426",
+    "title": "L'âge de Théo",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "logique",
+      "affirmations",
+      "disjonction-de-cas",
+      "inegalites"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, «Математический кружок (8 класс)», сост. А. Л. Канунников, 2017",
+      "reference": "Kan2017.pdf, листок 1 «Логика», задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-08/logic-reasoning/2/0426-theos-age.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0101",
+    "title": "Quatre lundis et quatre vendredis",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "calendrier",
+      "semaine",
+      "disjonction-de-cas",
+      "reste"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 1, задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0101-four-mondays-and-four-fridays.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0132",
+    "title": "Mesurer le temps avec des cordons qui brûlent",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "temps",
+      "strategie",
+      "raisonnement",
+      "duree"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 14, задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0132-measuring-time-with-burning-cords.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0228",
+    "title": "Trente par ligne, dix par colonne",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "tableau",
+      "somme",
+      "double-comptage",
+      "raisonnement-par-labsurde"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 28 «Подсчёт двумя способами», задача 1, с. 79-80",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0228-thirty-per-row-ten-per-column.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0232",
+    "title": "Vingt parties, douze points et demi",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "tournoi",
+      "echecs",
+      "points",
+      "cas-de-reference",
+      "mise-en-equation"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 29 «Турниры», задача 6, с. 88",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0232-twenty-games-twelve-and-a-half-points.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0451",
+    "title": "Mathématiciens et philosophes",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "ensembles",
+      "proportion",
+      "inconnue",
+      "diagramme"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников",
+      "reference": "Kan2017.pdf, листок 6, задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0451-mathematicians-and-philosophers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0505",
+    "title": "Deux coins découpés",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "damier",
+      "dominos",
+      "coloriage",
+      "pavage",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0505-two-corners-cut-from-a-6x6-board.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0506",
+    "title": "Le grand remue-ménage",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "damier",
+      "coloriage",
+      "parite",
+      "tiroirs",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0278"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 2 «Переполох»",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0506-beetles-on-a-5x5-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0552",
+    "title": "Le chevalier, le menteur et l'espion",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "chevaliers-et-menteurs",
+      "vrai-ou-faux",
+      "disjonction-de-cas",
+      "deduction"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 12 «Рыцари и лжецы», задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0552-knight-liar-and-spy.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0582",
+    "title": "Le plus âgé et le meilleur",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "logique",
+      "langage",
+      "contre-exemple",
+      "ensembles"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей",
+      "reference": "KuOn2017.pdf, листок 4 «Логично мыслить – не порок», задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
+    },
+    "path": "grade-08/logic-reasoning/3/0582-oldest-and-best-chess-mathematician.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0107",
+    "title": "Soixante-huit pièces, cent pesées",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "pesees",
+      "balance",
+      "tournoi",
+      "strategie",
+      "optimisation"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 2, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/logic-reasoning/4/0107-sixty-eight-coins-in-a-hundred-weighings.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0131",
+    "title": "Vingt-cinq nombres, quatre par quatre",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "nombres-relatifs",
+      "somme",
+      "raisonnement",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 13, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/logic-reasoning/4/0131-twenty-five-numbers-four-at-a-time.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0133",
+    "title": "Huit verres à égaliser",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "strategie",
+      "moyenne",
+      "demonstration",
+      "puissances-de-deux"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017.pdf, листок 11, задача 8",
+      "url": "https://mmmf.msu.ru/for_schools/Ast2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017.pdf"
+    },
+    "path": "grade-08/logic-reasoning/4/0133-eight-glasses-to-equalize.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0182",
+    "title": "Les poids de l'épicier",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 40,
+    "tags": [
+      "denombrement",
+      "puissances",
+      "balance",
+      "majoration-et-exemple"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 23, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/logic-reasoning/4/0182-shop-weights-one-to-forty.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0201",
+    "title": "Trois coureurs et une seule trottinette",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "vitesse",
+      "optimisation",
+      "majoration",
+      "exemple"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017",
+      "reference": "Ast2017b.pdf, листок 23, задача 7 (p. 51-52)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/logic-reasoning/4/0201-three-runners-one-scooter.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0233",
+    "title": "Deux points et demi, est-ce possible ?",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "tournoi",
+      "echecs",
+      "points",
+      "deduction",
+      "raisonnement-par-labsurde"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 29 «Турниры», задача 5, с. 88",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/logic-reasoning/4/0233-two-and-a-half-points-possible.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0234",
+    "title": "Les sept ponts de Königsberg",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "parite",
+      "graphes",
+      "chemin",
+      "ponts",
+      "raisonnement-par-labsurde"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Ast2017b.pdf, листок 30 «Эйлеровы графы», задача 3, с. 93-94",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-08/logic-reasoning/4/0234-the-seven-bridges-of-konigsberg.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0480",
+    "title": "L'horloge du musée",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "horloge",
+      "aiguilles",
+      "deduction",
+      "disjonction-de-cas"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2017.pdf, листок 13, задача 1, с. 56",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-08/logic-reasoning/4/0480-museum-clock-with-identical-hands.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0529",
+    "title": "La passerelle et la lampe torche",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "optimisation",
+      "traversee",
+      "minimum",
+      "cas"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 6, задача 2 (le manuel donne sa solution sous le numéro 3)",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-08/logic-reasoning/4/0529-bridge-crossing-at-night.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0580",
+    "title": "Les boules magiques du coffret",
+    "grade": 8,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "absurde",
+      "denombrement",
+      "couleurs",
+      "deduction"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей",
+      "reference": "KuOn2017.pdf, листок 2 «Птичка вылетает!», задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/KuOn2017.pdf"
+    },
+    "path": "grade-08/logic-reasoning/4/0580-magic-balls-in-the-casket.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0152",
+    "title": "Le plus grand rectangle de périmètre 4",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "identites-remarquables",
+      "inegalites",
+      "carres",
+      "aire",
+      "perimetre",
+      "optimisation"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)",
+      "reference": "Ast2017b.pdf, листок 16, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-09/algebra/3/0152-largest-rectangle-with-given-perimeter.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0251",
+    "title": "Le numéro du fauteuil et le numéro de la rangée",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "division-euclidienne",
+      "numerotation",
+      "equation",
+      "entiers"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)",
+      "reference": "AU.pdf, письменная работа, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/AU.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/algebra/3/0251-cinema-seat-and-row-numbers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0256",
+    "title": "Quatre pêcheurs et leurs prises deux à deux",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "sommes-deux-a-deux",
+      "ordre",
+      "systeme",
+      "double-comptage"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)",
+      "reference": "AU.pdf, листок 1, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/AU.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/algebra/3/0256-four-anglers-pairwise-catches.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0277",
+    "title": "Deux nombres qui se suivent, même puissance quatrième",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "puissances",
+      "factorisation",
+      "identites-remarquables",
+      "nombres-relatifs"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 3, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/algebra/3/0277-consecutive-numbers-equal-fourth-powers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0406",
+    "title": "Un long produit qui se simplifie",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "identites remarquables",
+      "fractions",
+      "produit",
+      "simplification"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU2.pdf, листок 14, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/algebra/3/0406-telescoping-product.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0501",
+    "title": "Ajouter 1 en haut et en bas",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "fractions",
+      "comparaison",
+      "calcul-litteral",
+      "produit-en-croix"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 1 «Буквы помогают», задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/algebra/3/0501-add-one-to-numerator-and-denominator.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0409",
+    "title": "Quatre entiers consécutifs",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "identites remarquables",
+      "carre parfait",
+      "calcul litteral",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU2.pdf, листок 14, задача 11",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/algebra/4/0409-four-consecutive-integers-plus-one.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0459",
+    "title": "Le théorème de Sophie Germain",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "factorisation",
+      "identites remarquables",
+      "difference de carres",
+      "nombre premier"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников",
+      "reference": "Kan2017.pdf, листок 10, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/algebra/4/0459-sophie-germain-identity.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0533",
+    "title": "La meule de foin du fermier",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "systeme",
+      "vitesses",
+      "absurde",
+      "fractions"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 7, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/algebra/4/0533-farmer-haystack-impossible-rates.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0253",
+    "title": "Somme des carrés de deux nombres impairs",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "carres",
+      "restes",
+      "parite",
+      "divisibilite",
+      "impossibilite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)",
+      "reference": "AU.pdf, письменная работа, задача 8",
+      "url": "https://mmmf.msu.ru/for_schools/AU.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0253-sum-of-two-odd-squares.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0301",
+    "title": "Un produit sans aucun zéro",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "nombres-premiers",
+      "decomposition",
+      "chiffres",
+      "puissances"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов",
+      "reference": "AU.pdf, листок 8 «Просто о простых», задача 2 (с. 48)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0301-product-with-no-zeros.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0304",
+    "title": "Le réservoir et les trois bidons",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "ppcm",
+      "divisibilite",
+      "fractions",
+      "probleme-concret"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов",
+      "reference": "AU.pdf, листок 9 «НОД и НОК», задача 2 (с. 54)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0304-tank-and-three-cans.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0305",
+    "title": "L'horloge coloriée",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "pgcd",
+      "division-euclidienne",
+      "restes",
+      "horloge"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов",
+      "reference": "AU.pdf, листок 9 «НОД и НОК», задача 3 (с. 55)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0305-coloured-clock-face.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0376",
+    "title": "L'aire d'un triangle pythagoricien",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "pythagore",
+      "parite",
+      "restes",
+      "aire",
+      "entiers"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (А. А. Аксёнов, А. А. Севастьянов)",
+      "reference": "AU2.pdf, листок 6 «Пифагоровы треугольники», задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/AU2.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0376-area-of-a-pythagorean-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0408",
+    "title": "Des différences de carrés",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "identites remarquables",
+      "diviseurs",
+      "nombres premiers",
+      "equations entieres"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU2.pdf, листок 14, задача 9",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0408-difference-of-squares-equations.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0458",
+    "title": "Dillers et dallers",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "invariant",
+      "divisibilite",
+      "difference",
+      "monnaie"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников",
+      "reference": "Kan2017.pdf, листок 9, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0458-dillers-and-dallers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0534",
+    "title": "Le nombre 101010 est-il une différence de carrés ?",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "carres",
+      "parite",
+      "divisibilite",
+      "identite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 8, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0534-101010-as-difference-of-two-squares.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0553",
+    "title": "Deux chiffres effacés, un multiple de 72",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "divisibilite",
+      "criteres-de-divisibilite",
+      "chiffres",
+      "somme-des-chiffres"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 11 «В целых числах», задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/arithmetic/3/0553-two-missing-digits-multiple-of-72.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0254",
+    "title": "PGCD de tous les réarrangements de 123456789",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "pgcd",
+      "divisibilite",
+      "chiffres",
+      "somme-des-chiffres",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)",
+      "reference": "AU.pdf, письменная работа, задача 9",
+      "url": "https://mmmf.msu.ru/for_schools/AU.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0254-gcd-of-digit-permutations.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0255",
+    "title": "Un âge égal à la somme des chiffres de son année de naissance",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "somme-des-chiffres",
+      "encadrement",
+      "equation",
+      "unicite",
+      "annee"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)",
+      "reference": "AU.pdf, листок 1, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/AU.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0255-age-equals-digit-sum-of-birth-year.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0302",
+    "title": "Le plus grand diviseur vaut 55",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "diviseurs",
+      "nombres-premiers",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов",
+      "reference": "AU.pdf, листок 8 «Просто о простых», задача 8 (с. 51)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0302-largest-proper-divisor-55.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0307",
+    "title": "Du rectangle au carré",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "pgcd",
+      "algorithme-d-euclide",
+      "quadrillage",
+      "invariant"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов",
+      "reference": "AU.pdf, листок 10 «Алгоритм Евклида», задача 7 (с. 61)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0307-rectangle-cut-into-squares.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0377",
+    "title": "Combien de triangles pythagoriciens ?",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "pythagore",
+      "identites-remarquables",
+      "equation-entiere",
+      "parite",
+      "divisibilite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (А. А. Аксёнов, А. А. Севастьянов)",
+      "reference": "AU2.pdf, листок 6 «Пифагоровы треугольники», задача 8",
+      "url": "https://mmmf.msu.ru/for_schools/AU2.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0377-how-many-pythagorean-triangles.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0430",
+    "title": "Cinq nombres, une somme divisible par 3",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "divisibilite",
+      "reste",
+      "tiroirs",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, «Математический кружок (8 класс)», сост. А. Л. Канунников, 2017",
+      "reference": "Kan2017.pdf, листок 1 «Логика», задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0430-three-of-five-sum-divisible-by-three.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0454",
+    "title": "Le carré 2017 × 2017 découpé en rectangles",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "parite",
+      "perimetre",
+      "aire",
+      "decoupage",
+      "raisonnement par labsurde"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников",
+      "reference": "Kan2017.pdf, листок 6, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0454-square-2017-cut-into-rectangles.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0478",
+    "title": "Le PGCD des produits d'entiers consécutifs",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "pgcd",
+      "divisibilite",
+      "entiers-consecutifs",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2017.pdf, листок 12, задача 1 (а и б), с. 50",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0478-gcd-of-products-of-consecutive-integers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0479",
+    "title": "Quand aⁿ − a est-il divisible par n ?",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "divisibilite",
+      "factorisation",
+      "contre-exemple",
+      "reste",
+      "disjonction-de-cas"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2017.pdf, листок 12, задача 5, с. 50",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0479-is-a-power-n-minus-a-divisible-by-n.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0502",
+    "title": "Des 1 et des 2 qui font un carré",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "carre-parfait",
+      "chiffres",
+      "puissances-de-dix",
+      "demonstration",
+      "calcul-litteral"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 1 «Буквы помогают», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0502-ones-minus-twos-is-a-perfect-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0530",
+    "title": "Un multiple de 14 à toute petite somme de chiffres",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "divisibilite",
+      "chiffres",
+      "multiples",
+      "puissances"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 6, задача 3 (le manuel donne sa solution sous le numéro 2)",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0530-multiple-of-14-smallest-digit-sum.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0554",
+    "title": "Le dernier chiffre d'une tour de 7",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "puissances",
+      "dernier-chiffre",
+      "restes",
+      "periodicite",
+      "divisibilite"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0284"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 11 «В целых числах», задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0554-last-digit-of-seven-power-tower.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0555",
+    "title": "Un carré parfait peut-il finir par 4444 ?",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "carre-parfait",
+      "restes",
+      "parite",
+      "demonstration",
+      "raisonnement-par-labsurde"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 11 «В целых числах», задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/arithmetic/4/0555-square-ending-in-four-fours.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0405",
+    "title": "La somme d'une ligne du triangle de Pascal",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "triangle de pascal",
+      "sommes",
+      "puissances de deux"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0156"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU2.pdf, листок 12, задачи 5 и 8",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/combinatorics/2/0405-sum-of-a-pascal-row.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0252",
+    "title": "Trois, quatre ou cinq amis dans la classe",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "double-comptage",
+      "parite",
+      "amities",
+      "impossibilite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)",
+      "reference": "AU.pdf, письменная работа, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/AU.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/combinatorics/3/0252-counting-friendships-in-a-class.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0279",
+    "title": "Neuf segments qui se croisent",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "segments",
+      "double-comptage",
+      "parite",
+      "impossibilite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 7, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/combinatorics/3/0279-nine-segments-each-crossing-three.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0280",
+    "title": "Le ballon de football",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "double-comptage",
+      "polygones",
+      "equation"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0231"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 6, задача 9",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/combinatorics/3/0280-football-ball-patches.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0329",
+    "title": "Ranger les nombres de 1 à 100 en file",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "denombrement",
+      "ordre",
+      "voisins",
+      "cas-extreme"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 14, задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/combinatorics/3/0329-arrange-1-to-100-in-a-row.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0334",
+    "title": "Trois tapis sur le sol",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "aires",
+      "recouvrement",
+      "intersection",
+      "diagramme"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 15, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/combinatorics/3/0334-three-carpets-on-the-floor.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0382",
+    "title": "Dates ambiguës",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "denombrement",
+      "dates",
+      "calendrier",
+      "principe-multiplicatif"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (А. А. Аксёнов, А. А. Севастьянов)",
+      "reference": "AU2.pdf, листок 8 «Сложить или умножить?», задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/AU2.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/combinatorics/3/0382-ambiguous-dates.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0403",
+    "title": "Les requins du commandant Cousteau",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "denombrement",
+      "puissances de deux",
+      "choix",
+      "maximum"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU2.pdf, листок 11, задача 8",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/combinatorics/3/0403-sharks-and-teeth.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0404",
+    "title": "Lire le mot PASCAL",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "denombrement",
+      "triangle de pascal",
+      "chemins",
+      "recurrence"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU2.pdf, листок 12, задача 7 (le mot russe МЕХМАТ est remplacé par PASCAL)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/combinatorics/3/0404-reading-the-word-pascal.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0428",
+    "title": "Deux fois dans la même rangée",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "tiroirs",
+      "denombrement",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, «Математический кружок (8 класс)», сост. А. Л. Канунников, 2017",
+      "reference": "Kan2017.pdf, листок 3 «Принцип Дирихле», задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/combinatorics/3/0428-twice-in-the-same-row.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0482",
+    "title": "Dix tours sur un damier numéroté",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "damier",
+      "tours",
+      "somme",
+      "invariant",
+      "dizaines"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2017.pdf, листок 13, задача 3, с. 56",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/combinatorics/3/0482-ten-rooks-on-a-numbered-board.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0485",
+    "title": "Chacun lié à exactement trois autres",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "graphe",
+      "parite",
+      "comptage",
+      "absurde"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2017.pdf, листок 14, задача 1, с. 61",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/combinatorics/3/0485-each-linked-to-exactly-three-others.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0202",
+    "title": "Deux droites aux coefficients échangés",
+    "grade": 9,
+    "theme": "functions-analysis",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "fonction",
+      "affine",
+      "droite",
+      "coefficient",
+      "equation"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017",
+      "reference": "Ast2017b.pdf, листок 24, задача 2 (p. 56)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Ast2017b.pdf"
+    },
+    "path": "grade-09/functions-analysis/3/0202-swapped-coefficients-two-lines.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0002",
+    "title": "Un triangle dans un carré",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 2,
+    "duration_min": 20,
+    "tags": [
+      "aire",
+      "carre",
+      "triangle",
+      "paralleles"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Exercice classique, ajouté comme exemple de mise en forme",
+      "reference": "",
+      "url": "",
+      "original_language": "fr",
+      "local_copy": ""
+    },
+    "path": "grade-09/geometry/2/0002-area-of-triangle-in-a-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0332",
+    "title": "Les cent tiges du jeu de construction",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "inegalite-triangulaire",
+      "triangle",
+      "cas-extreme",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 14, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/geometry/3/0332-hundred-sticks-one-check.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0351",
+    "title": "Deux triangles isocèles dans un triangle isocèle",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "triangle-isocele",
+      "somme-des-angles",
+      "chasse-aux-angles"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей",
+      "reference": "AU2.pdf, листок 1, задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/geometry/3/0351-isosceles-split-into-two-isosceles.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0352",
+    "title": "Un angle de 45 degrés dans un triangle rectangle",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "triangle-rectangle",
+      "triangle-isocele",
+      "somme-des-angles",
+      "chasse-aux-angles"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей",
+      "reference": "AU2.pdf, листок 1, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/geometry/3/0352-forty-five-degrees-in-a-right-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0353",
+    "title": "Les cinq pointes d'une étoile",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "somme-des-angles",
+      "angle-exterieur",
+      "etoile",
+      "chasse-aux-angles"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей",
+      "reference": "AU2.pdf, листок 1, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/geometry/3/0353-angles-of-a-five-pointed-star.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0355",
+    "title": "Quatre lieux et quatre distances",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "inegalite-triangulaire",
+      "distance",
+      "alignement",
+      "encadrement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей",
+      "reference": "AU2.pdf, листок 2, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/geometry/3/0355-four-places-and-four-distances.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0359",
+    "title": "Le parallélogramme des milieux",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "milieux",
+      "droite-des-milieux",
+      "parallelogramme",
+      "quadrilatere"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей",
+      "reference": "AU2.pdf, листок 4, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/geometry/3/0359-midpoint-parallelogram.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0380",
+    "title": "Un carré dans un carré",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "aire",
+      "carre",
+      "decoupage",
+      "rapport",
+      "pythagore"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (А. А. Аксёнов, А. А. Севастьянов)",
+      "reference": "AU2.pdf, листок 7 «Равные площади», задача 4 а)",
+      "url": "https://mmmf.msu.ru/for_schools/AU2.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/geometry/3/0380-a-square-inside-a-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0429",
+    "title": "Cinq nœuds du quadrillage",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "parite",
+      "quadrillage",
+      "tiroirs",
+      "milieu",
+      "coordonnees"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, «Математический кружок (8 класс)», сост. А. Л. Канунников, 2017",
+      "reference": "Kan2017.pdf, листок 3 «Принцип Дирихле», задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/geometry/3/0429-five-grid-nodes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0532",
+    "title": "Trois angles entiers",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "triangle",
+      "angles",
+      "inegalites",
+      "entiers"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 7, задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/geometry/3/0532-acute-triangle-integer-angles.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0539",
+    "title": "Les diagonales d'un trapèze",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "trapeze",
+      "aire",
+      "paralleles",
+      "diagonales"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 9, задача 3а",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/geometry/3/0539-trapezoid-diagonals-equal-areas.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0354",
+    "title": "Une différence de côtés égale à la bissectrice",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "bissectrice",
+      "triangle-isocele",
+      "somme-des-angles",
+      "construction-auxiliaire"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей",
+      "reference": "AU2.pdf, листок 1, задача 7",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/geometry/4/0354-side-difference-equals-the-bisector.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0386",
+    "title": "La bissectrice et les aires",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "aire",
+      "bissectrice",
+      "triangle",
+      "rapport",
+      "proportionnalite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (А. А. Аксёнов, А. А. Севастьянов)",
+      "reference": "AU2.pdf, листок 7 «Равные площади», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/AU2.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-09/geometry/4/0386-bisector-and-areas.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0433",
+    "title": "Deux chèvres dans un pré triangulaire",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "cercle",
+      "triangle",
+      "hauteur",
+      "milieu",
+      "recouvrement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, «Математический кружок (8 класс)», сост. А. Л. Канунников, 2017",
+      "reference": "Kan2017.pdf, листок 2 «Козы», задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/geometry/4/0433-two-goats-in-a-triangular-field.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0455",
+    "title": "Le cas d'égalité inventé par Simon",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "triangles superposables",
+      "cas degalite",
+      "contre-exemple",
+      "triangle isocele"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников",
+      "reference": "Kan2017.pdf, листок 7, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/geometry/4/0455-simons-fake-congruence-criterion.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0477",
+    "title": "Deux médianes perpendiculaires",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "mediane",
+      "quadrillage",
+      "perpendiculaire",
+      "construction",
+      "centre-de-gravite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2017.pdf, листок 11, задача 2, с. 48",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/geometry/4/0477-perpendicular-medians-on-grid-paper.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0276",
+    "title": "Victor et les rectangles",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "contre-exemple",
+      "rectangle",
+      "aire",
+      "perimetre"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 3, задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/logic-reasoning/2/0276-bigger-rectangle-does-not-contain.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0278",
+    "title": "Les coccinelles du plateau 5 × 5",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "coloriage",
+      "damier",
+      "invariant",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0506"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 4, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/logic-reasoning/3/0278-ladybirds-on-a-5x5-board.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0309",
+    "title": "Les pièces sur la table ronde",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "jeu",
+      "strategie-gagnante",
+      "symetrie",
+      "centre-de-symetrie"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов",
+      "reference": "AU.pdf, листок 11 «Математические игры-1: явные стратегии», задача 5 (с. 66)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/logic-reasoning/3/0309-coins-on-a-round-table.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0310",
+    "title": "La tablette de chocolat",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "jeu",
+      "invariant",
+      "parite",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов",
+      "reference": "AU.pdf, листок 11 «Математические игры-1: явные стратегии», задача 3 (с. 65)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/logic-reasoning/3/0310-breaking-a-chocolate-bar.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0326",
+    "title": "Le jeu de la pendule",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "jeu",
+      "strategie",
+      "positions-gagnantes",
+      "horloge"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 12, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/logic-reasoning/3/0326-clock-hand-game.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0330",
+    "title": "Les sept lapereaux et leurs tambours",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "cas-extreme",
+      "maximum",
+      "comparaison",
+      "construction"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 14, задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/logic-reasoning/3/0330-seven-leverets-and-drums.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0427",
+    "title": "Quatre cartes à retourner",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "logique",
+      "implication",
+      "contre-exemple",
+      "parite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, «Математический кружок (8 класс)», сост. А. Л. Канунников, 2017",
+      "reference": "Kan2017.pdf, листок 1 «Логика», задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/logic-reasoning/3/0427-four-cards-to-turn-over.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0457",
+    "title": "Les amibes martiennes",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "invariant",
+      "parite",
+      "fusion",
+      "amibes"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников",
+      "reference": "Kan2017.pdf, листок 9, задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/logic-reasoning/3/0457-martian-amoebas.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0507",
+    "title": "Le voyage du cavalier",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "echiquier",
+      "cavalier",
+      "coloriage",
+      "parite",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 3 «Путешествие коня»",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/logic-reasoning/3/0507-knights-journey-from-a1-to-h8.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0257",
+    "title": "Trente et un examens en cinq années",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "encadrement",
+      "entiers",
+      "disjonction-de-cas",
+      "suite-croissante"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)",
+      "reference": "AU.pdf, листок 2, задача 7",
+      "url": "https://mmmf.msu.ru/for_schools/AU.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0257-thirty-one-exams-in-five-years.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0431",
+    "title": "Cinq pêcheurs et neuf poissons",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "maximum",
+      "majoration",
+      "inegalites",
+      "optimisation"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, «Математический кружок (8 класс)», сост. А. Л. Канунников, 2017",
+      "reference": "Kan2017.pdf, листок 1 «Логика», задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0431-five-fishermen-nine-fish.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0432",
+    "title": "Sherlock Holmes et les vingt-cinq insulaires",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "logique",
+      "chevaliers",
+      "menteurs",
+      "strategie",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, «Математический кружок (8 класс)», сост. А. Л. Канунников, 2017",
+      "reference": "Kan2017.pdf, листок 1 «Логика», задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0432-knights-and-liars.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0434",
+    "title": "Le jeu de l'horloge",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "jeu",
+      "strategie",
+      "positions-gagnantes",
+      "raisonnement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, «Математический кружок (8 класс)», сост. А. Л. Канунников, 2017",
+      "reference": "Kan2017.pdf, листок 4 «Что наша жизнь? Игра!», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0434-the-clock-game.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0483",
+    "title": "Neuf pièces et une pièce collée",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "pesees",
+      "balance",
+      "strategie",
+      "fausse-piece",
+      "disjonction-de-cas"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2017.pdf, листок 13, задача 4, с. 56–57",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0483-nine-coins-with-one-stuck-to-the-pan.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0484",
+    "title": "Bénéficiaire sur cinq mois, déficitaire sur l'année",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "absurde",
+      "sommes",
+      "regroupement",
+      "contre-exemple",
+      "nombres-relatifs"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2017.pdf, листок 13, задача 5, с. 57",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0484-profitable-five-months-loss-over-the-year.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0504",
+    "title": "Tapis volant ou balai volant",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "absurde",
+      "disjonction-de-cas",
+      "reseau",
+      "graphes",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 2 «Связные графы», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0504-flying-carpet-or-broomstick.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0508",
+    "title": "Des bandes de quatre cases",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "damier",
+      "pavage",
+      "coloriage",
+      "bandes",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0508-tiling-10x10-with-1x4-strips.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0509",
+    "title": "Onze bandes et un coin",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "damier",
+      "pavage",
+      "coloriage",
+      "divisibilite",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 3 «Раскраски», задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0509-eleven-strips-and-one-corner.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0510",
+    "title": "Quinze couchés, dix-sept debout",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "damier",
+      "dominos",
+      "coloriage",
+      "parite",
+      "pavage"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 4 «Раскраски-2», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0510-fifteen-horizontal-and-seventeen-vertical-dominoes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0528",
+    "title": "Huit maréchaux-ferrants et dix chevaux",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "optimisation",
+      "planning",
+      "minoration",
+      "exemple"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 6, задача 1",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0528-eight-farriers-ten-horses.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0536",
+    "title": "Huit équipes, huit écoles",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "parite",
+      "denombrement",
+      "absurde",
+      "tournoi"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 8 «Чётность», задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0536-eight-teams-eight-schools.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0556",
+    "title": "Pairs ou impairs sur l'île des chevaliers",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "chevaliers-et-menteurs",
+      "parite",
+      "disjonction-de-cas",
+      "contre-exemple",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 12 «Рыцари и лжецы», задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0556-parity-on-the-island-of-knights.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0557",
+    "title": "Cent chevaliers, cent menteurs et leurs amis",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "chevaliers-et-menteurs",
+      "denombrement",
+      "appariement",
+      "disjonction-de-cas"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 12 «Рыцари и лжецы», задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/logic-reasoning/4/0557-hundred-knights-hundred-liars-friends.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0456",
+    "title": "Le carré plié puis coupé",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 5,
+    "duration_min": 40,
+    "tags": [
+      "pliage",
+      "symetrie axiale",
+      "invariant",
+      "quadrillage",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников",
+      "reference": "Kan2017.pdf, листок 8, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-09/logic-reasoning/5/0456-folded-square-cut-in-half.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0537",
+    "title": "Chevaliers, princesses et dragons",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 5,
+    "duration_min": 35,
+    "tags": [
+      "parite",
+      "absurde",
+      "denombrement",
+      "invariant"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 8 «Чётность», задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/logic-reasoning/5/0537-knights-princesses-dragons-survivor.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0559",
+    "title": "Un cube peint découpé en mille",
+    "grade": 9,
+    "theme": "probability-statistics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "probabilite",
+      "equiprobabilite",
+      "denombrement",
+      "cube",
+      "geometrie-dans-lespace"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 14 «Вероятность-2», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/probability-statistics/3/0559-painted-cube-cut-into-thousand.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0558",
+    "title": "L'ordre de passage à l'examen",
+    "grade": 9,
+    "theme": "probability-statistics",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "probabilite",
+      "tirage-sans-remise",
+      "symetrie",
+      "equiprobabilite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 13 «Вероятность», задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-09/probability-statistics/4/0558-exam-ticket-order-does-not-matter.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0331",
+    "title": "Des nombres écrits en cercle",
+    "grade": 10,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "moyenne",
+      "inegalites",
+      "cas-extreme",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 14, задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/algebra/3/0331-numbers-in-a-circle-look-at-the-largest.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0407",
+    "title": "Trois questions, une seule identité",
+    "grade": 10,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "identites remarquables",
+      "difference de carres",
+      "equations",
+      "fractions"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU2.pdf, листок 14, задача 6 (l'année 2015 de l'original est remplacée par 2025)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/algebra/3/0407-three-uses-of-difference-of-squares.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0460",
+    "title": "Deux puissances quatrièmes égales",
+    "grade": 10,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "equation",
+      "puissance",
+      "factorisation",
+      "valeur absolue",
+      "produit nul"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников",
+      "reference": "Kan2017.pdf, листок 10, задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-10/algebra/3/0460-two-equal-fourth-powers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0283",
+    "title": "Combien de participants au congrès ?",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "division-euclidienne",
+      "restes",
+      "ppcm",
+      "multiples"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 5, задача 9",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/arithmetic/3/0283-smallest-number-with-given-remainders.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0281",
+    "title": "Les bactéries de l'éprouvette",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "invariant",
+      "multiples",
+      "divisibilite",
+      "raisonnement-par-labsurde"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 4, задача 9",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/arithmetic/4/0281-bacteria-in-a-test-tube.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0282",
+    "title": "Le tableau 10 × 10 de chiffres",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "divisibilite",
+      "critere-de-divisibilite",
+      "double-comptage",
+      "raisonnement-par-labsurde"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 4, задача 5 (= задача 7а)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/arithmetic/4/0282-ten-by-ten-digit-table-divisible-by-three.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0284",
+    "title": "Le dernier chiffre d'une tour de 7",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "puissances",
+      "restes",
+      "dernier-chiffre",
+      "cycles"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0554"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 5, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/arithmetic/4/0284-last-digit-of-a-tower-of-sevens.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0303",
+    "title": "Carrés parfaits et nombre de diviseurs",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "diviseurs",
+      "carres-parfaits",
+      "equivalence",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов",
+      "reference": "AU.pdf, листок 8 «Просто о простых», задача 9 (с. 51)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/arithmetic/4/0303-squares-and-odd-divisor-count.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0308",
+    "title": "Sommes et différences au tableau",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "pgcd",
+      "invariant",
+      "algorithme-d-euclide",
+      "parite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов",
+      "reference": "AU.pdf, листок 10 «Алгоритм Евклида», задача 6 (с. 61)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/arithmetic/4/0308-sums-and-differences-on-the-board.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0378",
+    "title": "Divisibilité dans un triangle pythagoricien",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 40,
+    "tags": [
+      "pythagore",
+      "divisibilite",
+      "restes",
+      "parite",
+      "absurde"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (А. А. Аксёнов, А. А. Севастьянов)",
+      "reference": "AU2.pdf, листок 6 «Пифагоровы треугольники», задача 11",
+      "url": "https://mmmf.msu.ru/for_schools/AU2.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/arithmetic/4/0378-divisibility-in-a-pythagorean-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0435",
+    "title": "Une différence de carrés divisible par 100",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "divisibilite",
+      "reste",
+      "tiroirs",
+      "identites-remarquables"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, «Математический кружок (8 класс)», сост. А. Л. Канунников, 2017",
+      "reference": "Kan2017.pdf, листок 3 «Принцип Дирихле», задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2017.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2017.pdf"
+    },
+    "path": "grade-10/arithmetic/4/0435-difference-of-squares-divisible-by-hundred.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0503",
+    "title": "La simplification interdite",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 45,
+    "tags": [
+      "chiffres",
+      "divisibilite",
+      "nombres-premiers",
+      "equation",
+      "disjonction-de-cas"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 1 «Буквы помогают», задача 3",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-10/arithmetic/4/0503-forbidden-digit-cancellation.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0306",
+    "title": "Dix entiers consécutifs",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 5,
+    "duration_min": 40,
+    "tags": [
+      "pgcd",
+      "nombres-premiers-entre-eux",
+      "entiers-consecutifs",
+      "denombrement",
+      "demonstration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов",
+      "reference": "AU.pdf, листок 9 «НОД и НОК», задача 6 (с. 57)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/arithmetic/5/0306-ten-consecutive-integers-coprime.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0335",
+    "title": "Peintres, philosophes et poètes",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "ensembles",
+      "intersection",
+      "maximum",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 15, задача 8",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/combinatorics/3/0335-painters-philosophers-and-poets.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0387",
+    "title": "Le code oublié",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "denombrement",
+      "chiffres",
+      "code",
+      "disjonction-de-cas"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (А. А. Аксёнов, А. А. Севастьянов)",
+      "reference": "AU2.pdf, листок 8 «Сложить или умножить?», задача 7",
+      "url": "https://mmmf.msu.ru/for_schools/AU2.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/combinatorics/3/0387-the-forgotten-unlock-code.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0401",
+    "title": "Chemins dans un quadrillage",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "denombrement",
+      "chemins",
+      "quadrillage",
+      "codage"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0155"
+    ],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU2.pdf, листок 10, задача 8",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/combinatorics/3/0401-paths-in-a-grid.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0402",
+    "title": "Six chiffres qui décroissent",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 20,
+    "tags": [
+      "denombrement",
+      "chiffres",
+      "choix",
+      "bijection"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU2.pdf, листок 10, задача 9",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/combinatorics/3/0402-six-digit-decreasing-numbers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0527",
+    "title": "Former des paires et des équipes",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 3,
+    "duration_min": 35,
+    "tags": [
+      "denombrement",
+      "paires",
+      "equipes",
+      "combinaisons"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 5, задача 2",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-10/combinatorics/3/0527-splitting-people-into-pairs-and-teams.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0328",
+    "title": "En combien de morceaux n droites coupent-elles le plan ?",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "droites",
+      "denombrement",
+      "recurrence",
+      "somme-de-gauss"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 13, задача 2 б)",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/combinatorics/4/0328-n-lines-divide-the-plane.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0333",
+    "title": "Deux cases voisines de l'échiquier",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "echiquier",
+      "raisonnement-par-labsurde",
+      "majoration",
+      "chemin"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 14, задача 8",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/combinatorics/4/0333-adjacent-cells-differ-by-five.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0383",
+    "title": "Les nombres qui résistent au demi-tour",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "denombrement",
+      "chiffres",
+      "symetrie",
+      "principe-multiplicatif"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (А. А. Аксёнов, А. А. Севастьянов)",
+      "reference": "AU2.pdf, листок 8 «Сложить или умножить?», задача 9",
+      "url": "https://mmmf.msu.ru/for_schools/AU2.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/combinatorics/4/0383-numbers-unchanged-upside-down.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0538",
+    "title": "Les points de croisement des diagonales",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "denombrement",
+      "diagonales",
+      "polygone",
+      "combinaisons"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 5 «Комбинаторика», задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-10/combinatorics/4/0538-diagonal-crossing-points-convex-polygon.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0260",
+    "title": "Le plus petit club possible",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 5,
+    "duration_min": 40,
+    "tags": [
+      "double-comptage",
+      "divisibilite",
+      "parite",
+      "construction",
+      "minimum"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)",
+      "reference": "AU.pdf, листок 1, задача 9",
+      "url": "https://mmmf.msu.ru/for_schools/AU.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/combinatorics/5/0260-smallest-club-with-given-acquaintances.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0285",
+    "title": "Quatre élèves qui ont autant de connaissances",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 5,
+    "duration_min": 40,
+    "tags": [
+      "principe-des-tiroirs",
+      "parite",
+      "double-comptage",
+      "raisonnement-par-labsurde"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 7, задача 7",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/combinatorics/5/0285-four-students-with-the-same-number-of-acquaintances.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0385",
+    "title": "Une équation avec des factorielles",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 5,
+    "duration_min": 25,
+    "tags": [
+      "factorielle",
+      "equation",
+      "entiers",
+      "infini",
+      "construction"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (А. А. Аксёнов, А. А. Севастьянов)",
+      "reference": "AU2.pdf, листок 9 «Факториал!», задача 8",
+      "url": "https://mmmf.msu.ru/for_schools/AU2.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/combinatorics/5/0385-a-factorial-equation.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0358",
+    "title": "Le meilleur point d'un quadrilatère",
+    "grade": 10,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 25,
+    "tags": [
+      "inegalite-triangulaire",
+      "minimum",
+      "diagonales",
+      "quadrilatere-convexe"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей",
+      "reference": "AU2.pdf, листок 2, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/geometry/3/0358-best-point-of-a-convex-quadrilateral.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0259",
+    "title": "Sept segments, un triangle",
+    "grade": 10,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "inegalite-triangulaire",
+      "raisonnement-par-labsurde",
+      "encadrement",
+      "fibonacci"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)",
+      "reference": "AU.pdf, листок 2, задача 8",
+      "url": "https://mmmf.msu.ru/for_schools/AU.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/geometry/4/0259-seven-segments-form-a-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0357",
+    "title": "Dix segments, un triangle caché",
+    "grade": 10,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "inegalite-triangulaire",
+      "raisonnement-par-labsurde",
+      "fibonacci",
+      "minoration"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей",
+      "reference": "AU2.pdf, листок 2, задача 8",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/geometry/4/0357-ten-segments-and-a-hidden-triangle.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0360",
+    "title": "Construire toutes les racines carrées",
+    "grade": 10,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 40,
+    "tags": [
+      "construction",
+      "regle-et-compas",
+      "pythagore",
+      "racine-carree",
+      "de-proche-en-proche"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей",
+      "reference": "AU2.pdf, листок 5, задачи 2, 3 и 4",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/geometry/4/0360-constructing-every-square-root.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0381",
+    "title": "Le triangle des points de partage",
+    "grade": 10,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "aire",
+      "triangle",
+      "rapport",
+      "partage",
+      "proportionnalite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, пособие для преподавателей (А. А. Аксёнов, А. А. Севастьянов)",
+      "reference": "AU2.pdf, листок 7 «Равные площади», задача 4 б) et les problèmes préliminaires du listok",
+      "url": "https://mmmf.msu.ru/for_schools/AU2.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/geometry/4/0381-triangle-of-the-division-points.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0410",
+    "title": "La hauteur et la moyenne géométrique",
+    "grade": 10,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "triangle rectangle",
+      "hauteur",
+      "triangles semblables",
+      "moyenne geometrique",
+      "inegalite"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU2.pdf, листок 15, задача 6",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/geometry/4/0410-altitude-as-geometric-mean.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0258",
+    "title": "Un rectangle de périmètre divisible par 4",
+    "grade": 10,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 20,
+    "tags": [
+      "raisonnement-par-labsurde",
+      "parite",
+      "aire",
+      "perimetre",
+      "decoupage"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)",
+      "reference": "AU.pdf, листок 1, задача 10",
+      "url": "https://mmmf.msu.ru/for_schools/AU.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/logic-reasoning/4/0258-rectangle-with-perimeter-divisible-by-four.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0327",
+    "title": "Les pièces d'or de l'arbre magique",
+    "grade": 10,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "jeu",
+      "strategie",
+      "positions-gagnantes",
+      "puissances-de-deux"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015",
+      "reference": "AU.pdf, листок 12, задача 5",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU.pdf"
+    },
+    "path": "grade-10/logic-reasoning/4/0327-magic-tree-coins-halving-game.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0356",
+    "title": "Une seule vérification suffit",
+    "grade": 10,
+    "theme": "logic-reasoning",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "inegalite-triangulaire",
+      "raisonnement",
+      "minimum",
+      "cas-extreme"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей",
+      "reference": "AU2.pdf, листок 2, задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
+    },
+    "path": "grade-10/logic-reasoning/4/0356-one-check-is-enough.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "0560",
+    "title": "Dix lancers contre onze",
+    "grade": 10,
+    "theme": "probability-statistics",
+    "difficulty": 5,
+    "duration_min": 40,
+    "tags": [
+      "probabilite",
+      "symetrie",
+      "evenement-contraire",
+      "bijection",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "created": "2026-09-18",
+    "source": {
+      "name": "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей",
+      "reference": "Kan2018.pdf, листок 14 «Вероятность-2», задача 4",
+      "url": "https://mmmf.msu.ru/for_schools/Kan2018.pdf",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
+    },
+    "path": "grade-10/probability-statistics/5/0560-ten-tosses-against-eleven.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  }
+]

@@ -1,0 +1,151 @@
+{
+  "unit": "kan18-c",
+  "source": "mmmf-msu",
+  "title": "Kanounnikov, 8e classe russe, 2e semestre, 3",
+  "manual": "sources/originals/mmmf-msu/Kan2018.pdf",
+  "handouts": "sources/originals/mmmf-msu/Kan2018_handouts.pdf",
+  "pages": [
+    43,
+    63
+  ],
+  "target_grades": "9",
+  "id_block": [
+    "0551",
+    "0575"
+  ],
+  "status": "done",
+  "imported": [
+    {
+      "id": "0551",
+      "grade": "8",
+      "theme": "arithmetic",
+      "difficulty": 3,
+      "source": "листок 11, задача 2",
+      "title": "Retrouver le nombre de départ"
+    },
+    {
+      "id": "0552",
+      "grade": "8",
+      "theme": "logic-reasoning",
+      "difficulty": 3,
+      "source": "листок 12, задача 3",
+      "title": "Le chevalier, le menteur et l'espion"
+    },
+    {
+      "id": "0553",
+      "grade": "9",
+      "theme": "arithmetic",
+      "difficulty": 3,
+      "source": "листок 11, задача 1",
+      "title": "Deux chiffres effacés, un multiple de 72"
+    },
+    {
+      "id": "0554",
+      "grade": "9",
+      "theme": "arithmetic",
+      "difficulty": 4,
+      "source": "листок 11, задача 4",
+      "title": "Le dernier chiffre d'une tour de 7"
+    },
+    {
+      "id": "0555",
+      "grade": "9",
+      "theme": "arithmetic",
+      "difficulty": 4,
+      "source": "листок 11, задача 6",
+      "title": "Un carré parfait peut-il finir par 4444 ?"
+    },
+    {
+      "id": "0556",
+      "grade": "9",
+      "theme": "logic-reasoning",
+      "difficulty": 4,
+      "source": "листок 12, задача 4",
+      "title": "Pairs ou impairs sur l'île des chevaliers"
+    },
+    {
+      "id": "0557",
+      "grade": "9",
+      "theme": "logic-reasoning",
+      "difficulty": 4,
+      "source": "листок 12, задача 5",
+      "title": "Cent chevaliers, cent menteurs et leurs amis"
+    },
+    {
+      "id": "0558",
+      "grade": "9",
+      "theme": "probability-statistics",
+      "difficulty": 4,
+      "source": "листок 13, задача 4",
+      "title": "L'ordre de passage à l'examen"
+    },
+    {
+      "id": "0559",
+      "grade": "9",
+      "theme": "probability-statistics",
+      "difficulty": 3,
+      "source": "листок 14, задача 2",
+      "title": "Un cube peint découpé en mille"
+    },
+    {
+      "id": "0560",
+      "grade": "10",
+      "theme": "probability-statistics",
+      "difficulty": 5,
+      "source": "листок 14, задача 4",
+      "title": "Dix lancers contre onze"
+    }
+  ],
+  "skipped": [
+    {
+      "source": "листок 10 (p. 43-45)",
+      "reason": "Ces pages ne contiennent que les solutions du listok 10 ; les enonces sont p. 42, hors de mon intervalle, et relevent de l'unite voisine. Geometrie d'aires et triangulation, figures indispensables."
+    },
+    {
+      "source": "листок 11, задача 3",
+      "reason": "28x+30y+31z=365 : devinette dont tout le contenu est de reconnaitre les jours de l'annee. Aucune methode, et la question ne demande qu'un exemple."
+    },
+    {
+      "source": "листок 11, задача 5",
+      "reason": "4x^2-1=y^3 : l'etape cle est « un produit de nombres premiers entre eux est un cube seulement si chacun l'est », qui repose sur la decomposition en facteurs premiers. Le manuel dit lui-meme de ne pas en exiger la justification. Pas honnetement demontrable a nos niveaux."
+    },
+    {
+      "source": "листок 12, задача 1",
+      "reason": "Echauffement classique d'entree sur les chevaliers et menteurs, une etoile. Les trois autres problemes du meme listok portent plus d'idees."
+    },
+    {
+      "source": "листок 12, задача 2",
+      "reason": "Proche de la задача 1 par sa forme, et la question « comment a-t-il devine ? » est formulee de facon trop lache pour un enonce ecrit."
+    },
+    {
+      "source": "листок 13, задачи 1, 2, 3, 6",
+      "reason": "Exercices d'entrainement sur l'equiprobabilite (deux lancers, deux des, sac de boules, QCM). Pas d'idee reelle, ce sont des applications directes."
+    },
+    {
+      "source": "листок 13, задача 5",
+      "reason": "Quatre boules, 50 tirages doubles noirs sur 100 : raisonnement de vraisemblance vraiment interessant, mais la reponse est un jugement « le plus probable » et non une demonstration, et il faut les combinaisons. Bon candidat pour une place en 2de dans une session ulterieure."
+    },
+    {
+      "source": "листок 14, задача 1",
+      "reason": "Ascenseur, trois personnes, etages 2 a 5 : bon exercice de denombrement en quatre questions. Ecarte uniquement pour rester dans la limite de dix problemes."
+    },
+    {
+      "source": "листок 14, задача 3",
+      "reason": "Dix tomes, probabilite que les tomes 1 et 2 soient cote a cote : bon probleme, ecarte pour la meme raison de quota."
+    },
+    {
+      "source": "листок 14, задача 5",
+      "reason": "Paradoxe des anniversaires : la question b) demande une estimation numerique a la calculatrice, ce qui sort du format. De plus le manuel se trompe dans l'ecriture du produit."
+    },
+    {
+      "source": "листок 14, задача 6",
+      "reason": "Monty Hall : tres largement connu, et le corrige du manuel est une discussion d'intuition plutot qu'une demonstration."
+    },
+    {
+      "source": "листок 15 (p. 61-63), les 13 problemes",
+      "reason": "Listok d'encheres mathematiques : le manuel ne donne AUCUNE solution, et la plupart des problemes sont des optimisations ouvertes (« le plus grand possible ») dont je ne peux pas etablir l'optimum avec certitude. Deux exceptions surement resolubles, laissees a une session ulterieure : задача 3 (plus petite somme des chiffres d'un multiple de 14, reponse 2, par exemple 10010) et задача 6 (singe, 2 noix de coco, 15 etages, reponse 5 lancers)."
+    }
+  ],
+  "notes": "Couverture : listok 11 « В целых числах » (p. 46-49), listok 12 « Рыцари и лжецы » (p. 50-52), listok 13 « Вероятность » (p. 53-56), listok 14 « Вероятность-2 » (p. 57-60), listok 15 « Математический аукцион » (p. 61-63). Les pages 43-45 ne sont que les corriges du listok 10, dont les enonces sont p. 42. Aucune figure n'a ete necessaire. PIEGE D'EXTRACTION : la couche texte du PDF perd tous les exposants. 7^(7^7) sort en « 777 », 4x^2 en « 4x2 », 3^15 en « 315 », C(5,2) en « C2 5 ». Toujours relire la solution pour reconstituer les exposants avant de traduire. DEUX ERREURS DU MANUEL reperees et corrigees a l'import : (1) listok 11 задача 2, la remarque finale dit que Jenia a ajoute 5 et Sacha retranche 6, ce qui contredit leur propre reponse : pour passer de 72 a 73 il faut ajouter 6 puis retrancher 5. (2) listok 14 задача 5, le produit est ecrit « 365*364*...*337 » a un endroit et « ...*343 » a un autre ; 343 est le bon. Pour 0555 (carre finissant par 4444), le manuel raisonne modulo 16 ; un argument modulo 4 est plus court et tient en 3e, c'est celui qui est ecrit. Le listok 15 est sans corriges, il faut tout resoudre soi-meme.",
+  "updated": "2026-09-18T22:38:06+02:00"
+}

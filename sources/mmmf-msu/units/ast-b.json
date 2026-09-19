@@ -1,0 +1,141 @@
+{
+  "unit": "ast-b",
+  "source": "mmmf-msu",
+  "title": "Astachov et al., 7e classe russe, 1re partie, fin",
+  "manual": "sources/originals/mmmf-msu/Ast2017.pdf",
+  "handouts": "sources/originals/mmmf-msu/Ast2017_handouts.pdf",
+  "pages": [
+    28,
+    53
+  ],
+  "target_grades": "8",
+  "id_block": [
+    "0126",
+    "0150"
+  ],
+  "status": "done",
+  "imported": [
+    "0126",
+    "0127",
+    "0128",
+    "0129",
+    "0130",
+    "0131",
+    "0132",
+    "0133",
+    "0134",
+    "0135"
+  ],
+  "skipped": [
+    {
+      "ref": "листок 8, задачи 1-9",
+      "reason": "Découpages du carré. Le manuel ne donne que « voir figure » comme solution : chaque exercice demanderait un dessin reconstruit, et plusieurs sont en dessous de la 4e. Feuille entière écartée. À revoir par une session prête à dessiner : задача 5 (somme des périmètres = périmètre du carré + 2 fois la longueur des coupes) et задача 7 (découper un carré en n carrés pour tout n > 5)."
+    },
+    {
+      "ref": "листок 9, задачи 1-5, 7",
+      "reason": "Problèmes de vitesse et de travail classiques et sans idée propre : rattrapage simple, vitesse de rapprochement, équation x/5 + x/3 = 1200, peinture de la clôture, baignoire à deux robinets. Bons exercices d'entraînement mais déjà très représentés ailleurs."
+    },
+    {
+      "ref": "листок 9, задача 8",
+      "reason": "L'artel de faucheurs (classique de Tolstoï). Bon problème, mais long et la solution du manuel est difficile à suivre. Candidat sérieux pour une session suivante."
+    },
+    {
+      "ref": "листок 9, задача 10",
+      "reason": "L'escargot sur le bambou qui pousse. Belle idée, mais la mise en équation est lourde pour une 4e ; plutôt un candidat grade-09."
+    },
+    {
+      "ref": "листок 10, задачи 1-7",
+      "reason": "« Chevaliers, menteurs et télépathes ». Toute la feuille repose sur un jeu de règles inventé (des télépathes qui inversent la sincérité de leurs voisins, avec neutralisations). Aucun problème ne tient debout sans réimprimer une demi-page de règles. Feuille entière écartée."
+    },
+    {
+      "ref": "листок 11, задачи 1-4, 6",
+      "reason": "Transvasements classiques (seaux de 4 et 9 L, 15 et 16 L, bidons de 14/9/5 L). La solution n'est qu'une liste d'étapes de versement, sans idée à nommer."
+    },
+    {
+      "ref": "листок 11, задача 5",
+      "reason": "Le pichet de Tanya, de 3 ou 4 litres : déterminer sa contenance sans pouvoir regarder dedans. Original et malin, écarté seulement par manque de place. Bon candidat pour une session suivante."
+    },
+    {
+      "ref": "листок 11, задача 7",
+      "reason": "Obtenir 10 L de sirop à 30 %. Astucieux, mais long et le texte de la solution est tronqué dans le PDF (deux noms de récipients manquants)."
+    },
+    {
+      "ref": "листок 12, задачи 1-3",
+      "reason": "Exercices de pourcentages en une étape (multiplier par 1,27 ; par quel pourcentage un nombre a-t-il changé ; deux piles de cahiers). En dessous du niveau d'un club de 4e."
+    },
+    {
+      "ref": "листок 12, задачи 4, 5, 8",
+      "reason": "Pourcentages corrects mais routiniers : -20 % puis +20 %, longueur +25 % et largeur ?, filles 25 % puis 20 %. Écartés au profit de la pastèque et du contrôle, plus riches."
+    },
+    {
+      "ref": "листок 12, задача 9",
+      "reason": "Numéros d'appartements et « 40 % de plus ». L'énoncé du manuel est ambigu (ce qui est comparé n'est pas dit clairement) et la solution demande une étude de cas sur le nombre de chiffres. Trop risqué à traduire fidèlement."
+    },
+    {
+      "ref": "листок 13, задача 2",
+      "reason": "Somme égale à 1 et somme des carrés inférieure à 0,1. Correct mais mince : un exemple bien choisi suffit."
+    },
+    {
+      "ref": "листок 13, задача 3",
+      "reason": "12 pièces le long des parois d'une boîte carrée, six sous-questions. Demande une figure et des conventions précises (pièces empilées, pièces dans les coins)."
+    },
+    {
+      "ref": "листок 13, задача 4",
+      "reason": "Cryptarithme ОДИН+ОДИН+ПЯТЬ=СЕМЬ : l'idée est que 11 lettres distinctes ne peuvent pas recevoir 10 chiffres distincts. Cela ne se traduit pas, il faut refabriquer l'énoncé en français. TROIS+TROIS+HUIT=QUATORZE donne bien 11 lettres distinctes et une addition vraie : laissé à une session qui le vérifiera."
+    },
+    {
+      "ref": "листок 13, задача 5",
+      "reason": "Carré magique 3x3 avec les chiffres 1 à 9. Très connu et largement résolu par essais."
+    },
+    {
+      "ref": "листок 13, задача 7",
+      "reason": "Les bonbons d'André, Boris et Vincent : logique par cas, de bonne qualité. Écarté par manque de place, bon candidat pour une session suivante."
+    },
+    {
+      "ref": "листок 13, задачи 8, 9",
+      "reason": "Coloriage d'un damier 5x5 sous contraintes, et 51 villes à relier avec 11000 km de routes. Deux bons problèmes, mais l'un et l'autre demandent une figure pour être lisibles."
+    },
+    {
+      "ref": "листок 14, задача 2",
+      "reason": "Maman kangourou rattrape son petit : même structure que листок 9 задача 1, déjà écarté."
+    },
+    {
+      "ref": "листок 14, задача 3",
+      "reason": "Sabliers de 3 et 10 minutes pour cuire un oeuf 4, 5 puis 28 minutes. Bon problème, écarté pour ne pas doubler le thème « mesurer une durée » déjà pris par les cordons (0132). Bon candidat pour une session suivante."
+    },
+    {
+      "ref": "листок 14, задача 4",
+      "reason": "Trois questions sur un afficheur numérique (somme des chiffres maximale, minutes contre secondes, temps d'affichage du chiffre 2). La question b) est un très joli argument d'appariement et mériterait un import à elle seule, à condition d'expliquer le format d'affichage."
+    },
+    {
+      "ref": "листок 14, задача 6",
+      "reason": "L'astrologue et les « bonnes » heures : argument de symétrie miroir sur trois aiguilles. Trop abstrait pour une 4e."
+    },
+    {
+      "ref": "листок 14, задача 7",
+      "reason": "Segments d'un afficheur à sept branches. Demande les figures des dix chiffres et une étude fine ; illisible sans reproduire l'afficheur."
+    },
+    {
+      "ref": "листок 15, задача 1",
+      "reason": "Nombre maximal de tours, fous, rois, cavaliers, dames ne s'attaquant pas. Cinq sous-questions dont chacune réclame un schéma de placement."
+    },
+    {
+      "ref": "листок 15, задачи 3, 5, 6",
+      "reason": "Tours couvrant toutes les cases blanches, pions en nombre pair sur chaque diagonale, 32 cavaliers en attaquant chacun deux. Bonnes idées, mais chaque réponse repose sur un exemple dessiné."
+    },
+    {
+      "ref": "листок 15, задача 4",
+      "reason": "Huit figures à marquer, une par ligne et par colonne. Joli raisonnement de proche en proche, mais l'énoncé est abstrait et se rapproche d'un cours sur les systèmes de représentants."
+    },
+    {
+      "ref": "листок 15, задача 7",
+      "reason": "Le roi qui fait le tour du damier et revient : le nombre de déplacements diagonaux est pair. Très bel argument de parité, du même genre que 0135. Écarté pour ne pas répéter l'idée dans la même série ; bon candidat pour une session suivante."
+    },
+    {
+      "ref": "листок 15, задача 8",
+      "reason": "n tours blanches et n tours noires qui ne s'attaquent pas. Étude de cas lourde, plutôt grade-09 ou grade-10."
+    }
+  ],
+  "notes": "Pages 28-53 du manuel = листки 8 a 15 : decouper le carre, mouvement et travail, chevaliers-menteurs-telepathes, transvasements, pourcentages, possible ou impossible, problemes d'horloge, problemes d'echecs. Cette source numerote par « листок » (feuille) et non par « занятие », d'ou le format de reference utilise : « Ast2017.pdf, листок N, задача M ». Le листок 10 (telepathes) est inutilisable pour un import a la piece : chaque enonce depend d'une page de regles inventees. Le листок 8 est entierement figuratif et ses solutions se reduisent a « voir figure ». Erreurs reperees dans le manuel : листок 15 задача 2 affirme que a1 est blanche et h8 noire, ce qui est faux sur un vrai echiquier (les deux sont sombres) ; seul compte le fait qu'elles soient de la meme couleur, et c'est ainsi que 0135 le demontre. Les solutions de листок 11 задача 7 et листок 12 задача 9 sont tronquees ou ambigues dans la couche texte du PDF. Outillage : aucun lecteur PDF n'etait installe sur cette machine et l'outil Read echoue (poppler absent). Solution utilisee : « python3 -m pip install --user pymupdf » puis extraction du texte page par page. Le texte extrait est fiable, sauf pour les formules mathematiques et les guillemets russes. Les handouts (Ast2017_handouts.pdf) reprennent les memes numeros de листок : листок 12 est en page 19, листок 13 en page 20, листок 14 en page 21, листок 15 en page 23. Ids 0136 a 0150 du bloc reserve : non utilises. VERIFICATION VISUELLE (faite apres coup, sur alerte du coordinateur) : les pages sources des dix exercices (33, 34, 40, 41, 42, 43, 44, 45, 47, 49, 51) ont ete rendues en PNG avec pymupdf puis relues comme images. Tous les nombres des enonces et des solutions importes ont ete confirmes. Aucun des dix exercices ne contient de puissance, donc le defaut d'extraction des exposants ne les touche pas. Ce defaut est bien reel sur ce fichier : листок 13 задача 2 affiche 11 x (1/11)^2 = 1/11, extrait en texte comme « 11 · ( 1 11)2 = 1 11 ». Tout nombre a l'air repetitif doit etre verifie sur l'image de la page. PIEGE D'OUTILLAGE : le repertoire scratchpad est partage entre les agents qui importent en parallele. Un premier rendu nomme « p43.png » a ete ecrase par un autre agent entre l'ecriture et la lecture, et a renvoye la page d'un tout autre document (« Листок 10. Алгебра »). Toujours rendre dans un sous-dossier propre a l'agent, avec un prefixe unique.",
+  "updated": "2026-09-18T22:46:21+02:00"
+}
