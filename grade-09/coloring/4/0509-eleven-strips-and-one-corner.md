@@ -2,7 +2,7 @@
 id: "0509"
 title: "Onze bandes et un coin"
 grade: 9
-theme: logic-reasoning
+theme: coloring
 difficulty: 4
 duration_min: 30
 tags: [damier, pavage, coloriage, divisibilite, demonstration]

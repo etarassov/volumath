@@ -2,7 +2,7 @@
 id: "0179"
 title: "Des coccinelles qui changent de case"
 grade: 8
-theme: combinatorics
+theme: coloring
 difficulty: 3
 duration_min: 25
 tags: [coloriage, principe-des-tiroirs, parite, damier, demonstration]

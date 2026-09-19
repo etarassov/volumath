@@ -33,6 +33,7 @@ THEMES = [
     "probability-statistics",
     "combinatorics",
     "logic-reasoning",
+    "coloring",
 ]
 
 THEME_LABELS = {
@@ -43,6 +44,7 @@ THEME_LABELS = {
     "probability-statistics": "Probabilités et statistiques",
     "combinatorics": "Dénombrement",
     "logic-reasoning": "Logique et raisonnement",
+    "coloring": "Coloriage",
 }
 
 GRADE_LABELS = {8: "4e", 9: "3e", 10: "2de", 11: "1re", 12: "Terminale"}

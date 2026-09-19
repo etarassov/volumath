@@ -2,11 +2,12 @@
 id: "0135"
 title: "Le cavalier de a1 à h8"
 grade: 8
-theme: combinatorics
+theme: coloring
 difficulty: 3
 duration_min: 25
 tags: [echiquier, coloriage, parite, demonstration]
 adapted_from: null
+see_also: ["0507"]
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей"

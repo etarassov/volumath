@@ -2,7 +2,7 @@
 id: "0278"
 title: "Les coccinelles du plateau 5 × 5"
 grade: 9
-theme: logic-reasoning
+theme: coloring
 difficulty: 3
 duration_min: 25
 tags: [coloriage, damier, invariant, denombrement]

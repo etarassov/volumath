@@ -29,7 +29,11 @@ s'affichent toujours dans le bon ordre :
 | `grade-12` | terminale |
 
 Les thèmes : `arithmetic`, `algebra`, `geometry`, `functions-analysis`,
-`probability-statistics`, `combinatorics`, `logic-reasoning`.
+`probability-statistics`, `combinatorics`, `logic-reasoning`, `coloring`.
+
+`coloring` regroupe les exercices qui se résolvent en coloriant le damier ou la figure :
+parité de l'échiquier, rayures, blocs de quatre. C'est une méthode à part entière, très
+utile en club, et les exercices sont plus faciles à retrouver réunis.
 
 Le catalogue complet, lisible, est dans [INDEX.md](INDEX.md).
 

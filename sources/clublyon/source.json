@@ -1,0 +1,12 @@
+{
+  "source": "clublyon",
+  "name": "Club de mathématiques de Lyon, feuilles de séance",
+  "url": "",
+  "language": "fr",
+  "kind": "Feuilles de séance d'un club de mathématiques, niveau collège débutants, année 2023-2024. Écrites en français, une feuille par séance datée.",
+  "structure": "Chaque feuille contient uniquement des énoncés, parfois précédés de quelques rappels de cours. **Il n'y a aucune solution.** Les solutions doivent donc être écrites et vérifiées par celui qui importe.",
+  "origins": "Les feuilles citent elles-mêmes leurs sources : stages Animath, M. Aassila «Objectif Olympiades», Mathematical Olympiads for Middle School (Moscou), envois POFM, Olympiades de Mathématiques de 4ème, A. Engel.",
+  "citation": "Club de mathématiques de Lyon, feuille «<titre>», <date>",
+  "note_levels": "Tout est annoncé «niveau collège - débutants», donc surtout grade-08, un peu de grade-09. C'est la source qui doit combler le manque d'exercices faciles (difficulté 1 et 2) de la base.",
+  "added": "2026-09-19"
+}

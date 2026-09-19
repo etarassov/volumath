@@ -2,7 +2,7 @@
 id: "0510"
 title: "Quinze couchés, dix-sept debout"
 grade: 9
-theme: logic-reasoning
+theme: coloring
 difficulty: 4
 duration_min: 25
 tags: [damier, dominos, coloriage, parite, pavage]

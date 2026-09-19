@@ -2,7 +2,7 @@
 id: "0505"
 title: "Deux coins découpés"
 grade: 8
-theme: logic-reasoning
+theme: coloring
 difficulty: 3
 duration_min: 20
 tags: [damier, dominos, coloriage, pavage, demonstration]

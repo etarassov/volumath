@@ -2,7 +2,7 @@
 id: "0184"
 title: "La case qui reste libre"
 grade: 8
-theme: combinatorics
+theme: coloring
 difficulty: 4
 duration_min: 45
 tags: [coloriage, pavage, quadrillage, symetrie, demonstration]

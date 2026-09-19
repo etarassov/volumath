@@ -2,7 +2,7 @@
 id: "0508"
 title: "Des bandes de quatre cases"
 grade: 9
-theme: logic-reasoning
+theme: coloring
 difficulty: 4
 duration_min: 30
 tags: [damier, pavage, coloriage, bandes, demonstration]

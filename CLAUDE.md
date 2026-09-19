@@ -17,7 +17,13 @@ grade-11/  1re                  functions-analysis
 grade-12/  Terminale            probability-statistics
                                 combinatorics
                                 logic-reasoning
+                                coloring
 ```
+
+`coloring` is for problems solved by colouring the board or the figure: chessboard parity,
+stripes, blocks of four. The colouring **is** the idea, so they sit together rather than
+scattered through geometry and logic. A problem that merely mentions colour is not one of
+these.
 
 Full path: `grade-09/geometry/2/0002-area-of-triangle-in-a-square.md`.
 Folders are created when they are first needed, not all in advance.

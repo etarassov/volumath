@@ -2,7 +2,7 @@
 id: "0506"
 title: "Le grand remue-ménage"
 grade: 8
-theme: logic-reasoning
+theme: coloring
 difficulty: 3
 duration_min: 20
 tags: [damier, coloriage, parite, tiroirs, demonstration]
