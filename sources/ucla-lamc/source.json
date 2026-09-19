@@ -35,5 +35,36 @@
     "resolvers answer normally. The PDFs were fetched with a pinned IP:",
     "curl --resolve circles.math.ucla.edu:443:128.97.4.7 <url>",
     "Everything needed is already on disk, so importers never touch the network."
-  ]
+  ],
+  "not_really_pdfs": {
+    "count": 25,
+    "what": "Served with a .pdf name but actually zip/docx bundles, PNGs, PostScript, xfig, raw LaTeX, or one HTML error page. Skip them and note it in the unit file; the session usually has another file that is a real PDF.",
+    "files": [
+      "Handout-1461-1425.pdf",
+      "Handout-1972-1813.pdf",
+      "Handout-2432-2149.pdf",
+      "Handout-2944-2533.pdf",
+      "Handout-2945-2533.pdf",
+      "Handout-2946-2533.pdf",
+      "Handout-3659-3254.pdf",
+      "Handout-4039-3718.pdf",
+      "Handout-4399-4210.pdf",
+      "Handout-4610-4550.pdf",
+      "Handout-4611-4549.pdf",
+      "Handout-4694-4780.pdf",
+      "Handout-4699-4799.pdf",
+      "Handout-471-554.pdf",
+      "Handout-4712-4807.pdf",
+      "Handout-4715-4808.pdf",
+      "Handout-480-590.pdf",
+      "Handout-4879-5147.pdf",
+      "Handout-4891-5164.pdf",
+      "Handout-4972-5338.pdf",
+      "Handout-5084-5536.pdf",
+      "Handout-5087-5536.pdf",
+      "handoutId111-1.pdf",
+      "handoutId114-1.pdf",
+      "handoutId90-0.pdf"
+    ]
+  }
 }
