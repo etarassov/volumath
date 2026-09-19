@@ -125,6 +125,7 @@ python3 tools/vm.py check                     # validate every file, use it afte
 python3 tools/vm.py index                     # rebuild catalog.json and INDEX.md
 python3 tools/vm.py build --ids 0001 0002     # one PDF per exercise: statement, hints, solution
 python3 tools/vm.py sheet --out seance-01 --grade 8 --theme arithmetic --title "Séance 1"
+python3 scripts/stats.py                      # counts by source, grade, theme, difficulty
 ```
 
 `sheet` writes two PDFs, one for the students with the statements only, one for the teacher
