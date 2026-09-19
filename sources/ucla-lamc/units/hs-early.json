@@ -1,0 +1,650 @@
+{
+ "unit": "hs-early",
+ "source": "ucla-lamc",
+ "title": "High School I and II, 2012-2013",
+ "id_block": [
+  "2601",
+  "2800"
+ ],
+ "status": "pending",
+ "sessions_total": 43,
+ "sessions_with_answers": 2,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "828",
+   "date": "5/11/2014",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Group Theory 2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-720-828.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-721-828.pdf"
+    }
+   ]
+  },
+  {
+   "event": "552",
+   "date": "1/13/2013",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "AMC Problem Session",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "amc problem session answers",
+     "file": "Handout-456-552.pdf"
+    }
+   ]
+  },
+  {
+   "event": "736",
+   "date": "1/12/2014",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Vectors",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vectors",
+     "file": "Handout-652-736.pdf"
+    }
+   ]
+  },
+  {
+   "event": "741",
+   "date": "1/19/2014",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Matrices",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "matrices",
+     "file": "Handout-653-741.pdf"
+    }
+   ]
+  },
+  {
+   "event": "751",
+   "date": "1/19/2014",
+   "year": 2013,
+   "group": "High School II Circle",
+   "topic": "AMC Preparation",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "2006 amc 12",
+     "file": "Handout-632-751.pdf"
+    }
+   ]
+  },
+  {
+   "event": "747",
+   "date": "1/26/2014",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Introduction To Linear Algebra",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "linear algebra",
+     "file": "Handout-654-747.pdf"
+    }
+   ]
+  },
+  {
+   "event": "754",
+   "date": "1/26/2014",
+   "year": 2013,
+   "group": "High School II Circle",
+   "topic": "AMC Preparation II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "2004 amc 12",
+     "file": "Handout-635-754.pdf"
+    }
+   ]
+  },
+  {
+   "event": "679",
+   "date": "10/13/2013",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Taxicab Geometry III: What is a distance?",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "taxicab geometry iii",
+     "file": "Handout-574-679.pdf"
+    }
+   ]
+  },
+  {
+   "event": "680",
+   "date": "10/13/2013",
+   "year": 2013,
+   "group": "High School II Circle",
+   "topic": "Game Theory II: Winning Strategies.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "game theory handout",
+     "file": "Handout-568-680.pdf"
+    }
+   ]
+  },
+  {
+   "event": "697",
+   "date": "10/20/2013",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Metric Spaces I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "metric spaces i",
+     "file": "Handout-575-697.pdf"
+    }
+   ]
+  },
+  {
+   "event": "681",
+   "date": "10/20/2013",
+   "year": 2013,
+   "group": "High School II Circle",
+   "topic": "Title: Quaternions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "quaternions",
+     "file": "Handout-581-681.pdf"
+    }
+   ]
+  },
+  {
+   "event": "702",
+   "date": "10/27/2013",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Metric Spaces II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "metric spaces ii",
+     "file": "Handout-588-702.pdf"
+    }
+   ]
+  },
+  {
+   "event": "682",
+   "date": "10/27/2013",
+   "year": 2013,
+   "group": "High School II Circle",
+   "topic": "Bugs on a Log",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "bugs and tiling problems",
+     "file": "Handout-580-682.pdf"
+    }
+   ]
+  },
+  {
+   "event": "673",
+   "date": "10/6/2013",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Taxicab Geometry II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "taxicab geometry ii",
+     "file": "Handout-554-673.pdf"
+    }
+   ]
+  },
+  {
+   "event": "674",
+   "date": "10/6/2013",
+   "year": 2013,
+   "group": "High School II Circle",
+   "topic": "Roots of Unity (Prof. Kent Merryfield, CSULB)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problem set 1",
+     "file": "Handout-555-674.pdf"
+    },
+    {
+     "label": "problem set 2",
+     "file": "Handout-556-674.pdf"
+    }
+   ]
+  },
+  {
+   "event": "715",
+   "date": "11/10/2013",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Complex Numbers and Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "complex numbers ii",
+     "file": "Handout-647-715.pdf"
+    }
+   ]
+  },
+  {
+   "event": "684",
+   "date": "11/10/2013",
+   "year": 2013,
+   "group": "High School II Circle",
+   "topic": "Inscribed and circumscribed figures (Prof. Igor Pak, UCLA)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inscribed figure and continuity",
+     "file": "Handout-600-684.pdf"
+    }
+   ]
+  },
+  {
+   "event": "721",
+   "date": "11/17/2013",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Greedy Algorithms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "greedy algorithms i",
+     "file": "Handout-648-721.pdf"
+    },
+    {
+     "label": "relevant graphs",
+     "file": "Handout-649-721.pdf"
+    }
+   ]
+  },
+  {
+   "event": "724",
+   "date": "11/24/2013",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Greedy Algorithms II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "greedy algorithms ii",
+     "file": "Handout-650-724.pdf"
+    },
+    {
+     "label": "relevant graphs",
+     "file": "Handout-651-724.pdf"
+    }
+   ]
+  },
+  {
+   "event": "712",
+   "date": "11/3/2013",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Complex Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "complex numbers i",
+     "file": "Handout-593-712.pdf"
+    }
+   ]
+  },
+  {
+   "event": "683",
+   "date": "11/3/2013",
+   "year": 2013,
+   "group": "High School II Circle",
+   "topic": "Fair Divisions (Prof. Igor Pak, UCLA)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "continuity problems",
+     "file": "Handout-589-683.pdf"
+    }
+   ]
+  },
+  {
+   "event": "763",
+   "date": "2/2/2014",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Introduction To Bases",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "basis",
+     "file": "Handout-655-763.pdf"
+    }
+   ]
+  },
+  {
+   "event": "771",
+   "date": "2/23/2014",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Introduction to Sequences",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "sequence i",
+     "file": "Handout-662-771.pdf"
+    }
+   ]
+  },
+  {
+   "event": "764",
+   "date": "2/9/2014",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Linear Transformations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "linear transformations",
+     "file": "Handout-656-764.pdf"
+    }
+   ]
+  },
+  {
+   "event": "778",
+   "date": "3/2/2014",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Sequences and Series",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-741-778.pdf"
+    }
+   ]
+  },
+  {
+   "event": "668",
+   "date": "9/29/2013",
+   "year": 2013,
+   "group": "High School I Circle",
+   "topic": "Taxicab Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "taxicab geometry i",
+     "file": "Handout-543-668.pdf"
+    }
+   ]
+  },
+  {
+   "event": "667",
+   "date": "9/29/2013",
+   "year": 2013,
+   "group": "High School II Circle",
+   "topic": "Game Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "game theory",
+     "file": "Handout-544-667.pdf"
+    }
+   ]
+  },
+  {
+   "event": "553",
+   "date": "1/20/2013",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "An introduction to spacetime physics and special relativity",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "special relativity",
+     "file": "Handout-462-553.pdf"
+    }
+   ]
+  },
+  {
+   "event": "554",
+   "date": "1/27/2013",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Graphs and Colorings I (Ciprian Manolescu)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph_colorings",
+     "file": "Handout-470-554.pdf"
+    },
+    {
+     "label": "graph_coloring_map",
+     "file": "Handout-471-554.pdf"
+    }
+   ]
+  },
+  {
+   "event": "505",
+   "date": "10/14/2012",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Surfaces I (Mike Hall)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "exercises for surface classification",
+     "file": "Handout-452-505.pdf"
+    }
+   ]
+  },
+  {
+   "event": "513",
+   "date": "10/21/2012",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Surfaces II (Mike Hall)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "exercises for surface classification",
+     "file": "Handout-417-513.pdf"
+    }
+   ]
+  },
+  {
+   "event": "517",
+   "date": "10/28/2012",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Quadratic Reciprocity I (Francis Bozgan)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "qr handout",
+     "file": "Handout-423-517.pdf"
+    },
+    {
+     "label": "qr chart",
+     "file": "Handout-424-517.pdf"
+    },
+    {
+     "label": "qr worksheet",
+     "file": "Handout-425-517.pdf"
+    }
+   ]
+  },
+  {
+   "event": "499",
+   "date": "10/7/2012",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Smart Code II (Yingkun Li)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "smart code ii",
+     "file": "Handout-405-499.pdf"
+    }
+   ]
+  },
+  {
+   "event": "519",
+   "date": "11/11/2012",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Probability I (Anand Rajagopalan)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability i",
+     "file": "Handout-451-519.pdf"
+    }
+   ]
+  },
+  {
+   "event": "520",
+   "date": "11/18/2012",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Geometric Probability and Paradoxes (Mike Hall)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometric probability",
+     "file": "Handout-443-520.pdf"
+    }
+   ]
+  },
+  {
+   "event": "522",
+   "date": "12/2/2012",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Probability II (Anand Rajagopalan)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability ii",
+     "file": "Handout-444-522.pdf"
+    }
+   ]
+  },
+  {
+   "event": "559",
+   "date": "3/3/2013",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Quadratic Forms (Mike Hall)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "quadratic forms",
+     "file": "Handout-508-559.pdf"
+    }
+   ]
+  },
+  {
+   "event": "615",
+   "date": "4/14/2013",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Pick's Theorem and Ehrhart Theory II (Mo Omar)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pick&#039;s theorem and ehrhart theory",
+     "file": "Handout-511-615.pdf"
+    }
+   ]
+  },
+  {
+   "event": "629",
+   "date": "4/28/2013",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Rational, Algebraic and Transcendental Numbers -- (Yingkun Li)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "rational, algebraic, and transcendental numbers",
+     "file": "Handout-518-629.pdf"
+    }
+   ]
+  },
+  {
+   "event": "640",
+   "date": "5/12/2013",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Geometry when you only know distances (Jonas Azzam)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometry when you only know distances",
+     "file": "Handout-538-640.pdf"
+    }
+   ]
+  },
+  {
+   "event": "650",
+   "date": "5/19/2013",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "How many ways are there to get from A to B? Part I (Prof. Christian Haesemeyer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "paths in space notes",
+     "file": "Handout-533-650.pdf"
+    }
+   ]
+  },
+  {
+   "event": "633",
+   "date": "5/5/2013",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Stirlin!g's Formula (Mike Hall)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "stirling&#039;s formula",
+     "file": "Handout-523-633.pdf"
+    }
+   ]
+  },
+  {
+   "event": "495",
+   "date": "9/30/2012",
+   "year": 2012,
+   "group": "High School Circle",
+   "topic": "Smart Code I (Yingkun Li)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "smart code i",
+     "file": "Handout-398-495.pdf"
+    }
+   ]
+  }
+ ]
+}

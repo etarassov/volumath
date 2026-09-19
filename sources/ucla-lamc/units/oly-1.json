@@ -1,0 +1,1654 @@
+{
+ "unit": "oly-1",
+ "source": "ucla-lamc",
+ "title": "Olympiads, 2019-2021",
+ "id_block": [
+  "3001",
+  "3200"
+ ],
+ "status": "pending",
+ "sessions_total": 109,
+ "sessions_with_answers": 16,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "2885",
+   "date": "1/16/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Fermat's Thm",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w2",
+     "file": "Handout-3291-2885.pdf"
+    },
+    {
+     "label": "w2_sols",
+     "file": "Handout-3328-2885.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2900",
+   "date": "1/23/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Modular Arithmetic III: Euler's Thm",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w3 problems",
+     "file": "Handout-3312-2900.pdf"
+    },
+    {
+     "label": "w3 sols",
+     "file": "Handout-3504-2900.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2918",
+   "date": "1/30/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Euler's Phi Function",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w4 problems",
+     "file": "Handout-3338-2918.pdf"
+    },
+    {
+     "label": "w4 solutions",
+     "file": "Handout-3506-2918.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2873",
+   "date": "1/9/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Modular Arithmetic I and Divisibility Rules",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w1-mod",
+     "file": "Handout-3277-2873.pdf"
+    },
+    {
+     "label": "w1 solutions",
+     "file": "Handout-3324-2873.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2701",
+   "date": "10/10/2021",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Recursion (Combinatorial Point of View)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w2 problems",
+     "file": "Handout-3142-2701.pdf"
+    },
+    {
+     "label": "w2 solutions",
+     "file": "Handout-3147-2701.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2749",
+   "date": "10/24/2021",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Inequalities I: AM-GM",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w4 problems",
+     "file": "Handout-3199-2749.pdf"
+    },
+    {
+     "label": "w4 solutions",
+     "file": "Handout-3200-2749.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2686",
+   "date": "10/3/2021",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Bernoulli Polynomials and Summations",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w1 problems",
+     "file": "Handout-3129-2686.pdf"
+    },
+    {
+     "label": "w1 solutions",
+     "file": "Handout-3146-2686.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2760",
+   "date": "10/31/2021",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Inequalities II: AM-GM continued and Inequality Intervals",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w5 problems",
+     "file": "Handout-3201-2760.pdf"
+    },
+    {
+     "label": "w5 solutions",
+     "file": "Handout-3202-2760.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2798",
+   "date": "11/14/2021",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Equations",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w7 problems",
+     "file": "Handout-3218-2798.pdf"
+    },
+    {
+     "label": "w7 solutions",
+     "file": "Handout-3227-2798.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2781",
+   "date": "11/7/2021",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Inequalities III: Cauchy-Schwartz",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w6 problems",
+     "file": "Handout-3203-2781.pdf"
+    },
+    {
+     "label": "w6 solutions",
+     "file": "Handout-3219-2781.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2965",
+   "date": "2/27/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Modular Arithmetic IV",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w6 problems",
+     "file": "Handout-3422-2965.pdf"
+    },
+    {
+     "label": "w6 solutions",
+     "file": "Handout-3510-2965.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2928",
+   "date": "2/6/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Primes & Remaining Problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "w5 problems",
+     "file": "Handout-3420-2928.pdf"
+    },
+    {
+     "label": "w5 solutions",
+     "file": "Handout-3508-2928.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1983",
+   "date": "1/26/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Combinatorics Problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2233-1983.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2234-1983.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1762",
+   "date": "10/6/2019",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Problems about Digits and Base Representations",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1878-1762.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1885-1762.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1977",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Lifting the Exponent",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2226-1977.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2227-1977.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1984",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Double Counting",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-2236-1984.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-2235-1984.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2736",
+   "date": "10/17/2021",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Recursive Relations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "w3 problems",
+     "file": "Handout-3198-2736.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2819",
+   "date": "11/21/2021",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Equations II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "w8 problems",
+     "file": "Handout-3228-2819.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2979",
+   "date": "3/6/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Mods and Equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3424-2979.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3036",
+   "date": "4/10/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Geometry: Similarity and Triangles II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3600-3036.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3051",
+   "date": "4/17/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Geometry: Similarity and Triangles II - Continue to the remaining problems in W2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3602-3051.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3077",
+   "date": "4/24/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Geometry: Triangles III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3604-3077.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3020",
+   "date": "4/3/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Geometry: Similarity and Triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "w1 problems",
+     "file": "Handout-3512-3020.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3097",
+   "date": "5/1/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Cyclic Quadrilaterals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3605-3097.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3129",
+   "date": "5/15/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Geometry: Radial Axis Continued",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3607-3129.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3143",
+   "date": "5/22/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Cyclic Quadrilaterals Continued",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3608-3143.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3107",
+   "date": "5/8/2022",
+   "year": 2021,
+   "group": "Olympiads training",
+   "topic": "Geometry: Radial Axis",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3606-3107.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2333",
+   "date": "1/10/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Board Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2701-2333.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2347",
+   "date": "1/17/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2722-2347.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2365",
+   "date": "1/24/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Ceva and Menelaus",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2746-2365.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2380",
+   "date": "1/31/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Modular Arithmetic -- Part I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2759-2380.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2382",
+   "date": "1/31/2021",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Olympiad Problem Session 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2760-2382.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2182",
+   "date": "10/11/2020",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Induction in Olympiad Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2470-2182.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2191",
+   "date": "10/11/2020",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Angle Chasing 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework",
+     "file": "Handout-2477-2191.pdf"
+    },
+    {
+     "label": "lecture notes",
+     "file": "Handout-2476-2191.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2205",
+   "date": "10/18/2020",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Computing Areas",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2499-2205.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2208",
+   "date": "10/18/2020",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Angle Chasing 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework",
+     "file": "Handout-2506-2208.pdf"
+    },
+    {
+     "label": "lecture notes",
+     "file": "Handout-2507-2208.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2218",
+   "date": "10/25/2020",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Diophantine Equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2535-2218.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2209",
+   "date": "10/25/2020",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Angle Chasing 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework",
+     "file": "Handout-2540-2209.pdf"
+    },
+    {
+     "label": "lecture notes",
+     "file": "Handout-2541-2209.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2264",
+   "date": "11/15/2020",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Game Theory, part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2613-2264.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2255",
+   "date": "11/15/2020",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Circles 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2620-2255.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2621-2255.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2277",
+   "date": "11/22/2020",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Practice Session",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2645-2277.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2256",
+   "date": "11/22/2020",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Lengths and Ratios 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lecture notes",
+     "file": "Handout-2668-2256.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2669-2256.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2248",
+   "date": "11/8/2020",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Game Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2591-2248.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2247",
+   "date": "11/8/2020",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Circles 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework",
+     "file": "Handout-2599-2247.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2304",
+   "date": "12/13/2020",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Angle Chasing II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2682-2304.pdf"
+    },
+    {
+     "label": "lecture notes",
+     "file": "Handout-2683-2304.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2299",
+   "date": "12/13/2020",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Olympiad Configurations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework",
+     "file": "Handout-2688-2299.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2290",
+   "date": "12/6/2020",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Geometry: Angle chasing and Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2671-2290.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2291",
+   "date": "12/6/2020",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Lengths and Ratios 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lecture notes",
+     "file": "Handout-2667-2291.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2421",
+   "date": "2/21/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Mixed Problem Session",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2806-2421.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2438",
+   "date": "2/28/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Counting Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2825-2438.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2396",
+   "date": "2/7/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Modular Arithmetic -- Part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2781-2396.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2449",
+   "date": "3/7/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Counting Problems - Part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2841-2449.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2511",
+   "date": "4/11/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Ordinary Differential Equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2899-2511.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2539",
+   "date": "4/11/2021",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Algebraic Topology",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout (3 weeks)",
+     "file": "Handout-2943-2539.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2521",
+   "date": "4/18/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Ordinary Differential Equations, Part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2910-2521.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2538",
+   "date": "4/25/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Ordinary Differential Equations, Part III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2942-2538.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2533",
+   "date": "4/25/2021",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Week 4 USAJMO Review",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "notes p1",
+     "file": "Handout-2944-2533.pdf"
+    },
+    {
+     "label": "notes p2",
+     "file": "Handout-2945-2533.pdf"
+    },
+    {
+     "label": "notes p3",
+     "file": "Handout-2946-2533.pdf"
+    },
+    {
+     "label": "main",
+     "file": "Handout-2936-2533.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2497",
+   "date": "4/4/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Linear Recurrences",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2885-2497.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2589",
+   "date": "5/16/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Inversion",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3012-2589.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2553",
+   "date": "5/2/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Geometric Transformations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2964-2553.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2602",
+   "date": "5/23/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Linear Transformations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3030-2602.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2597",
+   "date": "5/23/2021",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Dirichlet Characters",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3026-2597.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2573",
+   "date": "5/9/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Geometric Transformations, Part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2982-2573.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2568",
+   "date": "5/9/2021",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Double summations and Root of Unity Filters",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2976-2568.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2623",
+   "date": "6/6/2021",
+   "year": 2020,
+   "group": "Olympiads 1",
+   "topic": "Linear Transformations -- Part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3059-2623.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2615",
+   "date": "6/6/2021",
+   "year": 2020,
+   "group": "Olympiads 2",
+   "topic": "Dirichlet's Theorem on primes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3047-2615.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1876",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Problem Session 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2032-1876.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1981",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Counting and Pigeonhole",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2231-1981.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1889",
+   "date": "1/19/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Practice Test 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2046-1889.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1982",
+   "date": "1/19/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Invariants and Monovariants",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2232-1982.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1911",
+   "date": "1/26/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Problem Session 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2056-1911.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1763",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Length and Areas in Olympiad Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1879-1763.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1766",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Induction and Bezout's Lemma",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1880-1766.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1775",
+   "date": "10/20/2019",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Graphs and Trees",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1911-1775.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1784",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Graphs and Trees, Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1913-1784.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1975",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Euler's Phi Function",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2224-1975.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1794",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Inequalities with Integers, Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1953-1794.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1795",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Geometric Combinatorics and Convexity",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1977-1795.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1978",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Solving Diophantine Equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2228-1978.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1796",
+   "date": "11/23/2019",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Trigonometry in Olympiad Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2003-1796.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1979",
+   "date": "11/24/2019",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Number Theory Contest",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2229-1979.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1793",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Inequalities with Integers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1939-1793.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1976",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Number Theory Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2225-1976.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1980",
+   "date": "12/8/2019",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Winter Break Problemset",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2230-1980.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1986",
+   "date": "2/16/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Geometry Review",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2238-1986.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1919",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Practice Test 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2086-1919.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1947",
+   "date": "2/23/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Practice Test 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2187-1947.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1989",
+   "date": "2/23/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "BAMO Practice Test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2241-1989.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1930",
+   "date": "2/9/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Problem Session 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2105-1930.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1985",
+   "date": "2/9/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Algebra Review",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2237-1985.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1948",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Complex Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2188-1948.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1987",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "BAMO Problem Discussion",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2239-1987.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1990",
+   "date": "3/15/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Diophantine Chord Technique",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2242-1990.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2040",
+   "date": "3/5/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Complex Numbers in Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2284-2040.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1988",
+   "date": "3/8/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Applications of Expected Value",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2240-1988.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2041",
+   "date": "4/12/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Complex Numbers in Geometry, Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2286-2041.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1994",
+   "date": "4/12/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Bertrand's Postulate",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2277-1994.pdf"
+    },
+    {
+     "label": "lecture notes",
+     "file": "Handout-2278-1994.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2042",
+   "date": "4/19/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Notions of Probability",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2288-2042.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1995",
+   "date": "4/19/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Quadratic Reciprocity",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2305-1995.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2043",
+   "date": "4/26/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Notions of Probability, Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2316-2043.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1996",
+   "date": "4/26/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Euler's Formula",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2355-1996.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1993",
+   "date": "4/5/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Rational Approximation",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lecture notes",
+     "file": "Handout-2270-1993.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-2271-1993.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2071",
+   "date": "5/10/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Sequences and Series, Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2345-2071.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1998",
+   "date": "5/10/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Group Theory 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2357-1998.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2067",
+   "date": "5/17/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Notions of Continuity and Differentiability",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2359-2067.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2066",
+   "date": "5/3/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Sequences and Series",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2334-2066.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1997",
+   "date": "5/3/2020",
+   "year": 2019,
+   "group": "Olympiads 2",
+   "topic": "Hall's Marriage Theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2356-1997.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2044",
+   "date": "5/31/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Notions of Continuity and Differentiability, Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2379-2044.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2068",
+   "date": "6/7/2020",
+   "year": 2019,
+   "group": "Olympiads 1",
+   "topic": "Ordinary Generating Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2383-2068.pdf"
+    }
+   ]
+  }
+ ]
+}

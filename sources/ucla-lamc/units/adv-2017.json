@@ -1,0 +1,1052 @@
+{
+ "unit": "adv-2017",
+ "source": "ucla-lamc",
+ "title": "Advanced (US grades 9-12), 2017-2018",
+ "id_block": [
+  "1801",
+  "2000"
+ ],
+ "status": "pending",
+ "sessions_total": 48,
+ "sessions_with_answers": 17,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "1382",
+   "date": "1/21/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Graphs and Geometry II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1395-1382.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1396-1382.pdf"
+    },
+    {
+     "label": "h9.1 solution",
+     "file": "Handout-1397-1382.pdf"
+    },
+    {
+     "label": "h9.2 solution",
+     "file": "Handout-1398-1382.pdf"
+    },
+    {
+     "label": "h9.3 solution",
+     "file": "Handout-1399-1382.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1390",
+   "date": "1/28/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Graphs and Geometry III",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1404-1390.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1405-1390.pdf"
+    },
+    {
+     "label": "l2.5 solution",
+     "file": "Handout-1406-1390.pdf"
+    },
+    {
+     "label": "h2.2 solution",
+     "file": "Handout-1407-1390.pdf"
+    },
+    {
+     "label": "h2.3 solution",
+     "file": "Handout-1408-1390.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1353",
+   "date": "10/29/2017",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Remainders and Algebra.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solution to l3.2.",
+     "file": "Handout-1328-1353.pdf"
+    },
+    {
+     "label": "solution to h3.2.",
+     "file": "Handout-1329-1353.pdf"
+    },
+    {
+     "label": "solution to h3.3.",
+     "file": "Handout-1330-1353.pdf"
+    },
+    {
+     "label": "lesson handout.",
+     "file": "Handout-1331-1353.pdf"
+    },
+    {
+     "label": "homework.",
+     "file": "Handout-1332-1353.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1361",
+   "date": "11/12/2017",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Greatest common divisor.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1352-1361.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1353-1361.pdf"
+    },
+    {
+     "label": "l5.2 solution",
+     "file": "Handout-1354-1361.pdf"
+    },
+    {
+     "label": "l5.3 solution",
+     "file": "Handout-1355-1361.pdf"
+    },
+    {
+     "label": "l5.4 solution",
+     "file": "Handout-1356-1361.pdf"
+    },
+    {
+     "label": "l5.5 solution",
+     "file": "Handout-1357-1361.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1365",
+   "date": "11/19/2017",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Euclidean Algorithm",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1364-1365.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1365-1365.pdf"
+    },
+    {
+     "label": "l6.3 solution",
+     "file": "Handout-1366-1365.pdf"
+    },
+    {
+     "label": "l6.4 solution",
+     "file": "Handout-1367-1365.pdf"
+    },
+    {
+     "label": "h6.2 solution",
+     "file": "Handout-1368-1365.pdf"
+    },
+    {
+     "label": "h6.3 solution",
+     "file": "Handout-1369-1365.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1359",
+   "date": "11/5/2017",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "More remainders.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1342-1359.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1343-1359.pdf"
+    },
+    {
+     "label": "solution to l4.1",
+     "file": "Handout-1344-1359.pdf"
+    },
+    {
+     "label": "solution to l4.3",
+     "file": "Handout-1345-1359.pdf"
+    },
+    {
+     "label": "alternative solution so l4.3",
+     "file": "Handout-1346-1359.pdf"
+    },
+    {
+     "label": "solution to l4.4",
+     "file": "Handout-1347-1359.pdf"
+    },
+    {
+     "label": "solution to l4.5",
+     "file": "Handout-1348-1359.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1370",
+   "date": "12/3/2017",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Euclidean algorithm II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1374-1370.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1375-1370.pdf"
+    },
+    {
+     "label": "l7.2 solution",
+     "file": "Handout-1376-1370.pdf"
+    },
+    {
+     "label": "l7.3 solution",
+     "file": "Handout-1377-1370.pdf"
+    },
+    {
+     "label": "l7.4 solution",
+     "file": "Handout-1378-1370.pdf"
+    },
+    {
+     "label": "h7.2 solution",
+     "file": "Handout-1379-1370.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1399",
+   "date": "2/11/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Graphs and Geometry V",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1419-1399.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1420-1399.pdf"
+    },
+    {
+     "label": "l4.2 solution",
+     "file": "Handout-1421-1399.pdf"
+    },
+    {
+     "label": "l4.4 solution",
+     "file": "Handout-1422-1399.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1396",
+   "date": "2/4/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Graphs and Geometry IV",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1415-1396.pdf"
+    },
+    {
+     "label": "l3.2 solution",
+     "file": "Handout-1416-1396.pdf"
+    },
+    {
+     "label": "l3.6 solution",
+     "file": "Handout-1417-1396.pdf"
+    },
+    {
+     "label": "h3.2 solution",
+     "file": "Handout-1418-1396.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1420",
+   "date": "3/11/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Games and Geometry III",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1452-1420.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1453-1420.pdf"
+    },
+    {
+     "label": "h6.1 solution",
+     "file": "Handout-1454-1420.pdf"
+    },
+    {
+     "label": "h7.1 solution",
+     "file": "Handout-1455-1420.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1403",
+   "date": "3/4/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Games and Geometry II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1446-1403.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1447-1403.pdf"
+    },
+    {
+     "label": "l6.2 solution",
+     "file": "Handout-1448-1403.pdf"
+    },
+    {
+     "label": "l6.5 solution",
+     "file": "Handout-1449-1403.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1436",
+   "date": "4/15/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Induction and Geometry II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1478-1436.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1479-1436.pdf"
+    },
+    {
+     "label": "l1.2b solution",
+     "file": "Handout-1480-1436.pdf"
+    },
+    {
+     "label": "l1.3 solution",
+     "file": "Handout-1481-1436.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1439",
+   "date": "4/22/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Induction and Geometry III",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1485-1439.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1486-1439.pdf"
+    },
+    {
+     "label": "l2.1 solution",
+     "file": "Handout-1487-1439.pdf"
+    },
+    {
+     "label": "l2.6 solution",
+     "file": "Handout-1488-1439.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1446",
+   "date": "4/29/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Induction and Geometry IV",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1496-1446.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1497-1446.pdf"
+    },
+    {
+     "label": "l3.3 solution",
+     "file": "Handout-1498-1446.pdf"
+    },
+    {
+     "label": "h3.3 solution",
+     "file": "Handout-1499-1446.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1460",
+   "date": "5/13/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Bipartite Graphs and Geometry II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1516-1460.pdf"
+    },
+    {
+     "label": "l5.2 solution",
+     "file": "Handout-1517-1460.pdf"
+    },
+    {
+     "label": "l5.4 solution",
+     "file": "Handout-1518-1460.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1465",
+   "date": "5/20/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Stable Marriage Problem (Iris Sun)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1524-1465.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1525-1465.pdf"
+    },
+    {
+     "label": "l6.2 solution",
+     "file": "Handout-1526-1465.pdf"
+    },
+    {
+     "label": "l6.4 solution",
+     "file": "Handout-1527-1465.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1451",
+   "date": "5/6/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Bipartite graphs",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1506-1451.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1507-1451.pdf"
+    },
+    {
+     "label": "l4.3 solution",
+     "file": "Handout-1508-1451.pdf"
+    },
+    {
+     "label": "h4.2 solution",
+     "file": "Handout-1509-1451.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1553",
+   "date": "1/13/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Weighings, Logic and Geometric Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1670-1553.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1671-1553.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1560",
+   "date": "1/20/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Weighings, Logic and Geometric Constructions II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1680-1560.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1681-1560.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1562",
+   "date": "1/27/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Weighings, Logic and Geometric Constructions III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1692-1562.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1693-1562.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1502",
+   "date": "10/14/2018",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Quadratic Equations I (Vieta's Theorem)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1550-1502.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1551-1502.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1504",
+   "date": "10/21/2018",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Functions and Quadratic Equations II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1598-1504.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1599-1504.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1516",
+   "date": "10/28/2018",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Quadratic Equations III (Quadratic Inequalities)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1610-1516.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1611-1516.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1495",
+   "date": "10/7/2018",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Warm-up problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1542-1495.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1527",
+   "date": "11/11/2018",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Quadratic equations V (Parabolas)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1635-1527.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1636-1527.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1520",
+   "date": "11/4/2018",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Quadratic equations IV",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1631-1520.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1632-1520.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1545",
+   "date": "12/2/2018",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Individual Problem Solving",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1656-1545.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1585",
+   "date": "2/10/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Invariants and Geometric Constructions II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1709-1585.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1710-1585.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1592",
+   "date": "2/24/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Invariants and Geometric Constructions III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1718-1592.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1719-1592.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1580",
+   "date": "2/3/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Invariants and Geometric Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1696-1580.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1697-1580.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1610",
+   "date": "3/10/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Similar Triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1744-1610.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1748-1610.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1597",
+   "date": "3/3/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Invariants and the Intercept Theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1732-1597.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1733-1597.pdf"
+    },
+    {
+     "label": "reading",
+     "file": "Handout-1734-1597.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1624",
+   "date": "4/14/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Combinations II (Pascal's Triangle)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1765-1624.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1766-1624.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1631",
+   "date": "4/21/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Combinations III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout (anton&#039;s group only)",
+     "file": "Handout-1770-1631.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1771-1631.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1633",
+   "date": "4/28/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Combinations IV (Stars & Bars)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1787-1633.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1788-1633.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1621",
+   "date": "4/7/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Combinations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1754-1621.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1757-1621.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1644",
+   "date": "5/12/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Combinatorics VI (Young Tableaux)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1802-1644.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1803-1644.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1660",
+   "date": "5/19/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Combinatorics VII (Young Tableaux)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework",
+     "file": "Handout-1805-1660.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1643",
+   "date": "5/5/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Combinatorics V (Stars & Bars)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1791-1643.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1792-1643.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1673",
+   "date": "6/2/2019",
+   "year": 2018,
+   "group": "Advanced",
+   "topic": "Miscellaneous",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1820-1673.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1821-1673.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1381",
+   "date": "1/14/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Graphs and Geometry I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1391-1381.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1392-1381.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1338",
+   "date": "10/15/2017",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Tilings and colorings.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout.",
+     "file": "Handout-1313-1338.pdf"
+    },
+    {
+     "label": "homework for 10/22/17.",
+     "file": "Handout-1314-1338.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1349",
+   "date": "10/22/2017",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "More tilings and some algebra.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout.",
+     "file": "Handout-1315-1349.pdf"
+    },
+    {
+     "label": "homework.",
+     "file": "Handout-1316-1349.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1333",
+   "date": "10/8/2017",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Advanced group meeting 10/08/17.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "test",
+     "file": "Handout-1303-1333.pdf"
+    },
+    {
+     "label": "previous homework",
+     "file": "Handout-1304-1333.pdf"
+    },
+    {
+     "label": "contest problems",
+     "file": "Handout-1305-1333.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1400",
+   "date": "2/25/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Games and Geometry I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1427-1400.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1428-1400.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1423",
+   "date": "3/18/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Games and Geometry IV",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1533-1423.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1433",
+   "date": "4/8/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Induction I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1474-1433.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1475-1433.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1477",
+   "date": "6/10/2018",
+   "year": 2017,
+   "group": "Advanced",
+   "topic": "Discrete Finite Automata (Kyle Hess)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson handout",
+     "file": "Handout-1532-1477.pdf"
+    }
+   ]
+  }
+ ]
+}

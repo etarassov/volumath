@@ -1,0 +1,416 @@
+{
+ "unit": "adv-2015",
+ "source": "ucla-lamc",
+ "title": "Advanced (US grades 9-12), 2015-2016",
+ "id_block": [
+  "2001",
+  "2200"
+ ],
+ "status": "pending",
+ "sessions_total": 26,
+ "sessions_with_answers": 6,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "1097",
+   "date": "1/10/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Tricks for Mental Math (Ethan Waldman)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1053-1097.pdf"
+    },
+    {
+     "label": "problems 1",
+     "file": "Handout-1054-1097.pdf"
+    },
+    {
+     "label": "problems 2",
+     "file": "Handout-1055-1097.pdf"
+    },
+    {
+     "label": "problems 3",
+     "file": "Handout-1056-1097.pdf"
+    },
+    {
+     "label": "answers",
+     "file": "Handout-1069-1097.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1096",
+   "date": "1/17/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Divisibility and the Division Algorithm (Noah Olander)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1067-1096.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1068-1096.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1035",
+   "date": "10/11/2015",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Problems from Russian Olympiads continued (Noah Olander)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout 1 solutions",
+     "file": "Handout-981-1035.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1043",
+   "date": "10/18/2015",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Induction I (Michael Puthawala)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-991-1043.pdf"
+    },
+    {
+     "label": "some solutions",
+     "file": "Handout-992-1043.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1074",
+   "date": "11/15/2015",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Invariants II (Noah Olander)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1027-1074.pdf"
+    },
+    {
+     "label": "handout solutions",
+     "file": "Handout-1035-1074.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1198",
+   "date": "5/8/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Cryptography",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1185-1198.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1186-1198.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1205",
+   "date": "10/2/2016",
+   "year": 2016,
+   "group": "Advanced",
+   "topic": "Intro to Graphs. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1201-1205.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1229",
+   "date": "10/30/2016",
+   "year": 2016,
+   "group": "Advanced",
+   "topic": "Intro to Graphs, Part 5. (Jason O'Neill)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1223-1229.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1209",
+   "date": "10/9/2016",
+   "year": 2016,
+   "group": "Advanced",
+   "topic": "Intro to Graphs, continued. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1222-1209.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1240",
+   "date": "11/13/2016",
+   "year": 2016,
+   "group": "Advanced",
+   "topic": "Ramsey Theory. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1257-1240.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1283",
+   "date": "2/12/2017",
+   "year": 2016,
+   "group": "Advanced",
+   "topic": "Quadratic equations. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1272-1283.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1279",
+   "date": "2/5/2017",
+   "year": 2016,
+   "group": "Advanced",
+   "topic": "It's test time!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "test",
+     "file": "Handout-1267-1279.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1301",
+   "date": "3/12/2017",
+   "year": 2016,
+   "group": "Advanced",
+   "topic": "Quadratic equations, part 4. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1290-1301.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1311",
+   "date": "4/9/2017",
+   "year": 2016,
+   "group": "Advanced",
+   "topic": "The Cardano formula and the invention of complex numbers. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1294-1311.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1099",
+   "date": "1/24/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Cool Results on Primes (Noah Olander)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1100-1099.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1119",
+   "date": "1/31/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Infinity I (Michael Puthawala)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1101-1119.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1051",
+   "date": "10/25/2015",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Induction II (Michael Puthawala)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1001-1051.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1024",
+   "date": "10/4/2015",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Problems from Russian Olympiads (Noah Olander)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-970-1024.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1067",
+   "date": "11/8/2015",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Invariants I (Noah Olander)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1021-1067.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1158",
+   "date": "2/14/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Quadratics (Noah Olander)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1140-1158.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1138",
+   "date": "2/28/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Graph Theory I (Michael Puthawala)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1121-1138.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1111",
+   "date": "2/7/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "How many infinities are there? (Michael Puthawala)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1102-1111.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1143",
+   "date": "3/13/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Math Relays (Noah Olander)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-1134-1143.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1150",
+   "date": "4/3/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Proof by Contradiction (Noah Olander)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1133-1150.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1197",
+   "date": "5/15/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Algorithms I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1184-1197.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1199",
+   "date": "5/22/2016",
+   "year": 2015,
+   "group": "Advanced",
+   "topic": "Complex Numbers III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1187-1199.pdf"
+    }
+   ]
+  }
+ ]
+}

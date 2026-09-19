@@ -1,0 +1,1434 @@
+{
+ "unit": "oly-2",
+ "source": "ucla-lamc",
+ "title": "Olympiads, 2022-2025",
+ "id_block": [
+  "3201",
+  "3400"
+ ],
+ "status": "pending",
+ "sessions_total": 97,
+ "sessions_with_answers": 9,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "4966",
+   "date": "6/29/2025",
+   "year": 2025,
+   "group": "Math Competitions Training",
+   "topic": "Algebra review.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4789-4966.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4792-4966.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4964",
+   "date": "7/13/2025",
+   "year": 2025,
+   "group": "Math Competitions Training",
+   "topic": "Geometry review.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4794-4964.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4795-4964.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4981",
+   "date": "7/20/2025",
+   "year": 2025,
+   "group": "Math Competitions Training",
+   "topic": "Functions review.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4800-4981.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4805-4981.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4998",
+   "date": "7/27/2025",
+   "year": 2025,
+   "group": "Math Competitions Training",
+   "topic": "No class due to building maintenance.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4806-4998.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4814-4998.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5018",
+   "date": "8/10/2025",
+   "year": 2025,
+   "group": "Math Competitions Training",
+   "topic": "Complex numbers review.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "intro",
+     "file": "Handout-4816-5018.pdf"
+    },
+    {
+     "label": "main packet",
+     "file": "Handout-4817-5018.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4818-5018.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5025",
+   "date": "8/17/2025",
+   "year": 2025,
+   "group": "Math Competitions Training",
+   "topic": "Combinatorics review.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-4821-5025.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4819-5025.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5008",
+   "date": "8/3/2025",
+   "year": 2025,
+   "group": "Math Competitions Training",
+   "topic": "Number theory review.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4813-5008.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4815-5008.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5043",
+   "date": "8/31/2025",
+   "year": 2025,
+   "group": "Math Competitions Training",
+   "topic": "Practice test.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "amc10 test",
+     "file": "Handout-4830-5043.pdf"
+    },
+    {
+     "label": "amc 10 solutions",
+     "file": "Handout-4831-5043.pdf"
+    },
+    {
+     "label": "amc12 test",
+     "file": "Handout-4832-5043.pdf"
+    },
+    {
+     "label": "amc 12 solutions",
+     "file": "Handout-4833-5043.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4508",
+   "date": "10/27/2024",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Percolation",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4575-4508.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4576-4508.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5249",
+   "date": "1/11/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "BAMO training 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4938-5249.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5266",
+   "date": "1/18/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "AIME training 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4947-5266.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5292",
+   "date": "1/25/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "AIME training 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4957-5292.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5107",
+   "date": "10/12/2025",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Modular Arithmetic and Divisibility Rules",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4861-5107.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5146",
+   "date": "10/26/2025",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Romanian Competition Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4888-5146.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5101",
+   "date": "10/5/2025",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Counting problems.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4845-5101.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5203",
+   "date": "11/16/2025",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Classic Inequalities.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4918-5203.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5170",
+   "date": "11/2/2025",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Inequalities with Integers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4897-5170.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5225",
+   "date": "11/23/2025",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "End-of-quarter problem set.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4925-5225.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5195",
+   "date": "11/9/2025",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Functions 1 and possibly 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4909-5195.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5314",
+   "date": "2/1/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "AIME training 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4969-5314.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5333",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "BAMO training 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4983-5333.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5353",
+   "date": "2/22/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "BAMO training 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4989-5353.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5373",
+   "date": "3/1/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Classical Theorems and Problems in Euclidean Geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4996-5373.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5390",
+   "date": "3/8/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "End-of-quarter contest.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4998-5390.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5438",
+   "date": "4/12/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Number theory.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5031-5438.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5460",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "USAJMO mock test 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "test",
+     "file": "Handout-5047-5460.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5479",
+   "date": "4/26/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "The Invariance Principle.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5057-5479.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5405",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Angle chasing.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5017-5405.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5519",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "The Extremal Principle.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5081-5519.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5542",
+   "date": "5/17/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Functional equations.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5098-5542.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5497",
+   "date": "5/3/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Double counting.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5069-5497.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5557",
+   "date": "5/31/2026",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Final Test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5106-5557.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5041",
+   "date": "8/24/2025",
+   "year": 2025,
+   "group": "Math Competitions Training",
+   "topic": "Trigonometry review.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4822-5041.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5076",
+   "date": "9/28/2025",
+   "year": 2025,
+   "group": "Olympiads",
+   "topic": "Diophantine Equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4836-5076.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4622",
+   "date": "1/12/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Narrow places",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4594-4622.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4644",
+   "date": "1/19/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Interpolation",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4603-4644.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4474",
+   "date": "10/13/2024",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Angle chasing",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4520-4474.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4498",
+   "date": "10/20/2024",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "More angle chasing.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4544-4498.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4462",
+   "date": "10/6/2024",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "AM-GM",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4522-4462.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4578",
+   "date": "11/24/2024",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4574-4578.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4535",
+   "date": "11/3/2024",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Generating functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4552-4535.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4717",
+   "date": "2/16/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Quadratic residues",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4647-4717.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4682",
+   "date": "2/2/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "True or False?",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4636-4682.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4699",
+   "date": "2/9/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "More true or false",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4637-4699.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4761",
+   "date": "3/2/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4668-4761.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4780",
+   "date": "3/9/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Sudoku",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4693-4780.pdf"
+    },
+    {
+     "label": "slides",
+     "file": "Handout-4694-4780.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4813",
+   "date": "4/13/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Equality cases.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4719-4813.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4832",
+   "date": "4/20/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Easter special",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4720-4832.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4855",
+   "date": "4/27/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Many faces of Hall's theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4736-4855.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4799",
+   "date": "4/6/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Projective geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4698-4799.pdf"
+    },
+    {
+     "label": "source",
+     "file": "Handout-4699-4799.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4889",
+   "date": "5/11/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Bijections.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4766-4889.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4908",
+   "date": "5/18/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Exponents in Number Theory.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4776-4908.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4873",
+   "date": "5/4/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Many faces of Hall’s theorem, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4751-4873.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4926",
+   "date": "6/1/2025",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Lifting The Exponent Lemma (LTE).",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4781-4926.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4446",
+   "date": "9/29/2024",
+   "year": 2024,
+   "group": "Olympiads",
+   "topic": "Mixed Bag",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4495-4446.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4036",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Selected Putnam 2023 Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4244-4036.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4049",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Expected Values",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4257-4049.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4071",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4285-4071.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4009",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Combinatorics Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4242-4009.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3835",
+   "date": "10/1/2023",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Problem-Solving Warmup",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4096-3835.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3871",
+   "date": "10/15/2023",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Invariants",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4139-3871.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3897",
+   "date": "10/22/2023",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4145-3897.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3915",
+   "date": "10/29/2023",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Polynomials 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4162-3915.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3859",
+   "date": "10/8/2023",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Olympiads Week 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-4110-3859.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3935",
+   "date": "11/5/2023",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4187-3935.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3980",
+   "date": "12/10/2023",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Generating Functions 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4212-3980.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3936",
+   "date": "12/3/2023",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Generating Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4197-3936.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4117",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Complex Numbers in Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4305-4117.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4122",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Barycentric Coordinates",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4375-4122.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4091",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Combinatorial Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4294-4091.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4166",
+   "date": "3/10/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Summing Binomial Coefficients",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4357-4166.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4144",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Catalan Numbers and Related Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4345-4144.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4186",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Factorization",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4371-4186.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4224",
+   "date": "4/14/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Multiplicative Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4408-4224.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4245",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Vector Spaces",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4424-4245.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4258",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Matrices",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4427-4258.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4205",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Factorization 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4386-4205.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4303",
+   "date": "5/12/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Advanced Pigeonhole Principle",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4451-4303.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4320",
+   "date": "5/19/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Trigonometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4462-4320.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4280",
+   "date": "5/5/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Affine Transformations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4445-4280.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4335",
+   "date": "6/2/2024",
+   "year": 2023,
+   "group": "Olympiads",
+   "topic": "Tiling Figures with Polyominoes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4474-4335.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3445",
+   "date": "1/15/2023",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Analysis: Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3813-3445.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3463",
+   "date": "1/22/2023",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Analysis: Functions and Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3830-3463.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3475",
+   "date": "1/29/2023",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Analysis: Functions and Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3849-3475.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3428",
+   "date": "1/8/2023",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Analysis: Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3807-3428.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3311",
+   "date": "10/16/2022",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Geometry: Triangles and Circles Intro",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3715-3311.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3277",
+   "date": "10/2/2022",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Geometry: Similarity and Triangles II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3691-3277.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3322",
+   "date": "10/23/2022",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Geometry: Triangles and Circles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3730-3322.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3340",
+   "date": "10/30/2022",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Geometry: Circles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3742-3340.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3298",
+   "date": "10/9/2022",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Geometry: Similarity and Triangles III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3704-3298.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3378",
+   "date": "11/20/2022",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Geometry: Circles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3778-3378.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3357",
+   "date": "11/6/2022",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Geometry: Circles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3761-3357.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3519",
+   "date": "2/19/2023",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Analysis: Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3888-3519.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3533",
+   "date": "2/26/2023",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Analysis: Functions and Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3886-3533.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3499",
+   "date": "2/5/2023",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Analysis: Functions and Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3890-3499.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3552",
+   "date": "3/5/2023",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Analysis: Functions and Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3910-3552.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3267",
+   "date": "9/25/2022",
+   "year": 2022,
+   "group": "Olympiads Training",
+   "topic": "Geometry: Similarity and Triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3682-3267.pdf"
+    }
+   ]
+  }
+ ]
+}

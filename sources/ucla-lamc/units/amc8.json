@@ -1,0 +1,932 @@
+{
+ "unit": "amc8",
+ "source": "ucla-lamc",
+ "title": "AMC 8 training, 2022-2026",
+ "id_block": [
+  "3601",
+  "3800"
+ ],
+ "status": "pending",
+ "sessions_total": 60,
+ "sessions_with_answers": 2,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "5540",
+   "date": "5/17/2026",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Berkeley mini Math Tournament 2025.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5091-5540.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-5092-5540.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3282",
+   "date": "10/2/2022",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Combinatorics",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3688-3282.pdf"
+    },
+    {
+     "label": "answers",
+     "file": "Handout-3693-3282.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5589",
+   "date": "7/12/2026",
+   "year": 2026,
+   "group": "X26 AMC 8",
+   "topic": "Permutations and Combinations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5117-5589.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5604",
+   "date": "7/19/2026",
+   "year": 2026,
+   "group": "X26 AMC 8",
+   "topic": "Stars and Bars & Complementary Counting",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5123-5604.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5608",
+   "date": "7/26/2026",
+   "year": 2026,
+   "group": "X26 AMC 8",
+   "topic": "More Combinatorics Techniques",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5130-5608.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5656",
+   "date": "8/16/2026",
+   "year": 2026,
+   "group": "X26 AMC 8",
+   "topic": "Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5143-5656.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5627",
+   "date": "8/2/2026",
+   "year": 2026,
+   "group": "X26 AMC 8",
+   "topic": "Triangles.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5134-5627.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5665",
+   "date": "8/23/2026",
+   "year": 2026,
+   "group": "X26 AMC 8",
+   "topic": "Recursion and Geometry in Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5149-5665.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5641",
+   "date": "8/9/2026",
+   "year": 2026,
+   "group": "X26 AMC 8",
+   "topic": "Algebra Skills and Applications",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5139-5641.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5244",
+   "date": "1/11/2026",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4931-5244.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5110",
+   "date": "10/12/2025",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Permutations and combinations.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4855-5110.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5128",
+   "date": "10/19/2025",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Stars and Bars, and Complementary Counting",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4868-5128.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5150",
+   "date": "10/26/2025",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "More Combinatorics Techniques",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4883-5150.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5201",
+   "date": "11/16/2025",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Basic algebra training.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4914-5201.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5169",
+   "date": "11/2/2025",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4896-5169.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5226",
+   "date": "11/23/2025",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Review game.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinatorics",
+     "file": "Handout-4921-5226.pdf"
+    },
+    {
+     "label": "geometry",
+     "file": "Handout-4922-5226.pdf"
+    },
+    {
+     "label": "algebra",
+     "file": "Handout-4920-5226.pdf"
+    },
+    {
+     "label": "number theory",
+     "file": "Handout-4923-5226.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5309",
+   "date": "2/1/2026",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Permutations and Combinations.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4963-5309.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5348",
+   "date": "2/22/2026",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Recursion in Geometry and Combinatorics.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4988-5348.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5372",
+   "date": "3/1/2026",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Circle Theorems.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4995-5372.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5440",
+   "date": "4/12/2026",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Algebra: More Techniques and Patterns.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5027-5440.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5461",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "3D geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5038-5461.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5417",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "More algebra.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5008-5417.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5522",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "More Modular Arithmetic.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5076-5522.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5496",
+   "date": "5/3/2026",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "Modular arithmetic.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5063-5496.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5562",
+   "date": "5/31/2026",
+   "year": 2025,
+   "group": "AMC 8 training",
+   "topic": "End-of-year contest.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "algebra",
+     "file": "Handout-5100-5562.pdf"
+    },
+    {
+     "label": "combinatorics and geometry",
+     "file": "Handout-5101-5562.pdf"
+    },
+    {
+     "label": "number theory",
+     "file": "Handout-5102-5562.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4029",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Practice Test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4253-4029.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4073",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "AMC 10 Practice Test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4281-4073.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4004",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Practice Test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4228-4004.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3832",
+   "date": "10/1/2023",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Diagnostic Test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "practice test",
+     "file": "Handout-4097-3832.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3870",
+   "date": "10/15/2023",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4140-3870.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3889",
+   "date": "10/22/2023",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4159-3889.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3913",
+   "date": "10/29/2023",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Sequences and Series",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4173-3913.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3856",
+   "date": "10/8/2023",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Algebra",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4122-3856.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3932",
+   "date": "11/5/2023",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Practice Test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4182-3932.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3986",
+   "date": "12/10/2023",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Review Game!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "algebra",
+     "file": "Handout-4222-3986.pdf"
+    },
+    {
+     "label": "geometry",
+     "file": "Handout-4223-3986.pdf"
+    },
+    {
+     "label": "number theory",
+     "file": "Handout-4224-3986.pdf"
+    },
+    {
+     "label": "probability",
+     "file": "Handout-4225-3986.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3976",
+   "date": "12/3/2023",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4202-3976.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4116",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "3D Formulas",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4315-4116.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4129",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Logic Problems and Formulas!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4321-4129.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4085",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Circles!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4293-4085.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4163",
+   "date": "3/10/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Review Game!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "number theory",
+     "file": "Handout-4352-4163.pdf"
+    },
+    {
+     "label": "geometry",
+     "file": "Handout-4353-4163.pdf"
+    },
+    {
+     "label": "combinatorics/probability",
+     "file": "Handout-4354-4163.pdf"
+    },
+    {
+     "label": "algebra",
+     "file": "Handout-4355-4163.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4147",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Number Theory!!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4337-4147.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4180",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Practice Test - AMC 10!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4376-4180.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4227",
+   "date": "4/14/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Trigonometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4400-4227.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4242",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Sequences and Series",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4414-4242.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4259",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4429-4259.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4207",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4398-4207.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4282",
+   "date": "5/5/2024",
+   "year": 2023,
+   "group": "AMC 8 Training",
+   "topic": "Piecewise Functions!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4446-4282.pdf"
+    },
+    {
+     "label": "practice problems",
+     "file": "Handout-4447-4282.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3318",
+   "date": "10/16/2022",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Logic Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3771-3318.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-3770-3318.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3331",
+   "date": "10/23/2022",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Geometry - Part 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "practice questions",
+     "file": "Handout-3737-3331.pdf"
+    },
+    {
+     "label": "packet",
+     "file": "Handout-3736-3331.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3355",
+   "date": "10/30/2022",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Geometry - Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3748-3355.pdf"
+    },
+    {
+     "label": "practice/homework",
+     "file": "Handout-3749-3355.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3300",
+   "date": "10/9/2022",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Word Problems and Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "practice questions",
+     "file": "Handout-3709-3300.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-3708-3300.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3388",
+   "date": "11/20/2022",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Practice Test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "practice test",
+     "file": "Handout-3781-3388.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3371",
+   "date": "11/6/2022",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Algebra",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3772-3371.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3512",
+   "date": "2/19/2023",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Geometry - Triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3877-3512.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3527",
+   "date": "2/26/2023",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Trigonometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3892-3527.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3494",
+   "date": "2/5/2023",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Practice Test - AMC 10",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "amc 10 2003",
+     "file": "Handout-3873-3494.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3545",
+   "date": "3/5/2023",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3900-3545.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3577",
+   "date": "4/2/2023",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Practice Test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "practice test",
+     "file": "Handout-3935-3577.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3609",
+   "date": "4/9/2023",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Circles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3939-3609.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3256",
+   "date": "9/25/2022",
+   "year": 2022,
+   "group": "AMC 8 Training",
+   "topic": "Diagnostic Test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "amc 8 2017",
+     "file": "Handout-3664-3256.pdf"
+    }
+   ]
+  }
+ ]
+}

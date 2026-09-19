@@ -1,0 +1,3274 @@
+{
+ "unit": "adv-2019",
+ "source": "ucla-lamc",
+ "title": "Advanced (US grades 9-12), 2019-2020",
+ "id_block": [
+  "1601",
+  "1800"
+ ],
+ "status": "pending",
+ "sessions_total": 219,
+ "sessions_with_answers": 22,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "2323",
+   "date": "1/10/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Group Competition!",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "competition problems",
+     "file": "Handout-2698-2323.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2710-2323.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2339",
+   "date": "1/17/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Graphs Part 1: Planar Graphs",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2718-2339.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2732-2339.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2374",
+   "date": "1/31/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Graphs Part 3: Colorings Continued",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-2777-2374.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-2754-2374.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2185",
+   "date": "10/11/2020",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Competition problems warm-up!",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2460-2185.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2500-2185.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2194",
+   "date": "10/18/2020",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Gaussian Integers I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2496-2194.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2559-2194.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2195",
+   "date": "10/25/2020",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Gaussian Integers II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2518-2195.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2561-2195.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2414",
+   "date": "2/21/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Metrics Part 1: The taxicab metric",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2802-2414.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2804-2414.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2432",
+   "date": "2/28/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Metrics Part 2: General Metrics",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2823-2432.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2837-2432.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2388",
+   "date": "2/7/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Continued Fractions",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2770-2388.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2836-2388.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2532",
+   "date": "4/25/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Smart Codes I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2935-2532.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2979-2532.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1877",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Week 1: Tropical Polynomials I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "tropical polynomials",
+     "file": "Handout-2042-1877.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2050-1877.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1714",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Olympiad Style Problems 1",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "olympiad style problems 1",
+     "file": "Handout-2014-1714.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2154-1714.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1706",
+   "date": "11/24/2019",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Olympiad Problems II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "olympiad problems hints",
+     "file": "Handout-2025-1706.pdf"
+    },
+    {
+     "label": "olympiad problems ii",
+     "file": "Handout-2024-1706.pdf"
+    },
+    {
+     "label": "olympiad problem solutions",
+     "file": "Handout-2026-1706.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1715",
+   "date": "11/24/2019",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Olympiad Style Problems 2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "olympiad style problems 2",
+     "file": "Handout-2015-1715.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2155-1715.pdf"
+    },
+    {
+     "label": "hints",
+     "file": "Handout-2156-1715.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1707",
+   "date": "12/8/2019",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Final Meeting",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "problems with solutions",
+     "file": "Handout-2160-1707.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1823",
+   "date": "12/8/2019",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Competition Day with 2A",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "problems with solutions",
+     "file": "Handout-2161-1823.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1899",
+   "date": "2/23/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Point Mass Geometry Part 1",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2185-1899.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2245-1899.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1906",
+   "date": "2/23/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Point Mass Geometry",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2180-1906.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2223-1906.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1866",
+   "date": "2/9/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Generating Functions",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "generating functions",
+     "file": "Handout-2124-1866.pdf"
+    },
+    {
+     "label": "generating functions solutions",
+     "file": "Handout-2125-1866.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1900",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Point Mass Geometry Part 2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2206-1900.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2246-1900.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1901",
+   "date": "3/8/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Point Mass Geometry Part 2 Continued",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2217-1901.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2247-1901.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2069",
+   "date": "5/3/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Inequalities 2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2330-2069.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2350-2069.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2331",
+   "date": "1/10/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Complex numbers I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2699-2331.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2320",
+   "date": "1/10/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Weighings, Logic and Geometric Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2692-2320.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2327",
+   "date": "1/10/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Weighings, Logic, and Geometric Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2706-2327.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2311",
+   "date": "1/10/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Competition Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition problems",
+     "file": "Handout-2708-2311.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2334",
+   "date": "1/10/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Prime Generating Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "prime_generating_functions",
+     "file": "Handout-2704-2334.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2337",
+   "date": "1/17/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Weighings, Logic and Geometric Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2716-2337.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2352",
+   "date": "1/17/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Weighings, Logic, and Geometric Constructions part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2726-2352.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2312",
+   "date": "1/17/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Graph Theory I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "planar graphs",
+     "file": "Handout-2729-2312.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2348",
+   "date": "1/17/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Borsuk-Ulam Theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "borsuk ulam problems",
+     "file": "Handout-2724-2348.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2357",
+   "date": "1/24/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Weighings, Invariants and Geometric Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2740-2357.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2368",
+   "date": "1/24/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Weighings, Invariants, and Geometric Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2747-2368.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2361",
+   "date": "1/24/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Graphs Part 2: Colorings",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2742-2361.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2313",
+   "date": "1/24/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Graph Theory II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph coloring",
+     "file": "Handout-2748-2313.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2349",
+   "date": "1/24/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Dynamical Systems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "dynamics_problems",
+     "file": "Handout-2744-2349.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2375",
+   "date": "1/31/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Invariants and Geometric Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2755-2375.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2389",
+   "date": "1/31/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Invariants and Geometric Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2771-2389.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2314",
+   "date": "1/31/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Graph Theory III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph coloring",
+     "file": "Handout-2762-2314.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2184",
+   "date": "10/11/2020",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Warm up",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2456-2184.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2189",
+   "date": "10/11/2020",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Warm-up",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2467-2189.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2172",
+   "date": "10/11/2020",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Competition Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition problems",
+     "file": "Handout-2472-2172.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2160",
+   "date": "10/11/2020",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Euler's Number",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "eulers_number_handout",
+     "file": "Handout-2455-2160.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2199",
+   "date": "10/18/2020",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Quadratic Equations I (Vieta's Theorem)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2489-2199.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2204",
+   "date": "10/18/2020",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Quadratic equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2501-2204.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2173",
+   "date": "10/18/2020",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Gaussian Integers I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "gaussian integers i",
+     "file": "Handout-2497-2173.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2161",
+   "date": "10/18/2020",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "The Least Upper Bound",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "euler&#039;s number worksheet 2: the least upper bound",
+     "file": "Handout-2495-2161.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2212",
+   "date": "10/25/2020",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Quadratic Equations II (Long division)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2511-2212.pdf"
+    },
+    {
+     "label": "hw",
+     "file": "Handout-2512-2212.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2220",
+   "date": "10/25/2020",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Convex Property and Cubics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "cubics",
+     "file": "Handout-2537-2220.pdf"
+    },
+    {
+     "label": "convex",
+     "file": "Handout-2536-2220.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2174",
+   "date": "10/25/2020",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Gaussian Integers II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "gaussian integers ii",
+     "file": "Handout-2538-2174.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2162",
+   "date": "10/25/2020",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Axiom of Choice and more...",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "hats",
+     "file": "Handout-2514-2162.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2229",
+   "date": "11/1/2020",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Quadratic Equations III (Quadratic equations in different contexts)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2564-2229.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2565-2229.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2236",
+   "date": "11/1/2020",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "More on Cubics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2571-2236.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2226",
+   "date": "11/1/2020",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Prime Generating Functions I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "prime generating functions i",
+     "file": "Handout-2557-2226.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2175",
+   "date": "11/1/2020",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Prime Generating Functions I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "prime generating functions i",
+     "file": "Handout-2575-2175.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2163",
+   "date": "11/1/2020",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Exploring Manifolds",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-2569-2163.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2259",
+   "date": "11/15/2020",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2608-2259.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2268",
+   "date": "11/15/2020",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "e and Trigonometric functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2619-2268.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2261",
+   "date": "11/15/2020",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Algorithms I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2610-2261.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2177",
+   "date": "11/15/2020",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Algorithms I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "intro to algorithms",
+     "file": "Handout-2616-2177.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2165",
+   "date": "11/15/2020",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Cryptography and Finite Fields",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "cryptographyhandout",
+     "file": "Handout-2623-2165.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2275",
+   "date": "11/22/2020",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Quadratic inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2634-2275.pdf"
+    },
+    {
+     "label": "hw",
+     "file": "Handout-2635-2275.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2262",
+   "date": "11/22/2020",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Algorithms II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2632-2262.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2178",
+   "date": "11/22/2020",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Algorithms II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "p vs np",
+     "file": "Handout-2647-2178.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2166",
+   "date": "11/22/2020",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Finite Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "finite_geometry",
+     "file": "Handout-2643-2166.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2278",
+   "date": "11/29/2020",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2648-2278.pdf"
+    },
+    {
+     "label": "extra",
+     "file": "Handout-2649-2278.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2241",
+   "date": "11/8/2020",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Quadratic Equations IV (Vieta's formulas again)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework",
+     "file": "Handout-2582-2241.pdf"
+    },
+    {
+     "label": "handout (same as two previous weeks)",
+     "file": "Handout-2583-2241.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2251",
+   "date": "11/8/2020",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Complex numbers and cubic solutions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2594-2251.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2227",
+   "date": "11/8/2020",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Prime Generating Functions II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2587-2227.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2176",
+   "date": "11/8/2020",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Prime Generating Functions II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "prime generating functions ii",
+     "file": "Handout-2593-2176.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2164",
+   "date": "11/8/2020",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Exploring Manifolds 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-2570-2164.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2302",
+   "date": "12/13/2020",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Game",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "game",
+     "file": "Handout-2680-2302.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2169",
+   "date": "12/13/2020",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Competition Day",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-2687-2169.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2289",
+   "date": "12/6/2020",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Quadratic Equations V (Problem solving)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2666-2289.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2295",
+   "date": "12/6/2020",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "More on Quadratic Equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2673-2295.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2282",
+   "date": "12/6/2020",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Fundamental Theorem of Algebra",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2660-2282.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2179",
+   "date": "12/6/2020",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Fundamental Theorem of Algebra",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "fundamental theorem of algebra",
+     "file": "Handout-2676-2179.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2168",
+   "date": "12/6/2020",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Finite Geometry - Continued",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "finite_geometry",
+     "file": "Handout-2674-2168.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2415",
+   "date": "2/21/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Game",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "game",
+     "file": "Handout-2807-2415.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2316",
+   "date": "2/21/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Taxicab Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "taxicab geometry",
+     "file": "Handout-2814-2316.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2422",
+   "date": "2/21/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "P vs. NP",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pnp_problems",
+     "file": "Handout-2810-2422.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2431",
+   "date": "2/28/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Invariants and Geometric Constructions III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2822-2431.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2439",
+   "date": "2/28/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Invariants and Geometric Constructions II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2828-2439.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2317",
+   "date": "2/28/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Metrics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2827-2317.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2424",
+   "date": "2/28/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Ordinals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ordinals_problems",
+     "file": "Handout-2826-2424.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2383",
+   "date": "2/7/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Weighings, Invariants, and Geometric Constructions part 4",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "new handout",
+     "file": "Handout-2774-2383.pdf"
+    },
+    {
+     "label": "last week&#039;s handout",
+     "file": "Handout-2764-2383.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2400",
+   "date": "2/7/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Invariants and Geometric Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2788-2400.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2390",
+   "date": "2/7/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Invariants and geometric constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout from last meeting",
+     "file": "Handout-2772-2390.pdf"
+    },
+    {
+     "label": "new problems",
+     "file": "Handout-2773-2390.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2315",
+   "date": "2/7/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Continued Fractions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "continued fractions",
+     "file": "Handout-2786-2315.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2397",
+   "date": "2/7/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "3D Sections",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "3d_sections_problems",
+     "file": "Handout-2790-2397.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-2791-2397.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2464",
+   "date": "3/14/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Game 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2862-2464.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2461",
+   "date": "3/14/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Competition!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2861-2461.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2319",
+   "date": "3/14/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Competition Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition problems",
+     "file": "Handout-2864-2319.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2426",
+   "date": "3/14/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-2866-2426.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2448",
+   "date": "3/7/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Invariants and geometric construction IV",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2839-2448.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2455",
+   "date": "3/7/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Drawing Contest and Invariants",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "extra",
+     "file": "Handout-2853-2455.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-2844-2455.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2443",
+   "date": "3/7/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Gini Index",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2838-2443.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2318",
+   "date": "3/7/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Gini Index",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "gini index",
+     "file": "Handout-2847-2318.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2425",
+   "date": "3/7/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Lattices, Orchards, and the Four-Square theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2843-2425.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2508",
+   "date": "4/11/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Combinations II (Pascal's Triangle)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2896-2508.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2513",
+   "date": "4/11/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Combinations and Pascal's Triangle",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2900-2513.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2507",
+   "date": "4/11/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "A Study of Measurement Errors as an Introduction to Differential Calculus Part 2 (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2895-2507.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2522",
+   "date": "4/18/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Spring Game I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "game",
+     "file": "Handout-2911-2522.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2518",
+   "date": "4/18/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Lattices and Orchards",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2906-2518.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2481",
+   "date": "4/18/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Lattice Points",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lattices",
+     "file": "Handout-2917-2481.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2477",
+   "date": "4/18/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Incidence Combinatorics 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-2913-2477.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2536",
+   "date": "4/25/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Combinations III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2938-2536.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2542",
+   "date": "4/25/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Combinations and Pascal's Triangle 1.5",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2949-2542.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2482",
+   "date": "4/25/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Smart Codes I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "smart codes",
+     "file": "Handout-2951-2482.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2495",
+   "date": "4/4/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Combination",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2883-2495.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2492",
+   "date": "4/4/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Random Events?",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-2876-2492.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2498",
+   "date": "4/4/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2886-2498.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2480",
+   "date": "4/4/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "A Study of Measurement Errors as an Introduction to Differential Calculus. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2877-2480.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2479",
+   "date": "4/4/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "A Study of Measurement Errors as an Introduction to Differential Calculus I (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2879-2479.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2475",
+   "date": "4/4/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Graph Theory 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-2882-2475.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2588",
+   "date": "5/16/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Game 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "game",
+     "file": "Handout-3010-2588.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2584",
+   "date": "5/16/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Sequences",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3006-2584.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2485",
+   "date": "5/16/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Convergence in Metric Spaces I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "convergence in metric spaces i",
+     "file": "Handout-3014-2485.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2591",
+   "date": "5/16/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Primes and Counting",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3015-2591.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2549",
+   "date": "5/2/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Combinatorics IV (Stars and Bars)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2962-2549.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2556",
+   "date": "5/2/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Combinatorics stars and bars",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2965-2556.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2483",
+   "date": "5/2/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Smart Codes II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "smart codes",
+     "file": "Handout-2970-2483.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2557",
+   "date": "5/2/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Homotopy",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-2966-2557.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2594",
+   "date": "5/23/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Combinatorics VI (Young Diagrams)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3023-2594.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2604",
+   "date": "5/23/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Young Tableau",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3031-2604.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2598",
+   "date": "5/23/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Sequences II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3027-2598.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2486",
+   "date": "5/23/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Convergence in Metric Spaces II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "convergence in metric spaces ii",
+     "file": "Handout-3033-2486.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2607",
+   "date": "5/23/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Primes and Counting 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "with extra problems",
+     "file": "Handout-3039-2607.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2569",
+   "date": "5/9/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Stars and Bars II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2978-2569.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2574",
+   "date": "5/9/2021",
+   "year": 2020,
+   "group": "Advanced 1B",
+   "topic": "Combinatorics stars and bars II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2984-2574.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2572",
+   "date": "5/9/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Competition!!!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2980-2572.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2484",
+   "date": "5/9/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Competition I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition problems",
+     "file": "Handout-2988-2484.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2567",
+   "date": "5/9/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Quantum Information",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-2987-2567.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2622",
+   "date": "6/6/2021",
+   "year": 2020,
+   "group": "Advanced 1A",
+   "topic": "Final game",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3057-2622.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2620",
+   "date": "6/6/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Advanced 2 Comp",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "measurement errors",
+     "file": "Handout-3049-2620.pdf"
+    },
+    {
+     "label": "smart codes",
+     "file": "Handout-3050-2620.pdf"
+    },
+    {
+     "label": "sequences",
+     "file": "Handout-3051-2620.pdf"
+    },
+    {
+     "label": "total",
+     "file": "Handout-3048-2620.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2621",
+   "date": "6/6/2021",
+   "year": 2020,
+   "group": "Advanced 2A",
+   "topic": "Final Competition!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition",
+     "file": "Handout-3052-2621.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2487",
+   "date": "6/6/2021",
+   "year": 2020,
+   "group": "Advanced 2B",
+   "topic": "Competition II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition problems",
+     "file": "Handout-3061-2487.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2626",
+   "date": "6/6/2021",
+   "year": 2020,
+   "group": "Advanced 3",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition_problems.pdf",
+     "file": "Handout-3062-2626.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1848",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Tropical Geometry I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2121-1848.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1862",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Taxicab Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "taxicab geometry",
+     "file": "Handout-2040-1862.pdf"
+    },
+    {
+     "label": "taxicab geometry challenge problems",
+     "file": "Handout-2041-1862.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1851",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Metrics 1 - Taxicab",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "metrics 1",
+     "file": "Handout-2033-1851.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1849",
+   "date": "1/17/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Tropical Geometry II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2122-1849.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1873",
+   "date": "1/19/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Week 2: Tropical Polynomials II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "tropical orthogonal representations",
+     "file": "Handout-2047-1873.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1863",
+   "date": "1/19/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Metrics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "metrics",
+     "file": "Handout-2049-1863.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1852",
+   "date": "1/19/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Metrics 2 - Sequences",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "metrics 2",
+     "file": "Handout-2048-1852.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1896",
+   "date": "1/26/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Infinity Part 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2079-1896.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2080-1896.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1902",
+   "date": "1/26/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Infinity 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "infinity-1",
+     "file": "Handout-2083-1902.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2084-1902.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1864",
+   "date": "1/26/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Primes in Extensions of the Integers I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "primes in extensions of the integers i",
+     "file": "Handout-2061-1864.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1853",
+   "date": "1/26/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Prime Splitting 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "prime splitting 1",
+     "file": "Handout-2064-1853.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1734",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Advanced 1A: Intro to Probability 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1866-1734.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1867-1734.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1735",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Week 2: Intro to probability",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week-2",
+     "file": "Handout-1864-1735.pdf"
+    },
+    {
+     "label": "homework-2",
+     "file": "Handout-1865-1735.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1700",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Wallpaper Symmetries II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "wallpaper symmetries",
+     "file": "Handout-1869-1700.pdf"
+    },
+    {
+     "label": "absolute values and p-adics",
+     "file": "Handout-1870-1700.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1709",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Gaussian Integers 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "gaussian integers 2",
+     "file": "Handout-1882-1709.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1774",
+   "date": "10/20/2019",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Advanced 1A: Conditional Probability",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1898-1774.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-1899-1774.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1773",
+   "date": "10/20/2019",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Week 3: Probability II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week-3",
+     "file": "Handout-1895-1773.pdf"
+    },
+    {
+     "label": "homework-3",
+     "file": "Handout-1896-1773.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1701",
+   "date": "10/20/2019",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Frieze Patterns",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "triangulated polygons and frieze patterns",
+     "file": "Handout-1900-1701.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1710",
+   "date": "10/20/2019",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Frieze Patterns 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "frieze patterns 1",
+     "file": "Handout-1918-1710.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1776",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Advanced 1A: Random Variables and Expected Value",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1933-1776.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1783",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Week 4: Probability III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week-4",
+     "file": "Handout-1908-1783.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1702",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Frieze Patterns II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "triangulated polygons and frieze patterns ii",
+     "file": "Handout-1909-1702.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1711",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Frieze Patterns 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "frieze patterns 2",
+     "file": "Handout-1919-1711.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1716",
+   "date": "10/6/2019",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Moscow Math Olympiad Warm-Up",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1855-1716.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1726",
+   "date": "10/6/2019",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Week 1: Moscow Math Olympiad Warm-Up",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week-1",
+     "file": "Handout-1854-1726.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1699",
+   "date": "10/6/2019",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Wallpaper Symmetries",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "wallpaper symmetries",
+     "file": "Handout-1868-1699.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1708",
+   "date": "10/6/2019",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Gaussian Integers 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "gaussian integers 1",
+     "file": "Handout-1881-1708.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1803",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Graphs, Random Walks, and Electrical Circuits Continued",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1967-1803.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1806",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Week 6: Electrical Circuits and Random Walks",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week-6-handout",
+     "file": "Handout-1968-1806.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1704",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Formal Proof Writing II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "formal proofs ii",
+     "file": "Handout-1956-1704.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1713",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Formal Proofs 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "proofs 2",
+     "file": "Handout-1955-1713.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1807",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Complex Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1982-1807.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1814",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Week 7: Complex Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week-7-handout",
+     "file": "Handout-1975-1814.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1705",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Olympiad Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "olympiad problems",
+     "file": "Handout-1974-1705.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1816",
+   "date": "11/24/2019",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Complex Numbers II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "notes",
+     "file": "Handout-2001-1816.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-2023-1816.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1817",
+   "date": "11/24/2019",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Week 8: Complex Numbers II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "notes",
+     "file": "Handout-2000-1817.pdf"
+    },
+    {
+     "label": "complex-numbers-ii",
+     "file": "Handout-2016-1817.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1789",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Graphs, Random Walks, and Electrical Circuits",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2120-1789.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1792",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Week 5: Random Walks and Electrical Circuits",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "electrical-circuits",
+     "file": "Handout-1940-1792.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1703",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Formal Proof Writing",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "formal proofs",
+     "file": "Handout-1941-1703.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1712",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Formal Proofs 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "proofs 1",
+     "file": "Handout-1954-1712.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1897",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Infinity Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework",
+     "file": "Handout-2100-1897.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-2101-1897.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1903",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Infinity 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "infinity 2",
+     "file": "Handout-2098-1903.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2099-1903.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1865",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Primes in Extensions of the Integers II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "primes in extensions of the integers ii",
+     "file": "Handout-2097-1865.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1854",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Prime Splitting 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "primes splitting 2",
+     "file": "Handout-2090-1854.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1867",
+   "date": "2/23/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Measure and Probability I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "measure and probability i",
+     "file": "Handout-2172-1867.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1856",
+   "date": "2/23/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Probability Measures 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability 1",
+     "file": "Handout-2184-1856.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1898",
+   "date": "2/9/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Infinity Part 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2123-1898.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1904",
+   "date": "2/9/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Infinity 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "infinity-3",
+     "file": "Handout-2169-1904.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1855",
+   "date": "2/9/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Generating Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "generating functions",
+     "file": "Handout-2106-1855.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1907",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Point Mass Geometry II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2207-1907.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1868",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Measure and Probability II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "measure and probability ii",
+     "file": "Handout-2199-1868.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1857",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Probability and Measures 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability 2",
+     "file": "Handout-2190-1857.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1908",
+   "date": "3/8/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Point Mass Geometry II (continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2210-1908.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1869",
+   "date": "3/8/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Measure and Probability III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "measure and probability i, ii, and iii",
+     "file": "Handout-2219-1869.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2024",
+   "date": "4/12/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Formal Proofs 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2276-2024.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2039",
+   "date": "4/12/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Formal Proofs II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "formalproofs-2",
+     "file": "Handout-2282-2039.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1965",
+   "date": "4/12/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Fixed Points",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "fixed points",
+     "file": "Handout-2269-1965.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2004",
+   "date": "4/12/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Math Circle Advanced 2B - Fixed Points",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "fixed points",
+     "file": "Handout-2268-2004.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2038",
+   "date": "4/19/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Golomb Ruler",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2281-2038.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1966",
+   "date": "4/19/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Sperner's Lemma",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "sperner&#039;s lemma",
+     "file": "Handout-2280-1966.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2005",
+   "date": "4/19/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Math Circle Advanced 2B - Topologically-Flavored Graph Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graphs 1",
+     "file": "Handout-2279-2005.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2055",
+   "date": "4/26/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2314-2055.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2057",
+   "date": "4/26/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inequalities",
+     "file": "Handout-2313-2057.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1967",
+   "date": "4/26/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Sperner's Lemma and Further Topics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "more graphs",
+     "file": "Handout-2303-1967.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2006",
+   "date": "4/26/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Math Circle Advanced 2B - More Topologically-Flavored Graph Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "more graphs",
+     "file": "Handout-2300-2006.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2012",
+   "date": "4/5/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Formal Proofs 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2275-2012.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2015",
+   "date": "4/5/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Formal Proofs I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "formalproofs",
+     "file": "Handout-2259-2015.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1964",
+   "date": "4/5/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Time Travel",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "time travel",
+     "file": "Handout-2261-1964.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2003",
+   "date": "4/5/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Math Circle Advanced 2B - Time Travel",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "time travel",
+     "file": "Handout-2252-2003.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2077",
+   "date": "5/10/2020",
+   "year": 2019,
+   "group": "Advanced 1A",
+   "topic": "Inversive Geometry 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2342-2077.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1969",
+   "date": "5/10/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Knot Theory II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "knot invariants and quandles",
+     "file": "Handout-2343-1969.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2008",
+   "date": "5/10/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Math Circle Advanced 2B - Knots 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "knots week 2",
+     "file": "Handout-2325-2008.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1970",
+   "date": "5/17/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Knot Theory III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "kauffman bracket and jones polynomial",
+     "file": "Handout-2360-1970.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2009",
+   "date": "5/17/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Math Circle Advanced 2B - Knots 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "knots week 3",
+     "file": "Handout-2327-2009.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2070",
+   "date": "5/3/2020",
+   "year": 2019,
+   "group": "Advanced 1B",
+   "topic": "Inequalities II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inequalities-2",
+     "file": "Handout-2331-2070.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1968",
+   "date": "5/3/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Knot Theory I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "braids and knots",
+     "file": "Handout-2332-1968.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2007",
+   "date": "5/3/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Math Circle Advanced 2B - Knots 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "knots week 1",
+     "file": "Handout-2323-2007.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1971",
+   "date": "5/31/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Game Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-2375-1971.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2010",
+   "date": "5/31/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Math Circle Advanced 2B - Game Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "game theory",
+     "file": "Handout-2377-2010.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1972",
+   "date": "6/7/2020",
+   "year": 2019,
+   "group": "Advanced 2A",
+   "topic": "Math Battle and Graduation",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-2385-1972.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2011",
+   "date": "6/7/2020",
+   "year": 2019,
+   "group": "Advanced 2B",
+   "topic": "Math Circle Advanced 2B - Math Battle, Graduation and Goodbyes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-2387-2011.pdf"
+    }
+   ]
+  }
+ ]
+}

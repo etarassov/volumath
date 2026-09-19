@@ -1,0 +1,39 @@
+{
+  "id": "ucla-lamc",
+  "name": "Los Angeles Math Circle (UCLA)",
+  "url": "https://circles.math.ucla.edu/circles/archive.shtml",
+  "original_language": "en",
+  "local_copy": "sources/originals/ucla-lamc/",
+  "added": "2026-09-19",
+  "what_it_is": [
+    "Weekly session handouts of the Los Angeles Math Circle, run by the UCLA maths",
+    "department. The archive covers 2007 to 2026, one page per year, and every page",
+    "lists its sessions with the handout PDFs attached. The other 21 pages of the site",
+    "hold no problem files at all, so the archive is the whole source."
+  ],
+  "scale": {
+    "years": "2007-2026 (the 2026 page is live but missing from the year menu)",
+    "handout_pdfs": 4267,
+    "sessions": 3147,
+    "sessions_usable_for_4e_to_terminale": 2712,
+    "sessions_with_an_answers_file": 535,
+    "pages_downloaded": 3679,
+    "pdf_pages": "about 27000"
+  },
+  "groups": {
+    "Advanced": "US grades 9-12, the richest pool and the one that reaches Terminale",
+    "High School I / II": "US grades 9-12, lecture plus problems",
+    "Olympiads 1 / 2": "olympiad training, 2019 onwards only",
+    "AMC 10/12 training": "American contest papers, 2de to Terminale",
+    "Intermediate": "US grades 7-8, largely AMC 8 style contest problems",
+    "AMC 8 training": "American contest papers, 4e to 3e",
+    "Beginners 2": "US grades 5-6, mostly below 4e, take only what reaches it",
+    "Early Elementary, Junior Circle, BNP, Beginners 1, Chess": "below 4e, not imported"
+  },
+  "note_on_access": [
+    "ucla.edu does not resolve through this machine's DNS (SERVFAIL), although public",
+    "resolvers answer normally. The PDFs were fetched with a pinned IP:",
+    "curl --resolve circles.math.ucla.edu:443:128.97.4.7 <url>",
+    "Everything needed is already on disk, so importers never touch the network."
+  ]
+}

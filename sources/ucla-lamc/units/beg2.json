@@ -1,0 +1,5822 @@
+{
+ "unit": "beg2",
+ "source": "ucla-lamc",
+ "title": "Beginners 2 (US grades 5-6), 2012-2026",
+ "id_block": [
+  "4601",
+  "4800"
+ ],
+ "status": "pending",
+ "sessions_total": 353,
+ "sessions_with_answers": 149,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "4101",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry: Vectors",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4326-4101.pdf"
+    },
+    {
+     "label": "problem 4 solution",
+     "file": "Handout-4329-4101.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2672",
+   "date": "8/15/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Logic Puzzles: Knights and Liars (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions_math_kangaroo",
+     "file": "Handout-3106-2672.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2673",
+   "date": "8/15/2021",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Logic Puzzles: Knights and Liars (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions_math_kangaroo",
+     "file": "Handout-3107-2673.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2329",
+   "date": "1/10/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Exponential Functions P1",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: exponential functions p1",
+     "file": "Handout-2694-2329.pdf"
+    },
+    {
+     "label": "solutions: exponential functions p1",
+     "file": "Handout-2799-2329.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2330",
+   "date": "1/10/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Exponential Functions P1",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: exponential functions p1",
+     "file": "Handout-2695-2330.pdf"
+    },
+    {
+     "label": "solutions: exponential functions p1",
+     "file": "Handout-2800-2330.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2353",
+   "date": "1/17/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Exponential Functions P1: Multiplying Negative Numbers",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: multiplying negative numbers",
+     "file": "Handout-2727-2353.pdf"
+    },
+    {
+     "label": "solution: multiplying negative numbers",
+     "file": "Handout-2738-2353.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2354",
+   "date": "1/17/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Exponential Functions P1: Multiplying Negative Numbers",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: multiplying negative numbers",
+     "file": "Handout-2728-2354.pdf"
+    },
+    {
+     "label": "solution: multiplying negative numbers",
+     "file": "Handout-2739-2354.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2192",
+   "date": "10/18/2020",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Logic Puzzles: Wizards and Hats",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: wizards_hats",
+     "file": "Handout-2493-2192.pdf"
+    },
+    {
+     "label": "solutions: wizards_hats",
+     "file": "Handout-2550-2192.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2193",
+   "date": "10/18/2020",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Logic Puzzles: Wizards and Hats",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: wizards_hats",
+     "file": "Handout-2494-2193.pdf"
+    },
+    {
+     "label": "solutions: wizards_hats",
+     "file": "Handout-2551-2193.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2216",
+   "date": "10/25/2020",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Logic Puzzles: Wizards and Hats (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "math_kangaroo_problems",
+     "file": "Handout-2525-2216.pdf"
+    },
+    {
+     "label": "handout_solutions_no_challenge_problem",
+     "file": "Handout-2548-2216.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2217",
+   "date": "10/25/2020",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Logic Puzzles: Wizards and Hats (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "math_kangaroo_problems",
+     "file": "Handout-2526-2217.pdf"
+    },
+    {
+     "label": "solutions: no_challenge_problem",
+     "file": "Handout-2549-2217.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2233",
+   "date": "11/1/2020",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Challenge Problem and Halloween Math",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solution: challenge problem",
+     "file": "Handout-2584-2233.pdf"
+    },
+    {
+     "label": "handout: halloween math",
+     "file": "Handout-2567-2233.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2234",
+   "date": "11/1/2020",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Challenge Problem and Halloween Math",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: halloween_math",
+     "file": "Handout-2568-2234.pdf"
+    },
+    {
+     "label": "solution: challenge problem",
+     "file": "Handout-2585-2234.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2265",
+   "date": "11/15/2020",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Venn Diagrams (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "venn diagrams solutions",
+     "file": "Handout-2650-2265.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2266",
+   "date": "11/15/2020",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Venn Diagrams (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "venn diagram solutions",
+     "file": "Handout-2641-2266.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2272",
+   "date": "11/22/2020",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Egyptian Multiplication and Binary Numbers",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: egyptian_multiplication",
+     "file": "Handout-2638-2272.pdf"
+    },
+    {
+     "label": "solutions: egyptian_multiplication",
+     "file": "Handout-2696-2272.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2273",
+   "date": "11/22/2020",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Egyptian Multiplication and Binary Numbers",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: egyptian_multiplication",
+     "file": "Handout-2639-2273.pdf"
+    },
+    {
+     "label": "solutions: egyptian_multiplication",
+     "file": "Handout-2697-2273.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2252",
+   "date": "11/8/2020",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Venn Diagrams",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: venn diagrams",
+     "file": "Handout-2597-2252.pdf"
+    },
+    {
+     "label": "solutions: halloween math",
+     "file": "Handout-2600-2252.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2253",
+   "date": "11/8/2020",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Venn Diagrams",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: venn diagrams",
+     "file": "Handout-2598-2253.pdf"
+    },
+    {
+     "label": "solutions: halloween math",
+     "file": "Handout-2601-2253.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2412",
+   "date": "2/21/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "An Introduction to Polyhedra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: polyhedra_p1",
+     "file": "Handout-2798-2412.pdf"
+    },
+    {
+     "label": "solution: polyhedra_p1",
+     "file": "Handout-2888-2412.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2467",
+   "date": "3/14/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Introduction to Polyhedra (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: polyhedra additional problem",
+     "file": "Handout-2869-2467.pdf"
+    },
+    {
+     "label": "solution: polyhedra additional problem",
+     "file": "Handout-2892-2467.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2454",
+   "date": "3/7/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Introduction to Polyhedra Continued + Math Kangaroo",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: math kangaroo p3",
+     "file": "Handout-2860-2454.pdf"
+    },
+    {
+     "label": "solution: math kangaroo p3",
+     "file": "Handout-2891-2454.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2502",
+   "date": "4/11/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Sets and Venn Diagrams P1 (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: set_venn_diagrams_p1",
+     "file": "Handout-2920-2502.pdf"
+    },
+    {
+     "label": "solutions: set_venn_diagrams_p1",
+     "file": "Handout-2958-2502.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2514",
+   "date": "4/11/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Sets and Venn Diagrams P1 (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: set_venn_diagrams_p1",
+     "file": "Handout-2921-2514.pdf"
+    },
+    {
+     "label": "solutions: set_venn_diagrams_p1",
+     "file": "Handout-2932-2514.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2525",
+   "date": "4/18/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Sets and Venn Diagrams P1 (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions: set_venn_diagrams_p1",
+     "file": "Handout-2959-2525.pdf"
+    },
+    {
+     "label": "handout: set_venn_diagrams_p1",
+     "file": "Handout-2922-2525.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2526",
+   "date": "4/18/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Sets and Venn Diagrams P1 (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: set_venn_diagrams_p1",
+     "file": "Handout-2923-2526.pdf"
+    },
+    {
+     "label": "solutions: set_venn_diagrams_p1",
+     "file": "Handout-2934-2526.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2530",
+   "date": "4/25/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Sets and Venn Diagrams P2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: sets_venn_diagrams_p2",
+     "file": "Handout-2930-2530.pdf"
+    },
+    {
+     "label": "solutions: sets_venn_diagrams_p2",
+     "file": "Handout-2992-2530.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2531",
+   "date": "4/25/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Sets and Venn Diagrams P2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: sets_venn_diagrams_p2",
+     "file": "Handout-2931-2531.pdf"
+    },
+    {
+     "label": "solutions: set_venn_diagrams_p2",
+     "file": "Handout-3001-2531.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2500",
+   "date": "4/4/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Sets and Venn Diagrams P1",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: set_venn_diagrams_p1",
+     "file": "Handout-2918-2500.pdf"
+    },
+    {
+     "label": "solutions: set_venn_diagrams_p1",
+     "file": "Handout-2957-2500.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2501",
+   "date": "4/4/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Sets and Venn Diagrams P1",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: set_venn_diagrams_p1",
+     "file": "Handout-2919-2501.pdf"
+    },
+    {
+     "label": "solutions: set_venn_diagrams_p1",
+     "file": "Handout-2933-2501.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2582",
+   "date": "5/16/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Sets and Venn Diagrams P2 (Continued) + Quiz",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: math kangaroo p4 w/ futoshiki",
+     "file": "Handout-2997-2582.pdf"
+    },
+    {
+     "label": "solutions: math kangaroo p4 w/ futoshiki",
+     "file": "Handout-3066-2582.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2583",
+   "date": "5/16/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Sets and Venn Diagrams P2 (Continued) + Quiz",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: math kangaroo p4 w/ futoshiki",
+     "file": "Handout-3005-2583.pdf"
+    },
+    {
+     "label": "solutions: math kangaroo p4 w/ futoshiki",
+     "file": "Handout-3067-2583.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2546",
+   "date": "5/2/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Sets and Venn Diagrams P2 (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: sets_venn_diagrams_p2",
+     "file": "Handout-2960-2546.pdf"
+    },
+    {
+     "label": "solutions: set_venn_diagrams_p2",
+     "file": "Handout-3000-2546.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2547",
+   "date": "5/2/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Sets and Venn Diagrams P2 (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: sets_venn_diagrams_p2",
+     "file": "Handout-2961-2547.pdf"
+    },
+    {
+     "label": "solutions: set_venn_diagrams_p2",
+     "file": "Handout-3002-2547.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2605",
+   "date": "5/23/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Quiz Review + Additional Problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: interperting venn diagrams",
+     "file": "Handout-3036-2605.pdf"
+    },
+    {
+     "label": "solutions: interpreting venn diagrams",
+     "file": "Handout-3045-2605.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2606",
+   "date": "5/23/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Quiz Review + Additional Problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: interpreting venn diagrams",
+     "file": "Handout-3038-2606.pdf"
+    },
+    {
+     "label": "solutions: interpreting venn diagrams",
+     "file": "Handout-3046-2606.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2577",
+   "date": "5/9/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Sets and Venn Diagrams P2 (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: sets_venn_diagrams_p2",
+     "file": "Handout-2998-2577.pdf"
+    },
+    {
+     "label": "solutions: set_venn_diagrams_p2",
+     "file": "Handout-2999-2577.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2578",
+   "date": "5/9/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Sets and Venn Diagrams P2 (Continued)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout: sets_venn_diagrams_p2",
+     "file": "Handout-3003-2578.pdf"
+    },
+    {
+     "label": "solutions: set_venn_diagrams_p2",
+     "file": "Handout-3004-2578.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1846",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Auctions and Subtraction Games",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2034-1846.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2035-1846.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1847",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Auctions and Subtraction Games",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2036-1847.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2037-1847.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1890",
+   "date": "1/26/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Math Kangaroo Practice",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-2058-1890.pdf"
+    },
+    {
+     "label": "handouts",
+     "file": "Handout-2057-1890.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1891",
+   "date": "1/26/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Math Kangaroo Practice",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handouts",
+     "file": "Handout-2059-1891.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2060-1891.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1730",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Egyptian Multiplication",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1860-1730.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1872-1730.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1731",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Egyptian Multiplication",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1861-1731.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1874-1731.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1771",
+   "date": "10/20/2019",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Russian Peasant Math",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1901-1771.pdf"
+    },
+    {
+     "label": "answers",
+     "file": "Handout-1905-1771.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1772",
+   "date": "10/20/2019",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Russian Peasant Math",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1902-1772.pdf"
+    },
+    {
+     "label": "answers",
+     "file": "Handout-1906-1772.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1781",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Bases and Exponents I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "answers pgs 1-3",
+     "file": "Handout-1934-1781.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-1914-1781.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1782",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Bases and Exponents I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "answers pgs 1-3",
+     "file": "Handout-1935-1782.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-1915-1782.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1719",
+   "date": "10/6/2019",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Hats and Doors",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1851-1719.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1871-1719.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1725",
+   "date": "10/6/2019",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Hats and Doors",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1852-1725.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1873-1725.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1798",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Beginners 2A: Bases and Exponents II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1963-1798.pdf"
+    },
+    {
+     "label": "solutions i",
+     "file": "Handout-1964-1798.pdf"
+    },
+    {
+     "label": "solutions ii",
+     "file": "Handout-2012-1798.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1799",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Bases and Exponents II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1965-1799.pdf"
+    },
+    {
+     "label": "solutions i",
+     "file": "Handout-1966-1799.pdf"
+    },
+    {
+     "label": "solutions ii",
+     "file": "Handout-2013-1799.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1810",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Venn Diagrams",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout 1",
+     "file": "Handout-1983-1810.pdf"
+    },
+    {
+     "label": "handout 2",
+     "file": "Handout-1984-1810.pdf"
+    },
+    {
+     "label": "solutions 1",
+     "file": "Handout-1985-1810.pdf"
+    },
+    {
+     "label": "solutions 2",
+     "file": "Handout-1986-1810.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1811",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Venn Diagrams",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout 1",
+     "file": "Handout-1987-1811.pdf"
+    },
+    {
+     "label": "handout 2",
+     "file": "Handout-1988-1811.pdf"
+    },
+    {
+     "label": "solutions 1",
+     "file": "Handout-1989-1811.pdf"
+    },
+    {
+     "label": "solutions 2",
+     "file": "Handout-1990-1811.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1820",
+   "date": "11/24/2019",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Similar Shapes and Gnomons",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout 1",
+     "file": "Handout-2004-1820.pdf"
+    },
+    {
+     "label": "handout 2",
+     "file": "Handout-2005-1820.pdf"
+    },
+    {
+     "label": "solutions 1",
+     "file": "Handout-2006-1820.pdf"
+    },
+    {
+     "label": "solutions 2",
+     "file": "Handout-2007-1820.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1821",
+   "date": "11/24/2019",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Similar Shapes and Gnomons",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout 1",
+     "file": "Handout-2008-1821.pdf"
+    },
+    {
+     "label": "handout 2",
+     "file": "Handout-2009-1821.pdf"
+    },
+    {
+     "label": "solutions 1",
+     "file": "Handout-2010-1821.pdf"
+    },
+    {
+     "label": "solutions 2",
+     "file": "Handout-2011-1821.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1786",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Bases and Exponents I Cont.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1917-1786.pdf"
+    },
+    {
+     "label": "pg 4 answers",
+     "file": "Handout-1946-1786.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1785",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Bases and Exponents I cont.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "pg 4 answers",
+     "file": "Handout-1948-1785.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-1916-1785.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1913",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Calendar Mathematics",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2087-1913.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2109-1913.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1912",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Calendar Mathematics",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2103-1912.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2110-1912.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1937",
+   "date": "2/23/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Polyhedra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2178-1937.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2179-1937.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1938",
+   "date": "2/23/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Polyhedra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2176-1938.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2177-1938.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1921",
+   "date": "2/9/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "More Math Kangaroo Practice!",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handouts",
+     "file": "Handout-2107-1921.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2108-1921.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1920",
+   "date": "2/9/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "More Math Kangaroo Practice!",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2111-1920.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2112-1920.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1944",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Polyhedra I Continued",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2197-1944.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2198-1944.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1943",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Polyhedra I Continued",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2201-1943.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2202-1943.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2013",
+   "date": "4/12/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Distance Formula",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2255-2013.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2307-2013.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2014",
+   "date": "4/12/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Distance Formula",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2256-2014.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2309-2014.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1991",
+   "date": "4/5/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Russian Math Olympiad Problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2243-1991.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2253-1991.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1992",
+   "date": "4/5/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Russian Math Olympiad Problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2244-1992.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2254-1992.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2064",
+   "date": "5/3/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Futoshiki",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2328-2064.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2336-2064.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2065",
+   "date": "5/3/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Futoshiki",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2329-2065.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2337-2065.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2096",
+   "date": "5/31/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Sticks and Stones Part II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2392-2096.pdf"
+    },
+    {
+     "label": "solution sketches",
+     "file": "Handout-2393-2096.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2097",
+   "date": "5/31/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Sticks and Stones Part II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2398-2097.pdf"
+    },
+    {
+     "label": "solution sketches",
+     "file": "Handout-2399-2097.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1591",
+   "date": "2/24/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Combinatorics I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout 2",
+     "file": "Handout-1724-1591.pdf"
+    },
+    {
+     "label": "handout 1",
+     "file": "Handout-1725-1591.pdf"
+    },
+    {
+     "label": "handout 2 solutions",
+     "file": "Handout-1726-1591.pdf"
+    },
+    {
+     "label": "handout 1 solutions",
+     "file": "Handout-1727-1591.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1380",
+   "date": "1/14/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Logical Negations",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1389-1380.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1390-1380.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1384",
+   "date": "1/21/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Induction I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1400-1384.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1401-1384.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1386",
+   "date": "1/28/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Induction II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1409-1386.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1410-1386.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1351",
+   "date": "10/22/2017",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Percentages",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1320-1351.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1321-1351.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1356",
+   "date": "10/29/2017",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Hexahexaflexagons",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1336-1356.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1337-1356.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1347",
+   "date": "10/8/2017",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Egyptian Fraction Representation I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1309-1347.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1310-1347.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1364",
+   "date": "11/12/2017",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Modular Arithmetic I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1358-1364.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1359-1364.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1367",
+   "date": "11/19/2017",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Modular Arithmetic II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1371-1367.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1372-1367.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1358",
+   "date": "11/5/2017",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Working Together Problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1349-1358.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1350-1358.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1371",
+   "date": "12/3/2017",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Games and Strategy",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1380-1371.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1381-1371.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1397",
+   "date": "2/11/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Knights and Knaves",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1472-1397.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1473-1397.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1412",
+   "date": "2/25/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Math Kangaroo Strategies",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1435-1412.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1436-1412.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1391",
+   "date": "2/4/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Successive Differences",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1470-1391.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1471-1391.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1425",
+   "date": "3/18/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Math Dominoes",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1461-1425.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1462-1425.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1413",
+   "date": "3/4/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Graph Theory I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1437-1413.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1438-1413.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1435",
+   "date": "4/15/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Instant Insanity",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout &amp; solutions",
+     "file": "Handout-1483-1435.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1454",
+   "date": "4/29/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Greedy Algorithm",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1501-1454.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1502-1454.pdf"
+    },
+    {
+     "label": "challenge solutions",
+     "file": "Handout-1503-1454.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1431",
+   "date": "4/8/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Pi Day Celebration",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1468-1431.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1469-1431.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1463",
+   "date": "5/13/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Weights and Levers",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1512-1463.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1513-1463.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1464",
+   "date": "5/20/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Probability",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1521-1464.pdf"
+    },
+    {
+     "label": "solution",
+     "file": "Handout-1522-1464.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1455",
+   "date": "5/6/2018",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Mathemagic-Casting Out Nines",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1514-1455.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1515-1455.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1087",
+   "date": "1/10/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Geometry I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1050-1087.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1058-1087.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1090",
+   "date": "1/17/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Geometry II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1059-1090.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1060-1090.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1107",
+   "date": "1/24/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Cracking the 15 Puzzle - Part 1",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1075-1107.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1076-1107.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1108",
+   "date": "1/31/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Cracking the 15 Puzzle - Part 2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1085-1108.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1086-1108.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1034",
+   "date": "10/11/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Fractions and Decimals I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "fractions and decimals 1",
+     "file": "Handout-979-1034.pdf"
+    },
+    {
+     "label": "fractions and decimals 1 solutions",
+     "file": "Handout-980-1034.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1038",
+   "date": "10/18/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Fractions and Decimals II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "fractions and decimals 2",
+     "file": "Handout-983-1038.pdf"
+    },
+    {
+     "label": "fractions and decimals 2 solutions",
+     "file": "Handout-984-1038.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1048",
+   "date": "10/25/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Fractions and Decimals III",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "fractions and decimals 3",
+     "file": "Handout-999-1048.pdf"
+    },
+    {
+     "label": "fractions and decimals 3 solutions",
+     "file": "Handout-1000-1048.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1028",
+   "date": "10/4/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Math Festival",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "math festival",
+     "file": "Handout-968-1028.pdf"
+    },
+    {
+     "label": "math festival solutions",
+     "file": "Handout-969-1028.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1057",
+   "date": "11/1/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Modular Arithmetic and Ciphers",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "modular arithmetic and ciphers",
+     "file": "Handout-1004-1057.pdf"
+    },
+    {
+     "label": "modular arithmetic and ciphers solutions",
+     "file": "Handout-1005-1057.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1072",
+   "date": "11/15/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Arithmetic and Harmonic Means",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "arithmetic and harmonic means",
+     "file": "Handout-1022-1072.pdf"
+    },
+    {
+     "label": "arithmetic and harmonic means solutions",
+     "file": "Handout-1023-1072.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1078",
+   "date": "11/22/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Arithmetic and Harmonic Means Continued and Quarter Review",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "arithmetic and harmonic means (continued)",
+     "file": "Handout-1031-1078.pdf"
+    },
+    {
+     "label": "arithmetic and harmonic means (continued) solutions",
+     "file": "Handout-1032-1078.pdf"
+    },
+    {
+     "label": "quarter review",
+     "file": "Handout-1033-1078.pdf"
+    },
+    {
+     "label": "quarter review solutions",
+     "file": "Handout-1034-1078.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1064",
+   "date": "11/8/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Arithmetic Mean",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "arithmetic mean",
+     "file": "Handout-1014-1064.pdf"
+    },
+    {
+     "label": "arithmetic mean solutions",
+     "file": "Handout-1015-1064.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1124",
+   "date": "2/21/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Cracking the 15 Puzzle - Part 4",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1105-1124.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1106-1124.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1129",
+   "date": "2/28/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Euclid and Prime Numbers I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1113-1129.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1114-1129.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1117",
+   "date": "2/7/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Cracking the 15 Puzzle - Part 3",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1095-1117.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1096-1117.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1130",
+   "date": "3/6/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Euclid and Prime Numbers II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1125-1130.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1130-1130.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1161",
+   "date": "4/10/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Successive Differences",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1142-1161.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1143-1161.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1168",
+   "date": "4/17/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Graph Theory - Handshaking and Chasing Kids",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "differences (cont&#039;d)",
+     "file": "Handout-1153-1168.pdf"
+    },
+    {
+     "label": "graph theory - handshaking and chasing kids",
+     "file": "Handout-1154-1168.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1155-1168.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1177",
+   "date": "4/24/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Graph Theory II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1162-1177.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1163-1177.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1152",
+   "date": "4/3/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Math Games",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1136-1152.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1137-1152.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1178",
+   "date": "5/1/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Graph Theory III",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1168-1178.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1170-1178.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1189",
+   "date": "5/15/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Geometry II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1181-1189.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1193-1189.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1195",
+   "date": "5/22/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Combinatorics on a Chessboard",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1191-1195.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1192-1195.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1188",
+   "date": "5/8/2016",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Geometry I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1175-1188.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1180-1188.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1016",
+   "date": "6/24/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Welcome to Beginner's Math Circle!",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "initial assessment",
+     "file": "Handout-948-1016.pdf"
+    },
+    {
+     "label": "moscow olympiad",
+     "file": "Handout-949-1016.pdf"
+    },
+    {
+     "label": "initial assessment (solutions)",
+     "file": "Handout-950-1016.pdf"
+    },
+    {
+     "label": "moscow olympiad (solutions)",
+     "file": "Handout-951-1016.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1017",
+   "date": "7/1/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Binary Notation",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "binary notation (handout)",
+     "file": "Handout-952-1017.pdf"
+    },
+    {
+     "label": "binary notation (solutions)",
+     "file": "Handout-953-1017.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1020",
+   "date": "7/15/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Percentages",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "percentages (handout)",
+     "file": "Handout-956-1020.pdf"
+    },
+    {
+     "label": "percentages (solutions)",
+     "file": "Handout-957-1020.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1021",
+   "date": "7/22/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Geometry: 3D Projections and Solids",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "geometry (handout)",
+     "file": "Handout-958-1021.pdf"
+    },
+    {
+     "label": "geometry (solutions)",
+     "file": "Handout-959-1021.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1022",
+   "date": "7/29/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Working Together",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "warm up (handout)",
+     "file": "Handout-960-1022.pdf"
+    },
+    {
+     "label": "warm up (solutions)",
+     "file": "Handout-961-1022.pdf"
+    },
+    {
+     "label": "working together (handout)",
+     "file": "Handout-962-1022.pdf"
+    },
+    {
+     "label": "working together (solutions)",
+     "file": "Handout-963-1022.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1019",
+   "date": "7/8/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Egyptian Multiplication and Russian Peasant Multiplication",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-954-1019.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-955-1019.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1023",
+   "date": "8/5/2015",
+   "year": 2015,
+   "group": "Beginners",
+   "topic": "Combinatorics",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "combinatorics i",
+     "file": "Handout-964-1023.pdf"
+    },
+    {
+     "label": "combinatorics ii",
+     "file": "Handout-965-1023.pdf"
+    },
+    {
+     "label": "combinatorics (solutions)",
+     "file": "Handout-966-1023.pdf"
+    }
+   ]
+  },
+  {
+   "event": "932",
+   "date": "1/18/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Working Together",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "working together handout",
+     "file": "Handout-842-932.pdf"
+    },
+    {
+     "label": "practice math kangaroo homework problems",
+     "file": "Handout-843-932.pdf"
+    },
+    {
+     "label": "working together solutions",
+     "file": "Handout-844-932.pdf"
+    }
+   ]
+  },
+  {
+   "event": "940",
+   "date": "1/25/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Percentages & Work Wrap-Up",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "percentage &amp; work overview",
+     "file": "Handout-848-940.pdf"
+    },
+    {
+     "label": "mini quiz",
+     "file": "Handout-849-940.pdf"
+    },
+    {
+     "label": "percentage &amp; work solutions",
+     "file": "Handout-850-940.pdf"
+    }
+   ]
+  },
+  {
+   "event": "944",
+   "date": "2/1/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Combinatorics (Part I)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "combinatorics part 1 (handout)",
+     "file": "Handout-856-944.pdf"
+    },
+    {
+     "label": "math kangaroo homework problems",
+     "file": "Handout-857-944.pdf"
+    },
+    {
+     "label": "combinatorics part 1 (solutions)",
+     "file": "Handout-858-944.pdf"
+    }
+   ]
+  },
+  {
+   "event": "959",
+   "date": "2/22/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Modular Arithmetic (Part I)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "modular arithmetic handout",
+     "file": "Handout-867-959.pdf"
+    },
+    {
+     "label": "modular arithmetic solutions",
+     "file": "Handout-868-959.pdf"
+    },
+    {
+     "label": "math kangaroo problem set",
+     "file": "Handout-869-959.pdf"
+    }
+   ]
+  },
+  {
+   "event": "950",
+   "date": "2/8/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Combinatorics (Part II)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "combinatorics part ii handout",
+     "file": "Handout-860-950.pdf"
+    },
+    {
+     "label": "combinatorics part ii solution",
+     "file": "Handout-861-950.pdf"
+    },
+    {
+     "label": "math kangaroo",
+     "file": "Handout-862-950.pdf"
+    },
+    {
+     "label": "mini quiz 1 solution",
+     "file": "Handout-863-950.pdf"
+    }
+   ]
+  },
+  {
+   "event": "963",
+   "date": "3/1/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Modular Arithmetic, Part II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "combinatorics quiz",
+     "file": "Handout-873-963.pdf"
+    },
+    {
+     "label": "modular arithmetic part ii (handout)",
+     "file": "Handout-889-963.pdf"
+    },
+    {
+     "label": "modular arithmetic part ii (solutions)",
+     "file": "Handout-890-963.pdf"
+    },
+    {
+     "label": "math kangaroo",
+     "file": "Handout-891-963.pdf"
+    }
+   ]
+  },
+  {
+   "event": "977",
+   "date": "3/15/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Pi Day",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "celebrating pi day (handout)",
+     "file": "Handout-898-977.pdf"
+    },
+    {
+     "label": "digits of pi problems (handout)",
+     "file": "Handout-899-977.pdf"
+    },
+    {
+     "label": "celebrating pi day (solutions)",
+     "file": "Handout-900-977.pdf"
+    },
+    {
+     "label": "digits of pi problems (solutions)",
+     "file": "Handout-901-977.pdf"
+    }
+   ]
+  },
+  {
+   "event": "969",
+   "date": "3/8/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Modular Arithmetic Part III",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "modular arithmetic part iii (handout)",
+     "file": "Handout-886-969.pdf"
+    },
+    {
+     "label": "modular arithmetic part iii (solutions)",
+     "file": "Handout-887-969.pdf"
+    },
+    {
+     "label": "math kangaroo problem set",
+     "file": "Handout-888-969.pdf"
+    }
+   ]
+  },
+  {
+   "event": "979",
+   "date": "4/12/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Math Kangaroo Workshop",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "math kangaroo workshop (handout)",
+     "file": "Handout-905-979.pdf"
+    },
+    {
+     "label": "math kangaroo workshop (solutions)",
+     "file": "Handout-906-979.pdf"
+    }
+   ]
+  },
+  {
+   "event": "988",
+   "date": "4/19/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Line Geometry",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "line geometry (handout)",
+     "file": "Handout-912-988.pdf"
+    },
+    {
+     "label": "line geometry (solutions)",
+     "file": "Handout-913-988.pdf"
+    }
+   ]
+  },
+  {
+   "event": "989",
+   "date": "4/26/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Geometry (Part II)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "geometry part ii (handout)",
+     "file": "Handout-918-989.pdf"
+    },
+    {
+     "label": "geometry part ii (solution)",
+     "file": "Handout-919-989.pdf"
+    }
+   ]
+  },
+  {
+   "event": "997",
+   "date": "5/10/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Number Bases (Part II)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "number bases handout i",
+     "file": "Handout-930-997.pdf"
+    },
+    {
+     "label": "number bases handout ii",
+     "file": "Handout-931-997.pdf"
+    },
+    {
+     "label": "number bases i (solutions)",
+     "file": "Handout-932-997.pdf"
+    },
+    {
+     "label": "number bases ii (solutions)",
+     "file": "Handout-933-997.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1004",
+   "date": "5/17/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Vectors",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "vectors handout",
+     "file": "Handout-937-1004.pdf"
+    },
+    {
+     "label": "vectors solutions",
+     "file": "Handout-938-1004.pdf"
+    }
+   ]
+  },
+  {
+   "event": "995",
+   "date": "5/3/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Number Bases (Part I)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "number base part i (handout)",
+     "file": "Handout-924-995.pdf"
+    },
+    {
+     "label": "number base part i (solutions)",
+     "file": "Handout-925-995.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1011",
+   "date": "5/31/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "27-Card Trick & Review",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "card trick handout",
+     "file": "Handout-942-1011.pdf"
+    },
+    {
+     "label": "card trick solutions",
+     "file": "Handout-943-1011.pdf"
+    },
+    {
+     "label": "review handout",
+     "file": "Handout-944-1011.pdf"
+    },
+    {
+     "label": "review solutions",
+     "file": "Handout-945-1011.pdf"
+    }
+   ]
+  },
+  {
+   "event": "689",
+   "date": "10/13/2013",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Place-value numerals, part 3 (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-562-689.pdf"
+    },
+    {
+     "label": "hex addition table",
+     "file": "Handout-563-689.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-578-689.pdf"
+    }
+   ]
+  },
+  {
+   "event": "703",
+   "date": "10/27/2013",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Pigeonhole Principle (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-582-703.pdf"
+    },
+    {
+     "label": "solution key",
+     "file": "Handout-583-703.pdf"
+    }
+   ]
+  },
+  {
+   "event": "672",
+   "date": "10/6/2013",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Place-value numerals, continued. (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-553-672.pdf"
+    },
+    {
+     "label": "solution key",
+     "file": "Handout-569-672.pdf"
+    }
+   ]
+  },
+  {
+   "event": "822",
+   "date": "4/27/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Parity of a permutation (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-707-822.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-711-822.pdf"
+    }
+   ]
+  },
+  {
+   "event": "797",
+   "date": "4/6/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Permutations and the 15 puzzle (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-687-797.pdf"
+    },
+    {
+     "label": "solution key, part 1",
+     "file": "Handout-689-797.pdf"
+    },
+    {
+     "label": "solution key, part 2",
+     "file": "Handout-690-797.pdf"
+    },
+    {
+     "label": "solution key, part 3",
+     "file": "Handout-691-797.pdf"
+    },
+    {
+     "label": "solution key, part 4",
+     "file": "Handout-692-797.pdf"
+    }
+   ]
+  },
+  {
+   "event": "664",
+   "date": "9/29/2013",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Place-value numerals (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-541-664.pdf"
+    },
+    {
+     "label": "solutions key",
+     "file": "Handout-552-664.pdf"
+    }
+   ]
+  },
+  {
+   "event": "590",
+   "date": "2/3/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Math Kangaroo Practice",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "practice exam",
+     "file": "Handout-480-590.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-481-590.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5673",
+   "date": "8/30/2026",
+   "year": 2026,
+   "group": "Beginners 2B",
+   "topic": "Quarter-end math wrangle.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5153-5673.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5238",
+   "date": "1/11/2026",
+   "year": 2025,
+   "group": "Beginners 2B",
+   "topic": "Intro to geometry, lesson 4.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4928-5238.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5271",
+   "date": "1/18/2026",
+   "year": 2025,
+   "group": "Beginners 2A",
+   "topic": "Intro to geometry, lesson 4.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4948-5271.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5102",
+   "date": "10/12/2025",
+   "year": 2025,
+   "group": "Beginners 2A",
+   "topic": "Introduction to Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4856-5102.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5103",
+   "date": "10/12/2025",
+   "year": 2025,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4857-5103.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5104",
+   "date": "10/12/2025",
+   "year": 2025,
+   "group": "Beginners 2C",
+   "topic": "Introduction to Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4858-5104.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5126",
+   "date": "10/19/2025",
+   "year": 2025,
+   "group": "Beginners 2B",
+   "topic": "Intro to geometry, lesson 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4872-5126.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5125",
+   "date": "10/19/2025",
+   "year": 2025,
+   "group": "Beginners 2C",
+   "topic": "Intro to geometry, lesson 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4873-5125.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5140",
+   "date": "10/26/2025",
+   "year": 2025,
+   "group": "Beginners 2A",
+   "topic": "Intro to geometry, lesson 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4871-5140.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5196",
+   "date": "11/16/2025",
+   "year": 2025,
+   "group": "Beginners 2A",
+   "topic": "Intro to geometry, lesson 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4905-5196.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5199",
+   "date": "11/16/2025",
+   "year": 2025,
+   "group": "Beginners 2C",
+   "topic": "Introduction to Geometry, Lesson 4",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4915-5199.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5168",
+   "date": "11/2/2025",
+   "year": 2025,
+   "group": "Beginners 2C",
+   "topic": "Intro to geometry, lesson 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4906-5168.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5177",
+   "date": "11/9/2025",
+   "year": 2025,
+   "group": "Beginners 2A",
+   "topic": "Intro to geometry, lesson 2, part 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4977-5177.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5191",
+   "date": "11/9/2025",
+   "year": 2025,
+   "group": "Beginners 2B",
+   "topic": "Intro to geometry, lesson 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4904-5191.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5297",
+   "date": "2/1/2026",
+   "year": 2025,
+   "group": "Beginners 2A",
+   "topic": "Vectors and Physics 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4964-5297.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5310",
+   "date": "2/1/2026",
+   "year": 2025,
+   "group": "Beginners 2B",
+   "topic": "Geometry: Angles in a Triangle and Measuring the Earth",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4965-5310.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5298",
+   "date": "2/1/2026",
+   "year": 2025,
+   "group": "Beginners 2C",
+   "topic": "Vectors and Physics 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4966-5298.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5330",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "Beginners 2A",
+   "topic": "Vectors and Physics 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4984-5330.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5319",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "Beginners 2B",
+   "topic": "Vectors and Physics 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4979-5319.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5332",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "Beginners 2C",
+   "topic": "Vectors and Physics 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4978-5332.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5427",
+   "date": "4/12/2026",
+   "year": 2025,
+   "group": "Beginners 2A",
+   "topic": "Vectors and Physics 4.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5030-5427.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5429",
+   "date": "4/12/2026",
+   "year": 2025,
+   "group": "Beginners 2C",
+   "topic": "Vectors and Physics 3, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5018-5429.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5443",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "Beginners 2C",
+   "topic": "Vectors and Physics 4.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5032-5443.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5467",
+   "date": "4/26/2026",
+   "year": 2025,
+   "group": "Beginners 2C",
+   "topic": "Vectors and Physics 4, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5048-5467.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-5049-5467.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5413",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Beginners 2A",
+   "topic": "Vectors and Physics 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5009-5413.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5422",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Beginners 2B",
+   "topic": "Vectors and Physics 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5010-5422.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5414",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Beginners 2C",
+   "topic": "Vectors and Physics 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4999-5414.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5520",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "Beginners 2C",
+   "topic": "Vectors and Physics 5.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5070-5520.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5492",
+   "date": "5/3/2026",
+   "year": 2025,
+   "group": "Beginners 2A",
+   "topic": "Vectors and Physics 5.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5064-5492.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4962",
+   "date": "6/29/2025",
+   "year": 2025,
+   "group": "Beginners 2A",
+   "topic": "Ciphers.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "additional handout",
+     "file": "Handout-4787-4962.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4963",
+   "date": "6/29/2025",
+   "year": 2025,
+   "group": "Beginners 2B",
+   "topic": "Ciphers.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "additional handout",
+     "file": "Handout-4788-4963.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5053",
+   "date": "8/31/2025",
+   "year": 2025,
+   "group": "Beginners 2B",
+   "topic": "End of quarter competititon.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "8.31.2025 beginners 2b competition",
+     "file": "Handout-4827-5053.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4028",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Introduction to Geometry: Angles, Triangles, and Congruence",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson 2",
+     "file": "Handout-4241-4028.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4020",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry: Angles, Triangles, and Congruence",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "previous lesson",
+     "file": "Handout-4235-4020.pdf"
+    },
+    {
+     "label": "lesson",
+     "file": "Handout-4236-4020.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4054",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Introduction to Geometry: Geometry Test and Pythagorean Theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4271-4054.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4042",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry: Constructions Quiz",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "practice test",
+     "file": "Handout-4255-4042.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4067",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Introduction to Geometry 3: Rhombus Proofs and Pythagorean Theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4272-4067.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4058",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry: Right Angles and the Pythagorean Theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "01/28 packet",
+     "file": "Handout-4286-4058.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4006",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Introduction to Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4237-4006.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4007",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson packet",
+     "file": "Handout-4233-4007.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4104",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Vectors and Elementary Physics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4309-4104.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4100",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry: Parallel Lines",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "02/18 packet",
+     "file": "Handout-4314-4100.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4124",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Vector Addition and Algebra",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4316-4124.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4084",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Introduction to Geometry: Right Angles, Pythagorean Theorem, and Line Segments",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4288-4084.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4082",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry: The Pythagorean Theorem (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4287-4082.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4156",
+   "date": "3/10/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "End of the Quarter: Geometry and Vector Review Game",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4360-4156.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4143",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Vectors and Vector Addition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4359-4143.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4140",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Vectors and Physics 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4334-4140.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4177",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Vector Addition and Geometric Proofs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4374-4177.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4189",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Physics and Vectors 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vectors and physics 3",
+     "file": "Handout-4370-4189.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4236",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Vector and Physics Review",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4439-4236.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4237",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Physics and Vectors 5 (Review) and Quiz",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "review packet",
+     "file": "Handout-4420-4237.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4256",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Baricentric coordinates and Line Segments",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4440-4256.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4254",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Vectors and Physics: Exam Review and packet 6",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "barycentric coordinates",
+     "file": "Handout-4442-4254.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4203",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Vectors and Physics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4395-4203.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4196",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Vectors and Physics 4",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vectors and physics packet",
+     "file": "Handout-4397-4196.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4308",
+   "date": "5/19/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Physics Review",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "physics review",
+     "file": "Handout-4470-4308.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4265",
+   "date": "5/5/2024",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "5D Chess",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "barycentric coordinates",
+     "file": "Handout-4443-4265.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3735",
+   "date": "6/25/2023",
+   "year": 2023,
+   "group": "Beginners 2A",
+   "topic": "Ciphers, lesson 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "caesar cipher template",
+     "file": "Handout-4042-3735.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3736",
+   "date": "6/25/2023",
+   "year": 2023,
+   "group": "Beginners 2B",
+   "topic": "Ciphers, lesson 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "caesar cipher template",
+     "file": "Handout-4043-3736.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3548",
+   "date": "3/5/2023",
+   "year": 2022,
+   "group": "Beginners 2A",
+   "topic": "Clocks and time",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3901-3548.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3680",
+   "date": "5/14/2023",
+   "year": 2022,
+   "group": "Beginners 2A",
+   "topic": "Introduction to Euclidean Geometry 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4005-3680.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3671",
+   "date": "5/7/2023",
+   "year": 2022,
+   "group": "Beginners 2A",
+   "topic": "Introduction to Euclidean geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3992-3671.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3168",
+   "date": "6/26/2022",
+   "year": 2022,
+   "group": "Beginners 2A",
+   "topic": "Cyphers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "caesar cypher template",
+     "file": "Handout-3613-3168.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3169",
+   "date": "6/26/2022",
+   "year": 2022,
+   "group": "Beginners 2B",
+   "topic": "Cyphers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ceasar cypher template",
+     "file": "Handout-3614-3169.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3192",
+   "date": "7/17/2022",
+   "year": 2022,
+   "group": "Beginners 2A",
+   "topic": "Recap and quiz 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson 10",
+     "file": "Handout-3628-3192.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3193",
+   "date": "7/17/2022",
+   "year": 2022,
+   "group": "Beginners 2B",
+   "topic": "Recap and quiz 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lesson 10",
+     "file": "Handout-3629-3193.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2879",
+   "date": "1/16/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Winter - Parallel Lines (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "introduction to geometry - lesson 4",
+     "file": "Handout-3288-2879.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2877",
+   "date": "1/16/2022",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry 4: Continued",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "i2g4",
+     "file": "Handout-3283-2877.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2891",
+   "date": "1/23/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Winter - Vectors 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "introduction to geometry - lesson 4",
+     "file": "Handout-3300-2891.pdf"
+    },
+    {
+     "label": "vector geometry - lesson 1",
+     "file": "Handout-3301-2891.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2890",
+   "date": "1/23/2022",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Vector Geometry 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry handout 1",
+     "file": "Handout-3294-2890.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2910",
+   "date": "1/30/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Winter - Vectors 1 (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry - lesson 1",
+     "file": "Handout-3321-2910.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2917",
+   "date": "1/30/2022",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Vector Geometry 1: Continued",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry handout 1",
+     "file": "Handout-3330-2917.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2854",
+   "date": "1/9/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Winter - Parallel Lines",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "fall quarter review questions",
+     "file": "Handout-3287-2854.pdf"
+    },
+    {
+     "label": "introduction to geometry - lesson 4",
+     "file": "Handout-3268-2854.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2853",
+   "date": "1/9/2022",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry 4",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "i2g4",
+     "file": "Handout-3267-2853.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2714",
+   "date": "10/10/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Fall - Angles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "introduction to geometry - lesson 1",
+     "file": "Handout-3139-2714.pdf"
+    },
+    {
+     "label": "introduction to geometry - lesson 2",
+     "file": "Handout-3144-2714.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2721",
+   "date": "10/17/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Fall - Angles (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "introduction to geometry - lesson 3",
+     "file": "Handout-3149-2721.pdf"
+    },
+    {
+     "label": "introduction to geometry - lesson 2",
+     "file": "Handout-3145-2721.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2739",
+   "date": "10/24/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Fall - Triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "triangle congruence proof review packet.pdf",
+     "file": "Handout-3167-2739.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2683",
+   "date": "10/3/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Fall - Euclidean Plane, Points, Distances",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "introduction to geometry - lesson 1",
+     "file": "Handout-3109-2683.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2678",
+   "date": "10/3/2021",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometry 1",
+     "file": "Handout-3108-2678.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2768",
+   "date": "10/31/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Fall - Cryptarithms (Halloween Lesson)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework packet",
+     "file": "Handout-3173-2768.pdf"
+    },
+    {
+     "label": "fun lesson from today",
+     "file": "Handout-3174-2768.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2765",
+   "date": "10/31/2021",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Halloween Special Event: Cryptarithms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3177-2765.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2805",
+   "date": "11/14/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Fall - Review Exam, Triangles (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "reading assigned",
+     "file": "Handout-3222-2805.pdf"
+    },
+    {
+     "label": "homework assigned",
+     "file": "Handout-3223-2805.pdf"
+    },
+    {
+     "label": "homework due: practice quiz",
+     "file": "Handout-3209-2805.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2792",
+   "date": "11/14/2021",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry 2 & 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "i2g3",
+     "file": "Handout-3197-2792.pdf"
+    },
+    {
+     "label": "i2g2",
+     "file": "Handout-3196-2792.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2816",
+   "date": "11/21/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Fall - Pythagorean Theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework due",
+     "file": "Handout-3225-2816.pdf"
+    },
+    {
+     "label": "reading due",
+     "file": "Handout-3224-2816.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2806",
+   "date": "11/21/2021",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "i2g3",
+     "file": "Handout-3215-2806.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2784",
+   "date": "11/7/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Fall - Triangles (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework assigned: practice quiz",
+     "file": "Handout-3211-2784.pdf"
+    },
+    {
+     "label": "homework due: triangle congruence review",
+     "file": "Handout-3188-2784.pdf"
+    },
+    {
+     "label": "extra challenge problems",
+     "file": "Handout-3210-2784.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2778",
+   "date": "11/7/2021",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "i2g2",
+     "file": "Handout-3185-2778.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2832",
+   "date": "12/5/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Fall - Pythagorean Theorem (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework due: introduction to geometry lesson 3",
+     "file": "Handout-3239-2832.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2830",
+   "date": "12/5/2021",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Geometry 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "i2g3",
+     "file": "Handout-3238-2830.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2940",
+   "date": "2/13/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Winter - Vectors 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry - lesson 2",
+     "file": "Handout-3371-2940.pdf"
+    },
+    {
+     "label": "vector geometry - lesson 1",
+     "file": "Handout-3370-2940.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2941",
+   "date": "2/13/2022",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Vector Geometry 2: Wrapping up",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry handout 2",
+     "file": "Handout-3372-2941.pdf"
+    },
+    {
+     "label": "vector geometry handout 3",
+     "file": "Handout-3373-2941.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2970",
+   "date": "2/27/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Winter - Vectors 2 (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry - lesson 2",
+     "file": "Handout-3398-2970.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2959",
+   "date": "2/27/2022",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Vector Geometry 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry handout 3",
+     "file": "Handout-3393-2959.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2926",
+   "date": "2/6/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Winter - Vectors 1 (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry - lesson 1",
+     "file": "Handout-3353-2926.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2925",
+   "date": "2/6/2022",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Vector Geometry 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry handout 2",
+     "file": "Handout-3350-2925.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2994",
+   "date": "3/13/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Winter - Vectors 2 (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry - lesson 2",
+     "file": "Handout-3431-2994.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2975",
+   "date": "3/6/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Winter - Vectors 2 (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry - lesson 2",
+     "file": "Handout-3408-2975.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2976",
+   "date": "3/6/2022",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Vector Geometry 3: Continued",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry handout 3",
+     "file": "Handout-3409-2976.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3042",
+   "date": "4/10/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Spring - Logic Gates (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry - lesson 3",
+     "file": "Handout-3518-3042.pdf"
+    },
+    {
+     "label": "logic gates - five lessons compiled",
+     "file": "Handout-3519-3042.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3037",
+   "date": "4/10/2022",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Logic 2: Truth Functions; AND Operation",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "logic 2",
+     "file": "Handout-3513-3037.pdf"
+    },
+    {
+     "label": "logic 3",
+     "file": "Handout-3514-3037.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3059",
+   "date": "4/17/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Spring - Logic Gates (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "logic gates - five lessons compiled",
+     "file": "Handout-3541-3059.pdf"
+    },
+    {
+     "label": "logic gates - continued",
+     "file": "Handout-3542-3059.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3052",
+   "date": "4/17/2022",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Logic 3: OR, NOT, Boolean Algebra",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "logic 3",
+     "file": "Handout-3534-3052.pdf"
+    },
+    {
+     "label": "logic 4",
+     "file": "Handout-3535-3052.pdf"
+    },
+    {
+     "label": "logic 5",
+     "file": "Handout-3536-3052.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3079",
+   "date": "4/24/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Spring - Logic Gates (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "logic gates - five lessons compiled",
+     "file": "Handout-3553-3079.pdf"
+    },
+    {
+     "label": "logic gates - continued",
+     "file": "Handout-3554-3079.pdf"
+    },
+    {
+     "label": "math kangaroo 2007",
+     "file": "Handout-3555-3079.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3019",
+   "date": "4/3/2022",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Spring - Logic Gates",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "vector geometry - lesson 3",
+     "file": "Handout-3489-3019.pdf"
+    },
+    {
+     "label": "logic gates - five lessons compiled",
+     "file": "Handout-3488-3019.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3015",
+   "date": "4/3/2022",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Logic 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "logic 1",
+     "file": "Handout-3485-3015.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2633",
+   "date": "6/27/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Ciphers 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ceasar disk",
+     "file": "Handout-3073-2633.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2634",
+   "date": "6/27/2021",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Ciphers 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ceasar disk",
+     "file": "Handout-3074-2634.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2643",
+   "date": "7/11/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Ciphers 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "rail fence cipher template",
+     "file": "Handout-3079-2643.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2644",
+   "date": "7/11/2021",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Ciphers 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "rail fence cipher template",
+     "file": "Handout-3080-2644.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2649",
+   "date": "7/18/2021",
+   "year": 2021,
+   "group": "Beginners 2A",
+   "topic": "Ciphers 2 (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "rail fence cipher template",
+     "file": "Handout-3086-2649.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2650",
+   "date": "7/18/2021",
+   "year": 2021,
+   "group": "Beginners 2B",
+   "topic": "Ciphers 2 (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "rail fence cipher template",
+     "file": "Handout-3087-2650.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2372",
+   "date": "1/31/2021",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "Exponential Functions P1: (Continued) + Math Kangaroo",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout: math kangaroo p2",
+     "file": "Handout-2752-2372.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2373",
+   "date": "1/31/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Exponential Functions P1: (Continued) + Math Kangaroo",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout: math kangaroo p2",
+     "file": "Handout-2753-2373.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2157",
+   "date": "10/11/2020",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "First Meeting",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout: i_cut_you_choose",
+     "file": "Handout-2457-2157.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2159",
+   "date": "10/11/2020",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "First Meeting",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout: i_cut_you_choose",
+     "file": "Handout-2458-2159.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2279",
+   "date": "11/29/2020",
+   "year": 2020,
+   "group": "Beginners 2A",
+   "topic": "No Meeting",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "math kangaroo",
+     "file": "Handout-2651-2279.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2280",
+   "date": "11/29/2020",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "No Meeting!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "math kangaroo",
+     "file": "Handout-2653-2280.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2413",
+   "date": "2/21/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "An Introduction to Polyhedra",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout: polyhedra_p1",
+     "file": "Handout-2801-2413.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2468",
+   "date": "3/14/2021",
+   "year": 2020,
+   "group": "Beginners 2B",
+   "topic": "Introduction to Polyhedra (Continued)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout: polyhedra additional problem",
+     "file": "Handout-2870-2468.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1961",
+   "date": "3/15/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Euler's Formula",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2221-1961.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1962",
+   "date": "3/15/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Euler's Formula",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2222-1962.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1950",
+   "date": "3/8/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Euler's Formula",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2211-1950.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1949",
+   "date": "3/8/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Euler's Formula",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2212-1949.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2036",
+   "date": "4/19/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Rates using Trade",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2311-2036.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2037",
+   "date": "4/19/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Rates with Trade",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2310-2037.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2049",
+   "date": "4/26/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Rates and Trade: Opportunity Cost",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2317-2049.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2050",
+   "date": "4/26/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Rates and Trade: Opportunity Cost",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2318-2050.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2058",
+   "date": "5/10/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Game Theory!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "teaching notes",
+     "file": "Handout-2351-2058.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2059",
+   "date": "5/10/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Game Theory!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "teaching notes",
+     "file": "Handout-2352-2059.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2083",
+   "date": "5/17/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Sticks and Stones",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework",
+     "file": "Handout-2367-2083.pdf"
+    },
+    {
+     "label": "teaching notes",
+     "file": "Handout-2366-2083.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2082",
+   "date": "5/17/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Sticks and Stones",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "teaching notes",
+     "file": "Handout-2368-2082.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2369-2082.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2102",
+   "date": "6/7/2020",
+   "year": 2019,
+   "group": "Beginners 2A",
+   "topic": "Final Meeting: Review!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "questions",
+     "file": "Handout-2395-2102.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2103",
+   "date": "6/7/2020",
+   "year": 2019,
+   "group": "Beginners 2B",
+   "topic": "Final Meeting: Review!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "questions",
+     "file": "Handout-2401-2103.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1551",
+   "date": "1/13/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Geometry I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1667-1551.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1556",
+   "date": "1/20/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Geometry II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1682-1556.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1563",
+   "date": "1/27/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Geometry III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1686-1563.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1498",
+   "date": "10/14/2018",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Fractions and Decimals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1557-1498.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1514",
+   "date": "10/21/2018",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Place-Value Numerals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1604-1514.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1515",
+   "date": "10/28/2018",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Place value systems continued",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1616-1515.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1497",
+   "date": "10/7/2018",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "A survey of Olympiad problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1539-1497.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1525",
+   "date": "11/11/2018",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Permutations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1643-1525.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1532",
+   "date": "11/18/2018",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Permutations continued",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1648-1532.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1521",
+   "date": "11/4/2018",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Problem Solving",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1628-1521.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1538",
+   "date": "12/2/2018",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Permutations Finale",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1651-1538.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1543",
+   "date": "12/9/2018",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Permutations post Finale and Math Relay",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1654-1543.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1579",
+   "date": "2/3/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Vectors",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1699-1579.pdf"
+    },
+    {
+     "label": "auxiliary handout",
+     "file": "Handout-1700-1579.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1607",
+   "date": "3/10/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Pi day!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1739-1607.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1594",
+   "date": "3/3/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Combinatorics II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1736-1594.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1625",
+   "date": "4/14/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Goats",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1762-1625.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1629",
+   "date": "4/21/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Knights, Knaves and Knormals.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1778-1629.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1636",
+   "date": "4/28/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Divisibility",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1781-1636.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1615",
+   "date": "4/7/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "How big are big numbers really?",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1759-1615.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1649",
+   "date": "5/12/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Modular Arithmetic and Ciphers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1826-1649.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1659",
+   "date": "5/19/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "Problem Solving and Take Away Games",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "take away games handout",
+     "file": "Handout-1824-1659.pdf"
+    },
+    {
+     "label": "problem solving",
+     "file": "Handout-1825-1659.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1642",
+   "date": "5/5/2019",
+   "year": 2018,
+   "group": "Beginners",
+   "topic": "The Chinese remainder theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1828-1642.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1350",
+   "date": "10/15/2017",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Egyptian Fraction Representation II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1318-1350.pdf"
+    },
+    {
+     "label": "solutoins",
+     "file": "Handout-1319-1350.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1375",
+   "date": "12/10/2017",
+   "year": 2017,
+   "group": "Beginners",
+   "topic": "Combinatorial Game Stations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinatorial game rules",
+     "file": "Handout-1382-1375.pdf"
+    },
+    {
+     "label": "holiday math",
+     "file": "Handout-1383-1375.pdf"
+    }
+   ]
+  },
+  {
+   "event": "921",
+   "date": "1/11/2015",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Percentages",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "percents",
+     "file": "Handout-838-921.pdf"
+    }
+   ]
+  },
+  {
+   "event": "860",
+   "date": "10/12/2014",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Welcome to Beginner's Circle!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "initial assessment",
+     "file": "Handout-744-860.pdf"
+    },
+    {
+     "label": "math olympiad problems",
+     "file": "Handout-745-860.pdf"
+    }
+   ]
+  },
+  {
+   "event": "870",
+   "date": "10/19/2014",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Sets and Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "sets and functions",
+     "file": "Handout-759-870.pdf"
+    }
+   ]
+  },
+  {
+   "event": "877",
+   "date": "10/26/2014",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Infinite Sets",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "infinite sets",
+     "file": "Handout-766-877.pdf"
+    }
+   ]
+  },
+  {
+   "event": "894",
+   "date": "11/16/2014",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Angles and Circles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "challenge problem",
+     "file": "Handout-795-894.pdf"
+    }
+   ]
+  },
+  {
+   "event": "883",
+   "date": "11/2/2014",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Parity, Symmetry, and Fun Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "parity",
+     "file": "Handout-778-883.pdf"
+    }
+   ]
+  },
+  {
+   "event": "905",
+   "date": "11/23/2014",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Mirrors and Kaleidoscopes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mirrors and kaleidoscopes",
+     "file": "Handout-803-905.pdf"
+    }
+   ]
+  },
+  {
+   "event": "887",
+   "date": "11/9/2014",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Egyptian Multiplication and Russian Peasant Multiplication",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "egyptian and russian peasant multiplication",
+     "file": "Handout-783-887.pdf"
+    }
+   ]
+  },
+  {
+   "event": "915",
+   "date": "12/7/2014",
+   "year": 2014,
+   "group": "Beginners",
+   "topic": "Symmetry, Mirrors & Miscellaneous Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "symmetry, mirrors &amp; fun",
+     "file": "Handout-817-915.pdf"
+    }
+   ]
+  },
+  {
+   "event": "729",
+   "date": "1/12/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "How to divide a segment into parts of equal length. Vectors. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-613-729.pdf"
+    }
+   ]
+  },
+  {
+   "event": "740",
+   "date": "1/19/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Vectors continued (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-625-740.pdf"
+    }
+   ]
+  },
+  {
+   "event": "743",
+   "date": "1/26/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Math Kangaroo preparation session + Fractions clinic (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-630-743.pdf"
+    }
+   ]
+  },
+  {
+   "event": "714",
+   "date": "11/10/2013",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Parallelograms (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-597-714.pdf"
+    }
+   ]
+  },
+  {
+   "event": "723",
+   "date": "11/24/2013",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Rhombuses, perpendiculars, and circles. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-605-723.pdf"
+    }
+   ]
+  },
+  {
+   "event": "727",
+   "date": "12/8/2013",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Math Wrangle",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-610-727.pdf"
+    }
+   ]
+  },
+  {
+   "event": "755",
+   "date": "2/2/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Vector algebra, Pythagoras theorem, rational and irrational numbers. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-639-755.pdf"
+    }
+   ]
+  },
+  {
+   "event": "773",
+   "date": "2/23/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Vectors and Newtonian Laws of Motion (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-660-773.pdf"
+    }
+   ]
+  },
+  {
+   "event": "759",
+   "date": "2/9/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Vectors continued. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-643-759.pdf"
+    }
+   ]
+  },
+  {
+   "event": "782",
+   "date": "3/2/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Newtonian laws of motion and vectors (continued). Oleg Gleizer",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-675-782.pdf"
+    }
+   ]
+  },
+  {
+   "event": "788",
+   "date": "3/9/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Review session. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-684-788.pdf"
+    }
+   ]
+  },
+  {
+   "event": "805",
+   "date": "4/13/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Permutations and the 15 puzzle continued. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-694-805.pdf"
+    }
+   ]
+  },
+  {
+   "event": "812",
+   "date": "4/20/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Problem solving session (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-699-812.pdf"
+    }
+   ]
+  },
+  {
+   "event": "831",
+   "date": "5/11/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Taxicab geometry and problem solving (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-715-831.pdf"
+    }
+   ]
+  },
+  {
+   "event": "837",
+   "date": "5/18/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Review session (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-727-837.pdf"
+    }
+   ]
+  },
+  {
+   "event": "825",
+   "date": "5/4/2014",
+   "year": 2013,
+   "group": "Beginners Circle",
+   "topic": "Physics experiments first, taxicab geometry later. (Vitaly Kresin and Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-712-825.pdf"
+    },
+    {
+     "label": "sol-s to the first part",
+     "file": "Handout-714-825.pdf"
+    }
+   ]
+  },
+  {
+   "event": "857",
+   "date": "6/11/2014",
+   "year": 2013,
+   "group": "Beginners",
+   "topic": "Permutations and the 15 puzzle (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-740-857.pdf"
+    }
+   ]
+  },
+  {
+   "event": "568",
+   "date": "1/13/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combo1",
+     "file": "Handout-460-568.pdf"
+    }
+   ]
+  },
+  {
+   "event": "570",
+   "date": "1/20/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Combinatorics 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combo2",
+     "file": "Handout-465-570.pdf"
+    }
+   ]
+  },
+  {
+   "event": "506",
+   "date": "10/14/2012",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Dividing Zero and the Sleepwalking Bishop",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "dividing zero and the sleepwalking bishop",
+     "file": "Handout-409-506.pdf"
+    }
+   ]
+  },
+  {
+   "event": "511",
+   "date": "10/21/2012",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Games!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "games",
+     "file": "Handout-493-511.pdf"
+    }
+   ]
+  },
+  {
+   "event": "524",
+   "date": "10/28/2012",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Opposite Day",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "negations",
+     "file": "Handout-432-524.pdf"
+    }
+   ]
+  },
+  {
+   "event": "497",
+   "date": "10/7/2012",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Circles and Tables and Sleeping",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "circles and tables and sleeping",
+     "file": "Handout-404-497.pdf"
+    }
+   ]
+  },
+  {
+   "event": "573",
+   "date": "11/11/2012",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Graph Theory 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph theory 2",
+     "file": "Handout-466-573.pdf"
+    }
+   ]
+  },
+  {
+   "event": "532",
+   "date": "11/4/2012",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Graph Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph theory 1",
+     "file": "Handout-433-532.pdf"
+    }
+   ]
+  },
+  {
+   "event": "549",
+   "date": "12/2/2012",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Games on Graphs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "games on graphs",
+     "file": "Handout-494-549.pdf"
+    }
+   ]
+  },
+  {
+   "event": "592",
+   "date": "2/10/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Differences",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "differences",
+     "file": "Handout-486-592.pdf"
+    }
+   ]
+  },
+  {
+   "event": "595",
+   "date": "2/24/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Pizzas and Induction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pizzas and induction",
+     "file": "Handout-490-595.pdf"
+    }
+   ]
+  },
+  {
+   "event": "600",
+   "date": "3/3/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Induction II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "induction ii",
+     "file": "Handout-496-600.pdf"
+    }
+   ]
+  },
+  {
+   "event": "625",
+   "date": "4/14/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Probability 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability 1",
+     "file": "Handout-513-625.pdf"
+    }
+   ]
+  },
+  {
+   "event": "626",
+   "date": "4/21/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Probability 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability 2",
+     "file": "Handout-522-626.pdf"
+    }
+   ]
+  },
+  {
+   "event": "637",
+   "date": "4/28/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Probability 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability 3",
+     "file": "Handout-521-637.pdf"
+    }
+   ]
+  },
+  {
+   "event": "642",
+   "date": "5/12/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Geometry of Solids",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometry 2",
+     "file": "Handout-531-642.pdf"
+    }
+   ]
+  },
+  {
+   "event": "646",
+   "date": "5/19/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Symmetries",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometry 3",
+     "file": "Handout-535-646.pdf"
+    }
+   ]
+  },
+  {
+   "event": "638",
+   "date": "5/5/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Geometry of paper",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometry 1",
+     "file": "Handout-526-638.pdf"
+    }
+   ]
+  },
+  {
+   "event": "657",
+   "date": "6/2/2013",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Pigeonhole Principle",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pigeonhole principle",
+     "file": "Handout-537-657.pdf"
+    }
+   ]
+  },
+  {
+   "event": "491",
+   "date": "9/30/2012",
+   "year": 2012,
+   "group": "Beginners Circle",
+   "topic": "Casting out Nines, and other types of Math Magic",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "casting out nines, and other types of math  magic",
+     "file": "Handout-408-491.pdf"
+    }
+   ]
+  }
+ ]
+}

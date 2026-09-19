@@ -1,0 +1,1442 @@
+{
+ "unit": "inter-2017",
+ "source": "ucla-lamc",
+ "title": "Intermediate (US grades 7-8), 2019-2019",
+ "id_block": [
+  "4201",
+  "4400"
+ ],
+ "status": "pending",
+ "sessions_total": 83,
+ "sessions_with_answers": 46,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "1875",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Succesive Differences",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-2030-1875.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2140-1875.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1874",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Succesive Differences",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-2029-1874.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2141-1874.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1860",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Graphs and Geometry",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2065-1860.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2066-1860.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2067-1860.pdf"
+    },
+    {
+     "label": "homework solutions",
+     "file": "Handout-2068-1860.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1861",
+   "date": "1/12/2020",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Graphs and Geometry",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2073-1861.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2074-1861.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1886",
+   "date": "1/19/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Knights and Knaves",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-2044-1886.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2139-1886.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1885",
+   "date": "1/19/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Knights and Knaves",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-2043-1885.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2138-1885.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1883",
+   "date": "1/19/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Graphs and Geometry (II)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2069-1883.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2070-1883.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1884",
+   "date": "1/19/2020",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Graphs and Geometry (II)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2075-1884.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2076-1884.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1894",
+   "date": "1/26/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Graphs and Geometry (III)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2071-1894.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2072-1894.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1895",
+   "date": "1/26/2020",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Graphs and Geometry (III)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2077-1895.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2078-1895.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1764",
+   "date": "10/20/2019",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "More Tilings and Some Algebra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1924-1764.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1925-1764.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1765",
+   "date": "10/20/2019",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "More Tilings and Some Algebra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1930-1765.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1931-1765.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1779",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Algebra and Remainders",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1928-1779.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1945-1779.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1780",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Algebra and Remainders",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1929-1780.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1944-1780.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1723",
+   "date": "10/6/2019",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Algebra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1920-1723.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1921-1723.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1724",
+   "date": "10/6/2019",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Algebra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1922-1724.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1923-1724.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1801",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Greatest Common Divisors",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1957-1801.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1958-1801.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1802",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Greatest Common Divisors",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1959-1802.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1960-1802.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1808",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "The Euclidean Algorithm",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1978-1808.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1979-1808.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1809",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "The Euclidean Algorithm",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1980-1809.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1981-1809.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1818",
+   "date": "11/24/2019",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Euclid's Lemma",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2017-1818.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2018-1818.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1819",
+   "date": "11/24/2019",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Euclid's Lemma",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2019-1819.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2020-1819.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1790",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Remainders",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-1962-1790.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-1942-1790.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1791",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Remainders",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-1961-1791.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-1943-1791.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1929",
+   "date": "2/16/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Some more graph theory",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "graph theory sheet",
+     "file": "Handout-2134-1929.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2135-1929.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1928",
+   "date": "2/16/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Some more graph theory.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "graph theory sheet",
+     "file": "Handout-2132-1928.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2133-1928.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1917",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Graphs and Geometry (IV)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2091-1917.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2092-1917.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2102-1917.pdf"
+    },
+    {
+     "label": "homework solutions",
+     "file": "Handout-2117-1917.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1918",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Graphs and Geometry (IV)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2093-1918.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2094-1918.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1935",
+   "date": "2/23/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Game Theory (I)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2173-1935.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2174-1935.pdf"
+    },
+    {
+     "label": "homework solutions",
+     "file": "Handout-2209-1935.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1925",
+   "date": "2/3/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Graph Theory",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "graph theory sheet",
+     "file": "Handout-2096-1925.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2136-1925.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1924",
+   "date": "2/9/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Graph Theory",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-2137-1924.pdf"
+    },
+    {
+     "label": "graph theory sheet",
+     "file": "Handout-2095-1924.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1926",
+   "date": "2/9/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Graphs and Geometry (V)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "homework",
+     "file": "Handout-2115-1926.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-2113-1926.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2114-1926.pdf"
+    },
+    {
+     "label": "homework solutions",
+     "file": "Handout-2208-1926.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1927",
+   "date": "2/9/2020",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Graphs and Geometry (V)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2118-1927.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2119-1927.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1945",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Game Theory (II)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2192-1945.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2193-1945.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2196-1945.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1946",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Game Theory (II)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2194-1946.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2195-1946.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1956",
+   "date": "3/8/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Game Theory (III)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2213-1956.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2214-1956.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1957",
+   "date": "3/8/2020",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Game Theory (III)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2215-1957.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2216-1957.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2023",
+   "date": "4/13/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Levers and Weights",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-2273-2023.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2274-2023.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2046",
+   "date": "4/19/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Induction (III)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2290-2046.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2291-2046.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2292-2046.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2054",
+   "date": "4/26/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Induction (IV)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2319-2054.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2320-2054.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2321-2054.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2020",
+   "date": "4/5/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Casting out 9's",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2265-2020.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2266-2020.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2019",
+   "date": "4/5/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Casting out 9's",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2263-2019.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2264-2019.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2076",
+   "date": "5/10/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Bipartite Graphs (II)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2347-2076.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2348-2076.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2349-2076.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2084",
+   "date": "5/17/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Inscribed Angle Theorem",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "homework",
+     "file": "Handout-2363-2084.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-2361-2084.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2362-2084.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2060",
+   "date": "5/3/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Bipartite Graphs and Geometry",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2338-2060.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2339-2060.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2340-2060.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2098",
+   "date": "5/31/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Recap",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2380-2098.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-2381-2098.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1736",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Egyptian fractions part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "egyptian fractions 2",
+     "file": "Handout-1858-1736.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1737",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Egyptian fractions part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "egyptian fractions 2",
+     "file": "Handout-1859-1737.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1732",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Tilings and Colorings",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1926-1732.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1733",
+   "date": "10/13/2019",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Tilings and Colorings",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1927-1733.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1760",
+   "date": "10/20/2019",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Modular Arithmetic I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "part 1",
+     "file": "Handout-1875-1760.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1761",
+   "date": "10/20/2019",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Modular arithmetic",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "part 1",
+     "file": "Handout-1876-1761.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1778",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Modular arithmetic part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "part ii",
+     "file": "Handout-1904-1778.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1777",
+   "date": "10/27/2019",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Modular arithmetic part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "part ii",
+     "file": "Handout-1903-1777.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1718",
+   "date": "10/6/2019",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Egyptian Fractions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "egyptian fractions 1",
+     "file": "Handout-1848-1718.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1717",
+   "date": "10/6/2019",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Egyptian Fractions 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "egyptian fractions 1",
+     "file": "Handout-1847-1717.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1805",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Induction (part 1)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "induction",
+     "file": "Handout-1951-1805.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1804",
+   "date": "11/10/2019",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Induction part 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "induction",
+     "file": "Handout-1950-1804.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1813",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Induction Part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "replacements for 3 and 5",
+     "file": "Handout-1972-1813.pdf"
+    },
+    {
+     "label": "main worksheet (ignore problems 3 and 5)",
+     "file": "Handout-1971-1813.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1812",
+   "date": "11/17/2019",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Induction Part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "replacements for 3 and 5",
+     "file": "Handout-1970-1812.pdf"
+    },
+    {
+     "label": "main hand out (ignore problem 3 and 5)",
+     "file": "Handout-1969-1812.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1822",
+   "date": "11/24/2019",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Area and Perimeter",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-2142-1822.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1825",
+   "date": "11/24/2019",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Perimeter fun",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "perimeter",
+     "file": "Handout-2021-1825.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1787",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Logical Negations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1936-1787.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1788",
+   "date": "11/3/2019",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Logical Negations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1937-1788.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1834",
+   "date": "12/8/2019",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Mathematical Dominoes (Game)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "how to play",
+     "file": "Handout-2028-1834.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1833",
+   "date": "12/8/2019",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Mathematical Dominoes (Game)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "how to play",
+     "file": "Handout-2027-1833.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1910",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Math Kangaroo Practice",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "test 2013",
+     "file": "Handout-2053-1910.pdf"
+    },
+    {
+     "label": "test 1998",
+     "file": "Handout-2054-1910.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1909",
+   "date": "2/2/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Math Kangaroo Practice",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "test 2013",
+     "file": "Handout-2051-1909.pdf"
+    },
+    {
+     "label": "test 1998",
+     "file": "Handout-2052-1909.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1936",
+   "date": "2/23/2020",
+   "year": 2019,
+   "group": "Intermediate 2B",
+   "topic": "Game Theory (I)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2175-1936.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1952",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Probabiliy",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability sheet",
+     "file": "Handout-2205-1952.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1951",
+   "date": "3/1/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Probabiliy",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability sheet",
+     "file": "Handout-2204-1951.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2047",
+   "date": "4/12/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Induction (II)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2295-2047.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2296-2047.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2035",
+   "date": "4/19/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Russian Olympiad",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2289-2035.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2056",
+   "date": "4/26/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Fractions and Decimals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2312-2056.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2053",
+   "date": "4/26/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Decimals and Fractions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2306-2053.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2048",
+   "date": "4/5/2020",
+   "year": 2019,
+   "group": "Intermediate 2A",
+   "topic": "Induction (I)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2293-2048.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-2294-2048.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2078",
+   "date": "5/10/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Fractions and Decimals III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2346-2078.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2075",
+   "date": "5/10/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Fractions and Decimals Part III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-2341-2075.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2086",
+   "date": "5/17/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Tricky Percents",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2354-2086.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2085",
+   "date": "5/17/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Tricky Percents",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2353-2085.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2072",
+   "date": "5/3/2020",
+   "year": 2019,
+   "group": "Intermediate 1A",
+   "topic": "Fractions and Decimals II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2335-2072.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2061",
+   "date": "5/3/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Fractions and Decimals Part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-2322-2061.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2099",
+   "date": "5/31/2020",
+   "year": 2019,
+   "group": "Intermediate 1B",
+   "topic": "Games and Strategy",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-2376-2099.pdf"
+    }
+   ]
+  }
+ ]
+}

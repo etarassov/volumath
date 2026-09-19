@@ -1,0 +1,2296 @@
+{
+ "unit": "hs-late",
+ "source": "ucla-lamc",
+ "title": "High School I and II, 2014-2018",
+ "id_block": [
+  "2801",
+  "3000"
+ ],
+ "status": "pending",
+ "sessions_total": 158,
+ "sessions_with_answers": 7,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "1509",
+   "date": "10/28/2018",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Circle Inversions",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1614-1509.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1621-1509.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1492",
+   "date": "10/7/2018",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Math on Chess Board (Avet Grigoryan)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "problems and select solutions",
+     "file": "Handout-1559-1492.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1529",
+   "date": "11/18/2018",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Hyperbolic Geometry III",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-1647-1529.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1510",
+   "date": "11/4/2018",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Hyperbolic Geometry I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-1620-1510.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-1622-1510.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1589",
+   "date": "2/24/2019",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "The Gini Index (Dan Hoff)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1714-1589.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1715-1589.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1639",
+   "date": "5/5/2019",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Wallpaper Patterns II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1783-1639.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1794-1639.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1322",
+   "date": "3/19/2017",
+   "year": 2016,
+   "group": "High School I",
+   "topic": "Relays",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-1301-1322.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1302-1322.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1549",
+   "date": "1/13/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Continued Fractions I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "continued fractions i",
+     "file": "Handout-1664-1549.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1550",
+   "date": "1/20/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Continued Fractions II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "continued fractions ii",
+     "file": "Handout-1675-1550.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1557",
+   "date": "1/20/2019",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Algorithms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1677-1557.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1561",
+   "date": "1/27/2019",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Algorithms II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "challenge problems",
+     "file": "Handout-1687-1561.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1484",
+   "date": "10/14/2018",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Gaussian Integers II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "gaussian integers ii",
+     "file": "Handout-1552-1484.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1501",
+   "date": "10/14/2018",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Symmetries and Groups (James Cameron)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems and multiplication tables",
+     "file": "Handout-1560-1501.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1485",
+   "date": "10/21/2018",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Gini Index",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "gini index",
+     "file": "Handout-1600-1485.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1508",
+   "date": "10/21/2018",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Symmetries and Groups II (James Cameron)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-1602-1508.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1486",
+   "date": "10/28/2018",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Quadratic Reciprocity I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "quadratic reciprocity i",
+     "file": "Handout-1626-1486.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1483",
+   "date": "10/7/2018",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Gaussian Integers I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "gaussian integers i",
+     "file": "Handout-1535-1483.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1488",
+   "date": "11/11/2018",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Tropical Geometry I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "tropical geometry i and ii",
+     "file": "Handout-1637-1488.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1528",
+   "date": "11/11/2018",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Hyperbolic Geometry II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "section 2",
+     "file": "Handout-1638-1528.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1489",
+   "date": "11/18/2018",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Tropical Geometry II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "tropical geometry i and ii",
+     "file": "Handout-1645-1489.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1487",
+   "date": "11/4/2018",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Quadratic Reciprocity II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "quadratic reciprocity ii",
+     "file": "Handout-1624-1487.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1490",
+   "date": "12/2/2018",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Golomb Ruler",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "golomb ruler",
+     "file": "Handout-1650-1490.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1539",
+   "date": "12/2/2018",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Electrical Circuits and Random Walks",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1649-1539.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1541",
+   "date": "12/9/2018",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Electric Circuits and Random Walks II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "challenge problems",
+     "file": "Handout-1661-1541.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1583",
+   "date": "2/10/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Sequences II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "limits of sequences ii",
+     "file": "Handout-1712-1583.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1581",
+   "date": "2/10/2019",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Cantor Set II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1703-1581.pdf"
+    },
+    {
+     "label": "bonus problems",
+     "file": "Handout-1704-1581.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1588",
+   "date": "2/24/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Integer-Valued Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "integer-valued polynomials",
+     "file": "Handout-1723-1588.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1574",
+   "date": "2/3/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Limits of Sequences",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "limits of sequences",
+     "file": "Handout-1698-1574.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1575",
+   "date": "2/3/2019",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Cantor Set",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1702-1575.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1601",
+   "date": "3/10/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Pi Day (almost)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pi day",
+     "file": "Handout-1741-1601.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1611",
+   "date": "3/17/2019",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "More Pi Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1749-1611.pdf"
+    },
+    {
+     "label": "quiz rubric",
+     "file": "Handout-1750-1611.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1596",
+   "date": "3/3/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Mass Point Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mass point geometry",
+     "file": "Handout-1735-1596.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1628",
+   "date": "4/14/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Introduction to Groups I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "introduction to groups i",
+     "file": "Handout-1761-1628.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1634",
+   "date": "4/21/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Introduction to Groups II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "introduction to groups ii",
+     "file": "Handout-1774-1634.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1630",
+   "date": "4/21/2019",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Expected number of hacky sacks and temper tantrums (Paul Zeitz)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1767-1630.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1637",
+   "date": "4/28/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Electrical Circuits and Random Walks",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "electrical circuits and random walks",
+     "file": "Handout-1779-1637.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1632",
+   "date": "4/28/2019",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Wallpaper Patterns",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1780-1632.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1614",
+   "date": "4/7/2019",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Continued Fractions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1752-1614.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1652",
+   "date": "5/12/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "The Cantor Set",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "the cantor set",
+     "file": "Handout-1799-1652.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1648",
+   "date": "5/12/2019",
+   "year": 2018,
+   "group": "High School II",
+   "topic": "Integer Valued Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1798-1648.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1653",
+   "date": "5/19/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Fractals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "fractals",
+     "file": "Handout-1807-1653.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1647",
+   "date": "5/5/2019",
+   "year": 2018,
+   "group": "High School I",
+   "topic": "Electrical Circuits and Random Walks II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "electrical circuits and random walks ii",
+     "file": "Handout-1796-1647.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1379",
+   "date": "1/14/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Cryptography, Introduction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1393-1379.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1383",
+   "date": "1/21/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Cryptography Part II, Diffie-Hellman",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1402-1383.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1408",
+   "date": "1/21/2018",
+   "year": 2017,
+   "group": "High School II",
+   "topic": "Finite Geometry, Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1433-1408.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1387",
+   "date": "1/28/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Cryptography Part III, RSA, Public Key Cryptography",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1464-1387.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1405",
+   "date": "1/28/2018",
+   "year": 2017,
+   "group": "High School II",
+   "topic": "Quandles and Knot Invariants",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week 3 handout",
+     "file": "Handout-1430-1405.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1335",
+   "date": "10/15/2017",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Voting systems Part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1312-1335.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1348",
+   "date": "10/22/2017",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Infinity Part 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1322-1348.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1352",
+   "date": "10/29/2017",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Infinity Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1335-1352.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1334",
+   "date": "10/8/2017",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "High School I Voting Systems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1306-1334.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1363",
+   "date": "11/12/2017",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Infinity Part 4",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1351-1363.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1357",
+   "date": "11/5/2017",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Infinity Part 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1341-1357.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1372",
+   "date": "12/3/2017",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Hanoi, Counting and Sierpinski's triangle",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1463-1372.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1398",
+   "date": "2/11/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Information Theory (Aaron Cohen)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1424-1398.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1407",
+   "date": "2/11/2018",
+   "year": 2017,
+   "group": "High School II",
+   "topic": "Number Theory, Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1432-1407.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1401",
+   "date": "2/25/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Information Theory II (Aaron Cohen)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "bonus handout",
+     "file": "Handout-1465-1401.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1409",
+   "date": "2/25/2018",
+   "year": 2017,
+   "group": "High School II",
+   "topic": "Number Theory, Part 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1434-1409.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1395",
+   "date": "2/4/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Probability and Bayes Rule",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1414-1395.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1406",
+   "date": "2/4/2018",
+   "year": 2017,
+   "group": "High School II",
+   "topic": "Number Theory, Week 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week 4 handout",
+     "file": "Handout-1431-1406.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1419",
+   "date": "3/11/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Algorithms II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1466-1419.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1404",
+   "date": "3/4/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Algorithms I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1451-1404.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1440",
+   "date": "4/15/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1482-1440.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1444",
+   "date": "4/22/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Game Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1490-1444.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1445",
+   "date": "4/29/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Combinatorics I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1500-1445.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1466",
+   "date": "5/20/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Algebraic Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1528-1466.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1452",
+   "date": "5/6/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Combinatorics II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1510-1452.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1474",
+   "date": "6/3/2018",
+   "year": 2017,
+   "group": "High School I",
+   "topic": "Transcendental Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1584-1474.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1261",
+   "date": "1/15/2017",
+   "year": 2016,
+   "group": "High School I",
+   "topic": "Finite State Machines (Michael Puthawala)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1249-1261.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1263",
+   "date": "1/15/2017",
+   "year": 2016,
+   "group": "High School II",
+   "topic": "Pair of Pants Decompositions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3484-1263.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1267",
+   "date": "1/22/2017",
+   "year": 2016,
+   "group": "High School I",
+   "topic": "Vectors (Michael Puthawala)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1591-1267.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1273",
+   "date": "1/29/2017",
+   "year": 2016,
+   "group": "High School I",
+   "topic": "Group Theory (Noah Olander)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1276-1273.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1216",
+   "date": "10/16/2016",
+   "year": 2016,
+   "group": "High School II",
+   "topic": "Sum and Product Puzzles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3467-1216.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1213",
+   "date": "10/2/2016",
+   "year": 2016,
+   "group": "High School I",
+   "topic": "Knights, Knaves and Knormals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1586-1213.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1207",
+   "date": "10/2/2016",
+   "year": 2016,
+   "group": "High School II",
+   "topic": "Symmetry and Wallpaper Patterns with Dr. Mike Hall",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week 1 and 2 handout",
+     "file": "Handout-3466-1207.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1226",
+   "date": "10/30/2016",
+   "year": 2016,
+   "group": "High School II",
+   "topic": "Golomb's Ruler",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3470-1226.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1241",
+   "date": "11/13/2016",
+   "year": 2016,
+   "group": "High School II",
+   "topic": "Origami Constructions, Part Two",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3472-1241.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1247",
+   "date": "11/20/2016",
+   "year": 2016,
+   "group": "High School II",
+   "topic": "Archimedean Solids",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3483-1247.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1234",
+   "date": "11/6/2016",
+   "year": 2016,
+   "group": "High School II",
+   "topic": "Origami Constructions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3471-1234.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1288",
+   "date": "2/12/2017",
+   "year": 2016,
+   "group": "High School I",
+   "topic": "Complex Numbers (Michael Puthawala)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1278-1288.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1289",
+   "date": "2/26/2017",
+   "year": 2016,
+   "group": "High School I",
+   "topic": "Complex Numbers, Day II (Michael Puthawala)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1594-1289.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1277",
+   "date": "2/5/2017",
+   "year": 2016,
+   "group": "High School I",
+   "topic": "Symmetry Groups (Noah Olander)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1277-1277.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1321",
+   "date": "4/9/2017",
+   "year": 2016,
+   "group": "High School I",
+   "topic": "Propositional Logic (Michael Puthawala)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1300-1321.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1085",
+   "date": "1/10/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Cryptography Part 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "cryptography",
+     "file": "Handout-1043-1085.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1086",
+   "date": "1/10/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Gini index",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1042-1086.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1092",
+   "date": "1/17/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Crytography 2: Public Key Encryption",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1057-1092.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1091",
+   "date": "1/17/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Circumcenter of mass (Emmanuel Tsukerman)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1052-1091.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1093",
+   "date": "1/24/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Quaternions: Algebraic Origins",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1071-1093.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1104",
+   "date": "1/24/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Special relativity, part 1 (Jared Claypoole, Julio Parra, and Andrew Yuan)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1077-1104.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1094",
+   "date": "1/31/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Quaternions: Geometric Applications",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3452-1094.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1103",
+   "date": "1/31/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Special relativity, part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1078-1103.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1031",
+   "date": "10/11/2015",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Voting Theory 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3446-1031.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1033",
+   "date": "10/11/2015",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Integer-Valued Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-972-1033.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1039",
+   "date": "10/18/2015",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "The Stable Marriage Problem, part 1 (Will Rosenbaum)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-994-1039.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1045",
+   "date": "10/25/2015",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Cardinality 2: Uncountability",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout for this week and last",
+     "file": "Handout-1009-1045.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1049",
+   "date": "10/25/2015",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "The Stable Marriage Problem, part 2 (Will Rosenbaum)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-995-1049.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1030",
+   "date": "10/4/2015",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Voting Theory 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week 1 handout",
+     "file": "Handout-971-1030.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1026",
+   "date": "10/4/2015",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Problems from Moscow Math Olympiads",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problem set",
+     "file": "Handout-967-1026.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1047",
+   "date": "11/1/2015",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Ordinal Infinities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout for this week",
+     "file": "Handout-1008-1047.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1056",
+   "date": "11/1/2015",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Queueing Theory, part 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1003-1056.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1069",
+   "date": "11/15/2015",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Combinatorial Game Theory 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3450-1069.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1065",
+   "date": "11/15/2015",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Nonclassical Constructions - Marked Ruler (Christopher Ohrt)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1020-1065.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1075",
+   "date": "11/22/2015",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Nonclassical Constructions - Poncelet Steiner (Christopher Ohrt)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1028-1075.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1061",
+   "date": "11/8/2015",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Combinatorial Game Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3449-1061.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1063",
+   "date": "11/8/2015",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Queueing Theory, part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1013-1063.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1123",
+   "date": "2/21/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Ramsey Theory 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3453-1123.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1116",
+   "date": "2/21/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Platonic Solids, part 2 (Christopher Ohrt)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "cube and tetrahedron model template",
+     "file": "Handout-1090-1116.pdf"
+    },
+    {
+     "label": "dodecahedron model template",
+     "file": "Handout-1091-1116.pdf"
+    },
+    {
+     "label": "icosahedron model template",
+     "file": "Handout-1092-1116.pdf"
+    },
+    {
+     "label": "octahedron model template",
+     "file": "Handout-1093-1116.pdf"
+    },
+    {
+     "label": "main handout",
+     "file": "Handout-1104-1116.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1131",
+   "date": "2/28/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Ramsey Theory 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3454-1131.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1126",
+   "date": "2/28/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Homotopy Theory (Sanath Devalapurkar)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1111-1126.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1105",
+   "date": "2/7/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "The Gini Index",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1089-1105.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1113",
+   "date": "2/7/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Platonic Solids, part 1 (Christopher Ohrt)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1087-1113.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1132",
+   "date": "3/6/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Infinite Ramsey Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3455-1132.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1134",
+   "date": "3/6/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Complex Numbers and Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1120-1134.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1159",
+   "date": "4/10/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Non-Euclidean Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3457-1159.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1149",
+   "date": "4/10/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Game Theory Part 2 (Brent Woodhouse)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1141-1149.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1160",
+   "date": "4/17/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Hyperbolic Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3458-1160.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1164",
+   "date": "4/17/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Finite Automata",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout (revised)",
+     "file": "Handout-1150-1164.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1170",
+   "date": "4/24/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Game Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3459-1170.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1166",
+   "date": "4/24/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Algorithms and Complexity (Iris Cong)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1156-1166.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1153",
+   "date": "4/3/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Bounded Sets",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3456-1153.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1148",
+   "date": "4/3/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Game Theory, part 1 (Brent Woodhouse)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1131-1148.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1171",
+   "date": "5/1/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Topological Surfaces",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3460-1171.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1179",
+   "date": "5/1/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Continued Fractions, part 1 (Christopher Ohrt)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1164-1179.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1183",
+   "date": "5/15/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Graph Algorithms 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3462-1183.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1190",
+   "date": "5/15/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Tropical Polynomials (Bryant Matthews)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1189-1190.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1184",
+   "date": "5/22/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Random Paths",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3463-1184.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1194",
+   "date": "5/22/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Tropical Orthogonal Representations (Bryant Matthews)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1188-1194.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1182",
+   "date": "5/8/2016",
+   "year": 2015,
+   "group": "High School I",
+   "topic": "Graph Algorithms 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3461-1182.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1180",
+   "date": "5/8/2016",
+   "year": 2015,
+   "group": "High School II",
+   "topic": "Continued Fractions, part 2 (Christopher Ohrt)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1171-1180.pdf"
+    }
+   ]
+  },
+  {
+   "event": "925",
+   "date": "1/11/2015",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Combinatorics of Words",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-840-925.pdf"
+    },
+    {
+     "label": "handout (with added graphs)",
+     "file": "Handout-841-925.pdf"
+    }
+   ]
+  },
+  {
+   "event": "926",
+   "date": "1/11/2015",
+   "year": 2014,
+   "group": "High School II",
+   "topic": "Problem Session",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handouts",
+     "file": "Handout-839-926.pdf"
+    }
+   ]
+  },
+  {
+   "event": "931",
+   "date": "1/18/2015",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Combinatorics on Words 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-846-931.pdf"
+    },
+    {
+     "label": "handout (with added graphs)",
+     "file": "Handout-847-931.pdf"
+    }
+   ]
+  },
+  {
+   "event": "930",
+   "date": "1/18/2015",
+   "year": 2014,
+   "group": "High School II",
+   "topic": "Geometry: Circle Inversion",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handouts",
+     "file": "Handout-855-930.pdf"
+    }
+   ]
+  },
+  {
+   "event": "935",
+   "date": "1/25/2015",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "AMC Practice/Catch Up",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "amc prep",
+     "file": "Handout-880-935.pdf"
+    }
+   ]
+  },
+  {
+   "event": "941",
+   "date": "1/25/2015",
+   "year": 2014,
+   "group": "High School II",
+   "topic": "Counting and probabilities.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handouts",
+     "file": "Handout-854-941.pdf"
+    }
+   ]
+  },
+  {
+   "event": "861",
+   "date": "10/12/2014",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Introduction to Proofs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 1",
+     "file": "Handout-746-861.pdf"
+    }
+   ]
+  },
+  {
+   "event": "864",
+   "date": "10/12/2014",
+   "year": 2014,
+   "group": "High School II",
+   "topic": "Introduction to proofs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handouts",
+     "file": "Handout-748-864.pdf"
+    }
+   ]
+  },
+  {
+   "event": "868",
+   "date": "10/19/2014",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Proofs 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 2",
+     "file": "Handout-749-868.pdf"
+    }
+   ]
+  },
+  {
+   "event": "869",
+   "date": "10/19/2014",
+   "year": 2014,
+   "group": "High School II",
+   "topic": "How To Park Your Car: An Adventure In Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handouts",
+     "file": "Handout-750-869.pdf"
+    }
+   ]
+  },
+  {
+   "event": "875",
+   "date": "10/26/2014",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Proofs using Induction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "proofs by induction",
+     "file": "Handout-772-875.pdf"
+    }
+   ]
+  },
+  {
+   "event": "878",
+   "date": "10/26/2014",
+   "year": 2014,
+   "group": "High School II",
+   "topic": "Geometry lesson",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handouts",
+     "file": "Handout-769-878.pdf"
+    }
+   ]
+  },
+  {
+   "event": "898",
+   "date": "11/16/2014",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "The Infinite",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "bijections 2",
+     "file": "Handout-826-898.pdf"
+    }
+   ]
+  },
+  {
+   "event": "899",
+   "date": "11/16/2014",
+   "year": 2014,
+   "group": "High School II",
+   "topic": "The normal distribution",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "quiz 1",
+     "file": "Handout-796-899.pdf"
+    },
+    {
+     "label": "quiz 2",
+     "file": "Handout-797-899.pdf"
+    }
+   ]
+  },
+  {
+   "event": "880",
+   "date": "11/2/2014",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Proofs by Induction 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "proofs by induction 2",
+     "file": "Handout-824-880.pdf"
+    }
+   ]
+  },
+  {
+   "event": "884",
+   "date": "11/2/2014",
+   "year": 2014,
+   "group": "High School II",
+   "topic": "Algebra and combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handouts",
+     "file": "Handout-782-884.pdf"
+    }
+   ]
+  },
+  {
+   "event": "903",
+   "date": "11/23/2014",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Graph Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ramsey theory",
+     "file": "Handout-827-903.pdf"
+    }
+   ]
+  },
+  {
+   "event": "904",
+   "date": "11/23/2014",
+   "year": 2014,
+   "group": "High School II",
+   "topic": "Guest speaker: Alejandro Morales",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handouts 1",
+     "file": "Handout-806-904.pdf"
+    },
+    {
+     "label": "handouts 2",
+     "file": "Handout-807-904.pdf"
+    }
+   ]
+  },
+  {
+   "event": "893",
+   "date": "11/9/2014",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Counting without Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "bijections",
+     "file": "Handout-825-893.pdf"
+    }
+   ]
+  },
+  {
+   "event": "909",
+   "date": "12/7/2014",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Graph Theory 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ramsey theory 2",
+     "file": "Handout-828-909.pdf"
+    }
+   ]
+  },
+  {
+   "event": "914",
+   "date": "12/7/2014",
+   "year": 2014,
+   "group": "High School II",
+   "topic": "AMC Problem Session",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handouts",
+     "file": "Handout-818-914.pdf"
+    },
+    {
+     "label": "handouts",
+     "file": "Handout-819-914.pdf"
+    }
+   ]
+  },
+  {
+   "event": "948",
+   "date": "2/1/2015",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Eulerian Paths",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "eulerian paths",
+     "file": "Handout-881-948.pdf"
+    }
+   ]
+  },
+  {
+   "event": "967",
+   "date": "2/22/2015",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Algorithms 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "algorithms 2",
+     "file": "Handout-878-967.pdf"
+    }
+   ]
+  },
+  {
+   "event": "964",
+   "date": "2/22/2015",
+   "year": 2014,
+   "group": "High School II",
+   "topic": "Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-874-964.pdf"
+    }
+   ]
+  },
+  {
+   "event": "966",
+   "date": "2/8/2015",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Algorithms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "algorithms 1",
+     "file": "Handout-877-966.pdf"
+    }
+   ]
+  },
+  {
+   "event": "968",
+   "date": "3/1/2015",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Problem Solving Strategies",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problem solving 1",
+     "file": "Handout-879-968.pdf"
+    }
+   ]
+  },
+  {
+   "event": "980",
+   "date": "4/12/2015",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Geometry: Circumscribing Polygons",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-909-980.pdf"
+    }
+   ]
+  },
+  {
+   "event": "981",
+   "date": "4/19/2015",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Geometry: Point Masses",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-917-981.pdf"
+    }
+   ]
+  },
+  {
+   "event": "990",
+   "date": "4/26/2015",
+   "year": 2014,
+   "group": "High School I",
+   "topic": "Cryptography",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-923-990.pdf"
+    }
+   ]
+  }
+ ]
+}

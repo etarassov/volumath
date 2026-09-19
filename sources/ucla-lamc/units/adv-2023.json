@@ -1,0 +1,3660 @@
+{
+ "unit": "adv-2023",
+ "source": "ucla-lamc",
+ "title": "Advanced (US grades 9-12), 2023-2024",
+ "id_block": [
+  "1201",
+  "1400"
+ ],
+ "status": "pending",
+ "sessions_total": 228,
+ "sessions_with_answers": 67,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "4476",
+   "date": "10/13/2024",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Geometry of Masses I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4527-4476.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4528-4476.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4475",
+   "date": "10/13/2024",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Geometry of Masses I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4525-4475.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4526-4475.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4496",
+   "date": "10/20/2024",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Intro to Cryptography.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4533-4496.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4534-4496.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4497",
+   "date": "10/20/2024",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Intro to Cryptography.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4535-4497.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4536-4497.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4513",
+   "date": "10/27/2024",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Random walks.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4548-4513.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4549-4513.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4514",
+   "date": "10/27/2024",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Random walks.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4550-4514.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4551-4514.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4459",
+   "date": "10/6/2024",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Pigeonhole principle",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4515-4459.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4516-4459.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4460",
+   "date": "10/6/2024",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Pigeonhole principle",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4517-4460.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4518-4460.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4549",
+   "date": "11/17/2024",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Linguistics problems II.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-4568-4549.pdf"
+    },
+    {
+     "label": "latex source",
+     "file": "Handout-4611-4549.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4567-4549.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4550",
+   "date": "11/17/2024",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Linguistics problems II.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-4570-4550.pdf"
+    },
+    {
+     "label": "latex source",
+     "file": "Handout-4610-4550.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4569-4550.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4572",
+   "date": "11/24/2024",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Complexity theory.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4583-4572.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4584-4572.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4573",
+   "date": "11/24/2024",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Complexity theory.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4585-4573.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4586-4573.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4528",
+   "date": "11/3/2024",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Geometric optimization.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4559-4528.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4560-4528.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4529",
+   "date": "11/3/2024",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Geometric optimization.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4561-4529.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4562-4529.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4742",
+   "date": "3/2/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Error-correcting codes",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "gods, demons, and mortals",
+     "file": "Handout-4684-4742.pdf"
+    },
+    {
+     "label": "error-correcting codes",
+     "file": "Handout-4685-4742.pdf"
+    },
+    {
+     "label": "gods, demons, and mortals solution",
+     "file": "Handout-4686-4742.pdf"
+    },
+    {
+     "label": "error-correcting codes solution",
+     "file": "Handout-4687-4742.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4747",
+   "date": "3/2/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Error-correcting codes",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "gods, demons, and mortals",
+     "file": "Handout-4670-4747.pdf"
+    },
+    {
+     "label": "error-correcting codes",
+     "file": "Handout-4671-4747.pdf"
+    },
+    {
+     "label": "gods, demons, and mortals solution",
+     "file": "Handout-4672-4747.pdf"
+    },
+    {
+     "label": "error-correcting codes solution",
+     "file": "Handout-4673-4747.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4748",
+   "date": "3/2/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Error-correcting codes",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "error correcting codes handout",
+     "file": "Handout-4680-4748.pdf"
+    },
+    {
+     "label": "error correcting codes solutions",
+     "file": "Handout-4681-4748.pdf"
+    },
+    {
+     "label": "logic puzzles handout",
+     "file": "Handout-4682-4748.pdf"
+    },
+    {
+     "label": "logic puzzles solutions",
+     "file": "Handout-4683-4748.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4749",
+   "date": "3/2/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Error-correcting codes",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "error correcting codes handout",
+     "file": "Handout-4674-4749.pdf"
+    },
+    {
+     "label": "error correcting codes solutions",
+     "file": "Handout-4675-4749.pdf"
+    },
+    {
+     "label": "logic puzzles handout",
+     "file": "Handout-4678-4749.pdf"
+    },
+    {
+     "label": "logic puzzles solutions",
+     "file": "Handout-4679-4749.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4750",
+   "date": "3/2/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Error-correcting codes",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "error-correcting codes",
+     "file": "Handout-4688-4750.pdf"
+    },
+    {
+     "label": "error-correcting codes, sols",
+     "file": "Handout-4689-4750.pdf"
+    },
+    {
+     "label": "logic puzzles",
+     "file": "Handout-4690-4750.pdf"
+    },
+    {
+     "label": "logic puzzles, sols",
+     "file": "Handout-4691-4750.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4807",
+   "date": "4/13/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Linguistics, set III.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4710-4807.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4711-4807.pdf"
+    },
+    {
+     "label": "latex source",
+     "file": "Handout-4712-4807.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4808",
+   "date": "4/13/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Linguistics, set III.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4713-4808.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4714-4808.pdf"
+    },
+    {
+     "label": "latex source",
+     "file": "Handout-4715-4808.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4796",
+   "date": "4/6/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Lattices",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4701-4796.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4702-4796.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4797",
+   "date": "4/6/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Lattices",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4703-4797.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4704-4797.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4893",
+   "date": "5/11/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Boolean algebra, part 1.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4760-4893.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-4761-4893.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4894",
+   "date": "5/11/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Boolean algebra, part 1.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "boolean algebra, part 1",
+     "file": "Handout-4757-4894.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-4762-4894.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4905",
+   "date": "5/18/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Multi-Party Computations (MPC) and Secret Sharing.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4770-4905.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-4771-4905.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4906",
+   "date": "5/18/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Multi-Party Computations (MPC) and Secret Sharing.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4772-4906.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-4773-4906.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4862",
+   "date": "5/4/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Options in finance.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4753-4862.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4754-4862.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4442",
+   "date": "9/29/2024",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Stopping problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4500-4442.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4501-4442.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4441",
+   "date": "9/29/2024",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Stopping problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4498-4441.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4499-4441.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4047",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Deterministic Finite Automata",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "warmup problems",
+     "file": "Handout-4259-4047.pdf"
+    },
+    {
+     "label": "worksheet",
+     "file": "Handout-4260-4047.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4261-4047.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4046",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Deterministic Finite Automata",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-4263-4046.pdf"
+    },
+    {
+     "label": "warmup",
+     "file": "Handout-4264-4046.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4262-4046.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4069",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Regular Languages",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-4276-4069.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4277-4069.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4068",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Regular Languages",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-4275-4068.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4274-4068.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3837",
+   "date": "10/1/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Probability Part I - Experiments with Random Variables",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4093-3837.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4114-3837.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3839",
+   "date": "10/1/2023",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Random Experiments",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4092-3839.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4124-3839.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3831",
+   "date": "10/1/2023",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Nim",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout.",
+     "file": "Handout-4094-3831.pdf"
+    },
+    {
+     "label": "solution key.",
+     "file": "Handout-4095-3831.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3877",
+   "date": "10/15/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Metrics and Distance",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4130-3877.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4131-3877.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3869",
+   "date": "10/15/2023",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Metrics and Distances",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4127-3869.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4385-3869.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3894",
+   "date": "10/22/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Graphs Theory and Combinatorial Optimization",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-4153-3894.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4152-3894.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3893",
+   "date": "10/22/2023",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Graph Theory and Combinatorial Optimization",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-4151-3893.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4150-3893.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3917",
+   "date": "10/29/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Perimeter, Area, and the Isoperimetric Inequality",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4163-3917.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4164-3917.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3916",
+   "date": "10/29/2023",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Perimeter, Area, and the Isoperimetric Inequality",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4169-3916.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4170-3916.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3845",
+   "date": "10/8/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Probability (Random Variables) Part II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4112-3845.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4113-3845.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3854",
+   "date": "10/8/2023",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Repeated Independent Trials",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-4123-3854.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4107-3854.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3928",
+   "date": "11/5/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Isoperimetric Inequality Part II with Random Chords",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4177-3928.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4178-3928.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3930",
+   "date": "11/5/2023",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Isoperimetric Inequality and Random Chords",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4184-3930.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4185-3930.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3990",
+   "date": "12/10/2023",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Competition",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4216-3990.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4217-3990.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3975",
+   "date": "12/3/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Information Theory",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4200-3975.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4201-3975.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3974",
+   "date": "12/3/2023",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Information Theory",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4203-3974.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4204-3974.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4106",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Permutations Part I: Graphing",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4304-4106.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4318-4106.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4133",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Permutations Part II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4319-4133.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4320-4133.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4130",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Permutations Part II: Partial Orderings",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4322-4130.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4323-4130.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4150",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Cartography and Navigation",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4350-4150.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4351-4150.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4151",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Exploration Circle: Astronomy, Cartography, and Navigation",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4335-4151.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4336-4151.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4190",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Estimating (Irrational) Numbers with Continued Fractions",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4367-4190.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4368-4190.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4192",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Estimating (Irrational) Numbers",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4372-4192.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4373-4192.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4222",
+   "date": "4/14/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Algorithms on Graphs: Flow",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4405-4222.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4406-4222.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4221",
+   "date": "4/14/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Algorithms on Graphs: Flow",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4403-4221.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4404-4221.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4240",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "The number e",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4425-4240.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4426-4240.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4239",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "The number e",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4418-4239.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4419-4239.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4208",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "The Math Behind Bookmaking",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-4392-4208.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4393-4208.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4301",
+   "date": "5/12/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Linguistics",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4454-4301.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4455-4301.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4300",
+   "date": "5/12/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Linguistics",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4452-4300.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4453-4300.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4318",
+   "date": "5/19/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Competition",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4466-4318.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4467-4318.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4317",
+   "date": "5/19/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Competition",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4464-4317.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4465-4317.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3797",
+   "date": "8/13/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Deterministic Finite Automata",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4087-3797.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4088-3797.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4607",
+   "date": "1/12/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Number Theory and Primality Tests",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4597-4607.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4608",
+   "date": "1/12/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Number Theory and Primality Tests",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "student&#039;s packet",
+     "file": "Handout-4596-4608.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4615",
+   "date": "1/12/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Generating functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4602-4615.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4616",
+   "date": "1/12/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Generating functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "generating functions handout",
+     "file": "Handout-4601-4616.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4614",
+   "date": "1/12/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Symbolic dynamics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4598-4614.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4633",
+   "date": "1/19/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "More Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4606-4633.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4639",
+   "date": "1/19/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "More number theory.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4604-4639.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4631",
+   "date": "1/19/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Esoteric programming languages",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4608-4631.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4632",
+   "date": "1/19/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Esoteric Programming Languages",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4609-4632.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4630",
+   "date": "1/19/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Symbolic dynamics II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4605-4630.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4655",
+   "date": "1/26/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Linguistics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4616-4655.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4656",
+   "date": "1/26/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Linguistics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4615-4656.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4658",
+   "date": "1/26/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Tropical polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4620-4658.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4659",
+   "date": "1/26/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Tropical polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4618-4659.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4657",
+   "date": "1/26/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Permutations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4612-4657.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4479",
+   "date": "10/13/2024",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "The game of Dobble.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4529-4479.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4480",
+   "date": "10/13/2024",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "The game of Dobble.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4530-4480.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4473",
+   "date": "10/13/2024",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Polynomials II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4524-4473.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4494",
+   "date": "10/20/2024",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Euler's number.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4538-4494.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4495",
+   "date": "10/20/2024",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Euler's number.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4539-4495.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4490",
+   "date": "10/20/2024",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Irrational numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4537-4490.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4517",
+   "date": "10/27/2024",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Lambda calculus.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4553-4517.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4518",
+   "date": "10/27/2024",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Lambda calculus.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4545-4518.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4511",
+   "date": "10/27/2024",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Goodstein Sequences and Ordinals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4554-4511.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4458",
+   "date": "10/6/2024",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Graph Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4514-4458.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4461",
+   "date": "10/6/2024",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Graph theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4508-4461.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4450",
+   "date": "10/6/2024",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Fractional linear transforms 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4509-4450.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4546",
+   "date": "11/17/2024",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Group theory.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4578-4546.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4547",
+   "date": "11/17/2024",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Group theory.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4577-4547.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4548",
+   "date": "11/17/2024",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Density and dynamics.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4565-4548.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4574",
+   "date": "11/24/2024",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Group theory, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4582-4574.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4575",
+   "date": "11/24/2024",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Group theory, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4587-4575.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4568",
+   "date": "11/24/2024",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Dynamics in dimension 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4581-4568.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4525",
+   "date": "11/3/2024",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "p-adic Numbers.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4558-4525.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4530",
+   "date": "11/3/2024",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "p-adic Numbers.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4556-4530.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4539",
+   "date": "11/3/2024",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Fractional linear transforms 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4555-4539.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4710",
+   "date": "2/16/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Lines and planes in Euclidean 3D",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4658-4710.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4711",
+   "date": "2/16/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Lines and planes in Euclidean 3D",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lines and planes in 3d",
+     "file": "Handout-4652-4711.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4718",
+   "date": "2/16/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Fast Inverse Root",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "slide rules",
+     "file": "Handout-4656-4718.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4657-4718.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4719",
+   "date": "2/16/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Fast Inverse Root",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4654-4719.pdf"
+    },
+    {
+     "label": "slide rules",
+     "file": "Handout-4655-4719.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4709",
+   "date": "2/16/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Galois theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4659-4709.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4680",
+   "date": "2/2/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Probability, part 1. Experiments with random variables.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4632-4680.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4681",
+   "date": "2/2/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Probability, part 1. Experiments with random variables.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability part 1",
+     "file": "Handout-4631-4681.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4675",
+   "date": "2/2/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Special relativity",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "instructor copy",
+     "file": "Handout-4623-4675.pdf"
+    },
+    {
+     "label": "student copy",
+     "file": "Handout-4624-4675.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4676",
+   "date": "2/2/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Special relativity",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "instructor copy",
+     "file": "Handout-4626-4676.pdf"
+    },
+    {
+     "label": "student copy",
+     "file": "Handout-4627-4676.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4665",
+   "date": "2/2/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Permutations and polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4635-4665.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4731",
+   "date": "2/23/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Lines and planes in Euclidean 3D, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4665-4731.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4732",
+   "date": "2/23/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Lines and planes in Euclidean 3D, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lines and planes in euclidean 3d, continued",
+     "file": "Handout-4664-4732.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4739",
+   "date": "2/23/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Areas of integer polygons",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4666-4739.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4740",
+   "date": "2/23/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Areas of integer polygons",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4667-4740.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4736",
+   "date": "2/23/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Symmetric functions I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4661-4736.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4697",
+   "date": "2/9/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Probability, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "random walks",
+     "file": "Handout-4644-4697.pdf"
+    },
+    {
+     "label": "probability, part 2",
+     "file": "Handout-4646-4697.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4698",
+   "date": "2/9/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Probability, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability, part 2",
+     "file": "Handout-4640-4698.pdf"
+    },
+    {
+     "label": "random walks",
+     "file": "Handout-4641-4698.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4691",
+   "date": "2/9/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Gaussian integers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "student",
+     "file": "Handout-4648-4691.pdf"
+    },
+    {
+     "label": "instructor",
+     "file": "Handout-4649-4691.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4692",
+   "date": "2/9/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Gaussian integers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "student",
+     "file": "Handout-4650-4692.pdf"
+    },
+    {
+     "label": "instructor",
+     "file": "Handout-4651-4692.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4693",
+   "date": "2/9/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Permutations II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4645-4693.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4803",
+   "date": "4/13/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Introduction to inequalities.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4716-4803.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4804",
+   "date": "4/13/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Introduction to inequalities.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "introduction to inequalities",
+     "file": "Handout-4708-4804.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4806",
+   "date": "4/13/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Nimbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4717-4806.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4821",
+   "date": "4/20/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Moving Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "student packet",
+     "file": "Handout-4723-4821.pdf"
+    },
+    {
+     "label": "instructor packet",
+     "file": "Handout-4724-4821.pdf"
+    },
+    {
+     "label": "student warm-up",
+     "file": "Handout-4725-4821.pdf"
+    },
+    {
+     "label": "instructor warm-up",
+     "file": "Handout-4726-4821.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4820",
+   "date": "4/20/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Moving Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "student packet",
+     "file": "Handout-4729-4820.pdf"
+    },
+    {
+     "label": "instructor packet",
+     "file": "Handout-4730-4820.pdf"
+    },
+    {
+     "label": "student warm-up",
+     "file": "Handout-4731-4820.pdf"
+    },
+    {
+     "label": "instructor warm-up",
+     "file": "Handout-4732-4820.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4831",
+   "date": "4/20/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Nimbers 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4734-4831.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4839",
+   "date": "4/27/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Sample standard deviation.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4737-4839.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4840",
+   "date": "4/27/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Sample standard deviation.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ssd handout",
+     "file": "Handout-4738-4840.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4847",
+   "date": "4/27/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Dissecting Shapes.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4740-4847.pdf"
+    },
+    {
+     "label": "notes",
+     "file": "Handout-4741-4847.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4848",
+   "date": "4/27/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Dissecting Shapes.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4742-4848.pdf"
+    },
+    {
+     "label": "notes",
+     "file": "Handout-4743-4848.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4846",
+   "date": "4/27/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Symmetric functions, II.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4746-4846.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4783",
+   "date": "4/6/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Rep-Tiles and Other Tiling Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4700-4783.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4784",
+   "date": "4/6/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Rep-Tiles and Other Tiling Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4696-4784.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4792",
+   "date": "4/6/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Number fields and their extensions.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4705-4792.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4886",
+   "date": "5/11/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Wallpaper symmetries.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4763-4886.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4887",
+   "date": "5/11/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Wallpaper symmetries.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4764-4887.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4888",
+   "date": "5/11/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Chicken McNugget Theorem and beyond.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4759-4888.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4900",
+   "date": "5/18/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Boolean algebra, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4769-4900.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4901",
+   "date": "5/18/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Boolean algebra, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "boolean algebra, part 2 packet",
+     "file": "Handout-4768-4901.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4907",
+   "date": "5/18/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Primes and Quadratic Forms.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4774-4907.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4863",
+   "date": "5/4/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Options in finance.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "options in finance - packet",
+     "file": "Handout-4749-4863.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4868",
+   "date": "5/4/2025",
+   "year": 2024,
+   "group": "Advanced 2A",
+   "topic": "Rep-Tiles and Other Tiling Problems.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4755-4868.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4869",
+   "date": "5/4/2025",
+   "year": 2024,
+   "group": "Advanced 2B",
+   "topic": "Rep-Tiles and Other Tiling Problems.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4756-4869.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4870",
+   "date": "5/4/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Symmetric functions, III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4752-4870.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4923",
+   "date": "6/1/2025",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Boolean Algebra, Part 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4778-4923.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4924",
+   "date": "6/1/2025",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Boolean Algebra, Part 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4779-4924.pdf"
+    },
+    {
+     "label": "prob. 4 sol.",
+     "file": "Handout-4782-4924.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4927",
+   "date": "6/1/2025",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Primes and Quadratic Forms II.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4780-4927.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4353",
+   "date": "6/30/2024",
+   "year": 2024,
+   "group": "Advanced",
+   "topic": "Intro to spherical geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lecture notes (part 1)",
+     "file": "Handout-4475-4353.pdf"
+    },
+    {
+     "label": "problem set 1",
+     "file": "Handout-4487-4353.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4368",
+   "date": "7/14/2024",
+   "year": 2024,
+   "group": "Advanced",
+   "topic": "Basic theorems of spherical geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problem set 2",
+     "file": "Handout-4483-4368.pdf"
+    },
+    {
+     "label": "lecture notes (spherical geometry)",
+     "file": "Handout-4486-4368.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4377",
+   "date": "7/21/2024",
+   "year": 2024,
+   "group": "Advanced",
+   "topic": "Basic inequalities.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lecture notes (spherical geometry)",
+     "file": "Handout-4484-4377.pdf"
+    },
+    {
+     "label": "problem set 2",
+     "file": "Handout-4485-4377.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4355",
+   "date": "7/7/2024",
+   "year": 2024,
+   "group": "Advanced",
+   "topic": "Spherical geometry 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problem set 1",
+     "file": "Handout-4478-4355.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4417",
+   "date": "8/25/2024",
+   "year": 2024,
+   "group": "Advanced",
+   "topic": "Hyperbolic geometry in cosmology, poetry, music, and games.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lecture notes and problems.",
+     "file": "Handout-4492-4417.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4436",
+   "date": "9/29/2024",
+   "year": 2024,
+   "group": "Advanced 1A",
+   "topic": "Geometry of projections.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4502-4436.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4437",
+   "date": "9/29/2024",
+   "year": 2024,
+   "group": "Advanced 1B",
+   "topic": "Geometry of projections.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4503-4437.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4439",
+   "date": "9/29/2024",
+   "year": 2024,
+   "group": "Advanced 3",
+   "topic": "Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4504-4439.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4027",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Geometry and Group Theory Pt. 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4246-4027.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4031",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Geometry and Group Theory Pt. 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4248-4031.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4040",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Proofs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4254-4040.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4024",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Projective Space",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4251-4024.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4057",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Determinants",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4268-4057.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4041",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Subspaces of projective space",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4269-4041.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4063",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Arithmetic Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4284-4063.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4065",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Combinatorics of the projective planes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4282-4065.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4016",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Geometry and Group Theory Pt. 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4239-4016.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4013",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Group Theory and Geometry Pt. 1: Symmetries",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4229-4013.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4005",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Symmetric Groups",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4226-4005.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4012",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "The Projective plane",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4232-4012.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3823",
+   "date": "10/1/2023",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Modular Arithmetic",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-4103-3823.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3864",
+   "date": "10/15/2023",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Group Theory via Symmetries",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4141-3864.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4142-3864.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3886",
+   "date": "10/15/2023",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Introduction to polynomials over finite fields",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet 3",
+     "file": "Handout-4143-3886.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3888",
+   "date": "10/22/2023",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Lambda Calculus",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4148-3888.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4149-3888.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3887",
+   "date": "10/22/2023",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Polynomials over finite fields",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4158-3887.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3918",
+   "date": "10/29/2023",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Continued Fractions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4168-3918.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3910",
+   "date": "10/29/2023",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Rings I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "rings 1",
+     "file": "Handout-4174-3910.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3849",
+   "date": "10/8/2023",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Random Walks",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4119-3849.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3846",
+   "date": "10/8/2023",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Finite fields",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4111-3846.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3923",
+   "date": "11/5/2023",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Quadratic Reciprocity",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4190-3923.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3941",
+   "date": "11/5/2023",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Rings II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4176-3941.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3991",
+   "date": "12/10/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-4213-3991.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3988",
+   "date": "12/10/2023",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Zero sets of polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4221-3988.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3972",
+   "date": "12/3/2023",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Hackenbush",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4199-3972.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3978",
+   "date": "12/3/2023",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Contest/Exam",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4208-3978.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4209-3978.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4109",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Permutations Part I: Graphing",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4310-4109.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4110",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Quantum Computing I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4307-4110.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4107",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Field extensions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4313-4107.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4126",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Quantum Computing II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4332-4126.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4123",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "vector spaces over finite fields",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4327-4123.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4090",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Fun and Games",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4297-4090.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4089",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Fun and Games",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4292-4089.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4096",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Nonstandard Analysis",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4299-4096.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4081",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Affine Space",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4290-4081.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4176",
+   "date": "3/10/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Winter Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4349-4176.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4185",
+   "date": "3/10/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Winter Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4365-4185.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4160",
+   "date": "3/10/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Game",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4363-4160.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4362-4160.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4159",
+   "date": "3/10/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Ring homomorphisms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4364-4159.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4142",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Financial Math",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4361-4142.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4141",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Winter Contest",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "winter final exam i",
+     "file": "Handout-4342-4141.pdf"
+    },
+    {
+     "label": "winter final exam ii",
+     "file": "Handout-4343-4141.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4181",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Error-Correcting Codes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4369-4181.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4182",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Quadratic residues",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4380-4182.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4214",
+   "date": "4/14/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Partial Derivatives",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4409-4214.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4217",
+   "date": "4/14/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Cryptography II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4410-4217.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4235",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Tropical Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4416-4235.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4241",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "elliptic curves",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4422-4241.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4261",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Some Asymptotic Estimates",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4434-4261.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4260",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "Advanced 1B",
+   "topic": "Asymptotic Estimates",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4441-4260.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4257",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Compression",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4435-4257.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4436-4257.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4255",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Abelian Groups",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4432-4255.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4211",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Mathematics of bookmaking",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4387-4211.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4199",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "De Bruijn Sequences",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4390-4199.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4200",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Cryptography",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4396-4200.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4298",
+   "date": "5/12/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Surfaces",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4459-4298.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4293",
+   "date": "5/12/2024",
+   "year": 2023,
+   "group": "Advanced 3",
+   "topic": "Topics on elliptic curves",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4450-4293.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4311",
+   "date": "5/19/2024",
+   "year": 2023,
+   "group": "Advanced 2",
+   "topic": "Fundamental Groups",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4463-4311.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3732",
+   "date": "6/25/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Error-Correcting Codes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4050-3732.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3739",
+   "date": "6/25/2023",
+   "year": 2023,
+   "group": "Advanced 2A",
+   "topic": "Real Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 1",
+     "file": "Handout-4044-3739.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3754",
+   "date": "7/16/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Network Flow",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4063-3754.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3768",
+   "date": "7/23/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "The Size of Sets",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4065-3768.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3767",
+   "date": "7/23/2023",
+   "year": 2023,
+   "group": "Advanced 2A",
+   "topic": "Transfer Principle",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4064-3767.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3778",
+   "date": "7/30/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Intro to Logic: Definable Sets",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4075-3778.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3781",
+   "date": "7/30/2023",
+   "year": 2023,
+   "group": "Advanced 2A",
+   "topic": "Transfer Principle, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "additional handout",
+     "file": "Handout-4076-3781.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3742",
+   "date": "7/9/2023",
+   "year": 2023,
+   "group": "Advanced 1A",
+   "topic": "Combinatorics & Graph Theory intro",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4057-3742.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4058-3742.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3751",
+   "date": "7/9/2023",
+   "year": 2023,
+   "group": "Advanced 2A",
+   "topic": "Dual numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "old handout, continued",
+     "file": "Handout-4051-3751.pdf"
+    },
+    {
+     "label": "new handout",
+     "file": "Handout-4052-3751.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3801",
+   "date": "8/13/2023",
+   "year": 2023,
+   "group": "Advanced 2A",
+   "topic": "Nonstandard geometry, continued",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4082-3801.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3809",
+   "date": "8/20/2023",
+   "year": 2023,
+   "group": "Advanced 2A",
+   "topic": "Class cancelled due to hurricane Hilary.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4089-3809.pdf"
+    },
+    {
+     "label": "bonus problems",
+     "file": "Handout-4090-3809.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3792",
+   "date": "8/6/2023",
+   "year": 2023,
+   "group": "Advanced 2A",
+   "topic": "Nonstandard geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4077-3792.pdf"
+    }
+   ]
+  }
+ ]
+}

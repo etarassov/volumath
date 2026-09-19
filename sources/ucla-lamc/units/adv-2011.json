@@ -1,0 +1,298 @@
+{
+ "unit": "adv-2011",
+ "source": "ucla-lamc",
+ "title": "Advanced (US grades 9-12), 2012-2012",
+ "id_block": [
+  "2401",
+  "2600"
+ ],
+ "status": "pending",
+ "sessions_total": 17,
+ "sessions_with_answers": 5,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "565",
+   "date": "1/20/2013",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Combinatorics 2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "combinatorics 1+2",
+     "file": "Handout-467-565.pdf"
+    },
+    {
+     "label": "combinatorics 1+2 sols",
+     "file": "Handout-468-565.pdf"
+    }
+   ]
+  },
+  {
+   "event": "575",
+   "date": "1/27/2013",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Probability",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "probability 1+2",
+     "file": "Handout-487-575.pdf"
+    },
+    {
+     "label": "probability 1+2 sols",
+     "file": "Handout-488-575.pdf"
+    }
+   ]
+  },
+  {
+   "event": "578",
+   "date": "2/10/2013",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Conditional Probability",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "conditional probability 1+2",
+     "file": "Handout-498-578.pdf"
+    },
+    {
+     "label": "conditional probability 1+2 sols",
+     "file": "Handout-499-578.pdf"
+    }
+   ]
+  },
+  {
+   "event": "606",
+   "date": "3/17/2013",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Random Numbers/Monthly Contest Solutions",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "monthly contest solutions",
+     "file": "Handout-507-606.pdf"
+    }
+   ]
+  },
+  {
+   "event": "598",
+   "date": "3/3/2013",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Random Variables",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "random variables 1+2",
+     "file": "Handout-505-598.pdf"
+    },
+    {
+     "label": "random variables 1+2 sols",
+     "file": "Handout-506-598.pdf"
+    }
+   ]
+  },
+  {
+   "event": "564",
+   "date": "1/13/2013",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinatorics 1",
+     "file": "Handout-454-564.pdf"
+    }
+   ]
+  },
+  {
+   "event": "566",
+   "date": "1/20/2013",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Contest Due",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "contest",
+     "file": "Handout-455-566.pdf"
+    }
+   ]
+  },
+  {
+   "event": "502",
+   "date": "10/14/2012",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometry 1",
+     "file": "Handout-406-502.pdf"
+    }
+   ]
+  },
+  {
+   "event": "512",
+   "date": "10/21/2012",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Number Bases",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "number bases 1",
+     "file": "Handout-415-512.pdf"
+    },
+    {
+     "label": "number bases 1 (sol)",
+     "file": "Handout-416-512.pdf"
+    }
+   ]
+  },
+  {
+   "event": "516",
+   "date": "10/28/2012",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Number Bases (Take 10)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "number bases 2",
+     "file": "Handout-418-516.pdf"
+    },
+    {
+     "label": "number bases 2 (sol)",
+     "file": "Handout-419-516.pdf"
+    }
+   ]
+  },
+  {
+   "event": "500",
+   "date": "10/7/2012",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Planar Graphs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graphs 2",
+     "file": "Handout-400-500.pdf"
+    }
+   ]
+  },
+  {
+   "event": "535",
+   "date": "11/11/2012",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Inequalities 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inequalities 2",
+     "file": "Handout-434-535.pdf"
+    },
+    {
+     "label": "inequalities 2 (sol)",
+     "file": "Handout-435-535.pdf"
+    }
+   ]
+  },
+  {
+   "event": "543",
+   "date": "11/18/2012",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Games",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "games 1",
+     "file": "Handout-446-543.pdf"
+    },
+    {
+     "label": "games 1 (sol)",
+     "file": "Handout-447-543.pdf"
+    }
+   ]
+  },
+  {
+   "event": "528",
+   "date": "11/4/2012",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inequalities 1",
+     "file": "Handout-427-528.pdf"
+    },
+    {
+     "label": "inequalities 1 (sol)",
+     "file": "Handout-428-528.pdf"
+    }
+   ]
+  },
+  {
+   "event": "545",
+   "date": "12/2/2012",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Games 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "games 2",
+     "file": "Handout-448-545.pdf"
+    },
+    {
+     "label": "games 2 (sol)",
+     "file": "Handout-449-545.pdf"
+    }
+   ]
+  },
+  {
+   "event": "594",
+   "date": "2/24/2013",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Conditional Probability 2/Monthly Contest Due",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "monthly contest (due feb. 24)",
+     "file": "Handout-489-594.pdf"
+    }
+   ]
+  },
+  {
+   "event": "492",
+   "date": "9/30/2012",
+   "year": 2012,
+   "group": "Advanced Circle",
+   "topic": "Graphs, Isomorphism, and Paths",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graphs 1",
+     "file": "Handout-396-492.pdf"
+    }
+   ]
+  }
+ ]
+}

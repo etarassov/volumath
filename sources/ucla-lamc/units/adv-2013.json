@@ -1,0 +1,434 @@
+{
+ "unit": "adv-2013",
+ "source": "ucla-lamc",
+ "title": "Advanced (US grades 9-12), 2013-2014",
+ "id_block": [
+  "2201",
+  "2400"
+ ],
+ "status": "pending",
+ "sessions_total": 27,
+ "sessions_with_answers": 1,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "735",
+   "date": "1/19/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Invariants II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "invariants ii",
+     "file": "Handout-623-735.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-624-735.pdf"
+    }
+   ]
+  },
+  {
+   "event": "872",
+   "date": "10/19/2014",
+   "year": 2014,
+   "group": "Advanced",
+   "topic": "Number Theory (Part 1)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "number theory (part 1)",
+     "file": "Handout-823-872.pdf"
+    }
+   ]
+  },
+  {
+   "event": "879",
+   "date": "10/26/2014",
+   "year": 2014,
+   "group": "Advanced",
+   "topic": "A kaleidoscope of geometry problems (Olga Radko)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "hints to selected problems",
+     "file": "Handout-832-879.pdf"
+    },
+    {
+     "label": "geometry kaleidoscope (problem sets)",
+     "file": "Handout-833-879.pdf"
+    }
+   ]
+  },
+  {
+   "event": "918",
+   "date": "11/16/2014",
+   "year": 2014,
+   "group": "Advanced",
+   "topic": "Trigonometry #1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ag f14 meeting 6 trigonometry 1",
+     "file": "Handout-834-918.pdf"
+    }
+   ]
+  },
+  {
+   "event": "886",
+   "date": "11/2/2014",
+   "year": 2014,
+   "group": "Advanced",
+   "topic": "Number Theory (Part 2) (Joyce Law)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "session handout",
+     "file": "Handout-779-886.pdf"
+    }
+   ]
+  },
+  {
+   "event": "919",
+   "date": "11/23/2014",
+   "year": 2014,
+   "group": "Advanced",
+   "topic": "Complex Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ag f14 meeting 7 complex 1",
+     "file": "Handout-835-919.pdf"
+    }
+   ]
+  },
+  {
+   "event": "889",
+   "date": "11/9/2014",
+   "year": 2014,
+   "group": "Advanced",
+   "topic": "Number Theory (Part 3)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "number theory (part 3)",
+     "file": "Handout-822-889.pdf"
+    }
+   ]
+  },
+  {
+   "event": "920",
+   "date": "12/7/2014",
+   "year": 2014,
+   "group": "Advanced",
+   "topic": "Trigonometry #2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ag f14 meeting 8 trigonometry 2",
+     "file": "Handout-836-920.pdf"
+    }
+   ]
+  },
+  {
+   "event": "731",
+   "date": "1/12/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Invariants",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "invariants",
+     "file": "Handout-615-731.pdf"
+    },
+    {
+     "label": "questionnaire",
+     "file": "Handout-616-731.pdf"
+    }
+   ]
+  },
+  {
+   "event": "748",
+   "date": "1/26/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inequalities i",
+     "file": "Handout-641-748.pdf"
+    }
+   ]
+  },
+  {
+   "event": "694",
+   "date": "10/20/2013",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Induction II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "induction ii",
+     "file": "Handout-561-694.pdf"
+    }
+   ]
+  },
+  {
+   "event": "704",
+   "date": "10/27/2013",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Propositional Logic I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "propositional logic",
+     "file": "Handout-617-704.pdf"
+    }
+   ]
+  },
+  {
+   "event": "677",
+   "date": "10/6/2013",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Return of the Olympiads",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week 2",
+     "file": "Handout-560-677.pdf"
+    }
+   ]
+  },
+  {
+   "event": "705",
+   "date": "11/3/2013",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Propositional Logic II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "propositional logic ii",
+     "file": "Handout-618-705.pdf"
+    }
+   ]
+  },
+  {
+   "event": "749",
+   "date": "2/2/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Inequalities II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inequalities ii",
+     "file": "Handout-640-749.pdf"
+    }
+   ]
+  },
+  {
+   "event": "766",
+   "date": "2/23/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Taxicab Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "taxicab i",
+     "file": "Handout-658-766.pdf"
+    },
+    {
+     "label": "bonus",
+     "file": "Handout-659-766.pdf"
+    }
+   ]
+  },
+  {
+   "event": "774",
+   "date": "2/23/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Math Kangaroo Fun",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "math kangaroo 2007",
+     "file": "Handout-664-774.pdf"
+    },
+    {
+     "label": "math kangaroo 2008",
+     "file": "Handout-665-774.pdf"
+    },
+    {
+     "label": "math kangaroo 2006",
+     "file": "Handout-666-774.pdf"
+    },
+    {
+     "label": "math kangaroo 2009",
+     "file": "Handout-667-774.pdf"
+    },
+    {
+     "label": "math kangaroo 2010",
+     "file": "Handout-668-774.pdf"
+    },
+    {
+     "label": "math kangaroo 2011",
+     "file": "Handout-669-774.pdf"
+    }
+   ]
+  },
+  {
+   "event": "758",
+   "date": "2/9/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Infinity",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "infinity",
+     "file": "Handout-642-758.pdf"
+    }
+   ]
+  },
+  {
+   "event": "809",
+   "date": "4/13/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Quadratic Equations II and Vieta's Theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "quadratics ii and vieta",
+     "file": "Handout-698-809.pdf"
+    }
+   ]
+  },
+  {
+   "event": "815",
+   "date": "4/20/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Factorizations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "factorizations",
+     "file": "Handout-705-815.pdf"
+    }
+   ]
+  },
+  {
+   "event": "816",
+   "date": "4/27/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Operations and Relations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "operations and relations",
+     "file": "Handout-710-816.pdf"
+    }
+   ]
+  },
+  {
+   "event": "803",
+   "date": "4/6/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Intro to Quadratics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "quadratics i",
+     "file": "Handout-693-803.pdf"
+    }
+   ]
+  },
+  {
+   "event": "847",
+   "date": "5/11/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "\"Grab Bag\" problem set",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week 7 problems",
+     "file": "Handout-733-847.pdf"
+    }
+   ]
+  },
+  {
+   "event": "843",
+   "date": "5/18/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Group Projects -- working time",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "culmination project",
+     "file": "Handout-731-843.pdf"
+    }
+   ]
+  },
+  {
+   "event": "846",
+   "date": "5/4/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Proofs Without Words",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "proofs without words",
+     "file": "Handout-732-846.pdf"
+    }
+   ]
+  },
+  {
+   "event": "839",
+   "date": "6/1/2014",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Project Presentations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mc_advanced_project",
+     "file": "Handout-730-839.pdf"
+    }
+   ]
+  },
+  {
+   "event": "669",
+   "date": "9/29/2013",
+   "year": 2013,
+   "group": "Advanced Circle",
+   "topic": "Welcome to the Advanced Circle!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week 1",
+     "file": "Handout-545-669.pdf"
+    }
+   ]
+  }
+ ]
+}

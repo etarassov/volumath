@@ -1,0 +1,2956 @@
+{
+ "unit": "adv-2021",
+ "source": "ucla-lamc",
+ "title": "Advanced (US grades 9-12), 2021-2022",
+ "id_block": [
+  "1401",
+  "1600"
+ ],
+ "status": "pending",
+ "sessions_total": 198,
+ "sessions_with_answers": 27,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "3456",
+   "date": "1/22/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Hyperbolic Geometry, Part I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3832-3456.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3833-3456.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3457",
+   "date": "1/22/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Hyperbolic Geometry Part I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3836-3457.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3837-3457.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3481",
+   "date": "1/29/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Hyperbolic Geometry, Part II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3850-3481.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3851-3481.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3432",
+   "date": "1/8/2023",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Winter 2023 Week 1: Polynomial Rings",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet 7: polynomial rings",
+     "file": "Handout-3861-3432.pdf"
+    },
+    {
+     "label": "solutions 7: polynomial rings",
+     "file": "Handout-3866-3432.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3329",
+   "date": "10/23/2022",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Geometry and Graph Theory Part I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3725-3329.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3726-3329.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3334",
+   "date": "10/23/2022",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Geometry and Graph Theory Part 1",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3727-3334.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3728-3334.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3339",
+   "date": "10/30/2022",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Graph Theory and Geometry Part II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3768-3339.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3769-3339.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3294",
+   "date": "10/9/2022",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Mathematics of Juggling",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3696-3294.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3697-3294.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3301",
+   "date": "10/9/2022",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Mathematics of Juggling",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3705-3301.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3706-3301.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3288",
+   "date": "10/9/2022",
+   "year": 2022,
+   "group": "Advanced 2A",
+   "topic": "ESR: length contraction",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3699-3288.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3700-3288.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3305",
+   "date": "10/9/2022",
+   "year": 2022,
+   "group": "Advanced 2B",
+   "topic": "ESR: length contraction",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3698-3305.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3701-3305.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3397",
+   "date": "11/20/2022",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Hat Puzzles and Choice",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3773-3397.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3774-3397.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3394",
+   "date": "11/20/2022",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Axiom of Choice",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3779-3394.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3780-3394.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3398",
+   "date": "12/4/2022",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Fall Competition!",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3789-3398.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3790-3398.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3524",
+   "date": "2/26/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "More Origami Geometry",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3893-3524.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3894-3524.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3573",
+   "date": "3/12/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Winter Competition",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "answers",
+     "file": "Handout-3917-3573.pdf"
+    },
+    {
+     "label": "problems",
+     "file": "Handout-3916-3573.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3551",
+   "date": "3/5/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Graphs and Probability, (and Electricity)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3918-3551.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3919-3551.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3635",
+   "date": "4/23/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Fundamental Theorem of Algebra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3959-3635.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3960-3635.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3640",
+   "date": "4/23/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Fundamental Theorem of Algebra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3966-3640.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3967-3640.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3653",
+   "date": "4/30/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Bézout's Theorem (part 1)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3976-3653.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3977-3653.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3602",
+   "date": "4/9/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Big Numbers",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3937-3602.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3938-3602.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3684",
+   "date": "5/14/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Primes and Factorization",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4003-3684.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4004-3684.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3686",
+   "date": "5/14/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Primes and Factorization",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4009-3686.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4010-3686.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3710",
+   "date": "5/21/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Prime factorization part 2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4021-3710.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4022-3710.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3668",
+   "date": "5/7/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Bezout's Theorem 2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3996-3668.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-3997-3668.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3718",
+   "date": "6/4/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Game",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "rules",
+     "file": "Handout-4024-3718.pdf"
+    },
+    {
+     "label": "tex archive",
+     "file": "Handout-4039-3718.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4040-3718.pdf"
+    },
+    {
+     "label": "game dominoes",
+     "file": "Handout-4041-3718.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3254",
+   "date": "9/25/2022",
+   "year": 2022,
+   "group": "Advanced 2B",
+   "topic": "Game+Relativity",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout source",
+     "file": "Handout-3659-3254.pdf"
+    },
+    {
+     "label": "estimathon",
+     "file": "Handout-3660-3254.pdf"
+    },
+    {
+     "label": "estimathon answers",
+     "file": "Handout-3661-3254.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-3662-3254.pdf"
+    },
+    {
+     "label": "handout with solutions",
+     "file": "Handout-3663-3254.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3441",
+   "date": "1/15/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Recurrences and Generating Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3823-3441.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3449",
+   "date": "1/15/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Recurrences and Generating Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3822-3449.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3440",
+   "date": "1/15/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Error-Correcting Codes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3814-3440.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3448",
+   "date": "1/15/2023",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Winter 2023 Week 2: Vanishing sets and Ideals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet 8 - vanishing sets and ideals",
+     "file": "Handout-3862-3448.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3458",
+   "date": "1/22/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Group Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3839-3458.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3461",
+   "date": "1/22/2023",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Winter 2023 Week 3: Affine Varieties and Ideals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet 9: affine varieties",
+     "file": "Handout-3863-3461.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3477",
+   "date": "1/29/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Hyperbolic Geometry Part II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3852-3477.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3480",
+   "date": "1/29/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Deterministic finite automata",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3847-3480.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3497",
+   "date": "1/29/2023",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Winter 2023 Week 4: Affine Varieties I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet 10: affine varieties i",
+     "file": "Handout-3864-3497.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3429",
+   "date": "1/8/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Introduction to Probability",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability 1",
+     "file": "Handout-3798-3429.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3418",
+   "date": "1/8/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Introduction to Probability",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability 1",
+     "file": "Handout-3799-3418.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3424",
+   "date": "1/8/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Flow graphs.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "network flows",
+     "file": "Handout-3801-3424.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3275",
+   "date": "10/2/2022",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Logic Part II - Models and Proofs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3692-3275.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3283",
+   "date": "10/2/2022",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "22F Week 2. Propositional Logic II + Special Event",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3764-3283.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3284",
+   "date": "10/2/2022",
+   "year": 2022,
+   "group": "Advanced 2B",
+   "topic": "More relativity",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3685-3284.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3268",
+   "date": "10/2/2022",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Fall 2022 Week 2: Algebraic Structures II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 1 - from magma to groups",
+     "file": "Handout-3667-3268.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3326",
+   "date": "10/23/2022",
+   "year": 2022,
+   "group": "Advanced 2A",
+   "topic": "The slide rule.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3724-3326.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3337",
+   "date": "10/23/2022",
+   "year": 2022,
+   "group": "Advanced 2B",
+   "topic": "Slide rule",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3720-3337.pdf"
+    },
+    {
+     "label": "slide rule",
+     "file": "Handout-3721-3337.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3333",
+   "date": "10/23/2022",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Fall 2022 Week 5: The Rubik's cube group.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 3 - rubik&#039;s cubes",
+     "file": "Handout-3734-3333.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3353",
+   "date": "10/30/2022",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Geometry and Graph Theory Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3765-3353.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3352",
+   "date": "10/30/2022",
+   "year": 2022,
+   "group": "Advanced 2A",
+   "topic": "Halloween estimathon and measurement errors",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "estimathon",
+     "file": "Handout-3744-3352.pdf"
+    },
+    {
+     "label": "a study on measurement errors",
+     "file": "Handout-3745-3352.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3354",
+   "date": "10/30/2022",
+   "year": 2022,
+   "group": "Advanced 2B",
+   "topic": "Estimathon + Errors",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "errors handout",
+     "file": "Handout-3785-3354.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3351",
+   "date": "10/30/2022",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Fall 2022 Week 6: The 2x2x2 Rubik's cube.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 4",
+     "file": "Handout-3747-3351.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3286",
+   "date": "10/9/2022",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Fall 2022 Week 3: Symmetry Groups.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 2: symmetry groups",
+     "file": "Handout-3702-3286.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3376",
+   "date": "11/13/2022",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Fall 2022 Week 8: Math Competition.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "math competition exam 1",
+     "file": "Handout-3792-3376.pdf"
+    },
+    {
+     "label": "math competition exam 2",
+     "file": "Handout-3793-3376.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3387",
+   "date": "11/20/2022",
+   "year": 2022,
+   "group": "Advanced 2A",
+   "topic": "Optimization in geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3775-3387.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3396",
+   "date": "11/20/2022",
+   "year": 2022,
+   "group": "Advanced 2B",
+   "topic": "Geometric optima",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3784-3396.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3366",
+   "date": "11/6/2022",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Sets and Cardinality",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3767-3366.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3361",
+   "date": "11/6/2022",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Cardinality",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3766-3361.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3370",
+   "date": "11/6/2022",
+   "year": 2022,
+   "group": "Advanced 2A",
+   "topic": "Optimization in geometry and optics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3758-3370.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3367",
+   "date": "11/6/2022",
+   "year": 2022,
+   "group": "Advanced 2B",
+   "topic": "Geometric optima",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3757-3367.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3375",
+   "date": "11/6/2022",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Fall 2022 Week 7: Fields",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 5",
+     "file": "Handout-3791-3375.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3377",
+   "date": "12/4/2022",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Fall 2022 Week 9: Ring Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 6",
+     "file": "Handout-3794-3377.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3506",
+   "date": "2/19/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Guest lecture: How Less is More (with Origami) by Medha Ravi",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lecture notes",
+     "file": "Handout-3879-3506.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3507",
+   "date": "2/19/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Guest lecture: How Less is More (with Origami) by Medha Ravi",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lecture notes",
+     "file": "Handout-3880-3507.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3508",
+   "date": "2/19/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Guest lecture: How Less is More (with Origami) by Medha Ravi",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lecture notes",
+     "file": "Handout-3881-3508.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3509",
+   "date": "2/19/2023",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Guest lecture: How Less is More (with Origami) by Medha Ravi",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "lecture notes",
+     "file": "Handout-3882-3509.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3528",
+   "date": "2/26/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "More Origami",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3902-3528.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3534",
+   "date": "2/26/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Pidgeonhole Principle",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3899-3534.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3491",
+   "date": "2/5/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Gaussian Elimination",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3867-3491.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3498",
+   "date": "2/5/2023",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Winter 2023 Week 5: Affine Varieties II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet 11 : affine varieties ii",
+     "file": "Handout-3865-3498.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3567",
+   "date": "3/12/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Game",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3946-3567.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3550",
+   "date": "3/5/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Circuits and Random Walks",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3903-3550.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3544",
+   "date": "3/5/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Origami",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3897-3544.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3581",
+   "date": "4/2/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Turing Machines",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3923-3581.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3583",
+   "date": "4/2/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Turing Machines",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3925-3583.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3576",
+   "date": "4/2/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Mocking a Mockingbird",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3924-3576.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3585",
+   "date": "4/2/2023",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Spring 2023. Week 1: Projective Lines",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3931-3585.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3627",
+   "date": "4/23/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Linear Algebra 101",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3972-3627.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3641",
+   "date": "4/23/2023",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Spring 2023. Week 3: Applications of Projective Geometry I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3987-3641.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3649",
+   "date": "4/30/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Bezout's Theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3982-3649.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3655",
+   "date": "4/30/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Lattice fun",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3985-3655.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3603",
+   "date": "4/9/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Really Big Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3942-3603.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3597",
+   "date": "4/9/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Graph Flow Puzzles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3934-3597.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3605",
+   "date": "4/9/2023",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Spring 2023. Week 2: Projective lines and planes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3986-3605.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3694",
+   "date": "5/14/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Definable Sets",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4015-3694.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3695",
+   "date": "5/14/2023",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "5/14/2023 -- Advanced 3: Spring 2023:Applications of Projective Geometry IV",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4002-3695.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3705",
+   "date": "5/21/2023",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "Primes and Factorization 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4018-3705.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3666",
+   "date": "5/7/2023",
+   "year": 2022,
+   "group": "Advanced 2",
+   "topic": "Linear Puzzles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3990-3666.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3675",
+   "date": "5/7/2023",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Spring 2023. Week 3: Applications of Projective Geometry Ill",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3988-3675.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3175",
+   "date": "6/26/2022",
+   "year": 2022,
+   "group": "Advanced",
+   "topic": "Binary Numbers I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout_1",
+     "file": "Handout-3619-3175.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3716",
+   "date": "6/4/2023",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "Final class of the year",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-4038-3716.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3178",
+   "date": "7/10/2022",
+   "year": 2022,
+   "group": "Advanced",
+   "topic": "More binary numbers and hexadecimal numbers.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout_2",
+     "file": "Handout-3620-3178.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3189",
+   "date": "7/17/2022",
+   "year": 2022,
+   "group": "Advanced",
+   "topic": "Intro to Knots.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 3",
+     "file": "Handout-3625-3189.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3205",
+   "date": "7/24/2022",
+   "year": 2022,
+   "group": "Advanced",
+   "topic": "Peano Axioms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3631-3205.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3246",
+   "date": "8/21/2022",
+   "year": 2022,
+   "group": "Advanced",
+   "topic": "Intro to groups.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "groups and symmetry",
+     "file": "Handout-3648-3246.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3261",
+   "date": "9/25/2022",
+   "year": 2022,
+   "group": "Advanced 1A",
+   "topic": "22F Week 1. Propositional Logic.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3670-3261.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3257",
+   "date": "9/25/2022",
+   "year": 2022,
+   "group": "Advanced 1B",
+   "topic": "22F Week 1. Propositional Logic.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3679-3257.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3253",
+   "date": "9/25/2022",
+   "year": 2022,
+   "group": "Advanced 2A",
+   "topic": "Game + Relativity",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "einstein special relativity",
+     "file": "Handout-3672-3253.pdf"
+    },
+    {
+     "label": "estimathon game",
+     "file": "Handout-3673-3253.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3262",
+   "date": "9/25/2022",
+   "year": 2022,
+   "group": "Advanced 3",
+   "topic": "Fall 2022 Week 1: Algebraic Structures I.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 1 - from magma to groups",
+     "file": "Handout-3668-3262.pdf"
+    },
+    {
+     "label": "quaternions",
+     "file": "Handout-3669-3262.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2878",
+   "date": "1/16/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Cauchy induction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3285-2878.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2881",
+   "date": "1/16/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Cauchy Induction and Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3292-2881.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2844",
+   "date": "1/16/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Spanning Trees and Kirchhoff's Matrix Tree Theorem II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "spanning trees",
+     "file": "Handout-3299-2844.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2903",
+   "date": "1/23/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Josephus problem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3309-2903.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2894",
+   "date": "1/23/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Josephus",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3306-2894.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2897",
+   "date": "1/23/2022",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Peano Axioms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3315-2897.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2845",
+   "date": "1/23/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Peano Axioms I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "peano axioms",
+     "file": "Handout-3311-2845.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2862",
+   "date": "1/23/2022",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "3D Geometry with Quaternions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3313-2862.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2921",
+   "date": "1/30/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Inscribed angles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3336-2921.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2916",
+   "date": "1/30/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Elementary Euclidean Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3344-2916.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2913",
+   "date": "1/30/2022",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Peano Axioms II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3329-2913.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2846",
+   "date": "1/30/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Peano Axioms II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "peano axioms",
+     "file": "Handout-3320-2846.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2863",
+   "date": "1/30/2022",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "3D Geometry with Quaternions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "bonus_problems",
+     "file": "Handout-3346-2863.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2859",
+   "date": "1/9/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Induction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3276-2859.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2857",
+   "date": "1/9/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "The Peano Axiom",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3269-2857.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2867",
+   "date": "1/9/2022",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Spanning Trees and Kirchhoff's Matrix Tree Theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3281-2867.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2843",
+   "date": "1/9/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Spanning Trees and Kirchhoff's Matrix Tree Theorem I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "spanning trees",
+     "file": "Handout-3271-2843.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2855",
+   "date": "1/9/2022",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Spanning Trees and Kirchhoff's Tree Theorem",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3278-2855.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2700",
+   "date": "10/10/2021",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Similar triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3132-2700.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2713",
+   "date": "10/10/2021",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Similar Triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3136-2713.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2682",
+   "date": "10/10/2021",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Combinatorics on Words II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinatorics on words",
+     "file": "Handout-3141-2682.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2753",
+   "date": "10/24/2021",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "More similar triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3158-2753.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2750",
+   "date": "10/24/2021",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "More Similar triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3155-2750.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2705",
+   "date": "10/24/2021",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Nimbers I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "nimbers i",
+     "file": "Handout-3165-2705.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2748",
+   "date": "10/24/2021",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Nimbers I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3161-2748.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2746",
+   "date": "10/24/2021",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "The Fast Fourier Transform",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3159-2746.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2692",
+   "date": "10/3/2021",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Warm-up Puzzles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3121-2692.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2681",
+   "date": "10/3/2021",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Combinatorics on Words I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinatorics on words",
+     "file": "Handout-3127-2681.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2685",
+   "date": "10/3/2021",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Combinatorics on Words",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3120-2685.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2687",
+   "date": "10/3/2021",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "How to win Nim and related games",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "nimbers_handout",
+     "file": "Handout-3116-2687.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2757",
+   "date": "10/31/2021",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Game",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "game questions",
+     "file": "Handout-3184-2757.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2761",
+   "date": "10/31/2021",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Game day",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3178-2761.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2706",
+   "date": "10/31/2021",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Nimbers II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "nimbers ii",
+     "file": "Handout-3181-2706.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2762",
+   "date": "10/31/2021",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Nimbers II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3176-2762.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2754",
+   "date": "10/31/2021",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "The Fast Fourier Transform",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "bonus_problems",
+     "file": "Handout-3171-2754.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2804",
+   "date": "11/14/2021",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Topology",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3206-2804.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2802",
+   "date": "11/14/2021",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Set Topology",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3205-2802.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2708",
+   "date": "11/14/2021",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Dynamical Systems I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "dynamical systems i",
+     "file": "Handout-3214-2708.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2797",
+   "date": "11/14/2021",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Dynamical Systems I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3212-2797.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2788",
+   "date": "11/14/2021",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Voting Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3208-2788.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2810",
+   "date": "11/21/2021",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Induction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3216-2810.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2814",
+   "date": "11/21/2021",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Induction, Peano Axioms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3221-2814.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2709",
+   "date": "11/21/2021",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Dynamical Systems II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "dynamical systems ii",
+     "file": "Handout-3231-2709.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2812",
+   "date": "11/21/2021",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Dynamical Systems II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3220-2812.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2789",
+   "date": "11/21/2021",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Voting Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "bonus_problems",
+     "file": "Handout-3229-2789.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2777",
+   "date": "11/7/2021",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Friezes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3183-2777.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2783",
+   "date": "11/7/2021",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Frieze Patterns",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3187-2783.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2707",
+   "date": "11/7/2021",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Competition I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition problems",
+     "file": "Handout-3194-2707.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2776",
+   "date": "11/7/2021",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3189-2776.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2775",
+   "date": "11/7/2021",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Research Presentations and Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition_problems",
+     "file": "Handout-3190-2775.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2829",
+   "date": "12/5/2021",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Game",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3255-2829.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2710",
+   "date": "12/5/2021",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Competition II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition problems",
+     "file": "Handout-3263-2710.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2791",
+   "date": "12/5/2021",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3251-2791.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2948",
+   "date": "2/13/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Hat puzzles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3377-2948.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2951",
+   "date": "2/13/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Guest Lecture",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3384-2951.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2848",
+   "date": "2/13/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Infinite Hat Puzzles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "hat puzzles",
+     "file": "Handout-3385-2848.pdf"
+    },
+    {
+     "label": "hat puzzles slides",
+     "file": "Handout-3387-2848.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2860",
+   "date": "2/13/2022",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Guest Lecture: A Fun Problem About the Combinatorics of Ordinals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3383-2860.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2973",
+   "date": "2/27/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Irrational numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3403-2973.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2964",
+   "date": "2/27/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Irrational numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3399-2964.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2962",
+   "date": "2/27/2022",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Irrational Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3427-2962.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2849",
+   "date": "2/27/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Irrational Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "irrational numbers",
+     "file": "Handout-3395-2849.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2864",
+   "date": "2/27/2022",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Martingales",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3400-2864.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2938",
+   "date": "2/6/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Game",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "game",
+     "file": "Handout-3365-2938.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2847",
+   "date": "2/6/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Competition I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition i",
+     "file": "Handout-3359-2847.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2861",
+   "date": "2/6/2022",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3363-2861.pdf"
+    },
+    {
+     "label": "bonus problems",
+     "file": "Handout-3366-2861.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3002",
+   "date": "3/13/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Game",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "game",
+     "file": "Handout-3440-3002.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2998",
+   "date": "3/13/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3436-2998.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2851",
+   "date": "3/13/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition ii",
+     "file": "Handout-3438-2851.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2866",
+   "date": "3/13/2022",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3435-2866.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2984",
+   "date": "3/6/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Irrational numbers 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3416-2984.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2985",
+   "date": "3/6/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Algebraic and Transcendental Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3414-2985.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2982",
+   "date": "3/6/2022",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Irrational Numbers II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3429-2982.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2850",
+   "date": "3/6/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Irrational and Algebraic Number",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "irrational and algebraic numbers",
+     "file": "Handout-3412-2850.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3043",
+   "date": "4/10/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Hyperbolic soccer ball",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3520-3043.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3031",
+   "date": "4/10/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Hyperbolic Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3529-3031.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3007",
+   "date": "4/10/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Hyperbolic Soccer Ball",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "hyperbolic soccer ball",
+     "file": "Handout-3527-3007.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3039",
+   "date": "4/10/2022",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Smart Codes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems1",
+     "file": "Handout-3531-3039.pdf"
+    },
+    {
+     "label": "problems2",
+     "file": "Handout-3532-3039.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3054",
+   "date": "4/17/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Pigeonhole principle",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3537-3054.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3056",
+   "date": "4/17/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Pigeonhole",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3539-3056.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3053",
+   "date": "4/17/2022",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "P vs NP",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3547-3053.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-3548-3053.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3008",
+   "date": "4/17/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "P vs NP",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "p vs np",
+     "file": "Handout-3545-3008.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3078",
+   "date": "4/24/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Cryptography",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3552-3078.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3074",
+   "date": "4/24/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Cryptography",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3556-3074.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3009",
+   "date": "4/24/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Zero Knowledge Proofs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "zero knowledge proofs",
+     "file": "Handout-3564-3009.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3071",
+   "date": "4/24/2022",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Electric Circuits and Random Walks",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3557-3071.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3028",
+   "date": "4/3/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Information theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3493-3028.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3024",
+   "date": "4/3/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Information Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3497-3024.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3006",
+   "date": "4/3/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Wallpaper Symmetries",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "wallpaper symmetries",
+     "file": "Handout-3495-3006.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3023",
+   "date": "4/3/2022",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "The Hyperbolic Football",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problems",
+     "file": "Handout-3500-3023.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3010",
+   "date": "5/1/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Competition I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "competition i",
+     "file": "Handout-3571-3010.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3130",
+   "date": "5/15/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3587-3130.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3132",
+   "date": "5/15/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3589-3132.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3012",
+   "date": "5/15/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Financial Math II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "financial math",
+     "file": "Handout-3592-3012.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3121",
+   "date": "5/15/2022",
+   "year": 2021,
+   "group": "Advanced 3",
+   "topic": "Game Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3588-3121.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3146",
+   "date": "5/22/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "Graph theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3598-3146.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3145",
+   "date": "5/22/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "Graph Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3597-3145.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3013",
+   "date": "5/22/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Electrical Circuits and Random Walks",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "electrical circuits and random walks",
+     "file": "Handout-3610-3013.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3112",
+   "date": "5/8/2022",
+   "year": 2021,
+   "group": "Advanced 1A",
+   "topic": "e",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3576-3112.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3109",
+   "date": "5/8/2022",
+   "year": 2021,
+   "group": "Advanced 1B",
+   "topic": "The number e",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3591-3109.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3108",
+   "date": "5/8/2022",
+   "year": 2021,
+   "group": "Advanced 2A",
+   "topic": "Financial Math",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3580-3108.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3011",
+   "date": "5/8/2022",
+   "year": 2021,
+   "group": "Advanced 2B",
+   "topic": "Financial Math I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "financial math",
+     "file": "Handout-3595-3011.pdf"
+    }
+   ]
+  }
+ ]
+}

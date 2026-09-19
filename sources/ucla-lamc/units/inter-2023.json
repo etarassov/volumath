@@ -1,0 +1,3844 @@
+{
+ "unit": "inter-2023",
+ "source": "ucla-lamc",
+ "title": "Intermediate (US grades 7-8), 2023-2026",
+ "id_block": [
+  "3801",
+  "4000"
+ ],
+ "status": "pending",
+ "sessions_total": 262,
+ "sessions_with_answers": 26,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "5645",
+   "date": "8/16/2026",
+   "year": 2026,
+   "group": "Intermediate 1A",
+   "topic": "Financial Algebra : Part A, continued.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "financial algebra part a solution manual",
+     "file": "Handout-5151-5645.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5646",
+   "date": "8/16/2026",
+   "year": 2026,
+   "group": "Intermediate 1B",
+   "topic": "Financial Algebra : Part A, continued.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "financial algebra part a solution manual",
+     "file": "Handout-5150-5646.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5228",
+   "date": "11/23/2025",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Math dominoes.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "questions",
+     "file": "Handout-4926-5228.pdf"
+    },
+    {
+     "label": "answers",
+     "file": "Handout-4927-5228.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4035",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Angles and Triangles",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout for week 2",
+     "file": "Handout-4247-4035.pdf"
+    },
+    {
+     "label": "solutions to selected problems",
+     "file": "Handout-4301-4035.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4056",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Perimeters and Areas",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout for week 3",
+     "file": "Handout-4267-4056.pdf"
+    },
+    {
+     "label": "solutions to selected problems",
+     "file": "Handout-4302-4056.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4008",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Introduction to Euclidean Geometry",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout for week 1",
+     "file": "Handout-4231-4008.pdf"
+    },
+    {
+     "label": "solutions to selected problems",
+     "file": "Handout-4249-4008.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3874",
+   "date": "10/15/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "More on Combinatorics and Probability",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout for week 3",
+     "file": "Handout-4133-3874.pdf"
+    },
+    {
+     "label": "homework solution",
+     "file": "Handout-4160-3874.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3921",
+   "date": "10/29/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Problem Solving",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout for week 5",
+     "file": "Handout-4165-3921.pdf"
+    },
+    {
+     "label": "homework solution",
+     "file": "Handout-4188-3921.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3960",
+   "date": "11/19/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Product and Power Sets",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout for week 7",
+     "file": "Handout-4195-3960.pdf"
+    },
+    {
+     "label": "solutions to selected problems",
+     "file": "Handout-4206-3960.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3934",
+   "date": "11/5/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Set Theory",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout for week 6",
+     "file": "Handout-4189-3934.pdf"
+    },
+    {
+     "label": "solutions to selected problems",
+     "file": "Handout-4196-3934.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4113",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Big Numbers",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout for week 6",
+     "file": "Handout-4306-4113.pdf"
+    },
+    {
+     "label": "solutions to selected problems",
+     "file": "Handout-4331-4113.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4125",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Game Theory I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout for week 7",
+     "file": "Handout-4330-4125.pdf"
+    },
+    {
+     "label": "solutions to selected problems",
+     "file": "Handout-4340-4125.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3740",
+   "date": "6/25/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Binary Numbers and Complements",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4045-3740.pdf"
+    },
+    {
+     "label": "solution",
+     "file": "Handout-4046-3740.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3741",
+   "date": "6/25/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Binary Numbers and Complements",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4047-3741.pdf"
+    },
+    {
+     "label": "solution",
+     "file": "Handout-4048-3741.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3761",
+   "date": "7/16/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Boolean Algebra and Logic Problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4059-3761.pdf"
+    },
+    {
+     "label": "solution",
+     "file": "Handout-4060-3761.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3760",
+   "date": "7/16/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Boolean Algebra and Logic Problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4061-3760.pdf"
+    },
+    {
+     "label": "solution",
+     "file": "Handout-4062-3760.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3772",
+   "date": "7/23/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Geometry of Boolean Algebra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4066-3772.pdf"
+    },
+    {
+     "label": "solution",
+     "file": "Handout-4067-3772.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3769",
+   "date": "7/23/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Geometry of Boolean Algebra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4068-3769.pdf"
+    },
+    {
+     "label": "solution",
+     "file": "Handout-4069-3769.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3775",
+   "date": "7/30/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Mid-Quarter Competition",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4070-3775.pdf"
+    },
+    {
+     "label": "answer key",
+     "file": "Handout-4071-3775.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3782",
+   "date": "7/30/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Mid-Quarter Competition",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4072-3782.pdf"
+    },
+    {
+     "label": "answer key",
+     "file": "Handout-4073-3782.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3743",
+   "date": "7/9/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Introduction to Boolean Algebra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4053-3743.pdf"
+    },
+    {
+     "label": "solution",
+     "file": "Handout-4054-3743.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3744",
+   "date": "7/9/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Introduction to Boolean Algebra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4055-3744.pdf"
+    },
+    {
+     "label": "solution",
+     "file": "Handout-4056-3744.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3800",
+   "date": "8/13/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Permutations and the 15 puzzle, part 2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4083-3800.pdf"
+    },
+    {
+     "label": "answer key",
+     "file": "Handout-4084-3800.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3802",
+   "date": "8/13/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Permutations and the 15 puzzle, part 2",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4085-3802.pdf"
+    },
+    {
+     "label": "answer key",
+     "file": "Handout-4086-3802.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3785",
+   "date": "8/6/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Permutations and the 15 puzzle, part 1.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4078-3785.pdf"
+    },
+    {
+     "label": "answer key",
+     "file": "Handout-4079-3785.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3786",
+   "date": "8/6/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Permutations and the 15 puzzle, part 1.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4080-3786.pdf"
+    },
+    {
+     "label": "answer key",
+     "file": "Handout-4081-3786.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5574",
+   "date": "6/28/2026",
+   "year": 2026,
+   "group": "Intermediate 1A",
+   "topic": "Binary numbers.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5108-5574.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5575",
+   "date": "6/28/2026",
+   "year": 2026,
+   "group": "Intermediate 1B",
+   "topic": "Binary numbers.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5109-5575.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5573",
+   "date": "6/28/2026",
+   "year": 2026,
+   "group": "Intermediate 2A",
+   "topic": "Induction and Peano Axioms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5110-5573.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5579",
+   "date": "7/12/2026",
+   "year": 2026,
+   "group": "Intermediate 1A",
+   "topic": "Boolean algebra 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5112-5579.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5580",
+   "date": "7/12/2026",
+   "year": 2026,
+   "group": "Intermediate 1B",
+   "topic": "Boolean algebra 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5113-5580.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5581",
+   "date": "7/12/2026",
+   "year": 2026,
+   "group": "Intermediate 2A",
+   "topic": "The Josephus problem.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "josephus",
+     "file": "Handout-5114-5581.pdf"
+    },
+    {
+     "label": "random walk",
+     "file": "Handout-5115-5581.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5601",
+   "date": "7/19/2026",
+   "year": 2026,
+   "group": "Intermediate 1A",
+   "topic": "Boolean algebra 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5120-5601.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5602",
+   "date": "7/19/2026",
+   "year": 2026,
+   "group": "Intermediate 1B",
+   "topic": "Boolean algebra 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5121-5602.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5598",
+   "date": "7/19/2026",
+   "year": 2026,
+   "group": "Intermediate 2A",
+   "topic": "Deterministic Finite Automata",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5122-5598.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5613",
+   "date": "7/26/2026",
+   "year": 2026,
+   "group": "Intermediate 1A",
+   "topic": "Boolean algebra 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5129-5613.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5614",
+   "date": "7/26/2026",
+   "year": 2026,
+   "group": "Intermediate 1B",
+   "topic": "Boolean algebra 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5126-5614.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5617",
+   "date": "7/26/2026",
+   "year": 2026,
+   "group": "Intermediate 2A",
+   "topic": "Pigeonhole principle.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5128-5617.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5653",
+   "date": "8/16/2026",
+   "year": 2026,
+   "group": "Intermediate 2A",
+   "topic": "Intro to Graphs, Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5141-5653.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5628",
+   "date": "8/2/2026",
+   "year": 2026,
+   "group": "Intermediate 2A",
+   "topic": "A Study of Measurement Errors as an Introduction to Differential Calculus.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5133-5628.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5658",
+   "date": "8/23/2026",
+   "year": 2026,
+   "group": "Intermediate 1A",
+   "topic": "Boolean algebra 4.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5146-5658.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5659",
+   "date": "8/23/2026",
+   "year": 2026,
+   "group": "Intermediate 1B",
+   "topic": "Boolean algebra 4.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5147-5659.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5669",
+   "date": "8/23/2026",
+   "year": 2026,
+   "group": "Intermediate 2A",
+   "topic": "Max-Flow Min-Cut and the Ford-Fulkerson Algorithm",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5148-5669.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5672",
+   "date": "8/30/2026",
+   "year": 2026,
+   "group": "Intermediate 1A",
+   "topic": "Estimathon",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5157-5672.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5679",
+   "date": "8/30/2026",
+   "year": 2026,
+   "group": "Intermediate 1B",
+   "topic": "Estimathon",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5158-5679.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5682",
+   "date": "8/30/2026",
+   "year": 2026,
+   "group": "Intermediate 2A",
+   "topic": "Quarter-end competition.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5159-5682.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5642",
+   "date": "8/9/2026",
+   "year": 2026,
+   "group": "Intermediate 1A",
+   "topic": "Financial Algebra : Part A.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5136-5642.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5643",
+   "date": "8/9/2026",
+   "year": 2026,
+   "group": "Intermediate 1B",
+   "topic": "Financial Algebra : Part A.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5137-5643.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5637",
+   "date": "8/9/2026",
+   "year": 2026,
+   "group": "Intermediate 2A",
+   "topic": "Intro to Graphs, Part 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5138-5637.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5235",
+   "date": "1/11/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Perspective.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4929-5235.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5236",
+   "date": "1/11/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Perspective.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4930-5236.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5255",
+   "date": "1/18/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Maxima and minima without calculus.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4945-5255.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5256",
+   "date": "1/18/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Maxima and minima without calculus.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4946-5256.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5285",
+   "date": "1/25/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Primer on Machine Learning in Finance.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4955-5285.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5286",
+   "date": "1/25/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Primer on Machine Learning in Finance.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4956-5286.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5115",
+   "date": "10/12/2025",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Intro to the theory of interest.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4859-5115.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5116",
+   "date": "10/12/2025",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Intro to the theory of interest.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4860-5116.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5154",
+   "date": "10/26/2025",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Cryptography",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4885-5154.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5155",
+   "date": "10/26/2025",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Cryptography",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4887-5155.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5093",
+   "date": "10/5/2025",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Option Pricing Using One-Step Binomial Tree",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4848-5093.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5094",
+   "date": "10/5/2025",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Option Pricing Using One-Step Binomial Tree",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4849-5094.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5209",
+   "date": "11/16/2025",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Variables, equations, and functions.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4916-5209.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5210",
+   "date": "11/16/2025",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Variables, equations, and functions.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4917-5210.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5223",
+   "date": "11/23/2025",
+   "year": 2025,
+   "group": "Intermediate 1B",
+   "topic": "End of quarter game!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4924-5223.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5299",
+   "date": "2/1/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Machine Learning in Finance : Classification Problems and Basic Neural Networks.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4967-5299.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5300",
+   "date": "2/1/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Machine Learning in Finance : Classification Problems and Basic Neural Networks.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4968-5300.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5327",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "Intermediate 1A",
+   "topic": "Intro to trigonometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4980-5327.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5324",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Intro to linear algebra.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4981-5324.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5325",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Intro to linear algebra.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4982-5325.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5344",
+   "date": "2/22/2026",
+   "year": 2025,
+   "group": "Intermediate 1B",
+   "topic": "Common measure and coordinates in the plane.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 1",
+     "file": "Handout-5041-5344.pdf"
+    },
+    {
+     "label": "handout 2",
+     "file": "Handout-5042-5344.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5350",
+   "date": "2/22/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Back to Perspective.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4985-5350.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5430",
+   "date": "4/12/2026",
+   "year": 2025,
+   "group": "Intermediate 1A",
+   "topic": "Hanoi Tower puzzle and the Sierpinski Triangle.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ht3 handout",
+     "file": "Handout-5022-5430.pdf"
+    },
+    {
+     "label": "ht4 handout",
+     "file": "Handout-5023-5430.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5431",
+   "date": "4/12/2026",
+   "year": 2025,
+   "group": "Intermediate 1B",
+   "topic": "Hanoi Tower puzzle and the Sierpinski Triangle.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ht3 handout",
+     "file": "Handout-5024-5431.pdf"
+    },
+    {
+     "label": "ht4 handout",
+     "file": "Handout-5025-5431.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5425",
+   "date": "4/12/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Induction and Peano Axioms.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5021-5425.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5426",
+   "date": "4/12/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Induction and Peano Axioms.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5020-5426.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5450",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "Intermediate 1A",
+   "topic": "Powers and logs.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 1",
+     "file": "Handout-5039-5450.pdf"
+    },
+    {
+     "label": "handout 2",
+     "file": "Handout-5040-5450.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5451",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "Intermediate 1B",
+   "topic": "Powers and logs.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 1",
+     "file": "Handout-5043-5451.pdf"
+    },
+    {
+     "label": "handout 2",
+     "file": "Handout-5044-5451.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5454",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Game Theory II.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5045-5454.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5455",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Game Theory II.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5046-5455.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5482",
+   "date": "4/26/2026",
+   "year": 2025,
+   "group": "Intermediate 1A",
+   "topic": "Powers and logs 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5053-5482.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5483",
+   "date": "4/26/2026",
+   "year": 2025,
+   "group": "Intermediate 1B",
+   "topic": "Powers and logs 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5054-5483.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5473",
+   "date": "4/26/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Game Theory II, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5055-5473.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5474",
+   "date": "4/26/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Game Theory II, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5056-5474.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5407",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Intermediate 1A",
+   "topic": "Hanoi Tower puzzle.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "hanoi tower 1",
+     "file": "Handout-5015-5407.pdf"
+    },
+    {
+     "label": "hanoi tower 2",
+     "file": "Handout-5011-5407.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5406",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Intermediate 1B",
+   "topic": "Hanoi Tower puzzle.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "hanoi tower 1",
+     "file": "Handout-5012-5406.pdf"
+    },
+    {
+     "label": "hanoi tower 2",
+     "file": "Handout-5016-5406.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5411",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Projective geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5013-5411.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5412",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Projective geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5014-5412.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5505",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "Intermediate 1A",
+   "topic": "Intro to Python, Part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5077-5505.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5506",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "Intermediate 1B",
+   "topic": "Intro to Python, Part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5078-5506.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5513",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Data clustering.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5079-5513.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5514",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Data clustering.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5080-5514.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5537",
+   "date": "5/17/2026",
+   "year": 2025,
+   "group": "Intermediate 1A",
+   "topic": "Recursive Functions and Fractals.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5094-5537.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5538",
+   "date": "5/17/2026",
+   "year": 2025,
+   "group": "Intermediate 1B",
+   "topic": "Recursive Functions and Fractals.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5095-5538.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5532",
+   "date": "5/17/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Pigeonhole principle.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5096-5532.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5533",
+   "date": "5/17/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Pigeonhole principle.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5097-5533.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5493",
+   "date": "5/3/2026",
+   "year": 2025,
+   "group": "Intermediate 1A",
+   "topic": "Intro to Python.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5065-5493.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5494",
+   "date": "5/3/2026",
+   "year": 2025,
+   "group": "Intermediate 1B",
+   "topic": "Intro to Python.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5066-5494.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5486",
+   "date": "5/3/2026",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Intro to graphs.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5067-5486.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5487",
+   "date": "5/3/2026",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Intro to graphs.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5068-5487.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5552",
+   "date": "5/31/2026",
+   "year": 2025,
+   "group": "Intermediate 1B",
+   "topic": "End-of-year game.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5105-5552.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4956",
+   "date": "6/29/2025",
+   "year": 2025,
+   "group": "Intermediate A",
+   "topic": "Binary numbers.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4783-4956.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4957",
+   "date": "6/29/2025",
+   "year": 2025,
+   "group": "Intermediate B",
+   "topic": "Binary numbers.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4784-4957.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4979",
+   "date": "7/20/2025",
+   "year": 2025,
+   "group": "Intermediate A",
+   "topic": "The division algorithm.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "division algorithm",
+     "file": "Handout-4798-4979.pdf"
+    },
+    {
+     "label": "boolean algebra, part 1",
+     "file": "Handout-4802-4979.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4980",
+   "date": "7/20/2025",
+   "year": 2025,
+   "group": "Intermediate B",
+   "topic": "The division algorithm.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "division algorithm",
+     "file": "Handout-4799-4980.pdf"
+    },
+    {
+     "label": "boolean algebra, part 1",
+     "file": "Handout-4804-4980.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4989",
+   "date": "7/27/2025",
+   "year": 2025,
+   "group": "Intermediate A",
+   "topic": "Boolen algebra, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4808-4989.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4990",
+   "date": "7/27/2025",
+   "year": 2025,
+   "group": "Intermediate B",
+   "topic": "Boolen algebra, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4809-4990.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5031",
+   "date": "8/24/2025",
+   "year": 2025,
+   "group": "Intermediate A",
+   "topic": "Logic Gates and Karnaugh Maps",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4825-5031.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5038",
+   "date": "8/24/2025",
+   "year": 2025,
+   "group": "Intermediate B",
+   "topic": "Logic Gates and Karnaugh Maps",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4826-5038.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5000",
+   "date": "8/3/2025",
+   "year": 2025,
+   "group": "Intermediate A",
+   "topic": "Boolean algebra, part 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4811-5000.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5001",
+   "date": "8/3/2025",
+   "year": 2025,
+   "group": "Intermediate B",
+   "topic": "Boolean algebra, part 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4812-5001.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5061",
+   "date": "9/28/2025",
+   "year": 2025,
+   "group": "Intermediate 1A",
+   "topic": "Review.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4837-5061.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5065",
+   "date": "9/28/2025",
+   "year": 2025,
+   "group": "Intermediate 1B",
+   "topic": "Review.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4838-5065.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5063",
+   "date": "9/28/2025",
+   "year": 2025,
+   "group": "Intermediate 2A",
+   "topic": "Zero-sum games.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4834-5063.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5064",
+   "date": "9/28/2025",
+   "year": 2025,
+   "group": "Intermediate 2B",
+   "topic": "Zero-sum games.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4835-5064.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4620",
+   "date": "1/12/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Fractals, part 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4600-4620.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4621",
+   "date": "1/12/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Fractals, part 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4639-4621.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4640",
+   "date": "1/19/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Financial literacy, part 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4638-4640.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4641",
+   "date": "1/19/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Financial literacy, part 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4607-4641.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4653",
+   "date": "1/26/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Financial literacy, part 4.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4621-4653.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4654",
+   "date": "1/26/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Financial literacy, part 4.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4613-4654.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4482",
+   "date": "10/13/2024",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Recursive funstions and fractals.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "recursive functions and fractals",
+     "file": "Handout-4531-4482.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4483",
+   "date": "10/13/2024",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Recursive funstions and fractals.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4523-4483.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4492",
+   "date": "10/20/2024",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Recursive functions and fractals, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4540-4492.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4493",
+   "date": "10/20/2024",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Recursive functions and fractals, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4532-4493.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4509",
+   "date": "10/27/2024",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Powers and Logs I.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "powers and logs #1",
+     "file": "Handout-4547-4509.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4510",
+   "date": "10/27/2024",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Powers and Logs I.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4546-4510.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4464",
+   "date": "10/6/2024",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Intro to Python.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "intro to python #1",
+     "file": "Handout-4511-4464.pdf"
+    },
+    {
+     "label": "intro to python #2",
+     "file": "Handout-4512-4464.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4465",
+   "date": "10/6/2024",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Intro to Python",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4510-4465.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4558",
+   "date": "11/17/2024",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Financial literacy, part 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4571-4558.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4559",
+   "date": "11/17/2024",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Financial literacy, part 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4564-4559.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4579",
+   "date": "11/24/2024",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Financial literacy, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4579-4579.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4580",
+   "date": "11/24/2024",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Financial literacy, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4580-4580.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4532",
+   "date": "11/3/2024",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Powers and Logs, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "powers and logs, continued.",
+     "file": "Handout-4563-4532.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4533",
+   "date": "11/3/2024",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Powers and Logs, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4557-4533.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4720",
+   "date": "2/16/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Studying Finance with Python.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4660-4720.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4721",
+   "date": "2/16/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Studying Finance with Python.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4653-4721.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4677",
+   "date": "2/2/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Random walks and Monte-Carlo simulations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "random walks",
+     "file": "Handout-4633-4677.pdf"
+    },
+    {
+     "label": "finliteracy_5",
+     "file": "Handout-4634-4677.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4678",
+   "date": "2/2/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Random walks and Monte-Carlo simulations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4628-4678.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4629-4678.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4729",
+   "date": "2/23/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Geometry of Masses 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4663-4729.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4733",
+   "date": "2/23/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Geometry of Masses 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4662-4733.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4694",
+   "date": "2/9/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Geometry of masses 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4643-4694.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4695",
+   "date": "2/9/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Geometry of masses 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4642-4695.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4758",
+   "date": "3/2/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Geometry of Masses 2, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4692-4758.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4759",
+   "date": "3/2/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Geometry of Masses 2, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4669-4759.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4810",
+   "date": "4/13/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Geometry of Masses 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4709-4810.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4811",
+   "date": "4/13/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Geometry of Masses 3",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4706-4811.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4835",
+   "date": "4/20/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Stock market game, an introduction.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4733-4835.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4836",
+   "date": "4/20/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Stock market game, an intorduction.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4735-4836.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4849",
+   "date": "4/27/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Stock market game, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4744-4849.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4850",
+   "date": "4/27/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Stock market game, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4739-4850.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4793",
+   "date": "4/6/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Sample Standard Deviation, Part1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4697-4793.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4794",
+   "date": "4/6/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Sample Standard Deviation, Part1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4695-4794.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4882",
+   "date": "5/11/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Area and Pick’s Theorem.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4765-4882.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4883",
+   "date": "5/11/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Area and Pick’s Theorem.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4758-4883.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4902",
+   "date": "5/18/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Symmetries of polygons.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4775-4902.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4903",
+   "date": "5/18/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Symmetries of polygons.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4767-4903.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4871",
+   "date": "5/4/2025",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Geometry of masses 3, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4750-4871.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4872",
+   "date": "5/4/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Geometry of masses 3, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4747-4872.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4930",
+   "date": "6/1/2025",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Symmetries of polygons, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4777-4930.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4348",
+   "date": "6/30/2024",
+   "year": 2024,
+   "group": "Intermediate 1A",
+   "topic": "Python 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "intro to python",
+     "file": "Handout-4477-4348.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4349",
+   "date": "6/30/2024",
+   "year": 2024,
+   "group": "Intermediate 1B",
+   "topic": "Intro to Python",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4476-4349.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4364",
+   "date": "7/14/2024",
+   "year": 2024,
+   "group": "Intermediate 1A",
+   "topic": "Fractals Part 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "fractals 1",
+     "file": "Handout-4481-4364.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4365",
+   "date": "7/14/2024",
+   "year": 2024,
+   "group": "Intermediate 1B",
+   "topic": "Fractals 1",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4482-4365.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4382",
+   "date": "7/28/2024",
+   "year": 2024,
+   "group": "Intermediate 1A",
+   "topic": "Logic Puzzles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "logic puzzles",
+     "file": "Handout-4489-4382.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4385",
+   "date": "7/28/2024",
+   "year": 2024,
+   "group": "Intermediate 1B",
+   "topic": "Logic Puzzles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4488-4385.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4354",
+   "date": "7/7/2024",
+   "year": 2024,
+   "group": "Intermediate 1A",
+   "topic": "Python 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "extra practice problems",
+     "file": "Handout-4479-4354.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4356",
+   "date": "7/7/2024",
+   "year": 2024,
+   "group": "Intermediate 1B",
+   "topic": "Intro to Python 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4480-4356.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4413",
+   "date": "8/18/2024",
+   "year": 2024,
+   "group": "Intermediate 1A",
+   "topic": "Gini Index",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "gini index packet",
+     "file": "Handout-4493-4413.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4398",
+   "date": "8/4/2024",
+   "year": 2024,
+   "group": "Intermediate 1A",
+   "topic": "Induction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "induction packet",
+     "file": "Handout-4491-4398.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4394",
+   "date": "8/4/2024",
+   "year": 2024,
+   "group": "Intermediate 1B",
+   "topic": "Induction and Peano Axioms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4490-4394.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4443",
+   "date": "9/29/2024",
+   "year": 2024,
+   "group": "Intermediate 2A",
+   "topic": "Intro to the Collatz conjecture and iterated functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "collatz conjecture",
+     "file": "Handout-4506-4443.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4444",
+   "date": "9/29/2024",
+   "year": 2024,
+   "group": "Intermediate 2B",
+   "topic": "Intro to the Collatz conjecture and iterated functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4496-4444.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4033",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 2: Angles and Triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4250-4033.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4037",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Information Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4252-4037.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4023",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Information Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4245-4023.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4053",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 3: Perimeters and Areas",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4266-4053.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4055",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Combinatorial Subtraction Games",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4258-4055.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4048",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Combinatorial Subtraction Games",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4265-4048.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4072",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 4: Taxicab Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4283-4072.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4070",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Taxicab Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout for week 4",
+     "file": "Handout-4279-4070.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4074",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Balanced Trees and Fibonacci Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4278-4074.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4062",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Balanced Trees and Fibonacci Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4280-4062.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4017",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 1: Introduction to Euclidean Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4240-4017.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4018",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Introduction to Heaps.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4230-4018.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4014",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Heaps",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4227-4014.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3833",
+   "date": "10/1/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 1: Probability I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4098-3833.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3838",
+   "date": "10/1/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Probability, lesson1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout for week 1",
+     "file": "Handout-4104-3838.pdf"
+    },
+    {
+     "label": "optional problems",
+     "file": "Handout-4105-3838.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3840",
+   "date": "10/1/2023",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Sets and Venn diagrams.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4106-3840.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3836",
+   "date": "10/1/2023",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Sets and Venn diagrams.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4102-3836.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3872",
+   "date": "10/15/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 3: Probability III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4137-3872.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3873",
+   "date": "10/15/2023",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "More Induction!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4132-3873.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3879",
+   "date": "10/15/2023",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "More Induction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4134-3879.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3898",
+   "date": "10/22/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 4: Logic Puzzles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4155-3898.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3899",
+   "date": "10/22/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Logic Puzzles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout for week 4",
+     "file": "Handout-4156-3899.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3900",
+   "date": "10/22/2023",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Introduction to Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4146-3900.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3896",
+   "date": "10/22/2023",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Introduction to Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4154-3896.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3920",
+   "date": "10/29/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 5: Problem Solving",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4172-3920.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3919",
+   "date": "10/29/2023",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Error Correcting Codes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4166-3919.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3914",
+   "date": "10/29/2023",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Binary Representation and Error-Correcting Codes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4171-3914.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3858",
+   "date": "10/8/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 2: Probability II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4117-3858.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3853",
+   "date": "10/8/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Probability and Combinatorics.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout for week 2",
+     "file": "Handout-4115-3853.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3857",
+   "date": "10/8/2023",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Induction and Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4121-3857.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3861",
+   "date": "10/8/2023",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Induction and Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4118-3861.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3957",
+   "date": "11/19/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 7: Sets II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4194-3957.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3961",
+   "date": "11/19/2023",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Graph Games: Sim and Sprouts.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4192-3961.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3956",
+   "date": "11/19/2023",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Graph Games",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4193-3956.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3933",
+   "date": "11/5/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 6: Sets",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4191-3933.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3939",
+   "date": "11/5/2023",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Graph Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4180-3939.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3931",
+   "date": "11/5/2023",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Graph Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4181-3931.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3994",
+   "date": "12/10/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 9: Competition!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4214-3994.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3993",
+   "date": "12/10/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4220-3993.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3992",
+   "date": "12/10/2023",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Reed-Solomon Error Correction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4218-3992.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3995",
+   "date": "12/10/2023",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Reed-Solomon Error Correction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4215-3995.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3977",
+   "date": "12/3/2023",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 8: Sets III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4211-3977.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3971",
+   "date": "12/3/2023",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Functions between Sets",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4205-3971.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3973",
+   "date": "12/3/2023",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Error correcting codes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4198-3973.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3969",
+   "date": "12/3/2023",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Error Correcting Codes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4207-3969.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4114",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 6: Large Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4311-4114.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4115",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Counting Hats and Euler's number",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4308-4115.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4111",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Counting Hats",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4312-4111.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4128",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 7: Game Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4328-4128.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4131",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Gini Coefficient and Lorentz curve",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4325-4131.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4132",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Lorenz Curve and Gini Coefficients",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4324-4132.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4087",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 5: Shapes in Taxicab Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4296-4087.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4086",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Taxicab Geometry II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout for week 5",
+     "file": "Handout-4289-4086.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4093",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Problem Solving / Recap",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4291-4093.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4092",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Problem Solving",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4295-4092.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4162",
+   "date": "3/10/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4358-4162.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4165",
+   "date": "3/10/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Last day of Winter Quarter",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4356-4165.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4168",
+   "date": "3/10/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Competition",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4366-4168.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4149",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 8: Mathematical Games",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4341-4149.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4148",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Game Theory II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout for week 8",
+     "file": "Handout-4338-4148.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4145",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Did Dream Cheat?",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4344-4145.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4188",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 1: Exponents and Logarithms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4377-4188.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4193",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Exponents and Logarithms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4378-4193.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4184",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Introduction to Cryptology",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4382-4184.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4187",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Cryptography",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4379-4187.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4229",
+   "date": "4/14/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 3: Financial Literacy",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4412-4229.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4230",
+   "date": "4/14/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Financial Literacy Part 1: Investment, Interest, Time Value of Money, and Future Value",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4407-4230.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4225",
+   "date": "4/14/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Finite Fields",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4402-4225.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4228",
+   "date": "4/14/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Finite fields",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4411-4228.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4247",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 4: Present Value and Discounting",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4415-4247.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4249",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Financial Literacy Part 2: Present Value, Discounting and Multiple Payment Securities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4423-4249.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4243",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Hat Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4421-4243.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4248",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Hats problems and Axiom of Choice",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4417-4248.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4263",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 5: Continued Fractions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4430-4263.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4271",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Continued Fractions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4438-4271.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4262",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "(REMOTE) The Mathematics of Juggling",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4433-4262.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4270",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Juggling",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4431-4270.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-4437-4270.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4209",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 2: Induction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4394-4209.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4210",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Induction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4399-4210.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4204",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Slide Rules",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4391-4204.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4206",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Slide Rules",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4389-4206.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4295",
+   "date": "5/12/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 7: Probability, A Reintroduction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4456-4295.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4299",
+   "date": "5/12/2024",
+   "year": 2023,
+   "group": "Intermediate 1B",
+   "topic": "Financial Literacy Part 3: A Reintroduction to Probability and the Expected Return of Financial Assets",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4460-4299.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4302",
+   "date": "5/12/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Tiling and Coloring",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4458-4302.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4315",
+   "date": "5/12/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Tiling Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4461-4315.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4322",
+   "date": "5/19/2024",
+   "year": 2023,
+   "group": "Intermediate 1A",
+   "topic": "Week 8: Random Walks and Modern Finance",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4469-4322.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4321",
+   "date": "5/19/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "Tilings and Generating Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4471-4321.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4319",
+   "date": "5/19/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Tiling Problems II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4468-4319.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4283",
+   "date": "5/5/2024",
+   "year": 2023,
+   "group": "Intermediate 2A",
+   "topic": "(REMOTE) Errors",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4449-4283.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4290",
+   "date": "5/5/2024",
+   "year": 2023,
+   "group": "Intermediate 2B",
+   "topic": "Errors",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4448-4290.pdf"
+    }
+   ]
+  }
+ ]
+}

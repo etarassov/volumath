@@ -1,0 +1,1708 @@
+{
+ "unit": "inter-early",
+ "source": "ucla-lamc",
+ "title": "Intermediate (US grades 7-8), 2012-2016",
+ "id_block": [
+  "4401",
+  "4600"
+ ],
+ "status": "pending",
+ "sessions_total": 106,
+ "sessions_with_answers": 41,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "1264",
+   "date": "1/15/2017",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Approximating Areas",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1248-1264.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1250-1264.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1270",
+   "date": "1/22/2017",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Parity",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1255-1270.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1264-1270.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1276",
+   "date": "1/29/2017",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Divisibility",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1265-1276.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1271-1276.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1218",
+   "date": "10/16/2016",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Combinatorics II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1207-1218.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1208-1218.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1228",
+   "date": "10/23/2016",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Probability",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1216-1228.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1217-1228.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1231",
+   "date": "10/30/2016",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Geometric Probability",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1218-1231.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1240-1231.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1217",
+   "date": "10/9/2016",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Combinatorics I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1202-1217.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1203-1217.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1237",
+   "date": "11/13/2016",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Counting and Symmetry II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1231-1237.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1237-1237.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1242",
+   "date": "11/20/2016",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Counting and Symmetry III",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1238-1242.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1239-1242.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1236",
+   "date": "11/6/2016",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Counting and Symmetry I",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1230-1236.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1236-1236.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1290",
+   "date": "2/12/2017",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Chinese Remainder Theorem",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1279-1290.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1285-1290.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1293",
+   "date": "2/26/2017",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Random Events and Expectations",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1281-1293.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1296-1293.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1280",
+   "date": "2/5/2017",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Pigeonhole Principle",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1280-1280.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1284-1280.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1302",
+   "date": "3/12/2017",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Breaking Sticks",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1292-1302.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1293-1302.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1298",
+   "date": "3/5/2017",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Binomial Coefficients",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1297-1298.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-1298-1298.pdf"
+    }
+   ]
+  },
+  {
+   "event": "859",
+   "date": "10/12/2014",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Binary numbers. (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-742-859.pdf"
+    },
+    {
+     "label": "farmers and chicken solution",
+     "file": "Handout-752-859.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-760-859.pdf"
+    }
+   ]
+  },
+  {
+   "event": "863",
+   "date": "10/12/2014",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Binary Numbers (Adam Drown)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-743-863.pdf"
+    },
+    {
+     "label": "farmers and chicken solutuin",
+     "file": "Handout-753-863.pdf"
+    },
+    {
+     "label": "handout sols",
+     "file": "Handout-763-863.pdf"
+    }
+   ]
+  },
+  {
+   "event": "867",
+   "date": "10/19/2014",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Finishing the first handout followed by a problem solving session. (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "division algorithm",
+     "file": "Handout-755-867.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-756-867.pdf"
+    },
+    {
+     "label": "alg solutions",
+     "file": "Handout-761-867.pdf"
+    },
+    {
+     "label": "handout solutions",
+     "file": "Handout-762-867.pdf"
+    }
+   ]
+  },
+  {
+   "event": "866",
+   "date": "10/19/2014",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Finishing the first handout followed by a problem solving session. (Andrew Woods)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "division algorithm",
+     "file": "Handout-757-866.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-758-866.pdf"
+    },
+    {
+     "label": "alg sols",
+     "file": "Handout-764-866.pdf"
+    },
+    {
+     "label": "handout sols",
+     "file": "Handout-765-866.pdf"
+    }
+   ]
+  },
+  {
+   "event": "873",
+   "date": "10/26/2014",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Boolean Algebra, Part 1. (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-767-873.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-773-873.pdf"
+    }
+   ]
+  },
+  {
+   "event": "874",
+   "date": "10/26/2014",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Boolean Algebra, Part 1. (Adam Drown)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-768-874.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-774-874.pdf"
+    }
+   ]
+  },
+  {
+   "event": "896",
+   "date": "11/16/2014",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Boolean algebra and geometry of cubes. (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-790-896.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-802-896.pdf"
+    }
+   ]
+  },
+  {
+   "event": "897",
+   "date": "11/16/2014",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Boolean algebra and geometry of cubes. (Adam Drown)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-791-897.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-801-897.pdf"
+    }
+   ]
+  },
+  {
+   "event": "881",
+   "date": "11/2/2014",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Boolean Algebra, Part 2. (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-775-881.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-780-881.pdf"
+    }
+   ]
+  },
+  {
+   "event": "882",
+   "date": "11/2/2014",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Boolean Algebra, Part 2. (Adam Drown)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-776-882.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-781-882.pdf"
+    }
+   ]
+  },
+  {
+   "event": "901",
+   "date": "11/23/2014",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Boolean algebra, an overview. (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-808-901.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-810-901.pdf"
+    }
+   ]
+  },
+  {
+   "event": "902",
+   "date": "11/23/2014",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Boolean algebra, an overview. (Adam Drown)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-809-902.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-811-902.pdf"
+    }
+   ]
+  },
+  {
+   "event": "891",
+   "date": "11/9/2014",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Boolean Algebra, Part 3 plus some AMC8 preparation. (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-784-891.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-793-891.pdf"
+    }
+   ]
+  },
+  {
+   "event": "892",
+   "date": "11/9/2014",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Boolean Algebra, Part 3 plus some AMC8 preparation. (Adam Drown)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-785-892.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-794-892.pdf"
+    }
+   ]
+  },
+  {
+   "event": "908",
+   "date": "12/7/2014",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Math Wrangle training. (Oleg Gleizer)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-813-908.pdf"
+    },
+    {
+     "label": "sliding combs sol",
+     "file": "Handout-814-908.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-820-908.pdf"
+    }
+   ]
+  },
+  {
+   "event": "907",
+   "date": "12/7/2014",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Math Wrangle training. (Adam Drown)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-815-907.pdf"
+    },
+    {
+     "label": "sliding combs sol",
+     "file": "Handout-816-907.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-821-907.pdf"
+    }
+   ]
+  },
+  {
+   "event": "737",
+   "date": "1/12/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Percentages",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-619-737.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-620-737.pdf"
+    }
+   ]
+  },
+  {
+   "event": "691",
+   "date": "10/13/2013",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Decimals to Fractions",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "week 3 solutions",
+     "file": "Handout-566-691.pdf"
+    },
+    {
+     "label": "week 3 handout",
+     "file": "Handout-567-691.pdf"
+    }
+   ]
+  },
+  {
+   "event": "699",
+   "date": "10/20/2013",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "AMC Prep",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "the test",
+     "file": "Handout-572-699.pdf"
+    },
+    {
+     "label": "the solutions",
+     "file": "Handout-573-699.pdf"
+    }
+   ]
+  },
+  {
+   "event": "708",
+   "date": "10/27/2013",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Poker -- An Introduction to Counting",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-584-708.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-585-708.pdf"
+    }
+   ]
+  },
+  {
+   "event": "678",
+   "date": "10/6/2013",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Fractions to Decimals (v2)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "week 2 worksheet",
+     "file": "Handout-550-678.pdf"
+    },
+    {
+     "label": "week 2 solutions",
+     "file": "Handout-551-678.pdf"
+    }
+   ]
+  },
+  {
+   "event": "780",
+   "date": "2/23/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Geometry and Inequalities",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-671-780.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-672-780.pdf"
+    }
+   ]
+  },
+  {
+   "event": "761",
+   "date": "2/9/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Infinity & Set Theory",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-646-761.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-673-761.pdf"
+    }
+   ]
+  },
+  {
+   "event": "781",
+   "date": "3/2/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Math Kangaroo",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "problems (no solutions)",
+     "file": "Handout-678-781.pdf"
+    },
+    {
+     "label": "problems (with solutions)",
+     "file": "Handout-679-781.pdf"
+    }
+   ]
+  },
+  {
+   "event": "856",
+   "date": "6/8/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Relays",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "relay problems with answers",
+     "file": "Handout-738-856.pdf"
+    },
+    {
+     "label": "relay problems without answers",
+     "file": "Handout-739-856.pdf"
+    }
+   ]
+  },
+  {
+   "event": "666",
+   "date": "9/29/2013",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Fractions to Decimals",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "week 1 worksheet",
+     "file": "Handout-548-666.pdf"
+    },
+    {
+     "label": "week 1 solutions",
+     "file": "Handout-549-666.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1258",
+   "date": "10/2/2016",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Math Celebration",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1242-1258.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1315",
+   "date": "4/16/2017",
+   "year": 2016,
+   "group": "Intermediate",
+   "topic": "Functions and Proofs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1299-1315.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1083",
+   "date": "1/10/2016",
+   "year": 2015,
+   "group": "Intermediate",
+   "topic": "Fractal dimensions. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1047-1083.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1095",
+   "date": "1/17/2016",
+   "year": 2015,
+   "group": "Intermediate",
+   "topic": "Fractal dimensions and more. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1061-1095.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1106",
+   "date": "1/31/2016",
+   "year": 2015,
+   "group": "Intermediate",
+   "topic": "Geometric sequences, series, their limits, and applications. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1103-1106.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1032",
+   "date": "10/11/2015",
+   "year": 2015,
+   "group": "Intermediate",
+   "topic": "Intro to Python, part 2, and preparation for AMC 8. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-989-1032.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1040",
+   "date": "10/18/2015",
+   "year": 2015,
+   "group": "Intermediate",
+   "topic": "Recursive functions and fractals. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-990-1040.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1027",
+   "date": "10/4/2015",
+   "year": 2015,
+   "group": "Intermediate",
+   "topic": "Intro to Python, part 1, and AMC8 preparation. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-988-1027.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1060",
+   "date": "11/8/2015",
+   "year": 2015,
+   "group": "Intermediate",
+   "topic": "The area of Koch snowflake.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1016-1060.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1151",
+   "date": "4/3/2016",
+   "year": 2015,
+   "group": "Intermediate",
+   "topic": "Mathematical Induction and Peano Axioms. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1132-1151.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1176",
+   "date": "5/1/2016",
+   "year": 2015,
+   "group": "Intermediate",
+   "topic": "Problem solving session. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1167-1176.pdf"
+    }
+   ]
+  },
+  {
+   "event": "1181",
+   "date": "5/8/2016",
+   "year": 2015,
+   "group": "Intermediate",
+   "topic": "Back to the book. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-1183-1181.pdf"
+    }
+   ]
+  },
+  {
+   "event": "938",
+   "date": "1/25/2015",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Problem solving and more similar figures. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-853-938.pdf"
+    }
+   ]
+  },
+  {
+   "event": "939",
+   "date": "1/25/2015",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Problem solving and more similar figures. (Adam Drown)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-852-939.pdf"
+    }
+   ]
+  },
+  {
+   "event": "912",
+   "date": "12/14/2014",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Math Wrangle",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-830-912.pdf"
+    }
+   ]
+  },
+  {
+   "event": "913",
+   "date": "12/14/2014",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Math Wrangle",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-831-913.pdf"
+    }
+   ]
+  },
+  {
+   "event": "956",
+   "date": "2/22/2015",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Math Kangaroo preparation session. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-871-956.pdf"
+    }
+   ]
+  },
+  {
+   "event": "957",
+   "date": "2/22/2015",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Math Kangaroo preparation session. (Adam Drown)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-872-957.pdf"
+    }
+   ]
+  },
+  {
+   "event": "952",
+   "date": "2/8/2015",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Some more similarity and radians. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-864-952.pdf"
+    }
+   ]
+  },
+  {
+   "event": "953",
+   "date": "2/8/2015",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Some more similarity and radians. (Adam Drown)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-865-953.pdf"
+    }
+   ]
+  },
+  {
+   "event": "961",
+   "date": "3/1/2015",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Back to geometry. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-882-961.pdf"
+    }
+   ]
+  },
+  {
+   "event": "962",
+   "date": "3/1/2015",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Back to geometry. (Adam Drown)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-883-962.pdf"
+    }
+   ]
+  },
+  {
+   "event": "974",
+   "date": "3/15/2015",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Pi day. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pi day handout",
+     "file": "Handout-902-974.pdf"
+    }
+   ]
+  },
+  {
+   "event": "975",
+   "date": "3/15/2015",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "Pi day. (Adam Drown)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-904-975.pdf"
+    }
+   ]
+  },
+  {
+   "event": "972",
+   "date": "3/8/2015",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "A few cool theorems. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-884-972.pdf"
+    }
+   ]
+  },
+  {
+   "event": "973",
+   "date": "3/8/2015",
+   "year": 2014,
+   "group": "Intermediate II",
+   "topic": "A few cool theorems. (Adam Drown)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-885-973.pdf"
+    }
+   ]
+  },
+  {
+   "event": "984",
+   "date": "4/12/2015",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Exponential functions and logarithms. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-911-984.pdf"
+    }
+   ]
+  },
+  {
+   "event": "985",
+   "date": "4/19/2015",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Logarithms in Math and in life. (Samir Mallya and Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-914-985.pdf"
+    }
+   ]
+  },
+  {
+   "event": "992",
+   "date": "4/26/2015",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Logic gates. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-922-992.pdf"
+    }
+   ]
+  },
+  {
+   "event": "999",
+   "date": "5/10/2015",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Gravity, energy, and the energy coservation law. (Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-934-999.pdf"
+    }
+   ]
+  },
+  {
+   "event": "994",
+   "date": "5/3/2015",
+   "year": 2014,
+   "group": "Intermediate I",
+   "topic": "Logic gates continued. (Tyler Weigand and Oleg Gleizer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-926-994.pdf"
+    }
+   ]
+  },
+  {
+   "event": "742",
+   "date": "1/19/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Sequence & Series",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout (1)",
+     "file": "Handout-621-742.pdf"
+    },
+    {
+     "label": "handout (2)",
+     "file": "Handout-622-742.pdf"
+    }
+   ]
+  },
+  {
+   "event": "718",
+   "date": "11/10/2013",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Random Walks and Mountains",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "random walk notes",
+     "file": "Handout-594-718.pdf"
+    }
+   ]
+  },
+  {
+   "event": "725",
+   "date": "11/24/2013",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Proofs Without Words",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-606-725.pdf"
+    }
+   ]
+  },
+  {
+   "event": "710",
+   "date": "11/3/2013",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Combinatorial Stories.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "hand out",
+     "file": "Handout-592-710.pdf"
+    }
+   ]
+  },
+  {
+   "event": "760",
+   "date": "2/2/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Absolute Value & Distance",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-670-760.pdf"
+    }
+   ]
+  },
+  {
+   "event": "790",
+   "date": "3/9/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Math on the Chess Board",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-680-790.pdf"
+    }
+   ]
+  },
+  {
+   "event": "814",
+   "date": "4/20/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Levers and Barycentric Coordinates (Part 2)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "barycentric coordinates handout",
+     "file": "Handout-704-814.pdf"
+    }
+   ]
+  },
+  {
+   "event": "824",
+   "date": "4/27/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Vectors",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-716-824.pdf"
+    }
+   ]
+  },
+  {
+   "event": "833",
+   "date": "5/11/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Logic Puzzles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-717-833.pdf"
+    }
+   ]
+  },
+  {
+   "event": "834",
+   "date": "5/18/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Propositional Logic",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-729-834.pdf"
+    }
+   ]
+  },
+  {
+   "event": "842",
+   "date": "6/1/2014",
+   "year": 2013,
+   "group": "Intermediate Circle",
+   "topic": "Logic Part Two",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-737-842.pdf"
+    }
+   ]
+  },
+  {
+   "event": "563",
+   "date": "1/13/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Graphs I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graphs i",
+     "file": "Handout-461-563.pdf"
+    }
+   ]
+  },
+  {
+   "event": "567",
+   "date": "1/20/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Graphs II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graphs ii",
+     "file": "Handout-464-567.pdf"
+    }
+   ]
+  },
+  {
+   "event": "572",
+   "date": "1/27/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Graphs III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graphs iii",
+     "file": "Handout-472-572.pdf"
+    }
+   ]
+  },
+  {
+   "event": "504",
+   "date": "10/14/2012",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Combinatorics III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinatorics iii",
+     "file": "Handout-410-504.pdf"
+    }
+   ]
+  },
+  {
+   "event": "508",
+   "date": "10/21/2012",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Pigeonhole Principle I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pigeonhole principle",
+     "file": "Handout-422-508.pdf"
+    }
+   ]
+  },
+  {
+   "event": "515",
+   "date": "10/28/2012",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Pigeonhole Principle II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pigeonhole ii",
+     "file": "Handout-421-515.pdf"
+    }
+   ]
+  },
+  {
+   "event": "498",
+   "date": "10/7/2012",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Combinatorics II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinatorics ii",
+     "file": "Handout-402-498.pdf"
+    }
+   ]
+  },
+  {
+   "event": "531",
+   "date": "11/11/2012",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Divisibility II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "divisibility ii",
+     "file": "Handout-438-531.pdf"
+    }
+   ]
+  },
+  {
+   "event": "538",
+   "date": "11/18/2012",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Divisibility Finale",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-439-538.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-440-538.pdf"
+    }
+   ]
+  },
+  {
+   "event": "539",
+   "date": "11/25/2012",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "No meeting ~ Happy Thanksgiving!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "page_one",
+     "file": "Handout-442-539.pdf"
+    }
+   ]
+  },
+  {
+   "event": "526",
+   "date": "11/4/2012",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Divisibility and Quizzibility",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "divisibility i",
+     "file": "Handout-431-526.pdf"
+    }
+   ]
+  },
+  {
+   "event": "540",
+   "date": "12/2/2012",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Bridge Dilemmas and Review",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "water_crossings",
+     "file": "Handout-453-540.pdf"
+    }
+   ]
+  },
+  {
+   "event": "580",
+   "date": "2/10/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Graphs V - Finale",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graphs v",
+     "file": "Handout-485-580.pdf"
+    }
+   ]
+  },
+  {
+   "event": "582",
+   "date": "2/24/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Geometry - Finding Angles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "finding angles",
+     "file": "Handout-492-582.pdf"
+    }
+   ]
+  },
+  {
+   "event": "579",
+   "date": "2/3/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Graphs IV",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graphs iv",
+     "file": "Handout-484-579.pdf"
+    }
+   ]
+  },
+  {
+   "event": "584",
+   "date": "3/10/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Geometry III - Math Kangaroo area problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "areas",
+     "file": "Handout-504-584.pdf"
+    }
+   ]
+  },
+  {
+   "event": "583",
+   "date": "3/3/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Geometry II - Math Kangaroo angle problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "angles",
+     "file": "Handout-497-583.pdf"
+    }
+   ]
+  },
+  {
+   "event": "609",
+   "date": "4/14/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Triangle Inequality I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "triangle inequality (ignore problem #7)",
+     "file": "Handout-514-609.pdf"
+    }
+   ]
+  },
+  {
+   "event": "610",
+   "date": "4/21/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "What is a Distance?",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "distance",
+     "file": "Handout-519-610.pdf"
+    }
+   ]
+  },
+  {
+   "event": "611",
+   "date": "4/28/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "A Different Look at Distance",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "distance2",
+     "file": "Handout-520-611.pdf"
+    }
+   ]
+  },
+  {
+   "event": "643",
+   "date": "5/12/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Circles and Pi",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pi",
+     "file": "Handout-532-643.pdf"
+    }
+   ]
+  },
+  {
+   "event": "636",
+   "date": "5/5/2013",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Circles and Perpendicular Bisectors",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "distance4",
+     "file": "Handout-527-636.pdf"
+    }
+   ]
+  },
+  {
+   "event": "494",
+   "date": "9/30/2012",
+   "year": 2012,
+   "group": "Intermediate Circle",
+   "topic": "Combinatorics I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinatorics i",
+     "file": "Handout-397-494.pdf"
+    }
+   ]
+  }
+ ]
+}

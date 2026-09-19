@@ -1,0 +1,2600 @@
+{
+ "unit": "amc1012",
+ "source": "ucla-lamc",
+ "title": "AMC 10 and 12 training, 2011-2026",
+ "id_block": [
+  "3401",
+  "3600"
+ ],
+ "status": "pending",
+ "sessions_total": 176,
+ "sessions_with_answers": 20,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "5603",
+   "date": "7/19/2026",
+   "year": 2026,
+   "group": "X26 AMC 10/12",
+   "topic": "Algebra",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5118-5603.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-5124-5603.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3834",
+   "date": "10/1/2023",
+   "year": 2023,
+   "group": "AMC 10/12",
+   "topic": "AMC Basics",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4100-3834.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4101-3834.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3866",
+   "date": "10/15/2023",
+   "year": 2023,
+   "group": "AMC 10/12",
+   "topic": "Complex Numbers",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4135-3866.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4136-3866.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3860",
+   "date": "10/8/2023",
+   "year": 2023,
+   "group": "AMC 10/12",
+   "topic": "Functions",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4125-3860.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4126-3860.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3450",
+   "date": "1/15/2023",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Circles, cont.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions",
+     "file": "Handout-3811-3450.pdf"
+    },
+    {
+     "label": "worksheet",
+     "file": "Handout-3810-3450.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3423",
+   "date": "1/8/2023",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Circles",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "circles 1",
+     "file": "Handout-3802-3423.pdf"
+    },
+    {
+     "label": "circles solutions",
+     "file": "Handout-3808-3423.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3316",
+   "date": "10/16/2022",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Combinatorics",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "week 4 worksheet",
+     "file": "Handout-3716-3316.pdf"
+    },
+    {
+     "label": "week 4 worksheet solutions",
+     "file": "Handout-3718-3316.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3278",
+   "date": "10/2/2022",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Divisibility and Modular Arithmetic",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "week 2 worksheet",
+     "file": "Handout-3695-3278.pdf"
+    },
+    {
+     "label": "week 2 exercises solutions",
+     "file": "Handout-3712-3278.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3327",
+   "date": "10/23/2022",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Counting & Probability",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "week 5 worksheet",
+     "file": "Handout-3732-3327.pdf"
+    },
+    {
+     "label": "week 5 solutions",
+     "file": "Handout-3733-3327.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3344",
+   "date": "10/30/2022",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Geometry",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "week 6 worksheet",
+     "file": "Handout-3746-3344.pdf"
+    },
+    {
+     "label": "week 6 solutions",
+     "file": "Handout-3751-3344.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3579",
+   "date": "4/2/2023",
+   "year": 2022,
+   "group": "AMC 10/12 B Training",
+   "topic": "USAJMO/USAMO Problems",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "usa(j)mo 2023",
+     "file": "Handout-3928-3579.pdf"
+    },
+    {
+     "label": "solutions to selected problems",
+     "file": "Handout-3929-3579.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3714",
+   "date": "6/4/2023",
+   "year": 2022,
+   "group": "AMC 10/12 A Training",
+   "topic": "End-of-year Contest",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4029-3714.pdf"
+    },
+    {
+     "label": "solutions(references)",
+     "file": "Handout-4030-3714.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3715",
+   "date": "6/4/2023",
+   "year": 2022,
+   "group": "AMC 10/12 B Training",
+   "topic": "End-of-Class Contest",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "egmo",
+     "file": "Handout-4036-3715.pdf"
+    },
+    {
+     "label": "egmo_solutions",
+     "file": "Handout-4037-3715.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3259",
+   "date": "9/25/2022",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Algebraic Manipulations",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "week 1 worksheet",
+     "file": "Handout-3665-3259.pdf"
+    },
+    {
+     "label": "week 1 exercises solutions",
+     "file": "Handout-3711-3259.pdf"
+    }
+   ]
+  },
+  {
+   "event": "309",
+   "date": "10/2/2011",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "From Fractions to Decimals... and Back Again",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "fractionsanddecimals2",
+     "file": "Handout-250-309.pdf"
+    },
+    {
+     "label": "fractionsanddecimals2answers",
+     "file": "Handout-258-309.pdf"
+    }
+   ]
+  },
+  {
+   "event": "315",
+   "date": "10/9/2011",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Fractions and Decimals, How Do They Work? cont.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "fractionsanddecimals3",
+     "file": "Handout-257-315.pdf"
+    },
+    {
+     "label": "fractionsanddecimals3answers",
+     "file": "Handout-273-315.pdf"
+    }
+   ]
+  },
+  {
+   "event": "353",
+   "date": "11/20/2011",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Working Together",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "workingtogether",
+     "file": "Handout-287-353.pdf"
+    },
+    {
+     "label": "workingtogethersolutions",
+     "file": "Handout-296-353.pdf"
+    }
+   ]
+  },
+  {
+   "event": "378",
+   "date": "3/11/2012",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Congruent Numbers -- Yingkun Li",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "congruent number handout",
+     "file": "Handout-336-378.pdf"
+    },
+    {
+     "label": "congruent number handout answer",
+     "file": "Handout-337-378.pdf"
+    }
+   ]
+  },
+  {
+   "event": "468",
+   "date": "5/27/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Balancing and Falling II",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "balancingandfalling2",
+     "file": "Handout-384-468.pdf"
+    },
+    {
+     "label": "balancingandfalling2solutions",
+     "file": "Handout-385-468.pdf"
+    }
+   ]
+  },
+  {
+   "event": "306",
+   "date": "9/25/2011",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "From Fractions to Decimals",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "fractionsanddecimals1",
+     "file": "Handout-251-306.pdf"
+    },
+    {
+     "label": "fractionsanddecimals1answers",
+     "file": "Handout-252-306.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5591",
+   "date": "7/12/2026",
+   "year": 2026,
+   "group": "X26 AMC 10/12",
+   "topic": "Triangles and Circles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5116-5591.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5616",
+   "date": "7/26/2026",
+   "year": 2026,
+   "group": "X26 AMC 10/12",
+   "topic": "Counting and Probability",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5125-5616.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5655",
+   "date": "8/16/2026",
+   "year": 2026,
+   "group": "X26 AMC 10/12",
+   "topic": "Mass Points and Analytic Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5142-5655.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5626",
+   "date": "8/2/2026",
+   "year": 2026,
+   "group": "X26 AMC 10/12",
+   "topic": "Number theory.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5131-5626.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5666",
+   "date": "8/23/2026",
+   "year": 2026,
+   "group": "X26 AMC 10/12",
+   "topic": "Problem Mix",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5144-5666.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5681",
+   "date": "8/30/2026",
+   "year": 2026,
+   "group": "X26 AMC 10/12",
+   "topic": "Quarter-end team competition.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5152-5681.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5640",
+   "date": "8/9/2026",
+   "year": 2026,
+   "group": "X26 AMC 10/12",
+   "topic": "Complex Numbers and Logarithms",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5135-5640.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5254",
+   "date": "1/11/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Practice test.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4932-5254.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5272",
+   "date": "1/18/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Number theory, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4944-5272.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5294",
+   "date": "1/25/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4954-5294.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5112",
+   "date": "10/12/2025",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Algebra review",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4854-5112.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5127",
+   "date": "10/19/2025",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4867-5127.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5145",
+   "date": "10/26/2025",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Foundations of Counting",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4882-5145.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5095",
+   "date": "10/5/2025",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4846-5095.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5171",
+   "date": "11/2/2025",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Review before the 11/5 test.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4895-5171.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5230",
+   "date": "11/23/2025",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "End-of-the-quarter problem set.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4919-5230.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5186",
+   "date": "11/9/2025",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Review of the 11/5 AMCs.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "2025_amc_10a",
+     "file": "Handout-4907-5186.pdf"
+    },
+    {
+     "label": "2025_amc_12a",
+     "file": "Handout-4908-5186.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5316",
+   "date": "2/1/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Trigonometry and geometry of masses.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4962-5316.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5335",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Probability.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4976-5335.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5357",
+   "date": "2/22/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Expected value and Markov chains.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4987-5357.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5374",
+   "date": "3/1/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "More probability.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4994-5374.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5391",
+   "date": "3/8/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "End-of-the-quarter competition.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4997-5391.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5442",
+   "date": "4/12/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "3D Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5026-5442.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5458",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Analytical geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5037-5458.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5475",
+   "date": "4/26/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Geometry and Intro to Trigs.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5052-5475.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5424",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Triangle geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5007-5424.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5521",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Geomerty of circles.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5075-5521.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5541",
+   "date": "5/17/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Reflections, symmetry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5093-5541.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5498",
+   "date": "5/3/2026",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Trigonometric methods in geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "packet",
+     "file": "Handout-5062-5498.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5074",
+   "date": "9/28/2025",
+   "year": 2025,
+   "group": "AMC 10/12 training",
+   "topic": "Mock AMC 10/12 Exam",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4844-5074.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4802",
+   "date": "4/13/2025",
+   "year": 2024,
+   "group": "AMC 10/12",
+   "topic": "3D Geometry Practice",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4718-4802.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4032",
+   "date": "1/14/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Mass Points",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4243-4032.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4045",
+   "date": "1/21/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Modular Arithmetic",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4256-4045.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4059",
+   "date": "1/28/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4273-4059.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4003",
+   "date": "1/7/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Trigonometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4238-4003.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3885",
+   "date": "10/22/2023",
+   "year": 2023,
+   "group": "AMC 10/12",
+   "topic": "Counting & Probability",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4147-3885.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3908",
+   "date": "10/29/2023",
+   "year": 2023,
+   "group": "AMC 10/12",
+   "topic": "Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4167-3908.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3922",
+   "date": "11/5/2023",
+   "year": 2023,
+   "group": "AMC 10/12",
+   "topic": "Mock AMC Test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "test",
+     "file": "Handout-4183-3922.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3989",
+   "date": "12/10/2023",
+   "year": 2023,
+   "group": "AMC 10/12",
+   "topic": "Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4219-3989.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3968",
+   "date": "12/3/2023",
+   "year": 2023,
+   "group": "AMC 10/12",
+   "topic": "Geometry: Circles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4210-3968.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4105",
+   "date": "2/18/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4303-4105.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4127",
+   "date": "2/25/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "More Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4317-4127.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4083",
+   "date": "2/4/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Review",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4298-4083.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4161",
+   "date": "3/10/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Review/Contest",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "individual round",
+     "file": "Handout-4346-4161.pdf"
+    },
+    {
+     "label": "relay round",
+     "file": "Handout-4347-4161.pdf"
+    },
+    {
+     "label": "team round",
+     "file": "Handout-4348-4161.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4146",
+   "date": "3/3/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Algebra",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4333-4146.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4183",
+   "date": "3/31/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4381-4183.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4220",
+   "date": "4/14/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Algebra",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4401-4220.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4238",
+   "date": "4/21/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4413-4238.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4266",
+   "date": "4/28/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Trigonometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4428-4266.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4201",
+   "date": "4/7/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4388-4201.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4294",
+   "date": "5/12/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Combinatorics",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4457-4294.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4277",
+   "date": "5/5/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "Algebra",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4444-4277.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4336",
+   "date": "6/2/2024",
+   "year": 2023,
+   "group": "AMC 10/12 Training",
+   "topic": "End-of-Year Contest",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4472-4336.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3459",
+   "date": "1/22/2023",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-3831-3459.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3469",
+   "date": "1/29/2023",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Sequences and Series",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-3854-3469.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3295",
+   "date": "10/9/2022",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week 3 worksheet solns",
+     "file": "Handout-3713-3295.pdf"
+    },
+    {
+     "label": "week 3 worksheet",
+     "file": "Handout-3694-3295.pdf"
+    },
+    {
+     "label": "week 3 modular exponent solns",
+     "file": "Handout-3717-3295.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3380",
+   "date": "11/20/2022",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Similar Triangles",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "similar triangles handout",
+     "file": "Handout-3776-3380.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3362",
+   "date": "11/6/2022",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-3763-3362.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3406",
+   "date": "12/4/2022",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Piecewise Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "piecewise functions worksheet",
+     "file": "Handout-3795-3406.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3511",
+   "date": "2/19/2023",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Review & AIME",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-3906-3511.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3538",
+   "date": "2/26/2023",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Triangle Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-3907-3538.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3496",
+   "date": "2/5/2023",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Complex Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-3870-3496.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3565",
+   "date": "3/12/2023",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "Contest",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "contest problems",
+     "file": "Handout-3920-3565.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3547",
+   "date": "3/5/2023",
+   "year": 2022,
+   "group": "AMC 10/12 Training",
+   "topic": "More Inequalities",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-3908-3547.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3620",
+   "date": "4/16/2023",
+   "year": 2022,
+   "group": "AMC 10/12 A Training",
+   "topic": "Graph Theory, Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-3954-3620.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3623",
+   "date": "4/16/2023",
+   "year": 2022,
+   "group": "AMC 10/12 B Training",
+   "topic": "Graph Theory Part 2",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph theory 2",
+     "file": "Handout-3958-3623.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3578",
+   "date": "4/2/2023",
+   "year": 2022,
+   "group": "AMC 10/12 A Training",
+   "topic": "USAJMO/USAMO Problems",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "usajmo/usamo problems",
+     "file": "Handout-3921-3578.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3633",
+   "date": "4/23/2023",
+   "year": 2022,
+   "group": "AMC 10/12 A Training",
+   "topic": "Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-3968-3633.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3634",
+   "date": "4/23/2023",
+   "year": 2022,
+   "group": "AMC 10/12 B Training",
+   "topic": "Number Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "number theory",
+     "file": "Handout-3969-3634.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3656",
+   "date": "4/30/2023",
+   "year": 2022,
+   "group": "AMC 10/12 A Training",
+   "topic": "Continued Fractions & Pell Equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-3980-3656.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3658",
+   "date": "4/30/2023",
+   "year": 2022,
+   "group": "AMC 10/12 B Training",
+   "topic": "Continued Fractions and Pell Equation",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "continued fractions and pell equations",
+     "file": "Handout-3975-3658.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3600",
+   "date": "4/9/2023",
+   "year": 2022,
+   "group": "AMC 10/12 A Training",
+   "topic": "Graph Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-3940-3600.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3607",
+   "date": "4/9/2023",
+   "year": 2022,
+   "group": "AMC 10/12 B Training",
+   "topic": "Graph Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph theory",
+     "file": "Handout-3936-3607.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3678",
+   "date": "5/14/2023",
+   "year": 2022,
+   "group": "AMC 10/12 A Training",
+   "topic": "Arithmetic Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4006-3678.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3685",
+   "date": "5/14/2023",
+   "year": 2022,
+   "group": "AMC 10/12 B Training",
+   "topic": "Pell's Equation and Arithmetic Functions",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4013-3685.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3701",
+   "date": "5/21/2023",
+   "year": 2022,
+   "group": "AMC 10/12 A Training",
+   "topic": "Complex Number Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-4023-3701.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3706",
+   "date": "5/21/2023",
+   "year": 2022,
+   "group": "AMC 10/12 B Training",
+   "topic": "Complex Numbers and Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "complex number geometry",
+     "file": "Handout-4017-3706.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3674",
+   "date": "5/7/2023",
+   "year": 2022,
+   "group": "AMC 10/12 A Training",
+   "topic": "Diophantine Equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "worksheet",
+     "file": "Handout-3995-3674.pdf"
+    }
+   ]
+  },
+  {
+   "event": "3672",
+   "date": "5/7/2023",
+   "year": 2022,
+   "group": "AMC 10/12 B Training",
+   "topic": "Pell's Equation and Diophantine Equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "diophantine equations",
+     "file": "Handout-3994-3672.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2206",
+   "date": "10/18/2020",
+   "year": 2020,
+   "group": "AMC10/12 Training",
+   "topic": "AMC 10/12 Training: Algebraic Manipulation",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "week 2 slides",
+     "file": "Handout-2502-2206.pdf"
+    }
+   ]
+  },
+  {
+   "event": "381",
+   "date": "1/15/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Cryptoclub I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "codesandciphers1",
+     "file": "Handout-307-381.pdf"
+    }
+   ]
+  },
+  {
+   "event": "380",
+   "date": "1/15/2012",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Title: Elementary Number Theory I-- Prof. Ciprian Manolescu",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "number_theory_handout_i",
+     "file": "Handout-310-380.pdf"
+    }
+   ]
+  },
+  {
+   "event": "382",
+   "date": "1/15/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Graph I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph i",
+     "file": "Handout-308-382.pdf"
+    }
+   ]
+  },
+  {
+   "event": "388",
+   "date": "1/22/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Cryptoclub II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "codesandciphersfull",
+     "file": "Handout-312-388.pdf"
+    }
+   ]
+  },
+  {
+   "event": "371",
+   "date": "1/22/2012",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Title: Elementary Number Theory II -- Prof. Ciprian Manolescu",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "number_theory_handout_ii",
+     "file": "Handout-313-371.pdf"
+    }
+   ]
+  },
+  {
+   "event": "385",
+   "date": "1/22/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Graph II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph ii",
+     "file": "Handout-311-385.pdf"
+    }
+   ]
+  },
+  {
+   "event": "389",
+   "date": "1/29/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "CryptoClub III / Modular Arithmetic",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "modulararithmetici",
+     "file": "Handout-316-389.pdf"
+    }
+   ]
+  },
+  {
+   "event": "393",
+   "date": "1/29/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Triangle Inequality I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "triangle inequality i",
+     "file": "Handout-315-393.pdf"
+    }
+   ]
+  },
+  {
+   "event": "328",
+   "date": "10/16/2011",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Constructions in Plane Geometry (Mike Hall)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "construction problems",
+     "file": "Handout-262-328.pdf"
+    }
+   ]
+  },
+  {
+   "event": "304",
+   "date": "10/16/2011",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Ruler and Compass Constructions of Regular Polygons -- Prof. Christoph Thiele",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "ruler and compass construction",
+     "file": "Handout-274-304.pdf"
+    }
+   ]
+  },
+  {
+   "event": "330",
+   "date": "10/16/2011",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Combinatorics - II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combin-ii",
+     "file": "Handout-265-330.pdf"
+    },
+    {
+     "label": "combin challenge-ii",
+     "file": "Handout-266-330.pdf"
+    }
+   ]
+  },
+  {
+   "event": "310",
+   "date": "10/2/2011",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Continued Fractions, Ctd (Mike Hall)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "continued fractions, ctd.",
+     "file": "Handout-248-310.pdf"
+    }
+   ]
+  },
+  {
+   "event": "302",
+   "date": "10/2/2011",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Introduction to Geometry, or Is your World Flat? (Part II) -- Dr. Oleg Gleizer",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometry ii",
+     "file": "Handout-253-302.pdf"
+    }
+   ]
+  },
+  {
+   "event": "314",
+   "date": "10/2/2011",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Parity - II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "parity - ii",
+     "file": "Handout-254-314.pdf"
+    }
+   ]
+  },
+  {
+   "event": "333",
+   "date": "10/23/2011",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "To Sum It All Up: Geometric Series",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometricseries",
+     "file": "Handout-272-333.pdf"
+    }
+   ]
+  },
+  {
+   "event": "319",
+   "date": "10/23/2011",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Title: Mohr?Mascheroni theorem -- Prof. Christoph Thiele",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mohr?mascheroni theorem",
+     "file": "Handout-275-319.pdf"
+    }
+   ]
+  },
+  {
+   "event": "338",
+   "date": "10/23/2011",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Combinatorics - III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combin - iii",
+     "file": "Handout-271-338.pdf"
+    }
+   ]
+  },
+  {
+   "event": "347",
+   "date": "10/30/2011",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Regular Polygons",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "regular polygons",
+     "file": "Handout-281-347.pdf"
+    }
+   ]
+  },
+  {
+   "event": "339",
+   "date": "10/30/2011",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Parity in the U.S.A.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "parity1",
+     "file": "Handout-276-339.pdf"
+    }
+   ]
+  },
+  {
+   "event": "320",
+   "date": "10/30/2011",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Title: Pigeonhole Principle -- Dr. Ali Gurel (Accord Institute)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pigeonhole principle",
+     "file": "Handout-277-320.pdf"
+    }
+   ]
+  },
+  {
+   "event": "345",
+   "date": "10/30/2011",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Divisibility - I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "divisibility - i",
+     "file": "Handout-279-345.pdf"
+    }
+   ]
+  },
+  {
+   "event": "303",
+   "date": "10/9/2011",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Introduction to Geometry, or Is your World Flat? (Part III) -- Dr. Oleg Gleizer",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometry iii",
+     "file": "Handout-260-303.pdf"
+    }
+   ]
+  },
+  {
+   "event": "317",
+   "date": "10/9/2011",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Combinatorics - I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combin-i",
+     "file": "Handout-261-317.pdf"
+    }
+   ]
+  },
+  {
+   "event": "349",
+   "date": "11/13/2011",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Taxicab geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "taxicab geometry",
+     "file": "Handout-304-349.pdf"
+    }
+   ]
+  },
+  {
+   "event": "351",
+   "date": "11/13/2011",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Title: Paper Folding and Construction II -- Yingkun Li",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "paper_folding_construction_2",
+     "file": "Handout-297-351.pdf"
+    }
+   ]
+  },
+  {
+   "event": "359",
+   "date": "11/13/2011",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Pigeon hole principle I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pigeon hole i",
+     "file": "Handout-288-359.pdf"
+    }
+   ]
+  },
+  {
+   "event": "369",
+   "date": "11/20/2011",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Taxicab Geometry, Ctd.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "axioms of geometry",
+     "file": "Handout-303-369.pdf"
+    }
+   ]
+  },
+  {
+   "event": "323",
+   "date": "11/20/2011",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Title: Parabola in the Projective Plane -- Yingkun Li",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "projective geometry",
+     "file": "Handout-298-323.pdf"
+    }
+   ]
+  },
+  {
+   "event": "360",
+   "date": "11/20/2011",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Pigeon hole principle II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pigeon hole ii",
+     "file": "Handout-289-360.pdf"
+    }
+   ]
+  },
+  {
+   "event": "342",
+   "date": "11/6/2011",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Parity in the U.S.A., cont.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "parity2",
+     "file": "Handout-285-342.pdf"
+    }
+   ]
+  },
+  {
+   "event": "322",
+   "date": "11/6/2011",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Title: Paper Folding and Construction I -- Yingkun Li",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "paper_folding_construction_1",
+     "file": "Handout-284-322.pdf"
+    }
+   ]
+  },
+  {
+   "event": "346",
+   "date": "11/6/2011",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Divisibility - II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "divisibility - ii",
+     "file": "Handout-280-346.pdf"
+    }
+   ]
+  },
+  {
+   "event": "399",
+   "date": "2/12/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Modular Arithmetic, cont.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "modulararithmeticii",
+     "file": "Handout-323-399.pdf"
+    }
+   ]
+  },
+  {
+   "event": "400",
+   "date": "2/12/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Game Theory I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "game theory i",
+     "file": "Handout-322-400.pdf"
+    }
+   ]
+  },
+  {
+   "event": "405",
+   "date": "2/19/2012",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Explorations in Projective Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "perspective",
+     "file": "Handout-356-405.pdf"
+    }
+   ]
+  },
+  {
+   "event": "401",
+   "date": "2/19/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Euclidean Algorithm",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "euclideanalgorithm",
+     "file": "Handout-325-401.pdf"
+    }
+   ]
+  },
+  {
+   "event": "375",
+   "date": "2/19/2012",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "AMC Cool Solutions -- Dr. Ali Gurel (Accord Institute).",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "cool amc problems",
+     "file": "Handout-326-375.pdf"
+    }
+   ]
+  },
+  {
+   "event": "414",
+   "date": "2/19/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Induction - I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "induction i",
+     "file": "Handout-332-414.pdf"
+    }
+   ]
+  },
+  {
+   "event": "434",
+   "date": "2/26/2012",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Algebraic Curves and Homogeneous Coordinates",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homogeneous coordinates",
+     "file": "Handout-355-434.pdf"
+    }
+   ]
+  },
+  {
+   "event": "406",
+   "date": "2/26/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Euclidean Algorithm II: Euclid's Revenge",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "euclideanalgorithm2",
+     "file": "Handout-329-406.pdf"
+    }
+   ]
+  },
+  {
+   "event": "415",
+   "date": "2/26/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Induction - II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "induction ii",
+     "file": "Handout-333-415.pdf"
+    }
+   ]
+  },
+  {
+   "event": "374",
+   "date": "2/5/2012",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Calculus, Topology and the Discovery of Interior Fixed Points -- Prof. Bob Brown",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "calculus, topology and fixed point",
+     "file": "Handout-321-374.pdf"
+    }
+   ]
+  },
+  {
+   "event": "397",
+   "date": "2/5/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Triangle Inequality II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "triangle inequality ii",
+     "file": "Handout-320-397.pdf"
+    }
+   ]
+  },
+  {
+   "event": "436",
+   "date": "3/11/2012",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Intersection Numbers, Algebra of Polynomials",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "euclid&#039;s algorithm, polynomial long division",
+     "file": "Handout-358-436.pdf"
+    }
+   ]
+  },
+  {
+   "event": "413",
+   "date": "3/11/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "More on Euler Phi and Modular Exponentiation",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "eulermodular",
+     "file": "Handout-338-413.pdf"
+    }
+   ]
+  },
+  {
+   "event": "417",
+   "date": "3/11/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Propositional Logic - I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "prop. logic i",
+     "file": "Handout-335-417.pdf"
+    }
+   ]
+  },
+  {
+   "event": "418",
+   "date": "3/18/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "RSA, At Last",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "rsahandout",
+     "file": "Handout-341-418.pdf"
+    }
+   ]
+  },
+  {
+   "event": "427",
+   "date": "3/18/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Propositional Logic - II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "prop. logic ii",
+     "file": "Handout-342-427.pdf"
+    }
+   ]
+  },
+  {
+   "event": "435",
+   "date": "3/3/2012",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Intersection Numbers",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "intersection number exercises",
+     "file": "Handout-357-435.pdf"
+    }
+   ]
+  },
+  {
+   "event": "410",
+   "date": "3/4/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Modular Inverses, Euler's Phi, and All That",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "euclideanalgorithmandeulerphi",
+     "file": "Handout-330-410.pdf"
+    }
+   ]
+  },
+  {
+   "event": "377",
+   "date": "3/4/2012",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Braids and Groups -- Tye Lidman",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "braids and groups",
+     "file": "Handout-331-377.pdf"
+    }
+   ]
+  },
+  {
+   "event": "416",
+   "date": "3/4/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Induction - III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "induction iii",
+     "file": "Handout-334-416.pdf"
+    }
+   ]
+  },
+  {
+   "event": "433",
+   "date": "4/15/2012",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Bounded and Unbounded Sets",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "boundedness",
+     "file": "Handout-359-433.pdf"
+    },
+    {
+     "label": "handout",
+     "file": "Handout-354-433.pdf"
+    }
+   ]
+  },
+  {
+   "event": "432",
+   "date": "4/15/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Introduction to Proofs and Proving",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "proofs1",
+     "file": "Handout-353-432.pdf"
+    }
+   ]
+  },
+  {
+   "event": "452",
+   "date": "4/15/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Modular Arithmetic - I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mod. arith. i",
+     "file": "Handout-370-452.pdf"
+    }
+   ]
+  },
+  {
+   "event": "441",
+   "date": "4/22/2012",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Bounded and Unbounded Sets, Ctd.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inequalities",
+     "file": "Handout-362-441.pdf"
+    }
+   ]
+  },
+  {
+   "event": "444",
+   "date": "4/22/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Proofs and Proving II: Syllogism and Logical Reasoning",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "proofs2",
+     "file": "Handout-364-444.pdf"
+    }
+   ]
+  },
+  {
+   "event": "439",
+   "date": "4/22/2012",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Samples & Sampling Distributions: how do we get data to tell us about populations? -- Prof. Johanna Hardin (Pomona College)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "samples &amp; sampling distribution",
+     "file": "Handout-366-439.pdf"
+    }
+   ]
+  },
+  {
+   "event": "445",
+   "date": "4/29/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Proofs and Proving III: Contrapositive and Contradiction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "proofs3",
+     "file": "Handout-365-445.pdf"
+    }
+   ]
+  },
+  {
+   "event": "440",
+   "date": "4/29/2012",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Bayes' Rule, Bayesian Philosophy, and the Potential of Bayesian Techniques -- Prof. Johanna Hardin (Pomona College)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "bayes&#039; rule",
+     "file": "Handout-367-440.pdf"
+    }
+   ]
+  },
+  {
+   "event": "454",
+   "date": "4/29/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Diophantine Equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mod. arith. ii",
+     "file": "Handout-371-454.pdf"
+    }
+   ]
+  },
+  {
+   "event": "429",
+   "date": "4/8/2012",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Welcome Back! -- Modular Arithmetic",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "some proofs in modular arithmetic",
+     "file": "Handout-350-429.pdf"
+    },
+    {
+     "label": "modular arithmetic for polynomials",
+     "file": "Handout-351-429.pdf"
+    },
+    {
+     "label": "practice computing residues",
+     "file": "Handout-352-429.pdf"
+    }
+   ]
+  },
+  {
+   "event": "421",
+   "date": "4/8/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Taxicab Geometry, or When a circle is a square (Olga Radko)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "taxicabgeometry",
+     "file": "Handout-348-421.pdf"
+    }
+   ]
+  },
+  {
+   "event": "424",
+   "date": "4/8/2012",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Absolute Values and the p-adics -- Jaclyn Lang",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "absolute values handout",
+     "file": "Handout-349-424.pdf"
+    }
+   ]
+  },
+  {
+   "event": "428",
+   "date": "4/8/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Spring Introduction",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "review",
+     "file": "Handout-344-428.pdf"
+    }
+   ]
+  },
+  {
+   "event": "462",
+   "date": "5/13/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Combination II",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combination ii",
+     "file": "Handout-377-462.pdf"
+    }
+   ]
+  },
+  {
+   "event": "463",
+   "date": "5/20/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Balancing and Falling",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "balancingandfallingi",
+     "file": "Handout-379-463.pdf"
+    }
+   ]
+  },
+  {
+   "event": "465",
+   "date": "5/20/2012",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Enumerative Combinatorics -- Jed Yang",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "enumerative combinatorics",
+     "file": "Handout-380-465.pdf"
+    }
+   ]
+  },
+  {
+   "event": "474",
+   "date": "5/27/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Combinations III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combination iii",
+     "file": "Handout-383-474.pdf"
+    }
+   ]
+  },
+  {
+   "event": "447",
+   "date": "5/6/2012",
+   "year": 2011,
+   "group": "LAMC Beginners",
+   "topic": "Proofs and Proving IV: Proof By Picture?",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "proofs4",
+     "file": "Handout-373-447.pdf"
+    }
+   ]
+  },
+  {
+   "event": "448",
+   "date": "5/6/2012",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Gambling and Probability -- Ben Krause",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "talk abstract",
+     "file": "Handout-369-448.pdf"
+    }
+   ]
+  },
+  {
+   "event": "455",
+   "date": "5/6/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Combinations - I",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinations i",
+     "file": "Handout-372-455.pdf"
+    }
+   ]
+  },
+  {
+   "event": "476",
+   "date": "6/3/2012",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Graph III",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph iii",
+     "file": "Handout-387-476.pdf"
+    }
+   ]
+  },
+  {
+   "event": "307",
+   "date": "9/25/2011",
+   "year": 2011,
+   "group": "LAMC Advanced",
+   "topic": "Continued Fractions (Mike Hall)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "continued fractions",
+     "file": "Handout-246-307.pdf"
+    }
+   ]
+  },
+  {
+   "event": "301",
+   "date": "9/25/2011",
+   "year": 2011,
+   "group": "LAMC High School",
+   "topic": "Introduction to Geometry, or Is your World Flat? (Part I) -- Dr. Oleg Gleizer",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometry i",
+     "file": "Handout-241-301.pdf"
+    }
+   ]
+  },
+  {
+   "event": "308",
+   "date": "9/25/2011",
+   "year": 2011,
+   "group": "LAMC Intermediate",
+   "topic": "Parity - I (Farzin Barekat, John Lensmire)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "parity - i",
+     "file": "Handout-244-308.pdf"
+    }
+   ]
+  }
+ ]
+}

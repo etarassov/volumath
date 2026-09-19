@@ -1,0 +1,2206 @@
+{
+ "unit": "groups-talks",
+ "source": "ucla-lamc",
+ "title": "Group A/B and one-off talks, 2007-2020",
+ "id_block": [
+  "4801",
+  "5000"
+ ],
+ "status": "pending",
+ "sessions_total": 145,
+ "sessions_with_answers": 17,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "2116",
+   "date": "7/12/2020",
+   "year": 2020,
+   "group": "Middle School Summer Club",
+   "topic": "Week 2 - Combinatorics",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lecture notes",
+     "file": "Handout-2425-2116.pdf"
+    },
+    {
+     "label": "amc 8 combinatorics problems + links to solutions",
+     "file": "Handout-2426-2116.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2124",
+   "date": "7/19/2020",
+   "year": 2020,
+   "group": "Middle School Summer Club",
+   "topic": "Week 3 - Statistics and Probability",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "in-class slides",
+     "file": "Handout-2415-2124.pdf"
+    },
+    {
+     "label": "amc 8 stats &amp; probability problems + links to solutions",
+     "file": "Handout-2416-2124.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2133",
+   "date": "7/26/2020",
+   "year": 2020,
+   "group": "Middle School Summer Club",
+   "topic": "Week 4 - Number Theory",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lecture notes",
+     "file": "Handout-2423-2133.pdf"
+    },
+    {
+     "label": "amc 8 number theory problems + links to solutions",
+     "file": "Handout-2424-2133.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2137",
+   "date": "8/2/2020",
+   "year": 2020,
+   "group": "Middle School Summer Club",
+   "topic": "Week 5 - Geometry",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "in-class slides",
+     "file": "Handout-2430-2137.pdf"
+    },
+    {
+     "label": "amc 8 geometry problems + links to solutions",
+     "file": "Handout-2431-2137.pdf"
+    }
+   ]
+  },
+  {
+   "event": "2151",
+   "date": "8/9/2020",
+   "year": 2020,
+   "group": "Middle School Summer Club",
+   "topic": "Week 6 - Miscellaneous",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "lecture notes",
+     "file": "Handout-2444-2151.pdf"
+    },
+    {
+     "label": "amc 8 miscellaneous problems + links to solutions",
+     "file": "Handout-2445-2151.pdf"
+    }
+   ]
+  },
+  {
+   "event": "205",
+   "date": "11/14/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "How (Not) To Divvy Up Seats In Congress, etc. (Clint's group)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "divvying up seats problems",
+     "file": "Handout-186-205.pdf"
+    },
+    {
+     "label": "divvying up seats solutions",
+     "file": "Handout-187-205.pdf"
+    }
+   ]
+  },
+  {
+   "event": "206",
+   "date": "11/21/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Complex Numbers and Geometry, ctd (Mike, 6221), Voting: Power, Procedures, and Problems (Clint)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "voting problems",
+     "file": "Handout-189-206.pdf"
+    },
+    {
+     "label": "voting solutions",
+     "file": "Handout-190-206.pdf"
+    }
+   ]
+  },
+  {
+   "event": "209",
+   "date": "11/7/2010",
+   "year": 2010,
+   "group": "Group B",
+   "topic": "An Introduction to Tropical Mathematics - Prof. Bryant Matthews (Azusa Pacific University)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "tropical mathematics",
+     "file": "Handout-183-209.pdf"
+    },
+    {
+     "label": "tropical mathematics: solutions",
+     "file": "Handout-184-209.pdf"
+    },
+    {
+     "label": "tropical mathematics: graphs",
+     "file": "Handout-185-209.pdf"
+    }
+   ]
+  },
+  {
+   "event": "208",
+   "date": "12/5/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Math Relays!",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "clint&#039;s group relay problems",
+     "file": "Handout-192-208.pdf"
+    },
+    {
+     "label": "clint&#039;s group relay answers",
+     "file": "Handout-193-208.pdf"
+    }
+   ]
+  },
+  {
+   "event": "156",
+   "date": "4/11/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Problems with Trees (Clint, 6201) Combinatorial Game Theory (Mike, 6221)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "trees and trees",
+     "file": "Handout-122-156.pdf"
+    },
+    {
+     "label": "trees and trees solutions",
+     "file": "Handout-126-156.pdf"
+    },
+    {
+     "label": "game theory",
+     "file": "Handout-141-156.pdf"
+    }
+   ]
+  },
+  {
+   "event": "158",
+   "date": "4/18/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Games (Mike, 6221), Graph Theory (Clint, 6201)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "graph theory 1",
+     "file": "Handout-125-158.pdf"
+    },
+    {
+     "label": "graph theory i solutions",
+     "file": "Handout-128-158.pdf"
+    },
+    {
+     "label": "games",
+     "file": "Handout-131-158.pdf"
+    }
+   ]
+  },
+  {
+   "event": "153",
+   "date": "4/4/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Nim, ctd. (Mike, 6221), Pigeonhole Principle (Clint, 6201)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "pigeonhole principle",
+     "file": "Handout-119-153.pdf"
+    },
+    {
+     "label": "pigeonhole principle solutions",
+     "file": "Handout-123-153.pdf"
+    },
+    {
+     "label": "nim handout",
+     "file": "Handout-140-153.pdf"
+    }
+   ]
+  },
+  {
+   "event": "160",
+   "date": "5/2/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Graph Theory (Clint, MS 6201), Induction (Mike, MS 6221)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "graph theory 2",
+     "file": "Handout-132-160.pdf"
+    },
+    {
+     "label": "graph theory 2 solutions",
+     "file": "Handout-133-160.pdf"
+    },
+    {
+     "label": "induction problems",
+     "file": "Handout-148-160.pdf"
+    }
+   ]
+  },
+  {
+   "event": "165",
+   "date": "5/9/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Some Logic Problems (Clint, MS 6201), Induction Continued (Mike, MS 6221)",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "logic puzzles handout",
+     "file": "Handout-135-165.pdf"
+    },
+    {
+     "label": "graph theory 3",
+     "file": "Handout-136-165.pdf"
+    },
+    {
+     "label": "graph theory 3 solutions",
+     "file": "Handout-137-165.pdf"
+    },
+    {
+     "label": "induction problems",
+     "file": "Handout-149-165.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId68-1.pdf",
+   "date": "4/19/2009",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Probability and Independence Group B: Public key cryptography",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "public key cryptography",
+     "file": "handoutId68-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId36-3.pdf",
+   "date": "9/21/2008",
+   "year": 2008,
+   "group": "Welcome back!",
+   "topic": "",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions: geometry",
+     "file": "handoutId36-3.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId36-2.pdf",
+   "date": "9/21/2008",
+   "year": 2008,
+   "group": "Welcome back!",
+   "topic": "",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "solutions: algebra",
+     "file": "handoutId36-2.pdf"
+    }
+   ]
+  },
+  {
+   "event": "222",
+   "date": "1/16/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "More on Length, Perimeter, Circumference (Clint's group)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "onemoretimearound",
+     "file": "Handout-197-222.pdf"
+    }
+   ]
+  },
+  {
+   "event": "223",
+   "date": "1/23/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "How Much Paint? -- A First Look at Area (Clint's group)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "how much paint--area",
+     "file": "Handout-202-223.pdf"
+    }
+   ]
+  },
+  {
+   "event": "234",
+   "date": "1/23/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Topics in Plane Geometry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geometry",
+     "file": "Handout-208-234.pdf"
+    }
+   ]
+  },
+  {
+   "event": "224",
+   "date": "1/30/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "How Much Paint II: More on Area (Clint, Liz)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "fullareahandout",
+     "file": "Handout-204-224.pdf"
+    }
+   ]
+  },
+  {
+   "event": "237",
+   "date": "1/30/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Rigid Transformations (Mike, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "rigid transformations",
+     "file": "Handout-207-237.pdf"
+    }
+   ]
+  },
+  {
+   "event": "231",
+   "date": "1/9/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Triangle Inequality (Mike, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "triangle inequality",
+     "file": "Handout-196-231.pdf"
+    }
+   ]
+  },
+  {
+   "event": "221",
+   "date": "1/9/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "All the Way Around: Perimeter and Circumference (Clint's group)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "allthewayaround",
+     "file": "Handout-195-221.pdf"
+    }
+   ]
+  },
+  {
+   "event": "190",
+   "date": "10/10/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Egyptian Fractions Part II (Clint), Monster Equations, ctd. (Mike, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "egyptian fractions ii",
+     "file": "Handout-163-190.pdf"
+    },
+    {
+     "label": "monster equations ii",
+     "file": "Handout-164-190.pdf"
+    }
+   ]
+  },
+  {
+   "event": "191",
+   "date": "10/10/2010",
+   "year": 2010,
+   "group": "Group B",
+   "topic": "Ben Krause - Adventures in modular arithmetic",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "introductory problems",
+     "file": "Handout-166-191.pdf"
+    },
+    {
+     "label": "remainder problems",
+     "file": "Handout-167-191.pdf"
+    },
+    {
+     "label": "modular arithmetic problems",
+     "file": "Handout-168-191.pdf"
+    },
+    {
+     "label": "modular arithmetic problems, 2",
+     "file": "Handout-169-191.pdf"
+    },
+    {
+     "label": "divisibility tests",
+     "file": "Handout-170-191.pdf"
+    },
+    {
+     "label": "hard problems",
+     "file": "Handout-171-191.pdf"
+    },
+    {
+     "label": "comments about the hard problems",
+     "file": "Handout-172-191.pdf"
+    }
+   ]
+  },
+  {
+   "event": "194",
+   "date": "10/17/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Egyptian multiplication (Alyssa Perez)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "spivak&#039;s problems",
+     "file": "Handout-174-194.pdf"
+    }
+   ]
+  },
+  {
+   "event": "192",
+   "date": "10/17/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Cubics and Complex Numbers (Mike, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "(same as last week&#039;s)",
+     "file": "Handout-205-192.pdf"
+    }
+   ]
+  },
+  {
+   "event": "198",
+   "date": "10/24/2010",
+   "year": 2010,
+   "group": "Group B",
+   "topic": "Braids, Knots, and other things with Strings (Jeff Hicks)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "knots, braids and string things",
+     "file": "Handout-178-198.pdf"
+    }
+   ]
+  },
+  {
+   "event": "187",
+   "date": "10/3/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Egyptian Fractions (Clint Givens), Monster Equations (Mike)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "egyptian fractions (clint)",
+     "file": "Handout-157-187.pdf"
+    },
+    {
+     "label": "monster equations (mike)",
+     "file": "Handout-160-187.pdf"
+    }
+   ]
+  },
+  {
+   "event": "185",
+   "date": "10/3/2010",
+   "year": 2010,
+   "group": "Group B",
+   "topic": "Complex Solutions to Plane Geometry Problems (Adrian Ioana, Clay Mathematics Institute and UCLA)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "complex numbers and plane geometry work sheet",
+     "file": "Handout-161-185.pdf"
+    }
+   ]
+  },
+  {
+   "event": "201",
+   "date": "10/31/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Greedy Is Good (Clint's group)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "greedy is good",
+     "file": "Handout-177-201.pdf"
+    }
+   ]
+  },
+  {
+   "event": "202",
+   "date": "10/31/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Cubics and Complex Numbers (Mike, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "a mathematical duel",
+     "file": "Handout-180-202.pdf"
+    }
+   ]
+  },
+  {
+   "event": "199",
+   "date": "10/31/2010",
+   "year": 2010,
+   "group": "Group B",
+   "topic": "Braids, Knots, and other things with Strings.(PART II)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "knots and braids, part ii",
+     "file": "Handout-179-199.pdf"
+    }
+   ]
+  },
+  {
+   "event": "216",
+   "date": "11/14/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Complex Numbers and Geometry (Mike, 6201)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "complex numbers!",
+     "file": "Handout-206-216.pdf"
+    }
+   ]
+  },
+  {
+   "event": "204",
+   "date": "11/7/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "When Greedy Fails: Cleverer Algorithms (Clint's group)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "when greedy fails",
+     "file": "Handout-181-204.pdf"
+    }
+   ]
+  },
+  {
+   "event": "243",
+   "date": "2/13/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Complex Numbers and Geometry, Ctd (Mike, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "complex numbers and transformations",
+     "file": "Handout-213-243.pdf"
+    }
+   ]
+  },
+  {
+   "event": "252",
+   "date": "2/20/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Complex Numbers and Analytic Geometry (Mike, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "complex numbers and analytic geometry",
+     "file": "Handout-217-252.pdf"
+    }
+   ]
+  },
+  {
+   "event": "246",
+   "date": "2/20/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Number Sequences and Figurate Numbers (Clint MS 3915G, Liz MS 6201)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "number sequences",
+     "file": "Handout-216-246.pdf"
+    }
+   ]
+  },
+  {
+   "event": "238",
+   "date": "2/6/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Rigid Transformations, Ctd (Mike, 6221), Projections & Levels (Clint 6229, Liz 6201)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "projections &amp; levels i",
+     "file": "Handout-209-238.pdf"
+    },
+    {
+     "label": "projections &amp; levels ii",
+     "file": "Handout-210-238.pdf"
+    },
+    {
+     "label": "rigid transformations",
+     "file": "Handout-211-238.pdf"
+    }
+   ]
+  },
+  {
+   "event": "265",
+   "date": "4/10/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Percentages (Clint 3915G, Liz 6201)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "percentages",
+     "file": "Handout-224-265.pdf"
+    }
+   ]
+  },
+  {
+   "event": "275",
+   "date": "4/17/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Percentages, cont. (Clint 3915G), Races (Liz 6201)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "races (liz&#039;s group only)",
+     "file": "Handout-225-275.pdf"
+    }
+   ]
+  },
+  {
+   "event": "264",
+   "date": "4/24/2011",
+   "year": 2010,
+   "group": "Group B",
+   "topic": "Keeping secrets secret - or not: cryptography (Prof. Christian Haesemeyer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "cryptography and cryptanalysis i: fun and games",
+     "file": "Handout-229-264.pdf"
+    }
+   ]
+  },
+  {
+   "event": "260",
+   "date": "4/3/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Sums and Averages (Clint 3915G, Liz 6201)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "sums + averages",
+     "file": "Handout-222-260.pdf"
+    }
+   ]
+  },
+  {
+   "event": "278",
+   "date": "5/1/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Racing, Clint (3915G) and Measurement, Liz (6201) (updated with more measurement materials)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "racing (clint)",
+     "file": "Handout-231-278.pdf"
+    },
+    {
+     "label": "measuring (liz)",
+     "file": "Handout-232-278.pdf"
+    }
+   ]
+  },
+  {
+   "event": "268",
+   "date": "5/1/2011",
+   "year": 2010,
+   "group": "Group B",
+   "topic": "Keeping secrets secret - or not: Cryptography Part 2 (Prof. Christian Haesemeyer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "cryptography and cryptanalysis i: fun and games",
+     "file": "Handout-228-268.pdf"
+    }
+   ]
+  },
+  {
+   "event": "287",
+   "date": "5/15/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Group Potpourri (Daniel Nghiem, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "group potpourri",
+     "file": "Handout-236-287.pdf"
+    }
+   ]
+  },
+  {
+   "event": "292",
+   "date": "5/22/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Number Bases and The Cantor Set (Mike, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "base conversion and the cantor set",
+     "file": "Handout-238-292.pdf"
+    }
+   ]
+  },
+  {
+   "event": "294",
+   "date": "5/22/2011",
+   "year": 2010,
+   "group": "Group B",
+   "topic": "Probability via problem solving (Prof. Marek Biskup)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability handout",
+     "file": "Handout-237-294.pdf"
+    }
+   ]
+  },
+  {
+   "event": "285",
+   "date": "5/8/2011",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Counting with Symmetry",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "counting with symmetry",
+     "file": "Handout-235-285.pdf"
+    }
+   ]
+  },
+  {
+   "event": "182",
+   "date": "9/26/2010",
+   "year": 2010,
+   "group": "Group A",
+   "topic": "Grid Luck (Clint Givens, MS5200) & Perplexing Puzzles (Mike Hall, MS6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "counting problems (mike)",
+     "file": "Handout-152-182.pdf"
+    },
+    {
+     "label": "grid luck (clint)",
+     "file": "Handout-153-182.pdf"
+    }
+   ]
+  },
+  {
+   "event": "186",
+   "date": "9/26/2010",
+   "year": 2010,
+   "group": "Group B",
+   "topic": "Walk The Dog - Rob Denomme",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "walk the dog ws",
+     "file": "Handout-156-186.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId126-0.pdf",
+   "date": "1/10/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Welcome Back!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "clint&#039;s group handout",
+     "file": "handoutId126-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "126",
+   "date": "1/10/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Welcome Back!",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mike&#039;s group handout",
+     "file": "Handout-99-126.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId128-0.pdf",
+   "date": "1/17/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Combinations and Pascal triangle (Clint Givens), Congruences and Proofs in Number Theory (Mike)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "clint&#039;s group handout",
+     "file": "handoutId128-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "128",
+   "date": "1/17/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Combinations and Pascal triangle (Clint Givens), Congruences and Proofs in Number Theory (Mike)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mike&#039;s group handout",
+     "file": "Handout-100-128.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId130-0.pdf",
+   "date": "1/24/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Parity (Clint), Proofs in Number Theory (Mike)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "clint&#039;s group parity handout",
+     "file": "handoutId130-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId120-1.pdf",
+   "date": "1/24/2010",
+   "year": 2009,
+   "group": "Group B",
+   "topic": "AMC 10 and 12 review (Luke Cherveny)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "trigonometry",
+     "file": "handoutId120-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId120-0.pdf",
+   "date": "1/24/2010",
+   "year": 2009,
+   "group": "Group B",
+   "topic": "AMC 10 and 12 review (Luke Cherveny)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "logarithms",
+     "file": "handoutId120-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "133",
+   "date": "1/31/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Proofs in Number Theory, ctd (Mike), Parity, ctd (Clint)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mike&#039;s group handout",
+     "file": "Handout-102-133.pdf"
+    },
+    {
+     "label": "clint&#039;s group handout",
+     "file": "Handout-112-133.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId95-3.pdf",
+   "date": "10/11/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Problem solving: Super secret spy staff, Venn's diagrams, and some number theory (Mike Hall and Carey Shenkman)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mike\\'s group handout",
+     "file": "handoutId95-3.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId95-2.pdf",
+   "date": "10/11/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Problem solving: Super secret spy staff, Venn's diagrams, and some number theory (Mike Hall and Carey Shenkman)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "carey\\'s group handout",
+     "file": "handoutId95-2.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId95-1.pdf",
+   "date": "10/11/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Problem solving: Super secret spy staff, Venn's diagrams, and some number theory (Mike Hall and Carey Shenkman)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "carey\\'s group handout",
+     "file": "handoutId95-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId95-0.pdf",
+   "date": "10/11/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Problem solving: Super secret spy staff, Venn's diagrams, and some number theory (Mike Hall and Carey Shenkman)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "carey\\'s group handout",
+     "file": "handoutId95-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId98-2.pdf",
+   "date": "10/18/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Combinatorics and Logic (Carey, room 6201); Divisibility and residues (Mike, room 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinatorics homework (carey)",
+     "file": "handoutId98-2.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId98-1.pdf",
+   "date": "10/18/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Combinatorics and Logic (Carey, room 6201); Divisibility and residues (Mike, room 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "logic arrows (carey)",
+     "file": "handoutId98-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId98-0.pdf",
+   "date": "10/18/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Combinatorics and Logic (Carey, room 6201); Divisibility and residues (Mike, room 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinatorics (carey)",
+     "file": "handoutId98-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId80-2.pdf",
+   "date": "10/18/2009",
+   "year": 2009,
+   "group": "Group B",
+   "topic": "Complex numbers - 1 (Prof. Kirby Baker)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "unit circle",
+     "file": "handoutId80-2.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId80-1.pdf",
+   "date": "10/18/2009",
+   "year": 2009,
+   "group": "Group B",
+   "topic": "Complex numbers - 1 (Prof. Kirby Baker)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "complex plane",
+     "file": "handoutId80-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId80-0.pdf",
+   "date": "10/18/2009",
+   "year": 2009,
+   "group": "Group B",
+   "topic": "Complex numbers - 1 (Prof. Kirby Baker)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "geoboard",
+     "file": "handoutId80-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId99-0.pdf",
+   "date": "10/25/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Number Theory (Mike) & Logic (Carey)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "numbertheoryproblems",
+     "file": "handoutId99-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId92-0.pdf",
+   "date": "10/4/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Map coloring and more (Michael Hall)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problem set",
+     "file": "handoutId92-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId78-0.pdf",
+   "date": "10/4/2009",
+   "year": 2009,
+   "group": "Group B",
+   "topic": "Continued fractions, part I (Prof. Christoph Thiele)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "continued fractions and a theorem by fermat",
+     "file": "handoutId78-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId106-1.pdf",
+   "date": "11/15/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Counting With Repetitions (Carey, 6201), Divisibility, gcd's, and lcm's Part I (Mike, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "homework",
+     "file": "handoutId106-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId106-0.pdf",
+   "date": "11/15/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Counting With Repetitions (Carey, 6201), Divisibility, gcd's, and lcm's Part I (Mike, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "in-class problems",
+     "file": "handoutId106-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId111-1.pdf",
+   "date": "11/15/2009",
+   "year": 2009,
+   "group": "Group B",
+   "topic": "Quadratic Reciprocity and Extensions to Cryptography (Paul Bunn)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "problem set",
+     "file": "handoutId111-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId111-0.pdf",
+   "date": "11/15/2009",
+   "year": 2009,
+   "group": "Group B",
+   "topic": "Quadratic Reciprocity and Extensions to Cryptography (Paul Bunn)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "handoutId111-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId114-1.pdf",
+   "date": "11/22/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Divisibility, gcd's, and lcm's Part II (Mike, 6221) Combinations, Colored Picross",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "colored picross",
+     "file": "handoutId114-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId114-0.pdf",
+   "date": "11/22/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Divisibility, gcd's, and lcm's Part II (Mike, 6221) Combinations, Colored Picross",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinations problems",
+     "file": "handoutId114-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "137",
+   "date": "2/14/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Mikes group: Proofs in Modular arithmetic (continued), Clint's group: Divisibility and Primes",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "clint&#039;s group handout",
+     "file": "Handout-114-137.pdf"
+    }
+   ]
+  },
+  {
+   "event": "138",
+   "date": "2/21/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Primes and Factorizations (Clint, MS 6201), Applications of Modular Arithmetic (Mike, MS 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mike&#039;s group warmup",
+     "file": "Handout-103-138.pdf"
+    },
+    {
+     "label": "mike&#039;s group handout i",
+     "file": "Handout-104-138.pdf"
+    },
+    {
+     "label": "mike&#039;s group handout ii",
+     "file": "Handout-105-138.pdf"
+    },
+    {
+     "label": "clint&#039;s group handout",
+     "file": "Handout-115-138.pdf"
+    }
+   ]
+  },
+  {
+   "event": "147",
+   "date": "2/28/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Binary Representation of Numbers (Mike), Loose Ends and Measurements (Clint)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mike&#039;s group handout",
+     "file": "Handout-106-147.pdf"
+    },
+    {
+     "label": "clint&#039;s group handout",
+     "file": "Handout-116-147.pdf"
+    }
+   ]
+  },
+  {
+   "event": "124",
+   "date": "2/28/2010",
+   "year": 2009,
+   "group": "Group B",
+   "topic": "Spherical Geometry - 2 (Prof. Igor Pak)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "maps, areas, and kissing numbers",
+     "file": "Handout-107-124.pdf"
+    }
+   ]
+  },
+  {
+   "event": "134",
+   "date": "2/7/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Divisibility (Clint), Proofs in Number Theory, ctd (Mike)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "clint&#039;s group handout",
+     "file": "Handout-113-134.pdf"
+    }
+   ]
+  },
+  {
+   "event": "149",
+   "date": "3/7/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Greatest Common Divisor, Least Common Multiple, etc. (Clint) Binary Notation, Nim (Mike)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "clint&#039;s group handout",
+     "file": "Handout-117-149.pdf"
+    }
+   ]
+  },
+  {
+   "event": "159",
+   "date": "4/25/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Induction (Mike, MS 6221), Graph Theory II (Clint, MS 6201)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "induction",
+     "file": "Handout-142-159.pdf"
+    }
+   ]
+  },
+  {
+   "event": "167",
+   "date": "5/16/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Binary, Other Bases, and Nim (Clint, 6201) Graph Theory (Mike, 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph theory problems",
+     "file": "Handout-150-167.pdf"
+    }
+   ]
+  },
+  {
+   "event": "161",
+   "date": "5/2/2010",
+   "year": 2009,
+   "group": "Group B",
+   "topic": "Introduction to Probability (Tim Austin)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "prelude to probability (read before the meeting)",
+     "file": "Handout-129-161.pdf"
+    }
+   ]
+  },
+  {
+   "event": "172",
+   "date": "5/23/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Binary + Nim, cont. (Clint, MS 6201), Graph Formulas (Mike, MS 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "nim and p-positions",
+     "file": "Handout-143-172.pdf"
+    },
+    {
+     "label": "graph formulas",
+     "file": "Handout-144-172.pdf"
+    }
+   ]
+  },
+  {
+   "event": "108",
+   "date": "5/30/2010",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "More Mathematical Games (Clint, MS 6201), Graphs and Map Coloring (Mike, MS 6221)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "graph formulas",
+     "file": "Handout-151-108.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId90-1.pdf",
+   "date": "9/27/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Mathematical Potpourri (Michael Hall)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "mathematical potpourri",
+     "file": "handoutId90-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId90-0.pdf",
+   "date": "9/27/2009",
+   "year": 2009,
+   "group": "Group A",
+   "topic": "Mathematical Potpourri (Michael Hall)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pictures",
+     "file": "handoutId90-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId88-0.pdf",
+   "date": "9/27/2009",
+   "year": 2009,
+   "group": "Group B",
+   "topic": "Fermat's last theorem (Prof. Jared Weinstein)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "fermat&#039;s last theorem",
+     "file": "handoutId88-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId54-0.pdf",
+   "date": "1/11/2009",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Combinatorics 1: Permutations. Group B: Modular arithmetic; Euclidean algorithm",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "modular arithmetic",
+     "file": "handoutId54-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId56-0.pdf",
+   "date": "1/25/2009",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Counting strategies; Group B: Quadratic residues (Prof. Jared Weinstein)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "quadratic residues",
+     "file": "handoutId56-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId40-2.pdf",
+   "date": "10/12/2008",
+   "year": 2008,
+   "group": "Problem Solving",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "angles and circles (group b)",
+     "file": "handoutId40-2.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId40-1.pdf",
+   "date": "10/12/2008",
+   "year": 2008,
+   "group": "Problem Solving",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "triangles (group b)",
+     "file": "handoutId40-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId40-0.pdf",
+   "date": "10/12/2008",
+   "year": 2008,
+   "group": "Problem Solving",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "divisibility (group a)",
+     "file": "handoutId40-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId41-1.pdf",
+   "date": "10/19/2008",
+   "year": 2008,
+   "group": "Circle meeting",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "point mass geometry",
+     "file": "handoutId41-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId41-0.pdf",
+   "date": "10/19/2008",
+   "year": 2008,
+   "group": "Circle meeting",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "logic",
+     "file": "handoutId41-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId43-1.pdf",
+   "date": "10/26/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Pigeonhole principle (M. Hall); Group B: Knots and Invariants (Prof. Manolescu)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "knots and invariants",
+     "file": "handoutId43-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId43-0.pdf",
+   "date": "10/26/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Pigeonhole principle (M. Hall); Group B: Knots and Invariants (Prof. Manolescu)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "pigeonhole principle",
+     "file": "handoutId43-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId38-1.pdf",
+   "date": "10/5/2008",
+   "year": 2008,
+   "group": "Problem solving",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "group b (geometry of triangles)",
+     "file": "handoutId38-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId38-0.pdf",
+   "date": "10/5/2008",
+   "year": 2008,
+   "group": "Problem solving",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "group a (parity)",
+     "file": "handoutId38-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId51-1.pdf",
+   "date": "11/16/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Induction (Olga Radko & Marisa Eisenberg); Group B: Cyclic quadrilaterals (Po-Shen Loh)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "cyclic quadrilaterals",
+     "file": "handoutId51-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId51-0.pdf",
+   "date": "11/16/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Induction (Olga Radko & Marisa Eisenberg); Group B: Cyclic quadrilaterals (Po-Shen Loh)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "induction",
+     "file": "handoutId51-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId44-1.pdf",
+   "date": "11/2/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Pigeonhole principle (part II); Group B: Point Mass Geometry (part II)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "point mass geometry (ii)",
+     "file": "handoutId44-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId44-0.pdf",
+   "date": "11/2/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Pigeonhole principle (part II); Group B: Point Mass Geometry (part II)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "point mass geometry (i)",
+     "file": "handoutId44-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId47-1.pdf",
+   "date": "11/23/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Graphs (Prof. Bruce Rothschild); Group B: Inversion with respect to a circle (Olga Radko)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inversion: workbook",
+     "file": "handoutId47-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId47-0.pdf",
+   "date": "11/23/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Graphs (Prof. Bruce Rothschild); Group B: Inversion with respect to a circle (Olga Radko)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inversion: problem set",
+     "file": "handoutId47-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId45-1.pdf",
+   "date": "11/9/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Trees; Group B:Theorems by Cheva and Menelaus",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "trees",
+     "file": "handoutId45-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId45-0.pdf",
+   "date": "11/9/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Trees; Group B:Theorems by Cheva and Menelaus",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "theorems by cheva and menelaus",
+     "file": "handoutId45-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId57-0.pdf",
+   "date": "2/1/2009",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Counting strategies; Group B: Unique factorization in exotic number systems (Prof. Jared Weinstein)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "unique factorization in exotic number systems",
+     "file": "handoutId57-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId60-0.pdf",
+   "date": "2/22/2009",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "TBA Group B: Diophantine equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "handoutId60-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId63-0.pdf",
+   "date": "3/15/2009",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Friendly Winter Team Contest Group B: Diophantine equations of higher degree: quadrics, cubics,... (Prof. Haesemeyer)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "non-linear diophantine equations",
+     "file": "handoutId63-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId68-0.pdf",
+   "date": "4/19/2009",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Probability and Independence Group B: Public key cryptography",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability and independence",
+     "file": "handoutId68-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId66-1.pdf",
+   "date": "4/5/2009",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Basic Probability Techniques; Group B: The mathematics of Images (a picture is worth a thousand words\\\"",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "image processing slides",
+     "file": "handoutId66-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId66-0.pdf",
+   "date": "4/5/2009",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Basic Probability Techniques; Group B: The mathematics of Images (a picture is worth a thousand words\\\"",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "image processing worksheets",
+     "file": "handoutId66-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId74-0.pdf",
+   "date": "5/24/2009",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "Expected Value (part II) Group B: Convolution, Mobius inversion, and why you might find them useful.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "sum-functions and convolution",
+     "file": "handoutId74-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId36-1.pdf",
+   "date": "9/21/2008",
+   "year": 2008,
+   "group": "Welcome back!",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "welcome problem set: geometry",
+     "file": "handoutId36-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId36-0.pdf",
+   "date": "9/21/2008",
+   "year": 2008,
+   "group": "Welcome back!",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "welcome problem set: algebra",
+     "file": "handoutId36-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId1222716848-1.pdf",
+   "date": "9/28/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "problem-solving techniques; Group B: geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "group a (parity)",
+     "file": "handoutId1222716848-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId1222716848-0.pdf",
+   "date": "9/28/2008",
+   "year": 2008,
+   "group": "Group A",
+   "topic": "problem-solving techniques; Group B: geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "group b (geometry of triangles)",
+     "file": "handoutId1222716848-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId18-0.pdf",
+   "date": "1/20/2008",
+   "year": 2007,
+   "group": "Circle meeting (Dimitri Shlyakhtenko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "shannon\\'s information theory",
+     "file": "handoutId18-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId10-0.pdf",
+   "date": "10/14/2007",
+   "year": 2007,
+   "group": "Introduction to Induction (Olga Radko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "introduction to induction",
+     "file": "handoutId10-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId11-0.pdf",
+   "date": "10/21/2007",
+   "year": 2007,
+   "group": "Essential Counting Strategies (Kevin Wang)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "counting strategies",
+     "file": "handoutId11-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId7-0.pdf",
+   "date": "10/28/2007",
+   "year": 2007,
+   "group": "Circle meeting (Luminita Vese)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "combinatorics",
+     "file": "handoutId7-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId6-0.pdf",
+   "date": "10/7/2007",
+   "year": 2007,
+   "group": "Circle meeting",
+   "topic": "(W. Fitz-Gibbon grades 8 & below, O. Radko, grades 9+)",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inequalities in geometry",
+     "file": "handoutId6-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId12-0.pdf",
+   "date": "11/11/2007",
+   "year": 2007,
+   "group": "Circle meeting (Dimitri Shlyakhtenko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "sections of polyhedra.",
+     "file": "handoutId12-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId13-0.pdf",
+   "date": "11/18/2007",
+   "year": 2007,
+   "group": "Circle meeting (Dimitri Shlyakhtenko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "dimensions of sets",
+     "file": "handoutId13-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId8-0.pdf",
+   "date": "11/4/2007",
+   "year": 2007,
+   "group": "Circle meeting (William Fitz-Gibbon)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "probability and counting",
+     "file": "handoutId8-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId15-0.pdf",
+   "date": "12/9/2007",
+   "year": 2007,
+   "group": "Circle meeting (Tamara Kucherenko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "inequalities",
+     "file": "handoutId15-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId24-1.pdf",
+   "date": "3/2/2008",
+   "year": 2007,
+   "group": "Similarity in plane geometry (Tamara Kucherenko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "solving problems involving similar triangles",
+     "file": "handoutId24-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId24-0.pdf",
+   "date": "3/2/2008",
+   "year": 2007,
+   "group": "Similarity in plane geometry (Tamara Kucherenko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "similar triangles",
+     "file": "handoutId24-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId28-1.pdf",
+   "date": "4/13/2008",
+   "year": 2007,
+   "group": "Study groups/Problem sets (Olga Radko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "trigonometry",
+     "file": "handoutId28-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId28-0.pdf",
+   "date": "4/13/2008",
+   "year": 2007,
+   "group": "Study groups/Problem sets (Olga Radko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "quadratic polynomials",
+     "file": "handoutId28-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId29-1.pdf",
+   "date": "4/20/2008",
+   "year": 2007,
+   "group": "Study Groups/Problem sets (Olga Radko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "trigonometry",
+     "file": "handoutId29-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId29-0.pdf",
+   "date": "4/20/2008",
+   "year": 2007,
+   "group": "Study Groups/Problem sets (Olga Radko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "quadratic polynomials",
+     "file": "handoutId29-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId30-1.pdf",
+   "date": "4/27/2008",
+   "year": 2007,
+   "group": "Probability in Action (Andrea Brose)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 2",
+     "file": "handoutId30-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId30-0.pdf",
+   "date": "4/27/2008",
+   "year": 2007,
+   "group": "Probability in Action (Andrea Brose)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout 1",
+     "file": "handoutId30-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId27-1.pdf",
+   "date": "4/6/2008",
+   "year": 2007,
+   "group": "Study Groups/Problem sets (Olga Radko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "trigonometry",
+     "file": "handoutId27-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId27-0.pdf",
+   "date": "4/6/2008",
+   "year": 2007,
+   "group": "Study Groups/Problem sets (Olga Radko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "quadratic equations",
+     "file": "handoutId27-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId2-1.pdf",
+   "date": "9/23/2007",
+   "year": 2007,
+   "group": "Circle meeting (Olga Radko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "win at nim!",
+     "file": "handoutId2-1.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId2-0.pdf",
+   "date": "9/23/2007",
+   "year": 2007,
+   "group": "Circle meeting (Olga Radko)",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "monthly contest",
+     "file": "handoutId2-0.pdf"
+    }
+   ]
+  },
+  {
+   "event": "handoutId5-0.pdf",
+   "date": "9/30/2007",
+   "year": 2007,
+   "group": "Circle meeting (Heather Calahan), MS4000A",
+   "topic": "",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "heuristics",
+     "file": "handoutId5-0.pdf"
+    }
+   ]
+  }
+ ]
+}

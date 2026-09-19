@@ -1,0 +1,1286 @@
+{
+ "unit": "adv-2025",
+ "source": "ucla-lamc",
+ "title": "Advanced (US grades 9-12), 2025-2026",
+ "id_block": [
+  "1001",
+  "1200"
+ ],
+ "status": "pending",
+ "sessions_total": 83,
+ "sessions_with_answers": 7,
+ "next_session": 0,
+ "imported": [],
+ "skipped": [],
+ "retired_ids": [],
+ "notes": "",
+ "updated": "2026-09-19",
+ "sessions": [
+  {
+   "event": "5208",
+   "date": "11/16/2025",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Linguistic puzzles.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4911-5208.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-4912-5208.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5178",
+   "date": "11/9/2025",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Symbol Strike and (if time remains) a Glimpse of Game Theory",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "symbol strike",
+     "file": "Handout-4900-5178.pdf"
+    },
+    {
+     "label": "intro to game theory",
+     "file": "Handout-4902-5178.pdf"
+    },
+    {
+     "label": "intro to game theory sols",
+     "file": "Handout-4903-5178.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5371",
+   "date": "3/1/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "De Bruijn Sequences",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4991-5371.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-4992-5371.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5420",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Definable sets.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5004-5420.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-5005-5420.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4955",
+   "date": "6/29/2025",
+   "year": 2025,
+   "group": "Advanced",
+   "topic": "Induction and Peano Axioms.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4785-4955.pdf"
+    },
+    {
+     "label": "answers",
+     "file": "Handout-4790-4955.pdf"
+    },
+    {
+     "label": "homework",
+     "file": "Handout-4791-4955.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4987",
+   "date": "7/20/2025",
+   "year": 2025,
+   "group": "Advanced",
+   "topic": "Intro to combinatorics and probability.",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4796-4987.pdf"
+    },
+    {
+     "label": "solutions",
+     "file": "Handout-4797-4987.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5068",
+   "date": "9/28/2025",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Symmetric group",
+   "has_solutions": true,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4839-5068.pdf"
+    },
+    {
+     "label": "sols",
+     "file": "Handout-4840-5068.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5576",
+   "date": "6/28/2026",
+   "year": 2026,
+   "group": "Advanced 1A",
+   "topic": "F=ma test",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5107-5576.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5590",
+   "date": "7/12/2026",
+   "year": 2026,
+   "group": "Advanced 1A",
+   "topic": "Geometry of masses 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5111-5590.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5592",
+   "date": "7/19/2026",
+   "year": 2026,
+   "group": "Advanced 1A",
+   "topic": "Geometry of masses 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5119-5592.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5605",
+   "date": "7/26/2026",
+   "year": 2026,
+   "group": "Advanced 1A",
+   "topic": "Geometry of masses 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5127-5605.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5644",
+   "date": "8/16/2026",
+   "year": 2026,
+   "group": "Advanced 1A",
+   "topic": "Geometry of masses 5.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5140-5644.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5618",
+   "date": "8/2/2026",
+   "year": 2026,
+   "group": "Advanced 1A",
+   "topic": "Geometry of masses 4.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5132-5618.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5660",
+   "date": "8/23/2026",
+   "year": 2026,
+   "group": "Advanced 1A",
+   "topic": "Introduction to Set Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5145-5660.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5240",
+   "date": "1/11/2026",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Set theory 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4933-5240.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5241",
+   "date": "1/11/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Set theory 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4934-5241.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5250",
+   "date": "1/11/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Generating functions.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4936-5250.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5251",
+   "date": "1/11/2026",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Foundations of Algebraic Geometry, part 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4937-5251.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5267",
+   "date": "1/18/2026",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Set theory 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4939-5267.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5268",
+   "date": "1/18/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Set theory 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4940-5268.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5264",
+   "date": "1/18/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Intro to probability.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4941-5264.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5263",
+   "date": "1/18/2026",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Polynomial method in combinatorics.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4943-5263.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5274",
+   "date": "1/25/2026",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Intro to linear algebra.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4949-5274.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5276",
+   "date": "1/25/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Intro to linear algebra.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4950-5276.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5291",
+   "date": "1/25/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Markov processes.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4952-5291.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5295",
+   "date": "1/25/2026",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Projective algebraic geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4953-5295.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5109",
+   "date": "10/12/2025",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Intro to projective geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4852-5109.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5119",
+   "date": "10/19/2025",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Lines and planes.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4863-5119.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5130",
+   "date": "10/19/2025",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Linear Algebra with Applications to Sequences and Series.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4865-5130.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5131",
+   "date": "10/19/2025",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Double ratio.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4866-5131.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5141",
+   "date": "10/26/2025",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Intro to Proofs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4880-5141.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5142",
+   "date": "10/26/2025",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Intro to Proofs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "intro to proofs packet",
+     "file": "Handout-4874-5142.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5147",
+   "date": "10/26/2025",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "One Day Explanation of Ordinary Differential Equations",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "student packet",
+     "file": "Handout-4875-5147.pdf"
+    },
+    {
+     "label": "instructor packet",
+     "file": "Handout-4876-5147.pdf"
+    },
+    {
+     "label": "student calculus packet",
+     "file": "Handout-4877-5147.pdf"
+    },
+    {
+     "label": "instructor calculus packet",
+     "file": "Handout-4878-5147.pdf"
+    },
+    {
+     "label": "source (zip)",
+     "file": "Handout-4879-5147.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5151",
+   "date": "10/26/2025",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Projective transformations.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4881-5151.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5092",
+   "date": "10/5/2025",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Intro to quantum computing.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4851-5092.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5091",
+   "date": "10/5/2025",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Isogonal property and conical sections.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4847-5091.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5206",
+   "date": "11/16/2025",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Symmetric Groups",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4910-5206.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5215",
+   "date": "11/16/2025",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Random Graph Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4913-5215.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5162",
+   "date": "11/2/2025",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Intro to Proofs, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4892-5162.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5163",
+   "date": "11/2/2025",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Intro to Proofs, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4893-5163.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5164",
+   "date": "11/2/2025",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Constant Coefficient Conundrums or A Guide to Guessing",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "student packet",
+     "file": "Handout-4889-5164.pdf"
+    },
+    {
+     "label": "instructor packet",
+     "file": "Handout-4890-5164.pdf"
+    },
+    {
+     "label": "source",
+     "file": "Handout-4891-5164.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5161",
+   "date": "11/2/2025",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Lattice fun.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4894-5161.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5179",
+   "date": "11/9/2025",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Lines and planes, part 1.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4899-5179.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5180",
+   "date": "11/9/2025",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Lines and planes, part 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4898-5180.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5188",
+   "date": "11/9/2025",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Intro to Fractals",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4901-5188.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5304",
+   "date": "2/1/2026",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Intro to Linear Algebra, packet 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4959-5304.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5305",
+   "date": "2/1/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Intro to Linear Algebra, packet 2.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4958-5305.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5313",
+   "date": "2/1/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "To Mock a Mockingbird.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4961-5313.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5336",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "3D affine space and axioms of Euclidean 3D geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4974-5336.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5337",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "3D affine space and axioms of Euclidean 3D geometry.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4973-5337.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5338",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Systems of Linear ODEs",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "student packet",
+     "file": "Handout-4970-5338.pdf"
+    },
+    {
+     "label": "instructor packet",
+     "file": "Handout-4971-5338.pdf"
+    },
+    {
+     "label": "source (zip)",
+     "file": "Handout-4972-5338.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5334",
+   "date": "2/15/2026",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Billiards.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4975-5334.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5347",
+   "date": "2/22/2026",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Intro to sheaves.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4986-5347.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5366",
+   "date": "3/1/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Intro to Linear Algebra, packet 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4990-5366.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5362",
+   "date": "3/1/2026",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Comments on sheaves.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4993-5362.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5433",
+   "date": "4/12/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Perspective.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "perspective",
+     "file": "Handout-5019-5433.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5439",
+   "date": "4/12/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Continued fractions.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5028-5439.pdf"
+    },
+    {
+     "label": "instructors&#039; handout",
+     "file": "Handout-5029-5439.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5452",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Perspective.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5034-5452.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5448",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Linguistics.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "linguistics",
+     "file": "Handout-5033-5448.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5449",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Geometric algebra and quaternions.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5035-5449.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5459",
+   "date": "4/19/2026",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Intro to Special Relativity.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5036-5459.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5465",
+   "date": "4/26/2026",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Intro to Linear Algebra, packet 3.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5050-5465.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5472",
+   "date": "4/26/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Math of juggling.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5051-5472.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5403",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Intro to Finance.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5000-5403.pdf"
+    },
+    {
+     "label": "home reading",
+     "file": "Handout-5001-5403.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5404",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Intro to Finance.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5002-5404.pdf"
+    },
+    {
+     "label": "home reading",
+     "file": "Handout-5003-5404.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5421",
+   "date": "4/5/2026",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Geometry of curves.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5006-5421.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5516",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "A brief intro to Calculus.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5072-5516.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5515",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "A brief intro to Calculus.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5073-5515.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5512",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Deterministic Finite Automata, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "additional handout",
+     "file": "Handout-5074-5512.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5524",
+   "date": "5/10/2026",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Knot Theory",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5071-5524.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5530",
+   "date": "5/17/2026",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "Intro to Mechanics.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5088-5530.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5531",
+   "date": "5/17/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "Intro to Mechanics.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5089-5531.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5536",
+   "date": "5/17/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Less Than 33 Linear Algebra Miniatures",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "student packet",
+     "file": "Handout-5082-5536.pdf"
+    },
+    {
+     "label": "instructor packet",
+     "file": "Handout-5083-5536.pdf"
+    },
+    {
+     "label": "source",
+     "file": "Handout-5084-5536.pdf"
+    },
+    {
+     "label": "bonus student problem",
+     "file": "Handout-5085-5536.pdf"
+    },
+    {
+     "label": "bonus instructor problem",
+     "file": "Handout-5086-5536.pdf"
+    },
+    {
+     "label": "bonus source",
+     "file": "Handout-5087-5536.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5544",
+   "date": "5/17/2026",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Geometry of surfaces.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5090-5544.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5488",
+   "date": "5/3/2026",
+   "year": 2025,
+   "group": "Advanced 1A",
+   "topic": "A Study of Measurement Errors as an Introduction to Differential Calculus.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5058-5488.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5489",
+   "date": "5/3/2026",
+   "year": 2025,
+   "group": "Advanced 1B",
+   "topic": "A Study of Measurement Errors as an Introduction to Differential Calculus.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5059-5489.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5495",
+   "date": "5/3/2026",
+   "year": 2025,
+   "group": "Advanced 2A",
+   "topic": "Deterministic Finite Automata.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "student&#039;s packet",
+     "file": "Handout-5060-5495.pdf"
+    },
+    {
+     "label": "instructor&#039;s packet",
+     "file": "Handout-5061-5495.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5564",
+   "date": "5/31/2026",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "27 lines on cubic surfaces.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-5099-5564.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4967",
+   "date": "7/13/2025",
+   "year": 2025,
+   "group": "Advanced",
+   "topic": "Induction, continued.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "the josephus problem.",
+     "file": "Handout-4793-4967.pdf"
+    }
+   ]
+  },
+  {
+   "event": "4988",
+   "date": "7/27/2025",
+   "year": 2025,
+   "group": "Advanced",
+   "topic": "Did Dream cheat?",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4807-4988.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5022",
+   "date": "8/17/2025",
+   "year": 2025,
+   "group": "Advanced",
+   "topic": "Euler's number.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4820-5022.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5006",
+   "date": "8/3/2025",
+   "year": 2025,
+   "group": "Advanced",
+   "topic": "A Study of Measurement Errors as an Introduction to Differential Calculus.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4810-5006.pdf"
+    }
+   ]
+  },
+  {
+   "event": "5070",
+   "date": "9/28/2025",
+   "year": 2025,
+   "group": "Advanced 3",
+   "topic": "Elementary properties of conics.",
+   "has_solutions": false,
+   "files": [
+    {
+     "label": "handout",
+     "file": "Handout-4841-5070.pdf"
+    }
+   ]
+  }
+ ]
+}
