@@ -1,0 +1,269 @@
+{
+ "unit": "geometry",
+ "source": "namc",
+ "title": "Lattice points, tilings and solids: Pick's theorem, Escher, Stomachion, Platonic solids",
+ "id_block": [
+  "5601",
+  "5700"
+ ],
+ "status": "done",
+ "files_total": 8,
+ "next_file": 8,
+ "imported": [
+  {
+   "id": "5601",
+   "grade": 9,
+   "difficulty": 3,
+   "file": "JohnsonSabloffPicksTheorem.pdf",
+   "title": "Une formule pour l'aire sur papier pointé (découverte de Pick)"
+  },
+  {
+   "id": "5602",
+   "grade": 9,
+   "difficulty": 2,
+   "file": "pickTomDavis.pdf",
+   "title": "La formule de Pick pour un rectangle"
+  },
+  {
+   "id": "5603",
+   "grade": 10,
+   "difficulty": 3,
+   "file": "pickTomDavis.pdf",
+   "title": "La formule de Pick pour un triangle rectangle"
+  },
+  {
+   "id": "5604",
+   "grade": 10,
+   "difficulty": 4,
+   "file": "JohnsonSabloffPicksTheorem.pdf",
+   "title": "Pas de triangle équilatéral sur le quadrillage"
+  },
+  {
+   "id": "5605",
+   "grade": 10,
+   "difficulty": 4,
+   "file": "pickTomDavis.pdf",
+   "title": "La formule de Pick quand il y a un trou"
+  },
+  {
+   "id": "5606",
+   "grade": 12,
+   "difficulty": 5,
+   "file": "JohnsonSabloffPicksTheorem.pdf",
+   "title": "Pas de théorème de Pick dans l'espace (tétraèdre de Reeve)"
+  },
+  {
+   "id": "5607",
+   "grade": 9,
+   "difficulty": 3,
+   "file": "ARodinEscherTilings.pdf",
+   "title": "Il n'y a que trois pavages réguliers"
+  },
+  {
+   "id": "5608",
+   "grade": 9,
+   "difficulty": 4,
+   "file": "ARodinEscherTilings.pdf",
+   "title": "N'importe quel quadrilatère pave le plan"
+  },
+  {
+   "id": "5609",
+   "grade": 10,
+   "difficulty": 4,
+   "file": "ARodinEscherTilings.pdf",
+   "title": "Trois polygones réguliers autour d'un point"
+  },
+  {
+   "id": "5610",
+   "grade": 8,
+   "difficulty": 3,
+   "file": "Stomachion-AS-ArchPuzzle_NCTM-1.pdf",
+   "title": "Les quatorze pièces du Stomachion"
+  },
+  {
+   "id": "5611",
+   "grade": 10,
+   "difficulty": 4,
+   "file": "PlatonicSolids.pdf",
+   "title": "Il n'y a que cinq solides de Platon"
+  },
+  {
+   "id": "5612",
+   "grade": 9,
+   "difficulty": 3,
+   "file": "PlatonicSolids.pdf",
+   "title": "Compter les arêtes du dodécaèdre sans le construire"
+  },
+  {
+   "id": "5613",
+   "grade": 9,
+   "difficulty": 4,
+   "file": "Mondrian_Art_Math_Activity.pdf",
+   "title": "Le meilleur tableau de Mondrian sur une toile 4 sur 4"
+  },
+  {
+   "id": "5614",
+   "grade": 10,
+   "difficulty": 3,
+   "file": "GoffCirclesofApollonius.pdf",
+   "title": "Le cercle glissé entre deux demi-cercles"
+  },
+  {
+   "id": "5615",
+   "grade": 11,
+   "difficulty": 4,
+   "file": "GoffCirclesofApollonius.pdf",
+   "title": "Les cercles de Ford et les fractions"
+  }
+ ],
+ "skipped": [
+  {
+   "file": "Stomachion-Handout-1.pdf",
+   "why": "Guide de manipulation : mélanger les 14 pièces et les remettre en carré. Le seul contenu écrit est « il y a 536 solutions », résultat d'ordinateur qu'un élève ne peut pas retrouver, plus des questions sur ce qui compte comme deux solutions distinctes. Rien à démontrer sur le papier. Les observations utiles du fichier (les pièces 2+3 et 5+6 restent toujours collées) ont été reprises dans le « Pour aller plus loin » de 5610."
+  },
+  {
+   "file": "ARodinEscherTilings.pdf",
+   "what": "Construction des tuiles à la Escher (découper un carré dans une fiche bristol, scotcher le morceau sur le côté opposé)",
+   "why": "Activité manuelle : rien à énoncer ni à résoudre sur le papier."
+  },
+  {
+   "file": "ARodinEscherTilings.pdf",
+   "what": "« Find all semi-regular tilings » (les 8 pavages archimédiens)",
+   "why": "Classification trop longue pour un exercice de club ; seul le cas de trois polygones autour d'un sommet a été retenu (5609). La partie manquante est de montrer quels sommets admissibles se prolongent réellement en pavage : 5.5.10 et 3.3.4.3.4 sont les cas instructifs."
+  },
+  {
+   "file": "GoffCirclesofApollonius.pdf",
+   "what": "Le problème d'Apollonius lui-même : combien de cercles sont tangents à trois cercles donnés",
+   "why": "La réponse est 8 en position générale, mais la démonstration passe par l'inversion, hors de portée du club. Réponse notée ici pour une reprise éventuelle."
+  },
+  {
+   "file": "Mondrian_Art_Math_Activity.pdf",
+   "what": "Toiles 5x5 à 8x8",
+   "why": "Seule la toile 4x4 a une démonstration d'optimalité assez courte. Scores minimaux vérifiés ici par recherche exhaustive : 3x3 donne 2, 4x4 donne 4, 5x5 donne 4. Le cas général est un problème ouvert."
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "Trois erreurs de source trouvées et corrigées dans les exercices écrits.",
+  "1) JohnsonSabloffPicksTheorem.pdf, section 6.2 : décrit une pyramide à 5 sommets (0,0,0),(1,0,0),(0,1,0),(1,1,0),(1,1,r) et affirme qu'elle porte 5 nœuds quel que soit r. Faux : son arête verticale de (1,1,0) à (1,1,r) contient r-1 nœuds de plus, donc 5 devient r+4. Le vrai tétraèdre de Reeve a 4 sommets, (0,0,0),(1,0,0),(0,1,0),(1,1,r), volume r/6, exactement 4 nœuds. C'est la version publiée en 5606.",
+  "2) PlatonicSolids.pdf : « a tetrahedron ... has three vertices, six edges, and four faces ». Le tétraèdre a quatre sommets. Signalé dans 5611 et 5612.",
+  "3) GoffCirclesofApollonius.pdf, extension 6b : propose des cercles de rayon 1 tangents à la droite graduée en chaque entier. Deux tels cercles se coupent (centres distants de 1, somme des rayons 2). Le bon rayon est 1/2, et c'est celui utilisé en 5615 (cercles de Ford, rayon 1/(2q²)).",
+  "Petite coquille sans conséquence dans pickTomDavis.pdf, partie VI : dans la preuve du cas à un trou, « I + B/2 = I - Ih + (Bo - Bh)/2 » devrait commencer par Io. Le résultat, lui, est juste.",
+  "Doublons repérés avec le bloc 6xxx (unités magazines), qui reprend les mêmes séances réimprimées dans MTCircular. Rien n'a été supprimé.",
+  "- 5607 « Il n'y a que trois pavages réguliers » (3e/3) vs 6007 et 6111 « Quels polygones réguliers pavent le plan ? » (3e/3, même dossier). Trois copies du même problème, à arbitrer.",
+  "- 5611 « Il n'y a que cinq solides de Platon » (2de/4) vs 6010 « Il n'existe que cinq solides de Platon » (2de/4, même dossier).",
+  "- 5614 « Le cercle glissé entre deux demi-cercles » (2de/3, calcul élémentaire) est voisin de 6012 « Le cercle qui se glisse entre trois cercles » (1re/3, formule de Descartes) : traitements et niveaux différents, pas le même exercice, mais à regarder.",
+  "- 5614 partage sa technique avec 2615 (UCLA, 2de/4, cercles posés sur une droite) sans être le même problème.",
+  "Lacunes comblées : théorème de Pick (0 avant, 6 exercices maintenant, dont le contre-exemple en dimension 3), pavages (0 avant, 3 exercices), Stomachion, Mondrian, cercles de Ford. Voronoi reste à 0 : aucun fichier de cette unité ne le traite (voir Firestations.pdf, qui appartient à une autre unité).",
+  "Les 8 fichiers de l'unité ont été lus en entier. Unité terminée.",
+  "Arbitrage du coordinateur, 2026-09-20 : 5607 conserve contre 6007 et 6111 ; 5611 conserve contre 6010. Les trois doublons sont retires."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "pickTomDavis.pdf",
+   "pages": 10,
+   "activity": "Pick’s Theorem",
+   "activity_url": "https://mathcircles.org/activity/picks-theorem/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry"
+   ]
+  },
+  {
+   "file": "JohnsonSabloffPicksTheorem.pdf",
+   "pages": 4,
+   "activity": "Pick’s Theorem",
+   "activity_url": "https://mathcircles.org/activity/picks-theorem/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry"
+   ]
+  },
+  {
+   "file": "ARodinEscherTilings.pdf",
+   "pages": 8,
+   "activity": "Art Meets Math: Escher&#8217;s Tilings",
+   "activity_url": "https://mathcircles.org/activity/art-meets-math-eschers-tilings/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry"
+   ]
+  },
+  {
+   "file": "Stomachion-AS-ArchPuzzle_NCTM-1.pdf",
+   "pages": 3,
+   "activity": "Stomachion (Archimedes’ Box)",
+   "activity_url": "https://mathcircles.org/activity/stomachion-archimedes-box/",
+   "audience": [
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "Stomachion-Handout-1.pdf",
+   "pages": 2,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "PlatonicSolids.pdf",
+   "pages": 4,
+   "activity": "I See Platonic solids In Your Future",
+   "activity_url": "https://mathcircles.org/activity/i-see-platonic-solids-in-your-future/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry"
+   ]
+  },
+  {
+   "file": "Mondrian_Art_Math_Activity.pdf",
+   "pages": 4,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "GoffCirclesofApollonius.pdf",
+   "pages": 4,
+   "activity": "A Problem Fit for a Princess: Apollonian Gaskets in History",
+   "activity_url": "https://mathcircles.org/activity/a-problem-fit-for-a-princess-apollonian-gaskets-in-history/",
+   "audience": [
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry"
+   ]
+  }
+ ]
+}

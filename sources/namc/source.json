@@ -1,0 +1,88 @@
+{
+  "id": "namc",
+  "name": "MathCircles.org (National Association of Math Circles)",
+  "url": "https://mathcircles.org/",
+  "original_language": "en",
+  "local_copy": "sources/originals/namc/",
+  "added": "2026-09-20",
+  "what_it_is": [
+    "The resource site of the National Association of Math Circles: 103 published",
+    "activities, each a session a facilitator can run with a group. Every activity carries",
+    "a taxonomy (audience, topic, materials) and most attach one or more PDFs.",
+    "It is a facilitator resource site, not a problem bank. Read what_to_expect below."
+  ],
+  "scale": {
+    "activities": 103,
+    "files_downloaded": 139,
+    "distinct_files": 115,
+    "files_handed_to_units": 86,
+    "files_excluded": 36,
+    "activities_with_no_file_of_their_own": 34
+  },
+  "audience_spread": {
+    "9th - 12th": 85,
+    "For Teachers": 83,
+    "6th - 8th": 82,
+    "College Level": 72,
+    "3rd - 5th": 29,
+    "1st - 2nd": 11,
+    "comment": "The 6th-12th bands map onto 4e to Terminale almost exactly, which is why this source was chosen."
+  },
+  "topic_spread": {
+    "Problem Solving / General": 40,
+    "Geometry": 37,
+    "Combinatorics": 32,
+    "Algebra / Arithmetic": 32,
+    "Number Theory": 26,
+    "Mathematical Games": 25,
+    "Mathematical Modeling": 14,
+    "Social Justice Mathematics": 5,
+    "Parity / Invariants": 3,
+    "Probability and Statistics": 3,
+    "Optimization": 1
+  },
+  "what_to_expect": [
+    "Most files are facilitator lesson plans, not problem sets. The Criss-Cross handout is",
+    "typical: two pages of 'Have students...', 'Ask them...', then nine problems at the end.",
+    "A file can look rich and carry one classic: Fay-ZenkTrioofFriendlyProblems.pdf is 29",
+    "pages of teaching steps whose entire mathematical content is the handshake count, and",
+    "it was excluded for that reason.",
+    "The Tom Davis handouts (catalan, diophantine, pickTomDavis, bignumbers) are expository",
+    "articles with problems embedded in prose, the same shape as the UCLA material.",
+    "Almost nothing carries a worked solution, so the importer solves and verifies everything.",
+    "Expect a low keep rate. Read a file, take the two or three problems that stand on their",
+    "own, record the rest with reasons."
+  ],
+  "overlap_warning": [
+    "This site leans on famous classics, and the collection already holds many of them from",
+    "Moscow, Lyon and UCLA. Checked before the run: the lockers problem is already 0303,",
+    "knights-and-liars appear in 8 files, Euler-characteristic material in 10, Koenigsberg",
+    "is 0234, the handshake count is already in.",
+    "Genuine gaps this source can fill: Pick's theorem (0 in the collection), magic squares",
+    "(0), tilings and Escher (0), Catalan numbers (1), rational tangles (0), Voronoi (0).",
+    "ALWAYS search the database by statement before writing, never by source filename."
+  ],
+  "how_it_was_enumerated": [
+    "WordPress REST API: /wp-json/wp/v2/activity (103 records, taxonomy ids) and",
+    "/wp-json/wp/v2/media?mime_type=application/pdf (141 records). The activity pages are",
+    "built with Elementor, so content is empty over the API and the file links had to be",
+    "scraped from each activity's HTML. Taxonomy names come from /wp-json/wp/v2/audience,",
+    "/topics, /supporting_materials, /session_styles and /collection."
+  ],
+  "not_imported": {
+    "external_only_activities": {
+      "count": 34,
+      "what": "Activities with no file of their own; they link to mathcommunities.org (14), Google Drive (11), YouTube (17), mathpickle.com (6), jrmf.org (5) and others. Out of scope by decision: this import covers files hosted on mathcircles.org only."
+    },
+    "image_only_but_worth_recovering": [
+      "The-Pancake-Problem-Lesson-Plan.pdf",
+      "The-Factor-Game-Handouts.pdf",
+      "Apollonian-Circles1.pdf",
+      "beck.magic_.pdf",
+      "beck.pick_.handouts.pdf",
+      "SSantoricoMathemagicLeader.pdf",
+      "Borchelt_Activity.pdf"
+    ],
+    "comment": "The seven files above have no text layer at all. They are real activities, not junk, and a later pass can recover them by rendering pages at 300 dpi and reading them by eye. See sources/namc/excluded.json for the full exclusion list with reasons."
+  }
+}

@@ -1,0 +1,8 @@
+# Python packages the tools need.
+# Install with:  uv pip install -r requirements.txt
+#
+# pypdf + fonttools: tools/pdfsupers.py reads glyph geometry to recover exponents
+# that plain text extraction flattens. fonttools is needed to parse Type1 font
+# encodings; without it pypdf warns on every font and can misread characters.
+pypdf
+fonttools

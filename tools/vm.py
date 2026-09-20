@@ -315,6 +315,14 @@ def md_to_typst(markdown, source_dir):
     )
     if done.returncode != 0:
         sys.exit("pandoc failed:\n%s" % done.stderr)
+    # Pandoc returns 0 even when it cannot convert a maths command, and prints the
+    # whole thing on the page as raw LaTeX source instead. That used to be invisible
+    # here, so \dbinom and \og both reached built pages before anyone noticed. It
+    # does not catch everything (\tag and \left] fail without a word), but what it
+    # does catch is worth saying out loud.
+    for line in done.stderr.splitlines():
+        if line.strip():
+            print("pandoc %s" % line.strip(), file=sys.stderr)
     base = source_dir.relative_to(ROOT).as_posix()
 
     def fix(m):

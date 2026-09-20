@@ -2,7 +2,7 @@
 
 Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 
-875 exercice(s).
+1071 exercice(s).
 
 ## 4e
 
@@ -44,6 +44,9 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●○○○ | 4404 | Trois produits, une somme | [md](grade-08/arithmetic/2/4404-three-products-one-sum.md) |
 | ●●○○○ | 4411 | Le dernier chiffre de 2 puissance 50 | [md](grade-08/arithmetic/2/4411-last-digit-of-two-to-the-fifty.md) |
 | ●●○○○ | 4820 | Les sonneries de la pendule | [md](grade-08/arithmetic/2/4820-how-many-chimes-in-a-day.md) |
+| ●●○○○ | 5001 | Des frisbees et des ballons pour 52 euros | [md](grade-08/arithmetic/2/5001-frisbees-and-footballs-for-fifty-two-euros.md) |
+| ●●○○○ | 5704 | Torsion et rotation : quel nombre obtient-on ? | [md](grade-08/arithmetic/2/5704-twist-and-rotate-what-number.md) |
+| ●●○○○ | 5813 | Le chiffre de César | [md](grade-08/arithmetic/2/5813-the-caesar-shift.md) |
 | ●●●○○ | 0001 | Parité de n² + n | [md](grade-08/arithmetic/3/0001-parity-of-n-squared-plus-n.md) |
 | ●●●○○ | 0104 | Le nombre écrit au tableau | [md](grade-08/arithmetic/3/0104-the-number-on-the-board.md) |
 | ●●●○○ | 0106 | La pyramide de carreaux | [md](grade-08/arithmetic/3/0106-pyramid-of-odd-numbers.md) |
@@ -78,6 +81,11 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 4412 | Dix-huit cartes marquées 4 ou 5 | [md](grade-08/arithmetic/3/4412-eighteen-cards-marked-four-or-five.md) |
 | ●●●○○ | 4414 | Reste 1, reste 2, reste 3, reste 4, reste 5 | [md](grade-08/arithmetic/3/4414-remainders-one-two-three-four-five.md) |
 | ●●●○○ | 4823 | Les bûcherons et les troncs | [md](grade-08/arithmetic/3/4823-the-lumberjacks-and-the-logs.md) |
+| ●●●○○ | 5002 | Les impairs qui ne sont pas somme de deux nombres premiers | [md](grade-08/arithmetic/3/5002-odd-numbers-not-a-sum-of-two-primes.md) |
+| ●●●○○ | 5315 | La cage du KenKen qui vaut 120 | [md](grade-08/arithmetic/3/5315-the-kenken-cage-with-goal-120.md) |
+| ●●●○○ | 5411 | Les huit enveloppes | [md](grade-08/arithmetic/3/5411-the-eight-envelopes.md) |
+| ●●●○○ | 5412 | Les jours fériés de la république des Kangourous | [md](grade-08/arithmetic/3/5412-the-holidays-of-the-kangaroo-republic.md) |
+| ●●●○○ | 5803 | La table magique de Zvonkine | [md](grade-08/arithmetic/3/5803-zvonkin-magic-table.md) |
 | ●●●●○ | 0105 | Le plus petit nombre à somme de chiffres imposée | [md](grade-08/arithmetic/4/0105-smallest-number-with-a-given-digit-sum.md) |
 | ●●●●○ | 0127 | Faut-il marcher jusqu'à l'arrêt suivant ? | [md](grade-08/arithmetic/4/0127-walk-to-the-next-bus-stop.md) |
 | ●●●●○ | 0129 | Combien d'élèves ont passé le contrôle ? | [md](grade-08/arithmetic/4/0129-how-many-pupils-took-the-test.md) |
@@ -87,6 +95,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 0789 | Les scores impossibles aux fléchettes | [md](grade-08/arithmetic/4/0789-impossible-darts-scores.md) |
 | ●●●●○ | 4601 | Deux cent vingt-quatre entiers | [md](grade-08/arithmetic/4/4601-two-hundred-twenty-four-integers.md) |
 | ●●●●○ | 4824 | Cent animaux pour cent euros | [md](grade-08/arithmetic/4/4824-one-hundred-animals-for-one-hundred-euros.md) |
+| ●●●●○ | 5003 | La plaque d'immatriculation de la professeure | [md](grade-08/arithmetic/4/5003-the-professors-number-plate.md) |
 
 ### Algèbre
 
@@ -111,6 +120,8 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●○○○ | 4405 | Deux remises de 15 % ou une remise de 30 % | [md](grade-08/algebra/2/4405-two-discounts-of-fifteen-percent.md) |
 | ●●○○○ | 4406 | L'essence baisse de 20 % | [md](grade-08/algebra/2/4406-petrol-price-drops-twenty-percent.md) |
 | ●●○○○ | 4614 | L'âge qui se lit dans l'année de naissance | [md](grade-08/algebra/2/4614-age-read-in-the-birth-year.md) |
+| ●●○○○ | 5110 | Trois nombres à deux chiffres, un résultat à trois | [md](grade-08/algebra/2/5110-three-two-digit-numbers-and-a-three-digit-result.md) |
+| ●●○○○ | 5118 | Le tour du numéro de téléphone | [md](grade-08/algebra/2/5118-the-telephone-number-trick.md) |
 | ●●●○○ | 0181 | Le 2 qui passe à la fin | [md](grade-08/algebra/3/0181-six-digit-number-moving-the-leading-two.md) |
 | ●●●○○ | 0204 | L'escalier mécanique qui s'allonge | [md](grade-08/algebra/3/0204-escalator-that-gets-longer.md) |
 | ●●●○○ | 0230 | L'argent de Marie | [md](grade-08/algebra/3/0230-maries-coins-and-notes.md) |
@@ -125,6 +136,9 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 4209 | Le commerçant et sa remise | [md](grade-08/algebra/3/4209-the-shopkeeper-and-the-discount.md) |
 | ●●●○○ | 4413 | Quarante pour cent de garçons au club | [md](grade-08/algebra/3/4413-forty-percent-of-boys-at-the-club.md) |
 | ●●●○○ | 4821 | Un nombre moins son miroir | [md](grade-08/algebra/3/4821-a-two-digit-number-minus-its-reverse.md) |
+| ●●●○○ | 5109 | La table de multiplication et la plus grande somme | [md](grade-08/algebra/3/5109-the-multiplication-table-and-the-largest-sum.md) |
+| ●●●○○ | 5413 | Le livre de Bella | [md](grade-08/algebra/3/5413-the-pages-of-bellas-book.md) |
+| ●●●○○ | 6001 | La table de multiplication sur les doigts | [md](grade-08/algebra/3/6001-multiplying-on-your-fingers.md) |
 | ●●●●○ | 0151 | Ranger les carrés de trois nombres | [md](grade-08/algebra/4/0151-squares-of-three-ordered-numbers.md) |
 | ●●●●○ | 0205 | Trente marches en descendant, soixante-dix en montant | [md](grade-08/algebra/4/0205-thirty-down-seventy-up-escalator.md) |
 
@@ -174,6 +188,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●○○○ | 4211 | Les diagonales du cerf-volant | [md](grade-08/geometry/2/4211-the-diagonals-of-the-kite.md) |
 | ●●○○○ | 4212 | La diagonale de la boîte | [md](grade-08/geometry/2/4212-the-diagonal-of-the-box.md) |
 | ●●○○○ | 4213 | Les deux couloirs de la piste circulaire | [md](grade-08/geometry/2/4213-the-two-lanes-of-the-circular-track.md) |
+| ●●○○○ | 5408 | Des triangles à côtés entiers | [md](grade-08/geometry/2/5408-integer-sided-triangles-with-a-given-perimeter.md) |
 | ●●●○○ | 0226 | Deux bissectrices perpendiculaires | [md](grade-08/geometry/3/0226-two-perpendicular-bisectors.md) |
 | ●●●○○ | 0452 | Le carré recouvert en partie | [md](grade-08/geometry/3/0452-rectangle-laid-over-a-square.md) |
 | ●●●○○ | 0633 | Un point au bout de la diagonale | [md](grade-08/geometry/3/0633-a-point-beyond-the-diagonal.md) |
@@ -197,6 +212,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 4604 | Deux points de même couleur à un mètre | [md](grade-08/geometry/3/4604-two-points-of-the-same-colour-one-metre-apart.md) |
 | ●●●○○ | 4611 | La bissectrice intérieure et la bissectrice extérieure | [md](grade-08/geometry/3/4611-interior-and-exterior-bisector.md) |
 | ●●●○○ | 4612 | Au plus trois angles aigus | [md](grade-08/geometry/3/4612-at-most-three-acute-angles.md) |
+| ●●●○○ | 5610 | Les quatorze pièces du Stomachion | [md](grade-08/geometry/3/5610-the-fourteen-pieces-of-the-stomachion.md) |
 | ●●●●○ | 0108 | Découper un cube en petits cubes | [md](grade-08/geometry/4/0108-cutting-a-cube-into-unit-cubes.md) |
 | ●●●●○ | 0227 | Trois demi-droites et deux bissectrices | [md](grade-08/geometry/4/0227-three-rays-and-two-bisectors.md) |
 | ●●●●○ | 0780 | Le losange caché dans le carré | [md](grade-08/geometry/4/0780-rhombus-hidden-in-the-square.md) |
@@ -232,6 +248,9 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●○○○ | 3803 | Les nombres écrits avec les chiffres de 2004 | [md](grade-08/combinatorics/2/3803-the-digits-of-2004.md) |
 | ●●○○○ | 4002 | Trois films en trois langues | [md](grade-08/combinatorics/2/4002-three-films-in-three-languages.md) |
 | ●●○○○ | 4214 | Cent villes, quatre routes chacune | [md](grade-08/combinatorics/2/4214-one-hundred-towns-four-roads-each.md) |
+| ●●○○○ | 5313 | Les paires bien espacées | [md](grade-08/combinatorics/2/5313-pairs-with-a-gap.md) |
+| ●●○○○ | 5403 | Le jeu de SET et la carte qui complète | [md](grade-08/combinatorics/2/5403-the-set-deck-and-the-third-card.md) |
+| ●●○○○ | 6002 | Dix centimes, de combien de façons ? | [md](grade-08/combinatorics/2/6002-ten-cents-with-small-coins.md) |
 | ●●●○○ | 0103 | Un bouquet de vingt et une fleurs | [md](grade-08/combinatorics/3/0103-bouquet-of-twenty-one-flowers.md) |
 | ●●●○○ | 0153 | Combien de triangles avec dix points ? | [md](grade-08/combinatorics/3/0153-triangles-from-ten-points.md) |
 | ●●●○○ | 0155 | Chemins dans un quadrillage | [md](grade-08/combinatorics/3/0155-paths-in-a-grid.md) |
@@ -275,6 +294,8 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●○○○ | 4204 | Les cadenas du coffre au trésor | [md](grade-08/logic-reasoning/2/4204-the-locks-of-the-treasure-chest.md) |
 | ●●○○○ | 4408 | Douze poissons en trois jours | [md](grade-08/logic-reasoning/2/4408-twelve-fish-in-three-days.md) |
 | ●●○○○ | 4410 | Les vingt-cinq feuilles arrachées | [md](grade-08/logic-reasoning/2/4410-twenty-five-torn-out-sheets.md) |
+| ●●○○○ | 5217 | Déchirer une feuille en trois ou en cinq | [md](grade-08/logic-reasoning/2/5217-tearing-paper-into-three-or-five.md) |
+| ●●○○○ | 5317 | Une grille de KenKen 4 × 4 | [md](grade-08/logic-reasoning/2/5317-a-four-by-four-kenken.md) |
 | ●●●○○ | 0101 | Quatre lundis et quatre vendredis | [md](grade-08/logic-reasoning/3/0101-four-mondays-and-four-fridays.md) |
 | ●●●○○ | 0132 | Mesurer le temps avec des cordons qui brûlent | [md](grade-08/logic-reasoning/3/0132-measuring-time-with-burning-cords.md) |
 | ●●●○○ | 0228 | Trente par ligne, dix par colonne | [md](grade-08/logic-reasoning/3/0228-thirty-per-row-ten-per-column.md) |
@@ -295,6 +316,15 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 4609 | Le triangle magique | [md](grade-08/logic-reasoning/3/4609-the-magic-triangle.md) |
 | ●●●○○ | 4610 | Deux cyclistes à midi | [md](grade-08/logic-reasoning/3/4610-two-cyclists-at-noon.md) |
 | ●●●○○ | 4822 | Le coffre au trésor et les deux pythons | [md](grade-08/logic-reasoning/3/4822-which-chest-holds-the-treasure.md) |
+| ●●●○○ | 5211 | Trente entiers dont le produit vaut 1 | [md](grade-08/logic-reasoning/3/5211-thirty-integers-whose-product-is-one.md) |
+| ●●●○○ | 5301 | Deux tas d'allumettes | [md](grade-08/logic-reasoning/3/5301-two-piles-of-matches.md) |
+| ●●●○○ | 5305 | Une allumette dans un tas, ou une dans chaque | [md](grade-08/logic-reasoning/3/5305-one-from-each-pile.md) |
+| ●●●○○ | 5409 | Dix lettres, dix chiffres | [md](grade-08/logic-reasoning/3/5409-ten-letters-ten-digits.md) |
+| ●●●○○ | 5414 | Les neuf cases et le nombre 6 | [md](grade-08/logic-reasoning/3/5414-the-nine-cells-and-the-six.md) |
+| ●●●○○ | 5801 | Les doigts qui voient | [md](grade-08/logic-reasoning/3/5801-fingers-that-can-see.md) |
+| ●●●○○ | 5802 | Enterrés dans le sable | [md](grade-08/logic-reasoning/3/5802-buried-in-the-sand.md) |
+| ●●●○○ | 5907 | Le carré magique 3 × 3 | [md](grade-08/logic-reasoning/3/5907-the-three-by-three-magic-square.md) |
+| ●●●○○ | 5909 | Découper les circonscriptions | [md](grade-08/logic-reasoning/3/5909-drawing-the-voting-districts.md) |
 | ●●●●○ | 0107 | Soixante-huit pièces, cent pesées | [md](grade-08/logic-reasoning/4/0107-sixty-eight-coins-in-a-hundred-weighings.md) |
 | ●●●●○ | 0131 | Vingt-cinq nombres, quatre par quatre | [md](grade-08/logic-reasoning/4/0131-twenty-five-numbers-four-at-a-time.md) |
 | ●●●●○ | 0133 | Huit verres à égaliser | [md](grade-08/logic-reasoning/4/0133-eight-glasses-to-equalize.md) |
@@ -309,6 +339,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 4602 | Deux invités qui connaissent autant de monde | [md](grade-08/logic-reasoning/4/4602-two-guests-with-the-same-number-of-acquaintances.md) |
 | ●●●●○ | 4605 | Le grand et le petit | [md](grade-08/logic-reasoning/4/4605-the-tall-man-and-the-short-man.md) |
 | ●●●●○ | 4607 | Trois sorcières et cinq chapeaux | [md](grade-08/logic-reasoning/4/4607-three-witches-and-five-hats.md) |
+| ●●●●○ | 5212 | La dernière perle de la boîte | [md](grade-08/logic-reasoning/4/5212-the-last-bead-in-the-box.md) |
 | ●●●●● | 4613 | Tous les employés répondent la même chose | [md](grade-08/logic-reasoning/5/4613-all-employees-give-the-same-answers.md) |
 
 ### Coloriage
@@ -324,6 +355,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 0811 | Un rectangle avec les cinq tétraminos | [md](grade-08/coloring/3/0811-a-rectangle-from-five-tetrominoes.md) |
 | ●●●○○ | 0812 | Vingt-cinq tétraminos en T | [md](grade-08/coloring/3/0812-twenty-five-t-tetrominoes.md) |
 | ●●●○○ | 0813 | Quinze T et un carré | [md](grade-08/coloring/3/0813-fifteen-t-pieces-and-one-square.md) |
+| ●●●○○ | 5902 | La souris et le cube de fromage | [md](grade-08/coloring/3/5902-the-mouse-and-the-cube-of-cheese.md) |
 | ●●●●○ | 0184 | La case qui reste libre | [md](grade-08/coloring/4/0184-uncovered-cell-in-a-five-by-five-square.md) |
 | ●●●●○ | 0810 | Le carrelage cassé | [md](grade-08/coloring/4/0810-the-broken-floor-tile.md) |
 | ●●●●○ | 0815 | Un chemin par les quatorze villes | [md](grade-08/coloring/4/0815-a-path-through-fourteen-towns.md) |
@@ -338,6 +370,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●○○○ | 1421 | Un nombre de trois chiffres et trois divisions | [md](grade-09/arithmetic/2/1421-a-three-digit-number-and-three-divisions.md) |
 | ●●○○○ | 3611 | Les diviseurs de 120 divisibles par 12 | [md](grade-09/arithmetic/2/3611-divisors-of-120-divisible-by-12.md) |
 | ●●○○○ | 4217 | Le PGCD ne dépasse jamais la différence | [md](grade-09/arithmetic/2/4217-the-gcd-never-exceeds-the-difference.md) |
+| ●●○○○ | 5004 | Simplifier une fraction énorme | [md](grade-09/arithmetic/2/5004-reduce-a-huge-fraction.md) |
 | ●●●○○ | 0253 | Somme des carrés de deux nombres impairs | [md](grade-09/arithmetic/3/0253-sum-of-two-odd-squares.md) |
 | ●●●○○ | 0301 | Un produit sans aucun zéro | [md](grade-09/arithmetic/3/0301-product-with-no-zeros.md) |
 | ●●●○○ | 0304 | Le réservoir et les trois bidons | [md](grade-09/arithmetic/3/0304-tank-and-three-cans.md) |
@@ -365,6 +398,15 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 4218 | Une fraction qui ne se simplifie jamais | [md](grade-09/arithmetic/3/4218-a-fraction-that-can-never-be-simplified.md) |
 | ●●●○○ | 4219 | Les nombres premiers et les multiples de 6 | [md](grade-09/arithmetic/3/4219-primes-and-multiples-of-six.md) |
 | ●●●○○ | 4220 | Les zéros à la fin de 100 ! | [md](grade-09/arithmetic/3/4220-the-zeros-at-the-end-of-one-hundred-factorial.md) |
+| ●●●○○ | 5005 | Les poupées et les trains électriques | [md](grade-09/arithmetic/3/5005-dolls-and-toy-trains.md) |
+| ●●●○○ | 5101 | Le chiffre manquant de 2²⁹ | [md](grade-09/arithmetic/3/5101-the-missing-digit-of-two-to-the-twenty-ninth.md) |
+| ●●●○○ | 5111 | Le grand nombre 123456789101112… | [md](grade-09/arithmetic/3/5111-the-big-number-one-two-three-up-to-two-thousand.md) |
+| ●●●○○ | 5119 | Le plus grand nombre avec trois 9 | [md](grade-09/arithmetic/3/5119-the-biggest-number-with-three-nines.md) |
+| ●●●○○ | 5701 | Défaire trois torsions | [md](grade-09/arithmetic/3/5701-undoing-three-twists.md) |
+| ●●●○○ | 5804 | Le professeur télépathe | [md](grade-09/arithmetic/3/5804-the-telepathic-teacher.md) |
+| ●●●○○ | 5806 | Un code par multiplication | [md](grade-09/arithmetic/3/5806-a-code-by-multiplication.md) |
+| ●●●○○ | 6003 | Les six cartes qui devinent un nombre | [md](grade-09/arithmetic/3/6003-the-six-magic-cards.md) |
+| ●●●○○ | 6101 | La base moins quatre | [md](grade-09/arithmetic/3/6101-writing-numbers-in-base-minus-four.md) |
 | ●●●●○ | 0254 | PGCD de tous les réarrangements de 123456789 | [md](grade-09/arithmetic/4/0254-gcd-of-digit-permutations.md) |
 | ●●●●○ | 0255 | Un âge égal à la somme des chiffres de son année de naissance | [md](grade-09/arithmetic/4/0255-age-equals-digit-sum-of-birth-year.md) |
 | ●●●●○ | 0302 | Le plus grand diviseur vaut 55 | [md](grade-09/arithmetic/4/0302-largest-proper-divisor-55.md) |
@@ -389,9 +431,15 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 4424 | Le produit des âges vaut 1664 | [md](grade-09/arithmetic/4/4424-product-of-ages-is-1664.md) |
 | ●●●●○ | 4615 | Un produit toujours pair | [md](grade-09/arithmetic/4/4615-a-product-that-is-always-even.md) |
 | ●●●●○ | 4816 | Les mille casiers | [md](grade-09/arithmetic/4/4816-the-thousand-lockers.md) |
+| ●●●●○ | 5006 | Les chameaux du vieil avare | [md](grade-09/arithmetic/4/5006-the-miser-and-his-camels.md) |
+| ●●●●○ | 5007 | Les 72 dindes du vieux registre | [md](grade-09/arithmetic/4/5007-seventy-two-turkeys-in-an-old-ledger.md) |
+| ●●●●○ | 5114 | Neuf chiffres dont le produit vaut 9 factorielle | [md](grade-09/arithmetic/4/5114-nine-digits-whose-product-is-nine-factorial.md) |
+| ●●●●○ | 5116 | Un multiple de 84 écrit avec des 6 et des 7 | [md](grade-09/arithmetic/4/5116-a-multiple-of-eighty-four-with-sixes-and-sevens.md) |
+| ●●●●○ | 5410 | Multiplié par 4, il se lit à l'envers | [md](grade-09/arithmetic/4/5410-multiplied-by-four-it-reads-backwards.md) |
 | ●●●●● | 0690 | Un nombre à cinq chiffres et son renversé | [md](grade-09/arithmetic/5/0690-five-digit-number-and-its-reverse.md) |
 | ●●●●● | 4617 | Un multiple qui ne s'écrit qu'avec des 1 | [md](grade-09/arithmetic/5/4617-a-multiple-written-only-with-ones.md) |
 | ●●●●● | 4620 | Cinq cents exercices dans l'année | [md](grade-09/arithmetic/5/4620-five-hundred-exercises-in-a-year.md) |
+| ●●●●● | 5008 | Le numéro à neuf chiffres | [md](grade-09/arithmetic/5/5008-the-nine-digit-number.md) |
 
 ### Algèbre
 
@@ -412,6 +460,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●○○○ | 4010 | Combien de solutions pour (x² − 5)² = 16 ? | [md](grade-09/algebra/2/4010-how-many-solutions-to-x-squared-minus-five-squared.md) |
 | ●●○○○ | 4216 | 8 999 999 est-il un nombre premier ? | [md](grade-09/algebra/2/4216-is-eight-million-nine-hundred-ninety-nine-thousand-nine-hundred-ninety-nine-prime.md) |
 | ●●○○○ | 4222 | Cinq carrés qui se suivent | [md](grade-09/algebra/2/4222-five-consecutive-squares.md) |
+| ●●○○○ | 5117 | Onze, quoi qu'il arrive | [md](grade-09/algebra/2/5117-eleven-whatever-happens.md) |
 | ●●●○○ | 0152 | Le plus grand rectangle de périmètre 4 | [md](grade-09/algebra/3/0152-largest-rectangle-with-given-perimeter.md) |
 | ●●●○○ | 0251 | Le numéro du fauteuil et le numéro de la rangée | [md](grade-09/algebra/3/0251-cinema-seat-and-row-numbers.md) |
 | ●●●○○ | 0256 | Quatre pêcheurs et leurs prises deux à deux | [md](grade-09/algebra/3/0256-four-anglers-pairwise-catches.md) |
@@ -438,6 +487,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 3201 | Quand |x² − 9| est un nombre premier | [md](grade-09/algebra/4/3201-when-x-squared-minus-nine-is-prime.md) |
 | ●●●●○ | 3202 | Six couples d'entiers pour xy + 3x + 4y = 13 | [md](grade-09/algebra/4/3202-xy-plus-3x-plus-4y-equals-13.md) |
 | ●●●●○ | 4817 | Le coureur sur le pont de chemin de fer | [md](grade-09/algebra/4/4817-the-runner-on-the-railway-bridge.md) |
+| ●●●●○ | 5108 | Multiplié par 4, il s'écrit à l'envers | [md](grade-09/algebra/4/5108-times-four-it-is-written-backwards.md) |
 | ●●●●● | 0640 | Deux règles et l'entier 13 | [md](grade-09/algebra/5/0640-two-rules-and-the-integer-13.md) |
 | ●●●●● | 0679 | Un produit de cinquante fractions | [md](grade-09/algebra/5/0679-product-of-fifty-fractions.md) |
 
@@ -451,6 +501,8 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●○○○ | 0830 | Les quatre triangles des milieux | [md](grade-09/geometry/2/0830-the-four-midpoint-triangles.md) |
 | ●●○○○ | 0832 | Un angle de 30 degrés et une parallèle | [md](grade-09/geometry/2/0832-thirty-degree-angle-and-a-parallel.md) |
 | ●●○○○ | 0887 | Trois droites concourantes et des parallèles | [md](grade-09/geometry/2/0887-concurrent-lines-and-parallels.md) |
+| ●●○○○ | 5502 | Quelle caserne arrivera la première ? | [md](grade-09/geometry/2/5502-which-fire-station-arrives-first.md) |
+| ●●○○○ | 5602 | La formule de Pick pour un rectangle | [md](grade-09/geometry/2/5602-picks-formula-for-a-rectangle.md) |
 | ●●●○○ | 0332 | Les cent tiges du jeu de construction | [md](grade-09/geometry/3/0332-hundred-sticks-one-check.md) |
 | ●●●○○ | 0351 | Deux triangles isocèles dans un triangle isocèle | [md](grade-09/geometry/3/0351-isosceles-split-into-two-isosceles.md) |
 | ●●●○○ | 0352 | Un angle de 45 degrés dans un triangle rectangle | [md](grade-09/geometry/3/0352-forty-five-degrees-in-a-right-triangle.md) |
@@ -474,6 +526,11 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 3225 | Un périmètre qui ne dépend pas du point choisi | [md](grade-09/geometry/3/3225-the-perimeter-that-does-not-depend-on-the-point.md) |
 | ●●●○○ | 4013 | Le rectangle posé sur le diamètre | [md](grade-09/geometry/3/4013-rectangle-standing-on-the-diameter.md) |
 | ●●●○○ | 4819 | Un quart des faces sont rouges | [md](grade-09/geometry/3/4819-a-quarter-of-the-faces-are-red.md) |
+| ●●●○○ | 5418 | Les seize parcelles de la ferme | [md](grade-09/geometry/3/5418-the-sixteen-fields-of-the-farm.md) |
+| ●●●○○ | 5601 | Une formule pour l'aire sur papier pointé | [md](grade-09/geometry/3/5601-a-formula-for-the-area-on-dot-paper.md) |
+| ●●●○○ | 5607 | Il n'y a que trois pavages réguliers | [md](grade-09/geometry/3/5607-there-are-only-three-regular-tilings.md) |
+| ●●●○○ | 5612 | Compter les arêtes du dodécaèdre sans le construire | [md](grade-09/geometry/3/5612-counting-the-edges-of-the-dodecahedron.md) |
+| ●●●○○ | 5915 | L'aire entre les deux traces du vélo | [md](grade-09/geometry/3/5915-the-area-between-the-two-bicycle-tracks.md) |
 | ●●●●○ | 0354 | Une différence de côtés égale à la bissectrice | [md](grade-09/geometry/4/0354-side-difference-equals-the-bisector.md) |
 | ●●●●○ | 0386 | La bissectrice et les aires | [md](grade-09/geometry/4/0386-bisector-and-areas.md) |
 | ●●●●○ | 0433 | Deux chèvres dans un pré triangulaire | [md](grade-09/geometry/4/0433-two-goats-in-a-triangular-field.md) |
@@ -488,6 +545,8 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 0913 | Quatre égalités qui fixent l'angle B | [md](grade-09/geometry/4/0913-four-equalities-fix-angle-b.md) |
 | ●●●●○ | 0914 | Un triangle où B vaut deux fois C | [md](grade-09/geometry/4/0914-angle-b-twice-angle-c.md) |
 | ●●●●○ | 4016 | Quatre points, six distances | [md](grade-09/geometry/4/4016-four-points-six-distances.md) |
+| ●●●●○ | 5608 | N'importe quel quadrilatère pave le plan | [md](grade-09/geometry/4/5608-any-quadrilateral-tiles-the-plane.md) |
+| ●●●●○ | 5613 | Le meilleur tableau de Mondrian sur une toile 4 sur 4 | [md](grade-09/geometry/4/5613-the-best-mondrian-painting-on-a-four-by-four-canvas.md) |
 | ●●●●● | 0665 | Deux équerres posées sur un triangle | [md](grade-09/geometry/5/0665-two-right-isosceles-triangles-on-a-triangle.md) |
 | ●●●●● | 0915 | Un périmètre qui ne change pas | [md](grade-09/geometry/5/0915-perimeter-that-never-changes.md) |
 
@@ -504,6 +563,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●○○○ | 3812 | Deux dés pas comme les autres | [md](grade-09/probability-statistics/2/3812-two-unusual-dice.md) |
 | ●●○○○ | 3813 | Plus de piles que de faces | [md](grade-09/probability-statistics/2/3813-more-heads-than-tails.md) |
 | ●●○○○ | 4014 | Deux boules tirées du sac | [md](grade-09/probability-statistics/2/4014-two-balls-drawn-from-the-bag.md) |
+| ●●○○○ | 5910 | Les deux dés peints en rouge et bleu | [md](grade-09/probability-statistics/2/5910-the-two-painted-dice.md) |
 | ●●●○○ | 0559 | Un cube peint découpé en mille | [md](grade-09/probability-statistics/3/0559-painted-cube-cut-into-thousand.md) |
 | ●●●○○ | 3612 | La grenouille et les cinq nénuphars | [md](grade-09/probability-statistics/3/3612-the-frog-and-the-water-lilies.md) |
 | ●●●○○ | 3814 | Les deux E du mot NEUVE | [md](grade-09/probability-statistics/3/3814-the-two-es-of-neuve.md) |
@@ -516,6 +576,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | --- | --- | --- | --- |
 | ●●○○○ | 0405 | La somme d'une ligne du triangle de Pascal | [md](grade-09/combinatorics/2/0405-sum-of-a-pascal-row.md) |
 | ●●○○○ | 4425 | Sept convives et sept chaises | [md](grade-09/combinatorics/2/4425-seven-guests-and-seven-chairs.md) |
+| ●●○○○ | 5209 | Des parties qui contiennent au moins un nombre premier | [md](grade-09/combinatorics/2/5209-subsets-with-at-least-one-prime.md) |
 | ●●●○○ | 0252 | Trois, quatre ou cinq amis dans la classe | [md](grade-09/combinatorics/3/0252-counting-friendships-in-a-class.md) |
 | ●●●○○ | 0279 | Neuf segments qui se croisent | [md](grade-09/combinatorics/3/0279-nine-segments-each-crossing-three.md) |
 | ●●●○○ | 0280 | Le ballon de football | [md](grade-09/combinatorics/3/0280-football-ball-patches.md) |
@@ -535,10 +596,20 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 4224 | Quinze villes, sept voisines chacune | [md](grade-09/combinatorics/3/4224-fifteen-towns-seven-neighbours.md) |
 | ●●●○○ | 4422 | Dix chiffres qui se suivent de 1 | [md](grade-09/combinatorics/3/4422-ten-digits-differing-by-one.md) |
 | ●●●○○ | 4619 | Trois dés qui totalisent 10 | [md](grade-09/combinatorics/3/4619-three-dice-totalling-ten.md) |
+| ●●●○○ | 5115 | Deux nombres brillants et leur somme | [md](grade-09/combinatorics/3/5115-two-brilliant-numbers-and-their-sum.md) |
+| ●●●○○ | 5203 | Écrire un nombre comme une somme ordonnée | [md](grade-09/combinatorics/3/5203-ordered-sums-of-a-whole-number.md) |
+| ●●●○○ | 5205 | Sept jetons, un nombre à trois chiffres | [md](grade-09/combinatorics/3/5205-three-digit-numbers-from-seven-tokens.md) |
+| ●●●○○ | 5208 | Les nombres à trois chiffres dont la somme des chiffres fait 9 | [md](grade-09/combinatorics/3/5208-three-digit-numbers-with-digit-sum-nine.md) |
+| ●●●○○ | 5219 | Neuf personnes sur une rangée de douze chaises | [md](grade-09/combinatorics/3/5219-nine-people-and-twelve-chairs.md) |
+| ●●●○○ | 5720 | Les croisements entre deux rangées de points | [md](grade-09/combinatorics/3/5720-crossings-between-two-rows-of-points.md) |
+| ●●●○○ | 6005 | La règle à quatre traits | [md](grade-09/combinatorics/3/6005-the-ruler-with-four-marks.md) |
+| ●●●○○ | 6108 | Trois crêpes et une spatule | [md](grade-09/combinatorics/3/6108-three-pancakes-and-the-spatula.md) |
 | ●●●●○ | 3222 | Les nombres montants divisibles par 15 | [md](grade-09/combinatorics/4/3222-climbing-numbers-divisible-by-fifteen.md) |
 | ●●●●○ | 4223 | Dix personnes et quatorze inimitiés | [md](grade-09/combinatorics/4/4223-ten-people-and-fourteen-feuds.md) |
 | ●●●●○ | 4420 | Cinq personnes, autant d'amis | [md](grade-09/combinatorics/4/4420-five-people-same-number-of-friends.md) |
 | ●●●●○ | 4622 | Trois professeurs et neuf chaises | [md](grade-09/combinatorics/4/4622-three-professors-and-nine-chairs.md) |
+| ●●●●○ | 5908 | Le loup et les moutons | [md](grade-09/combinatorics/4/5908-the-wolf-and-the-sheep.md) |
+| ●●●●○ | 6106 | Grenouilles et crapauds sur une bande | [md](grade-09/combinatorics/4/6106-frogs-and-toads-on-a-strip.md) |
 
 ### Logique et raisonnement
 
@@ -547,6 +618,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●○○○○ | 0628 | Deux familles de nombres impairs | [md](grade-09/logic-reasoning/1/0628-two-families-of-odd-numbers.md) |
 | ●●○○○ | 0276 | Victor et les rectangles | [md](grade-09/logic-reasoning/2/0276-bigger-rectangle-does-not-contain.md) |
 | ●●○○○ | 0632 | Retrouver X et Y | [md](grade-09/logic-reasoning/2/0632-find-x-and-y.md) |
+| ●●○○○ | 6112 | Trois façons de dépouiller le même vote | [md](grade-09/logic-reasoning/2/6112-three-ways-to-count-the-same-ballots.md) |
 | ●●●○○ | 0309 | Les pièces sur la table ronde | [md](grade-09/logic-reasoning/3/0309-coins-on-a-round-table.md) |
 | ●●●○○ | 0310 | La tablette de chocolat | [md](grade-09/logic-reasoning/3/0310-breaking-a-chocolate-bar.md) |
 | ●●●○○ | 0326 | Le jeu de la pendule | [md](grade-09/logic-reasoning/3/0326-clock-hand-game.md) |
@@ -561,6 +633,10 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 4419 | Les différences positives au tableau | [md](grade-09/logic-reasoning/3/4419-positive-differences-on-the-board.md) |
 | ●●●○○ | 4423 | Vingt-cinq habitants en file indienne | [md](grade-09/logic-reasoning/3/4423-twenty-five-people-in-a-line.md) |
 | ●●●○○ | 4818 | La voix unique de Cendrillon | [md](grade-09/logic-reasoning/3/4818-cinderellas-single-vote.md) |
+| ●●●○○ | 5214 | Repeindre une ligne ou une colonne entière | [md](grade-09/logic-reasoning/3/5214-repainting-rows-and-columns.md) |
+| ●●●○○ | 5302 | Le nombre à vingt chiffres et le nombre 7 | [md](grade-09/logic-reasoning/3/5302-a-twenty-digit-number-and-seven.md) |
+| ●●●○○ | 5306 | Retirer un diviseur, en partant de 60 | [md](grade-09/logic-reasoning/3/5306-subtract-a-divisor-from-sixty.md) |
+| ●●●○○ | 5809 | Les dossiers de l'inspecteur Craig | [md](grade-09/logic-reasoning/3/5809-inspector-craig-files.md) |
 | ●●●●○ | 0257 | Trente et un examens en cinq années | [md](grade-09/logic-reasoning/4/0257-thirty-one-exams-in-five-years.md) |
 | ●●●●○ | 0431 | Cinq pêcheurs et neuf poissons | [md](grade-09/logic-reasoning/4/0431-five-fishermen-nine-fish.md) |
 | ●●●●○ | 0432 | Sherlock Holmes et les vingt-cinq insulaires | [md](grade-09/logic-reasoning/4/0432-knights-and-liars.md) |
@@ -579,6 +655,9 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 3821 | Les mille bouteilles et les souris | [md](grade-09/logic-reasoning/4/3821-the-thousand-bottles.md) |
 | ●●●●○ | 4225 | Dix millions d'allumettes | [md](grade-09/logic-reasoning/4/4225-ten-million-matches.md) |
 | ●●●●○ | 4616 | Trois points de même couleur alignés | [md](grade-09/logic-reasoning/4/4616-three-points-of-the-same-colour-on-a-line.md) |
+| ●●●●○ | 5309 | Neuf cartes, une somme de 15 | [md](grade-09/logic-reasoning/4/5309-nine-cards-and-the-sum-fifteen.md) |
+| ●●●●○ | 5906 | Les deux marmites qui débordent | [md](grade-09/logic-reasoning/4/5906-the-two-bubbling-cauldrons.md) |
+| ●●●●○ | 6006 | Un triangle isocèle d'une seule couleur | [md](grade-09/logic-reasoning/4/6006-isosceles-triangle-on-a-two-coloured-circle.md) |
 | ●●●●● | 0456 | Le carré plié puis coupé | [md](grade-09/logic-reasoning/5/0456-folded-square-cut-in-half.md) |
 | ●●●●● | 0537 | Chevaliers, princesses et dragons | [md](grade-09/logic-reasoning/5/0537-knights-princesses-dragons-survivor.md) |
 | ●●●●● | 3822 | Treize enfants autour de la table | [md](grade-09/logic-reasoning/5/3822-thirteen-children-around-the-table.md) |
@@ -602,6 +681,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 
 | Difficulté | N° | Titre | Fichier |
 | --- | --- | --- | --- |
+| ●●○○○ | 5213 | Une équation sans la moindre solution | [md](grade-10/arithmetic/2/5213-an-equation-with-no-solution-at-all.md) |
 | ●●●○○ | 0283 | Combien de participants au congrès ? | [md](grade-10/arithmetic/3/0283-smallest-number-with-given-remainders.md) |
 | ●●●○○ | 0893 | Quand n + p est une puissance de n | [md](grade-10/arithmetic/3/0893-when-n-plus-p-is-a-power-of-n.md) |
 | ●●●○○ | 1215 | Dans quelles bases 2023 finit-il par 3 ? | [md](grade-10/arithmetic/3/1215-in-which-bases-does-2023-end-in-three.md) |
@@ -613,6 +693,11 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 3618 | Une suite qui finit par être divisible par 20 | [md](grade-10/arithmetic/3/3618-a-sequence-divisible-by-twenty.md) |
 | ●●●○○ | 4017 | Combien de cubes divisent 3! × 5! × 7! ? | [md](grade-10/arithmetic/3/4017-how-many-cubes-divide-it.md) |
 | ●●●○○ | 4814 | Une formule à nombres premiers, vraiment ? | [md](grade-10/arithmetic/3/4814-is-n-squared-plus-n-plus-41-always-prime.md) |
+| ●●●○○ | 5009 | Cent nombres composés à la suite | [md](grade-10/arithmetic/3/5009-a-hundred-composites-in-a-row.md) |
+| ●●●○○ | 5010 | Quels nombres premiers sont sommes de deux carrés ? | [md](grade-10/arithmetic/3/5010-which-primes-are-sums-of-two-squares.md) |
+| ●●●○○ | 5012 | Un produit divisible par 6 sans facteur divisible par 6 | [md](grade-10/arithmetic/3/5012-product-divisible-by-six-without-a-factor.md) |
+| ●●●○○ | 5407 | Le test des multiples de 3 au jeu de SET | [md](grade-10/arithmetic/3/5407-the-modulo-three-test-for-set.md) |
+| ●●●○○ | 6011 | Deux voisins qui n'ont jamais de diviseur commun | [md](grade-10/arithmetic/3/6011-neighbours-in-the-sum-triangle.md) |
 | ●●●●○ | 0281 | Les bactéries de l'éprouvette | [md](grade-10/arithmetic/4/0281-bacteria-in-a-test-tube.md) |
 | ●●●●○ | 0282 | Le tableau 10 × 10 de chiffres | [md](grade-10/arithmetic/4/0282-ten-by-ten-digit-table-divisible-by-three.md) |
 | ●●●●○ | 0284 | Le dernier chiffre d'une tour de 7 | [md](grade-10/arithmetic/4/0284-last-digit-of-a-tower-of-sevens.md) |
@@ -629,6 +714,16 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 3410 | Une équation à résoudre en nombres entiers | [md](grade-10/arithmetic/4/3410-an-equation-in-whole-numbers.md) |
 | ●●●●○ | 3411 | 101, 10101, 1010101, et ainsi de suite | [md](grade-10/arithmetic/4/3411-101-10101-1010101.md) |
 | ●●●●○ | 3823 | Les cubes qui divisent un produit de factorielles | [md](grade-10/arithmetic/4/3823-cubes-that-divide-a-product-of-factorials.md) |
+| ●●●●○ | 5011 | 1001 et la divisibilité par 7, 11 et 13 | [md](grade-10/arithmetic/4/5011-one-thousand-and-one-divisibility-tests.md) |
+| ●●●●○ | 5013 | Vingt-huit chiffres et le diviseur 396 | [md](grade-10/arithmetic/4/5013-twenty-eight-digits-and-the-divisor-396.md) |
+| ●●●●○ | 5102 | Faire 1 avec des 0 et des 8 | [md](grade-10/arithmetic/4/5102-making-one-with-zeros-and-eights.md) |
+| ●●●●○ | 5103 | Deux équations avec la somme des chiffres | [md](grade-10/arithmetic/4/5103-two-equations-with-the-digit-sum.md) |
+| ●●●●○ | 5105 | Quand la somme des chiffres est divisée par deux | [md](grade-10/arithmetic/4/5105-digit-sum-halved-by-adding-one.md) |
+| ●●●●○ | 5113 | Des carrés qui finissent par 444 | [md](grade-10/arithmetic/4/5113-squares-that-end-in-four-four-four.md) |
+| ●●●●○ | 5416 | Deux chiffres effacés dans 23! | [md](grade-10/arithmetic/4/5416-two-erased-digits-in-twenty-three-factorial.md) |
+| ●●●●○ | 5501 | Deux bidons de 5 et 12 litres | [md](grade-10/arithmetic/4/5501-two-jugs-of-five-and-twelve-litres.md) |
+| ●●●●○ | 5702 | On revient toujours à zéro | [md](grade-10/arithmetic/4/5702-always-back-to-zero.md) |
+| ●●●●○ | 6105 | Une solution géante en puissances | [md](grade-10/arithmetic/4/6105-a-giant-solution-of-x-to-the-x-times-y-to-the-y.md) |
 | ●●●●● | 0306 | Dix entiers consécutifs | [md](grade-10/arithmetic/5/0306-ten-consecutive-integers-coprime.md) |
 | ●●●●● | 3018 | Trois étoiles, neuf chiffres, un multiple de 37 | [md](grade-10/arithmetic/5/3018-nine-digits-with-three-stars-and-thirty-seven.md) |
 | ●●●●● | 3019 | Coller les nombres à deux chiffres jusqu'à tomber sur un multiple de 99 | [md](grade-10/arithmetic/5/3019-concatenating-two-digit-numbers-until-ninety-nine-divides.md) |
@@ -649,6 +744,8 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 3405 | La plus petite valeur d'une somme de deux carrés | [md](grade-10/algebra/3/3405-smallest-value-of-a-sum-of-squares.md) |
 | ●●●○○ | 3406 | Une équation avec une racine carrée | [md](grade-10/algebra/3/3406-an-equation-with-a-square-root.md) |
 | ●●●○○ | 3619 | Deux racines entières, l'une multiple de l'autre | [md](grade-10/algebra/3/3619-two-integer-roots-one-a-multiple-of-the-other.md) |
+| ●●●○○ | 5509 | Trouver y sans refaire le travail | [md](grade-10/algebra/3/5509-finding-y-without-redoing-the-work.md) |
+| ●●●○○ | 5703 | Retrancher 1 sans savoir retrancher | [md](grade-10/algebra/3/5703-subtracting-one-without-subtraction.md) |
 | ●●●●○ | 0890 | Une expression toujours positive | [md](grade-10/algebra/4/0890-always-nonnegative-expression.md) |
 | ●●●●○ | 0891 | Deux d'entre eux ont une somme au plus 2 | [md](grade-10/algebra/4/0891-two-of-them-sum-at-most-two.md) |
 | ●●●●○ | 0892 | Trois réels de somme nulle | [md](grade-10/algebra/4/0892-three-reals-summing-to-zero.md) |
@@ -657,6 +754,11 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 3204 | La bordure d'un mètre autour du tapis | [md](grade-10/algebra/4/3204-the-one-metre-border.md) |
 | ●●●●○ | 3206 | Une équation qui cache un produit | [md](grade-10/algebra/4/3206-an-equation-that-hides-a-product.md) |
 | ●●●●○ | 3208 | Le pourcentage de victoires après le tournoi | [md](grade-10/algebra/4/3208-the-win-ratio.md) |
+| ●●●●○ | 5107 | Le chiffre des unités passe devant | [md](grade-10/algebra/4/5107-the-units-digit-moves-to-the-front.md) |
+| ●●●●○ | 5216 | Quatre nombres et leurs six sommes deux à deux | [md](grade-10/algebra/4/5216-four-numbers-and-their-six-sums.md) |
+| ●●●●○ | 5504 | Choisir les coefficients d'une moyenne | [md](grade-10/algebra/4/5504-choosing-the-weights-of-an-average.md) |
+| ●●●●○ | 5506 | Trois entiers dont la somme est le produit | [md](grade-10/algebra/4/5506-three-integers-whose-sum-is-their-product.md) |
+| ●●●●○ | 5516 | Des lignes de nombres impairs qui font des cubes | [md](grade-10/algebra/4/5516-rows-of-odd-numbers-and-cubes.md) |
 
 ### Géométrie
 
@@ -674,6 +776,11 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 2622 | L'aire d'un hexagone connaissant deux sommets | [md](grade-10/geometry/3/2622-the-area-of-a-hexagon-from-two-vertices.md) |
 | ●●●○○ | 2623 | Deux façons de mesurer une distance | [md](grade-10/geometry/3/2623-two-ways-to-measure-a-distance.md) |
 | ●●●○○ | 4815 | Des angles qui se suivent régulièrement | [md](grade-10/geometry/3/4815-triangle-angles-in-arithmetic-progression.md) |
+| ●●●○○ | 5417 | La tangente issue du coin du carré | [md](grade-10/geometry/3/5417-the-tangent-from-the-corner-of-the-square.md) |
+| ●●●○○ | 5513 | Un cercle dans un trapèze isocèle | [md](grade-10/geometry/3/5513-a-circle-inside-an-isosceles-trapezoid.md) |
+| ●●●○○ | 5603 | La formule de Pick pour un triangle rectangle | [md](grade-10/geometry/3/5603-picks-formula-for-a-right-triangle.md) |
+| ●●●○○ | 5614 | Le cercle glissé entre deux demi-cercles | [md](grade-10/geometry/3/5614-the-circle-in-the-gap-of-two-half-circles.md) |
+| ●●●○○ | 5730 | Le partage des terres entre quatre fermes | [md](grade-10/geometry/3/5730-dividing-the-land-between-four-farms.md) |
 | ●●●●○ | 0259 | Sept segments, un triangle | [md](grade-10/geometry/4/0259-seven-segments-form-a-triangle.md) |
 | ●●●●○ | 0357 | Dix segments, un triangle caché | [md](grade-10/geometry/4/0357-ten-segments-and-a-hidden-triangle.md) |
 | ●●●●○ | 0360 | Construire toutes les racines carrées | [md](grade-10/geometry/4/0360-constructing-every-square-root.md) |
@@ -692,26 +799,46 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 3825 | Quatre points, six longueurs | [md](grade-10/geometry/4/3825-four-points-and-six-lengths.md) |
 | ●●●●○ | 4020 | Le triangle rectangle inscrit dans le carré | [md](grade-10/geometry/4/4020-right-triangle-inscribed-in-a-square.md) |
 | ●●●●○ | 4024 | L'aire du petit triangle EBF | [md](grade-10/geometry/4/4024-the-area-of-triangle-ebf.md) |
+| ●●●●○ | 5503 | La frontière entre deux casernes | [md](grade-10/geometry/4/5503-the-border-between-two-fire-stations.md) |
+| ●●●●○ | 5604 | Pas de triangle équilatéral sur le quadrillage | [md](grade-10/geometry/4/5604-no-equilateral-triangle-on-the-grid.md) |
+| ●●●●○ | 5605 | La formule de Pick quand il y a un trou | [md](grade-10/geometry/4/5605-picks-formula-when-there-is-a-hole.md) |
+| ●●●●○ | 5609 | Trois polygones réguliers autour d'un point | [md](grade-10/geometry/4/5609-three-regular-polygons-around-a-point.md) |
+| ●●●●○ | 5611 | Il n'y a que cinq solides de Platon | [md](grade-10/geometry/4/5611-there-are-exactly-five-platonic-solids.md) |
+| ●●●●● | 6104 | Quatre points, deux distances seulement | [md](grade-10/geometry/5/6104-four-points-with-only-two-distances.md) |
+
+### Fonctions et analyse
+
+| Difficulté | N° | Titre | Fichier |
+| --- | --- | --- | --- |
+| ●●●●○ | 5505 | Le foyer d'un diagramme de fonction | [md](grade-10/functions-analysis/4/5505-the-focus-of-a-function-diagram.md) |
+| ●●●●○ | 5515 | Le plus grand triangle à deux côtés de longueur 1 | [md](grade-10/functions-analysis/4/5515-the-largest-triangle-with-two-sides-of-length-one.md) |
 
 ### Probabilités et statistiques
 
 | Difficulté | N° | Titre | Fichier |
 | --- | --- | --- | --- |
 | ●●○○○ | 2821 | Le disque posé au hasard sur la table | [md](grade-10/probability-statistics/2/2821-the-disc-on-the-table.md) |
+| ●●●○○ | 5419 | Six nombres et une différence multiple de 5 | [md](grade-10/probability-statistics/3/5419-six-numbers-and-a-difference.md) |
+| ●●●○○ | 5511 | L'urne et les boules jetées | [md](grade-10/probability-statistics/3/5511-the-urn-and-the-discarded-balls.md) |
 | ●●●●○ | 3621 | La troisième case tombe-t-elle dans le rectangle ? | [md](grade-10/probability-statistics/4/3621-the-third-cell-inside-the-rectangle.md) |
 | ●●●●○ | 4018 | Un triangle dans l'octogone | [md](grade-10/probability-statistics/4/4018-a-triangle-in-the-octagon.md) |
+| ●●●●○ | 5311 | Le sac de jetons bleus et rouges | [md](grade-10/probability-statistics/4/5311-the-bag-of-blue-and-red-chips.md) |
 | ●●●●● | 0560 | Dix lancers contre onze | [md](grade-10/probability-statistics/5/0560-ten-tosses-against-eleven.md) |
 
 ### Dénombrement
 
 | Difficulté | N° | Titre | Fichier |
 | --- | --- | --- | --- |
+| ●○○○○ | 5512 | Choisir 48 cartes sur 52 | [md](grade-10/combinatorics/1/5512-choosing-forty-eight-cards-out-of-fifty-two.md) |
 | ●●○○○ | 2024 | Cinq routes au départ de chaque ville | [md](grade-10/combinatorics/2/2024-five-roads-per-city.md) |
 | ●●●○○ | 0335 | Peintres, philosophes et poètes | [md](grade-10/combinatorics/3/0335-painters-philosophers-and-poets.md) |
 | ●●●○○ | 0387 | Le code oublié | [md](grade-10/combinatorics/3/0387-the-forgotten-unlock-code.md) |
 | ●●●○○ | 0401 | Chemins dans un quadrillage | [md](grade-10/combinatorics/3/0401-paths-in-a-grid.md) |
 | ●●●○○ | 0402 | Six chiffres qui décroissent | [md](grade-10/combinatorics/3/0402-six-digit-decreasing-numbers.md) |
 | ●●●○○ | 0527 | Former des paires et des équipes | [md](grade-10/combinatorics/3/0527-splitting-people-into-pairs-and-teams.md) |
+| ●●●○○ | 5206 | Des palindromes de pile et de face | [md](grade-10/combinatorics/3/5206-palindromes-of-heads-and-tails.md) |
+| ●●●○○ | 5404 | Combien de SET dans le jeu ? | [md](grade-10/combinatorics/3/5404-how-many-sets-in-the-deck.md) |
+| ●●●○○ | 6109 | Ranger n crêpes en 2n − 3 retournements | [md](grade-10/combinatorics/3/6109-sorting-n-pancakes-in-2n-minus-3-flips.md) |
 | ●●●●○ | 0328 | En combien de morceaux n droites coupent-elles le plan ? | [md](grade-10/combinatorics/4/0328-n-lines-divide-the-plane.md) |
 | ●●●●○ | 0333 | Deux cases voisines de l'échiquier | [md](grade-10/combinatorics/4/0333-adjacent-cells-differ-by-five.md) |
 | ●●●●○ | 0383 | Les nombres qui résistent au demi-tour | [md](grade-10/combinatorics/4/0383-numbers-unchanged-upside-down.md) |
@@ -722,15 +849,28 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 3620 | Le meilleur rangement de cinq nombres | [md](grade-10/combinatorics/4/3620-the-best-arrangement-of-five-numbers.md) |
 | ●●●●○ | 3824 | Un triangle dans l'octogone | [md](grade-10/combinatorics/4/3824-a-triangle-in-the-octagon.md) |
 | ●●●●○ | 4019 | Un seul élève retrouve son chapeau | [md](grade-10/combinatorics/4/4019-exactly-one-student-gets-his-own-hat.md) |
+| ●●●●○ | 5120 | Les pièces du pays des Deux | [md](grade-10/combinatorics/4/5120-the-coins-of-the-land-of-twos.md) |
+| ●●●●○ | 5202 | Des poignées de main qui ne se croisent jamais | [md](grade-10/combinatorics/4/5202-handshakes-that-never-cross.md) |
+| ●●●●○ | 5220 | Onze nombres parmi les vingt premiers | [md](grade-10/combinatorics/4/5220-eleven-numbers-one-divides-another.md) |
+| ●●●●○ | 5314 | Cinq paires, c'est impossible | [md](grade-10/combinatorics/4/5314-why-five-pairs-is-impossible.md) |
+| ●●●●○ | 5401 | Un mini-Dobble à trois symboles | [md](grade-10/combinatorics/4/5401-a-mini-dobble-with-three-symbols.md) |
+| ●●●●○ | 5710 | Le jeu de Criss-Cross | [md](grade-10/combinatorics/4/5710-the-game-of-criss-cross.md) |
+| ●●●●○ | 5810 | L'échangeur d'esprits | [md](grade-10/combinatorics/4/5810-the-mind-switcher.md) |
+| ●●●●○ | 6114 | Toutes les parties nulles du morpion | [md](grade-10/combinatorics/4/6114-all-the-drawn-positions-of-tic-tac-toe.md) |
 | ●●●●● | 0260 | Le plus petit club possible | [md](grade-10/combinatorics/5/0260-smallest-club-with-given-acquaintances.md) |
 | ●●●●● | 0285 | Quatre élèves qui ont autant de connaissances | [md](grade-10/combinatorics/5/0285-four-students-with-the-same-number-of-acquaintances.md) |
 | ●●●●● | 0385 | Une équation avec des factorielles | [md](grade-10/combinatorics/5/0385-a-factorial-equation.md) |
 | ●●●●● | 3020 | Six chiffres entre 1 et 5, divisible par 101 | [md](grade-10/combinatorics/5/3020-six-digits-from-one-to-five-divisible-by-101.md) |
+| ●●●●● | 5207 | Deux pièces qui ne se menacent pas | [md](grade-10/combinatorics/5/5207-two-pieces-that-do-not-attack.md) |
 
 ### Logique et raisonnement
 
 | Difficulté | N° | Titre | Fichier |
 | --- | --- | --- | --- |
+| ●●●○○ | 5215 | Un carré magique fait de nombres premiers | [md](grade-10/logic-reasoning/3/5215-a-magic-square-of-primes.md) |
+| ●●●○○ | 5510 | La cuillerée de lait et la cuillerée de café | [md](grade-10/logic-reasoning/3/5510-the-spoonful-of-milk-and-the-spoonful-of-coffee.md) |
+| ●●●○○ | 6009 | Quatre colocataires et deux chambres | [md](grade-10/logic-reasoning/3/6009-four-flatmates-and-a-stable-pairing.md) |
+| ●●●○○ | 6113 | Éliminations successives et duels : qui est vraiment élu ? | [md](grade-10/logic-reasoning/3/6113-four-methods-four-winners.md) |
 | ●●●●○ | 0258 | Un rectangle de périmètre divisible par 4 | [md](grade-10/logic-reasoning/4/0258-rectangle-with-perimeter-divisible-by-four.md) |
 | ●●●●○ | 0327 | Les pièces d'or de l'arbre magique | [md](grade-10/logic-reasoning/4/0327-magic-tree-coins-halving-game.md) |
 | ●●●●○ | 0356 | Une seule vérification suffit | [md](grade-10/logic-reasoning/4/0356-one-check-is-enough.md) |
@@ -741,7 +881,28 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 4811 | Partager un gâteau à trois | [md](grade-10/logic-reasoning/4/4811-sharing-a-cake-between-three.md) |
 | ●●●●○ | 4812 | Trois navires qui ne pèsent rien | [md](grade-10/logic-reasoning/4/4812-three-ships-with-no-say-at-all.md) |
 | ●●●●○ | 4813 | Le cavalier sur l'échiquier 4 × 4 | [md](grade-10/logic-reasoning/4/4813-closed-knight-tour-on-a-four-by-four-board.md) |
+| ●●●●○ | 5112 | Barrer cent chiffres | [md](grade-10/logic-reasoning/4/5112-crossing-out-a-hundred-digits.md) |
+| ●●●●○ | 5218 | Cent une pièces et une seule pesée | [md](grade-10/logic-reasoning/4/5218-one-hundred-and-one-coins-one-weighing.md) |
+| ●●●●○ | 5304 | Les diagonales du polygone convexe | [md](grade-10/logic-reasoning/4/5304-diagonals-of-a-convex-polygon.md) |
+| ●●●●○ | 5307 | Le premier qui dépasse 1000 | [md](grade-10/logic-reasoning/4/5307-multiplying-up-to-a-thousand.md) |
+| ●●●●○ | 5308 | Des moins en ligne, des moins en cercle | [md](grade-10/logic-reasoning/4/5308-minus-signs-in-a-row-and-in-a-circle.md) |
+| ●●●●○ | 5415 | Deux nombres consécutifs | [md](grade-10/logic-reasoning/4/5415-two-consecutive-numbers.md) |
+| ●●●●○ | 5517 | Le jeu des fous | [md](grade-10/logic-reasoning/4/5517-the-bishops-game.md) |
+| ●●●●○ | 5805 | La carte retournée | [md](grade-10/logic-reasoning/4/5805-the-flipped-card.md) |
+| ●●●●○ | 5905 | Les machines du vétérinaire fou | [md](grade-10/logic-reasoning/4/5905-the-mad-veterinarians-machines.md) |
+| ●●●●○ | 6004 | Le porte-monnaie le plus lourd qui ne fait pas un euro | [md](grade-10/logic-reasoning/4/6004-the-fullest-purse-that-cannot-make-a-euro.md) |
+| ●●●●○ | 6008 | Trois couleurs, deux par droite | [md](grade-10/logic-reasoning/4/6008-three-colours-two-per-line.md) |
 | ●●●●● | 1624 | Un rectangle d'une seule couleur dans un plan tricolore | [md](grade-10/logic-reasoning/5/1624-a-monochromatic-rectangle-in-a-three-coloured-plane.md) |
+| ●●●●● | 5310 | La boîte de bonbons | [md](grade-10/logic-reasoning/5/5310-the-box-of-sweets.md) |
+| ●●●●● | 5808 | Bal ou Da | [md](grade-10/logic-reasoning/5/5808-bal-or-da.md) |
+
+### Coloriage
+
+| Difficulté | N° | Titre | Fichier |
+| --- | --- | --- | --- |
+| ●●●○○ | 5904 | Deux couleurs pour un plan découpé par des cercles | [md](grade-10/coloring/3/5904-two-colours-for-a-plane-cut-by-circles.md) |
+| ●●●●● | 5901 | Vingt et un trominos droits et une case libre | [md](grade-10/coloring/5/5901-straight-trominoes-on-the-chessboard.md) |
+| ●●●●● | 5903 | Combien de tétraminos en S sur un damier 9 × 9 ? | [md](grade-10/coloring/5/5903-s-tetrominoes-on-a-nine-by-nine-board.md) |
 
 ## 1re
 
@@ -749,6 +910,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 
 | Difficulté | N° | Titre | Fichier |
 | --- | --- | --- | --- |
+| ●●●○○ | 5014 | Quand 2ⁿ − 1 peut-il être premier ? | [md](grade-11/arithmetic/3/5014-when-can-two-to-the-n-minus-one-be-prime.md) |
 | ●●●●○ | 1213 | Les douze pirates | [md](grade-11/arithmetic/4/1213-the-twelve-pirates.md) |
 | ●●●●○ | 2205 | Le deux mille sixième nombre de Fibonacci | [md](grade-11/arithmetic/4/2205-the-two-thousand-and-sixth-fibonacci-number.md) |
 | ●●●●○ | 2211 | Des triplets pythagoriciens à partir d'une fraction | [md](grade-11/arithmetic/4/2211-pythagorean-triples-from-a-fraction.md) |
@@ -757,8 +919,15 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 2809 | Trois pas qui montent | [md](grade-11/arithmetic/4/2809-three-steps-that-go-up.md) |
 | ●●●●○ | 3219 | Un reste avec des puissances de deux gigantesques | [md](grade-11/arithmetic/4/3219-a-remainder-with-giant-powers-of-two.md) |
 | ●●●●○ | 3417 | Aucune somme divisible par 7 | [md](grade-11/arithmetic/4/3417-no-sum-divisible-by-seven.md) |
+| ●●●●○ | 5015 | 6, 28, 496 : les nombres parfaits | [md](grade-11/arithmetic/4/5015-six-twenty-eight-four-hundred-ninety-six-perfect-numbers.md) |
+| ●●●●○ | 5106 | Les chiffres de 2²⁰⁰⁸ suivis de ceux de 5²⁰⁰⁸ | [md](grade-11/arithmetic/4/5106-digits-of-two-and-five-to-the-same-power.md) |
+| ●●●●○ | 5122 | Les suites de Goodstein | [md](grade-11/arithmetic/4/5122-goodstein-sequences.md) |
+| ●●●●○ | 5916 | Les casiers et les élèves sans facteur carré | [md](grade-11/arithmetic/4/5916-the-square-free-students-and-the-lockers.md) |
+| ●●●●○ | 6013 | Des puissances de 2, chacune au plus deux fois | [md](grade-11/arithmetic/4/6013-powers-of-two-used-twice.md) |
+| ●●●●○ | 6102 | Tout entier s'écrit en base moins quatre, et d'une seule façon | [md](grade-11/arithmetic/4/6102-every-integer-has-one-base-minus-four-form.md) |
 | ●●●●● | 3207 | Une fraction géante écrite en base deux | [md](grade-11/arithmetic/5/3207-a-giant-fraction-in-base-two.md) |
 | ●●●●● | 3220 | Une équation avec une partie entière | [md](grade-11/arithmetic/5/3220-an-equation-with-an-integer-part.md) |
+| ●●●●● | 5104 | Deux sommes de chiffres multiples de 49 | [md](grade-11/arithmetic/5/5104-two-digit-sums-that-are-multiples-of-49.md) |
 
 ### Algèbre
 
@@ -786,6 +955,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 3015 | Le plus petit x² + y² sur la droite 5x + 12y = 60 | [md](grade-11/algebra/3/3015-closest-point-on-a-line.md) |
 | ●●●○○ | 3413 | De x + y et x³ + y³ jusqu'à x⁵ + y⁵ | [md](grade-11/algebra/3/3413-from-x-plus-y-to-x-fifth-plus-y-fifth.md) |
 | ●●●○○ | 4022 | Trois quantités égales pour un polynôme de degré 3 | [md](grade-11/algebra/3/4022-three-equal-quantities-for-a-cubic.md) |
+| ●●●○○ | 5514 | Des expressions qui se contiennent elles-mêmes | [md](grade-11/algebra/3/5514-expressions-that-contain-themselves.md) |
 | ●●●●○ | 1414 | Une division monstrueuse de puissances de 2 | [md](grade-11/algebra/4/1414-a-monstrous-quotient-of-powers-of-two.md) |
 | ●●●●○ | 1611 | Résoudre x⁴ + y⁴ + 2 = 4xy | [md](grade-11/algebra/4/1611-x-fourth-plus-y-fourth-plus-two-equals-four-xy.md) |
 | ●●●●○ | 1819 | Trois coefficients impairs | [md](grade-11/algebra/4/1819-three-odd-coefficients.md) |
@@ -802,6 +972,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 3415 | Trois entiers, trois équations | [md](grade-11/algebra/4/3415-three-integers-three-equations.md) |
 | ●●●●○ | 3416 | Un système symétrique à trois inconnues | [md](grade-11/algebra/4/3416-a-symmetric-system-of-three-equations.md) |
 | ●●●●○ | 3623 | Une suite géométrique d'entiers qui finit sur 2025² | [md](grade-11/algebra/4/3623-an-integer-geometric-sequence.md) |
+| ●●●●○ | 5507 | Trois nombres reconstitués à partir de trois indices | [md](grade-11/algebra/4/5507-three-numbers-from-three-sums.md) |
 | ●●●●● | 3209 | Un diviseur de x²⁰²² + x¹⁰¹¹ + 1 | [md](grade-11/algebra/5/3209-a-divisor-of-a-huge-polynomial.md) |
 
 ### Géométrie
@@ -809,11 +980,13 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | Difficulté | N° | Titre | Fichier |
 | --- | --- | --- | --- |
 | ●●●○○ | 2215 | Deux côtés imposés, l'aire la plus grande | [md](grade-11/geometry/3/2215-two-sides-fixed-the-largest-area.md) |
+| ●●●○○ | 6012 | Le cercle qui se glisse entre trois cercles | [md](grade-11/geometry/3/6012-the-circle-that-slips-between-three-circles.md) |
 | ●●●●○ | 1018 | La bissectrice, son milieu et un rapport | [md](grade-11/geometry/4/1018-bisector-midpoint-and-a-ratio.md) |
 | ●●●●○ | 2212 | La loi des sinus et le cercle circonscrit | [md](grade-11/geometry/4/2212-the-law-of-sines-and-the-circumscribed-circle.md) |
 | ●●●●○ | 2423 | Un point à l'intérieur du carré | [md](grade-11/geometry/4/2423-a-point-inside-the-square.md) |
 | ●●●●○ | 2614 | L'aire d'une région définie par un trinôme | [md](grade-11/geometry/4/2614-the-area-of-a-region-defined-by-a-trinomial.md) |
 | ●●●●○ | 2810 | La zone la plus proche du sommet B | [md](grade-11/geometry/4/2810-closest-to-vertex-b.md) |
+| ●●●●○ | 5615 | Les cercles de Ford et les fractions | [md](grade-11/geometry/4/5615-the-ford-circles-and-the-fractions.md) |
 | ●●●●● | 2213 | L'aire d'un triangle à partir de ses trois côtés | [md](grade-11/geometry/5/2213-the-area-of-a-triangle-from-its-three-sides.md) |
 | ●●●●● | 2214 | L'aire de la voile | [md](grade-11/geometry/5/2214-the-area-of-the-sail.md) |
 
@@ -848,6 +1021,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●○○○ | 1214 | Parier « petit » sur deux dés | [md](grade-11/probability-statistics/2/1214-betting-low-on-two-dice.md) |
 | ●●○○○ | 1417 | Quatre bébés : deux-deux ou trois-un ? | [md](grade-11/probability-statistics/2/1417-four-babies-two-two-or-three-one.md) |
 | ●●○○○ | 2417 | La somme et l'écart | [md](grade-11/probability-statistics/2/2417-the-sum-and-the-gap.md) |
+| ●●○○○ | 5914 | Somme et différence de deux nombres tirés au hasard | [md](grade-11/probability-statistics/2/5914-sum-and-difference-of-two-random-numbers.md) |
 | ●●●○○ | 1014 | Trois portes et une voiture | [md](grade-11/probability-statistics/3/1014-three-doors-and-a-car.md) |
 | ●●●○○ | 1418 | Neuf lettres dans la bonne enveloppe | [md](grade-11/probability-statistics/3/1418-nine-letters-in-the-right-envelope.md) |
 | ●●●○○ | 1618 | Le point du carré et le côté le plus proche | [md](grade-11/probability-statistics/3/1618-the-point-and-the-nearest-side-of-the-square.md) |
@@ -861,6 +1035,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 4021 | Deux amis à la gare | [md](grade-11/probability-statistics/3/4021-two-friends-at-the-station.md) |
 | ●●●○○ | 4023 | Attendre le bus moins de quatre minutes | [md](grade-11/probability-statistics/3/4023-waiting-less-than-four-minutes-for-the-bus.md) |
 | ●●●○○ | 4809 | Une probabilité qui vaut 1 | [md](grade-11/probability-statistics/3/4809-six-numbers-and-a-difference-divisible-by-five.md) |
+| ●●●○○ | 5405 | Trois cartes de SET au hasard | [md](grade-11/probability-statistics/3/5405-three-set-cards-at-random.md) |
 | ●●●●○ | 1015 | Le jeu qui a l'air avantageux | [md](grade-11/probability-statistics/4/1015-the-game-that-looks-favourable.md) |
 | ●●●●○ | 1416 | Qui tirera la boule blanche en premier ? | [md](grade-11/probability-statistics/4/1416-who-draws-the-white-ball-first.md) |
 | ●●●●○ | 2414 | Le problème des trois cartes | [md](grade-11/probability-statistics/4/2414-the-three-cards.md) |
@@ -868,6 +1043,9 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 2616 | Se rencontrer à l'arrêt de bus | [md](grade-11/probability-statistics/4/2616-meeting-at-the-bus-stop.md) |
 | ●●●●○ | 2617 | Quatre dés qui se battent en rond | [md](grade-11/probability-statistics/4/2617-four-dice-that-beat-each-other-in-a-circle.md) |
 | ●●●●○ | 4808 | Un dé auquel il manque un point | [md](grade-11/probability-statistics/4/4808-die-with-one-dot-removed.md) |
+| ●●●●○ | 5911 | Huit spaghettis et une seule boucle | [md](grade-11/probability-statistics/4/5911-eight-strands-of-spaghetti.md) |
+| ●●●●○ | 5913 | Le prisonnier et les deux bols | [md](grade-11/probability-statistics/4/5913-the-prisoner-and-the-two-bowls.md) |
+| ●●●●○ | 6014 | Les sept tickets qui ne perdent jamais | [md](grade-11/probability-statistics/4/6014-seven-tickets-that-never-lose.md) |
 | ●●●●● | 1013 | La dernière place de l'avion | [md](grade-11/probability-statistics/5/1013-the-last-seat-on-the-plane.md) |
 
 ### Dénombrement
@@ -882,6 +1060,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 3016 | La grenouille et les dix-neuf marches | [md](grade-11/combinatorics/3/3016-the-frog-on-nineteen-steps.md) |
 | ●●●○○ | 3418 | GLEAN dans le dictionnaire | [md](grade-11/combinatorics/3/3418-glean-in-the-dictionary.md) |
 | ●●●○○ | 4810 | Les plaques à deux lettres voisines | [md](grade-11/combinatorics/3/4810-number-plates-with-two-adjacent-letters.md) |
+| ●●●○○ | 5420 | Les carrefours barrés | [md](grade-11/combinatorics/3/5420-forbidden-crossroads.md) |
 | ●●●●○ | 1212 | Quatre polygones réguliers dans un même cercle | [md](grade-11/combinatorics/4/1212-four-regular-polygons-in-one-circle.md) |
 | ●●●●○ | 2021 | Sept lacs, dix canaux, combien d'îles ? | [md](grade-11/combinatorics/4/2021-seven-lakes-ten-canals.md) |
 | ●●●●○ | 2619 | Une permutation qui descend puis remonte | [md](grade-11/combinatorics/4/2619-a-permutation-that-goes-down-then-up.md) |
@@ -889,13 +1068,30 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 2820 | Sept nénuphars, huit sauts | [md](grade-11/combinatorics/4/2820-seven-lilypads-eight-jumps.md) |
 | ●●●●○ | 3224 | Sept chiffres qui ne redescendent jamais | [md](grade-11/combinatorics/4/3224-seven-digits-that-never-go-down.md) |
 | ●●●●○ | 4807 | Le pouvoir de vote au Conseil de sécurité | [md](grade-11/combinatorics/4/4807-voting-power-in-the-security-council.md) |
+| ●●●●○ | 5201 | Découper un polygone convexe en triangles | [md](grade-11/combinatorics/4/5201-triangulating-a-convex-polygon.md) |
+| ●●●●○ | 5204 | Les sommes ordonnées de nombres impairs | [md](grade-11/combinatorics/4/5204-ordered-sums-of-odd-numbers.md) |
+| ●●●●○ | 5316 | Une cage de six cases peut-elle toucher quatre lignes et quatre colonnes ? | [md](grade-11/combinatorics/4/5316-a-cage-of-six-cells.md) |
+| ●●●●○ | 5402 | Dobble : 57 cartes, 57 symboles | [md](grade-11/combinatorics/4/5402-dobble-fifty-seven-cards.md) |
+| ●●●●○ | 5712 | Cinq points reliés deux à deux | [md](grade-11/combinatorics/4/5712-five-points-joined-in-pairs.md) |
+| ●●●●○ | 5721 | Croisements, courbes et régions | [md](grade-11/combinatorics/4/5721-crossings-curves-and-regions.md) |
+| ●●●●○ | 5811 | Hercule et l'hydre | [md](grade-11/combinatorics/4/5811-hercules-and-the-hydra.md) |
+| ●●●●○ | 5814 | Cinq cartes, quatre montrées | [md](grade-11/combinatorics/4/5814-five-cards-four-shown.md) |
+| ●●●●○ | 6107 | Un réseau qui contient exactement mille chemins | [md](grade-11/combinatorics/4/6107-a-network-with-exactly-one-thousand-paths.md) |
+| ●●●●○ | 6110 | Les crêpes brûlées | [md](grade-11/combinatorics/4/6110-the-burnt-pancakes.md) |
 | ●●●●● | 3014 | Deux élèves qui couvrent les six problèmes | [md](grade-11/combinatorics/5/3014-two-students-who-cover-all-six-problems.md) |
+| ●●●●● | 5221 | Cinq couples et les poignées de main | [md](grade-11/combinatorics/5/5221-five-couples-and-the-handshakes.md) |
 
 ### Logique et raisonnement
 
 | Difficulté | N° | Titre | Fichier |
 | --- | --- | --- | --- |
 | ●●●○○ | 1824 | Noir et blanc de part et d'autre de chaque droite | [md](grade-11/logic-reasoning/3/1824-two-colouring-regions-cut-by-lines.md) |
+
+### Coloriage
+
+| Difficulté | N° | Titre | Fichier |
+| --- | --- | --- | --- |
+| ●●●●○ | 6103 | Trois couleurs dans le plan, deux sur chaque droite | [md](grade-11/coloring/4/6103-three-colours-two-on-every-line.md) |
 
 ## Terminale
 
@@ -914,6 +1110,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 2204 | Les deux derniers chiffres de 3 puissance 1234 | [md](grade-12/arithmetic/3/2204-the-last-two-digits-of-a-power-of-three.md) |
 | ●●●○○ | 3005 | Une congruence du second degré modulo 75 | [md](grade-12/arithmetic/3/3005-a-quadratic-congruence-modulo-75.md) |
 | ●●●○○ | 3008 | 17a + 6b = 13 : la plus petite valeur de a − b | [md](grade-12/arithmetic/3/3008-bezout-with-seventeen-and-six.md) |
+| ●●●○○ | 5807 | Le chiffrement affine | [md](grade-12/arithmetic/3/5807-the-affine-cipher.md) |
 | ●●●●○ | 1011 | Des chiffres 1 et 2, et une puissance de 2 | [md](grade-12/arithmetic/4/1011-one-and-two-digits-divisible-by-a-power-of-two.md) |
 | ●●●●○ | 1401 | Deux puissances qui se croisent modulo 7 | [md](grade-12/arithmetic/4/1401-two-power-n-versus-n-squared-mod-seven.md) |
 | ●●●●○ | 1409 | n chapeaux numérotés et une somme modulo n | [md](grade-12/arithmetic/4/1409-n-hats-and-a-sum-modulo-n.md) |
@@ -930,11 +1127,15 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 3002 | Les trois derniers chiffres de 2017^2017 | [md](grade-12/arithmetic/4/3002-last-three-digits-of-2017-to-the-2017.md) |
 | ●●●●○ | 3003 | Les deux derniers chiffres d'une tour de 12 | [md](grade-12/arithmetic/4/3003-last-two-digits-of-a-tower-of-twelve.md) |
 | ●●●●○ | 3004 | 6^83 + 8^83 modulo 49 | [md](grade-12/arithmetic/4/3004-six-and-eight-to-the-83rd-modulo-49.md) |
+| ●●●●○ | 5016 | Trois équations du second degré modulo 11 | [md](grade-12/arithmetic/4/5016-three-quadratic-congruences-modulo-eleven.md) |
+| ●●●●○ | 5812 | Les suites de Goodstein | [md](grade-12/arithmetic/4/5812-goodstein-sequences.md) |
+| ●●●●○ | 6018 | Toutes les fractions, une fois chacune | [md](grade-12/arithmetic/4/6018-every-fraction-exactly-once.md) |
 | ●●●●● | 3006 | Un premier de la forme 3k + 2 qui divise a² + ab + b² | [md](grade-12/arithmetic/5/3006-a-prime-congruent-to-two-mod-three.md) |
 | ●●●●● | 3007 | Le plus petit cube qui se termine par 888 | [md](grade-12/arithmetic/5/3007-smallest-cube-ending-in-888.md) |
 | ●●●●● | 3215 | Le meilleur nombre de diviseurs pour sa taille | [md](grade-12/arithmetic/5/3215-the-best-number-of-divisors.md) |
 | ●●●●● | 3218 | Le numérateur d'une somme de dix-sept fractions | [md](grade-12/arithmetic/5/3218-the-numerator-of-a-harmonic-sum.md) |
 | ●●●●● | 4802 | Une tour de puissances divisible par 3ⁿ⁺¹ | [md](grade-12/arithmetic/5/4802-three-to-the-n-plus-one-divides-two-to-the-three-to-the-n-plus-one.md) |
+| ●●●●● | 6017 | Combien de 2012 dans la 2012ᵉ ligne ? | [md](grade-12/arithmetic/5/6017-how-many-2012s-in-the-2012th-row.md) |
 
 ### Algèbre
 
@@ -976,6 +1177,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 2808 | Le tétraèdre posé sur les trois axes | [md](grade-12/geometry/3/2808-tetrahedron-on-three-axes.md) |
 | ●●●●○ | 2602 | Une droite qui passe par un point donné et coupe l'aire en deux | [md](grade-12/geometry/4/2602-halving-a-convex-polygon-through-a-point.md) |
 | ●●●●● | 2603 | Quatre parts égales avec deux droites perpendiculaires | [md](grade-12/geometry/5/2603-four-equal-parts-with-two-perpendicular-lines.md) |
+| ●●●●● | 5606 | Pas de théorème de Pick dans l'espace | [md](grade-12/geometry/5/5606-no-picks-theorem-in-space.md) |
 
 ### Fonctions et analyse
 
@@ -986,6 +1188,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 1204 | Encadrer le logarithme d'une factorielle | [md](grade-12/functions-analysis/4/1204-framing-the-logarithm-of-a-factorial.md) |
 | ●●●●○ | 2011 | Trois racines cubiques de somme nulle | [md](grade-12/functions-analysis/4/2011-three-cube-roots-summing-to-zero.md) |
 | ●●●●● | 3213 | Cinq logarithmes emboîtés | [md](grade-12/functions-analysis/5/3213-five-nested-logarithms.md) |
+| ●●●●● | 5508 | La tour de puissances infinie | [md](grade-12/functions-analysis/5/5508-the-infinite-tower-of-powers.md) |
 
 ### Probabilités et statistiques
 
@@ -1015,6 +1218,8 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 2418 | Au moins trois boules vertes | [md](grade-12/probability-statistics/4/2418-at-least-three-green-balls.md) |
 | ●●●●○ | 2609 | Jusqu'au deuxième joker | [md](grade-12/probability-statistics/4/2609-the-second-joker-in-the-deck.md) |
 | ●●●●○ | 3424 | Un palindrome sur la plaque | [md](grade-12/probability-statistics/4/3424-a-palindrome-on-the-number-plate.md) |
+| ●●●●○ | 5210 | Des plus et des moins tirés au hasard | [md](grade-12/probability-statistics/4/5210-plus-and-minus-signs-at-random.md) |
+| ●●●●○ | 5912 | La règle coupée en trois morceaux | [md](grade-12/probability-statistics/4/5912-the-ruler-cut-into-three-pieces.md) |
 | ●●●●● | 1206 | Le pot et les trois fautes | [md](grade-12/probability-statistics/5/1206-the-pot-and-the-three-strikes.md) |
 | ●●●●● | 1410 | La fourmi perdue sur les arêtes du cube | [md](grade-12/probability-statistics/5/1410-random-walk-on-a-cube.md) |
 | ●●●●● | 1602 | La tortue et les huit nombres du cercle | [md](grade-12/probability-statistics/5/1602-the-turtle-and-the-eight-numbers.md) |
@@ -1047,10 +1252,14 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 2403 | Additionner les carrés d'une ligne de Pascal | [md](grade-12/combinatorics/4/2403-sum-of-squares-of-binomial-coefficients.md) |
 | ●●●●○ | 2608 | Écrire 2012 comme somme de trois entiers positifs ou nuls | [md](grade-12/combinatorics/4/2608-unordered-triples-summing-to-2012.md) |
 | ●●●●○ | 2802 | Le coefficient de x²⁸ | [md](grade-12/combinatorics/4/2802-coefficient-of-x-28.md) |
+| ●●●●○ | 5312 | La serrure à cinq boutons | [md](grade-12/combinatorics/4/5312-the-five-button-lock.md) |
+| ●●●●○ | 5406 | Les quatre sortes de SET | [md](grade-12/combinatorics/4/5406-the-four-kinds-of-set.md) |
+| ●●●●○ | 6015 | Le jeu où deux cartes ont toujours un symbole commun | [md](grade-12/combinatorics/4/6015-the-deck-where-two-cards-always-match.md) |
 | ●●●●● | 1407 | Combien de victoires pour être sûr de passer ? | [md](grade-12/combinatorics/5/1407-how-many-wins-to-qualify.md) |
 | ●●●●● | 2404 | Un comité et son chef | [md](grade-12/combinatorics/5/2404-a-committee-and-its-leader.md) |
 | ●●●●● | 2405 | Les chemins qui restent sous la diagonale | [md](grade-12/combinatorics/5/2405-paths-that-stay-below-the-diagonal.md) |
 | ●●●●● | 2607 | Les parties de quinze nombres dont la somme est divisible par 7 | [md](grade-12/combinatorics/5/2607-subsets-whose-sum-is-divisible-by-seven.md) |
+| ●●●●● | 6016 | Libérer les clones | [md](grade-12/combinatorics/5/6016-freeing-the-clones.md) |
 
 ### Logique et raisonnement
 
@@ -1060,6 +1269,8 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 1004 | Le cercle de Josèphe | [md](grade-12/logic-reasoning/4/1004-the-josephus-circle.md) |
 | ●●●●○ | 2813 | Le tour du circuit et ses stations-service | [md](grade-12/logic-reasoning/4/2813-the-petrol-stations.md) |
 | ●●●●○ | 2814 | Ranger les équipes en file | [md](grade-12/logic-reasoning/4/2814-lining-up-the-teams.md) |
+| ●●●●○ | 5121 | La fonction d'Ackermann | [md](grade-12/logic-reasoning/4/5121-ackermanns-function.md) |
+| ●●●●○ | 5303 | Le nombre à vingt chiffres et le nombre 13 | [md](grade-12/logic-reasoning/4/5303-a-twenty-digit-number-and-thirteen.md) |
 | ●●●●● | 2012 | Le sous-marin sur la droite des entiers | [md](grade-12/logic-reasoning/5/2012-submarine-on-the-integer-line.md) |
 | ●●●●● | 2425 | Deviner un polynôme en deux questions | [md](grade-12/logic-reasoning/5/2425-guessing-a-polynomial-in-two-questions.md) |
 

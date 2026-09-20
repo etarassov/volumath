@@ -91,10 +91,20 @@ looking at it, which is the only way they show up. Nothing here raises an error.
 | `(` `)` | `\big(` `\big)` | the `\big` forms open ugly gaps |
 | two equations joined by "et" | `\begin{cases}` | renders badly |
 | "pour $u > 0$" | `\left]0, +\infty\right[` | **breaks the build** with "unclosed delimiter" |
+| « guillemets » in plain prose | `\og` `\fg` inside `$...$` | the whole display prints as raw LaTeX source |
 
 `[0,1[` written without `\left`/`\right` is fine. Confirmed to render correctly: `\boxed`,
 `\binom`, `\underbrace`, `\prod`, `\pmod`, `\overline`, `\widehat`, `\tfrac`, `\mathbb`,
-`\mathcal`, `\varnothing`, the degree sign, and Markdown tables.
+`\mathcal`, `\varnothing`, `\xrightarrow{...}` (a small labelled arrow, good for showing a
+calculation step by step), the degree sign, and Markdown tables.
+
+Fractions shrink with every level you nest them. Two levels are comfortable, the third is
+noticeably smaller than the body text, and the fourth is unreadable. When an expression
+wants four levels, name the inner part and write it on its own line instead.
+
+`vm.py build` now prints pandoc's own warnings. Pandoc catches only some of the above, it
+says nothing about `\tag` or `\left]`, but when it does speak the display is already broken,
+so never build past a `pandoc [WARNING]` line.
 
 **The `title:` field is not maths.** LaTeX there prints literally, backslashes and all. Write
 the title in plain text with unicode: `"11ⁿ − 4ⁿ est un multiple de 7"`.
@@ -103,7 +113,9 @@ Figures are SVG. Putting colours and strokes as attributes on each shape (`fill=
 `stroke="#000"`) is the safe default. A `<style>` block with CSS classes also renders
 correctly in the current toolchain, verified on a figure that uses fills, dashes and
 `paint-order`. A `√` inside an SVG `<text>` element comes out as `/`, so keep length labels
-out of the drawing. Either way, build the exercise and look at the page before trusting a
+out of the drawing. Accents inside `<text>` are fine, but Georgia prints digits as old-style
+figures, where `0` looks like a lowercase `o` and `1` sits below the line, so any label with
+a number in it needs Helvetica. Either way, build the exercise and look at the page before trusting a
 figure, and check that the figure does not give the answer away: three separate figures have
 been redrawn because the first version showed the construction, the optimum, or the answer
 circle.
@@ -177,6 +189,9 @@ python3 tools/pdfsupers.py <file.pdf> <page> [<page>...]
 
 which rebuilds the page from glyph positions and prints exponents as `^{...}`. Comparison
 signs flatten too, so check inequalities against the student handout, which preserves them.
+
+That script needs `pypdf` and `fonttools`, which are listed in `requirements.txt`. If it
+stops with "pypdf is missing", run `uv pip install -r requirements.txt`.
 
 Two cases where even that is not enough:
 

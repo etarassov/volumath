@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 348 170" width="348" height="170">
+  <rect x="0" y="0" width="348" height="170" fill="#ffffff"/>
+
+  <g stroke="#000000" stroke-width="1.7" fill="none">
+    <polygon points="30,35 125,20 150,120 45,140"/>
+    <polygon points="200,35 295,20 320,120 215,140"/>
+  </g>
+
+  <g stroke="#c0392b" stroke-width="1.7" fill="none">
+    <line x1="30" y1="35" x2="150" y2="120"/>
+    <line x1="295" y1="20" x2="215" y2="140"/>
+  </g>
+
+  <g fill="#000000">
+    <circle cx="30"  cy="35"  r="3"/>
+    <circle cx="125" cy="20"  r="3"/>
+    <circle cx="150" cy="120" r="3"/>
+    <circle cx="45"  cy="140" r="3"/>
+    <circle cx="200" cy="35"  r="3"/>
+    <circle cx="295" cy="20"  r="3"/>
+    <circle cx="320" cy="120" r="3"/>
+    <circle cx="215" cy="140" r="3"/>
+  </g>
+
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#000000" text-anchor="middle">
+    <text x="20"  y="28">A</text>
+    <text x="131" y="13">B</text>
+    <text x="165" y="133">C</text>
+    <text x="35"  y="156">D</text>
+    <text x="190" y="28">A</text>
+    <text x="301" y="13">B</text>
+    <text x="335" y="133">C</text>
+    <text x="205" y="156">D</text>
+  </g>
+</svg>

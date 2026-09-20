@@ -1,0 +1,363 @@
+{
+ "unit": "number-theory",
+ "source": "namc",
+ "title": "Number theory: primes, divisibility, modular arithmetic, Diophantine equations",
+ "id_block": [
+  "5001",
+  "5100"
+ ],
+ "status": "done",
+ "files_total": 5,
+ "next_file": 5,
+ "imported": [
+  {
+   "id": "5001",
+   "grade": 8,
+   "difficulty": 2,
+   "title": "Des frisbees et des ballons pour 52 euros",
+   "file": "numbertheory.pdf",
+   "ref": "partie 2, problème 9"
+  },
+  {
+   "id": "5002",
+   "grade": 8,
+   "difficulty": 3,
+   "title": "Les impairs qui ne sont pas somme de deux nombres premiers",
+   "file": "numbertheory.pdf",
+   "ref": "partie 1, problème 6"
+  },
+  {
+   "id": "5003",
+   "grade": 8,
+   "difficulty": 4,
+   "title": "La plaque d'immatriculation de la professeure",
+   "file": "Amazing-Numbers-PAMTC.pdf",
+   "ref": "questions 1 à 4"
+  },
+  {
+   "id": "5004",
+   "grade": 9,
+   "difficulty": 2,
+   "title": "Simplifier une fraction énorme",
+   "file": "diophantine.pdf",
+   "ref": "section 3"
+  },
+  {
+   "id": "5005",
+   "grade": 9,
+   "difficulty": 3,
+   "title": "Les poupées et les trains électriques",
+   "file": "diophantine.pdf",
+   "ref": "section 1"
+  },
+  {
+   "id": "5006",
+   "grade": 9,
+   "difficulty": 4,
+   "title": "Les chameaux du vieil avare",
+   "file": "PatrickPrimes.pdf",
+   "ref": "problème 7 (aussi numbertheory.pdf, partie 2, problème 16)"
+  },
+  {
+   "id": "5007",
+   "grade": 9,
+   "difficulty": 4,
+   "title": "Les 72 dindes du vieux registre",
+   "file": "numbertheory.pdf",
+   "ref": "partie 2, problème 13 o), d'après Polya"
+  },
+  {
+   "id": "5008",
+   "grade": 9,
+   "difficulty": 5,
+   "title": "Le numéro à neuf chiffres",
+   "file": "Amazing-Numbers-PAMTC.pdf",
+   "ref": "questions 5 à 7"
+  },
+  {
+   "id": "5009",
+   "grade": 10,
+   "difficulty": 3,
+   "title": "Cent nombres composés à la suite",
+   "file": "numbertheory.pdf",
+   "ref": "partie 1, problème 4 (aussi PatrickPrimes.pdf, problème 4)"
+  },
+  {
+   "id": "5010",
+   "grade": 10,
+   "difficulty": 3,
+   "title": "Quels nombres premiers sont sommes de deux carrés ?",
+   "file": "numbertheory.pdf",
+   "ref": "partie 1, problème 7 et partie 2, problème 14 c)"
+  },
+  {
+   "id": "5011",
+   "grade": 10,
+   "difficulty": 4,
+   "title": "1001 et la divisibilité par 7, 11 et 13",
+   "file": "numbertheory.pdf",
+   "ref": "partie 2, problème 13 m) et n)"
+  },
+  {
+   "id": "5012",
+   "grade": 10,
+   "difficulty": 3,
+   "title": "Un produit divisible par 6 sans facteur divisible par 6",
+   "file": "HReiterZ6andZ7.pdf",
+   "ref": "section « Solving quadratic equations in Z6 »"
+  },
+  {
+   "id": "5013",
+   "grade": 10,
+   "difficulty": 4,
+   "title": "Vingt-huit chiffres et le diviseur 396",
+   "file": "numbertheory.pdf",
+   "ref": "partie 2, problème 13 p)"
+  },
+  {
+   "id": "5014",
+   "grade": 11,
+   "difficulty": 3,
+   "title": "Quand 2ⁿ − 1 peut-il être premier ?",
+   "file": "PatrickPrimes.pdf",
+   "ref": "problème 6 a) et note 6"
+  },
+  {
+   "id": "5015",
+   "grade": 11,
+   "difficulty": 4,
+   "title": "6, 28, 496 : les nombres parfaits",
+   "file": "numbertheory.pdf",
+   "ref": "partie 2, problème 12"
+  },
+  {
+   "id": "5016",
+   "grade": 12,
+   "difficulty": 4,
+   "title": "Trois équations du second degré modulo 11",
+   "file": "HReiterZ6andZ7.pdf",
+   "ref": "« Problems », questions 4 et 5"
+  }
+ ],
+ "skipped": [
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 1, problèmes 1, 2 et le crible d'Ératosthène (2 pages)",
+   "reason": "exposé et exercice d'entraînement ; 0685 couvre déjà le crible et la règle d'arrêt à la racine carrée, à la même difficulté"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 1, problème 2 a)-c) (221 premier ? 8171 premier ?)",
+   "reason": "même idée que 0685",
+   "answers": "221 = 13 × 17 ; pour 397 il suffit de tester jusqu'à 19, et 397 est premier ; 8171 est premier (tester jusqu'à 89)"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 1, problème 3 (densité des premiers, texte à trous)",
+   "reason": "les réponses se lisent sur la feuille de crible imprimée, ce n'est pas un problème sur papier"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 1, problème 5 (trois impairs premiers de suite)",
+   "reason": "doublon de 0876 (4e, ***) déjà dans la base",
+   "answers": "3, 5, 7 et rien d'autre ; parmi n, n+2, n+4 il y a toujours un multiple de 3"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 1, problème 8 c) (n² − n + 41)",
+   "reason": "doublon de 4814 (2de, ***)",
+   "answers": "échoue pour n = 41 (41 × 43) et déjà pour n = 40 (41²)"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 2, problèmes 1 à 5 (factoriser 48, 120, 2006 ; diviseurs ; PGCD)",
+   "reason": "entraînement de cours ; la base a déjà 0303, 1607, 4017, 3611 sur le nombre de diviseurs",
+   "answers": "48 = 2⁴ × 3 (10 diviseurs), 120 = 2³ × 3 × 5 (16 diviseurs), 2006 = 2 × 17 × 59 (8 diviseurs) ; PGCD(36, 84) = 12 ; PGCD(98, 120) = 2"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 2, problème 6 (implications sur le PGCD)",
+   "reason": "bon candidat pour un second passage, un peu maigre seul",
+   "answers": "a) faux : a = 1, b = c = 2 ; b) vrai (lemme de Gauss) ; c) faux : a = 4, b = c = 2 donne PGCD(4, 4) = 4"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 2, problème 7 (billard rectangulaire et PGCD)",
+   "reason": "bon problème mais il demande une figure sur quadrillage et plusieurs dessins ; candidat pour un second passage avec un SVG"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 2, problème 8 (PGCD × PPCM = produit)",
+   "reason": "résultat de cours de 3e"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 2, problèmes 10 et 11 (formules du nombre et de la somme des diviseurs)",
+   "reason": "formules de cours, déjà représentées par 0303 et 1607 ; la somme des diviseurs sert dans 5015"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 2, problème 13 a) à l) (entraînement aux critères)",
+   "reason": "entraînement pur",
+   "answers": "a) 7391 n'est pas divisible par 11 (reste 10), 7392 l'est ; b) 349602 EST divisible par 3 (somme des chiffres 24), la question « sinon » est vide ; d)-g) test par 6 = 2 et 3, test par 8 = trois derniers chiffres ; i)-j) 999 = 27 × 37 donne le test par tranches de trois"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 2, problème 14 a), b), d) (carrés modulo 3, 4, 5, 7, 8, 10)",
+   "reason": "0253 (3e) couvre déjà les carrés modulo 4 ; le c) est utilisé dans 5010"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 2, problème 15 (tables de multiplication modulo 5 et 6, inversibles)",
+   "reason": "l'idée est reprise par 5012 et 5016",
+   "answers": "modulo 5 tout élément non nul est inversible ; modulo 6 seuls 1 et 5 le sont ; en général u est inversible modulo m si et seulement si PGCD(u, m) = 1, donc 87 est inversible modulo 99 ? non, PGCD = 3 ; 91 est inversible modulo 137 (137 premier)"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 2, problème 17 (puissances de 2 modulo 5, 10, 6)",
+   "reason": "la base a déjà beaucoup de « dernier chiffre d'une puissance » : 4411, 2204, 3614, 1604, 0554"
+  },
+  {
+   "file": "numbertheory.pdf",
+   "item": "partie 2, problème 18 (indicatrice d'Euler)",
+   "reason": "aucun énoncé, juste une piste"
+  },
+  {
+   "file": "diophantine.pdf",
+   "item": "section 5, l'animalerie (rats 5 $, guppys 3 $, grillons 0,10 $, 100 animaux, 100 $)",
+   "reason": "doublon de 4824 « Cent animaux pour cent euros » (4e, ****), même classique avec d'autres prix",
+   "answers": "16 rats, 4 guppys, 80 grillons"
+  },
+  {
+   "file": "diophantine.pdf",
+   "item": "section 4 (résoudre 7x + 18y = 1 par l'algorithme d'Euclide, Bézout)",
+   "reason": "déjà couvert par 3008 (Terminale) ; la méthode de Tom Davis est longue et se prête mal à un énoncé court",
+   "answers": "x = −5 + 18c, y = 2 − 7c"
+  },
+  {
+   "file": "PatrickPrimes.pdf",
+   "item": "problème 1 (lire la carte des premiers jusqu'à 2500)",
+   "reason": "demande la carte imprimée, impossible à reproduire sur papier",
+   "answers": "1651 = 13 × 127, donc composé ; aucune case ne contient 5 points car parmi n, n+100, ..., n+400 il y a toujours un multiple de 3"
+  },
+  {
+   "file": "PatrickPrimes.pdf",
+   "item": "problèmes 2 et 3 (infinité des premiers, pourquoi 1 n'est pas premier)",
+   "reason": "discussion de cours, pas un problème"
+  },
+  {
+   "file": "PatrickPrimes.pdf",
+   "item": "problème 8 (probabilité que deux entiers soient premiers entre eux)",
+   "reason": "réponse 6/π², produit infini et analyse : au-dessus du club"
+  },
+  {
+   "file": "Amazing-Numbers-PAMTC.pdf",
+   "item": "questions 2 et 6 (« quelles stratégies t'ont aidé ? »)",
+   "reason": "questions de discussion pour l'animateur"
+  },
+  {
+   "file": "HReiterZ6andZ7.pdf",
+   "item": "tout l'exposé (pages 1 à 7 : résoudre ax + b = c puis ax² + bx + c = 0 dans Z6 et Z7)",
+   "reason": "c'est un cours, pas des exercices ; le seul passage vraiment instructif, « 2x + 3 = 4 n'a pas de solution dans Z6 », sert de « Pour aller plus loin » à 5012"
+  },
+  {
+   "file": "HReiterZ6andZ7.pdf",
+   "item": "« Problems », questions 1 à 3 (remplir les tables de Z11, résoudre 3x − 4 = 9, tracer y = 3x − 4)",
+   "reason": "remplissage de tables",
+   "answers": "3x ≡ 2 (mod 11), l'inverse de 3 est 4, donc x ≡ 8"
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "16 exercices importés, ids 5001 à 5016. Les ids 5017 à 5100 du bloc restent libres.",
+  "Répartition : 4e ×3, 3e ×5, 2de ×5, 1re ×2, Terminale ×1. Difficultés : ** ×2, *** ×6, **** ×7, ***** ×1.",
+  "Tous les fichiers ont été construits en PDF et trois pages rendues ont été relues à l'écran (5003, 5007, 5013, 5016).",
+  "Erreur de la source : numbertheory.pdf, partie 1, problème 4 a) écrit « if you can find a factor that's not 1 or the number itself, it must be prime » — il faut lire « composite ». La phrase dit le contraire de ce qu'elle veut dire.",
+  "Piège de la source : numbertheory.pdf, partie 2, problème 13 b) demande « Is 349602 divisible by 3? If not... » alors que 349602 EST divisible par 3 (somme des chiffres 24). La branche « sinon » est vide.",
+  "Piège de la source : numbertheory.pdf, partie 1, problème 6 e) demande de trouver un nombre pair non premier qui ne soit pas somme de deux premiers, c'est-à-dire de réfuter la conjecture de Goldbach. Posé comme s'il y avait une réponse. Signalé dans le « Pour aller plus loin » de 5002.",
+  "Aucune erreur mathématique trouvée dans HReiterZ6andZ7.pdf : la dérivation de la formule du second degré dans Z7 a été vérifiée ligne à ligne et elle est juste, seulement mal typographiée.",
+  "Doublon évité, non écrit : l'animalerie de diophantine.pdf (100 animaux pour 100 dollars) reprend 4824. Rien n'a été supprimé.",
+  "vm.py check signale des rapprochements de titres entre 5002 et 0876/0158/0253/0762 : ce sont des collisions de mots, pas les mêmes problèmes. Pas de see_also ajouté.",
+  "Pour un second passage : le billard rectangulaire (numbertheory.pdf, partie 2, problème 7) est le meilleur candidat restant, il demande une figure sur papier quadrillé. Vient ensuite le problème 6 sur les implications du PGCD."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "numbertheory.pdf",
+   "pages": 14,
+   "activity": "Primes, Divisibility, and Modular Arithmetic",
+   "activity_url": "https://mathcircles.org/activity/primes-divisibility-and-modular-arithmetic/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Number Theory"
+   ]
+  },
+  {
+   "file": "diophantine.pdf",
+   "pages": 10,
+   "activity": "Introduction to Diophantine Equations",
+   "activity_url": "https://mathcircles.org/activity/introduction-to-diophantine-equations/",
+   "audience": [
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Number Theory"
+   ]
+  },
+  {
+   "file": "PatrickPrimes.pdf",
+   "pages": 4,
+   "activity": "Primes!",
+   "activity_url": "https://mathcircles.org/activity/primes/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Number Theory"
+   ]
+  },
+  {
+   "file": "Amazing-Numbers-PAMTC.pdf",
+   "pages": 2,
+   "activity": "License Plates and Divisibility",
+   "activity_url": "https://mathcircles.org/activity/license-plates-and-divisibility/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Number Theory"
+   ]
+  },
+  {
+   "file": "HReiterZ6andZ7.pdf",
+   "pages": 10,
+   "activity": "Introduction to Finite Systems: Z6 and Z7",
+   "activity_url": "https://mathcircles.org/activity/introduction-to-finite-systems-z6-and-z7/",
+   "audience": [
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Number Theory"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "unit": "games-2",
+ "source": "namc",
+ "title": "Card and deduction games: Spot It, SET, breakout-box puzzle chains",
+ "id_block": [
+  "5401",
+  "5500"
+ ],
+ "status": "done",
+ "files_total": 5,
+ "next_file": 5,
+ "imported": [
+  "5401",
+  "5402",
+  "5403",
+  "5404",
+  "5405",
+  "5406",
+  "5407",
+  "5408",
+  "5409",
+  "5410",
+  "5411",
+  "5412",
+  "5413",
+  "5414",
+  "5415",
+  "5416",
+  "5417",
+  "5418",
+  "5419",
+  "5420"
+ ],
+ "skipped": [
+  {
+   "file": "SpotItMTC.pdf",
+   "item": "tout le fichier",
+   "reason": "Fiche participant de la meme activite que SpotItPuzzleEdited.pdf : uniquement des questions ouvertes a poser en seance, aucun contenu propre."
+  },
+  {
+   "file": "Set-Activity-Guide.pdf",
+   "item": "section 3, The Geometry of Set (questions 10 a 21)",
+   "reason": "Demande de construire l'espace affine de dimension 4 sur trois valeurs (plans de 9 cartes, 12 SET par plan, hyperplans de 27 cartes, plans gauches). Faisable en Terminale motivee mais trop d'appareillage pour un seul exercice ; a reprendre au second passage. Resultats verifies : un plan de 9 cartes contient 12 SET, un hyperplan 27 cartes, 5 cartes suffisent a engendrer le jeu."
+  },
+  {
+   "file": "Set-Activity-Guide.pdf",
+   "item": "maximum de cartes sans SET",
+   "reason": "Le record est 20 cartes (Pellegrino 1971) : resultat de recherche, indemontrable en club. Mentionne en Pour aller plus loin de 5405."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "But Who's Counting?, probleme 1",
+   "reason": "Rang du mot USAMO dans l'ordre alphabetique des anagrammes. Reponse verifiee : 115. Doublon de 3418 (GLEAN dans ANGLE, 1re)."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "But Who's Counting?, probleme 2",
+   "reason": "Couples (m,n) avec m^2 - n^2 = 96. Reponse verifiee : 4 couples, (10,2), (11,5), (14,10), (25,23) ; l'idee est que les deux facteurs doivent etre pairs. Trop proche de 0408 (x^2 - y^2 = 19 puis 111, 3e)."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "But Who's Counting?, probleme 5",
+   "reason": "Coupe glacee, jusqu'a 4 portions de garniture parmi 3 parfums. Reponse verifiee : 35, soit C(7,3). Combinaisons avec repetition, deja couvert par 4003 (4e) et 3224 (1re)."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "Get In Shape, probleme 2",
+   "reason": "Rectangle AB = 8, BC = 9, H sur [BC] avec BH = 6, E sur [AD] avec DE = 4, G intersection de (EC) et (AH), F pied de la perpendiculaire. Reponse verifiee : GF = 20. Exercice mecanique de geometrie reperee, peu d'idee, ecarte."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "It's All Logical, probleme 3",
+   "reason": "Sondage sur trois sodas. Reponses verifiees : 90 personnes interrogees, 31 ne boivent pas de cola, 21 boivent de la biere de racine mais pas de citron, 20 cola et citron sans biere de racine, 13 seulement biere de racine, expression finale = 10. Inclusion-exclusion a trois ensembles, doublon de 2822 (1re)."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "What's Your Theory?, probleme 2",
+   "reason": "Bidons de 7 et 11 gallons pour mesurer 2 gallons. Classique des bidons, deja present (0109, bidons de 10 et 17 litres)."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "What's Your Theory?, probleme 3",
+   "reason": "Compteur kilometrique detraque d'Alice. Reponse verifiee par simulation : apres 374 km, Alice affiche 347 (chaque rang avance seulement quand le rang correspondant de Bill avance : unites 374 - 37 = 337, dizaines 37 - 3 = 34, centaines 3). Bon probleme mais l'enonce exige un tableau de 25 lignes pour etre comprehensible ; laisse pour un second passage."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "A Little Bit Puzzling, probleme 1",
+   "reason": "Placer 0 a 5 dans six cercles relies par sept traits. Solution unique verifiee par programme : ligne du haut 5, 3, 2 et ligne du bas 1, 4, 0, d'ou la difference 532 - 140 = 392. Demande de redessiner le graphe en SVG ; laisse pour un second passage."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "A Little Bit Puzzling, probleme 2",
+   "reason": "Takuzu (puzzle binaire) 6x6. Solution unique verifiee : 110100 / 001011 / 110010 / 010101 / 001101 / 101010, somme des lignes lues en binaire = 189. Puzzle de logique de magazine plutot que mathematiques, ecarte."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "A Little Bit Puzzling, probleme 3",
+   "reason": "Suites a completer dans des triangles et des carres. Enigme de magazine sans contenu mathematique, ecarte."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "Hopping Around, probleme 2",
+   "reason": "Cycliste, 84 km, 2 km/h de plus que prevu, une heure de moins. Reponse verifiee : vitesse reelle 14 km/h (prevue 12). Equation du second degre de type parcours, genre deja tres present dans la base."
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "item": "The Final Set, probleme 1",
+   "reason": "Chiffre des unites de 1! + 2! + ... + 99!. Reponse : 3. Deja contenu dans la solution de 3024 (3e)."
+  },
+  {
+   "file": "JohnsonSabloffIWalktheLine.pdf",
+   "item": "questions 1 et 2",
+   "reason": "Chemins dans un quadrillage sans obstacle : C(11,5) = 462 et C(18,7) = 31824. Doublon de 0155 (4e) et 0401 (2de)."
+  },
+  {
+   "file": "JohnsonSabloffIWalktheLine.pdf",
+   "item": "question 5",
+   "reason": "Chemins restant sous la diagonale, nombres de Catalan : 42 pour la figure donnee (6x6 carrefours) et 132 pour 7x7. Doublon de 2405 (Terminale), qui fait deja la demonstration par symetrie."
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "SpotItPuzzleEdited.pdf : 2 exercices. 5401 (2de) construit le mini-Dobble a 3 symboles par carte (7 cartes, 7 symboles, plan de Fano) et demontre la borne ; 5402 (1re) fait le double comptage des paires de symboles du vrai Dobble (57 cartes, 57 symboles, 8 cartes par symbole). Les cas s = 4 (13 cartes) et s = 6 (31 cartes) restent en Pour aller plus loin.",
+  "Le texte de Jongsma et Clark a ete verifie : ses affirmations sur les cas impossibles (s = 7 et s = 11) et ouvert (s = 13) sont correctes, ainsi que la formule p = c = s^2 - s + 1 et la note sur les 55 cartes de la boite.",
+  "Set-Activity-Guide.pdf : 5 exercices. 5403 (4e, 81 cartes et unicite de la troisieme carte), 5404 (2de, 1080 SET et 40 SET par carte), 5405 (1re, probabilite 1/79), 5406 (Terminale, classement 108 / 324 / 432 / 216), 5407 (2de, critere des sommes multiples de 3). Tous les comptages du guide ont ete reverifies par programme et sont exacts.",
+  "TMTC-BreakoutBoxes.pdf : 12 exercices (5408 a 5419). C'est en realite un recueil de problemes de concours (AMC, Kangourou) enveloppe dans une seance a cadenas ; les formules de combinaison des reponses pour ouvrir les cadenas ont ete supprimees, elles n'ont aucun interet mathematique.",
+  "JohnsonSabloffIWalktheLine.pdf : 1 exercice (5420, chemins evitant des carrefours barres, 200 puis 120). La reponse 120 du second plan n'est pas donnee par la fiche, elle a ete calculee et verifiee de deux facons.",
+  "ERREUR DE SOURCE (JohnsonSabloffIWalktheLine.pdf) : deux decalages d'indice. (a) Dans les indications de la question 3, les carrefours de passage obligatoire sont nommes A = (4,3) et B = (3,4), alors que le comptage qui suit, C(5,2) x C(5,2) = 100, correspond a (3,2) et (2,3) avec la maison en (0,0) ; le total 200 est correct. (b) Pour la question 5, la fiche ecrit C_n = C(2n,n)/(n+1) puis annonce C6 = 42 et C7 = 132 : les valeurs numeriques 42 et 132 sont les bonnes reponses des figures, mais avec sa propre formule C6 = 132 et C7 = 429. Les reponses sont donc justes, les etiquettes fausses.",
+  "Doublon signale, non supprime : 6015 (Terminale, magazines) traite le meme theoreme de Dobble que 5401 et 5402, a une troisieme valeur (6 symboles par carte) et avec une quatrieme question sur le jeu degenere. Les trois fichiers sont a des niveaux differents et sont croises par see_also. Arbitrage laisse au coordinateur.",
+  "Pistes pour un second passage : le compteur detraque d'Alice (reponse 347), le puzzle des six cercles (reponse 392), et la geometrie du jeu de SET (plans de 9 cartes et 12 SET par plan)."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "SpotItPuzzleEdited.pdf",
+   "pages": 8,
+   "activity": "Can you &#8220;Spot it!&#8221;",
+   "activity_url": "https://mathcircles.org/activity/can-you-spot-it/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Mathematical Games"
+   ]
+  },
+  {
+   "file": "SpotItMTC.pdf",
+   "pages": 5,
+   "activity": "Can you &#8220;Spot it!&#8221;",
+   "activity_url": "https://mathcircles.org/activity/can-you-spot-it/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Mathematical Games"
+   ]
+  },
+  {
+   "file": "Set-Activity-Guide.pdf",
+   "pages": 7,
+   "activity": "The Game of SET",
+   "activity_url": "https://mathcircles.org/activity/set/",
+   "audience": [
+    "1st - 2nd",
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics",
+    "Geometry",
+    "Mathematical Games",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "TMTC-BreakoutBoxes.pdf",
+   "pages": 5,
+   "activity": "Locked Out: A Breakout Box Session for Your Circle",
+   "activity_url": "https://mathcircles.org/activity/locked-out/",
+   "audience": [
+    "1st - 2nd",
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Mathematical Games",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "JohnsonSabloffIWalktheLine.pdf",
+   "pages": 5,
+   "activity": "Locked Out: A Breakout Box Session for Your Circle",
+   "activity_url": "https://mathcircles.org/activity/locked-out/",
+   "audience": [
+    "1st - 2nd",
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Mathematical Games",
+    "Problem Solving / General"
+   ]
+  }
+ ]
+}

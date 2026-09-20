@@ -1,0 +1,179 @@
+{
+ "unit": "games-1",
+ "source": "namc",
+ "title": "Puzzle games with a mathematical core: KenKen, matching games, combination locks",
+ "id_block": [
+  "5301",
+  "5400"
+ ],
+ "status": "done",
+ "files_total": 5,
+ "next_file": 5,
+ "imported": [
+  "5301",
+  "5302",
+  "5303",
+  "5304",
+  "5305",
+  "5306",
+  "5307",
+  "5308",
+  "5309",
+  "5310",
+  "5311",
+  "5312",
+  "5313",
+  "5314",
+  "5315",
+  "5316",
+  "5317"
+ ],
+ "skipped": [
+  {
+   "ref": "TShubinmathgames.pdf, jeu 1 (a) (b) (c) : 25 allumettes, on en retire 1 à 4, celui qui prend la dernière gagne",
+   "reason": "Doublon de 0877 (4e, « Vingt-trois allumettes sur la table »), qui est exactement le même jeu avec 23 au lieu de 25. Réponses vérifiées : les positions perdantes sont les multiples de 5 ; avec 25 le second joueur gagne en complétant chaque coup à 5 ; avec 24 le premier joueur gagne en prenant 4 ; en général le premier joueur gagne si et seulement si N n'est pas un multiple de 5."
+  },
+  {
+   "ref": "TShubinmathgames.pdf, jeu 5 : 25 allumettes, on en retire 1, 2 ou 4",
+   "reason": "Écarté comme variante trop proche de 0877 et de 5301 : même méthode (chercher les positions perdantes), un enfant qui a fait 0877 ne découvre rien de neuf. Réponse vérifiée et prête à l'emploi si un second passage la veut : les positions perdantes sont les multiples de 3, et non de 5 comme on s'y attend. 25 = 3*8+1, donc le premier joueur gagne en prenant 1, puis il complète chaque coup de l'adversaire à 3 (réponse 2 à un 1, 1 à un 2, 2 à un 4). Niveau 4e, 3 étoiles."
+  },
+  {
+   "ref": "TShubinmathgames.pdf, jeu 6 : la tour boiteuse sur un damier 8x8, déplacements vers la gauche ou vers le bas",
+   "reason": "C'est le jeu 2 (deux tas d'allumettes) déguisé : les deux coordonnées de la tour sont les deux tas. Conservé comme « Pour aller plus loin » de 5301 plutôt que comme fiche séparée. Réponse : le joueur qui doit jouer perd si et seulement si la tour est sur la diagonale principale, c'est-à-dire si elle est à la même distance du bord gauche et du bord bas ; le premier joueur gagne donc depuis toutes les autres cases, en amenant la tour sur cette diagonale."
+  },
+  {
+   "ref": "TShubinmathgames.pdf, jeu 10 : poser des pièces sur une table ronde",
+   "reason": "Déjà dans la base en 0309 (3e, « Les pièces sur la table ronde »), avec la même stratégie de symétrie centrale."
+  },
+  {
+   "ref": "TShubinmathgames.pdf, jeu 13 : partager un tas en deux tas non vides, tous les tas devant rester de tailles différentes",
+   "reason": "Écarté faute de démonstration honnête : j'ai résolu le jeu par ordinateur mais je n'ai pas trouvé d'argument humain court pour le critère général, et une fiche sans solution démontrée n'a pas sa place ici. Réponses vérifiées par recherche exhaustive : le premier joueur gagne si et seulement si m(n) est PAIR, où m(n) est le plus grand entier k tel que k(k+1)/2 <= n (c'est-à-dire le nombre maximal de tas de tailles distinctes). Positions perdantes pour celui qui commence : n = 1, 2, 6, 7, 8, 9, 15 à 20, 28 à 35, ... ; gagnantes : n = 3, 4, 5, 10 à 14, 21 à 27, ... Donc (iii) avec 11 cailloux le premier joueur gagne, et (iv) avec 22 cailloux aussi. (i) Depuis la position (5 ; 11), celui qui joue gagne, et ses deux seuls bons coups sont de couper le tas de 5 en 1+4 ou en 2+3 ; (ii) tout partage du tas de 11 perd, par exemple 11 = 1+10 qui laisse (1 ; 5 ; 10)."
+  },
+  {
+   "ref": "TShubinmathgames.pdf, jeu 15 : entourer des nombres de 1 à N deux à deux premiers entre eux",
+   "reason": "Écarté : la question (e) « résoudre le jeu en général » n'a pas de réponse simple, et les stratégies gagnantes des petits cas ne se décrivent pas en une phrase. Résultats obtenus par recherche exhaustive : N = 10 le premier joueur gagne (ses seuls premiers coups gagnants sont 2, 4 ou 8) ; N = 12 il gagne (premiers coups gagnants 6, 10 ou 12) ; N = 15 c'est le SECOND joueur qui gagne ; N = 30 le premier gagne, et son unique premier coup gagnant est d'entourer 30. Pour N de 1 à 40, le premier joueur perd exactement pour N = 2, 5, 15, 16, 19, 20, 21, 22, 29, et gagne pour tous les autres : aucune régularité visible."
+  },
+  {
+   "ref": "Match-No-Match-Notes.pdf, diapositives 14 à 17, « Some Other Problems »",
+   "reason": "Trois grands classiques hors sujet du reste de la séance et déjà couverts par la base : le motif de points triangulaires (n(n+1)/2, donc 120 points pour n = 15), les poignées de main entre 15 mathématiciens (15*14/2 = 105, déjà dans la base d'après la note de cadrage), et les triangles obtenus en traçant n céviennes depuis un même sommet ((n+1)(n+2)/2 triangles, donc 66 pour n = 10 et 136 pour n = 15)."
+  },
+  {
+   "ref": "Match-No-Match-Notes.pdf, diapositives 12 et 13 (questions ouvertes du formateur)",
+   "reason": "Questions posées aux enseignants pour la discussion (« peut-on décrire tous les sacs équitables à trois couleurs ? »), sans réponse dans le document et sans énoncé fermé. La note du formateur signale elle-même qu'une de ces questions n'a pas de réponse connue."
+  },
+  {
+   "ref": "PAMTC_Simplex_Lock.pdf, sections 1, 2 et 4",
+   "reason": "Sections d'animation (« quelles questions peut-on poser sur cette serrure ? ») et rappel de cours sur les coefficients binomiaux. Rien à importer. Le contenu mathématique, versions 1 et 2 du décompte, est dans 5312."
+  },
+  {
+   "ref": "Puzzling-Pairs-slides-1.pdf, diapositives 14 à 18 (quilts de Langford, solutions planaires, triplets)",
+   "reason": "Les quilts sont des illustrations. La notion de solution « planaire » (les arcs reliant les jumeaux ne se croisent pas) est jolie mais le document n'en dit rien de plus qu'un dessin, et je n'ai pas voulu écrire un énoncé que la source ne contient pas. La question des triplets (trois jetons par numéro) est laissée ouverte par le document ; je ne l'ai pas tranchée et je ne l'ai donc pas importée."
+  },
+  {
+   "ref": "kenken.pdf, sections 10 à 21 (pages de grilles 4x4, 6x6 et une grille 9x9, avec leurs solutions)",
+   "reason": "Une trentaine de grilles toutes prêtes. J'en ai importé une seule, la 4x4 de la section 3, parce qu'elle est la seule accompagnée d'une résolution pas à pas rédigée, et parce qu'une base d'exercices n'a pas besoin de trente grilles du même type. Un second passage peut reprendre la grille 6x6 de la section 4 (résolution détaillée) pour une fiche 3e ou 2de à 3 étoiles : il faudra redessiner la grille en SVG comme 5317-figure-1.svg."
+  },
+  {
+   "ref": "kenken.pdf, section 6, exercices d'énumération 1 à 7, 9 et 10",
+   "reason": "Même famille que 5315, importé à partir de l'exercice 8. Réponses du document, toutes vérifiées : (1) trois cases en ligne, somme 6 : {1,2,3} ; (2) somme 7 : {1,2,4} ; (3) deux cases en ligne, 5- : {1,6} ; 4- : {1,5} ou {2,6} ; 3- : {1,4}, {2,5} ou {3,6} ; (4) trois cases en L, produit 36 : {2,3,6} partout, {1,6,6} et {3,3,4} avec le nombre non répété dans le coin ; (5) produit 50 : un 2 dans le coin et deux 5 aux extrémités ; (7) somme maximale 17 pour un L de trois cases (6+5+6), 22 pour une cage de quatre cases (6+5+6+5) ; (9) grille 8x8, quatre cases, produit 192 : {1,3,8,8}, {1,4,6,8}, {2,2,6,8}, {2,3,4,8}, {2,4,4,6} sont réalisables, {3,4,4,4} ne l'est pas ; (10) grille 12x12, six cases, produit 6480 : 37 multiensembles, dont {1,5,6,6,6,6} et {3,3,3,3,8,10} sont géométriquement impossibles (c'est le sujet de 5316)."
+  },
+  {
+   "ref": "kenken.pdf, sections 2, 5 et 9",
+   "reason": "Conseils d'animation, liste de stratégies de résolution et fabrication de grilles : matériel pour l'animateur, pas des exercices. La stratégie 11 (produit des trois premières lignes égal à 720^3, puis simplification) ferait un bon exercice de 3e, mais elle exige de redessiner une grille 6x6 partiellement remplie ; laissée pour un second passage."
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "17 exercices importés sur les 5 fichiers de l'unité, tous construits et compilés (vm.py build), figure comprise.",
+  "Le gros du butin vient de TShubinmathgames.pdf : 3 pages, 15 jeux, aucune solution imprimée. Toutes les stratégies gagnantes publiées ici ont été trouvées et vérifiées par moi, deux d'entre elles (jeux 13 et 15) par recherche exhaustive en machine, ce qui a conduit à les écarter faute de démonstration humaine.",
+  "ERREUR DE LA SOURCE : PAMTC_Simplex_Lock.pdf, section 5, imprime g(4) = 151 pour la serrure à quatre boutons dont les boutons peuvent rester libres. La somme écrite juste à côté vaut 1 + 4 + 18 + 52 + 75 = 150. La valeur correcte est 150, et elle est cohérente avec l'identité g(n) = 2 f(n) (150 = 2 x 75). Signalé dans source.reference de 5312 et démontré dans sa solution.",
+  "ERREUR MINEURE DE LA SOURCE : kenken.pdf, section 7, exercice 8, annonce « the four cases » puis n'en énumère que trois. Il y en a bien trois. Signalé dans source.reference de 5315.",
+  "5302 (7) et 5303 (13) sont deux fiches volontairement jumelles, à deux niveaux différents (3e et Terminale) : le même jeu, une réponse opposée. Elles sont croisées par see_also, comme le demande vm.py check.",
+  "vm.py check signale un doublon possible entre 1021 (« La serrure à deux boutons », 2de) et 5312 (« La serrure à cinq boutons », Terminale). C'est un faux positif : 1021 est un problème de suite de de Bruijn, 5312 un décompte de partitions ordonnées. Je n'ai pas croisé les see_also, ce qui aurait été mensonger, et je n'ai pas touché à 1021, qui est hors de mon bloc.",
+  "5304 (les diagonales d'un polygone convexe, 2de) partage son idée centrale — le nombre de coups est fixé d'avance — avec 0310 (la tablette de chocolat, 3e), déjà dans la base. Les deux énoncés sont différents et le polygone demande une étape de plus (montrer que toute triangulation a n-3 diagonales), donc j'ai gardé les deux et je renvoie de l'un à l'autre dans le « Pour aller plus loin » de 5304.",
+  "Rien d'autre à reprendre dans Match-No-Match-Notes.pdf, PAMTC_Simplex_Lock.pdf ni Puzzling-Pairs-slides-1.pdf : ces trois fichiers sont épuisés. Il reste du grain dans kenken.pdf (une grille 6x6 détaillée, la stratégie du produit 720^3) et, pour qui aurait envie de s'y attaquer, les jeux 13 et 15 de Shubin."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "kenken.pdf",
+   "pages": 34,
+   "activity": "KenKen",
+   "activity_url": "https://mathcircles.org/activity/kenken/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Mathematical Games",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "TShubinmathgames.pdf",
+   "pages": 3,
+   "activity": "Mathematical Games",
+   "activity_url": "https://mathcircles.org/activity/mathematical-games/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Mathematical Games",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "Match-No-Match-Notes.pdf",
+   "pages": 17,
+   "activity": "Match or No Match",
+   "activity_url": "https://mathcircles.org/activity/match-or-no-match/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics",
+    "Mathematical Games"
+   ]
+  },
+  {
+   "file": "PAMTC_Simplex_Lock.pdf",
+   "pages": 3,
+   "activity": "Simplex Locks",
+   "activity_url": "https://mathcircles.org/activity/simplex-locks/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics"
+   ]
+  },
+  {
+   "file": "Puzzling-Pairs-slides-1.pdf",
+   "pages": 16,
+   "activity": "Puzzling Pairs",
+   "activity_url": "https://mathcircles.org/activity/puzzling-pairs/",
+   "audience": [
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics",
+    "Number Theory",
+    "Parity / Invariants",
+    "Problem Solving / General"
+   ]
+  }
+ ]
+}

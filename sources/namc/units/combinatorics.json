@@ -1,0 +1,555 @@
+{
+ "unit": "combinatorics",
+ "source": "namc",
+ "title": "Counting: Catalan numbers, compositions, handshakes, pigeonhole and parity",
+ "id_block": [
+  "5201",
+  "5300"
+ ],
+ "status": "done",
+ "files_total": 6,
+ "next_file": 6,
+ "imported": [
+  {
+   "id": "5201",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Découper un polygone convexe en triangles",
+   "file": "catalan.pdf",
+   "ref": "§ 1.4 et § 2.1"
+  },
+  {
+   "id": "5202",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Des poignées de main qui ne se croisent jamais",
+   "file": "catalan.pdf",
+   "ref": "§ 1.5 et § 2.2"
+  },
+  {
+   "id": "5203",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Écrire un nombre comme une somme ordonnée",
+   "file": "JZuckerCompositions.pdf",
+   "ref": "questions 1 et 2"
+  },
+  {
+   "id": "5204",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Les sommes ordonnées de nombres impairs",
+   "file": "JZuckerCompositions.pdf",
+   "ref": "question 4"
+  },
+  {
+   "id": "5205",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Sept jetons, un nombre à trois chiffres",
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "ref": "problème 4"
+  },
+  {
+   "id": "5206",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Des palindromes de pile et de face",
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "ref": "problème 6"
+  },
+  {
+   "id": "5207",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 5,
+   "title": "Deux pièces qui ne se menacent pas",
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "ref": "problème 19"
+  },
+  {
+   "id": "5208",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Les nombres à trois chiffres dont la somme des chiffres fait 9",
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "ref": "problème 16"
+  },
+  {
+   "id": "5209",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 2,
+   "title": "Des parties qui contiennent au moins un nombre premier",
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "ref": "problèmes 1 et 2"
+  },
+  {
+   "id": "5210",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Des plus et des moins tirés au hasard",
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "ref": "problème 22"
+  },
+  {
+   "id": "5211",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Trente entiers dont le produit vaut 1",
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "ref": "Parity 1"
+  },
+  {
+   "id": "5212",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "La dernière perle de la boîte",
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "ref": "Parity 3"
+  },
+  {
+   "id": "5213",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Une équation sans la moindre solution",
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "ref": "Parity 5"
+  },
+  {
+   "id": "5214",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Repeindre une ligne ou une colonne entière",
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "ref": "More Parity 3"
+  },
+  {
+   "id": "5215",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Un carré magique fait de nombres premiers",
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "ref": "More Parity 10"
+  },
+  {
+   "id": "5216",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Quatre nombres et leurs six sommes deux à deux",
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "ref": "More Parity 4"
+  },
+  {
+   "id": "5217",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 2,
+   "title": "Déchirer une feuille en trois ou en cinq",
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "ref": "More Parity 2"
+  },
+  {
+   "id": "5218",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Cent une pièces et une seule pesée",
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "ref": "Parity 4"
+  },
+  {
+   "id": "5219",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Neuf personnes sur une rangée de douze chaises",
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "ref": "Pigeonhole 1"
+  },
+  {
+   "id": "5220",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Onze nombres parmi les vingt premiers",
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "ref": "Pigeonhole 4"
+  },
+  {
+   "id": "5221",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 5,
+   "title": "Cinq couples et les poignées de main",
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "ref": "More Pigeon-hole 8"
+  }
+ ],
+ "skipped": [
+  {
+   "file": "Supreme-court-handshakes-combined.pdf",
+   "what": "le fichier entier (14 pages)",
+   "why": "plan de séance autour du seul comptage n(n-1)/2 des poignées de main ; déjà dans la base (0576, 4e). Aucun autre contenu mathématique."
+  },
+  {
+   "file": "catalan.pdf",
+   "what": "§ 1.1 parenthèses, 1.2 chaînes de montagnes, 1.3 chemins évitant la diagonale, 1.6 arbres binaires, 1.7 arbres plans, 1.8 polyominos obliques, 1.9 parenthésages d'un produit",
+   "why": "toutes ces formulations donnent le même compte ; 2405 démontre déjà la formule sur les chemins. On a gardé les deux cadres les plus éloignés (5201, 5202).",
+   "answer": "C_n = 1/(n+1) * binom(2n,n) : 1, 1, 2, 5, 14, 42, 132, 429, 1430"
+  },
+  {
+   "file": "catalan.pdf",
+   "what": "§ 3 à 5 (réflexion, lemme du cycle, séries génératrices)",
+   "why": "la preuve par réflexion est 2405 ; les séries génératrices dépassent la Terminale."
+  },
+  {
+   "file": "catalan.pdf",
+   "what": "§ 6 triangle de Catalan",
+   "why": "comptage de chemins dans une grille, déjà couvert par 0155, 0401 et 2405."
+  },
+  {
+   "file": "catalan.pdf",
+   "what": "§ 7.1 permutations évitant 123",
+   "why": "l'énoncé seul n'est pas un exercice, et la bijection est hors de portée du club.",
+   "answer": "le nombre de permutations de n éléments évitant 123 vaut C_n (14 pour n = 4)."
+  },
+  {
+   "file": "catalan.pdf",
+   "what": "§ 7.2 pavage d'un escalier triangulaire par n rectangles",
+   "why": "demande une figure lourde et une preuve difficile.",
+   "answer": "C_n ; 14 pavages pour n = 4."
+  },
+  {
+   "file": "JZuckerCompositions.pdf",
+   "what": "question 3 (classement par premier terme)",
+   "why": "raffinement du compte 2^(n-1) déjà importé en 5203.",
+   "answer": "le nombre de compositions de n de premier terme j vaut 2^(n-j-1) si j < n, et 1 si j = n."
+  },
+  {
+   "file": "JZuckerCompositions.pdf",
+   "what": "question 5 (classement par nombre de termes)",
+   "why": "c'est la méthode des barres et étoiles, déjà dans la base (1403, 1001).",
+   "answer": "binom(n-1, k-1) compositions de n en exactement k termes."
+  },
+  {
+   "file": "JZuckerCompositions.pdf",
+   "what": "question 6 (classement par plus grand terme)",
+   "why": "pas de formule close, ce n'est pas un exercice de club."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 3 (carrés ayant au moins 2 sommets dans un ensemble de 6 points)",
+   "why": "énumération très pénible et fragile à la main.",
+   "answer": "30 carrés (calculé par recherche exhaustive : 24 avec exactement 2 sommets, 5 avec 3, 1 avec 4). Non vérifié à la main."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 5 (nombres à 5 chiffres tous impairs)",
+   "why": "trop facile, une seule multiplication.",
+   "answer": "5^5 = 3125."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 7 (billes de 3 couleurs en rang)",
+   "why": "en dessous de la 4e.",
+   "answer": "9, 27, 81."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 8 (équipe de 14 parmi 20 + 10 + 10)",
+   "why": "exercice d'application pure des combinaisons.",
+   "answer": "(a) binom(40,14) ; (b) binom(20,14) = 38760 ; (c) binom(20,5)*binom(10,5)*binom(10,4) ; (d) binom(39,13)."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 9 (10 biscuits pour 7 chiens)",
+   "why": "barres et étoiles, déjà 1001 et 1403 dans la base.",
+   "answer": "binom(16,6) = 8008."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 10 (7 personnes dans une simple, une double et une quadruple)",
+   "why": "correct mais routinier ; candidat pour un second passage en 1re.",
+   "answer": "7!/(1!*2!*4!) = 105."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 11 (permutations heavy-tailed, AMC 2008)",
+   "why": "déjà dans la base : 2805 « Plus lourd à droite qu'à gauche » (1re)."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 12 (5 rouges, 5 vertes, 5 bleues sans deux bleues voisines)",
+   "why": "très proche de 1810 « Des boules noires jamais côte à côte » (Terminale).",
+   "answer": "binom(10,5)*binom(11,5) = 252*462 = 116424."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 13 (mots martiens de 4 lettres sur 6)",
+   "why": "proche de 0607, 2618, 4810 déjà dans la base.",
+   "answer": "(a) 6^4 = 1296 ; (b) 6*5*4*3 = 360 ; (c) 1296 - 360 = 936."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 14 (équipe de 3 parmi 30)",
+   "why": "une seule ligne de calcul.",
+   "answer": "binom(30,3) = 4060."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 15 (entiers < 500 somme de deux cubes positifs)",
+   "why": "énumération routinière ; candidat pour un second passage en 4e.",
+   "answer": "26 valeurs : 2, 9, 16, 28, 35, 54, 65, 72, 91, 126, 128, 133, 152, 189, 217, 224, 243, 250, 280, 341, 344, 351, 370, 407, 432, 468."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 17 (droites Ax + By = 0, A et B chiffres distincts de {0,1,2,3,6,7})",
+   "why": "énoncé artificiel, mais le compte est joli ; candidat pour un second passage en 2de.",
+   "answer": "18 droites distinctes (16 pentes non nulles plus les axes)."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 18 (effacer x et y, écrire x + y + xy, sur 1..100)",
+   "why": "même forme de jeu que 3818 « Cent nombres au tableau » (3e), avec un invariant multiplicatif au lieu d'additif.",
+   "answer": "le produit des (1 + x) est invariant, donc le dernier nombre vaut 101! - 1, quels que soient les choix."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 20 (diagonales d'un polygone convexe)",
+   "why": "formule de cours.",
+   "answer": "n(n-3)/2."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 21 (droites ax + by + c = 0 d'inclinaison aiguë)",
+   "why": "énoncé ambigu (il faudrait préciser si a, b, c peuvent être nuls), non tranché."
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "what": "problème 23 (entiers < 1000 à nombre impair de diviseurs)",
+   "why": "déjà 0303 et 4816 dans la base.",
+   "answer": "31 (les carrés parfaits de 1 à 961)."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "what": "Parity 2 (échiquier 8x8 privé de deux coins de même couleur)",
+   "why": "déjà 0505 « Deux coins découpés » (4e, coloring)."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "what": "5 points à coordonnées entières, deux de milieu entier",
+   "why": "déjà 0429 « Cinq nœuds du quadrillage » (3e)."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "what": "Pigeonhole 2 (deux personnes ayant le même nombre d'amis)",
+   "why": "déjà 0285 (2de) et 4420 (3e)."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "what": "Pigeonhole 3 (6 points dans un disque de rayon 1, deux à distance ≤ 1)",
+   "why": "bon problème, mais géométrique plutôt que combinatoire ; bon candidat pour un second passage en 2de.",
+   "answer": "découper le disque en 6 secteurs de 60° ; deux points d'un même secteur sont à distance ≤ 1 du fait que le secteur tient dans un triangle équilatéral de côté 1."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "what": "Pigeonhole 5 (plan bicolore, rectangle monochrome)",
+   "why": "déjà 1624 « Un rectangle d'une seule couleur dans un plan tricolore » (2de)."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "what": "Pigeonhole 6 (multiple de 2015 n'utilisant que des 5)",
+   "why": "même argument que 4617 et 1217 « Un multiple qui ne s'écrit qu'avec des 1 »."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Parity 1 (damier 5x5 en dominos)",
+   "why": "25 cases, une ligne de raisonnement, en dessous d'une étoile."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Parity 5 et 12 (100 soldats, trois de garde)",
+   "why": "déjà 4418 « Cent soldats, trois de garde » (3e)."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Parity 6 et 13 (signes + et - entre 1 et 101 pour obtenir 0)",
+   "why": "place laissée pour ne pas surcharger la 4e en problèmes de parité ; bon candidat pour un second passage.",
+   "answer": "impossible : 1 + 2 + ... + 101 = 5151 est impair, et changer un signe modifie la somme d'un nombre pair, donc toute valeur atteinte est impaire."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Parity 7 (dés propres à n faces, Pr(n) impair ssi n est une puissance de 2)",
+   "why": "niveau recherche, hors du club."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Parity 8 et More Pigeon-hole 10 (5 points dans un triangle équilatéral de côté 1)",
+   "why": "classique de géométrie plutôt que de combinatoire ; candidat pour un second passage en 3e.",
+   "answer": "découper le triangle en 4 triangles de côté 1/2 par les milieux ; deux des cinq points tombent dans le même, donc à distance ≤ 1/2."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Parity 9 (13 segments, chacun en coupant exactement un autre)",
+   "why": "déjà 0279 « Neuf segments qui se croisent » (3e), même argument de parité."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Parity 11 (doublon du 2 dans le fichier source)",
+   "why": "le fichier répète les problèmes 2, 5 et 6 aux numéros 11, 12, 13."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Pigeon-hole 1 (chaussettes)",
+   "why": "en dessous de la 4e.",
+   "answer": "3 chaussettes."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Pigeon-hole 2 (6 entiers de 1 à 10, deux de somme impaire)",
+   "why": "une ligne : 5 pairs et 5 impairs, donc 6 nombres contiennent les deux parités."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Pigeon-hole 3 (plus de la moitié de 1..2n, deux premiers entre eux)",
+   "why": "bon problème non importé faute de place ; candidat pour un second passage en 3e.",
+   "answer": "grouper en n paires {1,2}, {3,4}, ..., {2n-1,2n} ; deux nombres d'une même paire sont consécutifs donc premiers entre eux."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Pigeon-hole 4 (une puissance de 3 finissant par 001)",
+   "why": "proche de 2204 « Les deux derniers chiffres de 3 puissance 1234 » (Terminale)."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Pigeon-hole 5 (49 ampoules en cercle)",
+   "why": "long à écrire proprement, et l'argument d'arrêt est délicat."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Pigeon-hole 6 (25 garçons et 25 filles autour d'une table)",
+   "why": "proche de 3822 « Treize enfants autour de la table » (3e) ; à revoir au second passage."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Pigeon-hole 7 (aspirine, 30 jours, 45 comprimés)",
+   "why": "déjà 4620 « Cinq cents exercices dans l'année » (3e)."
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "what": "More Pigeon-hole 9, 11, 12, 13, 14",
+   "why": "niveau olympiade supérieur (14 entiers de 1..28 ; 25 points et un cercle de rayon 1 ; rectangle bleu dans une grille 14x14 ; somme consécutive divisible par 100 ; Erdős-Szekeres sur 780 réels). Aucun n'a été rédigé."
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "Les 6 fichiers ont été lus. Supreme-court-handshakes-combined.pdf est entièrement écarté : c'est un plan de séance autour du seul comptage n(n-1)/2, déjà dans la base (0576).",
+  "catalan.pdf est un article de Tom Davis. La formule de Catalan est déjà démontrée par 2405 (Terminale) ; on a donc importé les deux formulations les plus éloignées de celle-là, la triangulation d'un polygone (5201, 1re) et les poignées de main non croisées (5202, 2de), toutes deux liées à 2405 par see_also.",
+  "Les listes Conrey/Cristiani sont des classiques russes : plus de la moitié étaient déjà dans la base venant de Moscou ou de Lyon. Chaque recoupement est consigné dans skipped avec l'identifiant existant.",
+  "Doublon d'idée à arbitrer : 5214 « Repeindre une ligne ou une colonne entière » (3e, 6x6, une case noire au départ) et 0711 « Une seule case noire sur l'échiquier ? » (4e, 8x8, damier au départ) utilisent le même invariant de parité sur le nombre de cases noires. Les deux fichiers ont été conservés et 5214 pointe sur 0711 par see_also.",
+  "Voisinage à signaler sans être un doublon : 5215 « Un carré magique fait de nombres premiers » (2de, impossibilité) et 5907 « Le carré magique 3 x 3 » (4e, construction), écrit par un autre agent pendant le même import.",
+  "Aucune erreur de source trouvée : les énoncés retenus sont corrects. Les fichiers ne comportent presque aucune solution, toutes les réponses publiées ici ont été calculées et vérifiées (script de vérification exécuté sur les 21 réponses numériques).",
+  "Les 21 exercices passent vm.py check et se compilent tous en PDF. Pages relues à l'écran : 5201, 5202, 5203, 5207, 5210, 5215, 5216, 5221."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "catalan.pdf",
+   "pages": 18,
+   "activity": "Catalan Numbers",
+   "activity_url": "https://mathcircles.org/activity/catalan-numbers/",
+   "audience": [
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics"
+   ]
+  },
+  {
+   "file": "JZuckerCompositions.pdf",
+   "pages": 2,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "Count-Me-In-Problem-Set.pdf",
+   "pages": 4,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "Supreme-court-handshakes-combined.pdf",
+   "pages": 14,
+   "activity": "Supreme Court Handshakes",
+   "activity_url": "https://mathcircles.org/activity/supreme-court-handshakes/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Combinatorics",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "ConreyCristianiPig_and_par.pdf",
+   "pages": 1,
+   "activity": "Pigeonhole Principle and Parity Problems",
+   "activity_url": "https://mathcircles.org/activity/pigeonhole-principle-and-parity-problems/",
+   "audience": [
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Combinatorics",
+    "Geometry",
+    "Number Theory",
+    "Parity / Invariants",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "ConreyCristianiPig_and_par_extra.pdf",
+   "pages": 2,
+   "activity": "Pigeonhole Principle and Parity Problems",
+   "activity_url": "https://mathcircles.org/activity/pigeonhole-principle-and-parity-problems/",
+   "audience": [
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Combinatorics",
+    "Geometry",
+    "Number Theory",
+    "Parity / Invariants",
+    "Problem Solving / General"
+   ]
+  }
+ ]
+}

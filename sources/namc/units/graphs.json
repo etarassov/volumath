@@ -1,0 +1,262 @@
+{
+ "unit": "graphs",
+ "source": "namc",
+ "title": "Graphs and topology: Euler characteristic, Criss-Cross, rational tangles, knots, Voronoi",
+ "id_block": [
+  "5701",
+  "5800"
+ ],
+ "status": "done",
+ "files_total": 6,
+ "next_file": 6,
+ "imported": [
+  {
+   "id": "5704",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Torsion et rotation : quel nombre obtient-on ?",
+   "file": "Rational-Tangles.pdf"
+  },
+  {
+   "id": "5701",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Défaire trois torsions",
+   "file": "Rational-Tangles.pdf"
+  },
+  {
+   "id": "5702",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "On revient toujours à zéro",
+   "file": "Rational-Tangles.pdf"
+  },
+  {
+   "id": "5703",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Retrancher 1 sans savoir retrancher",
+   "file": "Rational-Tangles.pdf"
+  },
+  {
+   "id": "5710",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Le jeu de Criss-Cross",
+   "file": "CrissCross_Vandervelde.pdf"
+  },
+  {
+   "id": "5712",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Cinq points reliés deux à deux",
+   "file": "CrissCross_Vandervelde.pdf + eulerchar.pdf"
+  },
+  {
+   "id": "5720",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Les croisements entre deux rangées de points",
+   "file": "MATH-CIRCLE-SESSION_Intersection-Math.pdf"
+  },
+  {
+   "id": "5721",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Croisements, courbes et régions",
+   "file": "MATH-CIRCLE-SESSION_Intersection-Math.pdf"
+  },
+  {
+   "id": "5730",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Le partage des terres entre quatre fermes",
+   "file": "mtc-voronoi.pdf"
+  }
+ ],
+ "skipped": [
+  {
+   "file": "eulerchar.pdf",
+   "what": "problèmes 1 à 5",
+   "why": "Exercices d'échauffement pour découvrir V - E + F = 2 sur des dessins minuscules (un point seul, une arête, deux arêtes). Pas des exercices, des étapes de séance."
+  },
+  {
+   "file": "eulerchar.pdf",
+   "what": "problème 6 (quatre points, six segments sans croisement)",
+   "why": "Repris comme question 1 de 5712, pas assez consistant tout seul."
+  },
+  {
+   "file": "eulerchar.pdf",
+   "what": "problème 7 (dessin en plusieurs morceaux)",
+   "why": "Dérivé de 2021 (sept lacs, dix canaux), qui contient déjà le raisonnement. Réponse trouvée et vérifiée : pour un dessin en c morceaux, S - A + F = 1 + c. Exemple prêt à l'emploi : 20 points, 24 segments, 8 régions (extérieur compris) donne 20 - 24 + 8 = 4, donc 3 morceaux."
+  },
+  {
+   "file": "eulerchar.pdf",
+   "what": "problème 8 (dix villages, seize autoroutes, combien de champs ?)",
+   "why": "C'est mot pour mot 2021 « Sept lacs, dix canaux, combien d'îles ? » (1re, 4 étoiles). Réponse : 10 - 16 + F = 2 donne F = 8 régions, soit 7 champs. Non importé pour ne pas doubler 2021."
+  },
+  {
+   "file": "CrissCross_Vandervelde.pdf",
+   "what": "le déroulé de séance (parties a à e) et le plateau de jeu à imprimer",
+   "why": "Consignes d'animation. Toute la matière mathématique est dans 5710 et 5712."
+  },
+  {
+   "file": "CrissCross_Vandervelde.pdf",
+   "what": "problème 6 (plateau carré au lieu du triangle)",
+   "why": "Placé dans la section « Pour aller plus loin » de 5710 : A = 3n + 5 coups, et avec 9 points intérieurs le second joueur gagne, alors qu'avec 13 points en tout sur un triangle c'est le premier."
+  },
+  {
+   "file": "Rational-Tangles.pdf",
+   "what": "la chorégraphie avec quatre élèves et deux cordes, et le final avec le sac plastique",
+   "why": "Purement physique. Les quatre exercices 5701 à 5704 gardent toute la mathématique."
+  },
+  {
+   "file": "mtc-voronoi.pdf",
+   "what": "Activity 1 et 2 (tracer des diagrammes de Voronoï et des triangulations de Delaunay au tableau), Activity 3 (propriété de la boule vide), les générateurs en ligne",
+   "why": "Travail de dessin au tableau, sans énoncé fermé ni réponse vérifiable. La dualité Voronoï / Delaunay et la boule vide sont évoquées dans le « Pour aller plus loin » de 5730."
+  },
+  {
+   "file": "MATH-CIRCLE-SESSION_Intersection-Math.pdf",
+   "what": "section 2 « Rectangle math »",
+   "why": "Doublon de 3617 « Combien de rectangles dans un quadrillage ? » (3e, 3 étoiles), même compte et même méthode. Mentionné dans le « Pour aller plus loin » de 5720."
+  },
+  {
+   "file": "MATH-CIRCLE-SESSION_Intersection-Math.pdf",
+   "what": "section 3 « Dinner-party math »",
+   "why": "Troisième habillage du même compte que 5720. Mentionné dans son « Pour aller plus loin »."
+  },
+  {
+   "file": "MATH-CIRCLE-SESSION_Intersection-Math.pdf",
+   "what": "challenges 5 à 8 (croisements multiples, courbes sortant de la bande, régions infinies)",
+   "why": "Questions ouvertes sans réponse unique, l'auteur le dit lui-même. Non transformables en exercice."
+  },
+  {
+   "file": "MannPuzzlesBandsKnots.pdf",
+   "what": "le fichier entier, 67 diapositives",
+   "why": "Diaporama d'animation. Le puzzle de Pythagore se découpe et se déplace à la main (et Pythagore est très couvert), les bandes de Moebius se coupent aux ciseaux, le « nœud humain » et le trèfle humain se font à plusieurs, et les vingt dernières diapositives sont de la biologie de l'ADN sans énoncé."
+  },
+  {
+   "file": "MannPuzzlesBandsKnots.pdf",
+   "what": "diapositives 29 et 30, « Knotted Rope? »",
+   "why": "Seul vrai problème écrit du fichier, et il a fallu rendre la page en image pour le voir. Une corde est posée selon un motif à trois croisements, on ne voit pas qui passe dessus. Réponse travaillée et confirmée par la diapositive 30 (qui montre les 8 photos, 2 encadrées en rouge) : probabilité 1/4, car sur les 2^3 = 8 façons de choisir dessus/dessous, 2 donnent un vrai nœud de trèfle et 6 se défont. Non importé parce que décider lesquelles des 8 se défont demande une corde, pas une feuille. Un second passage pourrait l'importer en admettant ce fait, en probabilités (thème peu fourni)."
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "Recherche dans la base par énoncé avant d'écrire : la formule d'Euler est déjà portée par 2021 (sept lacs, dix canaux, 1re), Koenigsberg par 0234, le lemme des poignées de main par 2024, le compte des rectangles par 3617, les croisements de diagonales par 0538. Les enchevêtrements rationnels, Voronoï et la non-planarité de cinq points reliés deux à deux étaient absents.",
+  "Rendu : \\xrightarrow{T} passe pandoc vers typst et s'imprime comme une petite flèche surmontée de son étiquette. Très pratique pour dérouler un calcul coup par coup. Vérifié sur page rendue.",
+  "Figures : les accents passent dans un <text> SVG. En revanche la famille Georgia rend les chiffres en style ancien, et le 0 ressemble alors à un o minuscule ; utiliser Helvetica pour tout texte de figure contenant des chiffres.",
+  "Source vérifiée et juste : 963 x 4036 = 3 771 690 643 890 en « intersection math » (Tanton).",
+  "Source vérifiée et juste : la table d'untangle de Rational-Tangles.pdf. T^n se défait par RT(RTT)^(n-1), soit 3n-1 coups, et un parcours en largeur confirme que c'est le plus court. T3RT3 vaut 8/3 et se défait en 12 coups, comme annoncé.",
+  "Trouvé en plus, non présent dans la source : RTRTR est l'unique suite la plus courte qui réalise x -> x-1 (vérifié sur toutes les suites jusqu'à six coups). C'est le contenu de 5703.",
+  "Aucune erreur trouvée dans les sources de cette unité.",
+  "À signaler au coordinateur : 5721 démontre son invariant en ajoutant les courbes une par une, exactement la technique de 2021, et les deux fichiers sont dans grade-11/combinatorics/4. Problèmes différents, mais un animateur ne devrait pas donner les deux à la même séance.",
+  "À signaler aussi : 5710 (2de) et 5712 (1re) utilisent tous deux la formule d'Euler avec un double comptage. Grades différents, gardés séparés volontairement."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "eulerchar.pdf",
+   "pages": 2,
+   "activity": "Euler Characteristic Exploration",
+   "activity_url": "https://mathcircles.org/activity/euler-characteristic-exploration/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics",
+    "Geometry"
+   ]
+  },
+  {
+   "file": "CrissCross_Vandervelde.pdf",
+   "pages": 3,
+   "activity": "Game of Criss-Cross",
+   "activity_url": "https://mathcircles.org/activity/game-of-criss-cross/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics",
+    "Geometry",
+    "Mathematical Games"
+   ]
+  },
+  {
+   "file": "Rational-Tangles.pdf",
+   "pages": 6,
+   "activity": "Conway’s Rational Tangles",
+   "activity_url": "https://mathcircles.org/activity/rational-tangles/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic"
+   ]
+  },
+  {
+   "file": "MannPuzzlesBandsKnots.pdf",
+   "pages": 67,
+   "activity": "Puzzles, Bands, and Knots",
+   "activity_url": "https://mathcircles.org/activity/puzzles-bands-knots/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry"
+   ]
+  },
+  {
+   "file": "mtc-voronoi.pdf",
+   "pages": 3,
+   "activity": "How do you connect the dots?",
+   "activity_url": "https://mathcircles.org/activity/how-do-you-connect-the-dots/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "MATH-CIRCLE-SESSION_Intersection-Math.pdf",
+   "pages": 9,
+   "activity": "Intersection Math",
+   "activity_url": "https://mathcircles.org/activity/intersection-math/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics"
+   ]
+  }
+ ]
+}

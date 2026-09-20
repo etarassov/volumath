@@ -1,0 +1,469 @@
+{
+ "unit": "coloring-modeling",
+ "source": "namc",
+ "title": "Colouring arguments and invariants, plus modelling sessions",
+ "id_block": [
+  "5901",
+  "6000"
+ ],
+ "status": "done",
+ "files_total": 15,
+ "next_file": 15,
+ "imported": [
+  {
+   "id": "5901",
+   "file": "Coloring_Tom_Davis_Facilitator_Guide.pdf",
+   "ref": "problème 3",
+   "grade": 10,
+   "theme": "coloring",
+   "difficulty": 5,
+   "title": "Vingt et un trominos droits et une case libre"
+  },
+  {
+   "id": "5902",
+   "file": "Coloring_Tom_Davis_Facilitator_Guide.pdf",
+   "ref": "problème 5",
+   "grade": 8,
+   "theme": "coloring",
+   "difficulty": 3,
+   "title": "La souris et le cube de fromage"
+  },
+  {
+   "id": "5903",
+   "file": "Coloring_Tom_Davis_Facilitator_Guide.pdf",
+   "ref": "problème 4 (BAMO 2008)",
+   "grade": 10,
+   "theme": "coloring",
+   "difficulty": 5,
+   "title": "Combien de tétraminos en S sur un damier 9 x 9 ?"
+  },
+  {
+   "id": "5904",
+   "file": "Coloring_Tom_Davis_Facilitator_Guide.pdf",
+   "ref": "problème 6",
+   "grade": 10,
+   "theme": "coloring",
+   "difficulty": 3,
+   "title": "Deux couleurs pour un plan découpé par des cercles"
+  },
+  {
+   "id": "5905",
+   "file": "GAbramsMadVetpuzzles.pdf",
+   "ref": "Puzzle 2, questions 2.1-2.5",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Les machines du vétérinaire fou"
+  },
+  {
+   "id": "5906",
+   "file": "Bubbling-Cauldrons-Handout.pdf",
+   "ref": "règles 1-4",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Les deux marmites qui débordent"
+  },
+  {
+   "id": "5907",
+   "file": "Magic-Squares.pdf",
+   "ref": "énoncé principal + Challenge 1",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Le carré magique 3 x 3"
+  },
+  {
+   "id": "5908",
+   "file": "Wolves-Sheep.pdf",
+   "ref": "question 7 / Challenge #3",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Le loup et les moutons"
+  },
+  {
+   "id": "5909",
+   "file": "Gerrymandering.pdf",
+   "ref": "Warm-Up, questions 1-3",
+   "grade": 8,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Découper les circonscriptions"
+  },
+  {
+   "id": "5910",
+   "file": "EJohnstonProbability.pdf",
+   "ref": "problème 1",
+   "grade": 9,
+   "theme": "probability-statistics",
+   "difficulty": 2,
+   "title": "Les deux dés peints en rouge et bleu"
+  },
+  {
+   "id": "5911",
+   "file": "EJohnstonProbability.pdf",
+   "ref": "problème 2",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Huit spaghettis et une seule boucle"
+  },
+  {
+   "id": "5912",
+   "file": "EJohnstonProbability.pdf",
+   "ref": "problème 7",
+   "grade": 12,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "La règle coupée en trois morceaux"
+  },
+  {
+   "id": "5913",
+   "file": "EJohnstonProbability.pdf",
+   "ref": "problème 10",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Le prisonnier et les deux bols"
+  },
+  {
+   "id": "5914",
+   "file": "EJohnstonProbability.pdf",
+   "ref": "Warm up problem",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 2,
+   "title": "Somme et différence de deux nombres tirés au hasard"
+  },
+  {
+   "id": "5915",
+   "file": "MATH-CIRCLE-SESSION_Bicycle-Tracks.pdf",
+   "ref": "Part 2, Areas Between Tracks",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "L'aire entre les deux traces du vélo"
+  },
+  {
+   "id": "5916",
+   "file": "EJohnstonLockers.pdf",
+   "ref": "problème 6b",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Les casiers et les élèves sans facteur carré"
+  }
+ ],
+ "skipped": [
+  {
+   "file": "Coloring_Tom_Davis_Facilitator_Guide.pdf",
+   "item": "problème 1, damier mutilé et dominos",
+   "reason": "déjà dans la base : 0505 (6x6, deux coins enlevés)"
+  },
+  {
+   "file": "Coloring_Tom_Davis_Facilitator_Guide.pdf",
+   "item": "problème 2, BAMO 2006, n x n élèves qui changent de chaise",
+   "reason": "même argument de parité que 0179, 0278, 0506 ; réponse : possible si et seulement si n est pair"
+  },
+  {
+   "file": "Coloring_Tom_Davis_Facilitator_Guide.pdf",
+   "item": "problème 7, six personnes, poignées de main",
+   "reason": "déjà dans la base : 0235"
+  },
+  {
+   "file": "Coloring_Tom_Davis_Facilitator_Guide.pdf",
+   "item": "problèmes 8 et 9, coloriage et multicoloriage du sudoku",
+   "reason": "technique de résolution de sudoku, pas un problème de club ; trop dépendant de grilles particulières"
+  },
+  {
+   "file": "GAbramsMadVetpuzzles.pdf",
+   "item": "Puzzle 1 (chat -> 4 chiens + 1 souris, etc.)",
+   "reason": "l'invariant (chat=3, chien=1, souris=4, modulo 5) n'interdit aucune des deux questions posées : 7 souris et 3 chiens sont tous deux de poids 3 mod 5, donc l'exercice se réduit à deux constructions sans obstacle. Moins bon que le Puzzle 2"
+  },
+  {
+   "file": "GAbramsMadVetpuzzles.pdf",
+   "item": "Puzzles 3 et 4",
+   "reason": "même mécanique que 5905. Puzzle 3 : l'invariant exact est (nb chiens - nb souris), entier, donc une infinité de classes. Puzzle 4 : machine 3 (souris -> 2 souris) casse la réversibilité utile"
+  },
+  {
+   "file": "Lomas_GridPaper1.pdf",
+   "item": "fichier entier",
+   "reason": "article de pédagogie (CMC ComMuniCator) : 7 minutes de contemplation de papier quadrillé, puis le comptage des carrés d'une grille n x n (1^2+...+n^2), déjà couvert par la famille 3617. Réponse notée pour l'extension : le nombre de TOUS les carrés, penchés compris, à sommets sur les noeuds d'une grille de n x n cases, vaut la somme des k(n+1-k)^2 pour k de 1 à n, soit 336 pour n = 7 contre 140 carrés droits"
+  },
+  {
+   "file": "EJohnstonLockers.pdf",
+   "item": "problème 1 (le problème classique des casiers)",
+   "reason": "déjà dans la base : 4816 et 0303"
+  },
+  {
+   "file": "EJohnstonLockers.pdf",
+   "item": "problèmes 2, 3, 7, 8 (quels élèves envoyer pour n'ouvrir que tel casier)",
+   "reason": "bons mais tous variantes du même mécanisme ; un seul a été pris (5916). Réponses notées : pour n'ouvrir que le casier 1, envoyer exactement les élèves sans facteur carré ; pour n'ouvrir que le casier 3, envoyer les élèves 3m avec m sans facteur carré"
+  },
+  {
+   "file": "EJohnstonLockers.pdf",
+   "item": "problème 9 (élèves numérotés par des carrés parfaits)",
+   "reason": "réponse trop technique pour un club : le casier n reste ouvert si et seulement si tous les exposants de la décomposition de n sont congrus à 0 ou 1 modulo 4"
+  },
+  {
+   "file": "Witches-Cauldrons.pdf",
+   "item": "fichier entier",
+   "reason": "copie mot pour mot de Bubbling-Cauldrons-Handout.pdf, déjà importé en 5906"
+  },
+  {
+   "file": "Wolves-Sheep-Teacher-Guide.pdf",
+   "item": "Challenges 1, 2, 4",
+   "reason": "guide d'animation ; les questions demandent de manipuler des jetons sur une grille et n'ont pas de réponse générale intéressante. Réponses calculées et notées : deux loups sur 5x5 laissent au plus 7 moutons en sécurité ; il faut 3 loups sur 5x5 et 5 loups sur 8x8 pour qu'aucune case ne soit sûre"
+  },
+  {
+   "file": "Handout.pdf",
+   "item": "fichier entier (Hyperbolic Soccer Ball, Frank Sottile)",
+   "reason": "activité de construction : découper des heptagones et des hexagones, les scotcher, puis mesurer des angles sur le modèle. Rien ne se pose ni ne se résout sur papier"
+  },
+  {
+   "file": "Gerrymandering.pdf",
+   "item": "pages 2 à 23 (cartes Red vs Blue, Colorado, Impossible Maps, Large Maps)",
+   "reason": "chaque question porte sur une carte précise qu'il faudrait redessiner, et la contrainte de contiguïté rend les réponses longues et sans idée générale. Seule la Warm-Up, qui se pose sans carte, a été prise (5909)"
+  },
+  {
+   "file": "TrianglesSquaresandSegregation_AnneHo_combined.pdf",
+   "item": "fichier entier (Prejudiced Polygons)",
+   "reason": "44 diapositives : simulation de ségrégation de Schelling sur un plateau, avec déplacements successifs de pions mécontents. Aucune question à réponse déterminée ; c'est une activité de discussion"
+  },
+  {
+   "file": "MATH-CIRCLE-SESSION_Bicycle-Tracks.pdf",
+   "item": "Partie 1 (dans quel sens le vélo est-il parti ?) et les trois questions difficiles",
+   "reason": "la partie 1 demande de regarder une vraie paire de traces tracées à la craie ; les questions difficiles (courbes de courbure constante, vélo qui produit une trace unique) sont des problèmes de recherche"
+  },
+  {
+   "file": "EJohnstonProbability.pdf",
+   "item": "problème 3 (6 ficelles nouées en A puis en B)",
+   "reason": "se ramène exactement à 5911 avec 3 brins. Réponse calculée et vérifiée par énumération : 8/15"
+  },
+  {
+   "file": "EJohnstonProbability.pdf",
+   "item": "problème 4 (Monty Hall)",
+   "reason": "déjà dans la base : 1014"
+  },
+  {
+   "file": "EJohnstonProbability.pdf",
+   "item": "problème 5 (paradoxe des deux enveloppes)",
+   "reason": "paradoxe non résolu par la source ; pas un exercice à réponse"
+  },
+  {
+   "file": "EJohnstonProbability.pdf",
+   "item": "problème 6 (Bill et Yolanda se donnent rendez-vous)",
+   "reason": "déjà dans la base : 2616. Réponse : 1 - (18/30)^2 = 16/25"
+  },
+  {
+   "file": "EJohnstonProbability.pdf",
+   "item": "problèmes 8 et 9 (dés non transitifs)",
+   "reason": "trop proche de 2617 (quatre dés en cycle). Réponses calculées : rouge {1,4,4,4,4,4}, vert {2,2,2,5,5,5}, bleu {3,3,3,3,3,6} ; vert bat rouge 7/12, bleu bat vert 7/12, rouge bat bleu 25/36 ; le second joueur gagne toujours"
+  },
+  {
+   "file": "Counterexamples-2017.pdf",
+   "item": "fichier entier",
+   "reason": "jeu oral de classe (Math for Love) : l'animateur énonce une affirmation fausse, les élèves cherchent un contre-exemple. Aucun énoncé ne tient seul sur papier"
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "Les 15 fichiers ont été lus. 7 portent des problèmes qui tiennent sur papier, 8 sont des plans de séance ou des activités manuelles.",
+  "Le fichier Coloring de Tom Davis est le seul du lot qui ressemble à une vraie feuille d'exercices, avec des solutions. Il a fourni 4 des 16 exercices.",
+  "SOURCE FAUSSE : EJohnstonProbability.pdf, notes du problème 2 (spaghettis). La récurrence imprimée, P(n) = ((n-1)/n) P(n-1), donne P(8) = 1/8. Elle oublie que n brins ont 2n extrémités. La bonne récurrence est P(n) = ((2n-2)/(2n-1)) P(n-1) et la bonne réponse est 2048/6435, environ 0,318. Corrigé dans 5911 et signalé dans son champ source.reference.",
+  "Toutes les réponses de Coloring_Tom_Davis ont été revérifiées par le calcul : les deux tricoloriages des trominos (4 cases possibles : (3,3), (3,6), (6,3), (6,6), avec pavage explicite construit par ordinateur), la majoration à 16 tétraminos en S sur 9x9 (marquage à 16 points vérifié sur les 224 placements possibles, et rangement de 16 pièces trouvé, invariant par demi-tour).",
+  "Les nombres des marmites ont été vérifiés par recherche exhaustive : 8 avec deux marmites, 23 avec trois marmites (nombres de Schur faibles). L'ensemble {1,...,9} est un obstacle minimal : aucun sous-ensemble strict ne bloque, donc la démonstration passe forcément par une disjonction de cas. Un arbre à 4 feuilles a été trouvé et écrit dans 5906.",
+  "Paire à surveiller : 5904 (cercles, 2de) et 4805 (droites, Terminale) sont deux versions du même théorème de bicoloriage, avec des démonstrations différentes (parité du nombre de cercles contenant la région, contre récurrence). Reliées par see_also, aucune des deux n'a été supprimée.",
+  "Proche mais distinct : 5907 (construire et caractériser le carré magique 3x3) et 5309 (le jeu des neuf cartes de somme 15, bloc d'un autre agent), qui utilise le carré magique comme outil sans le construire.",
+  "Rien n'a été supprimé, et aucun fichier hors du bloc 5901-6000 n'a été touché.",
+  "Paire à surveiller : 5914 (1re, probabilité géométrique, trois régions du carré) et 1405 (Terminale, un seul rapport d'aires dans un rectangle) se recoupent sur la question P(A <= B). Titre et nom de fichier de 5914 modifiés pour les distinguer, reliés par see_also, rien supprimé."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "Coloring_Tom_Davis_Facilitator_Guide.pdf",
+   "pages": 10,
+   "activity": "Coloring",
+   "activity_url": "https://mathcircles.org/activity/coloring/",
+   "audience": [
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "GAbramsMadVetpuzzles.pdf",
+   "pages": 7,
+   "activity": "The Mad Veterinarian on Mathematical Safari",
+   "activity_url": "https://mathcircles.org/activity/the-mad-veterinarian/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Combinatorics",
+    "Mathematical Games"
+   ]
+  },
+  {
+   "file": "Lomas_GridPaper1.pdf",
+   "pages": 3,
+   "activity": "Grid Power",
+   "activity_url": "https://mathcircles.org/activity/grid-power-2/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Combinatorics",
+    "Geometry",
+    "Number Theory"
+   ]
+  },
+  {
+   "file": "EJohnstonLockers.pdf",
+   "pages": 2,
+   "activity": "Lockers: An Open-and-Shut Case",
+   "activity_url": "https://mathcircles.org/activity/lockers/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Number Theory"
+   ]
+  },
+  {
+   "file": "Magic-Squares.pdf",
+   "pages": 2,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "Bubbling-Cauldrons-Handout.pdf",
+   "pages": 1,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "Witches-Cauldrons.pdf",
+   "pages": 1,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "Wolves-Sheep-Teacher-Guide.pdf",
+   "pages": 5,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "Wolves-Sheep.pdf",
+   "pages": 2,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "Handout.pdf",
+   "pages": 2,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "Gerrymandering.pdf",
+   "pages": 23,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "TrianglesSquaresandSegregation_AnneHo_combined.pdf",
+   "pages": 44,
+   "activity": "Prejudiced Polygons",
+   "activity_url": "https://mathcircles.org/activity/prejudiced-polygons/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Mathematical Games",
+    "Mathematical Modeling",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "MATH-CIRCLE-SESSION_Bicycle-Tracks.pdf",
+   "pages": 13,
+   "activity": "Bicycle Math",
+   "activity_url": "https://mathcircles.org/activity/bicycle-math/",
+   "audience": [
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "EJohnstonProbability.pdf",
+   "pages": 6,
+   "activity": "Probability",
+   "activity_url": "https://mathcircles.org/activity/probability/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics",
+    "Geometry",
+    "Probability and Statistics"
+   ]
+  },
+  {
+   "file": "Counterexamples-2017.pdf",
+   "pages": 3,
+   "activity": "Counterexamples",
+   "activity_url": "https://mathcircles.org/activity/counterexamples/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Mathematical Games"
+   ]
+  }
+ ]
+}

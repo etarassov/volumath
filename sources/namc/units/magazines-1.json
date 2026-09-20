@@ -1,0 +1,359 @@
+{
+ "unit": "magazines-1",
+ "source": "namc",
+ "title": "MTCircular magazine, earlier issues: mine the recurring problem columns only",
+ "id_block": [
+  "6001",
+  "6100"
+ ],
+ "status": "done",
+ "files_total": 11,
+ "next_file": 11,
+ "imported": [
+  {
+   "id": "6001",
+   "grade": 8,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "La table de multiplication sur les doigts",
+   "file": "MTCircularSA2015.pdf"
+  },
+  {
+   "id": "6002",
+   "grade": 8,
+   "theme": "combinatorics",
+   "difficulty": 2,
+   "title": "Dix centimes, de combien de façons ?",
+   "file": "2019-Spring-MTCircular.pdf"
+  },
+  {
+   "id": "6003",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Les six cartes qui devinent un nombre",
+   "file": "2018-Fall-MTCircular.pdf"
+  },
+  {
+   "id": "6004",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Le porte-monnaie le plus lourd qui ne fait pas un euro",
+   "file": "2019-Spring-MTCircular.pdf"
+  },
+  {
+   "id": "6005",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "La règle à quatre traits",
+   "file": "MTCircularSA2015.pdf"
+  },
+  {
+   "id": "6006",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Un triangle isocèle d'une seule couleur",
+   "file": "MTCircularSummer2011.pdf"
+  },
+  {
+   "id": "6008",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Trois couleurs, deux par droite",
+   "file": "MTCircularSummer2011.pdf"
+  },
+  {
+   "id": "6009",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Quatre colocataires et deux chambres",
+   "file": "2019-Spring-MTCircular.pdf"
+  },
+  {
+   "id": "6011",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Deux voisins qui n'ont jamais de diviseur commun",
+   "file": "MTCircularAutumn2012.pdf"
+  },
+  {
+   "id": "6012",
+   "grade": 11,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Le cercle qui se glisse entre trois cercles",
+   "file": "MTCircular2017SA.pdf"
+  },
+  {
+   "id": "6013",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Des puissances de 2, chacune au plus deux fois",
+   "file": "MTCircular2018W.pdf"
+  },
+  {
+   "id": "6014",
+   "grade": 11,
+   "theme": "probability-statistics",
+   "difficulty": 4,
+   "title": "Les sept tickets qui ne perdent jamais",
+   "file": "MTCircularSA2016.pdf"
+  },
+  {
+   "id": "6015",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Le jeu où deux cartes ont toujours un symbole commun",
+   "file": "MTCircular2017WS.pdf"
+  },
+  {
+   "id": "6016",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 5,
+   "title": "Libérer les clones",
+   "file": "MTCircular2017WS.pdf"
+  },
+  {
+   "id": "6017",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Combien de 2012 dans la 2012e ligne ?",
+   "file": "MTCircularAutumn2012.pdf"
+  },
+  {
+   "id": "6018",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Toutes les fractions, une fois chacune",
+   "file": "MTCircular2018W.pdf"
+  }
+ ],
+ "skipped": [
+  {
+   "file": "MTCircularSummer2011.pdf",
+   "item": "Problem Circle, 2e partie : cercle colorié en 3 couleurs (puis 1000) sans triangle isocèle monochrome",
+   "reason": "question ouverte de niveau recherche ; le cas 2 couleurs est importé en 6006 (impossible, pentagone régulier + tiroirs)"
+  },
+  {
+   "file": "MTCircularAutumn2012.pdf",
+   "item": "In Session : Compositions",
+   "reason": "le polycopié de la séance (JZuckerCompositions.pdf) appartient à une autre unité ; résultat classique (2^(n-1) compositions de n)"
+  },
+  {
+   "file": "MTCircularSA2015.pdf",
+   "item": "Math Without Words : Paths (James Tanton)",
+   "reason": "énigme en images, sans énoncé ; impossible à formuler sans inventer"
+  },
+  {
+   "file": "MTCircularSA2016.pdf",
+   "item": "Math Without Words : Graph Theory (James Tanton)",
+   "reason": "idem, page 19 rendue et lue en image : 7, 8 puis 9 points à relier, la consigne n'est pas écrite"
+  },
+  {
+   "file": "MTCircularSA2016.pdf",
+   "item": "Quilt While You're Ahead (symétries de blocs de patchwork)",
+   "reason": "dénombrement de symétries qui demande les figures de l'article"
+  },
+  {
+   "file": "MTCircularSA2016.pdf",
+   "item": "Shifting Gears (rapports de pignons de vélo)",
+   "reason": "exploration numérique, pas de problème fermé"
+  },
+  {
+   "file": "MTCircular2017SA.pdf",
+   "item": "Polygons and Prejudice ; Daydreams in Music",
+   "reason": "articles d'animation (modèle de ségrégation de Schelling, gammes musicales), pas d'énoncé isolable"
+  },
+  {
+   "file": "MTCircular2018W.pdf",
+   "item": "Listen, Share, Play : grenouilles et crapauds sur un damier 5x5",
+   "reason": "activité manipulatoire, la réponse est une longue suite de coups ; la version sur une bande est importée par magazines-2 (6106)"
+  },
+  {
+   "file": "MTCircular2018W.pdf",
+   "item": "Tiling With Pentagons",
+   "reason": "il faudrait reproduire les 15 types de pentagones convexes pavants ; pas un problème de papier"
+  },
+  {
+   "file": "2018-Fall-MTCircular.pdf",
+   "item": "We the People (méthodes de vote)",
+   "reason": "importé par magazines-2 depuis le tiré à part (6112, 6113)"
+  },
+  {
+   "file": "MTCircular-2018-Fall-Borchelt.pdf",
+   "item": "tout le fichier",
+   "reason": "tiré à part de 4 pages de l'article Mystery Calculator du numéro 2018-Fall ; contenu identique, importé une seule fois (6003)"
+  },
+  {
+   "file": "2019-Fall-MTCircular.pdf",
+   "item": "Tic-Tac-Toe 2.0 (parties nulles, Gobblet Gobblers)",
+   "reason": "les positions nulles sont importées par magazines-2 (6114) depuis le tiré à part ; Gobblet Gobblers est un jeu matériel"
+  },
+  {
+   "file": "2019-Spring-MTCircular.pdf",
+   "item": "65 Uses For a Paperclip : la liste de questions sur le quadrillage 4x4",
+   "reason": "liste de pistes ouvertes, aucune question n'est posée avec sa réponse ; « combien d'aires différentes pour un triangle à sommets sur le quadrillage » serait le meilleur candidat pour une seconde passe"
+  },
+  {
+   "file": "2019-Spring-MTCircular.pdf",
+   "item": "Nombre de façons de rendre la monnaie sur 1 €",
+   "reason": "4562 façons avec les pièces de centimes : calcul hors de portée à la main ; la version 10 centimes est importée (6002)"
+  }
+ ],
+ "retired_ids": [
+  {
+   "id": "6007",
+   "survivor": "5607",
+   "date": "2026-09-20",
+   "why": "Doublon dans le meme dossier, arbitre par le coordinateur apres l'arret de tous les agents. Le survivant porte une figure et demande a l'eleve de trouver les reponses au lieu de les donner dans l'enonce. L'id n'est jamais reutilise."
+  },
+  {
+   "id": "6010",
+   "survivor": "5611",
+   "date": "2026-09-20",
+   "why": "Doublon dans le meme dossier, arbitre par le coordinateur apres l'arret de tous les agents. Le survivant porte une figure et demande a l'eleve de trouver les reponses au lieu de les donner dans l'enonce. L'id n'est jamais reutilise."
+  }
+ ],
+ "notes": [
+  "Rubrique de problèmes par numéro : MTCircularSummer2011 OUI (« Problem Circle », p. 4) ; MTCircularAutumn2012 OUI (« Problem Circle » p. 17 + « In Session » p. 18) ; MTCircularSA2015 OUI (« Problem Circle » p. 18 + « In Session » p. 16 + « Math Without Words » p. 19) ; MTCircularSA2016 NON (seulement « Math Without Words ») ; MTCircular2017WS NON ; MTCircular2017SA NON ; MTCircular2018W NON ; 2018-Fall NON ; 2019-Spring NON ; 2019-Fall NON ; MTCircular-2018-Fall-Borchelt NON (tiré à part).",
+  "La rubrique « Problem Circle » de Joshua Zucker disparaît après l'été 2015. Dans les numéros suivants, la matière se trouve uniquement dans les comptes rendus de séance (articles de fond), d'où viennent 11 des 18 exercices importés ici.",
+  "Défaut de la source : MTCircular2017WS.pdf, « Spot It! » (p. 10-12) majore le jeu à 31 cartes sans supposer qu'aucun symbole ne figure sur toutes les cartes. Sans cette hypothèse la majoration est fausse : on fabrique un jeu aussi grand qu'on veut en mettant un symbole commun sur toutes les cartes. Hypothèse ajoutée dans 6015, contre-exemple en question 4.",
+  "Le tableau de 2019-Spring (façons de rendre la monnaie : 1 c 0, 5 c 1, 10 c 3, 25 c 12, 50 c 49, 1 $ 292) a été recalculé et est exact. Le maximum américain 1,19 $ est exact lui aussi. Version euro calculée ici : 1,43 € (un 50, quatre 20, un 5, quatre 2).",
+  "Réponses calculées et non importées : règle complète minimale, 6 cm 2 traits, 9 cm 3 traits, 10 à 13 cm 4 traits, et aucune règle de 14 cm ou plus avec 4 traits. Façons de rendre la monnaie en euros : 10 c 10, 20 c 40, 50 c 450, 1 € 4562. Suite hyperbinaire : b(27) = 3, b(100) = 19. Triangle des sommes : le nombre de n dans la ligne n vaut phi(n), vérifié jusqu'à n = 12.",
+  "Le bras du tamis d'Apollonius du logo (2, 3, 6, 11, 18, 27, 38) vaut n^2 + 2 ; démontré par la somme des racines de la formule de Descartes. Laissé en « Going further » de 6012, ferait un bon exercice séparé en Terminale.",
+  "Doublons repérés, rien n'a été supprimé : 6007 (à moi) et 6111 (magazines-2) sont le même problème dans le même dossier grade-09/geometry/3 ; 6010 (à moi) et 5611 (autre unité) sont le même problème dans le même dossier grade-10/geometry/4 ; 6008 (grade 10) et 6103 (magazines-2, grade 11) sont le même problème à deux niveaux, croisés par see_also ; 6015 est de la même famille que 5401 et 5402 (Dobble) mais pose une autre question, croisé par see_also ; 6011 et 6017 partagent la construction de 1805 (UCLA), la question 2 de 6011 est exactement celle de 1805, croisés par see_also.",
+  "Les 18 exercices passent vm.py check sans erreur et compilent tous ; pages rendues et relues pour 6003, 6004, 6012, 6016 et 6017.",
+  "Arbitrage du coordinateur, 2026-09-20 : 6007, 6010 retire(s) au profit de 5607, 5611."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "2018-Fall-MTCircular.pdf",
+   "pages": 20,
+   "activity": "Good Things Come in Unexpected Packages",
+   "activity_url": "https://mathcircles.org/activity/good-things-come-in-unexpected-packages/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Mathematical Games",
+    "Number Theory"
+   ]
+  },
+  {
+   "file": "2019-Fall-MTCircular.pdf",
+   "pages": 20,
+   "activity": "Tic-Tac-Toe 2.0",
+   "activity_url": "https://mathcircles.org/activity/tic-tac-toe-2-0/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics",
+    "Mathematical Games",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "2019-Spring-MTCircular.pdf",
+   "pages": 16,
+   "activity": "Recruiting Change for a Dollar",
+   "activity_url": "https://mathcircles.org/activity/recruiting-change-for-a-dollar/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics",
+    "Number Theory",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "MTCircular-2018-Fall-Borchelt.pdf",
+   "pages": 4,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircular2017SA.pdf",
+   "pages": 20,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircular2017WS.pdf",
+   "pages": 20,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircular2018W.pdf",
+   "pages": 20,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircularAutumn2012.pdf",
+   "pages": 20,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircularSA2015.pdf",
+   "pages": 20,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircularSA2016.pdf",
+   "pages": 20,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircularSummer2011.pdf",
+   "pages": 10,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  }
+ ]
+}

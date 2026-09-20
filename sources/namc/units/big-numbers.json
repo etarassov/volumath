@@ -1,0 +1,207 @@
+{
+ "unit": "big-numbers",
+ "source": "namc",
+ "title": "Large numbers, place value, and counting in other bases",
+ "id_block": [
+  "5101",
+  "5200"
+ ],
+ "status": "done",
+ "files_total": 3,
+ "next_file": 3,
+ "imported": [
+  "5101",
+  "5102",
+  "5103",
+  "5104",
+  "5105",
+  "5106",
+  "5107",
+  "5108",
+  "5109",
+  "5110",
+  "5111",
+  "5112",
+  "5113",
+  "5114",
+  "5115",
+  "5116",
+  "5117",
+  "5118",
+  "5119",
+  "5120",
+  "5121",
+  "5122"
+ ],
+ "skipped": [
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "item": "exemples 1 à 6 (pages 1 à 3)",
+   "reason": "résolus dans le polycopié lui-même ; l'exemple 3 (142857) et l'exemple 2 (1089) sont repris comme « Pour aller plus loin » de 5107 et 5108"
+  },
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "item": "problème 2",
+   "reason": "trop proche du problème 22 ; réponse trouvée : avec 1,3,5,7,9 le produit maximal est 93 × 751 = 69 843, le minimal est 1 × 3579 = 3579 (et 15 × 379 = 5685 si l'on impose un nombre à deux chiffres et un à trois)"
+  },
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "item": "problème 3(a)",
+   "reason": "doublon de méthode avec 0105 (plus petit nombre à somme de chiffres imposée)"
+  },
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "item": "problème 3(b)",
+   "reason": "recouvre trop 5103 ; réponse trouvée : il y a 15 nombres à cinq chiffres vérifiant S(S(n)) + S(n) = 50, ce sont exactement ceux de somme de chiffres 43"
+  },
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "item": "problème 3(e)",
+   "reason": "calcul de routine ; réponse trouvée : S(1) + S(2) + ... + S(2007) = 28 044"
+  },
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "item": "problème 4",
+   "reason": "exercices de manipulation des fonctions partie entière et partie fractionnaire, sans idée ; aucun intérêt en club"
+  },
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "item": "problèmes 10, 12, 20, 21, 25, 27, 33, 34",
+   "reason": "bons mais non retenus faute de place, réponses vérifiées : 10 → 99 968 ; 12 → y − x = 18, par exemple x = 10 et y = 28 ; 20 → 251 × 2 = 502, 502 × 2 = 1004, 1004 × 2 = 2008 ; 21 → N = 142 857, somme des chiffres 27 ; 25 → L = 24 (les trois chiffres sont 0, 2, 4) ; 27 → N = 428 571 ; 33 → x = 2 ; 34 → a_2008 a 6925 chiffres, le plus petit n avec au moins 2008 chiffres est 706, a_2008 contient 1601 chiffres 1 et 508 chiffres 0, a_2008 ≡ 1 mod 9, les cinq premiers n tels que 9 divise a_n sont 8, 9, 17, 18, 26, et le plus petit n tel que 11 divise a_n est 106"
+  },
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "item": "problèmes 14 et 19",
+   "reason": "cas particuliers déjà couverts : le 14 est l'exemple 3 du polycopié (142 857), le 19 est le cas f = 4 du problème 15, importé en 5107"
+  },
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "item": "problème 18",
+   "reason": "même technique que 5107, déjà représentée ; réponse trouvée : N = 461 538 (7 × 461538 = 6 × 538461 = 3 230 766)"
+  },
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "item": "problème 22",
+   "reason": "l'optimalité n'est pas démontrable à la main en club ; réponse trouvée pour 22(a) : le produit maximal avec les neuf chiffres non nuls est 87 531 × 9642 = 843 973 902"
+  },
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "item": "problème 23",
+   "reason": "réponses vérifiées par recherche exhaustive mais la partie (f) demande un balayage impossible à la main ; A + B = C a 168 solutions non ordonnées, par exemple 124 + 659 = 783 ; rapport 1:2:3 → 192:384:576 (4 solutions) ; 1:3:5 → 129:387:645 (unique) ; 3:7:8 → 213:497:568 (2 solutions) ; 4:5:6 → 492:615:738 (unique) ; et ce sont les SEULS rapports à un chiffre possibles"
+  },
+  {
+   "file": "bignumbers.pdf",
+   "item": "sections 2 à 5, 7 à 9, 12, 13",
+   "reason": "exposé descriptif (noms des grands nombres, flèches de Knuth, nombre de Graham, Skewes, castor affairé, notation de Conway) : rien à résoudre sur papier"
+  },
+  {
+   "file": "bignumbers.pdf",
+   "item": "section 9.3, machine de Turing à trois états",
+   "reason": "simulation mécanique de quatorze pas, solution donnée en section 15 ; cela tient de l'activité de salle plus que de l'exercice"
+  },
+  {
+   "file": "bignumbers.pdf",
+   "item": "section 11, problème 5 de l'OIM 2010 (boîtes et pièces)",
+   "reason": "NON IMPORTÉ FAUTE DE PLACE, mais entièrement travaillé et prêt pour un second passage : à trois boîtes partant de [1,1,1], le maximum dans la dernière boîte est 7, démontré par analyse de cas (la boîte 1 ne contient qu'une pièce, donc on n'y joue qu'un seul coup, ce qui ne laisse que quatre parties possibles : 7, 3, 7, 6) ; à quatre boîtes on atteint 28 par [1,1,1,1] → [0,3,1,1] → [0,3,0,3] → [0,2,2,3] → [0,2,0,7] → [0,1,7,0] → [0,1,0,14] → [0,0,14,0] → [0,0,0,28]. Bon candidat 2de, logique, difficulté 4"
+  },
+  {
+   "file": "JZcoinsintwoland.pdf",
+   "item": "questions 4 et 8",
+   "reason": "la 4 (« pourquoi ne peut-on pas écrire 2149 pour 349 ? ») est une discussion de séance, pas un exercice ; la 8 (« combien de méthodes trouve-t-on ? ») est une consigne d'animation"
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "Les trois fichiers ont été lus en entier. HReiterPlaceValueProblems.pdf est de très loin le plus riche : 34 problèmes numérotés, presque tous autonomes, aucun avec solution. bignumbers.pdf (Tom Davis) est un article d'exposition : beaucoup de belles mathématiques mais peu de choses à faire faire ; trois exercices en sont sortis. JZcoinsintwoland.pdf tient en une page et donne un excellent exercice.",
+  "ERREUR DE SOURCE TROUVÉE : bignumbers.pdf, section 10.2, annonce que la suite de Goodstein de départ 5 commence par {5, 27, 255, 467, 776}. Le cinquième terme est 775, pas 776 : l'auteur a écrit la valeur obtenue après le changement de base sans retrancher 1. Vérifié à la main et par programme. La bonne valeur est publiée dans 5122 et l'erreur est signalée dans source.reference.",
+  "Tous les exposants des énoncés ont été relus avec tools/pdfsupers.py : 2^2008, 5^2008 et 2^29 (problèmes 30 et 31) sortent bien ainsi, l'extraction plate donnait 22008, 52008 et 229.",
+  "pdfsupers.py exige pypdf, absent du .venv du projet. Il a fallu l'exécuter avec /opt/homebrew/bin/python3, qui l'a.",
+  "DOUBLON AVEC UN AUTRE BLOC : 5122 « Les suites de Goodstein » (3e cycle, 1re, arithmétique, difficulté 4, d'après bignumbers.pdf de Tom Davis) et 5812 « Les suites de Goodstein » (Terminale, arithmétique, difficulté 4, d'après accessible_independence_results.pdf, activité « Hercules and the Hydra »). Les deux fichiers sont conservés, les questions diffèrent, et un see_also a été ajouté de 5122 vers 5812. Au coordinateur d'arbitrer.",
+  "RECOUVREMENT PARTIEL À SURVEILLER : la question 1 de 5120 (unicité de l'écriture en base deux) recoupe l'idée de 6003 « Les six cartes magiques » (3e). Ce n'est qu'une mise en jambes dans 5120, dont le vrai contenu est le dénombrement des représentations hyperbinaires (suite diatomique de Stern) ; aucun autre exercice de la base ne traite cela.",
+  "Vérifié qu'aucun des nombres-réponses (2178, 142857, 461538, 998875211, 76776, 99968) n'apparaissait déjà dans grade-*/ avant cet import.",
+  "Répartition des 22 exercices importés : 4e → 3 (5109, 5110, 5118) ; 3e → 8 (5101, 5108, 5111, 5114, 5115, 5116, 5117, 5119) ; 2de → 7 (5102, 5103, 5105, 5107, 5112, 5113, 5120) ; 1re → 3 (5104, 5106, 5122) ; Terminale → 1 (5121). Difficultés : trois 2, quatre 3, quatorze 4, un 5.",
+  "Les 22 fichiers ont été construits en PDF (vm.py build) et quatre pages rendues ont été lues. Un piège de CLAUDE.md a été rencontré pour de vrai : \\big( et \\big) ouvraient une vilaine béance dans la définition d'Ackermann, remplacés par des parenthèses simples."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "bignumbers.pdf",
+   "pages": 20,
+   "activity": "Big Numbers",
+   "activity_url": "https://mathcircles.org/activity/big-numbers/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Number Theory"
+   ],
+   "done": true,
+   "imported": [
+    "5119",
+    "5121",
+    "5122"
+   ]
+  },
+  {
+   "file": "HReiterPlaceValueProblems.pdf",
+   "pages": 9,
+   "activity": "Place Value Problems",
+   "activity_url": "https://mathcircles.org/activity/place-value-problems/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Number Theory"
+   ],
+   "done": true,
+   "imported": [
+    "5101",
+    "5102",
+    "5103",
+    "5104",
+    "5105",
+    "5106",
+    "5107",
+    "5108",
+    "5109",
+    "5110",
+    "5111",
+    "5112",
+    "5113",
+    "5114",
+    "5115",
+    "5116",
+    "5117",
+    "5118"
+   ]
+  },
+  {
+   "file": "JZcoinsintwoland.pdf",
+   "pages": 2,
+   "activity": "Coins in Twoland",
+   "activity_url": "https://mathcircles.org/activity/coins-in-twoland/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Combinatorics",
+    "Number Theory"
+   ],
+   "done": true,
+   "imported": [
+    "5120"
+   ]
+  }
+ ]
+}

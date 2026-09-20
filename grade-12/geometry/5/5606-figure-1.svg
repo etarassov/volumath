@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 215" width="230" height="215" font-family="serif">
+  <rect x="0" y="0" width="230" height="215" fill="#ffffff"/>
+  <!-- projection : x -> (70,0) ; y -> (-38.5, 24.5) ; z -> (0,-45) ; origine ecran (75,160) -->
+  <!-- base OAB dans le plan z = 0 -->
+  <polygon points="75,160 145,160 36.5,184.5" fill="#d8d8d8" fill-opacity="0.55" stroke="#000000" stroke-width="1.6"/>
+  <!-- hauteur : de C au point (1,1,0) -->
+  <line x1="106.5" y1="49.5" x2="106.5" y2="184.5" stroke="#777777" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <line x1="106.5" y1="184.5" x2="75" y2="160" stroke="#777777" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <line x1="106.5" y1="184.5" x2="145" y2="160" stroke="#777777" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <line x1="106.5" y1="184.5" x2="36.5" y2="184.5" stroke="#777777" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <!-- aretes vers C -->
+  <g stroke="#000000" stroke-width="1.6" fill="none">
+    <line x1="75" y1="160" x2="106.5" y2="49.5"/>
+    <line x1="145" y1="160" x2="106.5" y2="49.5"/>
+    <line x1="36.5" y1="184.5" x2="106.5" y2="49.5"/>
+  </g>
+  <g fill="#000000">
+    <circle cx="75" cy="160" r="2.6"/>
+    <circle cx="145" cy="160" r="2.6"/>
+    <circle cx="36.5" cy="184.5" r="2.6"/>
+    <circle cx="106.5" cy="49.5" r="2.6"/>
+  </g>
+  <g font-size="14" fill="#000000">
+    <text x="62" y="158">O</text>
+    <text x="150" y="157">A</text>
+    <text x="20" y="196">B</text>
+    <text x="112" y="44">C</text>
+  </g>
+  <g font-size="12" fill="#555555">
+    <text x="112" y="120">r</text>
+  </g>
+</svg>

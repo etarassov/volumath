@@ -1,0 +1,310 @@
+{
+ "unit": "magazines-2",
+ "source": "namc",
+ "title": "MTCircular magazine, later issues: mine the recurring problem columns only",
+ "id_block": [
+  "6101",
+  "6200"
+ ],
+ "status": "done",
+ "files_total": 10,
+ "next_file": 10,
+ "imported": [
+  "6101",
+  "6102",
+  "6103",
+  "6104",
+  "6105",
+  "6106",
+  "6107",
+  "6108",
+  "6109",
+  "6110",
+  "6112",
+  "6113",
+  "6114"
+ ],
+ "skipped": [
+  {
+   "what": "MTCircularWinter2014.pdf, Problem Circle: Puzzle Edition",
+   "why": "trois grilles imprimees (deux Tom/Tom de Thomas Snyder, un Factory Killer Sudoku de Bram de Laat), sous copyright et inutilisables sans reproduire la grille. Aucun enonce mathematique autonome."
+  },
+  {
+   "what": "MTCircularWS2015.pdf, Problem Circle: Enigmatic Pi (Paul Zeitz)",
+   "why": "devinette qui exige un ordinateur, pas un probleme sur papier.",
+   "answer": "La fraction donnee, ecrite en base 2, se termine et compte exactement 841 chiffres. Or 841 = 29 au carre : en rangeant les 841 bits dans un carre 29 sur 29 et en noircissant les 1, on obtient un dessin. C'est le clin d'oeil a Contact de Carl Sagan, ou un message extraterrestre code un nombre premier au carre pour faire apparaitre une image."
+  },
+  {
+   "what": "MTCircularSummer2013.pdf, Frogs and Toads, version sur damier 5 sur 5",
+   "why": "le magazine ne donne aucune reponse et l'espace des positions (environ 5 fois 10 puissance 10) est trop grand pour une recherche rapide. La version 1D, citee dans les Links and Resources de la meme rubrique, a ete importee a la place (6106).",
+   "answer": "Version 1D verifiee par parcours en largeur pour n de 1 a 6 : le minimum vaut exactement n au carre plus 2n, et c'est aussi le nombre de coups de toute solution."
+  },
+  {
+   "what": "MTCircularWinter2013.pdf, rappel de Number Sum Triangles",
+   "why": "l'enonce d'origine a paru dans MTCircular Autumn 2012, fichier du bloc magazines-1. Saute pour ne pas doublonner.",
+   "answer": "Le triangle : chaque nouvelle ligne recopie la precedente et intercale entre deux voisins leur somme, a partir de 1 1. Les lignes sont symetriques. La somme S de la ligne suivante vaut 3S - 2 (on ajoute 2S moins le premier moins le dernier, tous deux egaux a 1), donc avec S_0 = 2 on obtient S_n = 3 puissance n, plus 1 : 2, 4, 10, 28, 82... En alignant les lignes a gauche, chaque colonne est une suite arithmetique, et la suite des raisons redonne la suite de depart."
+  },
+  {
+   "what": "MTCircularSummer2014.pdf, Possible Paths, question 2",
+   "why": "obtenir exactement 1000 chemins en n'effacant qu'un seul segment : pas resolu, laisse pour une seconde passe. Mentionne dans le Pour aller plus loin de 6107."
+  },
+  {
+   "what": "MTCircularWinter2012.pdf, variantes de What is Like a Square?",
+   "why": "une seule distance, points alignes, n points en dimension d : questions ouvertes ou hors du club."
+  },
+  {
+   "what": "MTCircularWS2016.pdf, Piece of Cake (le probleme du gateau)",
+   "why": "serie geometrique de raison 1 sur 10, classique deja bien couvert dans la base ; et c'est un article de classe, pas une rubrique de problemes."
+  },
+  {
+   "what": "MTCircularWS2016.pdf, Math Without Words: Mobius Strips",
+   "why": "enigme en images sans texte, rien d'enoncable sur papier."
+  },
+  {
+   "what": "MTCircularSummer2013.pdf, In Session: Function Diagrams",
+   "why": "seance d'exploration sur une representation (graphe a axes paralleles), pas de probleme ferme."
+  },
+  {
+   "what": "Articles de fond de toutes les issues",
+   "why": "consigne du brief : ne depouiller que les rubriques de problemes. Les articles portent sur l'animation d'un cercle de maths."
+  }
+ ],
+ "retired_ids": [
+  {
+   "id": "6111",
+   "survivor": "5607",
+   "date": "2026-09-20",
+   "why": "Doublon dans le meme dossier, arbitre par le coordinateur apres l'arret de tous les agents. Le survivant porte une figure et demande a l'eleve de trouver les reponses au lieu de les donner dans l'enonce. L'id n'est jamais reutilise."
+  }
+ ],
+ "notes": [
+  "Toutes les issues completes portent une rubrique de problemes, mais elle change de nom et de place. Sept issues sur sept en ont une : Winter 2012 (Number Bases), Summer 2013 (Frogs and Toads), Winter 2013 (Simple, Or Impossible?), Summer/Autumn 2014 (Possible Paths), Winter 2014 (Puzzle Edition), Winter/Spring 2015 (Enigmatic Pi), Winter/Spring 2016 (Burnt Pancakes). Elle s'appelle toujours Problem Circle et vit dans le cahier de fin, nomme Circle 360 jusqu'en 2014 puis autonome a partir de 2015. Elle occupe la page 17 ou 18 du magazine imprime.",
+  "Les trois autres fichiers du bloc ne sont pas des issues mais des extraits d'un seul article : MTCircularSummer2014_EscherTilings.pdf (2 p), MTCircular_WeThePeople.pdf (3 p, Autumn 2018) et Tic-Tac-Toe-2.0 (4 p, Autumn 2019). Ils n'ont donc pas de rubrique de problemes, mais deux d'entre eux contiennent un vrai probleme sur papier.",
+  "Attention : MTCircular_WeThePeople.pdf est un extrait de 2018-Fall-MTCircular.pdf et Tic-Tac-Toe-2.0 un extrait de 2019-Fall-MTCircular.pdf, deux issues completes qui appartiennent au bloc magazines-1. Risque de doublon si magazines-1 sort de sa consigne et depouille les articles.",
+  "Aucune erreur trouvee dans les chiffres du magazine. Les six methodes de vote et les dix duels de l'article We The People ont ete entierement recalcules : tout est exact. Le triplet x = 2^12 3^6, y = 2^8 3^8, z = 2^11 3^7 verifie bien x^x y^y = z^z. P_3 = 3 avec une unique pile pire, P_4 = 4 avec trois piles pires, la majoration 2n-3, les crepes brulees g_2 = 4, g_3 = 6, g_4 = 8, g_5 = 10, et les trois parties nulles du morpion (16 grilles, 3 classes de symetrie) ont tous ete verifies par programme.",
+  "Piege de lecture : pdftotext aplatit les exposants de x^x . y^y = z^z (la page sort en 'xx . yy = zz' et '212 . 36'). Les exposants ont ete relus sur un rendu a 150 dpi de la page 17 de MTCircularSummer2013.pdf.",
+  "Doublons avec le bloc magazines-1, signales au coordinateur, rien supprime : 6111 et 6007 sont le meme probleme dans le meme dossier (grade-09/geometry/3, pavages reguliers) ; 6103 (grade 11, coloring) et 6008 (grade 10, logic-reasoning) sont le meme probleme a deux niveaux, croises par see_also cote 6103.",
+  "Les 14 exercices passent vm.py check sans erreur et compilent tous en PDF. Pages relues a l'oeil : 6114 (grilles de morpion en tableaux), 6107 (figure SVG de l'escalier), 6110 (notation avec barre pour le cote brule).",
+  "Arbitrage du coordinateur, 2026-09-20 : 6111 retire(s) au profit de 5607."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "MTCircularSummer2013.pdf",
+   "pages": 20,
+   "activity": "Function Diagrams",
+   "activity_url": "https://mathcircles.org/activity/function-diagrams/",
+   "audience": [
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry"
+   ]
+  },
+  {
+   "file": "MTCircularSummer2014.pdf",
+   "pages": 20,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircularSummer2014_EscherTilings.pdf",
+   "pages": 2,
+   "activity": "Art Meets Math: Escher&#8217;s Tilings",
+   "activity_url": "https://mathcircles.org/activity/art-meets-math-eschers-tilings/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Geometry"
+   ]
+  },
+  {
+   "file": "MTCircularWS2015.pdf",
+   "pages": 20,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircularWS2016.pdf",
+   "pages": 20,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircularWinter2012.pdf",
+   "pages": 11,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircularWinter2013.pdf",
+   "pages": 20,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircularWinter2014.pdf",
+   "pages": 20,
+   "activity": null,
+   "activity_url": null,
+   "audience": [],
+   "topics": []
+  },
+  {
+   "file": "MTCircular_WeThePeople.pdf",
+   "pages": 3,
+   "activity": "Can Voting Ever Really Be &#8220;Fair&#8221;?",
+   "activity_url": "https://mathcircles.org/activity/can-voting-ever-really-be-fair/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics",
+    "Problem Solving / General"
+   ]
+  },
+  {
+   "file": "Tic-Tac-Toe-2.0-MTCircular-Autumn-2019.pdf",
+   "pages": 4,
+   "activity": "Tic-Tac-Toe 2.0",
+   "activity_url": "https://mathcircles.org/activity/tic-tac-toe-2-0/",
+   "audience": [
+    "3rd - 5th",
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics",
+    "Mathematical Games",
+    "Problem Solving / General"
+   ]
+  }
+ ],
+ "imported_detail": [
+  {
+   "id": "6101",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "La base moins quatre",
+   "from": "MTCircularWinter2012.pdf, Problem Circle: Number Bases"
+  },
+  {
+   "id": "6102",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Tout entier s'ecrit en base moins quatre, et d'une seule facon",
+   "from": "MTCircularWinter2012.pdf, Problem Circle: Number Bases, question c)"
+  },
+  {
+   "id": "6103",
+   "grade": 11,
+   "theme": "coloring",
+   "difficulty": 4,
+   "title": "Trois couleurs dans le plan, deux sur chaque droite",
+   "from": "MTCircularWinter2012.pdf, rappel de Have Colors, Will Paint"
+  },
+  {
+   "id": "6104",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 5,
+   "title": "Quatre points, deux distances seulement",
+   "from": "MTCircularWinter2012.pdf, In Session: What is Like a Square?"
+  },
+  {
+   "id": "6105",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Une solution geante en puissances",
+   "from": "MTCircularWinter2013.pdf + MTCircularSummer2013.pdf, Simple, Or Impossible?"
+  },
+  {
+   "id": "6106",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Grenouilles et crapauds sur une bande",
+   "from": "MTCircularSummer2013.pdf, Problem Circle: Frogs and Toads (version 1D des references citees)"
+  },
+  {
+   "id": "6107",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Un reseau qui contient exactement mille chemins",
+   "from": "MTCircularSummer2014.pdf, Problem Circle: Possible Paths, question 1"
+  },
+  {
+   "id": "6108",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Trois crepes et une spatule",
+   "from": "MTCircularWS2016.pdf, In Session: Flipping Pancakes"
+  },
+  {
+   "id": "6109",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Ranger n crepes en 2n - 3 retournements",
+   "from": "MTCircularWS2016.pdf, In Session: Flipping Pancakes"
+  },
+  {
+   "id": "6110",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Les crepes brulees",
+   "from": "MTCircularWS2016.pdf, Problem Circle: Burnt Pancakes"
+  },
+  {
+   "id": "6112",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 2,
+   "title": "Trois facons de depouiller le meme vote",
+   "from": "MTCircular_WeThePeople.pdf, tableau 1"
+  },
+  {
+   "id": "6113",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Eliminations successives et duels : qui est vraiment elu ?",
+   "from": "MTCircular_WeThePeople.pdf, tableaux 1 a 3"
+  },
+  {
+   "id": "6114",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Toutes les parties nulles du morpion",
+   "from": "Tic-Tac-Toe-2.0-MTCircular-Autumn-2019.pdf"
+  }
+ ]
+}

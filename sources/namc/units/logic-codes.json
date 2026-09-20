@@ -1,0 +1,180 @@
+{
+ "unit": "logic-codes",
+ "source": "namc",
+ "title": "Logic, magic and secrecy: knights and knaves, card magic, ciphers, Hercules and the Hydra",
+ "id_block": [
+  "5801",
+  "5900"
+ ],
+ "status": "done",
+ "files_total": 7,
+ "next_file": 7,
+ "imported": [
+  {"id": "5801", "grade": 8,  "theme": "logic-reasoning", "difficulty": 3, "title": "Les doigts qui voient", "file": "ZeitzMathMuggles.pdf", "ref": "probleme 1"},
+  {"id": "5802", "grade": 8,  "theme": "logic-reasoning", "difficulty": 3, "title": "Enterres dans le sable", "file": "ZeitzMathMuggles.pdf", "ref": "probleme 2", "figures": 1},
+  {"id": "5803", "grade": 8,  "theme": "arithmetic", "difficulty": 3, "title": "La table magique de Zvonkine", "file": "ZeitzMathMuggles.pdf", "ref": "probleme 3"},
+  {"id": "5804", "grade": 9,  "theme": "arithmetic", "difficulty": 3, "title": "Le professeur telepathe", "file": "ZeitzMathMuggles.pdf", "ref": "probleme 6"},
+  {"id": "5805", "grade": 10, "theme": "logic-reasoning", "difficulty": 4, "title": "La carte retournee", "file": "ZeitzMathMuggles.pdf", "ref": "probleme 4"},
+  {"id": "5806", "grade": 9,  "theme": "arithmetic", "difficulty": 3, "title": "Un code par multiplication", "file": "beck.codes_.pdf", "ref": "exercices 4 et 5"},
+  {"id": "5807", "grade": 12, "theme": "arithmetic", "difficulty": 3, "title": "Le chiffrement affine", "file": "mtc-codes-ciphers-1.pdf", "ref": "section 2"},
+  {"id": "5808", "grade": 10, "theme": "logic-reasoning", "difficulty": 5, "title": "Bal ou Da", "file": "RodinKnightsandKnaves.pdf", "ref": "partie 5, scenarios 1 et 2"},
+  {"id": "5809", "grade": 9,  "theme": "logic-reasoning", "difficulty": 3, "title": "Les dossiers de l'inspecteur Craig", "file": "RodinKnightsandKnaves.pdf", "ref": "partie 6, scenarios 1 et 2"},
+  {"id": "5810", "grade": 10, "theme": "combinatorics", "difficulty": 4, "title": "L'echangeur d'esprits", "file": "GroodFuturamaTheorem.pdf", "ref": "Appetizer + Main Course"},
+  {"id": "5811", "grade": 11, "theme": "combinatorics", "difficulty": 4, "title": "Hercule et l'hydre", "file": "SabloffHerculesandHydra.pdf", "ref": "question 1", "figures": 2},
+  {"id": "5812", "grade": 12, "theme": "arithmetic", "difficulty": 4, "title": "Les suites de Goodstein", "file": "accessible_independence_results.pdf", "ref": "p. 285-286, definition de G_n"},
+  {"id": "5813", "grade": 8,  "theme": "arithmetic", "difficulty": 2, "title": "Le chiffre de Cesar", "file": "mtc-codes-ciphers-1.pdf", "ref": "section 1"},
+  {"id": "5814", "grade": 11, "theme": "combinatorics", "difficulty": 4, "title": "Cinq cartes, quatre montrees", "file": "ZeitzMathMuggles.pdf", "ref": "probleme 12 (tour de Fitch Cheney)"}
+ ],
+ "skipped": [
+  {"file": "ZeitzMathMuggles.pdf", "item": "probleme 5, More Hats", "reason": "deja dans la base : 4618 « La file de chapeaux » (3e, difficulte 5), meme probleme generalise a n eleves. Reponse : on garantit n-1 reponses justes, le dernier de la file annonce la parite du nombre de chapeaux noirs qu'il voit."},
+  {"file": "ZeitzMathMuggles.pdf", "item": "probleme 7, The Kruskal Count", "reason": "tour probabiliste (environ 83 % de reussite d'apres le calcul (8/9)^15 du handout) : pas d'enonce a reponse ferme pour un club."},
+  {"file": "ZeitzMathMuggles.pdf", "item": "probleme 8, Hummer Shuffle (a, b, c)", "reason": "tour manipulatoire sur un vrai jeu. Les deux lemmes de parite sont jolis mais ils portent sur une suite de gestes physiques ; rien ne s'enonce proprement sur papier."},
+  {"file": "ZeitzMathMuggles.pdf", "item": "probleme 9, Scarne's Lie Speller", "reason": "pure prestidigitation : une carte retournee placee d'avance, aucune mathematique."},
+  {"file": "ZeitzMathMuggles.pdf", "item": "probleme 10, Random Numbers", "reason": "repose sur n + (-n) = 0 et sur un comptage de paquets ; trop mince une fois ecrit."},
+  {"file": "ZeitzMathMuggles.pdf", "item": "probleme 11, Guess from the Cut", "reason": "moyen mnemotechnique pour retenir l'ordre d'un jeu prepare (« 8 kings threatened… »), pas de mathematiques."},
+  {"file": "RodinKnightsandKnaves.pdf", "item": "parties 1 a 4 (24 scenarios de chevaliers, menteurs et normaux)", "reason": "famille deja tres couverte : 0185, 0432, 0537, 0552, 0556, 0557, 3805, 3820, 3822, 4423, 4605, 4613. 0552 couvre deja le trio chevalier / menteur / espion, qui est l'equivalent des « normaux ». Reponses calculees au passage : partie 1 scenario 1 -> A chevalier et B menteur ; scenario 4 -> A et B sont tous deux chevaliers ; scenario 6 -> la nature du locuteur reste indeterminee mais il y a bien de l'or."},
+  {"file": "RodinKnightsandKnaves.pdf", "item": "partie 6, scenarios 3 et 4", "reason": "crimes sur l'ile des chevaliers, menteurs et normaux : meme famille que ci-dessus. Les scenarios 1 et 2 ont ete pris parce qu'ils ne parlent que de culpabilite, sans aucun menteur : c'est de la logique propositionnelle pure, absente de la base."},
+  {"file": "mtc-codes-ciphers-1.pdf", "item": "Brainteaser des cadenas et exercices a trous des sections 1.1 a 1.6", "reason": "feuille a trous pour une seance, pas des problemes. Les quatre codes de cadenas sont 9761, 2020, 1009, 8157 et 4231 ; l'indice « prochaine annee bissextile = 2020 » est de toute facon perime."},
+  {"file": "beck.codes_.pdf", "item": "exercices 6, 7 et 8", "reason": "invitations a explorer sans enonce ferme (fonction phi d'Euler, RSA), et la base contient deja de l'arithmetique modulaire en Terminale. Resultat pret a reutiliser pour un second passage : a^4 = 1 (mod 10) des que a est premier avec 10, l'exposant 4 etant phi(10) ; la generalisation est le theoreme d'Euler a^phi(n) = 1 (mod n)."},
+  {"file": "GroodFuturamaTheorem.pdf", "item": "theoreme general de Keeler et activite « Dessert »", "reason": "le theoreme general se demontre par un algorithme de dix etapes, trop long pour une fiche ; le « Dessert » est une activite debout avec des cartons nominatifs."},
+  {"file": "accessible_independence_results.pdf", "item": "tout l'article sauf la definition de G_n et le theoreme 1", "reason": "article de recherche : ordinaux inferieurs a epsilon_0, machinerie de Ketonen-Solovay, independance vis-a-vis de l'arithmetique de Peano. Hors de portee du club. Seule la definition de la suite de Goodstein et le chiffre 3 x 2^402653211 - 3 ont ete repris."},
+  {"file": "SabloffHerculesandHydra.pdf", "item": "questions 2 et 3", "reason": "question 2 : variantes ou l'hydre repousse 3 copies, ou 1 puis 2 puis 3 copies. Le handout n'a pas de solution et la question reste ouverte telle qu'elle est posee. Question 3 : « invente ta propre question ». Non importables en l'etat, mais une variante fermee serait facile a construire pour un second passage."}
+ ],
+ "retired_ids": [],
+ "notes": [
+  "Les 14 fiches ont ete construites avec `vm.py build` et plusieurs pages ont ete regardees (5803 tableau 10x10, 5802 figure, 5811 figures, 5808 tableau a 7 colonnes, 5813 tables d'alphabet, 5814 solution).",
+  "Aucune erreur de `vm.py check` sur le bloc 5801-5900. Les deux erreurs restantes portent sur 5015 et 5016, hors de ce bloc.",
+  "5804 (« Le professeur telepathe », 3e) partage son idee centrale, le multiple de 9, avec 4821 (« Un nombre a deux chiffres moins son miroir », 4e). Les enonces et les questions sont differents ; aucun see_also n'a ete pose, a arbitrer par le coordinateur.",
+  "Trois figures SVG dessinees a la main : 5802-figure-1 (les quatre personnes, le mur et les lignes de vue), 5811-figure-1 (la regle de repousse avant / apres) et 5811-figure-2 (l'hydre a abattre). Aucune ne devoile de reponse.",
+  "Verifications faites par programme, dans le scratchpad : simulateur d'hydre (13 coups pour l'hydre a deux tetes, 40 pour trois, 41 pour la chaine de longueur 3, et 122 ou 124 selon la strategie des qu'il y a un choix) et parcours en largeur exhaustif pour 5810 (une aide ne suffit jamais ; avec deux aides le minimum est exactement 5 echanges).",
+  "Le trou signale dans le brief est confirme : avant ce lot la base ne contenait aucun exercice de cryptographie (seul 1021 s'en approchait de loin). Elle en a maintenant quatre, echelonnes : 5813 en 4e, 5806 en 3e, 5807 en Terminale, plus 5805 en 2de pour les codes correcteurs.",
+  "Rien n'a ete trouve dans la base sur l'hydre, sur les suites de Goodstein, ni sur les enigmes en langue inconnue (Bal / Da)."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "ZeitzMathMuggles.pdf",
+   "pages": 10,
+   "activity": "Mathematical Magic for Muggles",
+   "activity_url": "https://mathcircles.org/activity/mathematical-magic-for-muggles/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Mathematical Games",
+    "Mathematical Modeling",
+    "Number Theory",
+    "Parity / Invariants",
+    "Problem Solving / General"
+   ],
+   "done": true,
+   "kept": ["5801", "5802", "5803", "5804", "5805", "5814"]
+  },
+  {
+   "file": "RodinKnightsandKnaves.pdf",
+   "pages": 7,
+   "activity": "Knights and Knaves: A journey to the land of logic",
+   "activity_url": "https://mathcircles.org/activity/knights-and-knaves-a-journey-to-the-land-of-logic/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Problem Solving / General"
+   ],
+   "done": true,
+   "kept": ["5808", "5809"]
+  },
+  {
+   "file": "mtc-codes-ciphers-1.pdf",
+   "pages": 6,
+   "activity": "Codes, Ciphers, and Secrets",
+   "activity_url": "https://mathcircles.org/activity/codes-ciphers-and-secrets/",
+   "audience": [
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Mathematical Games",
+    "Number Theory"
+   ],
+   "done": true,
+   "kept": ["5807", "5813"]
+  },
+  {
+   "file": "beck.codes_.pdf",
+   "pages": 2,
+   "activity": "Codes, Ciphers, and Secrets",
+   "activity_url": "https://mathcircles.org/activity/codes-ciphers-and-secrets/",
+   "audience": [
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Algebra / Arithmetic",
+    "Mathematical Games",
+    "Number Theory"
+   ],
+   "done": true,
+   "kept": ["5806"]
+  },
+  {
+   "file": "GroodFuturamaTheorem.pdf",
+   "pages": 4,
+   "activity": "The Futurama Theorem",
+   "activity_url": "https://mathcircles.org/activity/the-futurama-theorem/",
+   "audience": [
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics"
+   ],
+   "done": true,
+   "kept": ["5810"]
+  },
+  {
+   "file": "accessible_independence_results.pdf",
+   "pages": 9,
+   "activity": "Hercules and the Hydra",
+   "activity_url": "https://mathcircles.org/activity/hercules-and-the-hydra/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics"
+   ],
+   "done": true,
+   "kept": ["5812"]
+  },
+  {
+   "file": "SabloffHerculesandHydra.pdf",
+   "pages": 3,
+   "activity": "Hercules and the Hydra",
+   "activity_url": "https://mathcircles.org/activity/hercules-and-the-hydra/",
+   "audience": [
+    "6th - 8th",
+    "9th - 12th",
+    "College Level",
+    "For Teachers"
+   ],
+   "topics": [
+    "Combinatorics"
+   ],
+   "done": true,
+   "kept": ["5811"]
+  }
+ ]
+}

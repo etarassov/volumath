@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 320" width="390" height="320">
+  <rect x="70" y="240" width="44" height="44" fill="#cfcfdd"/>
+  <rect x="114" y="240" width="44" height="44" fill="#cfcfdd"/>
+  <rect x="70" y="196" width="44" height="44" fill="#cfcfdd"/>
+  <g stroke="#666" stroke-width="1" fill="none">
+    <path d="M70 20 H334 M70 64 H334 M70 108 H334 M70 152 H334 M70 196 H334 M70 240 H334 M70 284 H334"/>
+    <path d="M70 20 V284 M114 20 V284 M158 20 V284 M202 20 V284 M246 20 V284 M290 20 V284 M334 20 V284"/>
+  </g>
+  <path d="M70 284 H334 M70 20 V284" stroke="#000" stroke-width="3" fill="none"/>
+  <circle cx="92" cy="262" r="13" fill="#444"/>
+  <circle cx="136" cy="262" r="13" fill="#444"/>
+  <circle cx="92" cy="218" r="13" fill="#444"/>
+  <text x="350" y="268" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">...</text>
+  <text x="86" y="14" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#000">...</text>
+  <text x="92" y="304" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#000">(0,0)</text>
+  <text x="136" y="304" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#000">(1,0)</text>
+  <text x="62" y="223" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="end" fill="#000">(0,1)</text>
+</svg>

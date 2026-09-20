@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208 208" width="208" height="208" font-family="serif">
+  <rect x="0" y="0" width="208" height="208" fill="#ffffff"/>
+  <rect x="16.0" y="16.0" width="176.0" height="176.0" fill="#f0f0f0"/>
+  <g stroke="#c9c9c9" stroke-width="0.7">
+    <line x1="60.0" y1="192.0" x2="60.0" y2="16.0"/>
+    <line x1="16.0" y1="148.0" x2="192.0" y2="148.0"/>
+    <line x1="104.0" y1="192.0" x2="104.0" y2="16.0"/>
+    <line x1="16.0" y1="104.0" x2="192.0" y2="104.0"/>
+    <line x1="148.0" y1="192.0" x2="148.0" y2="16.0"/>
+    <line x1="16.0" y1="60.0" x2="192.0" y2="60.0"/>
+  </g>
+  <rect x="16.0" y="16.0" width="44.0" height="176.0" fill="none" stroke="#000000" stroke-width="2.2"/>
+  <text x="38.0" y="110.0" font-size="16" text-anchor="middle">4</text>
+  <rect x="60.0" y="16.0" width="132.0" height="176.0" fill="none" stroke="#000000" stroke-width="2.2"/>
+  <text x="126.0" y="110.0" font-size="16" text-anchor="middle">12</text>
+  <rect x="16.0" y="16.0" width="176.0" height="176.0" fill="none" stroke="#000000" stroke-width="2.6"/>
+</svg>
