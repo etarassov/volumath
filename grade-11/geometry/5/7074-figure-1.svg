@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="310" viewBox="0 0 320 310">
+  <rect x="0" y="0" width="320" height="310" fill="#ffffff"/>
+  <circle cx="160" cy="150" r="130" fill="#fafafa" stroke="#888888" stroke-width="1.5"/>
+  <polygon points="160,20 47.4,215 272.6,215" fill="none" stroke="#000000" stroke-width="2"/>
+  <line x1="160" y1="20" x2="115.5" y2="272.2" stroke="#1155cc" stroke-width="2"/>
+  <line x1="115.5" y1="272.2" x2="47.4"  y2="215" stroke="#666666" stroke-width="1.4" stroke-dasharray="4,3"/>
+  <line x1="115.5" y1="272.2" x2="272.6" y2="215" stroke="#666666" stroke-width="1.4" stroke-dasharray="4,3"/>
+  <circle cx="160"   cy="20"    r="4" fill="#000000"/>
+  <circle cx="47.4"  cy="215"   r="4" fill="#000000"/>
+  <circle cx="272.6" cy="215"   r="4" fill="#000000"/>
+  <circle cx="115.5" cy="272.2" r="4.5" fill="#1155cc"/>
+  <circle cx="125.6" cy="215"   r="4.5" fill="#1155cc"/>
+  <text x="160"   y="13"  font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#000000" text-anchor="middle">A</text>
+  <text x="36"    y="225" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#000000" text-anchor="middle">B</text>
+  <text x="285"   y="225" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#000000" text-anchor="middle">C</text>
+  <text x="107"   y="292" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1155cc" text-anchor="middle">P</text>
+  <text x="133"   y="205" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1155cc" text-anchor="start">Q</text>
+</svg>

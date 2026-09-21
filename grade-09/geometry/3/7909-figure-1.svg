@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 290" width="340" height="290">
+  <g font-family="Helvetica, Arial, sans-serif" font-size="14">
+    <line x1="30" y1="150" x2="310" y2="150" stroke="#000" stroke-width="1.6"/>
+    <polyline points="30,150 294,84 310,150" fill="none" stroke="#1a5fb4" stroke-width="1.6"/>
+    <polyline points="30,150 286,228 310,150" fill="none" stroke="#a5340a" stroke-width="1.6"/>
+    <line x1="170" y1="150" x2="294" y2="84" stroke="#888" stroke-width="1.2"/>
+    <line x1="170" y1="150" x2="286" y2="228" stroke="#888" stroke-width="1.2"/>
+    <path d="M 284.3 86.7 L 286.7 96.4 L 296.4 94.0" fill="none" stroke="#1a5fb4" stroke-width="1.2"/>
+    <path d="M 276.5 225.4 L 279.4 215.8 L 289.0 218.7" fill="none" stroke="#a5340a" stroke-width="1.2"/>
+    <circle cx="30" cy="150" r="2.5" fill="#000"/>
+    <circle cx="310" cy="150" r="2.5" fill="#000"/>
+    <circle cx="170" cy="150" r="2.5" fill="#000"/>
+    <circle cx="294" cy="84" r="2.5" fill="#000"/>
+    <circle cx="286" cy="228" r="2.5" fill="#000"/>
+    <text x="16" y="163">A</text>
+    <text x="316" y="163">B</text>
+    <text x="164" y="170">E</text>
+    <text x="300" y="78">C</text>
+    <text x="290" y="248">D</text>
+  </g>
+</svg>

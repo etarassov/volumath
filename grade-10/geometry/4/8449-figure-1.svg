@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="441" height="343" viewBox="0 0 441 343">
+<circle cx="273.0" cy="168.0" r="140.0" fill="none" stroke="#999" stroke-width="1.5"/>
+<line x1="23.1" y1="28.0" x2="373.8" y2="301.0" stroke="#000" stroke-width="1.6"/>
+<line x1="23.1" y1="28.0" x2="373.8" y2="28.0" stroke="#000" stroke-width="1.6"/>
+<polyline points="141.4,120.1 273.0,28.0 351.7,283.8" fill="none" stroke="#000" stroke-width="2.2"/>
+<line x1="273.0" y1="28.0" x2="220.3" y2="181.5" stroke="#000" stroke-width="1.6" stroke-dasharray="6 4"/>
+<line x1="23.1" y1="28.0" x2="273.0" y2="28.0" stroke="#000" stroke-width="2.2"/>
+<path d="M 258.5 70.4 A 44.8 44.8 0 0 0 236.3 53.7" fill="none" stroke="#000" stroke-width="1.4"/>
+<path d="M 286.2 70.8 A 44.8 44.8 0 0 0 258.5 70.4" fill="none" stroke="#000" stroke-width="1.4"/>
+<circle cx="273.0" cy="28.0" r="3.4" fill="#000"/>
+<text x="275.0" y="15.0" font-family="Helvetica, Arial, sans-serif" font-size="19" font-style="italic" text-anchor="middle">A</text>
+<circle cx="141.4" cy="120.1" r="3.4" fill="#000"/>
+<text x="121.4" y="120.1" font-family="Helvetica, Arial, sans-serif" font-size="19" font-style="italic" text-anchor="middle">B</text>
+<circle cx="351.7" cy="283.8" r="3.4" fill="#000"/>
+<text x="374.0" y="307.0" font-family="Helvetica, Arial, sans-serif" font-size="19" font-style="italic" text-anchor="middle">C</text>
+<circle cx="220.3" cy="181.5" r="3.4" fill="#000"/>
+<text x="236.3" y="194.5" font-family="Helvetica, Arial, sans-serif" font-size="19" font-style="italic" text-anchor="middle">D</text>
+<circle cx="23.1" cy="28.0" r="3.4" fill="#000"/>
+<text x="5.1" y="23.0" font-family="Helvetica, Arial, sans-serif" font-size="19" font-style="italic" text-anchor="middle">P</text>
+</svg>

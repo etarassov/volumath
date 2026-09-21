@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="226" viewBox="0 0 320 226" font-family="Georgia, serif" font-size="14">
+  <rect x="0" y="0" width="320" height="226" fill="#ffffff"/>
+  <polygon points="160,30 280,110 160,190 40,110" fill="#f4f4f4" stroke="#000000" stroke-width="1.8" stroke-linejoin="round"/>
+  <g stroke="#000000" stroke-width="1" fill="none">
+    <line x1="160" y1="30" x2="160" y2="190"/>
+    <line x1="40" y1="110" x2="280" y2="110"/>
+  </g>
+  <line x1="238" y1="116" x2="64" y2="58" stroke="#000000" stroke-width="1" stroke-dasharray="5 4"/>
+  <g fill="#000000">
+    <circle cx="160" cy="30" r="2.6"/>
+    <circle cx="280" cy="110" r="2.6"/>
+    <circle cx="160" cy="190" r="2.6"/>
+    <circle cx="40" cy="110" r="2.6"/>
+    <circle cx="160" cy="110" r="2.6"/>
+    <circle cx="220" cy="110" r="2.6"/>
+    <circle cx="100" cy="70" r="2.6"/>
+  </g>
+  <g fill="#000000">
+    <text x="155" y="22">A</text>
+    <text x="288" y="115">B</text>
+    <text x="155" y="208">C</text>
+    <text x="22" y="115">D</text>
+    <text x="163" y="128">E</text>
+    <text x="222" y="128">F</text>
+    <text x="86" y="63">G</text>
+  </g>
+</svg>

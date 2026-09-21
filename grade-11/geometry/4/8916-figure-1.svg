@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 323 365" width="323" height="365">
+  <circle cx="161.6" cy="206.4" r="134.4" fill="#eef3fa" stroke="#4a4a4a" stroke-width="1.4"/>
+  <polygon points="142.4,27.2 27.2,206.4 296,206.4" fill="none" stroke="#000000" stroke-width="1.8"/>
+  <circle cx="142.4" cy="27.2" r="3.2" fill="#000000"/>
+  <circle cx="27.2" cy="206.4" r="3.2" fill="#000000"/>
+  <circle cx="296" cy="206.4" r="3.2" fill="#000000"/>
+  <circle cx="105.8" cy="84.1" r="3.2" fill="#b03030"/>
+  <circle cx="182.2" cy="73.6" r="3.2" fill="#b03030"/>
+  <text x="136" y="18" font-family="Helvetica, Arial, sans-serif" font-size="14">A</text>
+  <text x="14" y="222" font-family="Helvetica, Arial, sans-serif" font-size="14">B</text>
+  <text x="300" y="222" font-family="Helvetica, Arial, sans-serif" font-size="14">C</text>
+  <text x="88" y="82" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#b03030">P</text>
+  <text x="190" y="70" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#b03030">Q</text>
+</svg>

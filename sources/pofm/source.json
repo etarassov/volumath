@@ -1,0 +1,51 @@
+{
+ "id": "pofm",
+ "name": "POFM, Préparation Olympique Française de Mathématiques (Animath), polycopiés de stage",
+ "url": "http://maths-olympiques.fr/?page_id=43",
+ "original_language": "fr",
+ "local_copy": "sources/originals/pofm/",
+ "added": "2026-09-20",
+ "what_it_is": [
+  "The handouts of the French olympiad training camps, run by Animath. One document per",
+  "camp: the full course notes of every lecture, every exercise, and almost always the",
+  "worked solution, plus the Coupe Animath contest papers and the camp's own tests.",
+  "Three series: the summer camps at Valbonne (20 documents, 2007 to 2026), the junior",
+  "camps at Toussaint (12 documents, 2009 to 2024), and one February camp (2016)."
+ ],
+ "scale": {
+  "documents_listed": 34,
+  "documents_usable": 33,
+  "pages": 8991,
+  "exercise_headings": 25970,
+  "distinct_exercises_estimate": 13000,
+  "comment": "Each exercise appears twice in the text, once as 'Exercice n' and once as 'Solution de l'exercice n', so the heading count is about twice the number of problems. The estimate of 13000 distinct exercises is against 1071 in the whole collection before this import."
+ },
+ "why_this_source_is_different": [
+  "It is already in French, so nothing needs translating. That removes the single biggest",
+  "cost of every earlier import, and it also removes the safety net: there is no moment",
+  "where you must re-read the problem to render it, so a misread passes straight through.",
+  "Almost every exercise carries a worked solution, which the MathCircles and UCLA material",
+  "did not. The work here is not solving. It is choosing, and rewriting olympiad register",
+  "into something a club leader can hand to a child."
+ ],
+ "level": {
+  "summer_camps": "80 students selected from 642 candidates, 'de quatrième à première, de 12 à 17 ans'. Graded Groupe A, B, C and D, A being the least advanced.",
+  "junior_camps": "'élèves de seconde et de collège'. Split into Débutants and Avancés.",
+  "calibration": "The junior Débutants geometry course opens with oriented angles of lines, the Chasles relation and a cyclic-quadrilateral proof. That is four-star work for a club. Treat every printed level marker as one notch harder than it sounds.",
+  "most_accessible": "The Coupe Animath eliminatoires inside each summer polycopié: counting triangles in a 200-gon, squares in a 10x10 board, percentage puzzles. Two to four stars, and self-contained."
+ },
+ "year_to_year_reprinting": {
+  "adjacent_summer_years": "3 to 16 percent, usually under 10",
+  "adjacent_junior_years": "1 to 14 percent",
+  "comment": "Measured on normalised statement openings across 2023-2026 and four junior years. Low enough that giving each agent a whole year is not wasteful, and high enough that the same classic will reach two agents."
+ },
+ "how_it_was_enumerated": [
+  "The page at ?page_id=43 was fetched once and every .pdf href scraped from it, 34 links.",
+  "All were downloaded, page counts and text lengths taken with pdfinfo and pdftotext.",
+  "stage_ete_2009_light.pdf returns an HTML 404 page rather than a PDF, so the 2009 summer",
+  "camp is unavailable and 33 documents remain."
+ ],
+ "not_imported": {
+  "stage_ete_2009_light.pdf": "Dead link. The server returns the site's HTML 404 page under a .pdf name. If it ever comes back, the 2009 summer camp is the one gap in the series."
+ }
+}

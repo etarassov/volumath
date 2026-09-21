@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 190" width="340" height="190">
+  <polyline points="160,30 301,148" fill="none" stroke="#000" stroke-width="1.6"/>
+  <polyline points="68,107 160,30" fill="none" stroke="#000" stroke-width="1.6"/>
+  <polyline points="68,107 252,107" fill="none" stroke="#000" stroke-width="1.6"/>
+  <polyline points="68,107 301,148" fill="none" stroke="#000" stroke-width="1.6"/>
+  <circle cx="160" cy="30" r="3" fill="#000"/>
+  <circle cx="252" cy="107" r="3" fill="#000"/>
+  <circle cx="68" cy="107" r="3" fill="#000"/>
+  <circle cx="301" cy="148" r="3" fill="#000"/>
+  <text x="155" y="20" font-family="Helvetica, Arial, sans-serif" font-size="15">A</text>
+  <text x="256" y="100" font-family="Helvetica, Arial, sans-serif" font-size="15">B</text>
+  <text x="52" y="112" font-family="Helvetica, Arial, sans-serif" font-size="15">C</text>
+  <text x="309" y="154" font-family="Helvetica, Arial, sans-serif" font-size="15">D</text>
+</svg>

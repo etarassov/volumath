@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230">
+  <rect x="0" y="0" width="480" height="230" fill="#ffffff"/>
+
+  <!-- LEFT PANEL: a matching whose segments cross -->
+  <text x="115" y="26" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#333333" text-anchor="middle">deux segments se croisent</text>
+  <line x1="45" y1="60"  x2="180" y2="120" stroke="#555555" stroke-width="2"/>
+  <line x1="40" y1="125" x2="185" y2="55"  stroke="#555555" stroke-width="2"/>
+  <line x1="50" y1="190" x2="190" y2="185" stroke="#555555" stroke-width="2"/>
+  <circle cx="45"  cy="60"  r="6" fill="#cc2222" stroke="#000000" stroke-width="1"/>
+  <circle cx="40"  cy="125" r="6" fill="#cc2222" stroke="#000000" stroke-width="1"/>
+  <circle cx="50"  cy="190" r="6" fill="#cc2222" stroke="#000000" stroke-width="1"/>
+  <circle cx="185" cy="55"  r="6" fill="#2255cc" stroke="#000000" stroke-width="1"/>
+  <circle cx="180" cy="120" r="6" fill="#2255cc" stroke="#000000" stroke-width="1"/>
+  <circle cx="190" cy="185" r="6" fill="#2255cc" stroke="#000000" stroke-width="1"/>
+
+  <!-- RIGHT PANEL: the same six points, matched without any crossing -->
+  <text x="355" y="26" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#333333" text-anchor="middle">aucun croisement</text>
+  <line x1="285" y1="60"  x2="425" y2="55"  stroke="#555555" stroke-width="2"/>
+  <line x1="280" y1="125" x2="420" y2="120" stroke="#555555" stroke-width="2"/>
+  <line x1="290" y1="190" x2="430" y2="185" stroke="#555555" stroke-width="2"/>
+  <circle cx="285" cy="60"  r="6" fill="#cc2222" stroke="#000000" stroke-width="1"/>
+  <circle cx="280" cy="125" r="6" fill="#cc2222" stroke="#000000" stroke-width="1"/>
+  <circle cx="290" cy="190" r="6" fill="#cc2222" stroke="#000000" stroke-width="1"/>
+  <circle cx="425" cy="55"  r="6" fill="#2255cc" stroke="#000000" stroke-width="1"/>
+  <circle cx="420" cy="120" r="6" fill="#2255cc" stroke="#000000" stroke-width="1"/>
+  <circle cx="430" cy="185" r="6" fill="#2255cc" stroke="#000000" stroke-width="1"/>
+</svg>

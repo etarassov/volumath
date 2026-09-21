@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 210" width="270" height="210">
+<style>.l{fill:none;stroke:#000;stroke-width:1.7;stroke-linejoin:round}.d{fill:none;stroke:#000;stroke-width:1.3;stroke-dasharray:5 4}</style>
+<polygon class="l" points="35,180 155,180 155,60 35,60" style="fill:#f4f4f4"/>
+<line class="l" x1="155" y1="60" x2="215" y2="25"/>
+<line class="l" x1="35" y1="60" x2="95" y2="25"/>
+<line class="l" x1="155" y1="180" x2="215" y2="145"/>
+<line class="l" x1="95" y1="25" x2="215" y2="25"/>
+<line class="l" x1="215" y1="25" x2="215" y2="145"/>
+<line class="d" x1="35" y1="180" x2="95" y2="145"/>
+<line class="d" x1="95" y1="145" x2="215" y2="145"/>
+<line class="d" x1="95" y1="145" x2="95" y2="25"/>
+</svg>

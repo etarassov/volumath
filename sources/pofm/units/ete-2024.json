@@ -1,0 +1,177 @@
+{
+ "unit": "ete-2024",
+ "source": "pofm",
+ "title": "POFM polycopies de stage - ete-2024",
+ "id_block": [
+  "8701",
+  "8800"
+ ],
+ "status": "in_progress",
+ "files_total": 1,
+ "next_file": 0,
+ "imported": [
+  "8701",
+  "8702",
+  "8703",
+  "8704",
+  "8705",
+  "8706",
+  "8707",
+  "8708",
+  "8709",
+  "8710",
+  "8711",
+  "8712",
+  "8713",
+  "8714",
+  "8715",
+  "8716",
+  "8717",
+  "8718",
+  "8719",
+  "8720",
+  "8721",
+  "8722",
+  "8723",
+  "8724",
+  "8725",
+  "8726",
+  "8727",
+  "8728",
+  "8729",
+  "8730",
+  "8731",
+  "8732",
+  "8733",
+  "8734",
+  "8735",
+  "8736",
+  "8737",
+  "8738",
+  "8739",
+  "8740",
+  "8741",
+  "8742",
+  "8743",
+  "8744",
+  "8745",
+  "8746",
+  "8747"
+ ],
+ "skipped": [
+  {
+   "what": "Coupe Animath 2024, lezards sur une grille 9x9",
+   "why": "deja dans la base sous l'id 0814"
+  },
+  {
+   "what": "Groupe B, fin de parcours, exercice 3 (3^n + 4^m = 5^k)",
+   "why": "deja dans la base sous l'id 7835"
+  },
+  {
+   "what": "Groupe B, mi-parcours, exercice 2 (pavage par dominos d'une zone grise)",
+   "why": "l'enonce depend entierement d'une figure TikZ absente du texte extrait; a reprendre en rendant la page 205 en image"
+  },
+  {
+   "what": "Groupe B, mi-parcours, exercice 4 (tangentes, paralleles, X Y C D cocycliques)",
+   "why": "bon exercice mais lourd, figure a construire; laisse pour un second passage"
+  },
+  {
+   "what": "Groupe A, Jeux a strategie gagnante, exercices 1, 2 et 6 (allumettes, course a 100, deux tas)",
+   "why": "deja dans la base sous les ids 0877 et 5301"
+  },
+  {
+   "what": "Groupe A, Jeux a strategie gagnante, exercice 3 (pion vers le coin d'une grille m x n)",
+   "why": "c'est le jeu des deux tas deguise, deja dans la base sous l'id 5301"
+  },
+  {
+   "what": "Groupe A, Jeux a strategie gagnante, exercice 4 (jeton de C1 a H8)",
+   "why": "deja dans la base, deux fois, sous les ids 7045 et 8641"
+  },
+  {
+   "what": "Groupe A, Jeux a strategie gagnante, exercice 5 (dominos sur echiquier, symetrie centrale)",
+   "why": "deja dans la base sous l'id 8233"
+  },
+  {
+   "what": "Groupe A, Jeux a strategie gagnante, exercice 7 (noircir une case voisine)",
+   "why": "deja dans la base, deux fois, sous les ids 7044 et 8644"
+  },
+  {
+   "what": "Groupe A, Jeux a strategie gagnante, exercice 9 (au plus la moitie des jetons)",
+   "why": "deja dans la base, deux fois, sous les ids 7046 et 8642"
+  },
+  {
+   "what": "Groupe A, Jeux a strategie gagnante, exercice 11 (assiettes sur une table ronde)",
+   "why": "deja dans la base sous l'id 0309"
+  },
+  {
+   "what": "Groupe A, Jeux a strategie gagnante, exercice 12 (empecher un carre 2x2 rouge)",
+   "why": "deja dans la base sous l'id 8645"
+  },
+  {
+   "what": "Groupe A, Jeux a strategie gagnante, exercice 13 (cartes prises aux deux bouts)",
+   "why": "deja dans la base sous l'id 8646"
+  },
+  {
+   "what": "Groupe A, Principe des tiroirs, exercice 5 (difference 2 dans {1,...,20})",
+   "why": "deja dans la base sous l'id 8338"
+  },
+  {
+   "what": "Groupe A, Principe des tiroirs, exercice 9 (dix entiers a deux chiffres, deux sommes egales)",
+   "why": "deja dans la base sous l'id 7849"
+  },
+  {
+   "what": "Groupe A, Principe des tiroirs, exercice 11 (1000 points, un disque avec 334 points)",
+   "why": "deja dans la base sous l'id 8619"
+  },
+  {
+   "what": "Groupe A, Principe des tiroirs, exercices 2, 4, 7 et 10",
+   "why": "le polycopie ne donne pas de correction, il renvoie a Mathraining"
+  },
+  {
+   "what": "Groupe A, Invariants/coloriages, exercice 1 (2,3,5,7,11 remplaces par leur moyenne)",
+   "why": "deja dans la base sous l'id 8629"
+  },
+  {
+   "what": "Groupe A, Invariants/coloriages, exercice 2 (1 a 33 en 11 triplets)",
+   "why": "importe par moi sous l'id 8734"
+  },
+  {
+   "what": "Groupe A, Invariants/coloriages, exercice 3 (1 a 2024, remplacer deux nombres par leur difference)",
+   "why": "deja dans la base sous l'id 8630"
+  },
+  {
+   "what": "Groupe A, Invariants/coloriages, exercice 5 (cameleons)",
+   "why": "deja dans la base sous l'id 7644"
+  },
+  {
+   "what": "Groupe A, Invariants/coloriages, exercices 6, 7 et 8 (dominos, plateaux tronques, une seule case noire)",
+   "why": "classiques deja dans la base, ids 0160, 0711 et 7007"
+  },
+  {
+   "what": "Groupes C, D et E dans leur ensemble",
+   "why": "niveau shortlist IMO, hors de portee du club"
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "Strates couvertes : Coupe Animath de printemps 2024, colleges et lycees (pages 19-48) en entier ; cours de Groupe A jusqu'a la page 155 environ, dont Principe de l'extremum, Principe des tiroirs, Invariants/coloriages et Jeux a strategie gagnante ; entrainements de mi-parcours et de fin de parcours du Groupe B (pages 204-209 et 275-279).",
+  "Non couvert : cours de geometrie du Groupe A (chasse aux angles pages 91-107, theoreme de l'angle tangent 118-132, triangles semblables 133-138, TD recapitulatif 141) ; Divisibilite et PGCD, TD d'inegalites 2, Equations diophantiennes ; entrainements de mi-parcours et de fin de parcours du Groupe A (pages 89 et 151) ; tous les cours de Groupe B ; tous les Groupes C, D et E ; La Muraille (pages 705-728).",
+  "Erreur de source, exercice 8735 : la correction du polycopie annonce 4 coups de couteau pour 13 parts, la bonne reponse est 5 (4 coups ne donnent jamais plus de 11 parts).",
+  "Erreur de source, exercice 8736 : l'enonce omet l'hypothese 'points non tous alignes', sans laquelle l'affirmation est fausse.",
+  "Coquilles de source, exercice 8739 : la correction ecrit que les cases de la diagonale sont 'comprises dans deux croix' (c'est une seule) et annonce 3993 valeurs au lieu de 4049 ; l'argument reste juste.",
+  "Doublon suspecte impliquant mon bloc, a arbitrer par le coordinateur : 8714 (le mien, grade 9, difficulte 2) et 8814 (grade 9, difficulte 3) sont le meme probleme, '1/3 n'est pas un nombre decimal'. Rien n'a ete supprime.",
+  "Doublons reperes entre d'autres blocs, signales sans rien toucher : 7045 et 8641 (jeton de C1 a H8), 7046 et 8642 (au plus la moitie des jetons), 7044 et 8644 (noircir une case voisine).",
+  "Reprendre au second passage par : entrainement de mi-parcours du Groupe B exercices 2 et 4, puis les entrainements du Groupe A (pages 89 et 151), puis les cours de geometrie du Groupe A laisses de cote, puis les premiers exercices de chaque cours de Groupe B."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "poly_valbonne_2024.pdf",
+   "year": "2024",
+   "camp": "ete",
+   "pages": 730,
+   "exercise_headings": 2102,
+   "url": "https://maths-olympiques.fr/wp-content/uploads/2024/09/poly_valbonne_2024.pdf"
+  }
+ ]
+}

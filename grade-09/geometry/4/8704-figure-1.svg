@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="320" viewBox="0 0 520 320">
+  <g fill="none" stroke="#000" stroke-width="1.8">
+    <polygon points="30,30 330,30 480,280 180,280" fill="#f4f4f4"/>
+  </g>
+  <line x1="377.1" y1="108.5" x2="280" y2="280" stroke="#1a5fb4" stroke-width="2.4"/>
+  <line x1="30" y1="30" x2="471.5" y2="280" stroke="#a51d2d" stroke-width="2" stroke-dasharray="7 5"/>
+  <g fill="#000">
+    <circle cx="30" cy="30" r="3.6"/>
+    <circle cx="330" cy="30" r="3.6"/>
+    <circle cx="480" cy="280" r="3.6"/>
+    <circle cx="180" cy="280" r="3.6"/>
+    <circle cx="377.1" cy="108.5" r="3.6"/>
+    <circle cx="280" cy="280" r="3.6"/>
+  </g>
+  <g font-family="Georgia, serif" font-size="19" font-style="italic" fill="#000">
+    <text x="14" y="24">A</text>
+    <text x="334" y="24">B</text>
+    <text x="487" y="296">C</text>
+    <text x="163" y="296">D</text>
+    <text x="386" y="104">K</text>
+    <text x="274" y="302">L</text>
+  </g>
+  <text x="196" y="62" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#a51d2d">bissectrice</text>
+</svg>

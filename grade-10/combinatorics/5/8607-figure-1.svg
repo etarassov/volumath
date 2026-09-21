@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="282" viewBox="0 0 260 282" font-family="Helvetica, Arial, sans-serif" font-size="12">
+  <rect x="0" y="0" width="260" height="282" fill="#ffffff"/>
+  <rect x="58" y="82" width="192" height="168" fill="#e4e4e4"/>
+  <rect x="58" y="82" width="24" height="24" fill="#555555"/>
+  <g stroke="#000000" stroke-width="1" fill="none">
+    <path d="M10 10 H250 M10 10 V250 M10 34 H250 M34 10 V250 M10 58 H250 M58 10 V250 M10 82 H250 M82 10 V250 M10 106 H250 M106 10 V250 M10 130 H250 M130 10 V250 M10 154 H250 M154 10 V250 M10 178 H250 M178 10 V250 M10 202 H250 M202 10 V250 M10 226 H250 M226 10 V250 M10 250 H250 M250 10 V250"/>
+  </g>
+  <text x="130" y="276" text-anchor="middle" fill="#000000">la case noire et la zone qu'elle voit</text>
+</svg>

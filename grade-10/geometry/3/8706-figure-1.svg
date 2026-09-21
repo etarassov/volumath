@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="315" viewBox="0 0 470 315">
+  <polygon points="30,280 430,280 130,30" fill="#f6f6f6" stroke="#000" stroke-width="1.8"/>
+  <circle cx="169.37" cy="185.64" r="94.36" fill="none" stroke="#999" stroke-width="1.2" stroke-dasharray="5 4"/>
+  <line x1="130" y1="30" x2="193.24" y2="280" stroke="#a51d2d" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <line x1="30" y1="280" x2="169.37" y2="185.64" stroke="#1a5fb4" stroke-width="2.4"/>
+  <line x1="169.37" y1="185.64" x2="193.24" y2="280" stroke="#1a5fb4" stroke-width="2.4"/>
+  <g fill="#000">
+    <circle cx="30" cy="280" r="3.6"/>
+    <circle cx="430" cy="280" r="3.6"/>
+    <circle cx="130" cy="30" r="3.6"/>
+    <circle cx="169.37" cy="185.64" r="3.6"/>
+    <circle cx="193.24" cy="280" r="3.6"/>
+  </g>
+  <g font-family="Georgia, serif" font-size="19" font-style="italic" fill="#000">
+    <text x="14" y="300">B</text>
+    <text x="436" y="300">C</text>
+    <text x="123" y="24">A</text>
+    <text x="146" y="180">I</text>
+    <text x="188" y="302">D</text>
+  </g>
+</svg>

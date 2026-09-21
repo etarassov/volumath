@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 116" width="302.4" height="162.4">
+  <rect x="8" y="8" width="200" height="100" fill="#ffffff"/>
+  <rect x="8" y="8" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="28" y="8" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="48" y="8" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="68" y="8" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="88" y="8" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="108" y="8" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="128" y="8" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="148" y="8" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="168" y="8" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="188" y="8" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="8" y="28" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="188" y="28" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="8" y="48" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="48" y="48" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="68" y="48" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="88" y="48" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="108" y="48" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="128" y="48" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="148" y="48" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="188" y="48" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="8" y="68" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="188" y="68" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="8" y="88" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="28" y="88" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="48" y="88" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="68" y="88" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="88" y="88" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="108" y="88" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="128" y="88" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="148" y="88" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="168" y="88" width="20" height="20" fill="#2b2b2b"/>
+  <rect x="188" y="88" width="20" height="20" fill="#2b2b2b"/>
+  <line x1="8" y1="8" x2="8" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="28" y1="8" x2="28" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="48" y1="8" x2="48" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="68" y1="8" x2="68" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="88" y1="8" x2="88" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="108" y1="8" x2="108" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="128" y1="8" x2="128" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="148" y1="8" x2="148" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="168" y1="8" x2="168" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="188" y1="8" x2="188" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="208" y1="8" x2="208" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="8" y1="8" x2="208" y2="8" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="8" y1="28" x2="208" y2="28" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="8" y1="48" x2="208" y2="48" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="8" y1="68" x2="208" y2="68" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="8" y1="88" x2="208" y2="88" stroke="#8a8a8a" stroke-width="0.8"/>
+  <line x1="8" y1="108" x2="208" y2="108" stroke="#8a8a8a" stroke-width="0.8"/>
+  <rect x="8" y="8" width="200" height="100" fill="none" stroke="#000000" stroke-width="1.5"/>
+</svg>

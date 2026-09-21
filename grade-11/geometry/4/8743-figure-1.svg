@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-175 15 605 375" width="605" height="375">
+  <circle cx="0" cy="200" r="150" fill="none" stroke="#000" stroke-width="1.8"/>
+  <circle cx="240" cy="200" r="165" fill="none" stroke="#000" stroke-width="1.8"/>
+
+  <line x1="0" y1="200" x2="148.71" y2="62.55" stroke="#1a5fb4" stroke-width="1.6"/>
+  <line x1="240" y1="200" x2="72.61" y2="68.76" stroke="#1a5fb4" stroke-width="1.6"/>
+
+  <circle cx="0" cy="200" r="3.6" fill="#000"/>
+  <circle cx="240" cy="200" r="3.6" fill="#000"/>
+  <circle cx="110.16" cy="98.19" r="3.6" fill="#000"/>
+  <circle cx="110.16" cy="301.81" r="3.6" fill="#000"/>
+  <circle cx="148.71" cy="62.55" r="3.6" fill="#000"/>
+  <circle cx="72.61" cy="68.76" r="3.6" fill="#000"/>
+
+  <g font-family="serif" font-size="19" font-style="italic" fill="#000">
+    <text x="-30" y="221">O</text>
+    <text x="-16" y="226" font-size="13">1</text>
+    <text x="250" y="221">O</text>
+    <text x="264" y="226" font-size="13">2</text>
+    <text x="122" y="142">A</text>
+    <text x="119" y="337">B</text>
+    <text x="158" y="54">P</text>
+    <text x="52" y="59">Q</text>
+  </g>
+  <g font-family="serif" font-size="17" fill="#555">
+    <text x="-152" y="105">&#937;</text>
+    <text x="-138" y="110" font-size="12">1</text>
+    <text x="378" y="300">&#937;</text>
+    <text x="392" y="305" font-size="12">2</text>
+  </g>
+</svg>

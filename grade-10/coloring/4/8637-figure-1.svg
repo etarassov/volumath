@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="228" viewBox="0 0 228 228" font-family="Helvetica, Arial, sans-serif" font-size="13">
+  <rect x="0" y="0" width="228" height="228" fill="#ffffff"/>
+  <rect x="36" y="10" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="62" y="10" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="114" y="10" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="140" y="10" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="192" y="10" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="10" y="36" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="36" y="36" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="88" y="36" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="114" y="36" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="166" y="36" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="192" y="36" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="10" y="62" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="62" y="62" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="88" y="62" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="140" y="62" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="166" y="62" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="36" y="88" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="62" y="88" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="114" y="88" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="140" y="88" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="192" y="88" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="10" y="114" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="36" y="114" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="88" y="114" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="114" y="114" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="166" y="114" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="192" y="114" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="10" y="140" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="62" y="140" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="88" y="140" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="140" y="140" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="166" y="140" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="36" y="166" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="62" y="166" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="114" y="166" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="140" y="166" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="192" y="166" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="10" y="192" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="36" y="192" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="88" y="192" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="114" y="192" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="166" y="192" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="192" y="192" width="26" height="26" fill="#bfbfbf"/>
+  <g stroke="#000000" stroke-width="1" fill="none">
+    <path d="M10 10 H218 M10 10 V218 M10 36 H218 M36 10 V218 M10 62 H218 M62 10 V218 M10 88 H218 M88 10 V218 M10 114 H218 M114 10 V218 M10 140 H218 M140 10 V218 M10 166 H218 M166 10 V218 M10 192 H218 M192 10 V218 M10 218 H218 M218 10 V218"/>
+  </g>
+  <g fill="#000000" text-anchor="middle">
+    <text x="23" y="28">2</text>
+    <text x="49" y="28">0</text>
+    <text x="75" y="28">1</text>
+    <text x="101" y="28">2</text>
+    <text x="127" y="28">0</text>
+    <text x="153" y="28">1</text>
+    <text x="179" y="28">2</text>
+    <text x="205" y="28">0</text>
+    <text x="23" y="54">0</text>
+    <text x="49" y="54">1</text>
+    <text x="75" y="54">2</text>
+    <text x="101" y="54">0</text>
+    <text x="127" y="54">1</text>
+    <text x="153" y="54">2</text>
+    <text x="179" y="54">0</text>
+    <text x="205" y="54">1</text>
+    <text x="23" y="80">1</text>
+    <text x="49" y="80">2</text>
+    <text x="75" y="80">0</text>
+    <text x="101" y="80">1</text>
+    <text x="127" y="80">2</text>
+    <text x="153" y="80">0</text>
+    <text x="179" y="80">1</text>
+    <text x="205" y="80">2</text>
+    <text x="23" y="106">2</text>
+    <text x="49" y="106">0</text>
+    <text x="75" y="106">1</text>
+    <text x="101" y="106">2</text>
+    <text x="127" y="106">0</text>
+    <text x="153" y="106">1</text>
+    <text x="179" y="106">2</text>
+    <text x="205" y="106">0</text>
+    <text x="23" y="132">0</text>
+    <text x="49" y="132">1</text>
+    <text x="75" y="132">2</text>
+    <text x="101" y="132">0</text>
+    <text x="127" y="132">1</text>
+    <text x="153" y="132">2</text>
+    <text x="179" y="132">0</text>
+    <text x="205" y="132">1</text>
+    <text x="23" y="158">1</text>
+    <text x="49" y="158">2</text>
+    <text x="75" y="158">0</text>
+    <text x="101" y="158">1</text>
+    <text x="127" y="158">2</text>
+    <text x="153" y="158">0</text>
+    <text x="179" y="158">1</text>
+    <text x="205" y="158">2</text>
+    <text x="23" y="184">2</text>
+    <text x="49" y="184">0</text>
+    <text x="75" y="184">1</text>
+    <text x="101" y="184">2</text>
+    <text x="127" y="184">0</text>
+    <text x="153" y="184">1</text>
+    <text x="179" y="184">2</text>
+    <text x="205" y="184">0</text>
+    <text x="23" y="210">0</text>
+    <text x="49" y="210">1</text>
+    <text x="75" y="210">2</text>
+    <text x="101" y="210">0</text>
+    <text x="127" y="210">1</text>
+    <text x="153" y="210">2</text>
+    <text x="179" y="210">0</text>
+    <text x="205" y="210">1</text>
+  </g>
+</svg>

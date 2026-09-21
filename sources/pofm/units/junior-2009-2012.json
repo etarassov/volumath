@@ -1,0 +1,318 @@
+{
+ "unit": "junior-2009-2012",
+ "source": "pofm",
+ "title": "POFM polycopies de stage - junior-2009-2012",
+ "id_block": [
+  "7001",
+  "7100"
+ ],
+ "status": "in_progress",
+ "files_total": 4,
+ "next_file": 1,
+ "imported": [
+  "7001",
+  "7002",
+  "7003",
+  "7004",
+  "7005",
+  "7006",
+  "7007",
+  "7008",
+  "7009",
+  "7010",
+  "7011",
+  "7012",
+  "7013",
+  "7014",
+  "7015",
+  "7016",
+  "7017",
+  "7018",
+  "7019",
+  "7020",
+  "7021",
+  "7022",
+  "7023",
+  "7024",
+  "7025",
+  "7026",
+  "7027",
+  "7028",
+  "7029",
+  "7030",
+  "7031",
+  "7032",
+  "7033",
+  "7034",
+  "7035",
+  "7036",
+  "7037",
+  "7038",
+  "7039",
+  "7040",
+  "7041",
+  "7042",
+  "7043",
+  "7044",
+  "7045",
+  "7046",
+  "7047",
+  "7048",
+  "7049",
+  "7050",
+  "7051",
+  "7052",
+  "7053",
+  "7054",
+  "7055",
+  "7056",
+  "7057",
+  "7058",
+  "7059",
+  "7060",
+  "7061",
+  "7062",
+  "7063",
+  "7064",
+  "7065",
+  "7066",
+  "7067",
+  "7068",
+  "7069",
+  "7070",
+  "7071",
+  "7072",
+  "7073",
+  "7074",
+  "7075",
+  "7076",
+  "7077",
+  "7078",
+  "7079",
+  "7080",
+  "7081",
+  "7082",
+  "7083",
+  "7084",
+  "7085",
+  "7087",
+  "7088",
+  "7089"
+ ],
+ "skipped": [
+  {
+   "what": "21 allumettes ; atteindre 100 en ajoutant 1..10 (stage_junior_2011, stratégies ex 1 et 4)",
+   "why": "déjà dans la base : 0877, 5301, 5305, 5306, 5307, 0309, 0310, 4225"
+  },
+  {
+   "what": "zéros à la fin de 100! (stage_junior_2011 et stage_junior_2012)",
+   "why": "déjà dans la base : 4220. J'ai importé à la place la version générale, 7037 (dix zéros, réponse n = 45)"
+  },
+  {
+   "what": "n^4 + 4 n'est jamais premier, factorisation de Sophie Germain (stage_junior_2010, algèbre jeudi ex 2)",
+   "why": "déjà dans la base : 0459"
+  },
+  {
+   "what": "(21n+4)/(14n+3) irréductible (stage_junior_2011, arithmétique débutants ex 5)",
+   "why": "déjà dans la base : 4218 ((12n+1)/(30n+1)). J'ai importé deux variantes non couvertes : 7040 et 7067"
+  },
+  {
+   "what": "11 nombres parmi 1..20, l'un divise l'autre (tiroirs)",
+   "why": "déjà dans la base : 5220"
+  },
+  {
+   "what": "peser de 1 à 1000 avec des masses sur une balance",
+   "why": "déjà dans la base : 0182"
+  },
+  {
+   "what": "x^2 + y^2 = z^2 implique x ou y pair",
+   "why": "déjà dans la base : 0376"
+  },
+  {
+   "what": "5 nombres, 10 sommes deux à deux, jamais 10 entiers consécutifs (stage_junior_2011, test final débutants ex 3.3)",
+   "why": "doublon de mon propre 7009, écrit plus tôt dans ce même bloc"
+  },
+  {
+   "what": "2, 22, 222, ... : l'un est divisible par 2011 (stage_junior_2011, test final débutants ex 3.1)",
+   "why": "doublon de mon propre 7036 (répunit divisible par 2011)"
+  },
+  {
+   "what": "(a+b)/2 >= racine(ab) (stage_junior_2009, expressions algébriques ex 1 ; repris en 2010 comme boîte à outils)",
+   "why": "inégalité arithmético-géométrique élémentaire, déjà largement couverte dans la base"
+  },
+  {
+   "what": "a+b+c+d = 1 implique ab+bc+cd+da <= 1/4 (stage_junior_2010, inégalités ex 4)",
+   "why": "doublon de mon propre 7024 (quatre nombres de somme 4), même problème à une constante près"
+  },
+  {
+   "what": "existence d'un entier n tel que n, n+1, ..., n+k soient tous composés (stage_junior_2011, arithmétique débutants ex 7)",
+   "why": "doublon de mon propre 7069, qui est la version 2012 du même énoncé"
+  },
+  {
+   "what": "1/x + 1/y = 1/n : pour quels n le nombre de solutions est-il impair ? (stage_junior_2011, arithmétique débutants ex 14, repris en combinatoire avancés ex 2)",
+   "why": "BON problème, mais le corrigé imprimé est faux. Réponse correcte établie : (x-n)(y-n) = n^2, donc le nombre de solutions vaut d(n^2), toujours impair, donc TOUT n convient. À reprendre au second passage avec cette réponse."
+  },
+  {
+   "what": "Théorème de Wilson, (p-1)! congru à -1 mod p ssi p premier (stage_junior_2011, arithmétique avancés ex 10)",
+   "why": "la démonstration repose sur l'inversibilité modulo p et l'appariement des inverses, hors programme de terminale ; je n'ai pas su la réécrire avec les outils disponibles"
+  },
+  {
+   "what": "infinité de nombres premiers congrus à 1 modulo 4 (stage_junior_2011, arithmétique avancés ex 9)",
+   "why": "la démonstration utilise le critère d'Euler et les résidus quadratiques, hors programme. La variante « congrus à 3 modulo 4 » est, elle, élémentaire et reste à importer."
+  },
+  {
+   "what": "jeu de dominos, qui gagne ? (stage_junior_2011, stratégies avancés ex 2)",
+   "why": "stratégie d'appariement subtile sur le jeu complet de dominos ; l'énoncé demande trop de mise en place pour un club"
+  },
+  {
+   "what": "rayon du cercle inscrit de A_n B C construit par itération (stage_junior_2010, mercredi géométrie ex 6)",
+   "why": "la solution passe par la loi des sinus et des demi-angles itérés ; trop technique pour le gain"
+  },
+  {
+   "what": "théorème de Morley (stage_junior_2012, géométrie avancés ex 10)",
+   "why": "hors de portée d'un club, même à cinq étoiles"
+  },
+  {
+   "what": "nombre impair de diviseurs ssi carré parfait, et n^d = D^2 (stage_junior_2011, arithmétique avancés ex 1)",
+   "why": "déjà dans la base : 0303 et 4816 pour la première partie, 7915 pour le produit des diviseurs"
+  },
+  {
+   "what": "a congru à b mod p implique a^p congru à b^p mod p^2 (stage_junior_2011, arithmétique avancés ex 5)",
+   "why": "déjà dans la base : 7944, écrit par un autre agent pendant cet import"
+  },
+  {
+   "what": "infinité de nombres premiers congrus à 3 modulo 4 (stage_junior_2011, arithmétique débutants, cours, ex 8)",
+   "why": "déjà dans la base : 8717. J'avais prévu de l'importer, la vérification a montré le doublon avant écriture"
+  },
+  {
+   "what": "x^2 + y^2 + z^2 = 8a + 7 sans solution rationnelle (stage_junior_2011, arithmétique avancés ex 4a)",
+   "why": "descente infinie sur le dénominateur commun plus étude modulo 8 ; faisable mais long, et la question b du même exercice (7^n + 8 carré) est bien meilleure pour un club. Importée sous 7083"
+  },
+  {
+   "what": "systèmes de congruences et théorème chinois (stage_junior_2011, arithmétique avancés ex 6)",
+   "why": "exercice d'application directe du théorème chinois, qui n'est pas au programme du lycée français ; sans le théorème il n'y a plus d'exercice"
+  },
+  {
+   "what": "rayon du cercle inscrit du triangle 3-4-5 (stage_junior_2012, échauffement ex 1)",
+   "why": "déjà importé par moi en première passe sous 7020, depuis la version 2010"
+  },
+  {
+   "what": "trapèze : la droite des milieux des deux bases, (AD) et (BC) concourantes (stage_junior_2012, échauffement ex 2)",
+   "why": "déjà importé par moi en première passe sous 7021, depuis la version 2010"
+  },
+  {
+   "what": "cinq nombres et leurs dix sommes deux à deux, retrouver les nombres (stage_junior_2012, échauffement ex 4)",
+   "why": "déjà dans la base : 7105, écrit par un autre agent pendant cet import, avec exactement les mêmes dix sommes"
+  },
+  {
+   "what": "a+b+c+d = 4 implique ab+bc+cd+da <= 4 (stage_junior_2012, échauffement ex 5)",
+   "why": "doublon de mon propre 7024"
+  },
+  {
+   "what": "toute suite infinie de réels contient une sous-suite monotone (stage_junior_2012, combinatoire avancés ex 11)",
+   "why": "déjà dans la base : 8864"
+  },
+  {
+   "what": "chaque nombre est la moyenne de ses quatre voisins (stage_junior_2012, combinatoire avancés ex 1)",
+   "why": "déjà dans la base : 7726 et 8340"
+  },
+  {
+   "what": "théorème de Sylvester, toute droite par deux points de E en contient un troisième (stage_junior_2012, combinatoire avancés ex 10)",
+   "why": "magnifique mais la descente sur la plus petite distance point-droite demande une mise en place trop longue pour une séance de club"
+  },
+  {
+   "what": "2003-gone dont les diagonales issues de chaque sommet découpent l'angle en 2001 parts égales (stage_junior_2012, combinatoire avancés ex 8)",
+   "why": "la solution passe par une suite (beta_i) et un argument de maximum sur |beta_i| ; très joli mais hors de portée en séance"
+  },
+  {
+   "what": "théorème de Miquel, les trois cercles circonscrits ARQ, BPR, CQP concourants (stage_junior_2011, géométrie débutants ex 3)",
+   "why": "déjà dans la base : 7224, écrit par un autre agent pendant cet import"
+  },
+  {
+   "what": "A milieu de l'arc BC, deux cordes AD et AE coupant BC en F et G, DFGE cocyclique (stage_junior_2011, géométrie débutants ex 9)",
+   "why": "déjà dans la base : 7226, écrit par un autre agent pendant cet import"
+  },
+  {
+   "what": "deux cercles sécants, une tangente commune, (AB) coupe [MN] en son milieu (stage_junior_2011, géométrie avancés ex 1)",
+   "why": "déjà dans la base : 8873"
+  },
+  {
+   "what": "loi des sinus (stage_junior_2011, géométrie débutants ex 8)",
+   "why": "déjà dans la base : 2212"
+  },
+  {
+   "what": "quadrilatère inscriptible ssi angles opposés supplémentaires (stage_junior_2011, géométrie débutants ex 1)",
+   "why": "c'est un théorème du cours, pas un exercice de club"
+  },
+  {
+   "what": "droite de Simson (stage_junior_2010, mardi géométrie ex 2), axe orthique (stage_junior_2011, géométrie avancés ex 4), IMO 2008 problème 1 (stage_junior_2010, mercredi ex 2)",
+   "why": "niveau olympiade lourd : chacun demande une figure complexe et une chasse aux angles de plus d'une page ; hors format club"
+  },
+  {
+   "what": "quadrilatère convexe dont les quatre triangles formés par les diagonales ont même périmètre est un losange (stage_junior_2010, mercredi ex 2 du test)",
+   "why": "joli, mais la preuve par l'absurde demande une disjonction de cas longue ; laissé pour un second passage si le temps le permet"
+  },
+  {
+   "what": "CHaHb semblable à CAB, pieds de deux hauteurs (stage_junior_2010, mardi géométrie ex 6)",
+   "why": "la base contient déjà plusieurs exercices sur les pieds de hauteurs et les triangles semblables associés (7139, 8132, 8226)"
+  }
+ ],
+ "retired_ids": [
+  {
+   "id": "7086",
+   "why": "écrit puis retiré tout de suite : c'était le même exercice que mon propre 7022 (rectangle ABCD, milieux E et F, angles CGF et FBE), le polycopié 2012 reprenant l'échauffement 3 de 2010. Survivant : 7022, dont la source cite déjà les deux années. Id non réutilisé."
+  }
+ ],
+ "notes": [
+  "ERREUR DE SOURCE : stage_junior_2011.pdf, 1/x + 1/y = 1/n. Le corrigé conclut que le nombre de solutions est impair si et seulement si n est un carré. C'est faux : (x-n)(y-n) = n^2, donc le nombre de solutions vaut d(n^2), qui est toujours impair. Réponse correcte : tout n convient.",
+  "ERREUR DE SOURCE : stage_junior_2011.pdf, TD « Stratégies de base » (groupe des avancés), les corrigés des exercices 5 à 8 sont décalés d'un rang par rapport aux énoncés.",
+  "ERREUR DE SOURCE : stage_junior_2011.pdf, exercice des sphinx. Le corrigé annonce 15 triangles pointe en haut et 21 pointe en bas ; c'est l'inverse (21 en haut, 15 en bas). La version 2012 est correcte et la conclusion n'est pas touchée. Noté dans 7008.",
+  "ERREUR DE SOURCE : stage_junior_2011.pdf, arithmétique débutants ex 15, le corrigé imprime 45,8 au lieu de 48,5 pour 1992/41. La réponse 48 n'est pas touchée. Noté dans source.reference de 7012.",
+  "ERREUR DE SOURCE : stage_junior_2011.pdf, arithmétique débutants ex 13, le corrigé écrit « 2^0 + 2 = 3 est un carré ». Il fallait 2^0 + 3 = 4 = 2^2.",
+  "ERREUR DE SOURCE : stage_junior_2011.pdf, tiroirs ex 3 (6 points dans un rectangle 4x3). Le corrigé parle de « six polygones » alors que la figure n'en montre que cinq. Cinq est le bon nombre : avec six morceaux et six points, le principe des tiroirs ne conclut pas. Noté dans source.reference de 7042.",
+  "ERREUR DE SOURCE : stage_junior_2010.pdf, inégalités ex 7 (test d'entrée OFM 2008). L'énoncé imprimé dit « pour tout réel x non nul », ce qui est faux : avec P(X) = 1 + X et x = -2 on obtient P(-2)P(-1/2) = -1/2 alors que P(1)^2 = 4. La bonne hypothèse est x > 0, et c'est celle que le corrigé imprimé utilise. Noté dans source.reference de 7063.",
+  "Les quatre PDF ont une couche texte utilisable. Le fichier 2009 pèse 32 Mo parce que plusieurs pages de cours sont des scans, mais les exercices sont en texte.",
+  "Recouvrement massif avec les blocs d'autres agents, les mêmes exercices étant réimprimés d'une année POFM à l'autre. Aucun fichier supprimé, conformément à la règle. Les paires repérées par vm.py check sont listées dans mon rapport final.",
+  "Répartition du bloc : 7001-7036 (première passe, tous documents), 7037-7051 (2011 et 2012 débutants et avancés), 7052-7059 (stage_junior_2009 : partie entière, valeur absolue, expressions algébriques), 7060-7065 (stage_junior_2010 : TD d'inégalités), 7066-7071 (2012 débutants arithmétique), 7072-7075 (géométrie 2010 et 2012), 7076-7079 (2012 récurrence).",
+  "OÙ REPRENDRE : ids 7084-7100 encore libres. Le TD d'arithmétique du groupe des avancés 2011 est maintenant épuisé (exercices 1 à 12 tous traités : importés, ou déjà dans la base, ou hors programme). Filons non exploités, par ordre d'intérêt décroissant : (1) stage_junior_2011 géométrie débutants et avancés, TD entiers (cercle inscrit, puissance d'un point), chaque exercice demande une figure SVG ; (2) stage_junior_2010 géométrie, mardi et mercredi, exercices 1 à 5 et 9 ; (3) stage_junior_2012 géométrie et combinatoire des avancés, exercices 1 (moyenne des quatre voisins), 7 (tableau n x n, somme des deux plus grands), 12 (2n+1 entiers tous égaux) ; (4) stage_junior_2012 exercices d'échauffement, non lus ; (5) le problème 1/x + 1/y = 1/n, à republier avec la réponse corrigée « tout n convient ».",
+  "OÙ REPRENDRE : ids 7088-7100 encore libres. Sont maintenant épuisés : le TD d'arithmétique des avancés 2011, les exercices d'échauffement 2012 (les cinq étaient déjà dans la base) et le TD de combinatoire des avancés 2012. Filons restants : (1) stage_junior_2011, TD de géométrie des débutants, exercices 3 (les trois cercles circonscrits ARQ, BPR, CQP concourants, théorème de Miquel), 6 ((BO) perpendiculaire à (DE)) et 9 (A milieu de l'arc BC, deux cordes AD et AE, DFGE cocyclique) ; (2) stage_junior_2011, TD de géométrie des avancés (puissance d'un point), non lu ; (3) stage_junior_2010, géométrie du mardi et du mercredi, exercices 1 à 5 et 9 ; (4) stage_junior_2012, TD de géométrie des avancés ; (5) le problème 1/x + 1/y = 1/n, à republier avec la réponse corrigée « tout n convient ». Tous les filons restants sont de la géométrie et demandent une figure SVG par exercice.",
+  "OÙ REPRENDRE : ids 7090-7100 encore libres. Épuisés : TD d'arithmétique des avancés 2011, exercices d'échauffement 2012, TD de combinatoire des avancés 2012, TD de géométrie des débutants 2011 (les bons exercices sont soit importés ici, soit déjà dans la base sous 7224, 7226, 8873, 2212). Restent : (1) stage_junior_2010, mardi et mercredi géométrie, exercices 1, 3, 4 du matin et le test de géométrie ; (2) stage_junior_2012, TD de géométrie des avancés, non lu ; (3) stage_junior_2009, seconde moitié, non relue depuis la première passe ; (4) le quadrilatère aux quatre périmètres égaux (losange), stage_junior_2010 mercredi ; (5) le problème 1/x + 1/y = 1/n, à republier avec la réponse corrigée « tout n convient ». Tout ce qui reste est de la géométrie et demande une figure SVG par exercice.",
+  "PIÈGE DE RENDU TROUVÉ ICI : une légende d'image Markdown qui contient un crochet non apparié, par exemple « la demi-droite [AC) », casse silencieusement la syntaxe ![...](...) et la figure n'apparaît pas du tout, sans le moindre avertissement de pandoc. Il faut écrire la légende sans crochet ouvrant isolé. Repéré sur 7089, corrigé ; tous mes autres fichiers ont été passés au crible.",
+  "Répartition, fin : 7088 (stage_junior_2011, TD de géométrie des débutants), 7089 (stage_junior_2010, mardi géométrie)."
+ ],
+ "updated": "2026-09-21",
+ "files": [
+  {
+   "file": "stage_junior_2009.pdf",
+   "year": "2009",
+   "camp": "junior",
+   "pages": 54,
+   "exercise_headings": 54,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_junior_2009.pdf"
+  },
+  {
+   "file": "stage_junior_2010.pdf",
+   "year": "2010",
+   "camp": "junior",
+   "pages": 55,
+   "exercise_headings": 101,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_junior_2010.pdf"
+  },
+  {
+   "file": "stage_junior_2011.pdf",
+   "year": "2011",
+   "camp": "junior",
+   "pages": 80,
+   "exercise_headings": 220,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_junior_2011.pdf"
+  },
+  {
+   "file": "stage_junior_2012.pdf",
+   "year": "2012",
+   "camp": "junior",
+   "pages": 97,
+   "exercise_headings": 270,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_junior_2012.pdf"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 210" width="228" height="210">
+  <text x="10" y="16" font-family="Helvetica, Arial, sans-serif" font-size="14">Le rectangle 2 x 4</text>
+  <rect x="10" y="24" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="36" y="24" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="62" y="24" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="88" y="24" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="10" y="50" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="36" y="50" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="62" y="50" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="88" y="50" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <line x1="10" y1="24" x2="10" y2="50" stroke="#000" stroke-width="2.4"/>
+  <line x1="10" y1="24" x2="36" y2="24" stroke="#000" stroke-width="2.4"/>
+  <line x1="36" y1="50" x2="62" y2="50" stroke="#000" stroke-width="2.4"/>
+  <line x1="36" y1="24" x2="62" y2="24" stroke="#000" stroke-width="2.4"/>
+  <line x1="88" y1="24" x2="88" y2="50" stroke="#000" stroke-width="2.4"/>
+  <line x1="62" y1="50" x2="88" y2="50" stroke="#000" stroke-width="2.4"/>
+  <line x1="62" y1="24" x2="88" y2="24" stroke="#000" stroke-width="2.4"/>
+  <line x1="114" y1="24" x2="114" y2="50" stroke="#000" stroke-width="2.4"/>
+  <line x1="88" y1="24" x2="114" y2="24" stroke="#000" stroke-width="2.4"/>
+  <line x1="36" y1="50" x2="36" y2="76" stroke="#000" stroke-width="2.4"/>
+  <line x1="10" y1="50" x2="10" y2="76" stroke="#000" stroke-width="2.4"/>
+  <line x1="10" y1="76" x2="36" y2="76" stroke="#000" stroke-width="2.4"/>
+  <line x1="36" y1="76" x2="62" y2="76" stroke="#000" stroke-width="2.4"/>
+  <line x1="62" y1="76" x2="88" y2="76" stroke="#000" stroke-width="2.4"/>
+  <line x1="114" y1="50" x2="114" y2="76" stroke="#000" stroke-width="2.4"/>
+  <line x1="88" y1="76" x2="114" y2="76" stroke="#000" stroke-width="2.4"/>
+  <text x="10" y="102" font-family="Helvetica, Arial, sans-serif" font-size="14">Le rectangle 3 x 8</text>
+  <rect x="10" y="110" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="36" y="110" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="62" y="110" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="88" y="110" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="114" y="110" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="140" y="110" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="166" y="110" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="192" y="110" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="10" y="136" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="36" y="136" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="62" y="136" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="88" y="136" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="114" y="136" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="140" y="136" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="166" y="136" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="192" y="136" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="10" y="162" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="36" y="162" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="62" y="162" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="88" y="162" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="114" y="162" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="140" y="162" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="166" y="162" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <rect x="192" y="162" width="26" height="26" fill="#f2f2f2" stroke="#999" stroke-width="0.8"/>
+  <line x1="10" y1="110" x2="10" y2="136" stroke="#000" stroke-width="2.4"/>
+  <line x1="10" y1="110" x2="36" y2="110" stroke="#000" stroke-width="2.4"/>
+  <line x1="62" y1="110" x2="62" y2="136" stroke="#000" stroke-width="2.4"/>
+  <line x1="36" y1="136" x2="62" y2="136" stroke="#000" stroke-width="2.4"/>
+  <line x1="36" y1="110" x2="62" y2="110" stroke="#000" stroke-width="2.4"/>
+  <line x1="62" y1="110" x2="88" y2="110" stroke="#000" stroke-width="2.4"/>
+  <line x1="88" y1="136" x2="114" y2="136" stroke="#000" stroke-width="2.4"/>
+  <line x1="88" y1="110" x2="114" y2="110" stroke="#000" stroke-width="2.4"/>
+  <line x1="140" y1="110" x2="140" y2="136" stroke="#000" stroke-width="2.4"/>
+  <line x1="114" y1="136" x2="140" y2="136" stroke="#000" stroke-width="2.4"/>
+  <line x1="114" y1="110" x2="140" y2="110" stroke="#000" stroke-width="2.4"/>
+  <line x1="166" y1="110" x2="166" y2="136" stroke="#000" stroke-width="2.4"/>
+  <line x1="140" y1="110" x2="166" y2="110" stroke="#000" stroke-width="2.4"/>
+  <line x1="166" y1="136" x2="192" y2="136" stroke="#000" stroke-width="2.4"/>
+  <line x1="166" y1="110" x2="192" y2="110" stroke="#000" stroke-width="2.4"/>
+  <line x1="218" y1="110" x2="218" y2="136" stroke="#000" stroke-width="2.4"/>
+  <line x1="192" y1="110" x2="218" y2="110" stroke="#000" stroke-width="2.4"/>
+  <line x1="36" y1="136" x2="36" y2="162" stroke="#000" stroke-width="2.4"/>
+  <line x1="10" y1="136" x2="10" y2="162" stroke="#000" stroke-width="2.4"/>
+  <line x1="62" y1="136" x2="62" y2="162" stroke="#000" stroke-width="2.4"/>
+  <line x1="88" y1="136" x2="88" y2="162" stroke="#000" stroke-width="2.4"/>
+  <line x1="62" y1="162" x2="88" y2="162" stroke="#000" stroke-width="2.4"/>
+  <line x1="88" y1="162" x2="114" y2="162" stroke="#000" stroke-width="2.4"/>
+  <line x1="114" y1="162" x2="140" y2="162" stroke="#000" stroke-width="2.4"/>
+  <line x1="166" y1="136" x2="166" y2="162" stroke="#000" stroke-width="2.4"/>
+  <line x1="140" y1="162" x2="166" y2="162" stroke="#000" stroke-width="2.4"/>
+  <line x1="192" y1="136" x2="192" y2="162" stroke="#000" stroke-width="2.4"/>
+  <line x1="218" y1="136" x2="218" y2="162" stroke="#000" stroke-width="2.4"/>
+  <line x1="36" y1="162" x2="36" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="10" y1="162" x2="10" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="10" y1="188" x2="36" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="36" y1="188" x2="62" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="62" y1="188" x2="88" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="114" y1="162" x2="114" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="88" y1="188" x2="114" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="114" y1="188" x2="140" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="140" y1="188" x2="166" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="192" y1="162" x2="192" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="166" y1="188" x2="192" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="218" y1="162" x2="218" y2="188" stroke="#000" stroke-width="2.4"/>
+  <line x1="192" y1="188" x2="218" y2="188" stroke="#000" stroke-width="2.4"/>
+</svg>

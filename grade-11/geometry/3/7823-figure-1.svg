@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 348" width="560" height="348">
+  <circle cx="120" cy="168" r="108.2" fill="none" stroke="#000" stroke-width="1.8"/>
+  <circle cx="360" cy="168" r="161.5" fill="none" stroke="#000" stroke-width="1.8"/>
+  <line x1="174" y1="74.4" x2="429.6" y2="313.8" stroke="#666" stroke-width="1.3"/>
+  <line x1="66" y1="261.6" x2="521.1" y2="155.4" stroke="#666" stroke-width="1.3"/>
+  <line x1="210" y1="108" x2="210" y2="228" stroke="#999" stroke-width="1.1" stroke-dasharray="5 4"/>
+  <line x1="174" y1="74.4" x2="66" y2="261.6" stroke="#000" stroke-width="2.6"/>
+  <line x1="429.6" y1="313.8" x2="521.1" y2="155.4" stroke="#000" stroke-width="2.6"/>
+  <g fill="#000">
+    <circle cx="210" cy="108" r="3.4"/>
+    <circle cx="210" cy="228" r="3.4"/>
+    <circle cx="174" cy="74.4" r="3.4"/>
+    <circle cx="66" cy="261.6" r="3.4"/>
+    <circle cx="429.6" cy="313.8" r="3.4"/>
+    <circle cx="521.1" cy="155.4" r="3.4"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#000">
+    <text x="222" y="104">A</text>
+    <text x="222" y="244">B</text>
+    <text x="166" y="62" text-anchor="end">C</text>
+    <text x="56" y="276" text-anchor="end">D</text>
+    <text x="424" y="332" text-anchor="end">E</text>
+    <text x="530" y="150">F</text>
+    <text x="16" y="120">C<tspan font-size="13" dy="4">1</tspan></text>
+    <text x="330" y="24">C<tspan font-size="13" dy="4">2</tspan></text>
+  </g>
+</svg>

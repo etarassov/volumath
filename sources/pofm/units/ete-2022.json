@@ -1,0 +1,640 @@
+{
+ "unit": "ete-2022",
+ "source": "pofm",
+ "title": "POFM polycopies de stage - ete-2022",
+ "id_block": [
+  "8501",
+  "8600"
+ ],
+ "status": "in_progress",
+ "files_total": 1,
+ "next_file": 0,
+ "imported": [
+  {
+   "id": "8526",
+   "grade": 8,
+   "theme": "coloring",
+   "difficulty": 3,
+   "title": "Six enfants, deux bonbons pour commencer"
+  },
+  {
+   "id": "8513",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "La somme de deux cubes sans connaître les nombres"
+  },
+  {
+   "id": "8507",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Diamants et cristaux coupés en deux"
+  },
+  {
+   "id": "8511",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Un produit moins ses deux facteurs vaut 12"
+  },
+  {
+   "id": "8545",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "6ⁿ + 19 n'est jamais premier"
+  },
+  {
+   "id": "8584",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Deux mille vingt-trois nombres et une différence"
+  },
+  {
+   "id": "8520",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Mille douze nombres et deux d'entre eux premiers entre eux"
+  },
+  {
+   "id": "8577",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Quand n + 1 divise n² + 1"
+  },
+  {
+   "id": "8550",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Combien de nombres pour forcer une différence de 2 ?"
+  },
+  {
+   "id": "8571",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Colorier les entiers de 2 à 31"
+  },
+  {
+   "id": "8501",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Les trois angles du triangle ABC"
+  },
+  {
+   "id": "8524",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Sept points dans un rectangle 3 sur 4"
+  },
+  {
+   "id": "8525",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Une diagonale coupée en trois"
+  },
+  {
+   "id": "8535",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Cinq points dans un triangle équilatéral"
+  },
+  {
+   "id": "8585",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 1,
+   "title": "Trois nombres entre 0 et 1"
+  },
+  {
+   "id": "8522",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Quinze élèves et cent bonbons"
+  },
+  {
+   "id": "8558",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Sept amis et cent champignons"
+  },
+  {
+   "id": "8561",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Deux nombres de même parité, deux moyennes"
+  },
+  {
+   "id": "8580",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Les entiers de 1 à 2022 et leurs différences"
+  },
+  {
+   "id": "8527",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Trente-quatre caméléons"
+  },
+  {
+   "id": "8512",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "De x + 1/x à x² + 1/x²"
+  },
+  {
+   "id": "8514",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Une condition cachée sur a³ + b³"
+  },
+  {
+   "id": "8515",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Une inégalité qui cache deux carrés"
+  },
+  {
+   "id": "8516",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Quand ab + bc + ca vaut 1"
+  },
+  {
+   "id": "8505",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Trois équations qui tournent en rond"
+  },
+  {
+   "id": "8519",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "3ⁿ = a² − 16"
+  },
+  {
+   "id": "8534",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Une somme de nombres qui se suivent, divisible par 2022"
+  },
+  {
+   "id": "8540",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "n + 2 divise n³ + 3n + 29"
+  },
+  {
+   "id": "8569",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "n + 1 nombres parmi les 2n premiers"
+  },
+  {
+   "id": "8504",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Dix élèves, dix entiers consécutifs, des carrés parfaits"
+  },
+  {
+   "id": "8518",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "a² = 2ⁿ + 15"
+  },
+  {
+   "id": "8532",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Ariane, Bérénice et un diviseur commun"
+  },
+  {
+   "id": "8542",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Quand 2ⁿ⁺¹ × n est un carré parfait"
+  },
+  {
+   "id": "8548",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Dix entiers dont la moyenne est un multiple du PGCD"
+  },
+  {
+   "id": "8551",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Un multiple de n qui ne s'écrit qu'avec des 0 et des 1"
+  },
+  {
+   "id": "8578",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "n³ + n − 2, une puissance de 2"
+  },
+  {
+   "id": "8530",
+   "grade": 10,
+   "theme": "coloring",
+   "difficulty": 4,
+   "title": "Un tableau 4 sur 4 de zéros et de uns"
+  },
+  {
+   "id": "8544",
+   "grade": 10,
+   "theme": "coloring",
+   "difficulty": 4,
+   "title": "Les sept tétraminos forment-ils un rectangle ?"
+  },
+  {
+   "id": "8564",
+   "grade": 10,
+   "theme": "coloring",
+   "difficulty": 4,
+   "title": "Une pièce 1×4 remplacée par une pièce 2×2"
+  },
+  {
+   "id": "8565",
+   "grade": 10,
+   "theme": "coloring",
+   "difficulty": 4,
+   "title": "De 10 à 01 en triplant des blocs"
+  },
+  {
+   "id": "8502",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Vingt immeubles autour d'un rond-point"
+  },
+  {
+   "id": "8521",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Cinquante-cinq nombres et une différence de 9"
+  },
+  {
+   "id": "8533",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Trois puces et une aire qui ne bouge pas"
+  },
+  {
+   "id": "8543",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Douze nombres, deux sommes égales"
+  },
+  {
+   "id": "8572",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Des photos qui ont toujours quelqu'un en commun"
+  },
+  {
+   "id": "8503",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Deux triangles isocèles posés sur [BC]"
+  },
+  {
+   "id": "8508",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Deux bissectrices et une parallèle cachée"
+  },
+  {
+   "id": "8523",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Deux cent un points et un petit triangle"
+  },
+  {
+   "id": "8547",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Deux droites perpendiculaires dans un carré"
+  },
+  {
+   "id": "8559",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Relier 2n points sans croisement"
+  },
+  {
+   "id": "8575",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Chaque point est le milieu de deux autres"
+  },
+  {
+   "id": "8506",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 5,
+   "title": "Un triangle rectangle tricolore"
+  },
+  {
+   "id": "8555",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "La liste qui contient tout le monde"
+  },
+  {
+   "id": "8537",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "a³ + b³ + a + b ⩾ 4ab"
+  },
+  {
+   "id": "8583",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Deux puissances qui ne descendent jamais sous 2ⁿ⁺¹"
+  },
+  {
+   "id": "8517",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Le plus petit a² + b² + c² + d² possible"
+  },
+  {
+   "id": "8528",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Effacer deux nombres et écrire a + b + ab"
+  },
+  {
+   "id": "8536",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "La plus grande valeur de x − y"
+  },
+  {
+   "id": "8538",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "x² + 8/(xy) + y² ⩾ 8"
+  },
+  {
+   "id": "8573",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Toute moitié plus une dépasse l'autre"
+  },
+  {
+   "id": "8539",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Les deux derniers chiffres d'une tour de puissances"
+  },
+  {
+   "id": "8541",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "7 puissance m égale 5 puissance n plus 24"
+  },
+  {
+   "id": "8546",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "p puissance n plus 144 est un carré"
+  },
+  {
+   "id": "8554",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "title": "Cinq entiers consécutifs ne font jamais un carré"
+  },
+  {
+   "id": "8570",
+   "grade": 11,
+   "theme": "coloring",
+   "difficulty": 5,
+   "title": "Paver un carré avec des bandes de longueur k"
+  },
+  {
+   "id": "8557",
+   "grade": 11,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Chacun en connaît exactement trois"
+  },
+  {
+   "id": "8566",
+   "grade": 11,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Les jetons sur la bande infinie"
+  },
+  {
+   "id": "8582",
+   "grade": 11,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Les pièces en cercle qu'on ne peut pas toutes retourner"
+  },
+  {
+   "id": "8556",
+   "grade": 11,
+   "theme": "logic-reasoning",
+   "difficulty": 5,
+   "title": "Le même nombre d'amis, aucun ami commun"
+  },
+  {
+   "id": "8576",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "De a ≡ b modulo n à aⁿ ≡ bⁿ modulo n²"
+  },
+  {
+   "id": "8549",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "x⁴ + 6 = y³ n'a pas de solution"
+  }
+ ],
+ "skipped": [
+  {
+   "what": "Groupe A, Invariants (Xavier), exercice 12 : grille infinie, Alice aligne cinq pions",
+   "reason": "le corrige affirme que Bob gagne par appariement des cases ; c'est faux. Le jeu libre du 5-en-ligne sur grille infinie est gagne par le premier joueur, et les strategies d'appariement n'existent que pour k >= 9. Exercice abandonne."
+  },
+  {
+   "what": "Groupe B, Tiroirs (Angela), exercice 6 : 500 miettes sur une table 2 m x 1 m",
+   "reason": "le corrige conclut a un triangle d'aire strictement inferieure a 50 cm2, alors que l'argument ne donne que <= 50 cm2 (trois coins d'un carre de 10 cm donnent exactement 50). De plus quasi-doublon de 8523."
+  },
+  {
+   "what": "radicaux emboites",
+   "reason": "deja dans la base",
+   "survivor": "4008"
+  },
+  {
+   "what": "identite de Sophie Germain",
+   "reason": "deja dans la base",
+   "survivor": "0459"
+  },
+  {
+   "what": "factorisation de n^4 + n^2 + 1",
+   "reason": "deja dans la base",
+   "survivor": "0762"
+  },
+  {
+   "what": "jeu de Nim avec des allumettes",
+   "reason": "deja dans la base",
+   "survivor": "0877"
+  },
+  {
+   "what": "a^b - 1 premier implique a = 2",
+   "reason": "deja dans la base",
+   "survivor": "5014"
+  },
+  {
+   "what": "pavage par des tetraminos en T",
+   "reason": "deja dans la base",
+   "survivor": "0812"
+  },
+  {
+   "what": "six oiseaux sur un hexagone",
+   "reason": "deja ecrit par deux autres agents",
+   "survivor": "7002 et 7407"
+  },
+  {
+   "what": "1 a 33 en 11 triplets de somme egale",
+   "reason": "deja ecrit ailleurs",
+   "survivor": "7306"
+  },
+  {
+   "what": "1/3 n'a pas d'ecriture decimale finie",
+   "reason": "deja ecrit ailleurs",
+   "survivor": "8714 et 8814"
+  },
+  {
+   "what": "irrationalite de racine de 2 plus racine de 3",
+   "reason": "deja ecrit ailleurs",
+   "survivor": "8715 et 8815"
+  },
+  {
+   "what": "51 points dans le carre unite",
+   "reason": "deja ecrit ailleurs",
+   "survivor": "7212 et 7717"
+  },
+  {
+   "what": "le bal et les danseurs",
+   "reason": "deja ecrit ailleurs",
+   "survivor": "8122"
+  },
+  {
+   "what": "les cartes de Langford",
+   "reason": "deja ecrit ailleurs",
+   "survivor": "5314"
+  },
+  {
+   "what": "moyenne des quatre voisins",
+   "reason": "deja ecrit ailleurs",
+   "survivor": "7726"
+  },
+  {
+   "what": "11 nombres parmi 1..20, l'un divise l'autre",
+   "reason": "deja dans la base ; la version generale a ete importee sous 8569 avec see_also",
+   "survivor": "5220"
+  },
+  {
+   "what": "ligne fermee symetrique sur une grille 15 x 15",
+   "reason": "l'argument du corrige (la boucle rencontre la diagonale exactement deux fois) n'est pas rendu rigoureux dans le temps imparti"
+  },
+  {
+   "what": "inegalite a trois variables par AM-GM a trois termes",
+   "reason": "l'outil necessaire sort du programme du lycee francais"
+  },
+  {
+   "what": "La Muraille, pages 493-514 (une centaine de problemes)",
+   "reason": "cette partie ne contient que des enonces, sans aucun corrige : inexploitable sans tout resoudre soi-meme"
+  }
+ ],
+ "retired_ids": [
+  {
+   "id": "8568",
+   "reason": "doublon exact d'un exercice deja commite : rectangle monochrome dans un plan tricolore",
+   "survivor": "1624"
+  }
+ ],
+ "notes": [
+  "Parcours effectue : table des matieres, puis Coupe Animath de printemps 2022 (p. 19-40), puis les exercices d'ouverture des cours de Groupe A (p. 41-111) et de Groupe B (p. 112-226). 71 exercices ecrits sur le bloc 8501-8600.",
+  "Une deuxieme passe devrait reprendre : (1) la suite des cours de Groupe B, p. 112-166 et p. 169-226, au-dela des exercices d'echauffement deja pris ; (2) les echauffements des cours de Groupe C, p. 228-340 ; (3) les tests et l'evaluation initiale non encore depouilles. Les cours de Groupe D sont du niveau liste courte IMO et n'ont rien donne.",
+  "La Muraille (p. 493-514) est sans corriges et a ete mise de cote.",
+  "Erreur du corrige signalee : Groupe A, Invariants, exercice 12 (jeu du 5-en-ligne sur grille infinie) : le corrige donne Bob gagnant, c'est faux.",
+  "Imprecision du corrige signalee : Groupe B, Tiroirs, exercice 6 (500 miettes) : l'aire obtenue est <= 50 cm2 et non < 50 cm2.",
+  "Coquilles du corrige corrigees silencieusement dans 8506 (Coupe Animath, solution 7/13) : « a ses trois sommets de meme couleur » doit se lire « de trois couleurs differentes », et « le triangle B'VR » doit se lire « B'VR' ».",
+  "Corrige faux rectifie dans 8565 : le polycopie affirme que le nombre de 1 rouges ne varie que par un multiple de 3, ce qui est faux (inserer 111 au debut de 10 le fait varier de 1). L'invariant correct, utilise dans le fichier, est la difference entre deux couleurs modulo 3.",
+  "Enonce du polycopie complete dans 8556 : sans l'hypothese qu'au moins une amitie existe, la conclusion est fausse.",
+  "Enonce du polycopie precise dans 8557 : la conclusion correcte est « au plus une personne de son groupe », le raisonnement de minimisation ne donne pas « exactement une ».",
+  "Enonce du polycopie precise dans 8559 : l'hypothese « trois points jamais alignes » est necessaire pour que l'inegalite triangulaire soit stricte.",
+  "Doublons a arbitrer par le coordinateur, aucun fichier n'a ete supprime : 8512 / 8209 (meme dossier, meme titre), 8540 / 8220 (meme dossier), 8527 / 7217 (meme dossier), 8580 / 8630 (meme dossier), 8535 / 7229 et 8828 (meme niveau), 8551 / 1217, 7718 et 7847 (meme dossier).",
+  "Liens see_also poses depuis mes fichiers : 8512->8209, 8522->8628, 8539->0554, 8545->8430, 8551->1217, 8569->5220, 8571->8843, 8575->7232 et 8834, 8584->4601."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "Poly_Valbonne_2022-Corrigé-1.pdf",
+   "year": "2022",
+   "camp": "ete",
+   "pages": 516,
+   "exercise_headings": 1420,
+   "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf"
+  }
+ ]
+}

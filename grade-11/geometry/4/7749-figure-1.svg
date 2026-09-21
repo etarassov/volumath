@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 5 300 300" width="480" height="480">
+  <g fill="none" stroke="#000" stroke-width="1.6">
+    <circle cx="180" cy="160" r="130" stroke="#9a9a9a" stroke-width="1.2"/>
+    <polygon points="180,30 96.4,259.6 292.6,225"/>
+    <path d="M 106.7 231.4 A 30 30 0 0 1 126.0 254.4" stroke-width="1.2"/>
+  </g>
+  <g fill="#000">
+    <circle cx="180" cy="30" r="3.4"/>
+    <circle cx="96.4" cy="259.6" r="3.4"/>
+    <circle cx="292.6" cy="225" r="3.4"/>
+    <circle cx="180" cy="160" r="3.4"/>
+    <circle cx="192.99" cy="178.56" r="3.4"/>
+    <circle cx="209" cy="194.6" r="3.4"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="180" y="20" text-anchor="middle">A</text>
+    <text x="86" y="276" text-anchor="middle">B</text>
+    <text x="303" y="232">C</text>
+    <text x="172" y="157" text-anchor="end">O</text>
+    <text x="179" y="186" text-anchor="end">I</text>
+    <text x="219" y="203">H</text>
+    <text x="126" y="238" font-size="15">60°</text>
+  </g>
+</svg>

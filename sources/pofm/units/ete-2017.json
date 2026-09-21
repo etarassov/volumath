@@ -1,0 +1,192 @@
+{
+ "unit": "ete-2017",
+ "source": "pofm",
+ "title": "POFM polycopies de stage - ete-2017",
+ "id_block": [
+  "8001",
+  "8100"
+ ],
+ "status": "in_progress",
+ "files_total": 1,
+ "next_file": 0,
+ "imported": [
+  "8002",
+  "8003",
+  "8004",
+  "8005",
+  "8006",
+  "8007",
+  "8008",
+  "8009",
+  "8010",
+  "8011",
+  "8012",
+  "8013",
+  "8014",
+  "8015",
+  "8016",
+  "8017",
+  "8018",
+  "8019",
+  "8020",
+  "8021",
+  "8022",
+  "8023",
+  "8024",
+  "8025",
+  "8026",
+  "8027",
+  "8028",
+  "8029",
+  "8030",
+  "8031",
+  "8032",
+  "8033",
+  "8034",
+  "8035",
+  "8036",
+  "8037",
+  "8038",
+  "8039",
+  "8040",
+  "8041",
+  "8042",
+  "8043",
+  "8044",
+  "8045",
+  "8046",
+  "8047",
+  "8048",
+  "8049",
+  "8050",
+  "8051",
+  "8052"
+ ],
+ "skipped": [
+  {
+   "where": "Coupe Animath, éliminatoires collégiens/lycéens (doublons internes)",
+   "reason": "les exercices 1 à 4 des éliminatoires lycéens reprennent mot pour mot les exercices 9 à 12 des collégiens ; importés une seule fois"
+  },
+  {
+   "where": "éliminatoires lycéens, exercice 11 (équation 2016x³ − 4x + 3/√2016 = 0)",
+   "reason": "question de concours artificielle (« calculer −1/(ab²c) »), rien à en tirer pour un club même reformulée"
+  },
+  {
+   "where": "évaluation initiale, exercice 1 (somme 1+2+...+n)",
+   "reason": "trop élémentaire et déjà dans la base sous plusieurs formes"
+  },
+  {
+   "where": "évaluation initiale, exercice 2 (deux personnes serrent le même nombre de mains)",
+   "reason": "classique des tiroirs déjà dans la base : 4602 (4e)"
+  },
+  {
+   "where": "évaluation initiale, exercice 3 (dernier chiffre de 2017^2017)",
+   "reason": "même technique et même niveau que 4411 (4e), 0554 et 0284 déjà dans la base"
+  },
+  {
+   "where": "Coupe Animath du 6 juin 2017, énoncés lycée, exercice 7 (un million d'élèves, amitiés)",
+   "reason": "théorie des graphes lourde, et la solution imprimée de la partie a) est incomplète ; hors portée d'un club"
+  },
+  {
+   "where": "Groupe A arithmétique (Martin Rakovsky), exercice 4 (x² = y² + y + 1)",
+   "reason": "déjà dans la base sous la forme n² + n + 1 carré : 8320 (3e)"
+  },
+  {
+   "where": "Groupe A arithmétique (Martin Rakovsky), exercice 6 (3x² = 5^y + 2^z − 1)",
+   "reason": "la solution imprimée conclut « aucune solution », mais (x, y, z) = (2, 1, 3) convient : 3·4 = 5 + 8 − 1. Je n'ai pas su prouver que c'est la seule, donc exercice écarté plutôt que publié à moitié"
+  },
+  {
+   "where": "test de mi-parcours A, exercice 1 (somme télescopique 1/(k(k+1)))",
+   "reason": "même exercice que 0615 déjà dans la base"
+  },
+  {
+   "where": "test de mi-parcours A, exercice 4 (inégalité à n termes)",
+   "reason": "demande l'inégalité arithmético-géométrique à n termes, hors programme lycée"
+  },
+  {
+   "where": "test A final, exercice 3 (parallélogramme et cercle)",
+   "reason": "demande la puissance d'un point, hors programme ; la solution imprimée affirme en outre PA = PB = PC = PD, ce qui est faux en général (seulement PA = PC et PB = PD)"
+  },
+  {
+   "where": "tests finaux B (ex. 3), C (ex. 4) et D (ex. 1, 3, 4)",
+   "reason": "niveau shortlist : suites récurrentes à croissance contrôlée, géométrie projective, théorie des graphes ; pas réécrivables pour un club"
+  },
+  {
+   "where": "« la muraille » (recueil d'exercices), numéros 43, 91, 99, 104, 107, 139, 140",
+   "reason": "soit hors programme (ordre multiplicatif, inversion, polynômes symétriques), soit déjà couverts : 4816/5916 (casiers), 2007 (pavage par trominos), 0615 (somme télescopique)"
+  },
+  {
+   "where": "cours divers : 2016 torches, Mathland avion/bateau, tour d'un damier impair, trois tas de jetons, relations métriques du triangle rectangle, ∠OAB = ∠HAC",
+   "reason": "déjà dans la base : 4816/5916, 8118, 7903, 7107, 0835, 8131"
+  },
+  {
+   "where": "« la muraille », exercice 43 (triangle rectangle rationnel d'aire 1)",
+   "reason": "descente infinie sur les triplets pythagoriciens : hors portée d'un club, et la solution imprimée est elle-même très resserrée"
+  },
+  {
+   "where": "« la muraille », exercice 63 (jeu de coloriage de points sur un cercle)",
+   "reason": "la solution d'élève place des points « infiniment proches » d'une graduation, ce qui n'est pas un argument valide ; je n'ai pas su la réparer proprement"
+  },
+  {
+   "where": "« la muraille », exercice 99 (coloriage d'une grille 2017 × 2017)",
+   "reason": "le coloriage donné dans le corrigé ne convient pas (voir les notes). La borne inférieure 1009 est juste, mais faute de construction valide je ne peux pas publier l'exercice"
+  },
+  {
+   "where": "« la muraille », exercice 105 (inégalité avec abc = 1)",
+   "reason": "la solution imprimée utilise Cauchy-Schwarz sous forme de « mauvais élèves » puis Muirhead : hors programme"
+  },
+  {
+   "where": "« la muraille », exercice 107 (nombres parfaits)",
+   "reason": "l'énoncé est faux tel qu'il est imprimé : n = 6 est parfait et l'exposant de 2 y vaut 1, qui est impair"
+  },
+  {
+   "where": "« la muraille », exercices 120 et 139 (lemme de Hensel, PGCD de deux polynômes)",
+   "reason": "hors programme : relèvement p-adique, Bézout dans l'anneau des polynômes"
+  },
+  {
+   "where": "« la muraille », exercice 126 (cercles exinscrits)",
+   "reason": "demande les points de contact des cercles exinscrits, hors programme"
+  },
+  {
+   "where": "« la muraille », exercices 130 et 134",
+   "reason": "déjà dans la base : 1409 (chapeaux et somme modulo n) et 7633 (x + 1/y = y + 1/z = z + 1/x)"
+  },
+  {
+   "where": "Groupe A géométrie, deuxième période (Gutsche, Rakovsky, Gachet)",
+   "reason": "ce sont les résultats classiques du cours, tous déjà dans la base : 7225 (pôle sud), 7439 et 7073 (symétriques de l'orthocentre), 8131 (angle OAB = angle HAC), 0835 (relations métriques du triangle rectangle)"
+  },
+  {
+   "where": "Groupe B géométrie, deuxième période",
+   "reason": "exercice 3 = 0835 déjà dans la base, exercice 4 est celui que j'ai importé sous 8042, et le reste du cours est une liste de théorèmes nommés (Simson, Steiner, Ménélaüs, Céva) hors programme ou déjà couverts"
+  },
+  {
+   "where": "Groupe B algèbre, exercices 2, 3, 5, 7, 8 (inégalités d'échauffement)",
+   "reason": "applications directes de l'inégalité arithmético-géométrique, déjà représentées dans la base ; les exercices 4 et 10 demandent l'IAG à n termes, hors programme"
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "Document déjà en français : le travail a été la sélection et la réécriture, pas la traduction.",
+  "Erreur de source repérée : éliminatoires lycéens exercice 9, la solution imprimée écrit 16HN² = −AC² + 2(AB² + BC²), ce qui est faux (AC et BC sont intervertis). L'identité correcte est 16HN² = 2AB² + 2AC² − BC². Le nombre demandé x²+y²+z² = 9 reste juste. Corrigé dans 8017 et signalé dans son source.reference.",
+  "Erreur de source repérée : Groupe A arithmétique exercice 5, la solution imprimée annonce (a, b, c) = (1, 0, 0) pour 2^a + 9^b = 2·5^c + 5, or 2 + 1 = 3 ≠ 7. Recherche exhaustive (a < 40, b < 25, c < 30) : aucune solution. Publié corrigé en 8038.",
+  "Erreur de source repérée : Groupe A arithmétique exercice 6, la solution imprimée conclut que 3x² = 5^y + 2^z − 1 n'a aucune solution, alors que (2, 1, 3) convient. Exercice écarté faute d'avoir pu établir l'unicité.",
+  "Erreur de source repérée : « la muraille » exercice 97 (grille de lampes), l'argument de parité imprimé (« appuyer sur une lampe ne change pas la parité ») est faux puisque 2n − 1 est impair. La conclusion (n pair) est juste ; l'invariant correct, ligne par ligne, est écrit dans 8040.",
+  "Doublon signalé, rien supprimé : 8026 (2de, deux cercles sécants et deux droites parallèles) reprend le même classique que 7614 (même dossier grade-10/geometry/4) et 7823 (1re), tous deux d'autres blocs. see_also posé depuis 8026.",
+  "8001 avait été écrit puis retiré par moi-même : doublon exact de 0681 (4e, même énoncé, mêmes nombres).",
+  "Erreur de source repérée : « la muraille » exercice 99, le coloriage proposé (diagonales i + j prises deux par deux modulo 2017) ne convient pas. Au bord, la case de la première colonne dont la diagonale vaut s+1 a au-dessus d'elle une case de diagonale s et, tout à droite de sa ligne, une autre case de diagonale s : c'est exactement la configuration interdite. Vérifié par ordinateur pour n = 5, 7, 9, 11, 13. La borne inférieure du corrigé reste juste (et se resserre : toute classe de couleur a au plus 2n − 1 cases, d'où N >= 1009). Une recherche locale trouve bien des coloriages valides à (n+1)/2 couleurs pour n = 3, 5 et 7, donc la réponse 1009 est très probablement correcte, mais je n'ai pas de construction explicite : exercice écarté.",
+  "Erreur de source repérée : « la muraille » exercice 107 demande de montrer que, pour un nombre parfait, l'exposant du plus petit facteur premier est pair. C'est faux pour n = 6 = 2 × 3, où cet exposant vaut 1. Exercice écarté.",
+  "Le corrigé de « la muraille » exercice 46 (solution d'élève) contient deux coquilles de recopie, « les droites (CD) et (CD) sont confondues » et « DAD » pour « DAP ». La construction est juste ; elle est réécrite proprement dans 8045, et la réponse 100° est vérifiée par le calcul.",
+  "Reste à explorer pour une seconde passe : les cours des groupes C et D (p. 62 à 102 et p. 154 à 226), dont je n'ai lu que les premiers exercices de chaque leçon, et les tests finaux des groupes C et D. Tout le reste du document a été parcouru."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "stage_ete_2017.pdf",
+   "year": "2017",
+   "camp": "ete",
+   "pages": 286,
+   "exercise_headings": 849,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/10/stage_ete_2017.pdf"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "unit": "ete-2007-2008",
+ "source": "pofm",
+ "title": "POFM polycopies de stage - ete-2007-2008",
+ "id_block": [
+  "7301",
+  "7400"
+ ],
+ "status": "in_progress",
+ "files_total": 3,
+ "next_file": 2,
+ "imported": [
+  "7301",
+  "7302",
+  "7303",
+  "7304",
+  "7305",
+  "7306",
+  "7307",
+  "7308",
+  "7309",
+  "7310",
+  "7311",
+  "7312",
+  "7313",
+  "7314",
+  "7315",
+  "7316",
+  "7317",
+  "7319",
+  "7320",
+  "7321",
+  "7322",
+  "7323",
+  "7324",
+  "7325",
+  "7326",
+  "7327",
+  "7328",
+  "7329",
+  "7330",
+  "7331",
+  "7332",
+  "7333",
+  "7334",
+  "7335",
+  "7336",
+  "7337",
+  "7338",
+  "7339",
+  "7340",
+  "7341",
+  "7342",
+  "7343",
+  "7344",
+  "7345",
+  "7346",
+  "7347"
+ ],
+ "skipped": [
+  {
+   "what": "stage_ete_2007 TD gr.B 1004/2811/4816/0303/5201/2405/5221/0235/4602/5011/0160/0779/5901/4218/5217 equivalents",
+   "reason": "deja dans la base (Josephus, somme des cubes, lampes, diviseurs impairs, triangulations de Catalan, chemins sous la diagonale, poignees de main, R(3,3)=6, deux invites de meme degre, critere 1001, trominos en L, 2007 repete, trominos droits, (12n+1)/(30n+1), dechirer du papier)"
+  },
+  {
+   "what": "stage_ete_2008 seconde mi-temps, combinatoire, exercice 3 (polyedre: deux faces de meme nombre de cotes)",
+   "reason": "deja importe deux fois par d'autres agents, 7253 (grade 10, logic-reasoning) et 7846 (grade 10, combinatorics)"
+  },
+  {
+   "what": "stage_fev_2016, la quasi-totalite du document",
+   "reason": "niveau olympique bien au-dessus du club: valuations p-adiques, Muirhead, Holder, theoreme de Hall, droite de Simson; seul l'exercice 10 de Geometrie groupe B a ete retenu (7338)"
+  }
+ ],
+ "retired_ids": [
+  "7318"
+ ],
+ "notes": [
+  "46 exercices ecrits, ids 7301-7317 et 7319-7347. Tous passent vm.py check et se compilent sans avertissement pandoc.",
+  "7318 ecrit puis retire: doublon des exercices deja committes 4617 (grade 9, difficulte 5) et 1217 (grade 10, difficulte 4), meme theoreme du multiple ecrit uniquement avec des 1.",
+  "ERREUR DE SOURCE corrigee dans 7337: stage_ete_2007.pdf, groupe B, strategies de base, exercice 29 enonce le critere de pavage d'un damier x*y par des briques n*1 comme 'x et y tous les deux multiples de n'. C'est faux (2x3 se pave par deux briques 3x1). Bon critere: n divise x OU n divise y. La demonstration publiee etablit d'ailleurs le bon critere.",
+  "ERREUR DE SOURCE corrigee dans 7343: stage_ete_2008.pdf, seconde mi-temps, combinatoire, exercice 63 (n elfes et n gobelins alignes, jamais deux gobelins cote a cote) conclut a la suite de Fibonacci. La bonne reponse est n+1 (verifie a la main pour n=2: trois alignements, Fibonacci en donnerait deux). L'erreur vient de la recurrence v_{n+1} = u_n, fausse; en realite v_n = 1 pour tout n.",
+  "ERREURS DE SOURCE corrigees dans 7339: stage_ete_2008.pdf, premiere mi-temps, exercice 85 (36 stagiaires, 36 tiroirs). (a) L'enonce dit 'en ouvrant moins de 18 tiroirs', ce qui donne 26,5 % de survie et non 30 %; il faut lire 'au plus 18', soit la moitie, qui donne 32,05 %. (b) La solution imprime binom(38,k), (38-k)! et 38! au lieu de 36, et somme a partir de k=18 au lieu de k=19; la somme correcte vaut 0,6795 < 0,68.",
+  "Construction incomplete dans la source, corrigee dans 7335: stage_ete_2008.pdf, seconde mi-temps, combinatoire, exercice 81 (100 droites, 2008 points d'intersection) ne construit que 99 droites (24 horizontales + 72 verticales + 3 diagonales). 7335 donne une construction a 100 droites: classes paralleles de tailles 77, 6, 2 et quinze singletons.",
+  "Coquille de source: stage_ete_2008.pdf, seconde mi-temps, arithmetique, exercice 27, la solution imprime '3^6 = 8' au lieu de '3^6 = 1 (mod 7)'; la conclusion reste juste (voir 7323).",
+  "DOUBLON entre deux blocs d'autres agents, signale sans rien supprimer: 7253 (grade 10, logic-reasoning, 4) et 7846 (grade 10, combinatorics, 4), meme probleme 'deux faces d'un polyedre ont le meme nombre de cotes'. J'ai saute ce probleme (stage_ete_2008, seconde mi-temps, combinatoire, exercice 3) a cause de ces deux copies.",
+  "Doublons signales concernant mes fichiers, cross-lies avec see_also depuis mes fichiers seulement: 7305 -> 8142; 7312 -> 7644, 8121, 8852 (quatre copies des cameleons, dont 7644 au meme grade 9 que la mienne); 7319 -> 8148; 7321 -> 7950, 8146; 7328 -> 0660 (meme configuration carre + triangle equilateral, questions differentes); 7334 -> 2205.",
+  "Titres changes pour eviter la confusion avec des exercices d'autres blocs portant le meme titre: 7317 (etait 'Deux equations sans aucune solution', comme 8654), 7328 (etait 'Le triangle equilateral cache dans le carre', comme 0660), 7340 (voisin de 7862 dans le meme dossier).",
+  "stage_fev_2016.pdf lu en entier: document tres au-dessus du niveau club (valuations p-adiques, Muirhead, Holder, theoreme de Hall, droite de Simson, Sylvester-Gallai). Un seul exercice retenu, 7338. Deux candidats laisses pour une seconde passe: Combinatoire groupe A (Pierre) exercice 2 (les k realisables pour n droites: k = 0, 1, n-1, n; preuve = Sylvester-Gallai par la distance minimale, Terminale 5 etoiles) et exercice 4 (n droites en position generale determinent au moins n-2 regions triangulaires).",
+  "A reprendre en seconde passe dans stage_ete_2007.pdf et stage_ete_2008.pdf: la muraille, les colles de geometrie du groupe C, les TPE du groupe C non encore depouilles, et la longue liste de geometrie de la seconde mi-temps 2008 (exercices 19 a 30)."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "stage_ete_2007.pdf",
+   "year": "2007",
+   "camp": "ete",
+   "pages": 124,
+   "exercise_headings": 594,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_ete_2007.pdf"
+  },
+  {
+   "file": "stage_ete_2008.pdf",
+   "year": "2008",
+   "camp": "ete",
+   "pages": 170,
+   "exercise_headings": 724,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_ete_2008.pdf"
+  },
+  {
+   "file": "stage_fev_2016.pdf",
+   "year": "2016",
+   "camp": "fevrier",
+   "pages": 51,
+   "exercise_headings": 116,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_fev_2016.pdf"
+  }
+ ]
+}

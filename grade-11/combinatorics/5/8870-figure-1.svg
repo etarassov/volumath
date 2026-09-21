@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 195" width="270" height="195">
+<rect x="0" y="0" width="270" height="195" fill="#ffffff"/>
+<line x1="20" y1="62" x2="250" y2="62" stroke="#1a6b3a" stroke-width="1.6" stroke-dasharray="7 5"/>
+<text x="255" y="66" font-family="Helvetica" font-size="12" fill="#1a6b3a">d1</text>
+<line x1="20" y1="162" x2="250" y2="162" stroke="#1a6b3a" stroke-width="1.6" stroke-dasharray="7 5"/>
+<text x="255" y="166" font-family="Helvetica" font-size="12" fill="#1a6b3a">d2</text>
+<line x1="20" y1="112" x2="250" y2="112" stroke="#9a9a9a" stroke-width="1"/>
+<line x1="65" y1="112" x2="195" y2="112" stroke="#000" stroke-width="2"/>
+<polygon points="65,112 195,112 110,62" fill="#1a3a6b" fill-opacity="0.10" stroke="#1a3a6b" stroke-width="1.4"/>
+<circle cx="110" cy="62" r="3" fill="#1a3a6b"/>
+<polygon points="65,112 195,112 225,162" fill="#8a2b6b" fill-opacity="0.10" stroke="#8a2b6b" stroke-width="1.4"/>
+<circle cx="225" cy="162" r="3" fill="#8a2b6b"/>
+<text x="104" y="54" font-family="Helvetica" font-size="12" fill="#1a3a6b">R</text>
+<text x="222" y="179" font-family="Helvetica" font-size="12" fill="#8a2b6b">R′</text>
+<line x1="40" y1="112" x2="40" y2="62" stroke="#666" stroke-width="1"/>
+<line x1="36" y1="62" x2="44" y2="62" stroke="#666" stroke-width="1"/>
+<line x1="36" y1="112" x2="44" y2="112" stroke="#666" stroke-width="1"/>
+<text x="30" y="91" font-family="Helvetica" font-size="12" text-anchor="end" fill="#666">h</text>
+<circle cx="65" cy="112" r="3.2" fill="#000"/>
+<text x="53" y="106" font-family="Helvetica" font-size="13" fill="#000">P</text>
+<circle cx="195" cy="112" r="3.2" fill="#000"/>
+<text x="202" y="106" font-family="Helvetica" font-size="13" fill="#000">Q</text>
+</svg>

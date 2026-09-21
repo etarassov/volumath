@@ -1,0 +1,457 @@
+{
+ "unit": "ete-2026",
+ "source": "pofm",
+ "title": "POFM polycopies de stage - ete-2026",
+ "id_block": [
+  "8901",
+  "9000"
+ ],
+ "status": "in_progress",
+ "files_total": 1,
+ "next_file": 0,
+ "imported": [
+  {
+   "id": "8901",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "where": "Coupe Animath printemps 2026, ex. 1 (collégiens)"
+  },
+  {
+   "id": "8902",
+   "grade": 8,
+   "theme": "geometry",
+   "difficulty": 3,
+   "where": "Coupe Animath printemps 2026, ex. 2 (collégiens)"
+  },
+  {
+   "id": "8903",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "where": "Coupe Animath printemps 2026, ex. 3 (collégiens)"
+  },
+  {
+   "id": "8904",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 4,
+   "where": "Coupe Animath printemps 2026, ex. 4 (collégiens)"
+  },
+  {
+   "id": "8905",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "where": "Coupe Animath printemps 2026, ex. 5 (collégiens)"
+  },
+  {
+   "id": "8906",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 4,
+   "where": "Coupe Animath printemps 2026, ex. 6 (collégiens)"
+  },
+  {
+   "id": "8907",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 5,
+   "where": "Coupe Animath printemps 2026, ex. 7 = ex. 12"
+  },
+  {
+   "id": "8908",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "where": "Coupe Animath printemps 2026, ex. 9 (lycéens)"
+  },
+  {
+   "id": "8909",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 4,
+   "where": "Coupe Animath printemps 2026, ex. 10 (lycéens)"
+  },
+  {
+   "id": "8910",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "where": "Coupe Animath printemps 2026, ex. 11 (lycéens)"
+  },
+  {
+   "id": "8911",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "where": "Coupe Animath printemps 2026, ex. 14 (lycéens)"
+  },
+  {
+   "id": "8912",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 5,
+   "where": "Coupe Animath printemps 2026, ex. 15 (lycéens)"
+  },
+  {
+   "id": "8913",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "where": "Groupe A, entraînement de mi-parcours, ex. 1"
+  },
+  {
+   "id": "8914",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 5,
+   "where": "Groupe A, entraînement de mi-parcours, ex. 2"
+  },
+  {
+   "id": "8915",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 5,
+   "where": "Groupe A, entraînement de mi-parcours, ex. 3"
+  },
+  {
+   "id": "8916",
+   "grade": 11,
+   "theme": "geometry",
+   "difficulty": 4,
+   "where": "Groupe A, entraînement de mi-parcours, ex. 4"
+  },
+  {
+   "id": "8917",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "where": "Groupe A, entraînement de fin de parcours, ex. 2"
+  },
+  {
+   "id": "8918",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "where": "Groupe A, entraînement de fin de parcours, ex. 3"
+  },
+  {
+   "id": "8919",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "where": "Groupe A, entraînement de fin de parcours, ex. 4"
+  },
+  {
+   "id": "8920",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "where": "Groupe B, entraînement de mi-parcours, ex. 1"
+  },
+  {
+   "id": "8921",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "where": "Groupe B, entraînement de mi-parcours, ex. 2"
+  },
+  {
+   "id": "8922",
+   "grade": 12,
+   "theme": "functions-analysis",
+   "difficulty": 5,
+   "where": "Groupe B, entraînement de mi-parcours, ex. 3"
+  },
+  {
+   "id": "8923",
+   "grade": 9,
+   "theme": "coloring",
+   "difficulty": 3,
+   "where": "Groupe B, Combinatoire : TD de révisions (Arthur), ex. 5"
+  },
+  {
+   "id": "8924",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "where": "Groupe B, Combinatoire : TD de révisions (Arthur), ex. 6"
+  },
+  {
+   "id": "8925",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "where": "Groupe B, entraînement de fin de parcours, ex. 1"
+  },
+  {
+   "id": "8926",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "where": "Groupe B, entraînement de fin de parcours, ex. 2"
+  },
+  {
+   "id": "8927",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "where": "Groupe B, entraînement de fin de parcours, ex. 3"
+  },
+  {
+   "id": "8928",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 5,
+   "where": "Groupe B, entraînement de fin de parcours, ex. 4"
+  },
+  {
+   "id": "8929",
+   "grade": 12,
+   "theme": "functions-analysis",
+   "difficulty": 4,
+   "where": "Groupe C, entraînement de mi-parcours, ex. 1"
+  },
+  {
+   "id": "8930",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "where": "Groupe C, entraînement de mi-parcours, ex. 2"
+  },
+  {
+   "id": "8931",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 5,
+   "where": "Groupe C, entraînement de mi-parcours, ex. 4"
+  },
+  {
+   "id": "8932",
+   "grade": 11,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "where": "Groupe C, entraînement de fin de parcours, ex. 1"
+  },
+  {
+   "id": "8933",
+   "grade": 12,
+   "theme": "combinatorics",
+   "difficulty": 5,
+   "where": "Groupe C, entraînement de fin de parcours, ex. 4"
+  },
+  {
+   "id": "8934",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "where": "Groupe D, entraînement de fin de parcours, ex. 1"
+  },
+  {
+   "id": "8935",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 1, 2 et 3 réunis"
+  },
+  {
+   "id": "8936",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 5"
+  },
+  {
+   "id": "8937",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 6"
+  },
+  {
+   "id": "8938",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 10"
+  },
+  {
+   "id": "8939",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 11"
+  },
+  {
+   "id": "8940",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 16"
+  },
+  {
+   "id": "8941",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 5,
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 17"
+  },
+  {
+   "id": "8942",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "where": "Groupe B, Combinatoire : Grilles (Tiphaine et Théo), ex. 1"
+  },
+  {
+   "id": "8943",
+   "grade": 10,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "where": "Groupe C, Combinatoire : Invariants (Eva et Gaëtan), ex. 4"
+  },
+  {
+   "id": "8944",
+   "grade": 12,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "where": "Groupe C, Combinatoire : Invariants (Eva et Gaëtan), ex. 5"
+  },
+  {
+   "id": "8945",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "where": "Groupe C, Combinatoire : Récurrence (Félix), ex. 3 et son bonus"
+  },
+  {
+   "id": "8946",
+   "grade": 12,
+   "theme": "functions-analysis",
+   "difficulty": 4,
+   "where": "Groupe C, Combinatoire : Récurrence (Félix), ex. 5"
+  }
+ ],
+ "skipped": [
+  {
+   "where": "Coupe Animath printemps 2026, ex. 8 (lycéens)",
+   "reason": "même nombre que l'ex. 1 ; replié dans le « Pour aller plus loin » de 8901"
+  },
+  {
+   "where": "Groupe A, entraînement de fin de parcours, ex. 1",
+   "reason": "déjà dans la base : 7403 (même problème)"
+  },
+  {
+   "where": "Groupe A, cours « Tiroirs », « Invariants et coloriages », « Extremum »",
+   "reason": "classiques déjà largement présents dans la base ; rien de neuf à prendre"
+  },
+  {
+   "where": "Groupe C, entraînement de mi-parcours, ex. 3",
+   "reason": "géométrie projective (pôle/polaire), hors de portée d'un club même à Terminale"
+  },
+  {
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 7",
+   "reason": "déjà dans la base : 8716 et 8425 (carré et cube donc puissance sixième)"
+  },
+  {
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 8",
+   "reason": "déjà dans la base : 8717 (infinité de premiers 4k+3)"
+  },
+  {
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 9",
+   "reason": "déjà dans la base : 8324 et 8816 (aⁿ−1 premier entraîne n premier)"
+  },
+  {
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 13",
+   "reason": "déjà dans la base : 4803 (somme de trois cubes consécutifs divisible par 9)"
+  },
+  {
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 15",
+   "reason": "déjà dans la base : 7859 (3a² = b² + 1)"
+  },
+  {
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 14",
+   "reason": "sommes de deux carrés modulo 4 déjà bien couvertes (0253, 7317, 7508)"
+  },
+  {
+   "where": "Groupe B, Arithmétique : TD de révisions (Eva), ex. 12",
+   "reason": "résolution par simple majoration, trop maigre pour un exercice à part"
+  },
+  {
+   "where": "Groupe D, entraînement de mi-parcours, ex. 1 à 4",
+   "reason": "niveau liste courte OIM ; ex. 1 repose sur Céva, absent du programme et de la base"
+  },
+  {
+   "where": "Groupe D, entraînement de fin de parcours, ex. 2, 3, 4",
+   "reason": "hors de portée : factorielles et diviseurs premiers, équation fonctionnelle Kosovo 2026, polynômes"
+  },
+  {
+   "where": "Groupe E, entraînements de mi-parcours et de fin de parcours",
+   "reason": "tout le groupe E est de niveau sélection OIM ; rien de réécrivable pour un club"
+  },
+  {
+   "where": "Groupe B, Combinatoire : Grilles, ex. 7",
+   "reason": "déjà dans la base : 2007 (carré 2ⁿ × 2ⁿ privé d'une case, trominos en L)"
+  },
+  {
+   "where": "Groupe B, Combinatoire : Grilles, ex. 2 à 6 et 8",
+   "reason": "ex. 3 et 4 dépendent d'une figure de pièces non extractible ; ex. 2 et 5 trop touffus pour un club"
+  },
+  {
+   "where": "Groupe C, Combinatoire : Invariants, ex. 1",
+   "reason": "déjà dans la base : 7643 (grille d'ampoules, interrupteurs par ligne et colonne)"
+  },
+  {
+   "where": "Groupe C, Combinatoire : Invariants, ex. 2",
+   "reason": "déjà dans la base : 8221 (jeu des différences absolues)"
+  },
+  {
+   "where": "Groupe C, Combinatoire : Invariants, ex. 6",
+   "reason": "déjà dans la base quatre fois : 7217, 7312, 7644, 8527 (les caméléons)"
+  },
+  {
+   "where": "Groupe C, Combinatoire : Double Comptage, ex. 2",
+   "reason": "déjà dans la base : 7623 (polyèdre à 2013 faces pentagonales), même argument"
+  },
+  {
+   "where": "Groupe C, Combinatoire : Double Comptage, ex. 9 (IMC 2022)",
+   "reason": "déjà dans la base : 3014 (deux élèves qui couvrent les six problèmes)"
+  },
+  {
+   "where": "Groupe C, Combinatoire : Double Comptage, ex. 1",
+   "reason": "lemme des poignées de main, déjà couvert (0252, 0485, 0576)"
+  },
+  {
+   "where": "Groupe C, Combinatoire : Récurrence, ex. 1, 6, 7",
+   "reason": "classiques déjà présents (escalier de Fibonacci, somme des entiers, somme des cubes)"
+  },
+  {
+   "where": "Conférences du 19 et du 21 août (p. 799-800)",
+   "reason": "comptes rendus d'exposés (théorème du road coloring, olympiade de linguistique) ; aucun exercice réutilisable"
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "Coupe Animath de printemps 2026 (p. 17-42) entièrement dépouillée.",
+  "Entraînements de mi-parcours et de fin de parcours des groupes A, B et C entièrement dépouillés.",
+  "Groupe D : seul l'ex. 1 de l'entraînement de fin de parcours a été retenu (8934) ; le reste est de niveau liste courte OIM.",
+  "Groupe E : parcouru, rien de retenu.",
+  "Groupe B, « Arithmétique : TD de révisions » (Eva, p. 265-268) : les 17 exercices passés en revue, 7 retenus, 6 déjà dans la base, 4 écartés.",
+  "Groupe B, « Combinatoire : Grilles » (p. 278-290) : seul l'exercice d'ouverture a été retenu (8942).",
+  "Groupe C, « Combinatoire : Invariants » (p. 410) et « Récurrence » (p. 402-409) : ouvertures dépouillées, 4 exercices retenus ; le reste des listes n'a pas été lu au-delà des dix premiers exercices.",
+  "Groupe C, « Combinatoire : Double Comptage » (p. 377-388) : les douze premiers exercices passés en revue, aucun retenu, tout est déjà dans la base.",
+  "Reprendre à : Groupe B « Combinatoire : Grilles » ex. 2 à 8 (p. 278-290, nécessitent de lire les figures), Groupe B « Ordre multiplicatif 1 » (p. 269) et « Équations diophantiennes » (p. 296), les cours du Groupe C au-delà de leurs ouvertures (Polynômes p. 316 et 334, Problèmes de taille p. 321, Restes chinois p. 349, Récurrence ex. 8 à 20, Invariants ex. 7 et suivants), et les ouvertures des cours du Groupe D (p. 444 et suivantes)."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "Poly-Valbonne-2026.pdf",
+   "year": "2026",
+   "camp": "ete",
+   "pages": 802,
+   "exercise_headings": 2005,
+   "url": "https://maths-olympiques.fr/wp-content/uploads/2026/09/Poly-Valbonne-2026.pdf"
+  }
+ ]
+}

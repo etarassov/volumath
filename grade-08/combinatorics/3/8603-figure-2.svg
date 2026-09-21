@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="182" viewBox="0 0 360 182" font-family="Helvetica, Arial, sans-serif" font-size="13">
+  <rect x="0" y="0" width="360" height="182" fill="#ffffff"/>
+  <rect x="10" y="10" width="90" height="60" fill="#dddddd"/>
+  <rect x="100" y="10" width="60" height="90" fill="#bcbcbc"/>
+  <rect x="10" y="70" width="60" height="90" fill="#bcbcbc"/>
+  <rect x="70" y="100" width="90" height="60" fill="#dddddd"/>
+  <g stroke="#000000" stroke-width="1" fill="none">
+    <path d="M10 10 H160 M10 40 H160 M10 70 H160 M10 100 H160 M10 130 H160 M10 160 H160"/>
+    <path d="M10 10 V160 M40 10 V160 M70 10 V160 M100 10 V160 M130 10 V160 M160 10 V160"/>
+  </g>
+  <g fill="none" stroke="#000000" stroke-width="2.5">
+    <rect x="10" y="10" width="90" height="60"/>
+    <rect x="100" y="10" width="60" height="90"/>
+    <rect x="10" y="70" width="60" height="90"/>
+    <rect x="70" y="100" width="90" height="60"/>
+  </g>
+  <g fill="#666666">
+    <rect x="230" y="40" width="30" height="30"/>
+    <rect x="290" y="40" width="30" height="30"/>
+    <rect x="230" y="100" width="30" height="30"/>
+    <rect x="290" y="100" width="30" height="30"/>
+  </g>
+  <g stroke="#000000" stroke-width="1" fill="none">
+    <path d="M200 10 H350 M200 40 H350 M200 70 H350 M200 100 H350 M200 130 H350 M200 160 H350"/>
+    <path d="M200 10 V160 M230 10 V160 M260 10 V160 M290 10 V160 M320 10 V160 M350 10 V160"/>
+  </g>
+  <text x="85" y="176" text-anchor="middle" fill="#000000">quatre rectangles sans case commune</text>
+  <text x="275" y="176" text-anchor="middle" fill="#000000">un coloriage à 4 cases</text>
+</svg>

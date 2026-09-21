@@ -1,0 +1,184 @@
+{
+ "unit": "ete-2015",
+ "source": "pofm",
+ "title": "POFM polycopies de stage - ete-2015",
+ "id_block": [
+  "7801",
+  "7900"
+ ],
+ "status": "in_progress",
+ "files_total": 1,
+ "next_file": 0,
+ "imported": [
+  "7801",
+  "7802",
+  "7803",
+  "7804",
+  "7806",
+  "7807",
+  "7808",
+  "7809",
+  "7810",
+  "7811",
+  "7812",
+  "7813",
+  "7814",
+  "7815",
+  "7816",
+  "7817",
+  "7818",
+  "7819",
+  "7820",
+  "7821",
+  "7822",
+  "7823",
+  "7824",
+  "7825",
+  "7826",
+  "7827",
+  "7828",
+  "7829",
+  "7830",
+  "7831",
+  "7832",
+  "7833",
+  "7834",
+  "7835",
+  "7836",
+  "7837",
+  "7838",
+  "7839",
+  "7840",
+  "7841",
+  "7842",
+  "7843",
+  "7844",
+  "7845",
+  "7846",
+  "7847",
+  "7848",
+  "7849",
+  "7850",
+  "7851",
+  "7852",
+  "7853",
+  "7854",
+  "7855",
+  "7856",
+  "7857",
+  "7858",
+  "7859",
+  "7860",
+  "7861",
+  "7862",
+  "7863",
+  "7864",
+  "7865"
+ ],
+ "skipped": [
+  {
+   "where": "eliminatoires collegiens, ex 1",
+   "why": "deja dans la base sous 0608 (import ClubLyon)"
+  },
+  {
+   "where": "eliminatoires collegiens, ex 4",
+   "why": "deja dans la base sous 0604"
+  },
+  {
+   "where": "eliminatoires collegiens, ex 5 / lyceens ex 4 (rectangles d une grille)",
+   "why": "meme probleme que 3617"
+  },
+  {
+   "where": "eliminatoires collegiens, ex 6 (langue aayyaa)",
+   "why": "deja dans la base sous 0607"
+  },
+  {
+   "where": "eliminatoires collegiens, ex 10 (pentagone regulier)",
+   "why": "deja dans la base sous 0829"
+  },
+  {
+   "where": "eliminatoires collegiens, ex 11 (polygone a 120 cotes)",
+   "why": "ecrit puis retire: doublon exact de 0833 (id 7805 non reutilise)"
+  },
+  {
+   "where": "eliminatoires collegiens, ex 12 (losange)",
+   "why": "deja dans la base sous 0838"
+  },
+  {
+   "where": "eliminatoires lyceens, ex 5 (C(20,3))",
+   "why": "trop mince, une seule formule"
+  },
+  {
+   "where": "eliminatoires lyceens, ex 11 (tangente, BA=BD)",
+   "why": "repose sur l angle tangentiel, hors programme francais"
+  },
+  {
+   "where": "Coupe Animath 2015, enonces college ex 1",
+   "why": "deja dans la base sous 0612"
+  },
+  {
+   "where": "Coupe Animath 2015, enonce commun ex 4 et enonce lycee ex 6-7",
+   "why": "niveau olympiade sans reecriture club possible"
+  },
+  {
+   "where": "test mi-parcours, groupe A ex 3 (damier 2^n prive d une case)",
+   "why": "deja dans la base sous 0160"
+  },
+  {
+   "where": "test mi-parcours, groupe B ex 4 et groupe D ex 3-4",
+   "why": "Cauchy-Schwarz / point de Nagel / corps finis, hors programme"
+  },
+  {
+   "where": "test fin de parcours, groupe A ex 1 (fraction 21n+4 / 14n+3)",
+   "why": "deja dans la base sous 4218 (Going further)"
+  },
+  {
+   "where": "test fin de parcours, groupe C ex 2-3, groupe D",
+   "why": "Cauchy-Schwarz, equations fonctionnelles, Jensen"
+  },
+  {
+   "where": "La Muraille, exercice 3 (somme des distances aux trois cotes, Viviani)",
+   "why": "deja dans la base sous 1220"
+  },
+  {
+   "where": "La Muraille, exercice 40 (2014 tas de jetons)",
+   "why": "variante 2014 du probleme importe sous 7838"
+  },
+  {
+   "where": "La Muraille, exercices 33 et 35 (octogone d aire 1/6, numerateur de la fraction 2007)",
+   "why": "solutions trop longues a reecrire au niveau club dans le temps imparti, bons candidats pour une seconde passe"
+  },
+  {
+   "where": "La Muraille, exercices 97 a 142 (niveau 3)",
+   "why": "niveau groupe C / D, hors portee club"
+  }
+ ],
+ "retired_ids": [
+  "7805"
+ ],
+ "notes": [
+  "Les eliminatoires de la Coupe Animath 2015 avaient deja ete depouillees par l import ClubLyon (feuille Algebre.pdf) : 0604, 0607, 0608, 0612 en viennent.",
+  "Coquille source : Coupe Animath college ex 2, la conclusion imprimee repete AB > AC au lieu de AC > AB. Corrige dans 7815.",
+  "Coquille source : test mi-parcours groupe C ex 2, la solution imprimee ecrit P(x) = 2012 la ou l enonce dit 2018. Signalee dans 7829.",
+  "Doublon possible a arbitrer : 7813 et 7904 sont dans le meme dossier grade-10/geometry/3 mais sont deux problemes differents (carre inscrit dans le cercle inscrit d un triangle equilateral / carre et triangle equilateral inscrits dans un meme cercle). Rien supprime.",
+  "Coquille source : cours Groupe A arithmetique, exercice 9, la solution imprimee donne le triplet (0,5,5) alors que son propre calcul donne (0,5,4). Corrige a l import.",
+  "Coquille source : La Muraille, solution de l exercice 88, le texte dit qu il reste sur la derniere rangee un nombre impair de cases a apparier deux a deux ; ce nombre est en fait pair (n-1 avec n impair). La construction elle-meme est correcte. 7865 presente un appariement plus simple, qui tire parti du fait qu une tour saute aussi loin qu elle veut.",
+  "Doublon reel a arbitrer, meme dossier grade-09/logic-reasoning/3 : 7826 (a moi) et 8334 (autre agent), meme probleme des mots en x, y, t. Rien supprime.",
+  "Doublon reel a arbitrer, meme dossier grade-10/arithmetic/3 : 7859 (a moi), 8326 et 8429 (autres agents), meme probleme 3a^2 = b^2 + 1. Rien supprime.",
+  "Collisions signalees par vm.py check mais fausses apres verification : 7851 vs 0883 / 8328 / 8577, 7862 vs 0255 / 8309, 7864 vs 5115 / 0894, 7861 vs 2613 / 7940 / 7615, 7254 vs 7814, 7034 vs 7821. Problemes differents.",
+  "Cross links poses : 7816 -> 5108, 7820 -> 7929, 7821 -> 7034, 7847 -> 7718 et 8551, 7848 -> 7212 et 7717, 7859 -> 8326 et 8429.",
+  "Avancement dans stage_ete_2015.pdf (numerotation PDF) : depouilles Coupe Animath 13-22, test mi-parcours 181-192, test fin de parcours 319-328, Groupe A strategies de base 24-40, Groupe A arithmetique 258-264, La Muraille enonces 381-386 et solutions 397-408 (partiellement). Non depouilles : Groupe B logique et strategies de base a partir de la page 41, Groupe A algebre et logique 136-153, Groupe A geometrie 194-220, et tout le reste des cours Groupes B, C et D.",
+  "Reprendre la seconde passe a la page PDF 41, Groupe B logique et strategies de base."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "stage_ete_2015.pdf",
+   "year": "2015",
+   "camp": "ete",
+   "pages": 410,
+   "exercise_headings": 1355,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_ete_2015.pdf"
+  }
+ ]
+}

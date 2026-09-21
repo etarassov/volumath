@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <g fill="none" stroke="#000" stroke-width="2">
+    <rect x="40" y="30" width="320" height="240"/>
+    <path d="M 200 30 L 200 110"/>
+    <path d="M 200 110 L 120 190"/>
+    <path d="M 200 110 L 280 190"/>
+    <path d="M 120 190 L 120 270"/>
+    <path d="M 280 190 L 280 270"/>
+    <path d="M 120 190 L 40 110"/>
+    <path d="M 280 190 L 360 110"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000" text-anchor="middle">
+    <text x="200" y="290">4</text>
+    <text x="22" y="155">3</text>
+  </g>
+</svg>

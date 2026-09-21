@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" width="300" height="240">
+<style>text{font-family:Georgia,"Times New Roman",serif;font-size:14px;font-style:italic;fill:#000}.l{fill:none;stroke:#000;stroke-width:1.6;stroke-linejoin:round}.t{fill:none;stroke:#000;stroke-width:1.2}</style>
+<polygon class="l" points="150,40 40,200 260,200" style="fill:#f2f2f2"/>
+<line class="t" x1="165" y1="147" x2="40" y2="200"/>
+<line class="t" x1="165" y1="147" x2="260" y2="200"/>
+<circle cx="150" cy="40" r="2.6" fill="#000"/>
+<circle cx="40" cy="200" r="2.6" fill="#000"/>
+<circle cx="260" cy="200" r="2.6" fill="#000"/>
+<circle cx="165" cy="147" r="2.6" fill="#000"/>
+<text x="145" y="32">X</text>
+<text x="26" y="217">Y</text>
+<text x="266" y="217">Z</text>
+<text x="171" y="143">M</text>
+</svg>

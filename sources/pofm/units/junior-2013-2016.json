@@ -1,0 +1,293 @@
+{
+ "unit": "junior-2013-2016",
+ "source": "pofm",
+ "title": "POFM polycopies de stage - junior-2013-2016",
+ "id_block": [
+  "7101",
+  "7200"
+ ],
+ "status": "in_progress",
+ "files_total": 4,
+ "next_file": 4,
+ "imported": [
+  "7101",
+  "7102",
+  "7103",
+  "7104",
+  "7105",
+  "7106",
+  "7107",
+  "7108",
+  "7109",
+  "7110",
+  "7111",
+  "7112",
+  "7113",
+  "7114",
+  "7115",
+  "7116",
+  "7118",
+  "7119",
+  "7120",
+  "7121",
+  "7122",
+  "7123",
+  "7124",
+  "7125",
+  "7126",
+  "7127",
+  "7128",
+  "7129",
+  "7130",
+  "7131",
+  "7132",
+  "7133",
+  "7134",
+  "7135",
+  "7136",
+  "7137",
+  "7138",
+  "7139",
+  "7140",
+  "7141",
+  "7142",
+  "7143",
+  "7144",
+  "7145",
+  "7146",
+  "7147",
+  "7148",
+  "7149",
+  "7150",
+  "7151",
+  "7152",
+  "7153",
+  "7154",
+  "7155",
+  "7156"
+ ],
+ "skipped": [
+  {
+   "what": "Pavage du triangle equilateral de cote 6 par des sphinx (2013 ex 12, 2014 ex 8, 2016 Piquerez ex 5)",
+   "why": "deja dans la base",
+   "existing": [
+    "7719",
+    "7008"
+   ]
+  },
+  {
+   "what": "Triminos 3x1 sur un echiquier 8x8 prive d'un coin (2016 Piquerez ex 2)",
+   "why": "cas particulier d'un exercice deja present",
+   "existing": [
+    "5901"
+   ]
+  },
+  {
+   "what": "Trois sauterelles et l'aire invariante (2016 Davalo ex 17)",
+   "why": "deja dans la base",
+   "existing": [
+    "7219"
+   ]
+  },
+  {
+   "what": "Les pistolets a eau, 2n+1 enfants (2014 Budzinski ex 4)",
+   "why": "deja dans la base, quatre fois",
+   "existing": [
+    "7624",
+    "8125",
+    "7828",
+    "8838"
+   ]
+  },
+  {
+   "what": "200 eleves et six problemes (2013 Marcovici ex 8)",
+   "why": "deja dans la base",
+   "existing": [
+    "3014"
+   ]
+  },
+  {
+   "what": "(a+b)(b+c)(c+a) >= 8abc (2015 Lequesne ex 4)",
+   "why": "deja dans la base",
+   "existing": [
+    "2420"
+   ]
+  },
+  {
+   "what": "(b+c-a)(c+a-b)(a+b-c) <= abc (2015 Lequesne ex 5)",
+   "why": "deja dans la base",
+   "existing": [
+    "7246"
+   ]
+  },
+  {
+   "what": "(x1+...+xn)(1/x1+...+1/xn) >= n^2 (2015 Lequesne ex 7)",
+   "why": "le cas n=3 est deja dans la base",
+   "existing": [
+    "2018"
+   ]
+  },
+  {
+   "what": "a^3+b^3+c^3 >= a^2 b + b^2 c + c^2 a (2015 Lequesne ex 10)",
+   "why": "deja dans la base",
+   "existing": [
+    "7831"
+   ]
+  },
+  {
+   "what": "f(2n)=2f(n), f(2n+1)=2f(n)+1 (2015 Bornsztein, Acte I ex 1)",
+   "why": "deja dans la base",
+   "existing": [
+    "8139"
+   ]
+  },
+  {
+   "what": "2n+1 points dans le carre unite, triangle d'aire <= 1/(2n) (2015 test final ex 4)",
+   "why": "deja dans la base, deux fois",
+   "existing": [
+    "7948",
+    "8145"
+   ]
+  },
+  {
+   "what": "n points sur un cercle, C(n,4) points d'intersection (2013 Bertin ex 8)",
+   "why": "deja dans la base",
+   "existing": [
+    "0538"
+   ]
+  },
+  {
+   "what": "642726721371^4 + 4 x 8473867822^4 est-il premier (2015 Tu ex 3, identite de Sophie Germain)",
+   "why": "l'identite est deja exploitee trois fois dans la base",
+   "existing": [
+    "8416",
+    "8817",
+    "8718"
+   ]
+  },
+  {
+   "what": "Polyedre a 20 faces triangulaires (2014 Tu ex 5)",
+   "why": "deja dans la base",
+   "existing": [
+    "7623",
+    "5612"
+   ]
+  },
+  {
+   "what": "Somme telescopique 1/(1x2)+...+1/((n-1)n) = 1 - 1/n (2014 test final ex 1)",
+   "why": "deja dans la base",
+   "existing": [
+    "0615"
+   ]
+  },
+  {
+   "what": "E interieur au carre avec EDC = ECD = 15 degres, ABE equilateral (2013 Zmiaikou ex 5)",
+   "why": "meme configuration que la base, en sens inverse",
+   "existing": [
+    "0660"
+   ]
+  },
+  {
+   "what": "24 tasses dont 3 a l'envers, on en retourne 4 (2016 Davalo ex 13)",
+   "why": "meme invariant que l'exercice 7108 que j'ai ecrit",
+   "existing": [
+    "7108"
+   ]
+  },
+  {
+   "what": "Hexagone regulier de cote 3 et parallelogrammes 1x2 (2014 ex 9, 2016 Piquerez ex 6)",
+   "why": "non ecrit : demande une figure et la reconstruction du coloriage a 12 triangles noirs",
+   "existing": []
+  },
+  {
+   "what": "Chemins Nord/Est evitant une diagonale interdite (2016 test final debutants ex 3)",
+   "why": "non ecrit : depend entierement d'une figure a redessiner",
+   "existing": []
+  },
+  {
+   "what": "Six points dans un rectangle 4x3 (2014)",
+   "why": "non ecrit : demande une figure",
+   "existing": []
+  },
+  {
+   "what": "Musee, 100 peintures a k couleurs (2016 Davalo ex 7)",
+   "why": "non ecrit : trop difficile a rediger au niveau club",
+   "existing": []
+  },
+  {
+   "what": "2001 droites coloriees en trois couleurs (2013 Bornsztein ex 2)",
+   "why": "non ecrit : solution trop longue",
+   "existing": []
+  },
+  {
+   "what": "Theoreme de Sylvester-Gallai (2016 Bornsztein)",
+   "why": "non ecrit : hors de portee du club",
+   "existing": []
+  },
+  {
+   "what": "Pont sur la riviere, cavalier a1->h8, poignees de main, R(3,3), deux points de meme couleur a 1 m, 45 degres et deux hauteurs",
+   "why": "classiques deja presents dans la base",
+   "existing": [
+    "1219",
+    "0135",
+    "4602",
+    "0235",
+    "4604",
+    "0911"
+   ]
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "55 exercices ecrits : 7101-7116 et 7118-7156. L'id 7117 n'a pas ete utilise (le polyedre a 20 faces etait un doublon repere apres reservation).",
+  "Les quatre polycopies junior 2013-2016 se reimpriment massivement entre eux : les exercices d'echauffement 2014 sont ceux de 2013, le cours de geometrie 2016 de Lo Jacomo reprend celui de 2014, le sphinx et l'hexagone aux parallelogrammes reviennent en 2013, 2014 et 2016. Un second passage doit donc lire les quatre annees ensemble, pas l'une apres l'autre.",
+  "ERRATUM SOURCE : 2013 Debutants geometrie ex 1 (Lo Jacomo, repris 2014 ex 3 et 2016 ex 3) nomme F les deux points d'intersection ; le premier doit etre E. La solution utilise bien E et F.",
+  "ERRATUM SOURCE : 2015 Davalo ex 1 (hexagone equiangle a cotes paralleles) enonce 'Montrer que BC = DE' ; il faut lire BC = EF, ce que demontre la solution.",
+  "ERRATUM SOURCE : 2015 Bornsztein Acte I ex 1, la solution ecrit 'f(1) = 2f(0)+1, d'ou f(1) = 0' ; il faut f(1) = 1, valeur utilisee partout ensuite.",
+  "ERRATUM SOURCE : 2015 test final debutants ex 1, la solution ecrit 'supposons 2^n >= n+1' pour '2^n >= n^2' (signale dans la reference de 7137).",
+  "ERRATUM SOURCE : 2015 test final avances ex 2, la solution ecrit (b^2+3) pour (b^3+2) (signale dans la reference de 7140).",
+  "ERRATUM SOURCE : 2014 Debutants geometrie ex 2, la solution ecrit 'MB = MB' pour 'MB = MC' (signale dans la reference de 7141).",
+  "ERRATUM SOURCE : 2014 Avances geometrie ex 2 (hexagone equiangle), la solution ecrit 'EF - BC = c + (s-a-b)' au lieu de 'c - (s-a-b)' ; la conclusion reste juste.",
+  "ERRATUM SOURCE : 2014 Budzinski, solution des pistolets a eau, les prenoms changent en cours de route (Francois et Felix devient Francois et Pierre).",
+  "PAS un erratum : 2015 Andler ex 7 imprime 79133 x 111107 = 8 792 240 231, ce qui est faux, mais c'est le sujet meme de l'exercice ; le vrai produit vaut 8 792 230 231 (exercice 7103).",
+  "TOOLCHAIN : \\cfrac n'est PAS supporte par pandoc vers Typst. Il declenche 'unexpected control sequence \\cfrac' et le source LaTeX s'imprime brut sur la page. Utiliser \\frac, qui empile correctement sur deux niveaux. A ajouter au tableau de CLAUDE.md.",
+  "DOUBLONS avec d'autres blocs, dans le MEME dossier, a arbitrer (rien n'a ete supprime) : 7101/7239, 7103/7216, 7106/7002, 7106/7233, 7106/7407, 7108/7713, 7109/7006, 7115/7020, 7153/1217, 7153/8551, 7154/8840.",
+  "DOUBLONS avec d'autres blocs, a des niveaux differents : 7104/0310, 7105/7923, 7107/7715, 7107/8135, 7107/8846, 7107/7228, 7108/8120, 7108/8847, 7110/7048, 7115/7235, 7120/7021, 7121/7259, 7143/7952, 7151/7024, 7151/7236, 7154/7051, 7135/0912, 7153/4617.",
+  "Le stage junior reste la meilleure porte d'entree de la source pour un club : les tests initiaux et finaux sont calibres pour des eleves de 3e et de 2de, et les premiers exercices de chaque cours sont des echauffements."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "stage_junior_2013.pdf",
+   "year": "2013",
+   "camp": "junior",
+   "pages": 91,
+   "exercise_headings": 261,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2023/03/stage_junior_2013.pdf"
+  },
+  {
+   "file": "stage_junior_2014.pdf",
+   "year": "2014",
+   "camp": "junior",
+   "pages": 89,
+   "exercise_headings": 209,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_junior_2014.pdf"
+  },
+  {
+   "file": "stage_junior_2015.pdf",
+   "year": "2015",
+   "camp": "junior",
+   "pages": 88,
+   "exercise_headings": 208,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_junior_2015.pdf"
+  },
+  {
+   "file": "stage_junior_2016.pdf",
+   "year": "2016",
+   "camp": "junior",
+   "pages": 88,
+   "exercise_headings": 208,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_junior_2016.pdf"
+  }
+ ]
+}

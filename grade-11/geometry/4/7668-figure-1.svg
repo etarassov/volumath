@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="215" viewBox="0 0 340 215">
+<g font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#000">
+<polygon points="30.0,185.9 300.0,185.9 120.0,30.0" fill="#f4f4f4" stroke="#000" stroke-width="2"/>
+<path d="M 66.0 185.9 A 36 36 0 0 0 48.0 154.7" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="70.0" y="171.9" font-size="13">60°</text>
+<line x1="120.0" y1="30.0" x2="186.0" y2="185.9" stroke="#c00" stroke-width="1.6" stroke-dasharray="6 4"/>
+<line x1="186.0" y1="185.9" x2="84.0" y2="92.4" stroke="#c00" stroke-width="1.6" stroke-dasharray="6 4"/>
+<line x1="84.0" y1="92.4" x2="300.0" y2="185.9" stroke="#c00" stroke-width="1.6" stroke-dasharray="6 4"/>
+<circle cx="30.0" cy="185.9" r="3.2" fill="#000"/>
+<circle cx="300.0" cy="185.9" r="3.2" fill="#000"/>
+<circle cx="120.0" cy="30.0" r="3.2" fill="#000"/>
+<circle cx="186.0" cy="185.9" r="3.2" fill="#000"/>
+<circle cx="84.0" cy="92.4" r="3.2" fill="#000"/>
+<text x="14.0" y="201.9">A</text>
+<text x="307.0" y="201.9">B</text>
+<text x="114.0" y="21.0">C</text>
+<text x="182.0" y="203.9">M</text>
+<text x="67.0" y="92.4">N</text>
+</g></svg>

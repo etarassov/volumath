@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="258" height="256" viewBox="0 0 258 256" font-family="Helvetica, Arial, sans-serif" font-size="13">
+  <rect x="0" y="0" width="258" height="256" fill="#ffffff"/>
+  <g fill="#9a9a9a">
+    <rect x="222" y="8" width="28" height="28"/>
+    <rect x="194" y="64" width="28" height="28"/>
+    <rect x="166" y="36" width="28" height="28"/>
+    <rect x="138" y="148" width="28" height="28"/>
+    <rect x="82" y="92" width="28" height="28"/>
+    <rect x="110" y="204" width="28" height="28"/>
+    <rect x="26" y="120" width="28" height="28"/>
+  </g>
+  <g stroke="#000000" stroke-width="1" fill="none">
+    <path d="M26 8 H250 M26 8 V232 M26 36 H250 M54 8 V232 M26 64 H250 M82 8 V232 M26 92 H250 M110 8 V232 M26 120 H250 M138 8 V232 M26 148 H250 M166 8 V232 M26 176 H250 M194 8 V232 M26 204 H250 M222 8 V232 M26 232 H250 M250 8 V232"/>
+  </g>
+  <g fill="#000000" text-anchor="middle">
+    <text x="40" y="249">A</text>
+    <text x="68" y="249">B</text>
+    <text x="96" y="249">C</text>
+    <text x="124" y="249">D</text>
+    <text x="152" y="249">E</text>
+    <text x="180" y="249">F</text>
+    <text x="208" y="249">G</text>
+    <text x="236" y="249">H</text>
+  </g>
+  <g fill="#000000" text-anchor="end">
+    <text x="20" y="223">1</text>
+    <text x="20" y="195">2</text>
+    <text x="20" y="167">3</text>
+    <text x="20" y="139">4</text>
+    <text x="20" y="111">5</text>
+    <text x="20" y="83">6</text>
+    <text x="20" y="55">7</text>
+    <text x="20" y="27">8</text>
+  </g>
+</svg>

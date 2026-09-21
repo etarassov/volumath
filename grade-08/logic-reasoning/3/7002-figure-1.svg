@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 300" width="320" height="300">
+  <g fill="none" stroke="#000" stroke-width="1.6">
+    <polygon points="160,40 264,100 264,220 160,280 56,220 56,100"/>
+  </g>
+  <g stroke="#000" stroke-width="1.4" fill="#ffffff">
+    <circle cx="160" cy="40"  r="13"/>
+    <circle cx="264" cy="100" r="13"/>
+    <circle cx="264" cy="220" r="13"/>
+    <circle cx="160" cy="280" r="13"/>
+    <circle cx="56"  cy="220" r="13"/>
+    <circle cx="56"  cy="100" r="13"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#000">
+    <text x="160" y="45">1</text>
+    <text x="264" y="105">2</text>
+    <text x="264" y="225">3</text>
+    <text x="160" y="285">4</text>
+    <text x="56"  y="225">5</text>
+    <text x="56"  y="105">6</text>
+  </g>
+</svg>

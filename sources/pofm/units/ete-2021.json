@@ -1,0 +1,197 @@
+{
+ "unit": "ete-2021",
+ "source": "pofm",
+ "title": "POFM polycopies de stage - ete-2021",
+ "id_block": [
+  "8401",
+  "8500"
+ ],
+ "status": "in_progress",
+ "files_total": 1,
+ "next_file": 0,
+ "imported": [
+  "8401",
+  "8402",
+  "8403",
+  "8404",
+  "8405",
+  "8406",
+  "8407",
+  "8408",
+  "8409",
+  "8410",
+  "8411",
+  "8412",
+  "8413",
+  "8414",
+  "8415",
+  "8416",
+  "8417",
+  "8418",
+  "8419",
+  "8420",
+  "8421",
+  "8422",
+  "8423",
+  "8424",
+  "8425",
+  "8426",
+  "8427",
+  "8428",
+  "8429",
+  "8430",
+  "8431",
+  "8432",
+  "8433",
+  "8434",
+  "8435",
+  "8436",
+  "8437",
+  "8438",
+  "8439",
+  "8440",
+  "8441",
+  "8442",
+  "8443",
+  "8444",
+  "8445",
+  "8446",
+  "8447",
+  "8448",
+  "8449",
+  "8450",
+  "8451",
+  "8452",
+  "8453",
+  "8454",
+  "8455",
+  "8456",
+  "8457",
+  "8458",
+  "8459",
+  "8460",
+  "8461",
+  "8462",
+  "8463",
+  "8464",
+  "8465",
+  "8466",
+  "8467",
+  "8468",
+  "8469",
+  "8470",
+  "8471",
+  "8472",
+  "8473",
+  "8474",
+  "8475",
+  "8476",
+  "8477",
+  "8478",
+  "8479"
+ ],
+ "skipped": [
+  {
+   "where": "Coupe Animath printemps 2021, ex. 3 / 10",
+   "reason": "deja dans la base sous 0660"
+  },
+  {
+   "where": "Groupe A, Inegalites, ex. 3 et Inegalites algebriques ex. 2",
+   "reason": "1/a+1/b >= 4/(a+b) et (a+b)(b+c)(c+a) >= 8abc sont deja dans 2420"
+  },
+  {
+   "where": "Groupe A, Inegalites, ex. 4",
+   "reason": "x + 1/x >= 2, trop proche de 0888"
+  },
+  {
+   "where": "Groupe A, Nombres premiers, ex. 5",
+   "reason": "n^2+n+41 deja dans la base sous 4814"
+  },
+  {
+   "where": "Groupe A, Nombres premiers, ex. 7",
+   "reason": "2^n-1 premier => n premier deja dans la base sous 5014"
+  },
+  {
+   "where": "Groupe A, Modulos, ex. 2",
+   "reason": "x^2 = 7 + y^2, meme famille que 0408"
+  },
+  {
+   "where": "Groupe A, Entrainement de mi-parcours, ex. 2 et 4",
+   "reason": "geometrie : ex. 2 utilise le theoreme de l'angle tangent (hors programme lycee), ex. 4 a une solution imprimee qui fait intervenir un point G jamais defini"
+  },
+  {
+   "where": "Groupe B, Invariants, ex. 4, 5, 6, 9, 13",
+   "reason": "deja dans la base : damier coin a coin 8239, |difference| sur 1..2018 8221, tas de nombres premiers 7838, tuiles 2x2 et 1x4 0810/7119, tetraminos en T sur 10x10 0812/8731"
+  },
+  {
+   "where": "Groupe B, Invariants, ex. 10",
+   "reason": "appariement rouge/bleu sans croisement : deja importe sous 7051 par un autre bloc"
+  },
+  {
+   "where": "Groupe B, entrainement de fin de parcours, ex. 2, 3, 4",
+   "reason": "deja importes par moi depuis d'autres sections du meme polycopie : 8443, 8442, 8444"
+  },
+  {
+   "where": "Groupe B, entrainement de mi-parcours, ex. 2 et 3",
+   "reason": "deja importes par moi : 8440 (inegalite en puissances n-iemes) et 8441 (equation fonctionnelle a trois couches)"
+  },
+  {
+   "where": "Groupe B, Factorisation et divisibilite, ex. 3 et 9",
+   "reason": "p, p+2, p+4 premiers deja dans la base (0876, 8819) ; PGCD(a^n-b^n, a^m-b^m) est hors de portee d'un club"
+  },
+  {
+   "where": "Groupe B, Principe des tiroirs, ex. 2, 5, 6, 7",
+   "reason": "deja dans la base : meme nombre de connaissances 4420, rectangle monochrome tricolore 1624, petit triangle par tiroirs 7948/8145, n+1 parmi 2n 7249/8569"
+  },
+  {
+   "where": "Groupe B, Comptage et pot-pourri, ex. 12, 13, 15, 18",
+   "reason": "deja dans la base : demi-cercle/demi-sphere 8831 et 8625, maires et ville la plus proche 7231, 2n points et n^2+1 segments 7724, 'au plus 3 amis' 8557"
+  },
+  {
+   "where": "Groupe B, Equations diophantiennes, ex. 11, 12, 13",
+   "reason": "ex. 11 (a^2+b^2=2023 mod 4) trop proche de 8450 ; ex. 12 : la preuve imprimee est FAUSSE, 8 EST atteignable modulo 11 par a^5-2b^2 (a^5=10, 2b^2=2), aucune solution trouvee jusqu'a a=400 mais je n'ai pas de preuve, donc non importe ; ex. 13 (racine cubique de 2 irrationnelle) deja couvert"
+  },
+  {
+   "where": "Muraille, ex. 12, 36, 50, 54, 55, 56, 58, 64, 80",
+   "reason": "niveau 2 et 3 : formule de Bretschneider, triplets pythagoriciens, AM-GM a 4 termes en n variables, geometrie de configuration ; hors du club. Ex. 12 : le corrige imprime annonce 94 diviseurs negatifs et n'en liste que 22"
+  },
+  {
+   "where": "Groupe C, entrainement de mi-parcours ex. 1, 3, 4 ; fin de parcours ex. 1, 2, 3",
+   "reason": "ex. 1 restes chinois + Euler-Fermat, ex. 3 dinosaures (double comptage lourd), ex. 4 renvoie a un autre polycopie ; fin de parcours ex. 1 et 3 utilisent axes radicaux et pole Sud, ex. 2 est deja dans la base sous 7829"
+  },
+  {
+   "where": "Groupe B, Derniers cours, Fonctions et arithmetique p. 170-186",
+   "reason": "valuations p-adiques, formule de Legendre, estimees de Tchebychev : hors programme et hors club"
+  },
+  {
+   "where": "Groupe B, geometrie p. 80-99 (Chasse aux angles, Triangles semblables)",
+   "reason": "pages entierement en TikZ, aucune couche de texte exploitable ; il faudrait rendre chaque page en image. A reprendre dans une seconde passe"
+  },
+  {
+   "where": "Groupe B, Equations fonctionnelles, exercices (M) et (D)",
+   "reason": "non depouilles faute de temps ; les exercices 4, 5, 7, 9, 10, 11 et 12 ont tous un corrige imprime et sont a reprendre"
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "Coupe Animath de printemps 2021 (p. 19-42) entierement depouillee : 17 exercices, 13 importes (8401-8413), 1 deja present (0660), 3 doublons internes college/lycee.",
+  "Groupe A (p. 43-78) depouille : inegalites (8414-8422), nombres premiers (8423-8426), modulos (8427-8435), entrainement de fin de parcours (8436-8439).",
+  "Groupe B depouille : entrainement de mi-parcours p. 117-123 (8449), Factorisation et divisibilite p. 124-125 (8451-8458), Principe des tiroirs p. 126-131 (8459), Modulos p. 132-133 (rien), Invariants p. 134-141 (8444-8448), Equations diophantiennes p. 142-154 (8465-8469), Comptage et pot-pourri p. 155-163 (8470-8471), entrainement de fin de parcours p. 164-169 (8450).",
+  "Muraille (p. 389-426) : seuls une trentaine d'exercices ont un corrige imprime. Les corriges de niveau 1 (p. 412-415) ont donne 8460-8464 ; les niveaux 2 et 3 sont hors club.",
+  "Groupe C : entrainement de mi-parcours p. 216-217 (8472), entrainement de fin de parcours p. 249-251 (8473), Double comptage p. 188-193 (8474-8476). Groupe B, Equations fonctionnelles p. 100-112 : les exercices marques (F) et (F-M) ont donne 8477-8479.",
+  "ERREURS DE SOURCE trouvees : (a) Equations diophantiennes ex. 9, le corrige conclut n=2 et ecrit '5^2+4=9' : faux, la bonne reponse est n=1, publiee dans 8465 ; (b) Muraille ex. 23 demande la valeur minimale alors que le corrige calcule le maximum 1/2, le minimum vaut -1/2, les deux sont dans 8461 ; (c) Equations diophantiennes ex. 12, la preuve modulo 11 est invalide ; (d) Invariants ex. 16 enonce 'exactement un ami dans son groupe', ce qui est faux (K_{3,3} est un contre-exemple), la version correcte 'au plus un' est deja dans la base sous 8557.",
+  "Doublons reperes avec d'autres blocs (NE PAS supprimer, cross-links poses) : 8414/8537, 8417/8517, 8425/8716, 8428/8727, 8430/8545, 8432/7431, 8449/8858 (grades differents), 8462/7509 et 8462/7626 ; MEME DOSSIER, a arbitrer par le coordinateur : 8440/8217 (grade-11/algebra/4), 8459/8550 (grade-09/combinatorics/3), 8429/7859/8326/8661 (grade-10/arithmetic/3), 8475/8870 (grade-11/combinatorics/5).",
+  "Reste a depouiller : Groupe B geometrie p. 80-99 (pages TikZ sans couche de texte, necessite pdftoppm), Equations fonctionnelles p. 100-112 exercices (M) et (D), TD Configurations p. 113-115, Groupe C p. 194-248 et 252-270, Groupe D p. 271-388, Muraille niveaux 2 et 3 (p. 395-426). Ids encore libres dans le bloc : 8480-8500."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "Poly-2021-Valbonne.pdf",
+   "year": "2021",
+   "camp": "ete",
+   "pages": 428,
+   "exercise_headings": 1286,
+   "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf"
+  }
+ ]
+}

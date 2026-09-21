@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 252" width="370" height="252">
+  <polygon points="90,45 210,45 330,225 30,225" fill="#f2f5fa" stroke="#000" stroke-width="1.6"/>
+  <line x1="90" y1="45" x2="270" y2="135" stroke="#1b3a6b" stroke-width="1.5"/>
+  <line x1="330" y1="225" x2="72.86" y2="96.43" stroke="#1b3a6b" stroke-width="1.5"/>
+  <line x1="30" y1="225" x2="270" y2="135" stroke="#8a4b12" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <line x1="210" y1="45" x2="72.86" y2="96.43" stroke="#8a4b12" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <circle cx="90" cy="45" r="3.2" fill="#000"/>
+  <circle cx="210" cy="45" r="3.2" fill="#000"/>
+  <circle cx="330" cy="225" r="3.2" fill="#000"/>
+  <circle cx="30" cy="225" r="3.2" fill="#000"/>
+  <circle cx="270" cy="135" r="3.2" fill="#000"/>
+  <circle cx="72.86" cy="96.43" r="3.4" fill="#b03030"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="16">
+    <text x="84" y="36" text-anchor="middle">A</text>
+    <text x="214" y="36">B</text>
+    <text x="336" y="240">C</text>
+    <text x="20" y="240">D</text>
+    <text x="278" y="134">P</text>
+    <text x="52" y="94" fill="#b03030">Q</text>
+  </g>
+</svg>

@@ -1,0 +1,142 @@
+{
+  "unit": "ete-2014",
+  "source": "pofm",
+  "title": "POFM polycopies de stage - ete-2014",
+  "id_block": [
+    "7701",
+    "7800"
+  ],
+  "status": "in_progress",
+  "files_total": 1,
+  "next_file": 0,
+  "imported": [
+    "7701",
+    "7702",
+    "7703",
+    "7704",
+    "7705",
+    "7706",
+    "7707",
+    "7708",
+    "7709",
+    "7710",
+    "7711",
+    "7712",
+    "7713",
+    "7714",
+    "7715",
+    "7716",
+    "7717",
+    "7718",
+    "7719",
+    "7720",
+    "7721",
+    "7722",
+    "7723",
+    "7724",
+    "7725",
+    "7726",
+    "7727",
+    "7728",
+    "7729",
+    "7730",
+    "7731",
+    "7732",
+    "7733",
+    "7734",
+    "7735",
+    "7736",
+    "7737",
+    "7738",
+    "7739",
+    "7740",
+    "7741",
+    "7742",
+    "7743",
+    "7744",
+    "7745",
+    "7746",
+    "7747",
+    "7748",
+    "7749",
+    "7750",
+    "7751",
+    "7752",
+    "7753",
+    "7754",
+    "7755",
+    "7756",
+    "7757",
+    "7758",
+    "7759"
+  ],
+  "skipped": [
+    {
+      "where": "Coupe Animath, exercice 6 (cercles equidistants de 4 points)",
+      "reason": "reponse 7 cercles, discussion de cas tres longue, hors portee d'un club"
+    },
+    {
+      "where": "Groupe A strategies de base, exercices 1, 2, 9, 12",
+      "reason": "deja dans la base: 4602, 4601, 4419, 0505"
+    },
+    {
+      "where": "Groupe A recurrence (Gachet), exercice 5 (n cercles, deux couleurs)",
+      "reason": "deja dans la base: 5904"
+    },
+    {
+      "where": "Test mi-parcours groupe A ex 1 et 2, groupe B ex 1 et 3",
+      "reason": "deja dans la base: 0880/0888, 0714, 4805/5904"
+    },
+    {
+      "where": "Evaluation initiale, n droites decoupant le plan",
+      "reason": "deja dans la base: 0328"
+    },
+    {
+      "where": "Test mi-parcours groupes C et D, Groupe D geometrie",
+      "reason": "niveau olympiade, axes radicaux, LTE, inversion: hors programme"
+    },
+    {
+      "where": "La muraille, exercices 7, 15, 18, 19, 20, 21, 25, 27, 36, 41, 68",
+      "reason": "deja dans la base (blocs d'autres agents): 7621, 7623, 0309, 7862, 7951/8718/8817, 7638, 8653/7637, 7636/0778/7204, 7864, 1220, 7633. La muraille est reimprimee d'une annee sur l'autre, elle a deja ete largement moissonnee."
+    },
+    {
+      "where": "La muraille, exercice 2 (symetriques de l'orthocentre)",
+      "reason": "deja dans la base: 7439"
+    },
+    {
+      "where": "La muraille, exercice 4 (2a^2+2b^2+2(b-a-ab)+2=0)",
+      "reason": "ENONCE FAUTIF: aucune solution reelle. 2 fois le membre de gauche vaut (a-b)^2+(a-1)^2+(b+1)^2, dont le minimum est 4/3 > 0. Le polycopie ne donne pas de solution. Probablement une faute de signe."
+    },
+    {
+      "where": "La muraille, exercice 35 (fractions additionnees au lieu d'etre multipliees, denominateur 2007)",
+      "reason": "enonce ambigu (denominateur de la fraction reduite ou produit des denominateurs ?), aucune solution dans le polycopie"
+    },
+    {
+      "where": "La muraille, exercice 70 (3n+1 et 4n+1 carres => 7 | n)",
+      "reason": "les congruences seules ne suffisent pas (n = 2 mod 7 survit); il faut la recurrence de Pell sur u^2-3b^2=1, hors portee d'un club"
+    },
+    {
+      "where": "La muraille, exercices 42 a 136 non traites au-dela du triage",
+      "reason": "pass interrompu faute de temps, voir next_file"
+    }
+  ],
+  "retired_ids": [],
+  "notes": [
+    "Offset page PDF = page imprimee (1:1).",
+    "Numerotation des solutions decalee d'un rang a partir de l'exercice 4 dans le cours de recurrence (Gachet).",
+    "La muraille (p. 483-514, 136 exercices) est le meilleur gisement restant, mais elle est reimprimee d'une annee sur l'autre et d'autres agents l'ont deja largement prise. Verifier chaque enonce dans la base avant d'ecrire.",
+    "Seuls les exercices resolus par un eleve pendant le stage ont une solution imprimee dans la muraille; les autres n'en ont aucune.",
+    "REPRISE: (1) La muraille, exercices 86 a 136; (2) les premiers exercices des cours des groupes B, C et D (p. 150-480), seulement echantillonnes; (3) le test de fin de parcours des groupes B, C, D."
+  ],
+  "updated": "2026-09-20",
+  "files": [
+    {
+      "file": "stage_ete_2014.pdf",
+      "year": "2014",
+      "camp": "ete",
+      "pages": 518,
+      "exercise_headings": 1334,
+      "url": "http://igm.univ-mlv.fr/~juge/pofm/doc/stage_ete_2014.pdf"
+    }
+  ]
+}

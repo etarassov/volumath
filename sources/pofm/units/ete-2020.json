@@ -1,0 +1,151 @@
+{
+  "unit": "ete-2020",
+  "source": "pofm",
+  "title": "POFM polycopies de stage - ete-2020",
+  "id_block": [
+    "8301",
+    "8400"
+  ],
+  "status": "in_progress",
+  "files_total": 1,
+  "next_file": "Polycopie-Valbonne-2020-v2.pdf",
+  "imported": [
+    "8301",
+    "8302",
+    "8303",
+    "8304",
+    "8305",
+    "8306",
+    "8307",
+    "8308",
+    "8309",
+    "8310",
+    "8311",
+    "8312",
+    "8313",
+    "8314",
+    "8315",
+    "8316",
+    "8317",
+    "8318",
+    "8319",
+    "8320",
+    "8321",
+    "8322",
+    "8323",
+    "8324",
+    "8325",
+    "8326",
+    "8327",
+    "8328",
+    "8329",
+    "8330",
+    "8331",
+    "8332",
+    "8333",
+    "8334",
+    "8335",
+    "8336",
+    "8337",
+    "8338",
+    "8339",
+    "8340",
+    "8341",
+    "8342",
+    "8343"
+  ],
+  "skipped": [
+    {
+      "where": "Coupe Animath de printemps 2020, exercice 1",
+      "reason": "deja dans la base sous l'id 0737"
+    },
+    {
+      "where": "Groupe A, Decouverte des Mathematiques, exercice 2 (identite de Sophie Germain)",
+      "reason": "deja dans la base sous l'id 0459"
+    },
+    {
+      "where": "Groupe A, Nombres premiers, exercice 5 (infinite de premiers 4k+3)",
+      "reason": "deja dans la base sous l'id 8717"
+    },
+    {
+      "reference": "Groupe B, invariants, caméléons",
+      "reason": "déjà dans la base : 8527, 7312, 7217, 8121"
+    },
+    {
+      "reference": "Groupe B, invariants, lampes",
+      "reason": "déjà dans la base : 7214, 7417"
+    },
+    {
+      "reference": "Groupe B, invariants, sauterelles",
+      "reason": "déjà dans la base : 7219"
+    },
+    {
+      "reference": "Groupe B, invariants, chiffre le plus fréquent",
+      "reason": "déjà dans la base : 7218"
+    },
+    {
+      "reference": "Groupe B, invariants, champignons",
+      "reason": "déjà dans la base : 8558"
+    },
+    {
+      "reference": "Groupe B, points milieux à coordonnées entières",
+      "reason": "déjà dans la base : 7725, 7840, 8123, 8834, 7232"
+    },
+    {
+      "reference": "Groupe B, deux sous-ensembles de même somme",
+      "reason": "déjà dans la base : 7211, 8832, 8223, 7849"
+    },
+    {
+      "reference": "Groupe B, n chapeaux modulo n",
+      "reason": "déjà dans la base : 1409"
+    },
+    {
+      "reference": "Groupe B, soirée dansante",
+      "reason": "déjà dans la base : 8122"
+    },
+    {
+      "reference": "Groupe B, connaissances dans une assemblée",
+      "reason": "déjà dans la base : 4602"
+    },
+    {
+      "reference": "Groupe B, carrelage avec une dalle cassée",
+      "reason": "déjà dans la base : 0810, 7119"
+    },
+    {
+      "reference": "Groupe B, cinq tétrominos",
+      "reason": "déjà dans la base : 0811"
+    },
+    {
+      "reference": "Groupe A, n+1 nombres parmi 2n",
+      "reason": "déjà dans la base : 8569"
+    },
+    {
+      "reference": "Coupe Animath, carré et sommet à angle droit",
+      "reason": "déjà dans la base : 8913"
+    },
+    {
+      "reference": "Groupe A, géométrie, HAB = OAC",
+      "reason": "déjà dans la base : 8131"
+    },
+    {
+      "reference": "Groupe B, rectangle monochrome",
+      "reason": "déjà dans la base : 1624"
+    }
+  ],
+  "retired_ids": [],
+  "notes": [
+    "Coupe Animath de printemps 2020 (p. 15-38) depouillee entierement : 17 enonces, 4 doublons internes college/lycee, 12 importes, 1 saute.",
+    "Le corrige publie de l'exercice 17 decrit une construction qui contredit sa propre figure ; la figure est juste, le texte non. Construction verifiee et reecrite dans 8312."
+  ],
+  "updated": "2026-09-20",
+  "files": [
+    {
+      "file": "Polycopie-Valbonne-2020-v2.pdf",
+      "year": "2020",
+      "camp": "ete",
+      "pages": 457,
+      "exercise_headings": 1251,
+      "url": "http://igm.univ-mlv.fr/~juge/pofm/2020-2021/Valbonne-2020/Polycopi%C3%A9-Valbonne-2020-v2.pdf"
+    }
+  ]
+}

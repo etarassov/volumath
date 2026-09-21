@@ -1,0 +1,520 @@
+{
+ "unit": "ete-2016",
+ "source": "pofm",
+ "title": "POFM polycopies de stage - ete-2016",
+ "id_block": [
+  "7901",
+  "8000"
+ ],
+ "status": "in_progress",
+ "files_total": 1,
+ "next_file": 0,
+ "imported": [
+  {
+   "id": "7901",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Deux nombres premiers dont la somme et la différence sont premières",
+   "path": "grade-09/arithmetic/3/7901-two-primes-whose-sum-and-difference-are-prime.md"
+  },
+  {
+   "id": "7902",
+   "grade": 8,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Quand 3n + 1 se termine par un zéro",
+   "path": "grade-08/arithmetic/2/7902-when-three-times-n-plus-one-ends-in-zero.md"
+  },
+  {
+   "id": "7903",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 4,
+   "title": "Des jetons qui sautent par-dessus le voisin",
+   "path": "grade-09/logic-reasoning/4/7903-tokens-passed-across-the-circle.md"
+  },
+  {
+   "id": "7904",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Un carré et un triangle équilatéral sur le même cercle",
+   "path": "grade-10/geometry/3/7904-a-square-and-an-equilateral-triangle-on-one-circle.md"
+  },
+  {
+   "id": "7905",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 2,
+   "title": "La hauteur du triangle 5, 12, 13",
+   "path": "grade-09/geometry/2/7905-the-altitude-of-the-five-twelve-thirteen-triangle.md"
+  },
+  {
+   "id": "7906",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Deux plantes et leur âge",
+   "path": "grade-09/algebra/2/7906-two-plants-and-their-ages.md"
+  },
+  {
+   "id": "7907",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Une puissance de 2 qui est une puissance dix-septième",
+   "path": "grade-10/arithmetic/3/7907-a-power-of-two-that-is-a-seventeenth-power.md"
+  },
+  {
+   "id": "7908",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Les chemins d'un pion sous la diagonale",
+   "path": "grade-10/combinatorics/3/7908-forty-two-paths-under-the-diagonal.md"
+  },
+  {
+   "id": "7909",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Deux triangles rectangles sur la même hypoténuse",
+   "path": "grade-09/geometry/3/7909-two-right-triangles-on-the-same-hypotenuse.md"
+  },
+  {
+   "id": "7910",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 5,
+   "title": "Cent points sur un cercle et les droites des voisins",
+   "path": "grade-10/geometry/5/7910-one-hundred-points-and-their-neighbour-lines.md"
+  },
+  {
+   "id": "7911",
+   "grade": 9,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Un empilement de fractions",
+   "path": "grade-09/algebra/2/7911-a-stack-of-fractions.md"
+  },
+  {
+   "id": "7912",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Un entier caché derrière une racine carrée",
+   "path": "grade-10/algebra/3/7912-an-integer-hidden-behind-a-square-root.md"
+  },
+  {
+   "id": "7913",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 2,
+   "title": "Une suite qui avance à pas constant",
+   "path": "grade-11/algebra/2/7913-a-sequence-that-advances-at-a-constant-pace.md"
+  },
+  {
+   "id": "7914",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Un polynôme de degré 4 qui annule racine de 2 plus racine de 3",
+   "path": "grade-11/algebra/3/7914-a-quartic-that-kills-root-two-plus-root-three.md"
+  },
+  {
+   "id": "7915",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Quand le produit des diviseurs vaut n au carré",
+   "path": "grade-11/arithmetic/4/7915-when-the-divisors-multiply-to-n-squared.md"
+  },
+  {
+   "id": "7916",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Ce qui divise toujours a(a+2)(a+4)",
+   "path": "grade-09/arithmetic/3/7916-what-always-divides-a-times-a-plus-two-times-a-plus-four.md"
+  },
+  {
+   "id": "7917",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Colorier un échiquier 2 par 10 sans deux bleus côte à côte",
+   "path": "grade-10/combinatorics/4/7917-colouring-a-two-by-ten-board.md"
+  },
+  {
+   "id": "7918",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Quand la différence ne divise jamais la somme",
+   "path": "grade-11/combinatorics/4/7918-when-the-difference-never-divides-the-sum.md"
+  },
+  {
+   "id": "7919",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Un triangle très haut posé sur un carré",
+   "path": "grade-10/geometry/3/7919-a-very-tall-triangle-over-a-square.md"
+  },
+  {
+   "id": "7920",
+   "grade": 9,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "Le compteur kilométrique lu à l'envers",
+   "path": "grade-09/arithmetic/3/7920-the-odometer-read-backwards.md"
+  },
+  {
+   "id": "7921",
+   "grade": 9,
+   "theme": "logic-reasoning",
+   "difficulty": 3,
+   "title": "Deux mille seize personnes en file indienne",
+   "path": "grade-09/logic-reasoning/3/7921-two-thousand-and-sixteen-people-in-a-queue.md"
+  },
+  {
+   "id": "7922",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Le trapèze aux diagonales égales",
+   "path": "grade-10/geometry/3/7922-the-trapezium-with-equal-diagonals.md"
+  },
+  {
+   "id": "7923",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Cinq nombres et leurs sommes deux à deux",
+   "path": "grade-10/algebra/3/7923-five-numbers-and-their-pairwise-sums.md"
+  },
+  {
+   "id": "7924",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Découper un polygone à 2016 côtés en triangles",
+   "path": "grade-11/combinatorics/4/7924-triangulating-a-two-thousand-sixteen-gon.md"
+  },
+  {
+   "id": "7925",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Divisible par la somme de ses chiffres",
+   "path": "grade-10/arithmetic/4/7925-divisible-by-its-own-digit-sum.md"
+  },
+  {
+   "id": "7926",
+   "grade": 12,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Un produit qui ne descend jamais au-dessous de 6",
+   "path": "grade-12/algebra/4/7926-a-product-that-never-drops-below-six.md"
+  },
+  {
+   "id": "7927",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "Une règle sur les congruences qui n'existe pas",
+   "path": "grade-12/arithmetic/2/7927-a-congruence-rule-that-does-not-exist.md"
+  },
+  {
+   "id": "7928",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "2 puissance n plus 1, carré ou cube",
+   "path": "grade-11/arithmetic/3/7928-two-to-the-n-plus-one-square-or-cube.md"
+  },
+  {
+   "id": "7929",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Quand le produit des chiffres vaut n² − 15n − 27",
+   "path": "grade-11/arithmetic/4/7929-the-product-of-the-digits-equals-a-quadratic.md"
+  },
+  {
+   "id": "7930",
+   "grade": 8,
+   "theme": "coloring",
+   "difficulty": 3,
+   "title": "Six oiseaux autour de six arbres",
+   "path": "grade-08/coloring/3/7930-six-birds-around-six-trees.md"
+  },
+  {
+   "id": "7931",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "La factorielle et la puissance",
+   "path": "grade-11/algebra/4/7931-factorial-versus-a-power.md"
+  },
+  {
+   "id": "7932",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 3,
+   "title": "b² − 8 est une puissance de 3",
+   "path": "grade-10/arithmetic/3/7932-b-squared-minus-eight-is-a-power-of-three.md"
+  },
+  {
+   "id": "7933",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Deux divisibilités qui se répondent",
+   "path": "grade-11/arithmetic/4/7933-two-divisibilities-that-lock-each-other.md"
+  },
+  {
+   "id": "7934",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Une équation qui force a = b",
+   "path": "grade-11/algebra/3/7934-an-equation-that-forces-a-equals-b.md"
+  },
+  {
+   "id": "7935",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Une divisibilité à deux inconnues",
+   "path": "grade-12/arithmetic/4/7935-a-divisibility-with-two-unknowns.md"
+  },
+  {
+   "id": "7936",
+   "grade": 12,
+   "theme": "functions-analysis",
+   "difficulty": 5,
+   "title": "Une équation fonctionnelle avec des cubes",
+   "path": "grade-12/functions-analysis/5/7936-a-functional-equation-with-cubes.md"
+  },
+  {
+   "id": "7937",
+   "grade": 11,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Les trois hauteurs et le rayon du cercle inscrit",
+   "path": "grade-11/geometry/4/7937-three-altitudes-and-the-inradius.md"
+  },
+  {
+   "id": "7938",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "La somme et le produit, mais dans quel ordre ?",
+   "path": "grade-11/algebra/3/7938-the-sum-and-the-product-in-either-order.md"
+  },
+  {
+   "id": "7939",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 4,
+   "title": "Une équation de degré 4 qui se lit dans les deux sens",
+   "path": "grade-11/algebra/4/7939-a-quartic-read-from-both-ends.md"
+  },
+  {
+   "id": "7940",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Pour quels a l'équation n'a-t-elle aucune solution ?",
+   "path": "grade-11/algebra/3/7940-for-which-a-is-there-no-solution.md"
+  },
+  {
+   "id": "7941",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 2,
+   "title": "3^2n − 2^n est un multiple de 7",
+   "path": "grade-10/arithmetic/2/7941-nine-to-the-n-minus-two-to-the-n.md"
+  },
+  {
+   "id": "7942",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Le plus petit dénominateur possible",
+   "path": "grade-11/arithmetic/4/7942-the-smallest-possible-denominator.md"
+  },
+  {
+   "id": "7943",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Un point à l'intérieur d'un triangle équilatéral",
+   "path": "grade-10/geometry/4/7943-a-point-inside-an-equilateral-triangle.md"
+  },
+  {
+   "id": "7944",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Élever une congruence à la puissance p",
+   "path": "grade-12/arithmetic/4/7944-raising-a-congruence-to-the-power-p.md"
+  },
+  {
+   "id": "7945",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Sept nombres qui font cent",
+   "path": "grade-09/combinatorics/4/7945-seven-numbers-adding-to-one-hundred.md"
+  },
+  {
+   "id": "7946",
+   "grade": 10,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "On efface deux nombres et on les remplace",
+   "path": "grade-10/algebra/3/7946-erasing-two-numbers-on-the-board.md"
+  },
+  {
+   "id": "7947",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Une triple composition qui s'annule",
+   "path": "grade-11/algebra/3/7947-a-triple-composition-that-vanishes.md"
+  },
+  {
+   "id": "7948",
+   "grade": 10,
+   "theme": "combinatorics",
+   "difficulty": 4,
+   "title": "Cent un points dans un carré",
+   "path": "grade-10/combinatorics/4/7948-one-hundred-and-one-points-in-a-square.md"
+  },
+  {
+   "id": "7949",
+   "grade": 12,
+   "theme": "geometry",
+   "difficulty": 4,
+   "title": "Quand la base vaut la somme de deux segments",
+   "path": "grade-12/geometry/4/7949-when-the-base-equals-the-sum-of-two-segments.md"
+  },
+  {
+   "id": "7950",
+   "grade": 11,
+   "theme": "combinatorics",
+   "difficulty": 5,
+   "title": "Vingt enfants et leurs grands-pères",
+   "path": "grade-11/combinatorics/5/7950-twenty-children-and-their-grandfathers.md"
+  },
+  {
+   "id": "7951",
+   "grade": 11,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "n⁴ + 4ⁿ est-il premier ?",
+   "path": "grade-11/arithmetic/4/7951-n-to-the-fourth-plus-four-to-the-n.md"
+  },
+  {
+   "id": "7952",
+   "grade": 9,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Découper un carré en carrés",
+   "path": "grade-09/geometry/3/7952-cutting-a-square-into-squares.md"
+  },
+  {
+   "id": "7953",
+   "grade": 12,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Une tour d'exposants modulo 11",
+   "path": "grade-12/arithmetic/4/7953-a-tower-of-exponents-modulo-eleven.md"
+  },
+  {
+   "id": "7954",
+   "grade": 12,
+   "theme": "functions-analysis",
+   "difficulty": 4,
+   "title": "Une seule inégalité qui force une fonction constante",
+   "path": "grade-12/functions-analysis/4/7954-a-single-inequality-that-forces-a-constant.md"
+  },
+  {
+   "id": "7955",
+   "grade": 10,
+   "theme": "geometry",
+   "difficulty": 3,
+   "title": "Un rapport qui vaut toujours un demi",
+   "path": "grade-10/geometry/3/7955-a-ratio-that-is-always-one-half.md"
+  },
+  {
+   "id": "7956",
+   "grade": 10,
+   "theme": "arithmetic",
+   "difficulty": 4,
+   "title": "Les entiers écrits seulement avec 2, 0, 1 et 6",
+   "path": "grade-10/arithmetic/4/7956-only-the-digits-two-zero-one-and-six.md"
+  },
+  {
+   "id": "7957",
+   "grade": 11,
+   "theme": "algebra",
+   "difficulty": 3,
+   "title": "Une pile de fractions sans fin",
+   "path": "grade-11/algebra/3/7957-an-infinite-stack-of-fractions.md"
+  },
+  {
+   "id": "7958",
+   "grade": 9,
+   "theme": "combinatorics",
+   "difficulty": 3,
+   "title": "Des grains de riz sur un échiquier",
+   "path": "grade-09/combinatorics/3/7958-grains-of-rice-on-a-chessboard.md"
+  }
+ ],
+ "skipped": [
+  {
+   "where": "stage_ete_2016.pdf, Coupe Animath 2016 eliminatoires et epreuve finale, p.21-33",
+   "reason": "deja dans la base sous un autre id, ou hors sujet club",
+   "detail": "4 problemes ecartes comme doublons deja presents (recherche par enonce avant ecriture), et les derniers exercices de l'epreuve finale, de niveau olympiade lourd."
+  },
+  {
+   "where": "stage_ete_2016.pdf, cours Groupe A, p.37-106",
+   "reason": "seuls les exercices d'ouverture ont ete pris",
+   "detail": "Les TD complets de Groupe A partent vite sur des outils hors programme francais (inegalites de rearrangement, lemme de Hensel) ; seuls les echauffements ont ete retenus."
+  },
+  {
+   "where": "stage_ete_2016.pdf, cours Groupes B, C et D, p.114-210 et p.221-278",
+   "reason": "hors portee du club",
+   "detail": "Materiel de type liste courte IMO. Pas explore en detail dans cette passe."
+  },
+  {
+   "where": "stage_ete_2016.pdf, la muraille, exercices de niveaux 2 a 5, p.283-315",
+   "reason": "pas encore lu",
+   "detail": "Seul le niveau 1 de la muraille (exercices 1 a 45, p.279-283) a ete depouille dans cette passe."
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "Passe 1 terminee : 58 exercices ecrits, ids 7901-7958, tous verifies par vm.py check (0 erreur) et construits en PDF sans aucun avertissement pandoc.",
+  "Sections depouillees : Coupe Animath 2016 (eliminatoires, epreuve finale, evaluation initiale, p.21-36) ; test de mi-parcours (p.107-113) ; test de fin de parcours (p.211-220) ; exercices d'ouverture des cours de Groupe A (p.37-46) ; la muraille niveau 1 (enonces p.279-283, solutions p.285-300).",
+  "Reprise d'une deuxieme passe : la muraille niveaux 2 a 5 a partir de la page 283, puis les exercices d'ouverture des cours de Groupe B (p.114 et suivantes). Les Groupes C et D sont de la liste courte IMO et ne sont pas du materiel de club.",
+  "Le bloc d'ids 7959-8000 reste libre pour une deuxieme passe sur ce meme document.",
+  "Erreurs du polycopie relevees et corrigees dans les fichiers concernes, chacune signalee dans source.reference : 7903 (le nombre imprime 2008 doit etre 1008), 7933, 7938 (les deux reponses sont interverties), 7940 (deux erreurs de calcul), et la muraille exercice 35 dont la figure montre quatre cycles disjoints, ce qui contredit l'affirmation imprimee (exercice non importe).",
+  "Doublons inter-blocs reperes, rien supprime : 7950 = 7321 (niveaux 1re / 3e, croise par see_also), 7929 = 7820 (1re / 3e), 7942 = 8141 et proche de 7604 (1re / 2de / 3e), 7930 = 7233 et 7714 (4e coloring / 4e logic-reasoning / 3e coloring). Les collisions signalees par vm.py entre 7923 et 8631, et entre 7904 et 7813, sont de faux positifs : ce sont des problemes differents."
+ ],
+ "updated": "2026-09-20",
+ "files": [
+  {
+   "file": "stage_ete_2016.pdf",
+   "year": "2016",
+   "camp": "ete",
+   "pages": 315,
+   "exercise_headings": 1037,
+   "url": "http://igm.univ-mlv.fr/~juge/pofm/doc/stage_ete_2016.pdf"
+  }
+ ]
+}

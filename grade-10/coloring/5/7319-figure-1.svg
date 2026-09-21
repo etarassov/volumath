@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 160" width="260" height="160">
+  <polygon points="30,80 130,20 230,80 130,140" fill="#f2f2f2" stroke="none"/>
+  <line x1="30" y1="80" x2="130" y2="20" stroke="#000" stroke-width="1.6"/>
+  <line x1="130" y1="20" x2="230" y2="80" stroke="#000" stroke-width="1.6"/>
+  <line x1="230" y1="80" x2="130" y2="140" stroke="#000" stroke-width="1.6"/>
+  <line x1="130" y1="140" x2="30" y2="80" stroke="#000" stroke-width="1.6"/>
+  <line x1="130" y1="20" x2="130" y2="140" stroke="#000" stroke-width="1.6"/>
+  <line x1="30" y1="80" x2="230" y2="80" stroke="#000" stroke-width="1" stroke-dasharray="5 4"/>
+  <circle cx="30" cy="80" r="3.2" fill="#000"/>
+  <circle cx="230" cy="80" r="3.2" fill="#000"/>
+  <circle cx="130" cy="20" r="3.2" fill="#000"/>
+  <circle cx="130" cy="140" r="3.2" fill="#000"/>
+  <text x="16" y="85" font-family="Helvetica, Arial, sans-serif" font-size="13">A</text>
+  <text x="238" y="85" font-family="Helvetica, Arial, sans-serif" font-size="13">B</text>
+  <text x="126" y="14" font-family="Helvetica, Arial, sans-serif" font-size="13">C</text>
+  <text x="126" y="156" font-family="Helvetica, Arial, sans-serif" font-size="13">D</text>
+</svg>

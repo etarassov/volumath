@@ -1,0 +1,243 @@
+{
+  "unit": "ete-2018",
+  "source": "pofm",
+  "title": "POFM polycopies de stage - ete-2018",
+  "id_block": [
+    "8101",
+    "8200"
+  ],
+  "status": "in_progress",
+  "files_total": 1,
+  "next_file": "stage_ete_2018.pdf : reprendre au chapitre V Groupe C, section 4 « Geometrie » (cours sur l'angle inscrit et le pole sud, transformations, milieux et parallelogrammes), puis chapitre VI Groupe D section 3 « Combinatoire », cours « Geometrie combinatoire », exercices 3 a 11. Le reste du Groupe D est de niveau liste courte IMO et n'a rien donne.",
+  "imported": [
+    "8101",
+    "8102",
+    "8103",
+    "8104",
+    "8105",
+    "8106",
+    "8107",
+    "8108",
+    "8109",
+    "8110",
+    "8111",
+    "8112",
+    "8113",
+    "8114",
+    "8115",
+    "8116",
+    "8117",
+    "8118",
+    "8119",
+    "8120",
+    "8121",
+    "8122",
+    "8123",
+    "8124",
+    "8125",
+    "8126",
+    "8127",
+    "8128",
+    "8129",
+    "8130",
+    "8131",
+    "8132",
+    "8133",
+    "8134",
+    "8135",
+    "8136",
+    "8137",
+    "8138",
+    "8139",
+    "8140",
+    "8141",
+    "8142",
+    "8143",
+    "8144",
+    "8145",
+    "8146",
+    "8147",
+    "8148",
+    "8149",
+    "8150",
+    "8151",
+    "8152",
+    "8153",
+    "8154",
+    "8155",
+    "8156",
+    "8157",
+    "8158",
+    "8159",
+    "8160",
+    "8161",
+    "8162",
+    "8163",
+    "8164",
+    "8165",
+    "8166",
+    "8167",
+    "8168",
+    "8169",
+    "8170",
+    "8171",
+    "8172",
+    "8173",
+    "8174",
+    "8175",
+    "8176",
+    "8177",
+    "8178",
+    "8179",
+    "8180",
+    "8181",
+    "8182",
+    "8183",
+    "8184",
+    "8185",
+    "8186",
+    "8187",
+    "8188",
+    "8189"
+  ],
+  "skipped": [
+    {
+      "where": "Muraille, exercices 49 50 51 52 57 65 68 70 71 74 80 81 84 85 88 91 96",
+      "reason": "hors de portee d'un club : outils hors programme, ou enonce dependant d'une figure absente, ou trop long a rendre autonome"
+    },
+    {
+      "where": "Muraille, exercices 103 105 106 107 108 109 111 112 113 114 115 117 118 121 122 123 124 125 127 128 129 131 132 134 135 136 137 138 140 141 142",
+      "reason": "niveau 3 de la Muraille : olympiade internationale, aucune redaction possible avec les outils de Terminale"
+    },
+    {
+      "where": "Muraille, exercice 126",
+      "reason": "demande la formule d'Euler pour les graphes planaires, hors programme et absente de la base"
+    },
+    {
+      "where": "Muraille, exercice 133",
+      "reason": "la reponse fait intervenir des solutions de courbe elliptique a 80 chiffres : injouable"
+    },
+    {
+      "where": "Muraille, exercice 139",
+      "reason": "enonce sous-determine, et la reponse du recueil est physiquement absurde"
+    },
+    {
+      "where": "Soirees, conference « Des cercles, des lampes et pi^2/6 » : divergence de la serie harmonique",
+      "reason": "deja dans la base sous l'id 2815"
+    },
+    {
+      "where": "Soirees, conference « Des cercles, des lampes et pi^2/6 » : somme des 1/n^2 majoree par 2",
+      "reason": "deja dans la base sous l'id 8722"
+    },
+    {
+      "where": "Soirees, conference « Etre plus efficace grace au hasard » (Vincent Juge, p.399-403)",
+      "reason": "diaporama d'informatique (paradoxe des anniversaires, tri rapide, preuve a divulgation nulle) : pas d'exercice autonome avec solution"
+    },
+    {
+      "where": "Groupe B, geometrie section 3 « Puissance d'un point et axes radicaux », exercice 5 (deux cercles secants, tangente commune, (AB) coupe [PQ] en son milieu)",
+      "reason": "doublon exact de 8873 (bloc d'un autre agent, POFM 2025), meme grade 11, meme theme, meme difficulte 3. Non ecrit, donc rien a supprimer."
+    },
+    {
+      "where": "Groupe B, geometrie section 3, exercice 6 (deux cercles tangents exterieurement, triangle PQT rectangle en T)",
+      "reason": "contenu tel quel dans 7703 (grade 10, geometrie), dont les indices 1 a 3 refont exactement cet argument"
+    },
+    {
+      "where": "Groupe C, combinatoire section 1 « Theorie des jeux », exercices 1 et 3 (jeu de Chomp)",
+      "reason": "deja dans la base sous l'id 8234, qui couvre les trois questions y compris le vol de strategie"
+    },
+    {
+      "where": "Groupe C, combinatoire section 1, exercice 4 (jeu de Cram)",
+      "reason": "deja dans la base sous l'id 8233 (strategie miroir avec les dominos)"
+    },
+    {
+      "where": "Groupe C, combinatoire section 1, exercice 2 (jeu de Hex)",
+      "reason": "l'existence d'une strategie gagnante repose sur le theoreme de Hex, non demontre dans le polycopie"
+    },
+    {
+      "where": "Groupe C, combinatoire, « Monovariants et invariants », exercice 2 (moutons magiques 22/18/15)",
+      "reason": "c'est le probleme des cameleons, deja dans la base six fois : 7312, 8527, 7217, 7644, 8852, 8121"
+    },
+    {
+      "where": "Groupe C, combinatoire, « Monovariants et invariants », exercice 3 (valeurs absolues des differences de 1 a 2018)",
+      "reason": "deja dans la base sous l'id 8221"
+    },
+    {
+      "where": "Groupe C, combinatoire, « Monovariants et invariants », exercice 4 (piles de jetons indexees par les nombres premiers)",
+      "reason": "deja dans la base sous l'id 7838, avec 2015 au lieu de 2018"
+    },
+    {
+      "where": "Groupe C, combinatoire, « Monovariants et invariants », exercice 5 (sept sommets d'un cube, symetries centrales)",
+      "reason": "deja dans la base sous l'id 8445"
+    },
+    {
+      "where": "Groupe C, combinatoire, « Monovariants et invariants », exercice 6 (remplacer a et b par (a+b)/4)",
+      "reason": "deja dans la base sous les ids 7735 et 7844"
+    },
+    {
+      "where": "Groupe C, combinatoire, « Monovariants et invariants », exercice 9 (Chambre des Lords)",
+      "reason": "deja dans la base sous les ids 8127, 8238 et 7729"
+    },
+    {
+      "where": "Groupe C, combinatoire, « Monovariants et invariants », exercice 10 (n points rouges, n points bleus, segments sans croisement)",
+      "reason": "deja dans la base sous les ids 7051 et 8840"
+    },
+    {
+      "where": "Groupe C, combinatoire, « Monovariants et invariants », exercice 12 (lignes de comptages qui se stabilisent)",
+      "reason": "la solution imprimee est trop elliptique pour etre refaite honnetement sans y passer une redaction entiere ; a reprendre lors d'une seconde passe"
+    },
+    {
+      "where": "Groupe C, combinatoire, « Monovariants et invariants », exercice 14 (depart en (1, racine de 2))",
+      "reason": "la preuve imprimee laisse la recurrence centrale en « on peut montrer que » ; non verifiee, donc non importee"
+    },
+    {
+      "where": "Groupe C, combinatoire, « Monovariants et invariants », exercice 15 (2009 cartes, blocs de 50)",
+      "reason": "deja dans la base sous l'id 8447"
+    },
+    {
+      "where": "Groupe C, geometrie, sections 1 a 4 (angle inscrit et pole sud, transformations geometriques, milieux et parallelogrammes)",
+      "reason": "geometrie d'olympiade : puissance d'un point, angle tangentiel, points de Miquel, quadrilateres cycliques. Les exercices sont tires de BMO round 2 et Math Beyond Limits et ne se refont pas avec les outils du lycee francais. Non depouille en detail."
+    },
+    {
+      "where": "Groupe C, test final, exercices 2 et 3 (geometrie du cercle)",
+      "reason": "memes outils hors programme (point de Miquel, projete du centre)"
+    },
+    {
+      "where": "Groupe D, algebre, « Exercices divers » (exercices 1 a 8)",
+      "reason": "ce sont les problemes 1, 3, 5 de l'IMO 2009, 2011, 2016 et les listes courtes A1 2009, A2 2011, A3 et A4 2010, plus BMO 2018 probleme 2 : hors de portee d'un club, et non refaisables en registre club"
+    },
+    {
+      "where": "Groupe D, combinatoire, « Theorie des graphes »",
+      "reason": "cours bati sur le theoreme de Turan puis max-flow min-cut, Konig, Hall, Dilworth : entierement hors programme"
+    },
+    {
+      "where": "Groupe D, combinatoire, « Geometrie combinatoire », exercice 1 (2016 points, 504 quadrilateres disjoints)",
+      "reason": "deja dans la base sous l'id 7134"
+    },
+    {
+      "where": "Groupe D, « Pot-pourri : IMO 2019 » et les deux tests du Groupe D",
+      "reason": "problemes d'IMO, hors de portee"
+    }
+  ],
+  "retired_ids": [],
+  "notes": [
+    "Passe 1, terminee : chapitre II Coupe Animath de printemps 2018 (p.19-22, entierement depouille) ; chapitre III Groupe A en entier (p.23-100 : algebre, arithmetique, combinatoire, geometrie, les deux tests) ; chapitre IV Groupe B p.102-140 ; chapitre VII Les soirees, conference pi^2/6 (un import, 8152) et conference sur le hasard (rien) ; chapitre VIII La Muraille, exercices 1 a 142, c'est-a-dire la totalite.",
+    "La Muraille ne donne que les enonces, sans solution : chaque import venant de la Muraille (8101-8151 en partie, 8153-8179) porte une solution redigee pour ce recueil.",
+    "Erreurs de source trouvees et corrigees. Muraille ex. 119 : l'hypothese imprimee compare |a1+a3+...+a2015| a |a2+a4+...+a2016| en oubliant a0, ce qui rend l'enonce faux ; contre-exemple P(x)=x^2016+10x^2015+100. Publie corrige en 8171, avec le contre-exemple en « Going further ». Muraille ex. 116 : la question suppose un perimetre unique, il y en a cinq (14, 28, 34, 42, 46 cm) ; reformulee en 8170. Muraille ex. 43 : suppose que Savinien gagne toujours, faux pour n impair ; corrige en 8153. Muraille ex. 66 : ne dit pas que l'escargot n'avance jamais a reculons, sans quoi la distance n'est pas bornee ; ajoute en 8160. Muraille ex. 120 : aucune hypothese sur le triangle, alors que A' n'est defini que pour un triangle acutangle non isocele en A ; ajoute en 8173 (l'enonce est vrai par ailleurs, verifie numeriquement).",
+    "Doublon a arbitrer, rien n'a ete supprime : 8123 (grade 10, logic-reasoning, « Tout point est un milieu ») et 8834 (grade 11, geometry, meme probleme, bloc d'un autre agent).",
+    "Renvois croises poses : 8152 -> 0835, 8177 -> 0184.",
+    "Reste a lire : Groupe B p.141-168 (fin de la geometrie, Thue-Morse, les deux tests), Groupe C p.169-270 sauf la combinatoire section 1 (theorie des jeux) et section 2 (monovariants et invariants), toutes deux entierement depouillees ; Groupe D p.271-380 ; Soirees p.404-406 (conference « Angles, coins et caracteristique d'Euler »).",
+    "Les exercices 8180 a 8184 viennent tous du cours « Monovariants et invariants » du Groupe C. Verifications faites par ordinateur : 8180 (la diagonale de 8 cases embrase bien les 64 cases, le perimetre n'a augmente dans aucun des 4000 essais aleatoires, aucun depart a 7 cases n'embrase tout) ; 8182 (l'invariant des colonnes 3 et 6 est bien orthogonal aux 61 coups, codimension 12) ; 8184 (les cinq positions atteignables sont exactement (2,2), (2,4), (3,3), (4,2), (4,4) ; les deux motifs d'appuis a 11 cases sont verifies).",
+    "Les exercices 8185 a 8189 viennent du Groupe C (arithmetique « Exercices divers » ex. 3, test final ex. 1 et ex. 4, algebre « Equations fonctionnelles » ex. 5) et du Groupe D (combinatoire, « Geometrie combinatoire » ex. 2). Verifications par ordinateur : 8185 (aucune solution autre que (0,0,0) pour |x|,|y|,|z| <= 40) ; 8186 (n = 6 est bien le plus petit) ; 8188 (le minimum 2n-4 verifie par force brute pour n = 3, 4, 5, 6, et les configurations effacables sont bien au nombre de 2^(2n-1))."
+  ],
+  "updated": "2026-09-21",
+  "files": [
+    {
+      "file": "stage_ete_2018.pdf",
+      "year": "2018",
+      "camp": "ete",
+      "pages": 432,
+      "exercise_headings": 1229,
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 190" width="520" height="190">
+  <g font-family="Helvetica, Arial, sans-serif" font-size="13" fill="none" stroke="#000" stroke-width="1.6">
+    <!-- n = 6 : grille 3x3 avec un bloc 2x2 fusionne -->
+    <g transform="translate(20,20)">
+      <rect x="0" y="0" width="120" height="120" fill="#ffffff"/>
+      <rect x="0" y="40" width="80" height="80" fill="#d8d8d8"/>
+      <rect x="80" y="0" width="40" height="40" fill="#ffffff"/>
+      <rect x="40" y="0" width="40" height="40" fill="#ffffff"/>
+      <rect x="0" y="0" width="40" height="40" fill="#ffffff"/>
+      <rect x="80" y="40" width="40" height="40" fill="#ffffff"/>
+      <rect x="80" y="80" width="40" height="40" fill="#ffffff"/>
+    </g>
+    <!-- n = 7 : 4 carres egaux, celui en bas a droite coupe en 4 -->
+    <g transform="translate(190,20)">
+      <rect x="0" y="0" width="120" height="120" fill="#ffffff"/>
+      <rect x="0" y="0" width="60" height="60" fill="#ffffff"/>
+      <rect x="60" y="0" width="60" height="60" fill="#ffffff"/>
+      <rect x="0" y="60" width="60" height="60" fill="#ffffff"/>
+      <rect x="60" y="60" width="30" height="30" fill="#d8d8d8"/>
+      <rect x="90" y="60" width="30" height="30" fill="#d8d8d8"/>
+      <rect x="60" y="90" width="30" height="30" fill="#d8d8d8"/>
+      <rect x="90" y="90" width="30" height="30" fill="#d8d8d8"/>
+    </g>
+    <!-- n = 8 : carre 3x3 dans le coin + bande en L de 7 cases -->
+    <g transform="translate(360,20)">
+      <rect x="0" y="0" width="120" height="120" fill="#ffffff"/>
+      <rect x="0" y="30" width="90" height="90" fill="#d8d8d8"/>
+      <rect x="0" y="0" width="30" height="30" fill="#ffffff"/>
+      <rect x="30" y="0" width="30" height="30" fill="#ffffff"/>
+      <rect x="60" y="0" width="30" height="30" fill="#ffffff"/>
+      <rect x="90" y="0" width="30" height="30" fill="#ffffff"/>
+      <rect x="90" y="30" width="30" height="30" fill="#ffffff"/>
+      <rect x="90" y="60" width="30" height="30" fill="#ffffff"/>
+      <rect x="90" y="90" width="30" height="30" fill="#ffffff"/>
+    </g>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#000">
+    <text x="62" y="160">6</text>
+    <text x="232" y="160">7</text>
+    <text x="402" y="160">8</text>
+  </g>
+</svg>

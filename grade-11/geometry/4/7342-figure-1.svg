@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225 215" width="225" height="215">
+  <circle cx="110" cy="110" r="90" fill="none" stroke="#bbb" stroke-width="1"/>
+  <polygon points="110,20 180.4,53.9 197.7,130.0 149.1,191.1 71.0,191.1 22.3,130.0 39.6,53.9"
+           fill="none" stroke="#000" stroke-width="1.8"/>
+  <line x1="110" y1="20" x2="197.7" y2="130.0" stroke="#000" stroke-width="1.2"/>
+  <line x1="110" y1="20" x2="71.0" y2="191.1" stroke="#000" stroke-width="1.2"/>
+  <line x1="110" y1="20" x2="22.3" y2="130.0" stroke="#000" stroke-width="1.2"/>
+  <line x1="71.0" y1="191.1" x2="197.7" y2="130.0" stroke="#000" stroke-width="1.2"/>
+</svg>

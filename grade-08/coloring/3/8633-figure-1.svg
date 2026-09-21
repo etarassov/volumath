@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="132" viewBox="0 0 250 132" font-family="Helvetica, Arial, sans-serif" font-size="12">
+  <rect x="0" y="0" width="250" height="132" fill="#ffffff"/>
+  <g fill="#c9c9c9" stroke="#000000" stroke-width="1">
+    <rect x="15" y="15" width="30" height="30"/>
+    <rect x="15" y="45" width="30" height="30"/>
+    <rect x="45" y="45" width="30" height="30"/>
+  </g>
+  <g stroke="#000000" stroke-width="1" fill="none">
+    <path d="M150 15 H240 M150 45 H240 M150 75 H240 M150 105 H240"/>
+    <path d="M150 15 V105 M180 15 V105 M210 15 V105 M240 15 V105"/>
+  </g>
+  <text x="45" y="126" text-anchor="middle" fill="#000000">une pièce</text>
+  <text x="195" y="126" text-anchor="middle" fill="#000000">la grille 3 × 3</text>
+</svg>

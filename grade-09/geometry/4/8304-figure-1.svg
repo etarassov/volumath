@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 320" width="430" height="320" font-family="Helvetica, Arial, sans-serif" font-size="15">
+  <!-- triangle ABC -->
+  <polygon points="220,40 380,280 140,280" fill="#eef2f7" stroke="#000" stroke-width="2"/>
+  <!-- altitude AD -->
+  <line x1="220" y1="40" x2="220" y2="280" stroke="#000" stroke-width="1.4"/>
+  <path d="M 220,268 L 232,268 L 232,280" fill="none" stroke="#000" stroke-width="1.2"/>
+  <!-- reflection of D across (AC) -->
+  <line x1="76" y1="232" x2="220" y2="280" stroke="#888" stroke-width="1.2" stroke-dasharray="5 4"/>
+  <!-- segment AE -->
+  <line x1="220" y1="40" x2="76" y2="232" stroke="#1a5fb4" stroke-width="1.6"/>
+  <!-- perpendicular from B to (AE), through F, continued to G -->
+  <line x1="380" y1="280" x2="188" y2="136" stroke="#c01c28" stroke-width="1.6"/>
+  <line x1="188" y1="136" x2="162.4" y2="116.8" stroke="#c01c28" stroke-width="1.2" stroke-dasharray="5 4"/>
+  <path d="M 168.4,108.8 L 176.4,114.8 L 170.4,122.8" fill="none" stroke="#c01c28" stroke-width="1.2"/>
+  <!-- points -->
+  <circle cx="220" cy="40" r="3.5" fill="#000"/>
+  <circle cx="380" cy="280" r="3.5" fill="#000"/>
+  <circle cx="140" cy="280" r="3.5" fill="#000"/>
+  <circle cx="220" cy="280" r="3.5" fill="#000"/>
+  <circle cx="76" cy="232" r="3.5" fill="#000"/>
+  <circle cx="188" cy="136" r="3.5" fill="#000"/>
+  <!-- labels -->
+  <text x="214" y="30">A</text>
+  <text x="389" y="294">B</text>
+  <text x="126" y="296">C</text>
+  <text x="215" y="300">D</text>
+  <text x="58" y="238">E</text>
+  <text x="196" y="132">F</text>
+</svg>

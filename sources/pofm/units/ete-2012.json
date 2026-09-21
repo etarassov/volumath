@@ -1,0 +1,153 @@
+{
+ "unit": "ete-2012",
+ "source": "pofm",
+ "title": "POFM polycopies de stage - ete-2012",
+ "id_block": [
+  "7501",
+  "7600"
+ ],
+ "status": "in_progress",
+ "files_total": 2,
+ "next_file": 0,
+ "imported": [
+  "7501",
+  "7502",
+  "7503",
+  "7504",
+  "7505",
+  "7506",
+  "7507",
+  "7508",
+  "7509",
+  "7510",
+  "7511",
+  "7512",
+  "7513",
+  "7514",
+  "7515",
+  "7516",
+  "7517",
+  "7518",
+  "7519",
+  "7520",
+  "7521",
+  "7522",
+  "7523",
+  "7524",
+  "7525",
+  "7526",
+  "7527",
+  "7528",
+  "7529",
+  "7530",
+  "7531",
+  "7532",
+  "7533",
+  "7534",
+  "7535",
+  "7536",
+  "7537",
+  "7538",
+  "7539",
+  "7540",
+  "7541",
+  "7542"
+ ],
+ "skipped": [
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercice 10 (plan colorié en 3 couleurs, deux points a distance 1)",
+   "reason": "deja dans la base : 7319 (grade 10, coloring 5), importe depuis stage_ete_2007.pdf par une autre unite. Meme probleme, meme niveau."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercices 14 et 46 (pavage du carre 2^n x 2^n prive d'une case par des trominos en L)",
+   "reason": "deja dans la base : 2007 (grade 12, combinatorics 4), importe depuis l'archive UCLA."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercice 54 (multiple de n ne s'ecrivant qu'avec des 1)",
+   "reason": "deja dans la base : 4617 (grade 9, arithmetic 5) et 1217. Meme probleme. Figure aussi comme exercice 7 du cours d'arithmetique 4e-3e (p. 152)."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercice 4 (a^2+b^2+c^2 = ab+bc+ca implique a=b=c)",
+   "reason": "deja dans la base : 8421 (grade 9, algebra 3), importe depuis Poly-2021-Valbonne.pdf, qui traite l'inegalite ET son cas d'egalite, donc couvre exactement cet exercice."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercice 17 (2n+1 eleves, pistolets a eau, quelqu'un reste sec)",
+   "reason": "deja dans la base : 7828 (grade 10, logic-reasoning 4) et 8125 (grade 10, combinatorics 4)."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, chapitre III, Strategies de base 4e-3e, cours invariants, exercice 5 (34 cameleons)",
+   "reason": "deja dans la base quatre fois : 8527, 7312, 7217 (grade 9) et 8121 (grade 10)."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercice 74 (coloriage d'un n-gone regulier sans triangle isocele monochrome)",
+   "reason": "la solution imprimee p. 250 est embrouillee : elle etablit que le sommet 3 est blanc puis le re-demontre, sans jamais fixer la couleur du sommet 2, et la disjonction de cas est incomplete. Reponse annoncee n = 8. Verifiable mais demande une analyse de cas soignee, non refaite ici. A reprendre si quelqu'un veut un 5 etoiles Terminale."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, chapitre IV, Incontournables 4e-3e arithmetique (p. 145-158)",
+   "reason": "section de cours (PGCD, Bezout, division euclidienne, triplets pythagoriciens) dont les exercices sont du fond de manuel classique, deja tres represente dans la base. Rendement faible par rapport a La Muraille."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercice 30 (2n points, n^2+1 segments, trouver un triangle)",
+   "reason": "deja dans la base : 8668 (grade 11, combinatorics 5, « Trop de segments forcent un triangle »). C'est le theoreme de Mantel, meme enonce a un mot pres."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercice 81 (polygone convexe coupe en quatre parts egales par deux droites perpendiculaires)",
+   "reason": "deja dans la base : 2603 (grade 12, geometry 5, « Quatre parts egales avec deux droites perpendiculaires »). Meme probleme, meme niveau."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercice 68 (p premier congru a 2 mod 3, p | a^2+ab+b^2 implique p | a et p | b)",
+   "reason": "deja dans la base : 3006 (grade 12, arithmetic 5, « Un nombre premier congru a deux modulo trois »). Enonce identique."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercice 95 ({1,...,3n} partage en trois parts de n elements, trouver a+b=c avec a, b, c dans des parts differentes)",
+   "reason": "aucune solution imprimee dans le polycopie. Plusieurs tentatives de demonstration propre (contrainte d'adjacence, arguments extremaux sur le minimum) n'ont pas abouti en temps raisonnable. Abandonne plutot que de publier une solution fragile. Bon candidat pour un second passage."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercice 91 (une infinite de composes dans la suite de chiffres)",
+   "reason": "solution imprimee p. 256 peu claire (raisonnement par l'absurde dont la conclusion n'est pas explicitee). Non verifiee, non importee."
+  },
+  {
+   "ref": "stage_ete_2012.pdf, La Muraille, exercices 110, 112, 123, 124, 126",
+   "reason": "au-dessus du programme du lycee francais ou demandant des outils hors programme (triangles aigus formes par 2n+1 droites, geometrie du cercle inscrit, resultants de polynomes, inegalite trigonometrique avec R et l'aire, isobarycentres sur un cercle). Rien de rattrapable en registre club."
+  }
+ ],
+ "retired_ids": [],
+ "notes": [
+  "ERRATUM (stage_ete_2012_errata.pdf, coquilles trouvees par Ewen Goisot) : lu en entier avant tout import. 21 corrections, dont 5 touchent des enonces (ex. 6, 23, 35, 77, 91) et le reste des solutions. Les corrections d'enonce ont ete appliquees dans les exercices concernes et signalees dans source.reference.",
+  "ERRATUM, correction la plus grave : la solution imprimee de l'exercice 41 (p. 245) repond a une autre question que l'enonce. Elle etudie la divisibilite de 2^n +- 1 par 3 alors que l'enonce demande si 2^n +- 1 est une puissance de 3. Importe en 7511 avec une demonstration refaite.",
+  "ERREUR DE L'ERRATUM LUI-MEME : la solution de remplacement proposee par l'erratum pour l'exercice 41 est elle aussi fautive. Elle ecrit '2^n - 1 >= 3, donc 2^n - 1 est entier ssi n est pair' et '3^m - 1 est entier ssi m est pair', phrases qui n'ont pas de sens (il faut lire 'est un carre', et encore l'argument ne conclurait pas). Seules ses reponses finales sont correctes : n = 1 ou 2 pour 2^n - 1, n = 1 ou 3 pour 2^n + 1. Demonstration correcte redigee dans 7511.",
+  "ERREUR TROUVEE HORS ERRATUM 1 : solution de l'exercice 69 (p. 249), derniere ligne. La suite est donnee comme '1,2,3,5,8,11,19' ; il faut lire 1, 2, 3, 5, 8, 13, 21. Le texte la nomme pourtant suite de Fibonacci. Signale dans source.reference de 7512.",
+  "ERREUR TROUVEE HORS ERRATUM 2 : exercice 39 (six cercles par un meme point, p. 243). L'enonce et la solution demandent qu'un cercle contienne le centre d'un autre, et la solution affirme une inegalite stricte sur l'angle, avec une parenthese non fermee la ou le cas d'egalite devrait etre traite. La version stricte est FAUSSE : six cercles de rayon 1 centres aux sommets d'un hexagone regulier de cote 1 passent tous par le centre, et chaque centre est sur le cercle voisin sans jamais etre strictement dedans. Importe en 7525 avec 'contenir' au sens large et le contre-exemple en 'Pour aller plus loin'.",
+  "ERREUR TROUVEE HORS ERRATUM 3 : solution de l'exercice 61 (des truques, p. 248), ligne 3 : 'q1 = 1/(11 p1) et q2 = 1/(11 p2)' ; il faut lire q6 = 1/(11 p6). Simple coquille, le reste de l'argument est correct.",
+  "ERREUR TROUVEE HORS ERRATUM 4 : solution de l'exercice 62 (p. 248) : les deux sommes sont ecrites avec l'indice i allant de 1 a n au lieu de 1 a 2n. L'idee et le resultat sont corrects.",
+  "EXTRACTION : pdftotext perd les signes moins et les exposants dans les pages de La Muraille (mise en page a deux colonnes sur fond image), et tools/pdfsupers.py les perd aussi sur ces pages. Tous les enonces de La Muraille ont donc ete lus en rendant les pages en PNG (pdftoppm -r 130, pages 218 a 238). Les pages de solutions (239 et suivantes), en une seule colonne, s'extraient correctement en texte.",
+  "PAGINATION : les numeros de page de l'erratum sont superieurs de 2 aux pages du PDF (erratum 'page 220, exercice 6' = page 218 du PDF). Se reperer par numero d'exercice, pas par page.",
+  "DOUBLON A ARBITRER : 7507 (grade 8, 'Des centimes aux euros') et 8149 (grade 10, 'U centimes avec K pieces, K euros avec U pieces') sont le meme probleme, reimprime d'une annee sur l'autre (Muraille 2012 ex. 63 et Muraille 2018 ex. 67). Grades differents, donc cross-links par see_also dans 7507. Rien supprime.",
+  "STRUCTURE DU DOCUMENT : chapitre V 'La Muraille' (pages 217 a 238 du PDF) contient 126 exercices classes par difficulte : 1 a 35 pour les 4e-3e, 36 a 80 pour les 2de-1re, au dela de 81 niveau olympique. Les solutions sont au chapitre VI (pages 239 a 262) et ne couvrent que les exercices resolus par les eleves pendant le stage. C'est de loin la meilleure section du document pour le club : autonome, graduee, et c'est celle que l'erratum corrige.",
+  "IMPORT TERMINE POUR LA MURAILLE : les 126 exercices du chapitre V ont ete lus (pages 218 a 238 du PDF, rendues en PNG). 42 exercices importes (7501 a 7542), les autres ecartes pour doublon avec la base, niveau hors club, ou solution imprimee non fiable.",
+  "TROIS DOUBLONS TROUVES TARD, RIEN D'ECRIT NI DE SUPPRIME : Muraille 30 = 8668 deja en base, Muraille 81 = 2603, Muraille 68 = 3006. Verifies par lecture des trois enonces existants avant d'ecrire quoi que ce soit.",
+  "EXERCICES SANS SOLUTION IMPRIMEE MAIS IMPORTES QUAND MEME, demonstration ecrite de zero pour le club et verifiee : 7540 (Muraille 122, somme de deux carres de deux facons) et 7541 (Muraille 121, P(x+y,x-y) = 2P(x,y)).",
+  "COMPLEMENT A UNE SOLUTION IMPRIMEE : 7542 (Muraille 113). La solution du polycopie s'arrete a la majoration par l'IAG et ne dit jamais quel point realise le maximum. Ajoute ici : c'est le centre de gravite, avec la preuve d'unicite.",
+  "OU REPRENDRE : le chapitre V « La Muraille » est epuise. Il reste a depouiller, dans ce document, le chapitre VII « Test de selection » (pages 263 a 270 du PDF), les tests de mi-parcours et de fin de periode, les cours des chapitres III et IV au-dela de l'arithmetique 4e-3e deja survolee, et la Coupe Animath en debut de document. Un second passage peut aussi reprendre les exercices 74, 91 et 95 de la Muraille, tous ecartes pour cause de solution imprimee douteuse ou de demonstration non aboutie (details dans skipped).",
+  "DOUBLONS A ARBITRER PAR LE COORDINATEUR, RIEN SUPPRIME (regle du brief). Paires ou mes fichiers rencontrent ceux d'autres agents : 7509 (g9) = 8462 (g10) = 7626 (g10), meme probleme A + 2B + 4 carre parfait, cross-links poses ; 7510 (g9) = 7620 (g10), 35 divise 3^6n - 2^6n, cross-link pose ; 7516 (g9) = 7618 (g10), filles et garcons en cercle, cross-link pose ; 7536 (g11) = 8677 (g12), moyenne des plus petits elements, cross-link pose ; 7507 (g8) = 8149 (g10), des centimes aux euros, cross-link deja pose. DEUX PAIRES AU MEME GRADE, a trancher : 7517 et 7627 sont dans le MEME dossier grade-10/logic-reasoning/3 et sont le meme probleme (segments d'une droite deux a deux secants, point commun) ; 7518 (grade-10/algebra/4) et 7428 (grade-10/algebra/3) sont la meme somme alternee < 2/5, meme grade, dossiers de difficulte differents. Dans les deux cas j'ai garde mon fichier et pose un see_also, conformement a la regle qui interdit de supprimer."
+ ],
+ "updated": "2026-09-21",
+ "files": [
+  {
+   "file": "stage_ete_2012.pdf",
+   "year": "2012",
+   "camp": "ete",
+   "pages": 277,
+   "exercise_headings": 959,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_ete_2012.pdf"
+  },
+  {
+   "file": "stage_ete_2012_errata.pdf",
+   "year": "erratum",
+   "camp": "ete",
+   "pages": 2,
+   "exercise_headings": 18,
+   "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_ete_2012_errata.pdf"
+  }
+ ]
+}

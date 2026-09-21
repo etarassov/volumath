@@ -1,0 +1,314 @@
+{
+  "unit": "ete-2019",
+  "source": "pofm",
+  "title": "POFM polycopies de stage - ete-2019",
+  "id_block": [
+    "8201",
+    "8300"
+  ],
+  "status": "in_progress",
+  "files_total": 1,
+  "next_file": 0,
+  "imported": [
+    "8201",
+    "8202",
+    "8203",
+    "8204",
+    "8205",
+    "8206",
+    "8207",
+    "8208",
+    "8209",
+    "8210",
+    "8211",
+    "8212",
+    "8213",
+    "8214",
+    "8215",
+    "8216",
+    "8217",
+    "8218",
+    "8219",
+    "8220",
+    "8221",
+    "8222",
+    "8223",
+    "8224",
+    "8225",
+    "8226",
+    "8227",
+    "8228",
+    "8229",
+    "8230",
+    "8231",
+    "8232",
+    "8233",
+    "8234",
+    "8235",
+    "8236",
+    "8237",
+    "8238",
+    "8239",
+    "8240",
+    "8241",
+    "8242",
+    "8243",
+    "8244",
+    "8245",
+    "8246",
+    "8247",
+    "8248",
+    "8249",
+    "8250",
+    "8251",
+    "8252",
+    "8253",
+    "8254",
+    "8255",
+    "8256",
+    "8257",
+    "8258",
+    "8259",
+    "8260",
+    "8261",
+    "8262",
+    "8263",
+    "8264",
+    "8265",
+    "8266",
+    "8267",
+    "8268",
+    "8269",
+    "8270",
+    "8271",
+    "8272",
+    "8273",
+    "8274",
+    "8275",
+    "8276"
+  ],
+  "skipped": [
+    {
+      "what": "Groupe A, TD points du triangle, ex 4 (aire du triangle des milieux)",
+      "why": "déjà dans la base : 0878"
+    },
+    {
+      "what": "Groupe A, TD géométrie, ex 6 (relations d'Euclide)",
+      "why": "déjà dans la base : 0835"
+    },
+    {
+      "what": "Groupe A/B, tiroirs : trois réels de [0,1[",
+      "why": "déjà dans la base : 8585"
+    },
+    {
+      "what": "Groupe A, tiroirs ex 9 (51 points dans un carré de côté 1)",
+      "why": "déjà dans la base : 7212 et 7717"
+    },
+    {
+      "what": "Groupe A, tiroirs ex 12 (le pâtissier, 30 jours 45 pâtisseries)",
+      "why": "même problème que 4620 (365 jours, 500 exercices)"
+    },
+    {
+      "what": "Groupe A, tiroirs ex 5 / Groupe B ex 10 (deux élèves qui connaissent autant de monde)",
+      "why": "déjà dans la base : 4602"
+    },
+    {
+      "what": "Groupe A, tiroirs ex 6 (6 points, 2 couleurs, triangle monochrome)",
+      "why": "déjà dans la base : 0235"
+    },
+    {
+      "what": "Groupe A, tiroirs ex 11 (5 points à coordonnées entières)",
+      "why": "déjà dans la base : 0429"
+    },
+    {
+      "what": "Groupe A, coloriages ex 16 (10x10 avec des tétraminos en T)",
+      "why": "déjà dans la base : 0812"
+    },
+    {
+      "what": "Groupe A, coloriages ex 18 / Groupe B ex 11 (6 oiseaux en cercle)",
+      "why": "déjà dans la base : 7002, 7106, 7407"
+    },
+    {
+      "what": "Groupe A, coloriages ex 19 (hérissons en diagonale)",
+      "why": "proche de 0179 et 0814 ; solution source confuse"
+    },
+    {
+      "what": "Groupe A, jeux ex 2 (deux tas de cailloux)",
+      "why": "déjà dans la base : 5301"
+    },
+    {
+      "what": "Groupe A, TD combi ex 1 (villes, avion ou bateau)",
+      "why": "déjà dans la base : 7708, 8118, 8708"
+    },
+    {
+      "what": "Groupe A, TD combi ex 11 / Groupe B ex 9 (le bal, garçons et filles)",
+      "why": "déjà dans la base : 8122"
+    },
+    {
+      "what": "Groupe A, TD combi ex 14 / jeux ex 8 (caméléons, moutons magiques)",
+      "why": "déjà dans la base : 7217, 7312, 8527, 8121"
+    },
+    {
+      "what": "Groupe B, arith. de base ex 3 ((n+1) divise n²+1)",
+      "why": "déjà dans la base : 8577"
+    },
+    {
+      "what": "Groupe B, arith. de base ex 5 (PGCD + PPCM = a + b)",
+      "why": "déjà dans la base : 7420"
+    },
+    {
+      "what": "Groupe B, arith. de base ex 6 (a⁴ + 4b⁴, Sophie Germain)",
+      "why": "déjà dans la base : 0459"
+    },
+    {
+      "what": "Groupe B, tiroirs ex 11 (multiple de 2019 écrit avec des 0 et des 1)",
+      "why": "déjà dans la base : 7718"
+    },
+    {
+      "what": "Groupe B, tiroirs ex 12 (n+1 nombres parmi 1..2n, deux premiers entre eux)",
+      "why": "déjà dans la base : 8520"
+    },
+    {
+      "what": "Groupe B, TD arith. ex 9 (nombre impair de diviseurs => carré)",
+      "why": "déjà dans la base : 0303"
+    },
+    {
+      "what": "Groupe B, TD arith. ex 12 (chiffre manquant de 2^29)",
+      "why": "déjà dans la base : 5101"
+    },
+    {
+      "what": "Groupe B, TD arith. ex 13 (zéros à la fin de 2019!)",
+      "why": "déjà dans la base : 4220"
+    },
+    {
+      "what": "Groupe B, mi-parcours ex 3 (pistolets à eau)",
+      "why": "déjà dans la base : 8125, 7828"
+    },
+    {
+      "what": "Groupe B, tiroirs ex 23 (n cercles, 2 couleurs)",
+      "why": "déjà dans la base : 5904"
+    },
+    {
+      "what": "Groupe A, TD points du triangle ex 13 (pôle Sud)",
+      "why": "déjà dans la base : 7225"
+    },
+    {
+      "what": "Groupes C et D dans leur ensemble",
+      "why": "niveau shortlist IMO, hors programme lycée ou non réécrivable au niveau club"
+    },
+    {
+      "where": "Groupe A, Principe des tiroirs, exercices 1 a 4 et 12",
+      "reason": "applications d'echauffement deja dans la base ou triviales (4602, 0235, 7229/8828, 7212/7717, 0429, 4620, 8585)"
+    },
+    {
+      "where": "Groupe A, Principe des tiroirs, exercice 7",
+      "reason": "rectangle monochrome dans un plan tricolore, deja dans la base",
+      "existing": "1624"
+    },
+    {
+      "where": "Groupe A, Principe des tiroirs, exercice 10",
+      "reason": "2n+1 points, un disque de rayon 1 en couvre n+1 ; variante deja dans la base",
+      "existing": "8833"
+    },
+    {
+      "where": "Groupe A, Modulo TD (Aline Cahuzac), exercice 1",
+      "reason": "2x^3 + xy - 7 = 0, deja dans la base au meme niveau",
+      "existing": "7855"
+    },
+    {
+      "where": "Groupe A, Modulo TD, exercice 4",
+      "reason": "n+1 divise n^2+1, deja dans la base",
+      "existing": "8577"
+    },
+    {
+      "where": "Groupe A, Modulo TD, exercices 2, 5, 6, 8, 11, 12, 13",
+      "reason": "PGCD/PPCM, bases de numeration, ordre modulo p et residus quadratiques : hors programme lycee ou trop technique a reecrire au niveau club"
+    },
+    {
+      "where": "Groupe B, TD d'arithmetique, exercices 1 a 4",
+      "reason": "cours sur les valuations p-adiques, formule de Legendre, nombre de diviseurs : ce sont des resultats de cours, pas des exercices de club"
+    },
+    {
+      "where": "Groupe B, TD d'arithmetique, exercices 9, 12, 13, 14, 17, 18",
+      "reason": "deja dans la base : 0303 (diviseurs impairs), 5101 (chiffre manquant de 2^29), 4220 (zeros finaux), 8243 (entiers consecutifs non premiers, importe ici), 0459 (Sophie Germain), 7834 (3p^4-5q^4-4r^2)"
+    },
+    {
+      "where": "Groupe B, TD d'arithmetique, exercices 11, 15, 16, 19, 20",
+      "reason": "PGCD(2^a-1,2^b-1), points invisibles, theoreme de Wilson, m^5-n^5=16mn, JBMO 2016 N3 : niveau olympiade avec outils hors programme"
+    },
+    {
+      "where": "Groupe B, entrainement de mi-parcours, exercice 3",
+      "reason": "pistolets a eau, deja dans la base",
+      "existing": "8125"
+    },
+    {
+      "where": "Groupes C et D en entier",
+      "reason": "niveau IMO shortlist, outils hors programme lycee francais"
+    },
+    {
+      "where": "Groupe B, Principe des tiroirs/recurrence (Yohann D'Anello), exercices 2 a 12, 19, 22 a 25",
+      "reason": "deja dans la base : 8827 (trois anniversaires), 8585 (trois reels), 8338 (difference 2), 7242/8621 (cheveux), 8627 (2020 entiers), 8830 (somme 12), 8339/4604 (deux points de meme couleur), 1624 (rectangle monochrome), 4602 (memes connaissances), 7718 (0 et 1 multiple de 2019), 8520/8569 (n+1 parmi 2n), 1804 (2^n >= n^2), 8210/7609 (x+1/x), 5904 (n cercles), 3016 (escaliers), 0178 (dominos 2xn)"
+    },
+    {
+      "where": "Groupe B, Strategie des jeux / TD de combinatoire (Theodore Fougereux), exercices 1, 5 a 14",
+      "reason": "deja dans la base : 0309 (pieces sur une table ronde), 7840/8575/7725/8123/7232 (tout point est milieu), 8559 (2n points sans croisement), 7049/8122/8738 (le bal), 8558 (champignons), 7002/7106/7407 (six oiseaux), 7111 (epidemie/bacterie), 8533/7219 (trois amis sur des paralleles), 8340/7726 (moyenne des quatre voisins)"
+    },
+    {
+      "where": "Groupe B, TD d'algebre, exercice 4",
+      "reason": "1+x+x^2+x^3+x^4 >= 5x^2, deja importe par moi depuis le Groupe A",
+      "existing": "8219"
+    },
+    {
+      "where": "Groupe B, entrainement de fin de parcours, exercice 3",
+      "reason": "axes radicaux et puissance d'un point, hors programme du lycee francais"
+    },
+    {
+      "where": "Groupe B, entrainement de fin de parcours, exercice 4",
+      "reason": "equation fonctionnelle longue dont la solution imprimee est confuse ; a reprendre en deuxieme passe"
+    },
+    {
+      "where": "Groupe B, derniers cours : Accrochage strategique de peintures (Savinien Kreczman), 10 exercices",
+      "reason": "les solutions reposent sur les commutateurs du groupe libre ; rien d'honnete a ecrire au niveau club"
+    },
+    {
+      "where": "Groupe B, derniers cours : Nombres complexes",
+      "reason": "cours, pas d'exercices exploitables"
+    },
+    {
+      "where": "La Muraille, exercices 3, 5, 11, 14, 16, 19, 23, 30, 34, 42",
+      "reason": "deja dans la base : 8150 (w^x+w^y=w^z), 8151 (racine de f trois fois), 4618 (file de chapeaux), 7948/8145 (101 points), 7321/7950/8146 (vingt enfants et grands-peres), 8461 (min/max d'une fraction), 7954 (f(x+y) >= f(xy)), 4604/8339 (plan colorie), 8234 (chocolat empoisonne, importe par moi)"
+    },
+    {
+      "where": "La Muraille, exercices 1, 2, 8, 9, 12, 15, 17, 18, 22, 25 a 27, 31, 32, 36 a 39, 41, et tout le niveau 2 (43-96) et le niveau 3 (97-143)",
+      "reason": "niveau olympiade, souvent avec outils hors programme ; la Muraille ne publie aucune solution, donc chaque import demande une resolution complete et verifiee. Point de reprise naturel pour une deuxieme passe."
+    }
+  ],
+  "retired_ids": [],
+  "notes": [
+    "Erreur source 1 : Groupe B, entraînement de mi-parcours, exercice 2 (empilements de cubes). La solution imprimée annonce 3^(n-1) x 2 empilements, mais dit elle-meme qu'il y en a 6 pour n = 3, alors que la formule donnerait 18. La recurrence f(n+1) = 3 f(n) avec f(3) = 6 donne 2 x 3^(n-2). Publie corrige sous l'id 8250. Compte correct 2 x 3^(n-2), verifie par force brute jusqu'a n = 8. Publie corrige sous l'id 8252.",
+    "Erreur source 2 : Groupe A, TD manipulations algebriques, exercice 11. Le developpement imprime donne (a+b)^2 - (a+b) + 1 au lieu de (a+b)^2 - 2(a+b) + 2. L'inegalite reste vraie mais le cas d'egalite (a + b = 1) disparait. Publie corrige sous l'id 8215.",
+    "Erreur source 3 : Groupe B, TD de geometrie, exercice 4. L'enonce dit 'centre du cercle inscrit' alors que sa propre solution utilise l'angle au centre et le triangle isocele OAB : il s'agit du cercle CIRCONSCRIT. Avec le cercle inscrit l'enonce est faux sauf si le triangle est isocele en A. Publie corrige sous l'id 8231.",
+    "Erreur source 4 : Coupe Animath, exercice 7. L'enonce imprime dit u_1 > 0 ; avec u_1 = 1 le terme suivant n'est pas defini, il faut u_1 >= 2. Corrige dans 8208.",
+    "Lacune source : Coupe Animath, exercice 5. La solution imprimee s'arrete apres avoir montre que n est un carre, sans dire que floor(x) = n. Etape retablie dans 8207.",
+    "La Muraille (143 enonces, pages 286-308 du PDF) ne contient AUCUNE solution dans ce polycopie, contrairement aux autres chapitres.",
+    "Erreur source : Groupe A, Modulo TD, exercice 10 (p/q - 4/(r+1) = 1). La liste finale imprimee donne (7,3,2), (5,3,5), (5,3,7) ; (5,3,7) n'est pas solution. Les vrais triplets sont (7,3,2), (5,3,5), (3,2,7). Les valeurs de r des cas k=2 et k=4 sont interverties dans la solution imprimee. Verifie par force brute. Publie corrige en 8246.",
+    "Coquille source : Groupe B, mi-parcours, exercice 4, le systeme de congruences imprime ecrit M = 1 [p3p4] alors que p3p4 | M+1 impose M = -1. Sans consequence sur la conclusion. 8253 evite le theoreme chinois par une construction elementaire avec ((N+1)!)^2.",
+    "Le polycopie 2019 n'a pas d'evaluation initiale : les tests sont les entrainements de mi-parcours et de fin de parcours de chaque groupe.",
+    "Les cours Denombrement (Groupe A) et TD de combinatoire (Groupe B, Maena Quemener) portent la mention 'disponible a partir du 10 septembre 2019' et sont vides dans ce fichier.",
+    "Erreur source : La Muraille exercice 35 (suite avec PGCD(a_i,a_j) = PGCD(i,j)). L'enonce imprime dit « pour tous i, j » ; avec i = j l'egalite donne a_i = i immediatement et l'exercice est vide. Restitue en 8276 avec i different de j, qui est manifestement l'enonce voulu.",
+    "L'exercice 12 de la Muraille (n^2016/(n-2016) entier) revient a compter les diviseurs de 2016^2016 superieurs a -2015 ; le compte est enorme et sans interet pour un club. Ecarte.",
+    "La Muraille ne publie pas de solutions : les onze exercices importes depuis ce chapitre (8266 a 8276) ont ete resolus par moi puis verifies, par force brute quand c'etait possible.",
+    "Reprise : le chapitre III (Groupe A) et le chapitre IV (Groupe B) ont ete depouilles en entier, ainsi que le niveau 1 de La Muraille (exercices 1 a 42). Restent a traiter : les niveaux 2 et 3 de La Muraille (exercices 43 a 143), l'entrainement de fin de parcours du Groupe B exercice 4 (equation fonctionnelle), et, si un jour un agent veut s'y risquer, les chapitres V et VI (Groupes C et D), ecartes ici comme hors portee club."
+  ],
+  "updated": "2026-09-20",
+  "files": [
+    {
+      "file": "PolycopieV1-1.pdf",
+      "year": "2019",
+      "camp": "ete",
+      "pages": 310,
+      "exercise_headings": 1093,
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/08/PolycopieV1-1.pdf"
+    }
+  ]
+}

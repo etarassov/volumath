@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 375" width="400" height="375">
+  <rect x="0" y="0" width="400" height="375" fill="#ffffff"/>
+  <circle cx="205" cy="214.41" r="149.3" fill="none" stroke="#b5b5b5" stroke-width="1.2" stroke-dasharray="6 4"/>
+  <polygon points="140,80 60,250 350,250" fill="none" stroke="#000000" stroke-width="1.8"/>
+  <line x1="60" y1="250" x2="222.56" y2="146.84" stroke="#16a085" stroke-width="1.5"/>
+  <line x1="222.56" y1="146.84" x2="247.88" y2="250" stroke="#c0392b" stroke-width="1.6"/>
+  <line x1="60" y1="250" x2="237.21" y2="206.51" stroke="#1a6fb5" stroke-width="1.6"/>
+  <path d="M 227.50,208.89 L 225.11,199.18 L 234.83,196.80" fill="none" stroke="#1a6fb5" stroke-width="1.4"/>
+  <line x1="96.27" y1="158.83" x2="107.13" y2="163.93" stroke="#000000" stroke-width="1.4"/>
+  <line x1="92.87" y1="166.07" x2="103.73" y2="171.17" stroke="#000000" stroke-width="1.4"/>
+  <line x1="157.94" y1="244" x2="157.94" y2="256" stroke="#000000" stroke-width="1.4"/>
+  <line x1="149.94" y1="244" x2="149.94" y2="256" stroke="#000000" stroke-width="1.4"/>
+  <path d="M 72.77,222.86 A 30,30 0 0 0 85.33,233.92" fill="none" stroke="#16a085" stroke-width="1.2"/>
+  <path d="M 92.09,229.64 A 38,38 0 0 0 98,250" fill="none" stroke="#16a085" stroke-width="1.2"/>
+  <circle cx="140" cy="80" r="2.8" fill="#000000"/>
+  <circle cx="60" cy="250" r="2.8" fill="#000000"/>
+  <circle cx="350" cy="250" r="2.8" fill="#000000"/>
+  <circle cx="205" cy="214.41" r="2.8" fill="#000000"/>
+  <circle cx="222.56" cy="146.84" r="2.8" fill="#000000"/>
+  <circle cx="247.88" cy="250" r="2.8" fill="#000000"/>
+  <text x="140" y="68" font-family="serif" font-size="17" font-style="italic" text-anchor="middle">A</text>
+  <text x="49" y="266" font-family="serif" font-size="17" font-style="italic" text-anchor="middle">B</text>
+  <text x="360" y="266" font-family="serif" font-size="17" font-style="italic" text-anchor="middle">C</text>
+  <text x="205" y="237" font-family="serif" font-size="17" font-style="italic" text-anchor="middle">O</text>
+  <text x="231" y="141" font-family="serif" font-size="17" font-style="italic" text-anchor="start">D</text>
+  <text x="256" y="266" font-family="serif" font-size="17" font-style="italic" text-anchor="middle">E</text>
+</svg>

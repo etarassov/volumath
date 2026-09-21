@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="240" viewBox="0 0 300 240">
+  <rect x="0" y="0" width="300" height="240" fill="#e8eef8"/>
+  <defs>
+    <clipPath id="c1"><circle cx="115" cy="105" r="75"/></clipPath>
+    <clipPath id="c2"><circle cx="185" cy="105" r="75"/></clipPath>
+    <clipPath id="c3"><circle cx="150" cy="160" r="70"/></clipPath>
+  </defs>
+  <!-- inside exactly one circle : red -->
+  <circle cx="115" cy="105" r="75" fill="#f2d5d5"/>
+  <circle cx="185" cy="105" r="75" fill="#f2d5d5"/>
+  <circle cx="150" cy="160" r="70" fill="#f2d5d5"/>
+  <!-- inside exactly two : blue again -->
+  <g clip-path="url(#c1)"><circle cx="185" cy="105" r="75" fill="#e8eef8"/></g>
+  <g clip-path="url(#c1)"><circle cx="150" cy="160" r="70" fill="#e8eef8"/></g>
+  <g clip-path="url(#c2)"><circle cx="150" cy="160" r="70" fill="#e8eef8"/></g>
+  <!-- inside all three : red -->
+  <g clip-path="url(#c1)"><g clip-path="url(#c2)"><circle cx="150" cy="160" r="70" fill="#f2d5d5"/></g></g>
+  <!-- outlines -->
+  <circle cx="115" cy="105" r="75" fill="none" stroke="#333333" stroke-width="1.8"/>
+  <circle cx="185" cy="105" r="75" fill="none" stroke="#333333" stroke-width="1.8"/>
+  <circle cx="150" cy="160" r="70" fill="none" stroke="#333333" stroke-width="1.8"/>
+</svg>

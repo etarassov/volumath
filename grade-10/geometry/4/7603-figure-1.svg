@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="262" viewBox="0 0 340 262">
+  <g stroke="#000" fill="none">
+    <path d="M 20 125 L 160 20 L 300 125 L 160 230 Z" stroke-width="2"/>
+    <path d="M 160 20 L 160 230" stroke="#888" stroke-width="1.2" stroke-dasharray="5,4"/>
+    <path d="M 20 125 L 300 125" stroke="#888" stroke-width="1.2" stroke-dasharray="5,4"/>
+    <path d="M 135.5 198.5 L 266.75 23.5" stroke="#444" stroke-width="1.4"/>
+    <path d="M 160 20 L 221.6 183.8" stroke-width="1.6"/>
+    <path d="M 86.4 182.3 L 93.6 172.7" stroke-width="1.8"/>
+    <path d="M 185.2 104.0 L 196.4 99.8" stroke-width="1.8"/>
+    <path d="M 220.6 71.7 L 226.6 63.7" stroke-width="1.6"/>
+    <path d="M 233.4 81.3 L 239.4 73.3" stroke-width="1.6"/>
+  </g>
+  <g fill="#000">
+    <circle cx="20" cy="125" r="3.2"/>
+    <circle cx="160" cy="20" r="3.2"/>
+    <circle cx="300" cy="125" r="3.2"/>
+    <circle cx="160" cy="230" r="3.2"/>
+    <circle cx="221.6" cy="183.8" r="3.2"/>
+    <circle cx="160" cy="165.8" r="3.2"/>
+  </g>
+  <g font-family="Georgia, serif" font-size="17" font-style="italic" fill="#000">
+    <text x="14" y="130" text-anchor="end">A</text>
+    <text x="160" y="14" text-anchor="middle">B</text>
+    <text x="308" y="130">C</text>
+    <text x="160" y="250" text-anchor="middle">D</text>
+    <text x="230" y="201">K</text>
+    <text x="152" y="171" text-anchor="end">P</text>
+  </g>
+</svg>

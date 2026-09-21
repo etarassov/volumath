@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="280" viewBox="0 0 280 280" font-family="Helvetica, Arial, sans-serif" font-size="13">
+  <rect x="0" y="0" width="280" height="280" fill="#ffffff"/>
+  <rect x="36" y="10" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="88" y="10" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="140" y="10" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="192" y="10" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="244" y="10" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="10" y="36" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="62" y="36" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="114" y="36" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="166" y="36" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="218" y="36" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="36" y="62" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="88" y="62" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="140" y="62" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="192" y="62" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="244" y="62" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="10" y="88" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="62" y="88" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="114" y="88" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="166" y="88" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="218" y="88" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="36" y="114" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="88" y="114" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="140" y="114" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="192" y="114" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="244" y="114" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="10" y="140" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="62" y="140" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="114" y="140" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="166" y="140" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="218" y="140" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="36" y="166" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="88" y="166" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="140" y="166" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="192" y="166" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="244" y="166" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="10" y="192" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="62" y="192" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="114" y="192" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="166" y="192" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="218" y="192" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="36" y="218" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="88" y="218" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="140" y="218" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="192" y="218" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="244" y="218" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="10" y="244" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="62" y="244" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="114" y="244" width="26" height="26" fill="#bfbfbf"/>
+  <rect x="166" y="244" width="26" height="26" fill="#e6e6e6"/>
+  <rect x="218" y="244" width="26" height="26" fill="#bfbfbf"/>
+  <g stroke="#000000" stroke-width="1" fill="none">
+    <path d="M10 10 H270 M10 10 V270 M10 36 H270 M36 10 V270 M10 62 H270 M62 10 V270 M10 88 H270 M88 10 V270 M10 114 H270 M114 10 V270 M10 140 H270 M140 10 V270 M10 166 H270 M166 10 V270 M10 192 H270 M192 10 V270 M10 218 H270 M218 10 V270 M10 244 H270 M244 10 V270 M10 270 H270 M270 10 V270"/>
+  </g>
+  <g fill="#000000" text-anchor="middle">
+    <text x="23" y="28">2</text>
+    <text x="49" y="28">3</text>
+    <text x="75" y="28">0</text>
+    <text x="101" y="28">1</text>
+    <text x="127" y="28">2</text>
+    <text x="153" y="28">3</text>
+    <text x="179" y="28">0</text>
+    <text x="205" y="28">1</text>
+    <text x="231" y="28">2</text>
+    <text x="257" y="28">3</text>
+    <text x="23" y="54">3</text>
+    <text x="49" y="54">0</text>
+    <text x="75" y="54">1</text>
+    <text x="101" y="54">2</text>
+    <text x="127" y="54">3</text>
+    <text x="153" y="54">0</text>
+    <text x="179" y="54">1</text>
+    <text x="205" y="54">2</text>
+    <text x="231" y="54">3</text>
+    <text x="257" y="54">0</text>
+    <text x="23" y="80">0</text>
+    <text x="49" y="80">1</text>
+    <text x="75" y="80">2</text>
+    <text x="101" y="80">3</text>
+    <text x="127" y="80">0</text>
+    <text x="153" y="80">1</text>
+    <text x="179" y="80">2</text>
+    <text x="205" y="80">3</text>
+    <text x="231" y="80">0</text>
+    <text x="257" y="80">1</text>
+    <text x="23" y="106">1</text>
+    <text x="49" y="106">2</text>
+    <text x="75" y="106">3</text>
+    <text x="101" y="106">0</text>
+    <text x="127" y="106">1</text>
+    <text x="153" y="106">2</text>
+    <text x="179" y="106">3</text>
+    <text x="205" y="106">0</text>
+    <text x="231" y="106">1</text>
+    <text x="257" y="106">2</text>
+    <text x="23" y="132">2</text>
+    <text x="49" y="132">3</text>
+    <text x="75" y="132">0</text>
+    <text x="101" y="132">1</text>
+    <text x="127" y="132">2</text>
+    <text x="153" y="132">3</text>
+    <text x="179" y="132">0</text>
+    <text x="205" y="132">1</text>
+    <text x="231" y="132">2</text>
+    <text x="257" y="132">3</text>
+    <text x="23" y="158">3</text>
+    <text x="49" y="158">0</text>
+    <text x="75" y="158">1</text>
+    <text x="101" y="158">2</text>
+    <text x="127" y="158">3</text>
+    <text x="153" y="158">0</text>
+    <text x="179" y="158">1</text>
+    <text x="205" y="158">2</text>
+    <text x="231" y="158">3</text>
+    <text x="257" y="158">0</text>
+    <text x="23" y="184">0</text>
+    <text x="49" y="184">1</text>
+    <text x="75" y="184">2</text>
+    <text x="101" y="184">3</text>
+    <text x="127" y="184">0</text>
+    <text x="153" y="184">1</text>
+    <text x="179" y="184">2</text>
+    <text x="205" y="184">3</text>
+    <text x="231" y="184">0</text>
+    <text x="257" y="184">1</text>
+    <text x="23" y="210">1</text>
+    <text x="49" y="210">2</text>
+    <text x="75" y="210">3</text>
+    <text x="101" y="210">0</text>
+    <text x="127" y="210">1</text>
+    <text x="153" y="210">2</text>
+    <text x="179" y="210">3</text>
+    <text x="205" y="210">0</text>
+    <text x="231" y="210">1</text>
+    <text x="257" y="210">2</text>
+    <text x="23" y="236">2</text>
+    <text x="49" y="236">3</text>
+    <text x="75" y="236">0</text>
+    <text x="101" y="236">1</text>
+    <text x="127" y="236">2</text>
+    <text x="153" y="236">3</text>
+    <text x="179" y="236">0</text>
+    <text x="205" y="236">1</text>
+    <text x="231" y="236">2</text>
+    <text x="257" y="236">3</text>
+    <text x="23" y="262">3</text>
+    <text x="49" y="262">0</text>
+    <text x="75" y="262">1</text>
+    <text x="101" y="262">2</text>
+    <text x="127" y="262">3</text>
+    <text x="153" y="262">0</text>
+    <text x="179" y="262">1</text>
+    <text x="205" y="262">2</text>
+    <text x="231" y="262">3</text>
+    <text x="257" y="262">0</text>
+  </g>
+</svg>

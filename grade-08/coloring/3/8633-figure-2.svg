@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="132" viewBox="0 0 270 132" font-family="Helvetica, Arial, sans-serif" font-size="12">
+  <rect x="0" y="0" width="270" height="132" fill="#ffffff"/>
+  <g fill="#dddddd">
+    <rect x="15" y="15" width="60" height="60"/>
+  </g>
+  <g fill="#666666">
+    <rect x="15" y="15" width="30" height="30"/>
+  </g>
+  <g stroke="#000000" stroke-width="1" fill="none">
+    <path d="M15 15 H105 M15 45 H105 M15 75 H105 M15 105 H105"/>
+    <path d="M15 15 V105 M45 15 V105 M75 15 V105 M105 15 V105"/>
+  </g>
+  <rect x="15" y="15" width="60" height="60" fill="none" stroke="#000000" stroke-width="2.5"/>
+  <g fill="#666666">
+    <rect x="165" y="15" width="30" height="30"/>
+    <rect x="225" y="15" width="30" height="30"/>
+    <rect x="165" y="75" width="30" height="30"/>
+    <rect x="225" y="75" width="30" height="30"/>
+  </g>
+  <g stroke="#000000" stroke-width="1" fill="none">
+    <path d="M165 15 H255 M165 45 H255 M165 75 H255 M165 105 H255"/>
+    <path d="M165 15 V105 M195 15 V105 M225 15 V105 M255 15 V105"/>
+  </g>
+  <text x="76" y="126" text-anchor="middle" fill="#000000">un carré 2 × 2 et son coin</text>
+  <text x="210" y="126" text-anchor="middle" fill="#000000">les quatre coins</text>
+</svg>

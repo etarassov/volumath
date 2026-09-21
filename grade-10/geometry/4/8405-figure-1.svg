@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 250" width="300" height="250">
+<style>text{font-family:Georgia,"Times New Roman",serif;font-size:14px;font-style:italic;fill:#000}.l{fill:none;stroke:#000;stroke-width:1.6;stroke-linejoin:round}.t{fill:none;stroke:#000;stroke-width:1.2}</style>
+<polygon class="l" points="100,60 30,200 270,200 200,60" style="fill:#f0f0f0"/>
+<line class="t" x1="100" y1="60" x2="270" y2="200"/>
+<line class="t" x1="150" y1="200" x2="200" y2="60"/>
+<line class="t" x1="100" y1="60" x2="150" y2="200"/>
+<circle cx="100" cy="60" r="2.6" fill="#000"/>
+<circle cx="200" cy="60" r="2.6" fill="#000"/>
+<circle cx="30" cy="200" r="2.6" fill="#000"/>
+<circle cx="270" cy="200" r="2.6" fill="#000"/>
+<circle cx="150" cy="200" r="2.6" fill="#000"/>
+<circle cx="177.3" cy="123.6" r="2.6" fill="#000"/>
+<text x="89" y="52">A</text>
+<text x="205" y="52">D</text>
+<text x="16" y="217">B</text>
+<text x="276" y="217">C</text>
+<text x="145" y="217">M</text>
+<text x="183" y="120">E</text>
+</svg>
