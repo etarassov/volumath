@@ -39,7 +39,6 @@
   "8628",
   "8629",
   "8630",
-  "8631",
   "8632",
   "8633",
   "8634",
@@ -69,7 +68,6 @@
   "8658",
   "8659",
   "8660",
-  "8661",
   "8662",
   "8663",
   "8664",
@@ -121,7 +119,20 @@
   "p593 Muraille ex26 : exactement l'exercice 11 du cours diophantien, importe en 8666",
   "p595 Muraille ex33 produit maximal a somme fixee = 0778/7636/7204"
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "8631",
+   "survivor": "8851",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8851 (grade-10/logic-reasoning/3/8851-five-numbers-and-three-averages.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8661",
+   "survivor": "8326",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8326 (grade-10/arithmetic/3/8326-three-a-squared-equals-b-squared-plus-one.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": [
   "Coupe Animath de printemps 2023 (p. 19-42) : depouillee en entier, 15 exercices dont les n° 9 et 13 reprennent les n° 2 et 7. Importes 8601-8613.",
   "Groupe A, entrainements de mi-parcours et de fin de parcours (p. 87-89, 141-142) : importes 8614-8619.",
@@ -137,7 +148,7 @@
   "DOUBLONS reperes avec d'autres blocs, aucun fichier supprime, see_also pose de mon cote : 8649/0876/8819 ; 8661/7859/8326/8429 (quatre copies dans le meme dossier) ; 8664/8329 ; 8665/8433 ; 8630/8580 ; 8628/8522/7656 ; 8650/8728 ; 8656/8726 ; 8660/7720 ; 8666/8330 ; 8622/7246 ; 8629/8851 ; 8625/8831 ; 8644/7044 ; 8641/7045. Arbitrage a faire par le coordinateur.",
   "OU REPRENDRE : valbonne-2023.pdf, chapitre III Groupe A, deuxieme partie Geometrie & Combinatoire (p. 101-137) : cours de chasse aux angles (p. 101-111), triangles semblables (p. 122-126), puissance d'un point. Puis chapitre IV Groupe B (p. 143-246), chapitre V Groupe C, chapitre VI Groupe D (IMO shortlist, a eviter), et le reste de La Muraille (p. 596-612, exercices 39 a 140, sans corriges)."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-09-30",
  "files": [
   {
    "file": "valbonne-2023.pdf",

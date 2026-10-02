@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 40
 tags: [cercle, points cocycliques, angle inscrit, chasse aux angles, droites paralleles]
 adapted_from: null
-see_also: []
+see_also: ["7823"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, test de fin de parcours"

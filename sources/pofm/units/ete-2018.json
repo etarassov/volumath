@@ -18,32 +18,23 @@
     "8106",
     "8107",
     "8108",
-    "8109",
     "8110",
     "8111",
     "8112",
     "8113",
     "8114",
-    "8115",
     "8116",
     "8117",
     "8118",
     "8119",
     "8120",
-    "8121",
-    "8122",
-    "8123",
     "8124",
-    "8125",
     "8126",
-    "8127",
     "8128",
     "8129",
     "8130",
-    "8131",
     "8132",
     "8133",
-    "8134",
     "8135",
     "8136",
     "8137",
@@ -52,7 +43,6 @@
     "8140",
     "8141",
     "8142",
-    "8143",
     "8144",
     "8145",
     "8146",
@@ -64,7 +54,6 @@
     "8152",
     "8153",
     "8154",
-    "8155",
     "8156",
     "8157",
     "8158",
@@ -218,7 +207,74 @@
       "reason": "problemes d'IMO, hors de portee"
     }
   ],
-  "retired_ids": [],
+  "retired_ids": [
+    {
+      "id": "8109",
+      "survivor": "8415",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 8415 (grade-10/algebra/4/8415-one-condition-two-cubes.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8115",
+      "survivor": "8214",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 8214 (grade-10/algebra/3/8214-four-a-cubed-times-a-minus-b.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8121",
+      "survivor": "8852",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 8852 (grade-10/logic-reasoning/4/8852-the-chameleons-of-the-island.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8122",
+      "survivor": "7049",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7049 (grade-10/logic-reasoning/4/7049-the-dance-that-nobody-completed.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8123",
+      "survivor": "7725",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7725 (grade-10/geometry/4/7725-every-point-is-a-midpoint.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8125",
+      "survivor": "7624",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7624 (grade-10/logic-reasoning/4/7624-the-water-pistols.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8127",
+      "survivor": "8238",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 8238 (grade-10/logic-reasoning/4/8238-splitting-the-house-of-lords.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8131",
+      "survivor": "8231",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 8231 (grade-11/geometry/4/8231-circumcentre-and-orthocentre-see-the-same-angle.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8134",
+      "survivor": "8239",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 8239 (grade-08/coloring/3/8239-a-walk-through-every-cell.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8143",
+      "survivor": "7946",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7946 (grade-10/algebra/3/7946-erasing-two-numbers-on-the-board.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8155",
+      "survivor": "7668",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7668 (grade-11/geometry/4/7668-the-shortest-broken-path.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    }
+  ],
   "notes": [
     "Passe 1, terminee : chapitre II Coupe Animath de printemps 2018 (p.19-22, entierement depouille) ; chapitre III Groupe A en entier (p.23-100 : algebre, arithmetique, combinatoire, geometrie, les deux tests) ; chapitre IV Groupe B p.102-140 ; chapitre VII Les soirees, conference pi^2/6 (un import, 8152) et conference sur le hasard (rien) ; chapitre VIII La Muraille, exercices 1 a 142, c'est-a-dire la totalite.",
     "La Muraille ne donne que les enonces, sans solution : chaque import venant de la Muraille (8101-8151 en partie, 8153-8179) porte une solution redigee pour ce recueil.",
@@ -229,7 +285,7 @@
     "Les exercices 8180 a 8184 viennent tous du cours « Monovariants et invariants » du Groupe C. Verifications faites par ordinateur : 8180 (la diagonale de 8 cases embrase bien les 64 cases, le perimetre n'a augmente dans aucun des 4000 essais aleatoires, aucun depart a 7 cases n'embrase tout) ; 8182 (l'invariant des colonnes 3 et 6 est bien orthogonal aux 61 coups, codimension 12) ; 8184 (les cinq positions atteignables sont exactement (2,2), (2,4), (3,3), (4,2), (4,4) ; les deux motifs d'appuis a 11 cases sont verifies).",
     "Les exercices 8185 a 8189 viennent du Groupe C (arithmetique « Exercices divers » ex. 3, test final ex. 1 et ex. 4, algebre « Equations fonctionnelles » ex. 5) et du Groupe D (combinatoire, « Geometrie combinatoire » ex. 2). Verifications par ordinateur : 8185 (aucune solution autre que (0,0,0) pour |x|,|y|,|z| <= 40) ; 8186 (n = 6 est bien le plus petit) ; 8188 (le minimum 2n-4 verifie par force brute pour n = 3, 4, 5, 6, et les configurations effacables sont bien au nombre de 2^(2n-1))."
   ],
-  "updated": "2026-09-21",
+  "updated": "2026-09-30",
   "files": [
     {
       "file": "stage_ete_2018.pdf",

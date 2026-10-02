@@ -10,21 +10,17 @@
  "files_total": 4,
  "next_file": 4,
  "imported": [
-  "7101",
   "7102",
   "7103",
   "7104",
   "7105",
-  "7106",
   "7107",
-  "7108",
   "7109",
   "7110",
   "7111",
   "7112",
   "7113",
   "7114",
-  "7115",
   "7116",
   "7118",
   "7119",
@@ -45,14 +41,12 @@
   "7134",
   "7135",
   "7136",
-  "7137",
   "7138",
   "7139",
   "7140",
   "7141",
   "7142",
   "7143",
-  "7144",
   "7145",
   "7146",
   "7147",
@@ -61,8 +55,6 @@
   "7150",
   "7151",
   "7152",
-  "7153",
-  "7154",
   "7155",
   "7156"
  ],
@@ -237,7 +229,56 @@
    ]
   }
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "7101",
+   "survivor": "7239",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7239 (grade-08/combinatorics/1/7239-sixteen-students-three-problems.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7106",
+   "survivor": "7233",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7233 (grade-08/logic-reasoning/3/7233-six-birds-on-a-hexagon.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. 7233 a été gardé parce qu'il demande davantage. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7108",
+   "survivor": "7713",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7713 (grade-08/logic-reasoning/3/7713-sixteen-lamps-and-eight-switches.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7115",
+   "survivor": "7020",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7020 (grade-09/geometry/2/7020-inradius-of-the-3-4-5-triangle.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7137",
+   "survivor": "7739",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7739 (grade-11/algebra/3/7739-when-two-to-the-n-beats-n-squared.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7144",
+   "survivor": "8210",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8210 (grade-11/algebra/3/8210-x-to-the-n-plus-its-inverse-is-an-integer.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7153",
+   "survivor": "7718",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7718 (grade-10/arithmetic/4/7718-a-multiple-written-with-zeros-and-ones.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7154",
+   "survivor": "7051",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7051 (grade-10/geometry/4/7051-red-points-blue-points-no-crossing.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": [
   "55 exercices ecrits : 7101-7116 et 7118-7156. L'id 7117 n'a pas ete utilise (le polyedre a 20 faces etait un doublon repere apres reservation).",
   "Les quatre polycopies junior 2013-2016 se reimpriment massivement entre eux : les exercices d'echauffement 2014 sont ceux de 2013, le cours de geometrie 2016 de Lo Jacomo reprend celui de 2014, le sphinx et l'hexagone aux parallelogrammes reviennent en 2013, 2014 et 2016. Un second passage doit donc lire les quatre annees ensemble, pas l'une apres l'autre.",
@@ -255,7 +296,7 @@
   "DOUBLONS avec d'autres blocs, a des niveaux differents : 7104/0310, 7105/7923, 7107/7715, 7107/8135, 7107/8846, 7107/7228, 7108/8120, 7108/8847, 7110/7048, 7115/7235, 7120/7021, 7121/7259, 7143/7952, 7151/7024, 7151/7236, 7154/7051, 7135/0912, 7153/4617.",
   "Le stage junior reste la meilleure porte d'entree de la source pour un club : les tests initiaux et finaux sont calibres pour des eleves de 3e et de 2de, et les premiers exercices de chaque cours sont des echauffements."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-09-30",
  "files": [
   {
    "file": "stage_junior_2013.pdf",

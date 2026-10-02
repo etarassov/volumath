@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 20
 tags: [congruences, carres, equation-diophantienne, modulo]
 adapted_from: null
-see_also: ["7859", "8429"]
+see_also: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2020, cours du Groupe A"

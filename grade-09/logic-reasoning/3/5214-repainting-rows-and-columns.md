@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 30
 tags: [parite, invariant, tableau, coloriage]
 adapted_from: null
-see_also: ["0711"]
+see_also: ["7007"]
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Pigeonhole Principle and Parity Problems — Brian Conrey et Corinne Cristiani"

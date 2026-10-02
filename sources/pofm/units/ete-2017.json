@@ -34,7 +34,6 @@
   "8023",
   "8024",
   "8025",
-  "8026",
   "8027",
   "8028",
   "8029",
@@ -47,7 +46,6 @@
   "8036",
   "8037",
   "8038",
-  "8039",
   "8040",
   "8041",
   "8042",
@@ -164,7 +162,20 @@
    "reason": "applications directes de l'inégalité arithmético-géométrique, déjà représentées dans la base ; les exercices 4 et 10 demandent l'IAG à n termes, hors programme"
   }
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "8026",
+   "survivor": "7614",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7614 (grade-10/geometry/4/7614-two-circles-and-a-parallel.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8039",
+   "survivor": "7956",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7956 (grade-10/arithmetic/4/7956-only-the-digits-two-zero-one-and-six.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": [
   "Document déjà en français : le travail a été la sélection et la réécriture, pas la traduction.",
   "Erreur de source repérée : éliminatoires lycéens exercice 9, la solution imprimée écrit 16HN² = −AC² + 2(AB² + BC²), ce qui est faux (AC et BC sont intervertis). L'identité correcte est 16HN² = 2AB² + 2AC² − BC². Le nombre demandé x²+y²+z² = 9 reste juste. Corrigé dans 8017 et signalé dans son source.reference.",
@@ -178,7 +189,7 @@
   "Le corrigé de « la muraille » exercice 46 (solution d'élève) contient deux coquilles de recopie, « les droites (CD) et (CD) sont confondues » et « DAD » pour « DAP ». La construction est juste ; elle est réécrite proprement dans 8045, et la réponse 100° est vérifiée par le calcul.",
   "Reste à explorer pour une seconde passe : les cours des groupes C et D (p. 62 à 102 et p. 154 à 226), dont je n'ai lu que les premiers exercices de chaque leçon, et les tests finaux des groupes C et D. Tout le reste du document a été parcouru."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-09-30",
  "files": [
   {
    "file": "stage_ete_2017.pdf",

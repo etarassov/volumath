@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 30
 tags: [invariant, parite, tableau]
 adapted_from: null
-see_also: ["7108", "7713"]
+see_also: ["7713"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, cours de Groupe A"

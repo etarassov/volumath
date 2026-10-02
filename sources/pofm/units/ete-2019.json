@@ -26,7 +26,6 @@
     "8214",
     "8215",
     "8216",
-    "8217",
     "8218",
     "8219",
     "8220",
@@ -61,7 +60,6 @@
     "8249",
     "8250",
     "8251",
-    "8252",
     "8253",
     "8254",
     "8255",
@@ -283,7 +281,20 @@
       "reason": "niveau olympiade, souvent avec outils hors programme ; la Muraille ne publie aucune solution, donc chaque import demande une resolution complete et verifiee. Point de reprise naturel pour une deuxieme passe."
     }
   ],
-  "retired_ids": [],
+  "retired_ids": [
+    {
+      "id": "8217",
+      "survivor": "8440",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 8440 (grade-11/algebra/4/8440-two-nth-powers-and-a-product-of-at-least-four.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. 8440 a été gardé parce qu'il demande davantage. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8252",
+      "survivor": "8659",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 8659 (grade-11/combinatorics/4/8659-stacking-cubes-two-sizes-down.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    }
+  ],
   "notes": [
     "Erreur source 1 : Groupe B, entraînement de mi-parcours, exercice 2 (empilements de cubes). La solution imprimée annonce 3^(n-1) x 2 empilements, mais dit elle-meme qu'il y en a 6 pour n = 3, alors que la formule donnerait 18. La recurrence f(n+1) = 3 f(n) avec f(3) = 6 donne 2 x 3^(n-2). Publie corrige sous l'id 8250. Compte correct 2 x 3^(n-2), verifie par force brute jusqu'a n = 8. Publie corrige sous l'id 8252.",
     "Erreur source 2 : Groupe A, TD manipulations algebriques, exercice 11. Le developpement imprime donne (a+b)^2 - (a+b) + 1 au lieu de (a+b)^2 - 2(a+b) + 2. L'inegalite reste vraie mais le cas d'egalite (a + b = 1) disparait. Publie corrige sous l'id 8215.",
@@ -300,7 +311,7 @@
     "La Muraille ne publie pas de solutions : les onze exercices importes depuis ce chapitre (8266 a 8276) ont ete resolus par moi puis verifies, par force brute quand c'etait possible.",
     "Reprise : le chapitre III (Groupe A) et le chapitre IV (Groupe B) ont ete depouilles en entier, ainsi que le niveau 1 de La Muraille (exercices 1 a 42). Restent a traiter : les niveaux 2 et 3 de La Muraille (exercices 43 a 143), l'entrainement de fin de parcours du Groupe B exercice 4 (equation fonctionnelle), et, si un jour un agent veut s'y risquer, les chapitres V et VI (Groupes C et D), ecartes ici comme hors portee club."
   ],
-  "updated": "2026-09-20",
+  "updated": "2026-09-30",
   "files": [
     {
       "file": "PolycopieV1-1.pdf",

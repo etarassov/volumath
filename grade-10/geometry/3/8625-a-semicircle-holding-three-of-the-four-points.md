@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 25
 tags: [tiroirs, cercle, sphere, diametre]
 adapted_from: null
-see_also: ["8831"]
+see_also: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

@@ -20,15 +20,10 @@
   "7208",
   "7209",
   "7210",
-  "7211",
-  "7212",
   "7213",
   "7214",
   "7215",
-  "7216",
-  "7217",
   "7218",
-  "7219",
   "7220",
   "7221",
   "7222",
@@ -36,21 +31,13 @@
   "7224",
   "7225",
   "7226",
-  "7227",
   "7228",
   "7229",
-  "7230",
-  "7231",
-  "7232",
   "7233",
   "7234",
   "7235",
-  "7236",
   "7237",
-  "7238",
   "7239",
-  "7240",
-  "7241",
   "7242",
   "7243",
   "7244",
@@ -58,11 +45,9 @@
   "7246",
   "7247",
   "7248",
-  "7249",
   "7250",
   "7251",
   "7252",
-  "7253",
   "7254",
   "7255",
   "7256",
@@ -73,13 +58,11 @@
   "7261",
   "7262",
   "7263",
-  "7264",
   "7265",
   "7266",
   "7267",
   "7268",
-  "7269",
-  "7270"
+  "7269"
  ],
  "skipped": [
   "classiques deja presents dans la base avant cet import : la multiplication fausse, les trois amis ou trois inconnus, les deux points de meme couleur a un metre, 1/3 n'est pas decimal (8714, 8814), 733 eleves pour trois anniversaires (8827), 4n^2-1 n'est jamais premier (8313), combien d'entiers de 1 a 20 pour forcer une difference de 2 (8550), les huit sommes d'une grille 3x3, l'orthocentre centre du cercle inscrit du triangle orthique (8132, meme contenu que 'la hauteur bissecte l'angle orthique'), le nombre de couples (A,B) de parties d'union donnee (8014 est le meme comptage 3^n ecrit avec A inter B vide)",
@@ -88,7 +71,110 @@
   "trop durs ou trop longs pour le public junior : JBMO 2024 P2 (cercle A-exinscrit), JBMO SL 2022 G1 (pentagone et milieux), JBMO 2016 P1 (trapeze et cercle inscrit), l'inegalite x^2/(3a+2) du groupe B 2024",
   "(ED) perpendiculaire a (BC) pour P sur la tangente en A (Polycopie-mini groupe A ex 10) : vrai mais la figure force toujours un des deux pieds hors du cote, rediger proprement demande les angles orientes"
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "7211",
+   "survivor": "8256",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8256 (grade-10/combinatorics/4/8256-two-groups-with-the-same-sum.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7212",
+   "survivor": "7717",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7717 (grade-10/combinatorics/4/7717-fifty-one-points-in-a-unit-square.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7216",
+   "survivor": "7103",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7103 (grade-08/arithmetic/2/7103-is-this-multiplication-correct.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7217",
+   "survivor": "7312",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7312 (grade-09/logic-reasoning/4/7312-the-chameleons-of-the-island.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7219",
+   "survivor": "8943",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8943 (grade-10/logic-reasoning/3/8943-three-points-moving-in-parallel.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7227",
+   "survivor": "7614",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7614 (grade-10/geometry/4/7614-two-circles-and-a-parallel.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7230",
+   "survivor": "8227",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8227 (grade-10/geometry/3/8227-two-distances-from-a-point-of-the-diagonal.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7231",
+   "survivor": "7624",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7624 (grade-10/logic-reasoning/4/7624-the-water-pistols.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7232",
+   "survivor": "8834",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8834 (grade-11/geometry/4/8834-every-point-is-a-midpoint.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7236",
+   "survivor": "7024",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7024 (grade-10/algebra/3/7024-four-numbers-that-sum-to-four.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. 7024 a été gardé parce qu'il demande davantage. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7238",
+   "survivor": "7016",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7016 (grade-09/arithmetic/3/7016-n-minus-one-divides.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7240",
+   "survivor": "8734",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8734 (grade-09/logic-reasoning/3/8734-eleven-triples-from-one-to-thirty-three.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7241",
+   "survivor": "7042",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7042 (grade-10/combinatorics/4/7042-six-points-in-a-rectangle.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7249",
+   "survivor": "8569",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8569 (grade-10/arithmetic/3/8569-n-plus-one-numbers-among-the-first-2n.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7253",
+   "survivor": "7846",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7846 (grade-10/combinatorics/4/7846-two-faces-with-the-same-number-of-edges.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7264",
+   "survivor": "8733",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8733 (grade-10/combinatorics/3/8733-a-difference-written-four-times.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7270",
+   "survivor": "8916",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8916 (grade-11/geometry/4/8916-two-tangents-that-meet-at-the-circumcentre.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": [
   "ERREUR DE SOURCE, Poly-CJ-17 ex 'MA < MB + MC + MD' : l'enonce imprime ne suppose pas le quadrilatere convexe et il est alors faux. Contre-exemple A(0;0), B(2;0,5), C(1;0), D(2;-0,5), qui verifie AC = BD = 1, avec M(2;0) : MA = MB + MC + MD = 2. Publie en 7208 avec l'hypothese de convexite ajoutee.",
   "ERREUR DE SOURCE, Poly_StCheron_2024 groupe A calcul algebrique ex 8 : l'enonce demande la valeur MAXIMALE de x + y + z alors que la solution calcule le MINIMUM, qui vaut 6. Publie en 7245 avec l'enonce correct (celui de 2021).",
@@ -99,7 +185,7 @@
   "7261 (jeu des deux tas de 2010) ressemble a 5305 mais les regles different : ici on peut vider autant de jetons qu'on veut d'un seul tas, la reponse et la strategie ne sont pas les memes.",
   "Les quatre documents sont tous exploites. Le gisement restant est surtout du groupe B de 2021 et 2024 (olympiade, souvent au-dela du club) et les series d'exercices d'application deja couvertes ailleurs dans la base."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-09-30",
  "files": [
   {
    "file": "Poly-CJ-17.pdf",

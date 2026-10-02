@@ -35,14 +35,10 @@
   "8423",
   "8424",
   "8425",
-  "8426",
   "8427",
-  "8428",
-  "8429",
   "8430",
   "8431",
   "8432",
-  "8433",
   "8434",
   "8435",
   "8436",
@@ -57,7 +53,6 @@
   "8445",
   "8446",
   "8447",
-  "8448",
   "8449",
   "8450",
   "8451",
@@ -68,11 +63,9 @@
   "8456",
   "8457",
   "8458",
-  "8459",
   "8460",
   "8461",
   "8462",
-  "8463",
   "8464",
   "8465",
   "8466",
@@ -83,8 +76,6 @@
   "8471",
   "8472",
   "8473",
-  "8474",
-  "8475",
   "8476",
   "8477",
   "8478",
@@ -172,7 +163,62 @@
    "reason": "non depouilles faute de temps ; les exercices 4, 5, 7, 9, 10, 11 et 12 ont tous un corrige imprime et sont a reprendre"
   }
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "8426",
+   "survivor": "8939",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8939 (grade-11/arithmetic/4/8939-x-squared-divides-xy-plus-x-plus-y.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8428",
+   "survivor": "8727",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8727 (grade-10/arithmetic/3/8727-a-sum-of-two-squares-that-does-not-exist.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8429",
+   "survivor": "8326",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8326 (grade-10/arithmetic/3/8326-three-a-squared-equals-b-squared-plus-one.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8433",
+   "survivor": "8665",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8665 (grade-11/arithmetic/4/8665-three-squares-plus-one-is-a-power-of-two.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8448",
+   "survivor": "8865",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8865 (grade-11/combinatorics/5/8865-counting-the-repetitions-line-after-line.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8459",
+   "survivor": "8338",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8338 (grade-09/combinatorics/3/8338-how-many-numbers-force-a-gap-of-two.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8463",
+   "survivor": "8666",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8666 (grade-11/arithmetic/5/8666-a-prime-hidden-in-a-factorisation.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8474",
+   "survivor": "8866",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8866 (grade-10/combinatorics/3/8866-half-the-problems-half-the-solvers.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8475",
+   "survivor": "8870",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8870 (grade-11/combinatorics/5/8870-how-many-triangles-of-area-one.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": [
   "Coupe Animath de printemps 2021 (p. 19-42) entierement depouillee : 17 exercices, 13 importes (8401-8413), 1 deja present (0660), 3 doublons internes college/lycee.",
   "Groupe A (p. 43-78) depouille : inegalites (8414-8422), nombres premiers (8423-8426), modulos (8427-8435), entrainement de fin de parcours (8436-8439).",
@@ -183,7 +229,7 @@
   "Doublons reperes avec d'autres blocs (NE PAS supprimer, cross-links poses) : 8414/8537, 8417/8517, 8425/8716, 8428/8727, 8430/8545, 8432/7431, 8449/8858 (grades differents), 8462/7509 et 8462/7626 ; MEME DOSSIER, a arbitrer par le coordinateur : 8440/8217 (grade-11/algebra/4), 8459/8550 (grade-09/combinatorics/3), 8429/7859/8326/8661 (grade-10/arithmetic/3), 8475/8870 (grade-11/combinatorics/5).",
   "Reste a depouiller : Groupe B geometrie p. 80-99 (pages TikZ sans couche de texte, necessite pdftoppm), Equations fonctionnelles p. 100-112 exercices (M) et (D), TD Configurations p. 113-115, Groupe C p. 194-248 et 252-270, Groupe D p. 271-388, Muraille niveaux 2 et 3 (p. 395-426). Ids encore libres dans le bloc : 8480-8500."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-09-30",
  "files": [
   {
    "file": "Poly-2021-Valbonne.pdf",

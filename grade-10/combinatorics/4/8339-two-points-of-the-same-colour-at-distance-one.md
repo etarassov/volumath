@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 25
 tags: [principe-des-tiroirs, coloriage, triangle-equilateral, geometrie-combinatoire]
 adapted_from: null
-see_also: ["4604"]
+see_also: ["7716"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2020, cours du Groupe B"

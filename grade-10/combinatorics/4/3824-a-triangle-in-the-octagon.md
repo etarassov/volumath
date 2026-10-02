@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 30
 tags: [probabilite, denombrement, combinaisons, polygone regulier]
 adapted_from: null
-see_also: ["4018"]
+see_also: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, Mid-Quarter Competition"

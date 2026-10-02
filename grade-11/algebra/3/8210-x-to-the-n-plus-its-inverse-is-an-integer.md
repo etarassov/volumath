@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 30
 tags: [recurrence double, calcul algebrique, entiers, inverse]
 adapted_from: null
-see_also: ["7609", "7721"]
+see_also: ["7076"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A et de Groupe B"

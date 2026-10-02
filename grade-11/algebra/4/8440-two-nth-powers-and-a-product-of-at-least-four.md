@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 30
 tags: [inegalite, puissance, produit, carre-positif, cas-degalite]
 adapted_from: null
-see_also: ["8217"]
+see_also: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe B"

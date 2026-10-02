@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 35
 tags: [nombres-premiers, factorisation, divisibilite]
 adapted_from: null
-see_also: ["8323", "5014", "8816"]
+see_also: ["8323", "5014"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2020, cours du Groupe A"

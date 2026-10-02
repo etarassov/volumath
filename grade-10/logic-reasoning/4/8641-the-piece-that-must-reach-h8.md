@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 45
 tags: [strategie gagnante, positions perdantes, analyse retrograde, echiquier]
 adapted_from: null
-see_also: ["7045"]
+see_also: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

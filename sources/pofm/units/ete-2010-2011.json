@@ -16,19 +16,15 @@
   "7404",
   "7405",
   "7406",
-  "7407",
   "7408",
   "7409",
   "7410",
   "7411",
-  "7412",
   "7413",
   "7414",
-  "7415",
   "7416",
   "7417",
   "7418",
-  "7419",
   "7420",
   "7421",
   "7422",
@@ -40,7 +36,6 @@
   "7428",
   "7429",
   "7430",
-  "7431",
   "7432",
   "7433",
   "7434",
@@ -51,7 +46,6 @@
   "7439",
   "7440",
   "7441",
-  "7442",
   "7443",
   "7444",
   "7445",
@@ -76,7 +70,44 @@
   "stage_ete_2011.pdf, chasse au tresor, enigmes exercices 4, 5 et 7 (rois sur l'echiquier, jeu ABA sur 14 cases, tableau 6x6) : solutions par examen de cas, ou dependantes d'une figure de 'barriere' non reproductible depuis le texte.",
   "stage_ete_2010.pdf et stage_ete_2011.pdf : une quinzaine de classiques ecartes au premier passage parce qu'ils etaient deja dans la base (recherche par enonce avant chaque ecriture)."
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "7407",
+   "survivor": "7233",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7233 (grade-08/logic-reasoning/3/7233-six-birds-on-a-hexagon.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. 7233 a été gardé parce qu'il demande davantage. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7412",
+   "survivor": "7009",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7009 (grade-09/arithmetic/3/7009-ten-sums-never-consecutive.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7415",
+   "survivor": "0309",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 0309 (grade-09/logic-reasoning/3/0309-coins-on-a-round-table.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7419",
+   "survivor": "8334",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8334 (grade-09/logic-reasoning/3/8334-the-language-of-x-y-and-t.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7431",
+   "survivor": "7034",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7034 (grade-10/arithmetic/3/7034-when-is-two-to-the-n-plus-three-a-square.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7442",
+   "survivor": "7074",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7074 (grade-11/geometry/5/7074-three-lengths-from-a-point-on-the-circle.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": [
   "Les deux polycopies sont loin d'etre epuises : 522 et 612 en-tetes 'Exercice'. J'ai pris l'essentiel de ce qui est accessible a un club (Coupe Animath, evaluation initiale, chasse au tresor, premiers exercices des TD, TD et tests de geometrie).",
   "Erreur de source corrigee : stage_ete_2010, TD arithmetique, le probleme des dix segments et du triangle. La borne imprimee est fausse d'une unite ; publie sous l'id 7427 avec la borne correcte de 50 cm et un contre-exemple en 'Going further'.",
@@ -88,7 +119,7 @@
   "Reprise : dans stage_ete_2011.pdf, second TD de geometrie, les exercices 4 (droite de Simson), 5 (angle JIK droit) et 7 (theoreme de Napoleon) sont selectionnes et non ecrits. Dans stage_ete_2010.pdf, le TD de geometrie (exercices 2, 3, 6, 7) et le test de geometrie (exercices 1 et 2) restent a traiter, ainsi que tous les cours de groupe B, C et D des deux annees.",
   "Le stage d'ete 2009 manque a l'archive (lien mort), il n'y a donc rien a chercher entre 2008 et 2010."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-09-30",
  "files": [
   {
    "file": "stage_ete_2010.pdf",

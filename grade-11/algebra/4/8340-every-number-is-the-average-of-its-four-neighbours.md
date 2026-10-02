@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 30
 tags: [principe-de-lextremum, minimum, moyenne, reseau]
 adapted_from: null
-see_also: ["1210", "7726", "8836"]
+see_also: ["1210", "8836"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2020, cours du Groupe B"

@@ -38,7 +38,6 @@
     "8326",
     "8327",
     "8328",
-    "8329",
     "8330",
     "8331",
     "8332",
@@ -52,7 +51,8 @@
     "8340",
     "8341",
     "8342",
-    "8343"
+    "8344",
+    "8345"
   ],
   "skipped": [
     {
@@ -132,12 +132,26 @@
       "reason": "déjà dans la base : 1624"
     }
   ],
-  "retired_ids": [],
+  "retired_ids": [
+    {
+      "id": "8329",
+      "survivor": "8664",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 8664 (grade-10/arithmetic/4/8664-which-numbers-are-a-difference-of-two-squares.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8343",
+      "survivor": "7306",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7306 (grade-08/logic-reasoning/3/7306-thirty-three-numbers-in-eleven-triples.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    }
+  ],
   "notes": [
     "Coupe Animath de printemps 2020 (p. 15-38) depouillee entierement : 17 enonces, 4 doublons internes college/lycee, 12 importes, 1 saute.",
-    "Le corrige publie de l'exercice 17 decrit une construction qui contredit sa propre figure ; la figure est juste, le texte non. Construction verifiee et reecrite dans 8312."
+    "Le corrige publie de l'exercice 17 decrit une construction qui contredit sa propre figure ; la figure est juste, le texte non. Construction verifiee et reecrite dans 8312.",
+    "8344, 8345 : écrits par cette unité (Polycopie-Valbonne-2020-v2.pdf, Groupe A, entraînement de mi-parcours, exercices 3 et 1) mais jamais inscrits ici. Ajoutés le 2026-09-30 lors de la vérification des registres."
   ],
-  "updated": "2026-09-20",
+  "updated": "2026-09-30",
   "files": [
     {
       "file": "Polycopie-Valbonne-2020-v2.pdf",

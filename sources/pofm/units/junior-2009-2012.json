@@ -11,13 +11,10 @@
  "next_file": 1,
  "imported": [
   "7001",
-  "7002",
   "7003",
   "7004",
   "7005",
-  "7006",
   "7007",
-  "7008",
   "7009",
   "7010",
   "7011",
@@ -34,7 +31,6 @@
   "7022",
   "7023",
   "7024",
-  "7025",
   "7026",
   "7027",
   "7028",
@@ -50,12 +46,9 @@
   "7038",
   "7039",
   "7040",
-  "7041",
   "7042",
   "7043",
   "7044",
-  "7045",
-  "7046",
   "7047",
   "7048",
   "7049",
@@ -70,7 +63,6 @@
   "7058",
   "7059",
   "7060",
-  "7061",
   "7062",
   "7063",
   "7064",
@@ -261,6 +253,54 @@
   {
    "id": "7086",
    "why": "écrit puis retiré tout de suite : c'était le même exercice que mon propre 7022 (rectangle ABCD, milieux E et F, angles CGF et FBE), le polycopié 2012 reprenant l'échauffement 3 de 2010. Survivant : 7022, dont la source cite déjà les deux années. Id non réutilisé."
+  },
+  {
+   "id": "7002",
+   "survivor": "7233",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7233 (grade-08/logic-reasoning/3/7233-six-birds-on-a-hexagon.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. 7233 a été gardé parce qu'il demande davantage. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7006",
+   "survivor": "7109",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7109 (grade-08/logic-reasoning/3/7109-words-that-transform.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7008",
+   "survivor": "7719",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7719 (grade-09/coloring/4/7719-sphinx-tiles-on-a-triangle.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7025",
+   "survivor": "8415",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8415 (grade-10/algebra/4/8415-one-condition-two-cubes.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7041",
+   "survivor": "7717",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7717 (grade-10/combinatorics/4/7717-fifty-one-points-in-a-unit-square.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7045",
+   "survivor": "8641",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8641 (grade-10/logic-reasoning/4/8641-the-piece-that-must-reach-h8.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7046",
+   "survivor": "8642",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8642 (grade-10/logic-reasoning/4/8642-taking-at-most-half-the-tokens.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7061",
+   "survivor": "8440",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8440 (grade-11/algebra/4/8440-two-nth-powers-and-a-product-of-at-least-four.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. 8440 a été gardé parce qu'il demande davantage. NE JAMAIS RÉATTRIBUER."
   }
  ],
  "notes": [
@@ -280,7 +320,7 @@
   "PIÈGE DE RENDU TROUVÉ ICI : une légende d'image Markdown qui contient un crochet non apparié, par exemple « la demi-droite [AC) », casse silencieusement la syntaxe ![...](...) et la figure n'apparaît pas du tout, sans le moindre avertissement de pandoc. Il faut écrire la légende sans crochet ouvrant isolé. Repéré sur 7089, corrigé ; tous mes autres fichiers ont été passés au crible.",
   "Répartition, fin : 7088 (stage_junior_2011, TD de géométrie des débutants), 7089 (stage_junior_2010, mardi géométrie)."
  ],
- "updated": "2026-09-21",
+ "updated": "2026-09-30",
  "files": [
   {
    "file": "stage_junior_2009.pdf",

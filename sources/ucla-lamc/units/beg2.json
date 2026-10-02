@@ -39,15 +39,6 @@
       "ref": "problème 2"
     },
     {
-      "id": "4604",
-      "grade": 8,
-      "theme": "geometry",
-      "difficulty": 3,
-      "title": "Deux points de même couleur à un mètre",
-      "file": "Handout-582-703.pdf",
-      "ref": "problème 9"
-    },
-    {
       "id": "4605",
       "grade": 8,
       "theme": "logic-reasoning",
@@ -386,9 +377,16 @@
       "answers": "non calculés"
     }
   ],
-  "retired_ids": [],
+  "retired_ids": [
+    {
+      "id": "4604",
+      "survivor": "7716",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7716 (grade-08/combinatorics/3/7716-two-points-one-metre-apart.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    }
+  ],
   "notes": "Passe 1. Le groupe Beginners 2 est annoncé US grades 5-6, soit CM2-sixième : c'est très majoritairement en dessous du plancher du club. Sur environ 130 exercices lus dans 14 polycopiés, 22 ont été retenus, soit à peu près un sur six ; le reste est consigné dans skipped avec les réponses calculées. Les polycopiés qui portent leurs fruits ne sont PAS les séances Beginners 2 récentes mais les anciennes séances « Beginners » et « Beginners Circle » : Handout-582-703.pdf (principe des tiroirs, Oleg Gleizer) a donné six exercices à lui seul, et c'est de loin le meilleur du lot. Les séances Math Kangaroo, Egyptian multiplication, fractions et décimales, pourcentages, Venn, bases et exposants sont à écarter sans les ouvrir. Travail fait hors de l'ordre de la liste : les index de sessions déjà exploités sont 1, 7, 8, 68, 69, 72, 85, 105, 111, 117, 118, 119, 143. Une passe suivante peut repartir de l'index 0 en sautant ceux-là. Attention : plusieurs fichiers de solutions de ce lot n'ont aucune couche texte (Handout-1359-1364, 1372-1367, 1381-1371, 1473-1397, 1471-1391, 1515-1455, 1502-1454, 1438-1413, 1513-1463, 2393-2096) : pdftotext rend zéro ligne, il faut les lire en image. Réponses vérifiées par calcul Python : 4613 (111 employés, vérifié sur des petits cas), 4619 (27 tirages), 4621 (768), 4622 (60), 4609 (deux triplets de sommets possibles, {1,4,7} et {2,3,7} : la solution du polycopié se trompe en affirmant que seul {1,4,7} convient), plus toutes les réponses « bâtons et cailloux » consignées dans skipped. Doublon inter-agents signalé par vm.py check : 4617 (3e) et 1217 (2de) sont le même classique « un multiple qui ne s'écrit qu'avec des 1 » ; j'ai gardé mon fichier et mis see_also, au coordinateur d'arbitrer.",
-  "updated": "2026-09-19",
+  "updated": "2026-09-30",
   "sessions": [
     {
       "event": "4101",

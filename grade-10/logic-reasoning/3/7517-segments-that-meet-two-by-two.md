@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 25
 tags: [maximum, minimum, intervalles, principe-extremal, droite-reelle]
 adapted_from: null
-see_also: ["7627"]
+see_also: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2012, La Muraille"

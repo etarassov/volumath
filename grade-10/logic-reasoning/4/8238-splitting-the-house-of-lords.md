@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 35
 tags: [principe extremal, graphes, partition, minimum]
 adapted_from: null
-see_also: ["8127"]
+see_also: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"

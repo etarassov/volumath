@@ -18,7 +18,6 @@
     "0628",
     "0629",
     "0630",
-    "0631",
     "0632",
     "0633",
     "0634",
@@ -75,7 +74,14 @@
       "reason": "Tous des chasses aux angles classiques, résolues et vérifiées numériquement, non importées pour ne pas remplir la base d'un seul type d'exercice. Réponses : P 48 = 15° (indépendant de l'angle au sommet) ; P 50 = 45° ; P 51 = 10° ; P 52 importé ; P 53 la somme vaut 135° via le triangle ABE rectangle en E ; P 55 vraie par chasse aux angles avec l'équilatéral DEF ; P 56 = 50°, par symétrie MN est parallèle à AB (attention : la feuille donne 50° et 50°, ce qui rend le problème facile ; l'original russe de 1952 est le problème de Langley avec 60° et 50°, réponse 30°, vérifié numériquement). P 39 écarté aussi parce que 0226 « Deux bissectrices perpendiculaires » le contient déjà comme prolongement."
     }
   ],
-  "retired_ids": [],
+  "retired_ids": [
+    {
+      "id": "0631",
+      "survivor": "0905",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 0905 (grade-08/geometry/2/0905-hidden-angle-in-the-eighty-degree-triangle.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    }
+  ],
   "notes": "Quinze exercices importés, ids 0626 à 0640 ; les ids 0641 à 0650 du bloc n'ont pas été utilisés. La feuille contient 56 problèmes en trois sections (Problèmes divers P 1-16, Ensembles P 17-35, Angles P 36-56) ; il reste largement de quoi faire une deuxième passe, voir les entrées de skipped, qui donnent les réponses déjà vérifiées. Toutes les réponses publiées ont été vérifiées par calcul ou par recherche exhaustive (voir le rapport de session). Doublon à arbitrer : 0626 « Le troisième angle du triangle » est le même problème que 0651 et 0901, importés en parallèle depuis les feuilles Angles.2.pdf et Geometry.pdf ; les trois fichiers sont dans grade-08/geometry/1. Rien n'a été supprimé, conformément à la consigne : garder le sien et laisser le coordinateur trancher.",
-  "updated": "2026-09-19"
+  "updated": "2026-09-30"
 }

@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 30
 tags: [invariant, parite, coloriage, grille]
 adapted_from: null
-see_also: ["0711"]
+see_also: ["7007"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"

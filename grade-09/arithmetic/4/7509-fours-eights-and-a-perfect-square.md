@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 35
 tags: [chiffres, repunit, carre, identite-remarquable, factorisation]
 adapted_from: null
-see_also: ["8462", "7626"]
+see_also: ["8462"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2012, La Muraille"

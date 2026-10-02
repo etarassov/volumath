@@ -166,17 +166,6 @@
    "note": "doublon de 3823 (2de, difficulté 4), see_also posé"
   },
   {
-   "id": "4018",
-   "grade": 10,
-   "theme": "probability-statistics",
-   "difficulty": 4,
-   "title": "Un triangle dans l'octogone",
-   "file": "Handout-3131-2694.pdf",
-   "ref": "problème 15",
-   "answer": "40/56 = 5/7",
-   "note": "doublon de 3824 (2de combinatorics), see_also posé"
-  },
-  {
    "id": "4019",
    "grade": 10,
    "theme": "combinatorics",
@@ -340,10 +329,16 @@
    "why": "Same problem in the same folder grade-09/algebra/3 as 3816 (15 km at 30 km/h, then 55 km/h, average 50 km/h; answer 110 km). Kept 3816 because its source.reference names the original contest, AMC 8 2019 problem 16, and the corrige file. 4009 had one extra hint (\"ecris l'equation distance totale = 50 x temps total\"), which is NOT recoverable: it was retired before the run was ever committed, so it exists nowhere. Add it to 3816 if a club leader wants a fourth rung. Never reuse the id 4009.",
    "survivor": "3816",
    "decided": "2026-09-19"
+  },
+  {
+   "id": "4018",
+   "survivor": "3824",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 3824 (grade-10/combinatorics/4/3824-a-triangle-in-the-octagon.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
   }
  ],
  "notes": "Passage 1 (2026-09-19), 25 exercices, ids 4001 à 4025. Le fichier le plus rentable de l'unité est de loin Handout-3131-2694.pdf (séance d'indice 3, « Week 1 Competition ») : 22 problèmes de style AMC avec barème complet en fin de fichier ; 19 des 22 sont maintenant importés. Attention : un agent voisin travaille Handout-4070-3775.pdf, une autre compétition LAMC qui reprend les mêmes problèmes AMC. Cinq collisions sont listées dans « duplicates ». Avant d'importer un problème de compétition, chercher son énoncé dans la base, pas seulement son fichier source. Deux fichiers de corrigés de cette unité n'ont aucune couche texte (Handout-2812-2392.pdf pour la probabilité géométrique, Handout-2819-2408.pdf pour la théorie des nombres) : il faut les lire en image ou se passer du corrigé. Reprendre à la séance d'indice 4 (event 2949, Polynomials 2) ; les séances 0 à 3 sont exploitées, mais 0 et 3 gardent les restes listés dans « skipped ».",
- "updated": "2026-09-19",
+ "updated": "2026-09-30",
  "sessions": [
   {
    "event": "3443",

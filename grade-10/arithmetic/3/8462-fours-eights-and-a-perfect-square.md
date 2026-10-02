@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 30
 tags: [repunit, ecriture decimale, carre parfait, identite remarquable]
 adapted_from: null
-see_also: ["7509", "7626"]
+see_also: ["7509"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, la Muraille"

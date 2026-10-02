@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 30
 tags: [carre-parfait, puissance-de-deux, congruence, factorisation]
 adapted_from: null
-see_also: ["7431"]
+see_also: ["7034"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe A"

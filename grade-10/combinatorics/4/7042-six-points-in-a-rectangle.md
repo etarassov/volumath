@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 35
 tags: [principe des tiroirs, decoupage, distance]
 adapted_from: null
-see_also: ["7041"]
+see_also: ["7717"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2011, groupe des débutants"

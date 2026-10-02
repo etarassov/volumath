@@ -21,7 +21,6 @@
     "0354",
     "0355",
     "0356",
-    "0357",
     "0358",
     "0359",
     "0360"
@@ -85,5 +84,8 @@
     }
   ],
   "notes": "PIÈGE D'EXTRACTION. La couche texte de AU2.pdf perd les exposants et place indices et exposants sur des lignes de base séparées. Pour lire une formule sûrement, utiliser un visiteur pypdf qui enregistre tm[5] (ligne de base) et la taille de police : le corps de texte est à 14,3 pt, les exposants et indices à 10 pt, les exposants au-dessus de la ligne et les indices en dessous. Exemple vérifié ainsi : листок 2 задача 7 donne bien 2, 2^2, 2^3, ..., 2^10 (et non 2, 22, 23, ..., 210). Toutes les valeurs numériques des dix exercices importés ont été revérifiées de cette façon.\n\nERREURS DU MANUEL repérées au passage. (1) листок 2 задача 8 : le manuel écrit « l9 > 13 + 21 = 33 » puis « l10 > 21 + 33 = 55 » ; les bonnes valeurs sont 34 puis 55. L'exercice 0357 utilise la chaîne corrigée. (2) листок 2 задача 3 г) : le manuel écrit « AB ∩ CD = E » là où il veut dire les diagonales ; la задача 6 page 10 écrit correctement « AC ∩ BD = E ». (3) листок 4 задача 5 : le manuel conclut « KL = 1/2 MN = 3 » alors qu'il faut lire MN = 1/2 KL = 3.\n\nDÉCOUPAGE DE LA SOURCE. Les pages 1 à 22 sont entièrement dans la section « Геометрия » : la répartition par thèmes est donc forcément dominée par la géométrie (9 exercices sur 10). La combinatoire commence au листок 8 (page 35) et l'algèbre au листок 14 (page 59). Table des листки : 1 p.4, 2 p.8, 3 p.12, 4 p.17, 5 p.21, 6 p.26, 7 p.30.\n\nRESTE À FAIRE dans cette plage. Le листок 5 court des pages 21 à 25 : seules les задачи 1 à 4 (page 22) sont dans ma plage et elles sont traitées par 0360. Les задачи suivantes du листок 5 sont au-delà de la page 22. Le листок 3 (constructions) est entièrement non traité et demanderait une passe dédiée avec de vraies figures.\n\nRENDU LATEX. \\widehat{...}, ^\\circ, \\sqrt, \\dfrac et \\le passent correctement par pandoc puis typst (vérifié en compilant les dix PDF). Attention en revanche à ne jamais tester une formule avec `echo` sous zsh : \\alpha, \\circ et \\frac y sont interprétés comme des séquences d'échappement et la formule arrive tronquée à pandoc. Utiliser un heredoc ou un fichier.\n\nDOUBLON SIGNALÉ SANS OBJET. `vm.py check` rapproche 0351 « Deux triangles isocèles dans un triangle isocèle » de 0453 « Deux triangles isocèles » (Kan2017) : ce sont deux problèmes totalement différents, seuls les titres se ressemblent.",
-  "updated": "2026-09-18T22:51:26+02:00"
+  "updated": "2026-09-30",
+  "retired_ids": {
+    "0357": "Retiré le 2026-09-30 : même problème que 7427 (grade-10/arithmetic/3/7427-ten-segments-and-a-triangle.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. 7427 a été gardé parce qu'il demande davantage. NE JAMAIS RÉATTRIBUER."
+  }
 }

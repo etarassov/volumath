@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 25
 tags: [inegalite-triangulaire, fibonacci, absurde, croissance]
 adapted_from: null
-see_also: ["0357"]
+see_also: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2011, La Muraille"

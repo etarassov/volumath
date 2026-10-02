@@ -30,30 +30,23 @@
     "7718",
     "7719",
     "7720",
-    "7721",
     "7722",
     "7723",
-    "7724",
     "7725",
-    "7726",
     "7727",
     "7728",
     "7729",
     "7730",
     "7731",
     "7732",
-    "7733",
     "7734",
     "7735",
     "7736",
-    "7737",
-    "7738",
     "7739",
     "7740",
     "7741",
     "7742",
     "7743",
-    "7744",
     "7745",
     "7746",
     "7747",
@@ -120,7 +113,50 @@
       "reason": "pass interrompu faute de temps, voir next_file"
     }
   ],
-  "retired_ids": [],
+  "retired_ids": [
+    {
+      "id": "7721",
+      "survivor": "7076",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7076 (grade-12/algebra/4/7076-always-an-integer.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "7724",
+      "survivor": "7078",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7078 (grade-12/combinatorics/5/7078-enough-segments-to-force-a-triangle.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "7726",
+      "survivor": "8340",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 8340 (grade-11/algebra/4/8340-every-number-is-the-average-of-its-four-neighbours.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "7733",
+      "survivor": "7843",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7843 (grade-11/algebra/3/7843-two-sequences-that-turn.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "7737",
+      "survivor": "7667",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7667 (grade-12/arithmetic/5/7667-five-consecutive-integers.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "7738",
+      "survivor": "7085",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 7085 (grade-12/arithmetic/5/7085-integers-that-always-split-into-two-equal-halves.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "7744",
+      "survivor": "8528",
+      "date": "2026-09-30",
+      "why": "Retiré le 2026-09-30 : même problème que 8528 (grade-11/algebra/4/8528-erase-two-numbers-and-write-a-plus-b-plus-ab.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    }
+  ],
   "notes": [
     "Offset page PDF = page imprimee (1:1).",
     "Numerotation des solutions decalee d'un rang a partir de l'exercice 4 dans le cours de recurrence (Gachet).",
@@ -128,7 +164,7 @@
     "Seuls les exercices resolus par un eleve pendant le stage ont une solution imprimee dans la muraille; les autres n'en ont aucune.",
     "REPRISE: (1) La muraille, exercices 86 a 136; (2) les premiers exercices des cours des groupes B, C et D (p. 150-480), seulement echantillonnes; (3) le test de fin de parcours des groupes B, C, D."
   ],
-  "updated": "2026-09-20",
+  "updated": "2026-09-30",
   "files": [
     {
       "file": "stage_ete_2014.pdf",

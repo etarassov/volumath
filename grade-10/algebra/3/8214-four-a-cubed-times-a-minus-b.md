@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 25
 tags: [inegalites, factorisation, identites remarquables]
 adapted_from: null
-see_also: ["8115"]
+see_also: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"

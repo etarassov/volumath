@@ -37,7 +37,6 @@
   "8725",
   "8726",
   "8727",
-  "8728",
   "8729",
   "8730",
   "8731",
@@ -152,7 +151,14 @@
    "why": "niveau shortlist IMO, hors de portee du club"
   }
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "8728",
+   "survivor": "8650",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8650 (grade-10/arithmetic/3/8650-the-units-digit-of-a-tower.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": [
   "Strates couvertes : Coupe Animath de printemps 2024, colleges et lycees (pages 19-48) en entier ; cours de Groupe A jusqu'a la page 155 environ, dont Principe de l'extremum, Principe des tiroirs, Invariants/coloriages et Jeux a strategie gagnante ; entrainements de mi-parcours et de fin de parcours du Groupe B (pages 204-209 et 275-279).",
   "Non couvert : cours de geometrie du Groupe A (chasse aux angles pages 91-107, theoreme de l'angle tangent 118-132, triangles semblables 133-138, TD recapitulatif 141) ; Divisibilite et PGCD, TD d'inegalites 2, Equations diophantiennes ; entrainements de mi-parcours et de fin de parcours du Groupe A (pages 89 et 151) ; tous les cours de Groupe B ; tous les Groupes C, D et E ; La Muraille (pages 705-728).",
@@ -163,7 +169,7 @@
   "Doublons reperes entre d'autres blocs, signales sans rien toucher : 7045 et 8641 (jeton de C1 a H8), 7046 et 8642 (au plus la moitie des jetons), 7044 et 8644 (noircir une case voisine).",
   "Reprendre au second passage par : entrainement de mi-parcours du Groupe B exercices 2 et 4, puis les entrainements du Groupe A (pages 89 et 151), puis les cours de geometrie du Groupe A laisses de cote, puis les premiers exercices de chaque cours de Groupe B."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-09-30",
  "files": [
   {
    "file": "poly_valbonne_2024.pdf",

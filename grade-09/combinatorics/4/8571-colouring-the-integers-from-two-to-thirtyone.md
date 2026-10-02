@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 35
 tags: [coloriage, minimum, multiples, construction]
 adapted_from: null
-see_also: ["8843"]
+see_also: ["8305"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe A"

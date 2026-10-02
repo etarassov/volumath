@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 30
 tags: [carres, congruences, puissances de deux]
 adapted_from: null
-see_also: []
+see_also: ["8432"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2011, groupe des débutants"

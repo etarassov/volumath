@@ -46,13 +46,6 @@
    "title": "6ⁿ + 19 n'est jamais premier"
   },
   {
-   "id": "8584",
-   "grade": 9,
-   "theme": "arithmetic",
-   "difficulty": 2,
-   "title": "Deux mille vingt-trois nombres et une différence"
-  },
-  {
    "id": "8520",
    "grade": 9,
    "theme": "arithmetic",
@@ -65,13 +58,6 @@
    "theme": "arithmetic",
    "difficulty": 3,
    "title": "Quand n + 1 divise n² + 1"
-  },
-  {
-   "id": "8550",
-   "grade": 9,
-   "theme": "combinatorics",
-   "difficulty": 3,
-   "title": "Combien de nombres pour forcer une différence de 2 ?"
   },
   {
    "id": "8571",
@@ -102,13 +88,6 @@
    "title": "Une diagonale coupée en trois"
   },
   {
-   "id": "8535",
-   "grade": 9,
-   "theme": "geometry",
-   "difficulty": 3,
-   "title": "Cinq points dans un triangle équilatéral"
-  },
-  {
    "id": "8585",
    "grade": 9,
    "theme": "logic-reasoning",
@@ -130,13 +109,6 @@
    "title": "Sept amis et cent champignons"
   },
   {
-   "id": "8561",
-   "grade": 9,
-   "theme": "logic-reasoning",
-   "difficulty": 3,
-   "title": "Deux nombres de même parité, deux moyennes"
-  },
-  {
    "id": "8580",
    "grade": 9,
    "theme": "logic-reasoning",
@@ -144,25 +116,11 @@
    "title": "Les entiers de 1 à 2022 et leurs différences"
   },
   {
-   "id": "8527",
-   "grade": 9,
-   "theme": "logic-reasoning",
-   "difficulty": 4,
-   "title": "Trente-quatre caméléons"
-  },
-  {
    "id": "8512",
    "grade": 10,
    "theme": "algebra",
    "difficulty": 2,
    "title": "De x + 1/x à x² + 1/x²"
-  },
-  {
-   "id": "8514",
-   "grade": 10,
-   "theme": "algebra",
-   "difficulty": 3,
-   "title": "Une condition cachée sur a³ + b³"
   },
   {
    "id": "8515",
@@ -198,13 +156,6 @@
    "theme": "arithmetic",
    "difficulty": 3,
    "title": "Une somme de nombres qui se suivent, divisible par 2022"
-  },
-  {
-   "id": "8540",
-   "grade": 10,
-   "theme": "arithmetic",
-   "difficulty": 3,
-   "title": "n + 2 divise n³ + 3n + 29"
   },
   {
    "id": "8569",
@@ -247,13 +198,6 @@
    "theme": "arithmetic",
    "difficulty": 4,
    "title": "Dix entiers dont la moyenne est un multiple du PGCD"
-  },
-  {
-   "id": "8551",
-   "grade": 10,
-   "theme": "arithmetic",
-   "difficulty": 4,
-   "title": "Un multiple de n qui ne s'écrit qu'avec des 0 et des 1"
   },
   {
    "id": "8578",
@@ -354,20 +298,6 @@
    "title": "Deux droites perpendiculaires dans un carré"
   },
   {
-   "id": "8559",
-   "grade": 10,
-   "theme": "geometry",
-   "difficulty": 4,
-   "title": "Relier 2n points sans croisement"
-  },
-  {
-   "id": "8575",
-   "grade": 10,
-   "theme": "geometry",
-   "difficulty": 4,
-   "title": "Chaque point est le milieu de deux autres"
-  },
-  {
    "id": "8506",
    "grade": 10,
    "theme": "geometry",
@@ -375,32 +305,11 @@
    "title": "Un triangle rectangle tricolore"
   },
   {
-   "id": "8555",
-   "grade": 10,
-   "theme": "logic-reasoning",
-   "difficulty": 4,
-   "title": "La liste qui contient tout le monde"
-  },
-  {
    "id": "8537",
    "grade": 11,
    "theme": "algebra",
    "difficulty": 3,
    "title": "a³ + b³ + a + b ⩾ 4ab"
-  },
-  {
-   "id": "8583",
-   "grade": 11,
-   "theme": "algebra",
-   "difficulty": 3,
-   "title": "Deux puissances qui ne descendent jamais sous 2ⁿ⁺¹"
-  },
-  {
-   "id": "8517",
-   "grade": 11,
-   "theme": "algebra",
-   "difficulty": 4,
-   "title": "Le plus petit a² + b² + c² + d² possible"
   },
   {
    "id": "8528",
@@ -445,32 +354,11 @@
    "title": "7 puissance m égale 5 puissance n plus 24"
   },
   {
-   "id": "8546",
-   "grade": 11,
-   "theme": "arithmetic",
-   "difficulty": 4,
-   "title": "p puissance n plus 144 est un carré"
-  },
-  {
-   "id": "8554",
-   "grade": 11,
-   "theme": "arithmetic",
-   "difficulty": 5,
-   "title": "Cinq entiers consécutifs ne font jamais un carré"
-  },
-  {
    "id": "8570",
    "grade": 11,
    "theme": "coloring",
    "difficulty": 5,
    "title": "Paver un carré avec des bandes de longueur k"
-  },
-  {
-   "id": "8557",
-   "grade": 11,
-   "theme": "logic-reasoning",
-   "difficulty": 4,
-   "title": "Chacun en connaît exactement trois"
   },
   {
    "id": "8566",
@@ -485,13 +373,6 @@
    "theme": "logic-reasoning",
    "difficulty": 4,
    "title": "Les pièces en cercle qu'on ne peut pas toutes retourner"
-  },
-  {
-   "id": "8556",
-   "grade": 11,
-   "theme": "logic-reasoning",
-   "difficulty": 5,
-   "title": "Le même nombre d'amis, aucun ami commun"
   },
   {
    "id": "8576",
@@ -610,6 +491,108 @@
    "id": "8568",
    "reason": "doublon exact d'un exercice deja commite : rectangle monochrome dans un plan tricolore",
    "survivor": "1624"
+  },
+  {
+   "id": "8584",
+   "survivor": "8627",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8627 (grade-09/arithmetic/2/8627-two-numbers-whose-difference-is-divisible-by-2022.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8550",
+   "survivor": "8338",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8338 (grade-09/combinatorics/3/8338-how-many-numbers-force-a-gap-of-two.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8535",
+   "survivor": "8828",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8828 (grade-09/combinatorics/3/8828-five-points-in-a-triangle.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8561",
+   "survivor": "8629",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8629 (grade-09/logic-reasoning/3/8629-five-primes-and-their-averages.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8527",
+   "survivor": "7312",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7312 (grade-09/logic-reasoning/4/7312-the-chameleons-of-the-island.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8514",
+   "survivor": "8415",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8415 (grade-10/algebra/4/8415-one-condition-two-cubes.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8540",
+   "survivor": "8220",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8220 (grade-10/arithmetic/3/8220-n-plus-two-divides-n-cubed.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8551",
+   "survivor": "7718",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7718 (grade-10/arithmetic/4/7718-a-multiple-written-with-zeros-and-ones.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8559",
+   "survivor": "8840",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8840 (grade-10/combinatorics/4/8840-pairing-points-without-crossings.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8575",
+   "survivor": "7725",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7725 (grade-10/geometry/4/7725-every-point-is-a-midpoint.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8555",
+   "survivor": "7839",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7839 (grade-10/logic-reasoning/4/7839-the-longest-list-in-the-tournament.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8583",
+   "survivor": "8440",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8440 (grade-11/algebra/4/8440-two-nth-powers-and-a-product-of-at-least-four.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. 8440 a été gardé parce qu'il demande davantage. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8517",
+   "survivor": "8417",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8417 (grade-11/algebra/4/8417-the-smallest-sum-of-four-squares.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8546",
+   "survivor": "8616",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8616 (grade-11/arithmetic/4/8616-one-hundred-forty-four-plus-a-prime-power.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8554",
+   "survivor": "7071",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7071 (grade-11/arithmetic/5/7071-five-in-a-row-never-a-square.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8557",
+   "survivor": "7729",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7729 (grade-11/combinatorics/4/7729-at-most-one-enemy-in-your-own-group.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8556",
+   "survivor": "7731",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7731 (grade-11/combinatorics/5/7731-someone-has-exactly-one-friend.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
   }
  ],
  "notes": [
@@ -626,7 +609,7 @@
   "Doublons a arbitrer par le coordinateur, aucun fichier n'a ete supprime : 8512 / 8209 (meme dossier, meme titre), 8540 / 8220 (meme dossier), 8527 / 7217 (meme dossier), 8580 / 8630 (meme dossier), 8535 / 7229 et 8828 (meme niveau), 8551 / 1217, 7718 et 7847 (meme dossier).",
   "Liens see_also poses depuis mes fichiers : 8512->8209, 8522->8628, 8539->0554, 8545->8430, 8551->1217, 8569->5220, 8571->8843, 8575->7232 et 8834, 8584->4601."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-09-30",
  "files": [
   {
    "file": "Poly_Valbonne_2022-Corrigé-1.pdf",

@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 35
 tags: [double comptage, ronde, voisins, invariant]
 adapted_from: null
-see_also: []
+see_also: ["7618"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, la muraille"

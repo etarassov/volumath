@@ -57,6 +57,9 @@ SECTION_LABELS = {
 }
 
 REQUIRED_META = ["id", "title", "grade", "theme", "difficulty", "source"]
+
+# 0001 to 9999 are all used or reserved by past imports, so new ids have five digits.
+FIRST_FIVE_DIGIT_ID = 10001
 REQUIRED_SECTIONS = ["Statement", "Solution"]
 KNOWN_SECTIONS = list(SECTION_LABELS)
 
@@ -277,13 +280,24 @@ def select(args):
         picked = [e for e in picked if e.difficulty == args.difficulty]
     if getattr(args, "tag", None):
         picked = [e for e in picked if args.tag in (e.meta.get("tags") or [])]
-    picked.sort(key=lambda e: (e.grade or 0, e.theme or "", e.difficulty or 0, e.id))
+    picked.sort(key=lambda e: (e.grade or 0, e.theme or "", e.difficulty or 0, id_key(e)))
     return picked
+
+
+def valid_id(exo_id):
+    """Four digits for the old ones, five for new work. No leading 0 on five digits,
+    or "01234" and "1234" would be two ids that mean the same number."""
+    return bool(re.fullmatch(r"\d{4}|[1-9]\d{4}", exo_id))
+
+
+def id_key(exo):
+    """Sort by value. As text, 10001 would come before 7002."""
+    return int(exo.id) if exo.id.isdigit() else float("inf")
 
 
 def next_id():
     used = [int(e.id) for e in all_exercises() if e.id.isdigit()]
-    return "%04d" % (max(used) + 1 if used else 1)
+    return str(max(used + [FIRST_FIVE_DIGIT_ID - 1]) + 1)
 
 
 def slugify(text):
@@ -438,8 +452,8 @@ source:
 
 def cmd_new(args):
     exo_id = args.id or next_id()
-    if not re.fullmatch(r"\d{4}", exo_id):
-        sys.exit("id must be four digits, got %r" % exo_id)
+    if not valid_id(exo_id):
+        sys.exit("id must be four digits, or five from %d on, got %r" % (FIRST_FIVE_DIGIT_ID, exo_id))
     if any(e.id == exo_id for e in all_exercises()):
         sys.exit("id %s is already used" % exo_id)
     slug = args.slug or slugify(args.title)
@@ -457,7 +471,7 @@ def cmd_new(args):
 
 def cmd_list(args):
     for exo in select(args):
-        print("%s  %-11s %-26s %s  %s" % (
+        print("%-5s  %-11s %-26s %s  %s" % (
             exo.id, GRADE_LABELS.get(exo.grade, exo.grade), exo.theme,
             "*" * int(exo.difficulty or 0) + "." * (5 - int(exo.difficulty or 0)), exo.title))
 
@@ -465,6 +479,24 @@ def cmd_list(args):
 STOPWORDS = {"le", "la", "les", "un", "une", "des", "de", "du", "et", "ou", "a", "au", "aux",
              "en", "dans", "sur", "qui", "que", "pour", "par", "avec", "son", "sa", "ses",
              "deux", "trois", "est", "sont", "d", "l"}
+
+
+# A figure whose caption holds paired brackets, as in ![Le côté [BC]](0002-figure-1.svg).
+FIGURE = r"!\[(?:[^\[\]\n]|\[[^\[\]\n]*\])*\]\(([^)\s]+)\)"
+
+
+def unpaired_captions(text):
+    """Figure captions whose square brackets do not pair up. Pandoc then prints the
+    whole thing as ordinary text and the figure vanishes, without any warning."""
+    bad = []
+    for found in re.finditer(r"!\[", text):
+        depth, i = 1, found.end()
+        while i < len(text) and depth and text[i] != "\n":
+            depth += {"[": 1, "]": -1}.get(text[i], 0)
+            i += 1
+        if depth or not text.startswith("(", i):
+            bad.append(text[found.start():text.find("\n", found.start())][:80])
+    return bad
 
 
 def title_tokens(title):
@@ -480,7 +512,7 @@ def duplicate_notes(exos):
     """Flag exercises whose titles overlap a lot. Overlapping sources repeat classics.
 
     A pair already cross linked with see_also is deliberate and stays quiet, unless the two
-    sit at the same grade, theme and difficulty, where one of them is simply waste.
+    sit at the same grade, where one of them is simply waste: the same child meets both.
     """
     out = []
     for i, a in enumerate(exos):
@@ -493,9 +525,8 @@ def duplicate_notes(exos):
                 continue
             if len(ta & tb) / min(len(ta), len(tb)) < 0.7:
                 continue
-            same_slot = (a.grade, a.theme, a.difficulty) == (b.grade, b.theme, b.difficulty)
-            if same_slot:
-                out.append("%s and %s sit in the same folder and look like the same problem, "
+            if a.grade == b.grade:
+                out.append("%s and %s sit at the same grade and look like the same problem, "
                            "consider keeping one: \"%s\" / \"%s\"" % (a.id, b.id, a.title, b.title))
             elif not (linked(a, b.id) and linked(b, a.id)):
                 out.append("possible duplicate, cross link them with see_also if deliberate: "
@@ -520,6 +551,9 @@ def cmd_check(args):
                 errors.append("%s: unknown section '## %s'" % (rel, name))
         if not exo.sections.get("Hints"):
             notes.append("%s: no hints, they are recommended" % rel)
+        if not valid_id(exo.id):
+            errors.append("%s: id %r must be four digits, or five digits not starting with 0"
+                          % (rel, exo.id))
         if exo.id in seen:
             errors.append("%s: id %s already used by %s" % (rel, exo.id, seen[exo.id]))
         seen[exo.id] = rel
@@ -537,7 +571,11 @@ def cmd_check(args):
             errors.append("%s: unknown grade %s" % (rel, exo.grade))
         if exo.difficulty not in (1, 2, 3, 4, 5):
             errors.append("%s: difficulty must be 1 to 5, found %s" % (rel, exo.difficulty))
-        for target in re.findall(r"!\[[^\]]*\]\(([^)]+)\)", "\n".join(exo.sections.values())):
+        body = "\n".join(exo.sections.values())
+        for caption in unpaired_captions(body):
+            errors.append("%s: unpaired square bracket in a figure caption, the figure would "
+                          "vanish from the PDF: %s" % (rel, caption))
+        for target in re.findall(FIGURE, body):
             if not target.startswith(("http://", "https://")) and not (exo.path.parent / target).exists():
                 errors.append("%s: figure not found: %s" % (rel, target))
         source = exo.meta.get("source") or {}
@@ -590,7 +628,7 @@ def cmd_index(args):
                 continue
             lines += ["### %s" % THEME_LABELS[theme], "",
                       "| Difficulté | N° | Titre | Fichier |", "| --- | --- | --- | --- |"]
-            for exo in sorted(group, key=lambda e: (e.difficulty or 0, e.id)):
+            for exo in sorted(group, key=lambda e: (e.difficulty or 0, id_key(e))):
                 marks = "●" * int(exo.difficulty or 0) + "○" * (5 - int(exo.difficulty or 0))
                 lines.append("| %s | %s | %s | [md](%s) |" % (marks, exo.id, exo.title, exo.rel))
             lines.append("")
@@ -678,7 +716,8 @@ def main():
     p.add_argument("--difficulty", type=int, required=True, choices=[1, 2, 3, 4, 5])
     p.add_argument("--title", required=True, help="French title")
     p.add_argument("--slug", help="English slug for the file name")
-    p.add_argument("--id", help="explicit four digit id, required during a parallel import")
+    p.add_argument("--id", help="explicit id, five digits for new work (from %d), "
+                   "required during a parallel import" % FIRST_FIVE_DIGIT_ID)
     p.set_defaults(func=cmd_new)
 
     p = subs.add_parser("list", help="list exercises")

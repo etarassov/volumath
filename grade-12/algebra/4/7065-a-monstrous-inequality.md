@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 30
 tags: [inegalite, moyennes, exposants]
 adapted_from: null
-see_also: ["7061"]
+see_also: ["8440"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2010"

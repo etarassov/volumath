@@ -23,11 +23,7 @@
   "8811",
   "8813",
   "8814",
-  "8815",
-  "8816",
-  "8817",
   "8818",
-  "8819",
   "8820",
   "8821",
   "8822",
@@ -36,24 +32,16 @@
   "8826",
   "8827",
   "8828",
-  "8829",
   "8830",
-  "8831",
   "8832",
-  "8833",
   "8834",
   "8835",
   "8836",
-  "8837",
   "8838",
   "8839",
   "8840",
   "8841",
-  "8842",
-  "8843",
   "8844",
-  "8845",
-  "8846",
   "8847",
   "8848",
   "8849",
@@ -212,7 +200,80 @@
    "why": "non ouverts : niveau shortlist olympique, hors de portée du club dans le temps imparti"
   }
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "8815",
+   "survivor": "8315",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8315 (grade-11/arithmetic/4/8315-the-sum-of-two-roots-is-irrational.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8816",
+   "survivor": "8324",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8324 (grade-11/arithmetic/4/8324-when-a-to-the-n-minus-one-is-prime.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8817",
+   "survivor": "8718",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8718 (grade-11/arithmetic/5/8718-when-n-to-the-fourth-plus-four-to-the-n-is-prime.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8819",
+   "survivor": "8649",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8649 (grade-09/arithmetic/3/8649-three-primes-two-apart.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8829",
+   "survivor": "8626",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8626 (grade-09/combinatorics/3/8626-eight-sums-and-seven-values.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8831",
+   "survivor": "8625",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8625 (grade-10/geometry/3/8625-a-semicircle-holding-three-of-the-four-points.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8833",
+   "survivor": "8619",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8619 (grade-11/combinatorics/4/8619-one-thousand-points-and-a-disc.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8837",
+   "survivor": "8736",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8736 (grade-11/geometry/4/8736-a-triangle-with-nothing-on-its-sides.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8842",
+   "survivor": "8737",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8737 (grade-10/combinatorics/4/8737-the-last-player-scored-five.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8843",
+   "survivor": "8305",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8305 (grade-10/combinatorics/4/8305-colouring-the-integers-so-no-multiple-matches.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8845",
+   "survivor": "7731",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7731 (grade-11/combinatorics/5/7731-someone-has-exactly-one-friend.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8846",
+   "survivor": "8135",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8135 (grade-09/logic-reasoning/3/8135-the-pile-of-a-hundred-coins.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": [
   "Document de 793 pages. Plan suivi : (1) Coupe Animath de printemps 2025, p. 17-42 ; (2) cours et entraînements du Groupe A, p. 43-154 ; (3) Groupe B, p. 155-300. Les Groupes C, D et E (p. 301-792) sont de niveau shortlist et n'ont pas été ouverts.",
   "Les identifiants 8812 et 8823 n'ont jamais été écrits : ce sont des trous laissés dans le bloc au moment où deux exercices pressentis ont été abandonnés en cours de rédaction, pas des exercices retirés. Le bloc va donc de 8801 à 8877 avec ces deux absences, soit 75 fichiers ; 8878 à 8900 restent libres.",
@@ -220,7 +281,7 @@
   "Une deuxième passe devrait reprendre à « Algèbre : Méthode sp et relations de Viète » (p. 189) et « Arithmétique : Équations diophantiennes » (p. 205), les deux cours du Groupe B les plus proches du programme français et non ouverts, puis « Combinatoire : TD de pot pourri » à partir de l'exercice 8 (p. 286).",
   "Erreurs relevées dans le polycopié, corrigées dans les fichiers importés : Groupe A mi-parcours ex. 4 (carrés modulo 8 : « la seule façon d'obtenir 0 est 0+0+0+0 » est faux) ; Nombres premiers ex. 19 (la réponse annonce « (2,5,7) et ses permutations » alors que l'énoncé impose p<q<r) ; Nombres premiers ex. 23 (énoncé incohérent avec sa propre solution) ; Principe de l'extremum ex. 17 et 18 (les deux se terminent par « la valeur maximale est 2^{n-1} », copié-collé sans rapport) ; Invariants ex. 4 (l'énoncé parle des nombres de 1 à 2021 et la solution somme de 1 à 2022, puis conclut sur 0 au lieu de 2) ; Groupe B mi-parcours ex. 4 (pour a = 2 la solution imprimée écrit 21 au lieu de 31 ; la conclusion tient) ; Groupe B Combinatoire Révisions ex. 12 (la justification affirme que chaque ligne autre que la première somme à 2018, ce qui est faux : la ligne 1,1,2 donne 2,2,1, de somme 5 ; la preuve a été refaite avec la majoration par 2018) ; Groupe B Géométrie Révisions ex. 7 (l'angle chasé vaut XBY et non 180 - XBY dans la configuration dessinée)."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-09-30",
  "files": [
   {
    "file": "Poly-2025-compresse.pdf",

@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 20
 tags: [nombres premiers, congruences, multiples de trois]
 adapted_from: null
-see_also: ["0876", "8819"]
+see_also: ["0876"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

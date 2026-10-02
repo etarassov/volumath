@@ -251,22 +251,6 @@
    "path": "grade-08/coloring/3/7930-six-birds-around-six-trees.md"
   },
   {
-   "id": "7931",
-   "grade": 11,
-   "theme": "algebra",
-   "difficulty": 4,
-   "title": "La factorielle et la puissance",
-   "path": "grade-11/algebra/4/7931-factorial-versus-a-power.md"
-  },
-  {
-   "id": "7932",
-   "grade": 10,
-   "theme": "arithmetic",
-   "difficulty": 3,
-   "title": "b² − 8 est une puissance de 3",
-   "path": "grade-10/arithmetic/3/7932-b-squared-minus-eight-is-a-power-of-three.md"
-  },
-  {
    "id": "7933",
    "grade": 11,
    "theme": "arithmetic",
@@ -355,14 +339,6 @@
    "path": "grade-10/geometry/4/7943-a-point-inside-an-equilateral-triangle.md"
   },
   {
-   "id": "7944",
-   "grade": 12,
-   "theme": "arithmetic",
-   "difficulty": 4,
-   "title": "Élever une congruence à la puissance p",
-   "path": "grade-12/arithmetic/4/7944-raising-a-congruence-to-the-power-p.md"
-  },
-  {
    "id": "7945",
    "grade": 9,
    "theme": "combinatorics",
@@ -379,44 +355,12 @@
    "path": "grade-10/algebra/3/7946-erasing-two-numbers-on-the-board.md"
   },
   {
-   "id": "7947",
-   "grade": 11,
-   "theme": "algebra",
-   "difficulty": 3,
-   "title": "Une triple composition qui s'annule",
-   "path": "grade-11/algebra/3/7947-a-triple-composition-that-vanishes.md"
-  },
-  {
-   "id": "7948",
-   "grade": 10,
-   "theme": "combinatorics",
-   "difficulty": 4,
-   "title": "Cent un points dans un carré",
-   "path": "grade-10/combinatorics/4/7948-one-hundred-and-one-points-in-a-square.md"
-  },
-  {
    "id": "7949",
    "grade": 12,
    "theme": "geometry",
    "difficulty": 4,
    "title": "Quand la base vaut la somme de deux segments",
    "path": "grade-12/geometry/4/7949-when-the-base-equals-the-sum-of-two-segments.md"
-  },
-  {
-   "id": "7950",
-   "grade": 11,
-   "theme": "combinatorics",
-   "difficulty": 5,
-   "title": "Vingt enfants et leurs grands-pères",
-   "path": "grade-11/combinatorics/5/7950-twenty-children-and-their-grandfathers.md"
-  },
-  {
-   "id": "7951",
-   "grade": 11,
-   "theme": "arithmetic",
-   "difficulty": 4,
-   "title": "n⁴ + 4ⁿ est-il premier ?",
-   "path": "grade-11/arithmetic/4/7951-n-to-the-fourth-plus-four-to-the-n.md"
   },
   {
    "id": "7952",
@@ -497,7 +441,50 @@
    "detail": "Seul le niveau 1 de la muraille (exercices 1 a 45, p.279-283) a ete depouille dans cette passe."
   }
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "7931",
+   "survivor": "7825",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 7825 (grade-11/algebra/4/7825-n-factorial-is-at-most.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7932",
+   "survivor": "8327",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8327 (grade-10/arithmetic/3/8327-m-squared-minus-eight-is-a-power-of-three.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7944",
+   "survivor": "8576",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8576 (grade-12/arithmetic/3/8576-from-a-congruent-b-mod-n-to-nth-powers-mod-n-squared.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. 8576 a été gardé parce qu'il demande davantage. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7947",
+   "survivor": "8151",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8151 (grade-11/algebra/4/8151-a-root-of-f-composed-three-times.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7948",
+   "survivor": "8145",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8145 (grade-10/combinatorics/4/8145-a-hundred-and-one-points-and-a-small-triangle.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7950",
+   "survivor": "8146",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8146 (grade-11/combinatorics/5/8146-twenty-children-and-their-grandfathers.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7951",
+   "survivor": "8718",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 8718 (grade-11/arithmetic/5/8718-when-n-to-the-fourth-plus-four-to-the-n-is-prime.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": [
   "Passe 1 terminee : 58 exercices ecrits, ids 7901-7958, tous verifies par vm.py check (0 erreur) et construits en PDF sans aucun avertissement pandoc.",
   "Sections depouillees : Coupe Animath 2016 (eliminatoires, epreuve finale, evaluation initiale, p.21-36) ; test de mi-parcours (p.107-113) ; test de fin de parcours (p.211-220) ; exercices d'ouverture des cours de Groupe A (p.37-46) ; la muraille niveau 1 (enonces p.279-283, solutions p.285-300).",
@@ -506,7 +493,7 @@
   "Erreurs du polycopie relevees et corrigees dans les fichiers concernes, chacune signalee dans source.reference : 7903 (le nombre imprime 2008 doit etre 1008), 7933, 7938 (les deux reponses sont interverties), 7940 (deux erreurs de calcul), et la muraille exercice 35 dont la figure montre quatre cycles disjoints, ce qui contredit l'affirmation imprimee (exercice non importe).",
   "Doublons inter-blocs reperes, rien supprime : 7950 = 7321 (niveaux 1re / 3e, croise par see_also), 7929 = 7820 (1re / 3e), 7942 = 8141 et proche de 7604 (1re / 2de / 3e), 7930 = 7233 et 7714 (4e coloring / 4e logic-reasoning / 3e coloring). Les collisions signalees par vm.py entre 7923 et 8631, et entre 7904 et 7813, sont de faux positifs : ce sont des problemes differents."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-09-30",
  "files": [
   {
    "file": "stage_ete_2016.pdf",

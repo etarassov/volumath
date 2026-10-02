@@ -57,15 +57,6 @@
    "file": "Handout-4789-4966.pdf"
   },
   {
-   "id": "3206",
-   "grade": 10,
-   "theme": "algebra",
-   "difficulty": 4,
-   "title": "Une équation qui cache un produit",
-   "session": "4966",
-   "file": "Handout-4789-4966.pdf"
-  },
-  {
    "id": "3207",
    "grade": 11,
    "theme": "arithmetic",
@@ -467,9 +458,16 @@
    "answers": "aire(ADE) = 16, donc trapèze = 40 - 16 = 24"
   }
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "3206",
+   "survivor": "3410",
+   "date": "2026-09-30",
+   "why": "Retiré le 2026-09-30 : même problème que 3410 (grade-10/arithmetic/4/3410-an-equation-in-whole-numbers.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": "Passage 1 : les 4 premières séances à corrigé (4966 Algèbre, 4964 Géométrie, 4981 Fonctions, 5008 Théorie des nombres) plus le début de 5025 (Dénombrement). 26 exercices, ids 3201 à 3226. next_session = 3 pointe sur la séance 4998, première séance jamais ouverte. Restent intactes : 4998 (Handout-4806/4814), 5018 nombres complexes (Handout-4816/4817/4818), 5043 test blanc AMC 10 et 12 (Handout-4830 à 4833), 4508 percolation (Handout-4575/4576), puis toutes les séances sans corrigé à partir de l'indice 9. \nCe que le prochain passage doit savoir. (1) Les corrigés de cette source sont parfois FAUX ou INCOMPLETS. Trois cas rencontrés : le corrigé de xy+3x+4y=13 n'énumère que les diviseurs positifs de 25 et rate trois solutions sur six (corrigé dans 3202) ; le corrigé du polynôme de degré 6 annonce B = 88 alors que B = -88 (corrigé dans 3221) ; le corrigé de la chorale n'est pas donné et la réponse répandue 96 est fausse, c'est 95. Tout vérifier en force brute. (2) L'aplatissement typographique frappe vraiment : l'exercice 14 de Handout-4813-5008.pdf s'affiche « 1/2020 » alors que c'est 1/20^20, et les exercices 13 et 14 de Handout-4789-4966.pdf sont illisibles en texte. Relire ces pages en image. (3) Les groupes « Math Competitions Training » de 2025 sont en fait des reprises du groupe AMC 10/12 de 2023 : les en-têtes disent « ORMC AMC 10/12 Group, Week N ». Risque réel de doublon avec l'unité amc1012 ; deux doublons sont déjà apparus (voir retired_ids).",
- "updated": "2026-09-19",
+ "updated": "2026-09-30",
  "sessions": [
   {
    "event": "4966",

@@ -32,11 +32,16 @@ A figure sits next to its exercise, named `<id>-figure-<n>.svg`, and is referenc
 plain Markdown: `![Description](0002-figure-1.svg)`. Prefer SVG you can edit over a
 screenshot. Use a raster image only for a scan that cannot reasonably be redrawn.
 
+Square brackets inside the description must pair up. `![Le côté [BC]](…)` is fine, but a
+single unpaired one, as in `![L'intervalle [0, 1[](…)`, turns the whole image into ordinary
+text, and the figure vanishes from the PDF without a warning from pandoc. `vm.py check` now
+reports it.
+
 ## The exercise file
 
 ```markdown
 ---
-id: "0042"                    # four digits, unique, never reused, never changed
+id: "0042"                    # four or five digits, unique, never reused, never changed
 title: "Parité de n² + n"     # French
 grade: 8                      # 8 to 12, must match the folder
 theme: arithmetic             # must match the folder
@@ -200,8 +205,12 @@ Two cases where even that is not enough:
   perfectly sensible French while missing a whole term.
 - **Some files have no text layer at all**, usually scans. `pdftotext` returns nothing, or a
   handful of bytes.
+- **A file can have a good text layer and still have pages with none.** In the POFM camp
+  handouts the geometry pages are drawn entirely in TikZ, so `pdftotext` returns nothing for
+  them while the pages around them read perfectly. A page whose text is empty, or much
+  shorter than its neighbours, needs rendering.
 
-In both cases, render the page as an image and read it with your own eyes:
+In all three cases, render the page as an image and read it with your own eyes:
 
 ```sh
 pdftoppm -r 150 -png -f <page> -l <page> <file.pdf> /path/to/out
@@ -220,11 +229,14 @@ concluding the problem is broken. Often it is the extraction that is broken.
 - Never edit anything in `build/`. It is generated and overwritten.
 - Never reuse an id, and never renumber. An id points at one file for good. When an exercise
   moves to another difficulty or grade, the file moves, the id stays.
+- Ids 0001 to 9999 are all used or reserved by past imports. New ids have five digits, from
+  10001 on. Old ids keep their four digits: padding one to five digits would be renumbering it.
 - Reusing a problem at another grade means a new file with its own id and
   `adapted_from: "<original id>"`, because the solution has to be rewritten for that grade.
 - Sources overlap, so the same classic arrives twice from two different books. That is fine
   at two different grades: cross link the two files with `see_also` so nobody hands the same
-  problem to the same child twice. Two copies in the *same* folder are waste, keep one.
+  problem to the same child twice. Two copies at the *same grade* are waste even when they sit
+  in different themes or at different difficulties, because the same child meets both. Keep one.
 - `sources/originals/` holds the downloaded source material and is not committed. Exercises
   cite their source, so nothing is lost if those files are absent.
 - When several agents import at once, each is given its own block of ids in advance. Never

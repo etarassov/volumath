@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 35
 tags: [invariant, modulo, couleurs, processus]
 adapted_from: null
-see_also: ["7644", "8121", "8852"]
+see_also: ["8852"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2007"

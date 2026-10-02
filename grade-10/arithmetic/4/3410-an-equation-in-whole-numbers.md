@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 35
 tags: [entiers, factorisation, diviseurs, disjonction de cas]
 adapted_from: null
-see_also: ["3206"]
+see_also: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12, Week 1: Algebra"
