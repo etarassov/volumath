@@ -5,7 +5,7 @@ grade: 8
 theme: combinatorics
 difficulty: 3
 duration_min: 20
-tags: [pavage, dominos, quadrillage, absurde]
+tags: [pavage, dominos, quadrillage, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

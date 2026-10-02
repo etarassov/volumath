@@ -5,7 +5,7 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [inegalite, moyenne-arithmetique-geometrique, factorisation, changement-de-variable]
+tags: [inegalite, inegalite-arithmetico-geometrique, factorisation, changement-de-variable]
 adapted_from: null
 see_also: []
 same_as: []

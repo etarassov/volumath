@@ -5,7 +5,7 @@ grade: 9
 theme: arithmetic
 difficulty: 2
 duration_min: 15
-tags: [nombres-decimaux, raisonnement-par-absurde, divisibilite, criteres]
+tags: [nombres-decimaux, raisonnement-par-l-absurde, divisibilite, criteres]
 adapted_from: null
 see_also: []
 same_as: []

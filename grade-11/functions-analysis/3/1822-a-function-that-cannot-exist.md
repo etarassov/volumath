@@ -5,7 +5,7 @@ grade: 11
 theme: functions-analysis
 difficulty: 3
 duration_min: 20
-tags: [fonctions, parite, demonstration-par-labsurde, contre-exemple]
+tags: [fonctions, parite, raisonnement-par-l-absurde, contre-exemple]
 adapted_from: null
 see_also: []
 same_as: []

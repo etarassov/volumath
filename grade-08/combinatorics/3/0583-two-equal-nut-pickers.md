@@ -5,7 +5,7 @@ grade: 8
 theme: combinatorics
 difficulty: 3
 duration_min: 20
-tags: [absurde, tiroirs, somme, denombrement]
+tags: [raisonnement-par-l-absurde, tiroirs, somme, denombrement]
 adapted_from: null
 see_also: []
 same_as: []

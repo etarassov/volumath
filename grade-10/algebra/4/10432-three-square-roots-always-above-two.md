@@ -5,7 +5,7 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [inegalite, racine-carree, moyenne-arithmetico-geometrique, cas-d-egalite]
+tags: [inegalite, racine-carree, inegalite-arithmetico-geometrique, cas-d-egalite]
 adapted_from: null
 see_also: []
 same_as: []

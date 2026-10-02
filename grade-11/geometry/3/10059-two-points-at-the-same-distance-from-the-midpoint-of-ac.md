@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 3
 duration_min: 40
-tags: [triangles-semblables, hauteur, repere, produit-scalaire, mediatrice, distance]
+tags: [triangles-semblables, hauteur, coordonnees, produit-scalaire, mediatrice, distance]
 adapted_from: null
 see_also: []
 same_as: []

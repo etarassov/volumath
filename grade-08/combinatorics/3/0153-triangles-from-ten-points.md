@@ -5,7 +5,7 @@ grade: 8
 theme: combinatorics
 difficulty: 3
 duration_min: 20
-tags: [denombrement, triangle, points-alignes, choix, repetition]
+tags: [denombrement, triangle, alignement, choix, repetition]
 adapted_from: null
 see_also: []
 same_as: []

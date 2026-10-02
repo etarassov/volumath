@@ -5,7 +5,7 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [second-degre, discriminant, somme-de-carres, raisonnement-par-labsurde]
+tags: [second-degre, discriminant, somme-de-carres, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 9
 theme: logic-reasoning
 difficulty: 4
 duration_min: 35
-tags: [absurde, somme, regroupement, contre-exemple, nombres-relatifs]
+tags: [raisonnement-par-l-absurde, somme, regroupement, contre-exemple, nombres-relatifs]
 adapted_from: null
 see_also: []
 same_as: []

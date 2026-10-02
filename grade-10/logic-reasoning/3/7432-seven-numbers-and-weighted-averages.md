@@ -5,7 +5,7 @@ grade: 10
 theme: logic-reasoning
 difficulty: 3
 duration_min: 30
-tags: [invariant, somme, tableau, absurde]
+tags: [invariant, somme, tableau, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

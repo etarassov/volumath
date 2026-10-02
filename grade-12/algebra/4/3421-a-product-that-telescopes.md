@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [produit-telescopique, factorisation, limite, suites]
+tags: [telescopage, factorisation, limite, suites]
 adapted_from: null
 see_also: []
 same_as: []

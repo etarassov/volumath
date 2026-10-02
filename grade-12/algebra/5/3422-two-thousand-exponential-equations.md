@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 45
-tags: [exponentielle, logarithme, changement-de-variable, produit-telescopique]
+tags: [exponentielle, logarithme, changement-de-variable, telescopage]
 adapted_from: null
 see_also: ["1802"]
 same_as: []

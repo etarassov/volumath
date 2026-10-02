@@ -5,7 +5,7 @@ grade: 8
 theme: combinatorics
 difficulty: 5
 duration_min: 35
-tags: [absurde, denombrement, parite, tournoi, disjonction-de-cas]
+tags: [raisonnement-par-l-absurde, denombrement, parite, tournoi, disjonction-de-cas]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [ppcm, multiples, fractions, inegalite, somme-telescopique]
+tags: [ppcm, multiples, fractions, inegalite, telescopage]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [suites, inegalite, divisibilite, produit-telescopique]
+tags: [suites, inegalite, divisibilite, telescopage]
 adapted_from: null
 see_also: []
 same_as: []

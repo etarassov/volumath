@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [inegalite, mediane, cercle-circonscrit, aire, repere, produit-scalaire, inegalite-triangulaire]
+tags: [inegalite, mediane, cercle-circonscrit, aire, coordonnees, produit-scalaire, inegalite-triangulaire]
 adapted_from: null
 see_also: []
 same_as: []

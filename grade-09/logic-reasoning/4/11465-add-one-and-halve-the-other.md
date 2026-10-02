@@ -5,7 +5,7 @@ grade: 9
 theme: logic-reasoning
 difficulty: 4
 duration_min: 30
-tags: [monovariant, somme, absurde, inegalite, demonstration]
+tags: [monovariant, somme, raisonnement-par-l-absurde, inegalite, demonstration]
 adapted_from: null
 see_also: []
 same_as: []

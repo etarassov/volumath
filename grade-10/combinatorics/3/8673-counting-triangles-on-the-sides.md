@@ -5,7 +5,7 @@ grade: 10
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [denombrement, coefficients-binomiaux, points-alignes, soustraction]
+tags: [denombrement, coefficients-binomiaux, alignement, soustraction]
 adapted_from: null
 see_also: []
 same_as: []

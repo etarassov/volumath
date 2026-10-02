@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 75
-tags: [geometrie-analytique, repere, equation-de-cercle, bissectrice, cercle-circonscrit, angle-inscrit, trigonometrie, parallelisme]
+tags: [geometrie-analytique, coordonnees, equation-de-cercle, bissectrice, cercle-circonscrit, angle-inscrit, trigonometrie, parallelisme]
 adapted_from: null
 see_also: []
 same_as: []

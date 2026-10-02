@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [orthocentre, cercle-circonscrit, mediane, thales, repere]
+tags: [orthocentre, cercle-circonscrit, mediane, thales, coordonnees]
 adapted_from: null
 see_also: []
 same_as: []

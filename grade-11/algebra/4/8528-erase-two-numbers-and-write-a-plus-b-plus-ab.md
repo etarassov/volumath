@@ -5,7 +5,7 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [invariant, factorisation, produit-telescopique, suite-doperations]
+tags: [invariant, factorisation, telescopage, suite-doperations]
 adapted_from: null
 see_also: []
 same_as: []

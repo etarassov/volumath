@@ -5,7 +5,7 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [polynome, facteurs-premiers, tiroirs, absurde, equation-fonctionnelle]
+tags: [polynome, facteurs-premiers, tiroirs, raisonnement-par-l-absurde, equation-fonctionnelle]
 adapted_from: null
 see_also: []
 same_as: []

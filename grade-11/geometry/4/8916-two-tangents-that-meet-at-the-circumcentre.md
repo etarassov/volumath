@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [cercle, angle-inscrit, tangente, points-cocycliques, hauteur]
+tags: [cercle, angle-inscrit, tangente, cocyclicite, hauteur]
 adapted_from: null
 see_also: []
 same_as: []

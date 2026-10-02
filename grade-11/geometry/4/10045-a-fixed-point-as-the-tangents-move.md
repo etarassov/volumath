@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [tangente, cercle, point-fixe, repere, produit-scalaire, projete-orthogonal, second-degre, somme-et-produit-des-racines]
+tags: [tangente, cercle, point-fixe, coordonnees, produit-scalaire, projete-orthogonal, second-degre, somme-et-produit-des-racines]
 adapted_from: null
 see_also: ["12431"]
 same_as: []

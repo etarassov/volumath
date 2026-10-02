@@ -5,7 +5,7 @@ grade: 8
 theme: arithmetic
 difficulty: 2
 duration_min: 15
-tags: [produit-telescopique, telescopage, fractions, fraction-irreductible]
+tags: [telescopage, fractions, fraction-irreductible]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 11
 theme: combinatorics
 difficulty: 3
 duration_min: 35
-tags: [denombrement, chemins, bijection, repere, puissances]
+tags: [denombrement, chemins, bijection, coordonnees, puissances]
 adapted_from: null
 see_also: []
 same_as: []

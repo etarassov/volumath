@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [quadrilatere-inscrit, angle-inscrit, points-cocycliques, droites-paralleles, chasse-aux-angles]
+tags: [quadrilatere-inscrit, angle-inscrit, cocyclicite, droites-paralleles, chasse-aux-angles]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 40
-tags: [double-comptage, aire, droites-paralleles, majoration, points-alignes]
+tags: [double-comptage, aire, droites-paralleles, majoration, alignement]
 adapted_from: null
 see_also: []
 same_as: []

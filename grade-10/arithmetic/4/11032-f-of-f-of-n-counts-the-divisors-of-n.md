@@ -5,7 +5,7 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [nombre-de-diviseurs, nombres-premiers, equation-fonctionnelle, raisonnement-par-labsurde]
+tags: [nombre-de-diviseurs, nombres-premiers, equation-fonctionnelle, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

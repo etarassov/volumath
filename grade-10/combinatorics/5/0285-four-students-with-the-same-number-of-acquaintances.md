@@ -5,7 +5,7 @@ grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 40
-tags: [principe-des-tiroirs, parite, double-comptage, raisonnement-par-labsurde]
+tags: [principe-des-tiroirs, parite, double-comptage, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: ["4602"]
 same_as: []

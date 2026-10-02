@@ -5,7 +5,7 @@ grade: 9
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [fractions, somme-telescopique, calcul-litteral, suites]
+tags: [fractions, telescopage, calcul-litteral, suites]
 adapted_from: null
 see_also: ["0615"]
 same_as: []

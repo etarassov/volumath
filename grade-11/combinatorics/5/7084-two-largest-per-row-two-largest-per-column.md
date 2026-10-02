@@ -5,7 +5,7 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [tableau, principe-extremal, raisonnement-par-labsurde, denombrement-double, ordre]
+tags: [tableau, principe-extremal, raisonnement-par-l-absurde, denombrement-double, ordre]
 adapted_from: null
 see_also: []
 same_as: []

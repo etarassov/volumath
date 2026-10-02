@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [cercles-secants, mediatrice, point-fixe, parallelogramme, repere, coordonnees]
+tags: [cercles-secants, mediatrice, point-fixe, parallelogramme, coordonnees]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [second-degre, parite, racine-rationnelle, demonstration-par-labsurde]
+tags: [second-degre, parite, racine-rationnelle, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

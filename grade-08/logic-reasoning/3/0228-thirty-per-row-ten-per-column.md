@@ -5,7 +5,7 @@ grade: 8
 theme: logic-reasoning
 difficulty: 3
 duration_min: 15
-tags: [tableau, somme, double-comptage, raisonnement-par-labsurde]
+tags: [tableau, somme, double-comptage, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

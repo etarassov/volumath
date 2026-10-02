@@ -5,7 +5,7 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [maths-expertes, carre-parfait, nombres-premiers, bezout, theoreme-chinois, construction, absurde]
+tags: [maths-expertes, carre-parfait, nombres-premiers, bezout, theoreme-chinois, construction, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

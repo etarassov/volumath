@@ -5,7 +5,7 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [inegalite-triangulaire, fibonacci, absurde, croissance]
+tags: [inegalite-triangulaire, fibonacci, raisonnement-par-l-absurde, croissance]
 adapted_from: null
 see_also: ["0259"]
 same_as: []

@@ -5,7 +5,7 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [orthocentre, cercle-circonscrit, cercle-de-diametre, projection-orthogonale, symetrie-centrale, repere]
+tags: [orthocentre, cercle-circonscrit, cercle-de-diametre, projection-orthogonale, symetrie-centrale, coordonnees]
 adapted_from: null
 see_also: []
 same_as: []

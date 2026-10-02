@@ -5,7 +5,7 @@ grade: 8
 theme: logic-reasoning
 difficulty: 3
 duration_min: 20
-tags: [parite, entiers, produit, somme, raisonnement-par-labsurde]
+tags: [parite, entiers, produit, somme, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

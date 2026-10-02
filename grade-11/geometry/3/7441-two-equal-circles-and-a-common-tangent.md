@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercle, tangente, repere, produit-scalaire, perpendiculaire]
+tags: [cercle, tangente, coordonnees, produit-scalaire, perpendiculaire]
 adapted_from: null
 see_also: []
 same_as: []

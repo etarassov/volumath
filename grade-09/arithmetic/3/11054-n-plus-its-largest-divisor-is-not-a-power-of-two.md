@@ -5,7 +5,7 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [diviseurs, puissances, nombres-premiers, absurde]
+tags: [diviseurs, puissances, nombres-premiers, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

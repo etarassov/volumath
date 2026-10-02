@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercle-circonscrit, tangente, projete-orthogonal, produit-scalaire, repere, perpendicularite]
+tags: [cercle-circonscrit, tangente, projete-orthogonal, produit-scalaire, coordonnees, perpendicularite]
 adapted_from: null
 see_also: []
 same_as: []

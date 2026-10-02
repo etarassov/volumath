@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [quadrillage, pick, triangle-equilateral, irrationnel, raisonnement-par-labsurde]
+tags: [quadrillage, pick, triangle-equilateral, irrationnel, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: ["5601"]
 same_as: []

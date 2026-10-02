@@ -5,7 +5,7 @@ grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [coloriage, distance, absurde, construction, polygone-regulier]
+tags: [coloriage, distance, raisonnement-par-l-absurde, construction, polygone-regulier]
 adapted_from: null
 see_also: []
 same_as: []

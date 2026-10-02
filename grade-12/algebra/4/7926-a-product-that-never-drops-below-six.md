@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [inegalite, moyenne-arithmetico-geometrique, factorisation, cas-d-egalite]
+tags: [inegalite, inegalite-arithmetico-geometrique, factorisation, cas-d-egalite]
 adapted_from: null
 see_also: []
 same_as: []

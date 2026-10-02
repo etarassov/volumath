@@ -5,7 +5,7 @@ grade: 11
 theme: algebra
 difficulty: 5
 duration_min: 60
-tags: [inegalite, somme-telescopique, valeur-absolue, majoration]
+tags: [inegalite, telescopage, valeur-absolue, majoration]
 adapted_from: null
 see_also: []
 same_as: []

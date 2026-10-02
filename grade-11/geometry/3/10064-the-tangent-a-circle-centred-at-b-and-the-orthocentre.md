@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 3
 duration_min: 45
-tags: [orthocentre, tangente, cercle-circonscrit, repere, produit-scalaire, projete-orthogonal, alignement]
+tags: [orthocentre, tangente, cercle-circonscrit, coordonnees, produit-scalaire, projete-orthogonal, alignement]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [grille, denombrement, coloriage, permutations, absurde]
+tags: [grille, denombrement, coloriage, permutations, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

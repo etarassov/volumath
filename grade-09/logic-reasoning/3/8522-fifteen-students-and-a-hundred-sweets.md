@@ -5,7 +5,7 @@ grade: 9
 theme: logic-reasoning
 difficulty: 3
 duration_min: 20
-tags: [principe-des-tiroirs, raisonnement-par-labsurde, somme, entiers-distincts]
+tags: [principe-des-tiroirs, raisonnement-par-l-absurde, somme, entiers-distincts]
 adapted_from: null
 see_also: []
 same_as: ["8628"]

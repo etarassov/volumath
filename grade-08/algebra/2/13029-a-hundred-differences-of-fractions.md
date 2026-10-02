@@ -5,7 +5,7 @@ grade: 8
 theme: algebra
 difficulty: 2
 duration_min: 10
-tags: [fractions, somme-telescopique, calcul]
+tags: [fractions, telescopage, calcul]
 adapted_from: null
 see_also: []
 same_as: []

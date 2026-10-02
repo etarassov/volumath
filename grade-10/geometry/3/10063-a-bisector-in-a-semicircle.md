@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 35
-tags: [demi-cercle, bissectrice, repere, coefficient-directeur, symetrie-axiale, theoreme-de-pythagore]
+tags: [demi-cercle, bissectrice, coordonnees, coefficient-directeur, symetrie-axiale, theoreme-de-pythagore]
 adapted_from: null
 see_also: []
 same_as: []

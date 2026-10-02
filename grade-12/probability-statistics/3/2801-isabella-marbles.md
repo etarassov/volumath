@@ -5,7 +5,7 @@ grade: 12
 theme: probability-statistics
 difficulty: 3
 duration_min: 30
-tags: [probabilite, produit-telescopique, suites, inegalite]
+tags: [probabilite, telescopage, suites, inegalite]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [inegalite, changement-de-variable, moyenne-arithmetique-geometrique, cas-d-egalite]
+tags: [inegalite, changement-de-variable, inegalite-arithmetico-geometrique, cas-d-egalite]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [coloriage, entiers, periodicite, divisibilite, absurde]
+tags: [coloriage, entiers, periodicite, divisibilite, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

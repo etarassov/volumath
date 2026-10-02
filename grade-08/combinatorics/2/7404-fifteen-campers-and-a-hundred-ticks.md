@@ -5,7 +5,7 @@ grade: 8
 theme: combinatorics
 difficulty: 2
 duration_min: 15
-tags: [tiroirs, absurde, somme-des-entiers]
+tags: [tiroirs, raisonnement-par-l-absurde, somme-des-entiers]
 adapted_from: null
 see_also: []
 same_as: []

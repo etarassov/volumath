@@ -5,7 +5,7 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [triangle-isocele, trigonometrie, formules-d-addition, chasse-aux-angles, repere, tangente]
+tags: [triangle-isocele, trigonometrie, formules-d-addition, chasse-aux-angles, coordonnees, tangente]
 adapted_from: null
 see_also: []
 same_as: []

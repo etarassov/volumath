@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercle, angle-inscrit, cocycliques, triangle-isocele, parallelogramme, triangles-egaux]
+tags: [cercle, angle-inscrit, cocyclicite, triangle-isocele, parallelogramme, triangles-egaux]
 adapted_from: null
 see_also: []
 same_as: []

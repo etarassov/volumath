@@ -5,7 +5,7 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [inegalite, racine-carree, moyenne-arithmetique-et-geometrique, inegalite-triangulaire]
+tags: [inegalite, racine-carree, inegalite-arithmetico-geometrique, inegalite-triangulaire]
 adapted_from: null
 see_also: []
 same_as: []

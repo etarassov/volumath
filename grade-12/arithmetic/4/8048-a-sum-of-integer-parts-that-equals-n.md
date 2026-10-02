@@ -5,7 +5,7 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [partie-entiere, division-euclidienne, somme-telescopique, puissances-de-deux]
+tags: [partie-entiere, division-euclidienne, telescopage, puissances-de-deux]
 adapted_from: null
 see_also: []
 same_as: []

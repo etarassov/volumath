@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [cercle-inscrit, bissectrice, mediatrice, angle-inscrit, pole-sud, points-cocycliques]
+tags: [cercle-inscrit, bissectrice, mediatrice, angle-inscrit, pole-sud, cocyclicite]
 adapted_from: null
 see_also: []
 same_as: []

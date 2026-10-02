@@ -5,7 +5,7 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [congruences, cubes, restes, raisonnement-par-labsurde]
+tags: [congruences, cubes, restes, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

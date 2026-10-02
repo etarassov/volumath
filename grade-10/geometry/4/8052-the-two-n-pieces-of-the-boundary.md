@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [polygone-regulier, projete-orthogonal, pythagore, somme-telescopique]
+tags: [polygone-regulier, projete-orthogonal, pythagore, telescopage]
 adapted_from: null
 see_also: []
 same_as: []

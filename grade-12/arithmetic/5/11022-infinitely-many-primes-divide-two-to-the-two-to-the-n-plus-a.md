@@ -5,7 +5,7 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [nombres-premiers, raisonnement-par-labsurde, principe-des-tiroirs, puissances-de-deux, divisibilite]
+tags: [nombres-premiers, raisonnement-par-l-absurde, principe-des-tiroirs, puissances-de-deux, divisibilite]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [amities, graphe, maximum, construction, raisonnement-par-labsurde]
+tags: [amities, graphe, maximum, construction, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

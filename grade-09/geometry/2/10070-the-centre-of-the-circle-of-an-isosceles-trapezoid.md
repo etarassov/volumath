@@ -5,7 +5,7 @@ grade: 9
 theme: geometry
 difficulty: 2
 duration_min: 25
-tags: [trapeze, symetrie-axiale, mediatrice, cercle-circonscrit, angle-au-centre, points-cocycliques]
+tags: [trapeze, symetrie-axiale, mediatrice, cercle-circonscrit, angle-au-centre, cocyclicite]
 adapted_from: null
 see_also: []
 same_as: []

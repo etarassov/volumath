@@ -5,7 +5,7 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [echiquier, raisonnement-par-labsurde, majoration, chemins]
+tags: [echiquier, raisonnement-par-l-absurde, majoration, chemins]
 adapted_from: null
 see_also: []
 same_as: []

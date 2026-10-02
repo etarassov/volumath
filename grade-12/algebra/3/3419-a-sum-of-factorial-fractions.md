@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [factorielle, somme-telescopique, somme, recurrence]
+tags: [factorielle, telescopage, somme, recurrence]
 adapted_from: null
 see_also: []
 same_as: []

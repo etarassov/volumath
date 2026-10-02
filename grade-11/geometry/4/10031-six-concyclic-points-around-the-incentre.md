@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [bissectrice, cercle-inscrit, cercle-circonscrit, points-cocycliques, pythagore, theoreme-de-la-mediane, pole-sud]
+tags: [bissectrice, cercle-inscrit, cercle-circonscrit, cocyclicite, pythagore, theoreme-de-la-mediane, pole-sud]
 adapted_from: null
 see_also: []
 same_as: []

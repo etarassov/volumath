@@ -5,7 +5,7 @@ grade: 10
 theme: combinatorics
 difficulty: 3
 duration_min: 20
-tags: [double-comptage, moyenne, raisonnement-par-labsurde, inegalite]
+tags: [double-comptage, moyenne, raisonnement-par-l-absurde, inegalite]
 adapted_from: null
 see_also: []
 same_as: []

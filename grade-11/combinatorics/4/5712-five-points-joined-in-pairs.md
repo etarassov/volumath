@@ -5,7 +5,7 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [graphe, formule-euler, double-comptage, raisonnement-par-absurde, demonstration]
+tags: [graphe, formule-euler, double-comptage, raisonnement-par-l-absurde, demonstration]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 50
-tags: [angle-inscrit, bissectrice, symetrie, parallelogramme, cercle-circonscrit, repere]
+tags: [angle-inscrit, bissectrice, symetrie, parallelogramme, cercle-circonscrit, coordonnees]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [irrationnel, raisonnement-par-labsurde, racine-carree, nombres-premiers]
+tags: [irrationnel, raisonnement-par-l-absurde, racine-carree, nombres-premiers]
 adapted_from: null
 see_also: []
 same_as: []

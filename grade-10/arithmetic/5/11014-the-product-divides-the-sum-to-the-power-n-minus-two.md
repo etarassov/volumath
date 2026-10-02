@@ -5,7 +5,7 @@ grade: 10
 theme: arithmetic
 difficulty: 5
 duration_min: 45
-tags: [ppcm, divisibilite, decomposition-en-facteurs-premiers, nombres-premiers, raisonnement-par-labsurde]
+tags: [ppcm, divisibilite, decomposition-en-facteurs-premiers, nombres-premiers, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

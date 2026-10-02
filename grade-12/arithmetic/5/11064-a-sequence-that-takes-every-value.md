@@ -5,7 +5,7 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 90
-tags: [suites, petit-theoreme-de-fermat, nombres-premiers, absurde, maths-expertes, congruences]
+tags: [suites, petit-theoreme-de-fermat, nombres-premiers, raisonnement-par-l-absurde, maths-expertes, congruences]
 adapted_from: null
 see_also: []
 same_as: []

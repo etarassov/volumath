@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercle, tangente, geometrie-reperee, coordonnees, equation-de-cercle, produit-scalaire, symetrie, parallelisme]
+tags: [cercle, tangente, coordonnees, equation-de-cercle, produit-scalaire, symetrie, parallelisme]
 adapted_from: null
 see_also: []
 same_as: []

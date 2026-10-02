@@ -5,7 +5,7 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 60
-tags: [echiquier, extremalite, construction, minimum, absurde]
+tags: [echiquier, extremalite, construction, minimum, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

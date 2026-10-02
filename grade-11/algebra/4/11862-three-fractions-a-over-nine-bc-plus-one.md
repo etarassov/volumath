@@ -5,7 +5,7 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [inegalite, lemme-de-titu, moyenne-arithmetique-et-geometrique, fractions]
+tags: [inegalite, lemme-de-titu, inegalite-arithmetico-geometrique, fractions]
 adapted_from: null
 see_also: []
 same_as: []

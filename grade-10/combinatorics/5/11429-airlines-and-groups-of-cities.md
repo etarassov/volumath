@@ -5,7 +5,7 @@ grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 60
-tags: [graphe, coloriage, absurde, double-comptage]
+tags: [graphe, coloriage, raisonnement-par-l-absurde, double-comptage]
 adapted_from: null
 see_also: []
 same_as: []

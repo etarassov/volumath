@@ -5,7 +5,7 @@ grade: 8
 theme: logic-reasoning
 difficulty: 4
 duration_min: 30
-tags: [tournoi, echecs, points, deduction, raisonnement-par-labsurde]
+tags: [tournoi, echecs, points, deduction, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

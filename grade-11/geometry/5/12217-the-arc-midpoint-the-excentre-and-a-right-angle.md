@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercle-circonscrit, cercle-inscrit, cercle-exinscrit, bissectrice, angle-inscrit, produit-scalaire, repere-orthonorme, equation-de-cercle]
+tags: [cercle-circonscrit, cercle-inscrit, cercle-exinscrit, bissectrice, angle-inscrit, produit-scalaire, coordonnees, equation-de-cercle]
 adapted_from: null
 see_also: []
 same_as: []

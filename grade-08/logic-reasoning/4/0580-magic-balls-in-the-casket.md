@@ -5,7 +5,7 @@ grade: 8
 theme: logic-reasoning
 difficulty: 4
 duration_min: 25
-tags: [absurde, denombrement, couleurs, deduction]
+tags: [raisonnement-par-l-absurde, denombrement, couleurs, deduction]
 adapted_from: null
 see_also: []
 same_as: []

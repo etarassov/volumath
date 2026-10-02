@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [espace, tetraedre, pavage, absurde, trigonometrie]
+tags: [espace, tetraedre, pavage, raisonnement-par-l-absurde, trigonometrie]
 adapted_from: null
 see_also: []
 same_as: []

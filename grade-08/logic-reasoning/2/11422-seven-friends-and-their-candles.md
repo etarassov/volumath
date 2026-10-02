@@ -5,7 +5,7 @@ grade: 8
 theme: logic-reasoning
 difficulty: 2
 duration_min: 10
-tags: [tiroirs, absurde, somme]
+tags: [tiroirs, raisonnement-par-l-absurde, somme]
 adapted_from: null
 see_also: []
 same_as: []

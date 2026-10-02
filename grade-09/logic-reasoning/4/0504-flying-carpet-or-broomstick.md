@@ -5,7 +5,7 @@ grade: 9
 theme: logic-reasoning
 difficulty: 4
 duration_min: 30
-tags: [absurde, disjonction-de-cas, reseau, graphe, demonstration]
+tags: [raisonnement-par-l-absurde, disjonction-de-cas, reseau, graphe, demonstration]
 adapted_from: null
 see_also: []
 same_as: ["8118"]

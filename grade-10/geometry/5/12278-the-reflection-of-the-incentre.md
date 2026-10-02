@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 50
-tags: [triangle-isocele, centre-du-cercle-inscrit, bissectrice, symetrie-axiale, triangles-semblables, coordonnees, points-cocycliques]
+tags: [triangle-isocele, centre-du-cercle-inscrit, bissectrice, symetrie-axiale, triangles-semblables, coordonnees, cocyclicite]
 adapted_from: null
 see_also: []
 same_as: []

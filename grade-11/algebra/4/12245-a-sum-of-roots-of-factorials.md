@@ -5,7 +5,7 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [inegalite, factorielle, racine-k-ieme, somme-telescopique, regroupement-de-facteurs]
+tags: [inegalite, factorielle, racine-k-ieme, telescopage, regroupement-de-facteurs]
 adapted_from: null
 see_also: []
 same_as: []

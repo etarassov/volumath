@@ -5,7 +5,7 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [inegalite, moyenne-arithmetico-geometrique, regroupement]
+tags: [inegalite, inegalite-arithmetico-geometrique, regroupement]
 adapted_from: null
 see_also: []
 same_as: []

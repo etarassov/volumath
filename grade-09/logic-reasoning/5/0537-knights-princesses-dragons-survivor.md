@@ -5,7 +5,7 @@ grade: 9
 theme: logic-reasoning
 difficulty: 5
 duration_min: 35
-tags: [parite, absurde, denombrement, invariant]
+tags: [parite, raisonnement-par-l-absurde, denombrement, invariant]
 adapted_from: null
 see_also: []
 same_as: []

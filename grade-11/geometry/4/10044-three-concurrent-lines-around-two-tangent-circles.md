@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [cercles-tangents, tangente, droites-concourantes, repere, equation-de-cercle, produit-scalaire]
+tags: [cercles-tangents, tangente, droites-concourantes, coordonnees, equation-de-cercle, produit-scalaire]
 adapted_from: null
 see_also: []
 same_as: []

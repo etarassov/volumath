@@ -5,7 +5,7 @@ grade: 9
 theme: logic-reasoning
 difficulty: 3
 duration_min: 25
-tags: [logique, menteurs, absurde, alternance]
+tags: [logique, menteurs, raisonnement-par-l-absurde, alternance]
 adapted_from: null
 see_also: []
 same_as: []

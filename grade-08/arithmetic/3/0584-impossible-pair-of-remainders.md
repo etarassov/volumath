@@ -5,7 +5,7 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [division-euclidienne, restes, absurde, multiples]
+tags: [division-euclidienne, restes, raisonnement-par-l-absurde, multiples]
 adapted_from: null
 see_also: []
 same_as: []

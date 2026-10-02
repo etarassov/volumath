@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [bissectrice, bissectrice-exterieure, milieu-d-un-arc, cercle-circonscrit, repere, trigonometrie, triangle-rectangle, points-cocycliques]
+tags: [bissectrice, bissectrice-exterieure, milieu-d-un-arc, cercle-circonscrit, coordonnees, trigonometrie, triangle-rectangle, cocyclicite]
 adapted_from: null
 see_also: []
 same_as: []

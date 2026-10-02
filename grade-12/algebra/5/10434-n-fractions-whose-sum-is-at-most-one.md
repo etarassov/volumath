@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 60
-tags: [inegalite, moyenne-arithmetico-geometrique, raisonnement-par-l-absurde, produit]
+tags: [inegalite, inegalite-arithmetico-geometrique, raisonnement-par-l-absurde, produit]
 adapted_from: null
 see_also: []
 same_as: []

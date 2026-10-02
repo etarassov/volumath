@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 75
-tags: [geometrie-reperee, bissectrice, cercle, puissance-d-un-point, cocyclicite, produit-scalaire]
+tags: [coordonnees, bissectrice, cercle, puissance-d-un-point, cocyclicite, produit-scalaire]
 adapted_from: null
 see_also: []
 same_as: []

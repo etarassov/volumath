@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 75
-tags: [orthocentre, cercle-circonscrit, repere, distance, colinearite, points-cocycliques]
+tags: [orthocentre, cercle-circonscrit, coordonnees, distance, colinearite, cocyclicite]
 adapted_from: null
 see_also: []
 same_as: []

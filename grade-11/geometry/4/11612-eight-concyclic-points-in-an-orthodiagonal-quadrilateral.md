@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [geometrie-reperee, equation-de-cercle, perpendiculaire, somme-et-produit-des-racines, cocyclicite]
+tags: [coordonnees, equation-de-cercle, perpendiculaire, somme-et-produit-des-racines, cocyclicite]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [parite, somme, raisonnement-par-labsurde, permutations]
+tags: [parite, somme, raisonnement-par-l-absurde, permutations]
 adapted_from: null
 see_also: []
 same_as: []

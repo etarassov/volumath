@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [produit-scalaire, projete-orthogonal, puissance-d-un-point, tangente, points-cocycliques, triangle-rectangle]
+tags: [produit-scalaire, projete-orthogonal, puissance-d-un-point, tangente, cocyclicite, triangle-rectangle]
 adapted_from: null
 see_also: []
 same_as: []

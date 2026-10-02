@@ -5,7 +5,7 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [tiroirs, periodicite, absurde, configuration]
+tags: [tiroirs, periodicite, raisonnement-par-l-absurde, configuration]
 adapted_from: null
 see_also: []
 same_as: []

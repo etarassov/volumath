@@ -620,7 +620,7 @@
     "duration_min": 10,
     "tags": [
       "fractions",
-      "somme-telescopique",
+      "telescopage",
       "calcul"
     ],
     "adapted_from": null,
@@ -3060,7 +3060,7 @@
       "divisibilite",
       "multiples",
       "invariant",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -3926,7 +3926,6 @@
     "difficulty": 2,
     "duration_min": 15,
     "tags": [
-      "produit-telescopique",
       "telescopage",
       "fractions",
       "fraction-irreductible"
@@ -5347,7 +5346,7 @@
     "tags": [
       "division-euclidienne",
       "restes",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "multiples"
     ],
     "adapted_from": null,
@@ -8421,7 +8420,7 @@
     "duration_min": 10,
     "tags": [
       "tiroirs",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "comptage"
     ],
     "adapted_from": null,
@@ -9519,7 +9518,7 @@
     "duration_min": 15,
     "tags": [
       "tiroirs",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "somme-des-entiers"
     ],
     "adapted_from": null,
@@ -9614,7 +9613,7 @@
     "tags": [
       "denombrement",
       "triangle",
-      "points-alignes",
+      "alignement",
       "choix",
       "repetition"
     ],
@@ -9879,7 +9878,7 @@
     "difficulty": 3,
     "duration_min": 20,
     "tags": [
-      "absurde",
+      "raisonnement-par-l-absurde",
       "tiroirs",
       "somme",
       "denombrement"
@@ -10041,7 +10040,7 @@
       "coloriage",
       "triangle",
       "tiroirs",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -10073,7 +10072,7 @@
       "pavage",
       "dominos",
       "quadrillage",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -11027,7 +11026,7 @@
     "difficulty": 4,
     "duration_min": 30,
     "tags": [
-      "points-alignes",
+      "alignement",
       "comptage",
       "fenetre-glissante",
       "valeurs-intermediaires",
@@ -11222,7 +11221,7 @@
     "difficulty": 5,
     "duration_min": 35,
     "tags": [
-      "absurde",
+      "raisonnement-par-l-absurde",
       "denombrement",
       "parite",
       "tournoi",
@@ -15582,7 +15581,7 @@
     "duration_min": 10,
     "tags": [
       "tiroirs",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "somme"
     ],
     "adapted_from": null,
@@ -16433,7 +16432,7 @@
       "tableau",
       "somme",
       "double-comptage",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -17267,7 +17266,7 @@
       "entiers",
       "produit",
       "somme",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -18326,7 +18325,7 @@
       "echecs",
       "points",
       "deduction",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -18359,7 +18358,7 @@
       "graphe",
       "chemins",
       "ponts",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -18452,7 +18451,7 @@
     "difficulty": 4,
     "duration_min": 25,
     "tags": [
-      "absurde",
+      "raisonnement-par-l-absurde",
       "denombrement",
       "couleurs",
       "deduction"
@@ -21050,7 +21049,7 @@
     "duration_min": 20,
     "tags": [
       "inegalite",
-      "moyenne-arithmetique-et-geometrique",
+      "inegalite-arithmetico-geometrique",
       "racine-carree",
       "identites-remarquables"
     ],
@@ -21082,7 +21081,7 @@
     "duration_min": 20,
     "tags": [
       "inegalite",
-      "moyenne-arithmetique-et-geometrique",
+      "inegalite-arithmetico-geometrique",
       "identites-remarquables",
       "racine-carree"
     ],
@@ -22008,7 +22007,7 @@
     "tags": [
       "systeme",
       "vitesse",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "fractions"
     ],
     "adapted_from": null,
@@ -22105,7 +22104,7 @@
     "duration_min": 35,
     "tags": [
       "fractions",
-      "somme-telescopique",
+      "telescopage",
       "calcul-litteral",
       "suites"
     ],
@@ -23764,7 +23763,7 @@
     "duration_min": 15,
     "tags": [
       "nombres-decimaux",
-      "raisonnement-par-absurde",
+      "raisonnement-par-l-absurde",
       "divisibilite",
       "criteres"
     ],
@@ -24636,7 +24635,7 @@
       "diviseurs",
       "puissances",
       "nombres-premiers",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -27665,7 +27664,7 @@
     "tags": [
       "parite",
       "somme",
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "permutations"
     ],
     "adapted_from": null,
@@ -27698,7 +27697,7 @@
       "nombre-decimal",
       "divisibilite",
       "critere-par-3",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -28022,7 +28021,7 @@
       "perimetre",
       "aire",
       "decoupage",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -28221,7 +28220,7 @@
       "restes",
       "parite",
       "demonstration",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -28479,7 +28478,7 @@
     "tags": [
       "decomposition-en-facteurs-premiers",
       "monovariant",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -28739,7 +28738,7 @@
       "multiples",
       "fractions",
       "inegalite",
-      "somme-telescopique"
+      "telescopage"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -29282,7 +29281,7 @@
       "parite",
       "carres",
       "restes",
-      "demonstration-par-l-absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -31937,7 +31936,7 @@
       "graphe",
       "parite",
       "comptage",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -31968,7 +31967,7 @@
     "tags": [
       "tiroirs",
       "periodicite",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "configuration"
     ],
     "adapted_from": null,
@@ -35144,7 +35143,7 @@
     "tags": [
       "tiroirs",
       "amities",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "denombrement"
     ],
     "adapted_from": null,
@@ -35633,7 +35632,7 @@
       "dominos",
       "parite",
       "damier",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -36121,7 +36120,7 @@
       "mediatrice",
       "cercle-circonscrit",
       "angle-au-centre",
-      "points-cocycliques"
+      "cocyclicite"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -38066,7 +38065,7 @@
       "triangle-rectangle",
       "triangle-isocele",
       "symetrie-centrale",
-      "points-cocycliques"
+      "cocyclicite"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -39740,7 +39739,7 @@
       "triangle-isocele",
       "symetrie-axiale",
       "mediatrice",
-      "points-cocycliques",
+      "cocyclicite",
       "angle-inscrit",
       "chasse-aux-angles"
     ],
@@ -41591,7 +41590,7 @@
     "tags": [
       "parite",
       "denombrement",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -41656,7 +41655,7 @@
     "tags": [
       "logique",
       "menteurs",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "alternance"
     ],
     "adapted_from": null,
@@ -42456,7 +42455,7 @@
     "duration_min": 20,
     "tags": [
       "principe-des-tiroirs",
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "somme",
       "entiers-distincts"
     ],
@@ -43071,7 +43070,7 @@
     "difficulty": 4,
     "duration_min": 35,
     "tags": [
-      "absurde",
+      "raisonnement-par-l-absurde",
       "somme",
       "regroupement",
       "contre-exemple",
@@ -43104,7 +43103,7 @@
     "difficulty": 4,
     "duration_min": 30,
     "tags": [
-      "absurde",
+      "raisonnement-par-l-absurde",
       "disjonction-de-cas",
       "reseau",
       "graphe",
@@ -43173,7 +43172,7 @@
     "tags": [
       "parite",
       "denombrement",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "tournoi"
     ],
     "adapted_from": null,
@@ -43466,7 +43465,7 @@
     "tags": [
       "monovariant",
       "somme",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "inegalite",
       "demonstration"
     ],
@@ -44209,7 +44208,7 @@
     "duration_min": 35,
     "tags": [
       "parite",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "denombrement",
       "invariant"
     ],
@@ -45510,7 +45509,7 @@
     "duration_min": 30,
     "tags": [
       "inegalite",
-      "moyenne-arithmetique-geometrique",
+      "inegalite-arithmetico-geometrique",
       "racine-carree",
       "cas-d-egalite"
     ],
@@ -45977,7 +45976,7 @@
     "tags": [
       "systeme",
       "inegalite",
-      "moyenne-arithmetique-et-geometrique",
+      "inegalite-arithmetico-geometrique",
       "racine-carree",
       "cas-d-egalite"
     ],
@@ -46041,7 +46040,7 @@
     "duration_min": 25,
     "tags": [
       "inegalite",
-      "moyenne-arithmetique-et-geometrique",
+      "inegalite-arithmetico-geometrique",
       "valeur-absolue"
     ],
     "adapted_from": null,
@@ -47946,7 +47945,7 @@
     "duration_min": 25,
     "tags": [
       "inegalite",
-      "moyenne-arithmetico-geometrique",
+      "inegalite-arithmetico-geometrique",
       "regroupement"
     ],
     "adapted_from": null,
@@ -48266,7 +48265,7 @@
     "tags": [
       "inegalite",
       "racine-carree",
-      "moyenne-arithmetico-geometrique",
+      "inegalite-arithmetico-geometrique",
       "cas-d-egalite"
     ],
     "adapted_from": null,
@@ -48393,7 +48392,7 @@
     "tags": [
       "inegalite",
       "changement-de-variable",
-      "moyenne-arithmetique-geometrique",
+      "inegalite-arithmetico-geometrique",
       "cas-d-egalite"
     ],
     "adapted_from": null,
@@ -48869,7 +48868,7 @@
     "tags": [
       "inegalite",
       "racine-carree",
-      "moyenne-arithmetique-et-geometrique",
+      "inegalite-arithmetico-geometrique",
       "inegalite-triangulaire"
     ],
     "adapted_from": null,
@@ -48999,7 +48998,7 @@
     "tags": [
       "inegalite",
       "racine-carree",
-      "moyenne-arithmetique-et-geometrique",
+      "inegalite-arithmetico-geometrique",
       "regroupement",
       "fractions"
     ],
@@ -50041,7 +50040,7 @@
       "parite",
       "systeme",
       "somme",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [
@@ -51593,7 +51592,7 @@
       "rationnels",
       "fraction-irreductible",
       "nombres-premiers",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -51658,7 +51657,7 @@
       "restes",
       "puissances",
       "parite",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -53307,7 +53306,7 @@
     "tags": [
       "inegalite-triangulaire",
       "fibonacci",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "croissance"
     ],
     "adapted_from": null,
@@ -53374,7 +53373,7 @@
       "permutations",
       "parite",
       "somme",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -53790,7 +53789,7 @@
       "irrationnel",
       "racine-carree",
       "aire",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -54728,7 +54727,7 @@
       "invariant",
       "multiples",
       "divisibilite",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -54760,7 +54759,7 @@
       "divisibilite",
       "criteres-de-divisibilite",
       "double-comptage",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -54894,7 +54893,7 @@
       "divisibilite",
       "restes",
       "parite",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -55387,7 +55386,7 @@
       "congruences",
       "cubes",
       "restes",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -55486,7 +55485,7 @@
       "puissances",
       "factorielle",
       "construction",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -55648,7 +55647,7 @@
       "nombre-de-diviseurs",
       "nombres-premiers",
       "equation-fonctionnelle",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -57972,7 +57971,7 @@
       "permutations",
       "parite",
       "somme",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -59313,7 +59312,7 @@
     "duration_min": 30,
     "tags": [
       "irrationnel",
-      "raisonnement-par-absurde",
+      "raisonnement-par-l-absurde",
       "identites-remarquables",
       "nombres-premiers"
     ],
@@ -59544,7 +59543,7 @@
       "divisibilite",
       "decomposition-en-facteurs-premiers",
       "nombres-premiers",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -61218,7 +61217,7 @@
       "double-comptage",
       "tiroirs",
       "denombrement",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "demonstration"
     ],
     "adapted_from": null,
@@ -61835,7 +61834,7 @@
     "tags": [
       "denombrement",
       "coefficients-binomiaux",
-      "points-alignes",
+      "alignement",
       "soustraction"
     ],
     "adapted_from": null,
@@ -61899,7 +61898,7 @@
     "tags": [
       "double-comptage",
       "moyenne",
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "inegalite"
     ],
     "adapted_from": null,
@@ -61962,7 +61961,7 @@
     "duration_min": 30,
     "tags": [
       "echiquier",
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "majoration",
       "chemins"
     ],
@@ -62261,7 +62260,7 @@
       "entiers",
       "periodicite",
       "divisibilite",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -62457,7 +62456,7 @@
       "denombrement",
       "coloriage",
       "permutations",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -65170,7 +65169,7 @@
       "graphe",
       "maximum",
       "construction",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -65201,7 +65200,7 @@
     "tags": [
       "principe-de-lextremum",
       "tournoi",
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "maximum"
     ],
     "adapted_from": null,
@@ -65365,7 +65364,7 @@
       "principe-des-tiroirs",
       "parite",
       "double-comptage",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [
@@ -65565,7 +65564,7 @@
     "tags": [
       "coloriage",
       "distance",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "construction",
       "polygone-regulier"
     ],
@@ -65697,7 +65696,7 @@
     "tags": [
       "graphe",
       "coloriage",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "double-comptage"
     ],
     "adapted_from": null,
@@ -67488,7 +67487,7 @@
       "cercle-circonscrit",
       "angle-inscrit",
       "triangles-semblables",
-      "points-cocycliques",
+      "cocyclicite",
       "loi-des-sinus"
     ],
     "adapted_from": null,
@@ -67593,7 +67592,7 @@
     "duration_min": 40,
     "tags": [
       "angle-inscrit",
-      "points-cocycliques",
+      "cocyclicite",
       "quadrilatere-convexe",
       "chasse-aux-angles",
       "angle-exterieur"
@@ -67627,7 +67626,7 @@
     "tags": [
       "demi-cercle",
       "bissectrice",
-      "repere",
+      "coordonnees",
       "coefficient-directeur",
       "symetrie-axiale",
       "theoreme-de-pythagore"
@@ -67661,7 +67660,7 @@
     "tags": [
       "tangente",
       "cercle-circonscrit",
-      "repere",
+      "coordonnees",
       "theoreme-de-pythagore",
       "colinearite",
       "determinant",
@@ -67696,7 +67695,7 @@
     "tags": [
       "cercles-secants",
       "mediatrice",
-      "repere",
+      "coordonnees",
       "distance",
       "alignement",
       "cercle-circonscrit"
@@ -68473,7 +68472,7 @@
     "tags": [
       "cercle",
       "angle-inscrit",
-      "cocycliques",
+      "cocyclicite",
       "triangle-isocele",
       "parallelogramme",
       "triangles-egaux"
@@ -68573,7 +68572,7 @@
     "tags": [
       "milieu",
       "parallelisme",
-      "repere",
+      "coordonnees",
       "vecteurs",
       "tangente"
     ],
@@ -70265,7 +70264,7 @@
     "duration_min": 25,
     "tags": [
       "inegalite-triangulaire",
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "encadrement",
       "fibonacci"
     ],
@@ -70567,7 +70566,7 @@
     "tags": [
       "quadrilatere-inscrit",
       "angle-inscrit",
-      "points-cocycliques",
+      "cocyclicite",
       "droites-paralleles",
       "chasse-aux-angles"
     ],
@@ -70601,7 +70600,7 @@
       "cercle",
       "tangente",
       "pythagore",
-      "repere",
+      "coordonnees",
       "reciproque-de-pythagore",
       "triangle-rectangle"
     ],
@@ -70637,7 +70636,7 @@
       "mediatrice",
       "angle-inscrit",
       "pole-sud",
-      "points-cocycliques"
+      "cocyclicite"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -70668,10 +70667,10 @@
     "tags": [
       "orthocentre",
       "cercle-circonscrit",
-      "repere",
+      "coordonnees",
       "distance",
       "colinearite",
-      "points-cocycliques"
+      "cocyclicite"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -70706,7 +70705,7 @@
       "tangente",
       "triangle-isocele",
       "alignement",
-      "points-cocycliques",
+      "cocyclicite",
       "chasse-aux-angles"
     ],
     "adapted_from": null,
@@ -70740,10 +70739,10 @@
       "bissectrice-exterieure",
       "milieu-d-un-arc",
       "cercle-circonscrit",
-      "repere",
+      "coordonnees",
       "trigonometrie",
       "triangle-rectangle",
-      "points-cocycliques"
+      "cocyclicite"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -70909,7 +70908,6 @@
       "mediatrice",
       "point-fixe",
       "parallelogramme",
-      "repere",
       "coordonnees"
     ],
     "adapted_from": null,
@@ -71421,7 +71419,7 @@
       "triangle-equilateral",
       "cercle-circonscrit",
       "angle-inscrit",
-      "points-cocycliques",
+      "cocyclicite",
       "parallelisme",
       "alignement"
     ],
@@ -71653,7 +71651,7 @@
     "duration_min": 50,
     "tags": [
       "cercle",
-      "points-cocycliques",
+      "cocyclicite",
       "vecteurs",
       "puissance-d-un-point",
       "pythagore",
@@ -72232,7 +72230,6 @@
       "tangente",
       "milieu",
       "symetrie",
-      "repere",
       "coordonnees",
       "cercle-circonscrit",
       "triangles-semblables"
@@ -72335,7 +72332,7 @@
       "cercle",
       "mediatrice",
       "raisonnement-par-l-absurde",
-      "points-cocycliques"
+      "cocyclicite"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -72470,7 +72467,7 @@
       "triangles-semblables",
       "angles",
       "droites-concourantes",
-      "repere"
+      "coordonnees"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -72969,7 +72966,7 @@
       "pick",
       "triangle-equilateral",
       "irrationnel",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [
@@ -73599,7 +73596,7 @@
     "duration_min": 40,
     "tags": [
       "cercle",
-      "points-cocycliques",
+      "cocyclicite",
       "angle-inscrit",
       "chasse-aux-angles",
       "droites-paralleles"
@@ -73932,7 +73929,7 @@
       "polygone-regulier",
       "projete-orthogonal",
       "pythagore",
-      "somme-telescopique"
+      "telescopage"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -74823,7 +74820,7 @@
       "symetrie-axiale",
       "triangles-semblables",
       "coordonnees",
-      "points-cocycliques"
+      "cocyclicite"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -75131,7 +75128,7 @@
       "symetrie",
       "parallelogramme",
       "cercle-circonscrit",
-      "repere"
+      "coordonnees"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -75165,7 +75162,7 @@
       "milieu",
       "droite-des-milieux",
       "angle-droit",
-      "repere"
+      "coordonnees"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -75397,7 +75394,7 @@
     "tags": [
       "coloriage-du-plan",
       "triangle-rectangle",
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "perpendiculaire"
     ],
     "adapted_from": null,
@@ -75528,7 +75525,7 @@
       "parite",
       "nombres-premiers",
       "carre-magique",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -75725,7 +75722,7 @@
       "invariant",
       "somme",
       "tableau",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -75854,7 +75851,7 @@
     "difficulty": 4,
     "duration_min": 20,
     "tags": [
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "parite",
       "aire",
       "perimetre",
@@ -79300,7 +79297,7 @@
       "second-degre",
       "discriminant",
       "somme-de-carres",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -79941,7 +79938,7 @@
     "duration_min": 25,
     "tags": [
       "inegalite",
-      "moyenne-arithmetico-geometrique",
+      "inegalite-arithmetico-geometrique",
       "substitution",
       "cas-d-egalite"
     ],
@@ -80290,7 +80287,7 @@
     "duration_min": 30,
     "tags": [
       "inegalite",
-      "moyenne-arithmetique-geometrique",
+      "inegalite-arithmetico-geometrique",
       "changement-de-variable"
     ],
     "adapted_from": null,
@@ -80416,7 +80413,7 @@
     "duration_min": 25,
     "tags": [
       "inegalite",
-      "moyenne-arithmetique-geometrique",
+      "inegalite-arithmetico-geometrique",
       "majoration-terme-a-terme"
     ],
     "adapted_from": null,
@@ -81152,7 +81149,7 @@
     "duration_min": 35,
     "tags": [
       "suites",
-      "somme-telescopique",
+      "telescopage",
       "somme-de-carres"
     ],
     "adapted_from": null,
@@ -81412,7 +81409,7 @@
     "tags": [
       "inegalite",
       "lemme-de-titu",
-      "moyenne-arithmetique-et-geometrique",
+      "inegalite-arithmetico-geometrique",
       "fractions"
     ],
     "adapted_from": null,
@@ -81444,7 +81441,7 @@
     "tags": [
       "inegalite",
       "somme",
-      "somme-telescopique",
+      "telescopage",
       "suite-croissante",
       "minoration"
     ],
@@ -81577,7 +81574,7 @@
       "inegalite",
       "factorielle",
       "racine-k-ieme",
-      "somme-telescopique",
+      "telescopage",
       "regroupement-de-facteurs"
     ],
     "adapted_from": null,
@@ -82062,7 +82059,7 @@
       "second-degre",
       "parite",
       "racine-rationnelle",
-      "demonstration-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -83120,7 +83117,7 @@
     "tags": [
       "invariant",
       "factorisation",
-      "produit-telescopique",
+      "telescopage",
       "suite-doperations"
     ],
     "adapted_from": null,
@@ -83275,7 +83272,7 @@
     "duration_min": 40,
     "tags": [
       "inegalite",
-      "iag",
+      "inegalite-arithmetico-geometrique",
       "cas-d-egalite",
       "changement-de-variable"
     ],
@@ -83467,7 +83464,7 @@
     "duration_min": 35,
     "tags": [
       "inegalite",
-      "moyenne-arithmetique-geometrique",
+      "inegalite-arithmetico-geometrique",
       "factorisation",
       "changement-de-variable"
     ],
@@ -83627,7 +83624,7 @@
     "duration_min": 60,
     "tags": [
       "inegalite",
-      "somme-telescopique",
+      "telescopage",
       "valeur-absolue",
       "majoration"
     ],
@@ -84873,7 +84870,7 @@
     "tags": [
       "suites",
       "permutations",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "puissances",
       "inegalite"
     ],
@@ -85375,7 +85372,7 @@
       "suites",
       "inegalite",
       "divisibilite",
-      "produit-telescopique"
+      "telescopage"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -86935,7 +86932,7 @@
     "duration_min": 35,
     "tags": [
       "irrationnel",
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "racine-carree",
       "nombres-premiers"
     ],
@@ -87001,7 +86998,7 @@
       "nombres-premiers",
       "factorisation",
       "puissances-de-deux",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [
@@ -88806,7 +88803,7 @@
     "duration_min": 45,
     "tags": [
       "nombres-premiers",
-      "raisonnement-par-absurde",
+      "raisonnement-par-l-absurde",
       "division-euclidienne",
       "euclide"
     ],
@@ -89165,7 +89162,7 @@
       "denombrement",
       "chemins",
       "bijection",
-      "repere",
+      "coordonnees",
       "puissances"
     ],
     "adapted_from": null,
@@ -89845,7 +89842,7 @@
     "tags": [
       "double-comptage",
       "partie-entiere",
-      "points-a-coordonnees-entieres",
+      "coordonnees-entieres",
       "somme"
     ],
     "adapted_from": null,
@@ -90351,7 +90348,7 @@
       "graphe",
       "formule-euler",
       "double-comptage",
-      "raisonnement-par-absurde",
+      "raisonnement-par-l-absurde",
       "demonstration"
     ],
     "adapted_from": null,
@@ -91390,7 +91387,7 @@
       "parite",
       "grille",
       "diagonales",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -91522,7 +91519,7 @@
       "extremalite",
       "construction",
       "minimum",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -91856,7 +91853,7 @@
       "enveloppe-convexe",
       "triangulation",
       "coloriage",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -92317,7 +92314,7 @@
     "tags": [
       "tableau",
       "principe-extremal",
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "denombrement-double",
       "ordre"
     ],
@@ -92945,7 +92942,7 @@
       "parite",
       "graphe",
       "amities",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -92978,7 +92975,7 @@
       "aire",
       "droites-paralleles",
       "majoration",
-      "points-alignes"
+      "alignement"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -93200,7 +93197,7 @@
     "tags": [
       "fonctions",
       "parite",
-      "demonstration-par-labsurde",
+      "raisonnement-par-l-absurde",
       "contre-exemple"
     ],
     "adapted_from": null,
@@ -93906,7 +93903,7 @@
     "tags": [
       "produit-scalaire",
       "equation-de-cercle",
-      "repere",
+      "coordonnees",
       "hauteur",
       "paralleles"
     ],
@@ -94005,7 +94002,7 @@
     "tags": [
       "triangles-semblables",
       "hauteur",
-      "repere",
+      "coordonnees",
       "produit-scalaire",
       "mediatrice",
       "distance"
@@ -94073,7 +94070,7 @@
       "orthocentre",
       "tangente",
       "cercle-circonscrit",
-      "repere",
+      "coordonnees",
       "produit-scalaire",
       "projete-orthogonal",
       "alignement"
@@ -94178,7 +94175,7 @@
       "tangente",
       "projete-orthogonal",
       "produit-scalaire",
-      "repere",
+      "coordonnees",
       "perpendicularite"
     ],
     "adapted_from": null,
@@ -94439,7 +94436,7 @@
     "tags": [
       "cercle",
       "tangente",
-      "repere",
+      "coordonnees",
       "produit-scalaire",
       "perpendiculaire"
     ],
@@ -94873,7 +94870,7 @@
       "bissectrice",
       "cercle-inscrit",
       "cercle-circonscrit",
-      "points-cocycliques",
+      "cocyclicite",
       "pythagore",
       "theoreme-de-la-mediane",
       "pole-sud"
@@ -94909,7 +94906,7 @@
       "produit-scalaire",
       "puissance-d-un-point",
       "axe-radical",
-      "points-cocycliques"
+      "cocyclicite"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -94941,7 +94938,7 @@
       "cercles-tangents",
       "tangente",
       "droites-concourantes",
-      "repere",
+      "coordonnees",
       "equation-de-cercle",
       "produit-scalaire"
     ],
@@ -94975,7 +94972,7 @@
       "tangente",
       "cercle",
       "point-fixe",
-      "repere",
+      "coordonnees",
       "produit-scalaire",
       "projete-orthogonal",
       "second-degre",
@@ -95012,7 +95009,7 @@
     "tags": [
       "cercle-inscrit",
       "tangente",
-      "repere",
+      "coordonnees",
       "produit-scalaire",
       "colinearite",
       "perpendiculaire"
@@ -95083,7 +95080,7 @@
       "tangente",
       "cercle",
       "produit-scalaire",
-      "repere",
+      "coordonnees",
       "bissectrice",
       "systeme-lineaire"
     ],
@@ -95427,7 +95424,7 @@
       "espace",
       "tetraedre",
       "pavage",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "trigonometrie"
     ],
     "adapted_from": null,
@@ -95457,7 +95454,7 @@
     "difficulty": 4,
     "duration_min": 50,
     "tags": [
-      "geometrie-reperee",
+      "coordonnees",
       "equation-de-cercle",
       "perpendiculaire",
       "somme-et-produit-des-racines",
@@ -95670,7 +95667,7 @@
       "projete-orthogonal",
       "puissance-d-un-point",
       "tangente",
-      "points-cocycliques",
+      "cocyclicite",
       "triangle-rectangle"
     ],
     "adapted_from": null,
@@ -95741,7 +95738,7 @@
       "projete-orthogonal",
       "orthocentre",
       "cercle-circonscrit",
-      "points-cocycliques",
+      "cocyclicite",
       "puissance-d-un-point"
     ],
     "adapted_from": null,
@@ -96805,7 +96802,7 @@
       "orthocentre",
       "centre-du-cercle-circonscrit",
       "centre-du-cercle-inscrit",
-      "points-cocycliques"
+      "cocyclicite"
     ],
     "adapted_from": null,
     "see_also": [
@@ -97161,7 +97158,7 @@
     "tags": [
       "principe-de-lextremum",
       "milieu",
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "ensemble-infini"
     ],
     "adapted_from": null,
@@ -97196,7 +97193,7 @@
       "cercle",
       "angle-inscrit",
       "tangente",
-      "points-cocycliques",
+      "cocyclicite",
       "hauteur"
     ],
     "adapted_from": null,
@@ -97229,9 +97226,9 @@
       "cercle-circonscrit",
       "bissectrice",
       "milieu-d-un-arc",
-      "points-cocycliques",
+      "cocyclicite",
       "equation-de-cercle",
-      "repere",
+      "coordonnees",
       "somme-et-produit-des-racines"
     ],
     "adapted_from": null,
@@ -97788,7 +97785,7 @@
     "difficulty": 5,
     "duration_min": 75,
     "tags": [
-      "geometrie-reperee",
+      "coordonnees",
       "bissectrice",
       "cercle",
       "puissance-d-un-point",
@@ -98308,7 +98305,7 @@
       "bissectrice",
       "angle-inscrit",
       "produit-scalaire",
-      "repere-orthonorme",
+      "coordonnees",
       "equation-de-cercle"
     ],
     "adapted_from": null,
@@ -98339,7 +98336,7 @@
     "duration_min": 75,
     "tags": [
       "geometrie-analytique",
-      "repere",
+      "coordonnees",
       "equation-de-cercle",
       "bissectrice",
       "cercle-circonscrit",
@@ -98447,7 +98444,7 @@
       "cercle-circonscrit",
       "mediane",
       "thales",
-      "repere"
+      "coordonnees"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -98478,7 +98475,6 @@
     "tags": [
       "cercle",
       "tangente",
-      "geometrie-reperee",
       "coordonnees",
       "equation-de-cercle",
       "produit-scalaire",
@@ -98653,7 +98649,7 @@
       "mediane",
       "cercle-circonscrit",
       "aire",
-      "repere",
+      "coordonnees",
       "produit-scalaire",
       "inegalite-triangulaire"
     ],
@@ -98820,7 +98816,7 @@
     "tags": [
       "parallelogramme",
       "angles",
-      "points-cocycliques",
+      "cocyclicite",
       "angle-inscrit",
       "construction-auxiliaire"
     ],
@@ -99178,7 +99174,7 @@
       "invariant",
       "signes-alternes",
       "cercle",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -100931,7 +100927,7 @@
     "duration_min": 25,
     "tags": [
       "factorielle",
-      "somme-telescopique",
+      "telescopage",
       "somme",
       "recurrence"
     ],
@@ -101738,7 +101734,7 @@
       "inegalite",
       "suites",
       "recurrence",
-      "somme-telescopique",
+      "telescopage",
       "inverse"
     ],
     "adapted_from": null,
@@ -102160,7 +102156,7 @@
     "difficulty": 4,
     "duration_min": 40,
     "tags": [
-      "produit-telescopique",
+      "telescopage",
       "factorisation",
       "limite",
       "suites"
@@ -102579,7 +102575,7 @@
     "duration_min": 35,
     "tags": [
       "inegalite",
-      "moyenne-arithmetico-geometrique",
+      "inegalite-arithmetico-geometrique",
       "somme-cyclique",
       "factorisation"
     ],
@@ -102610,7 +102606,7 @@
     "duration_min": 35,
     "tags": [
       "inegalite",
-      "moyenne-arithmetico-geometrique",
+      "inegalite-arithmetico-geometrique",
       "factorisation",
       "cas-d-egalite"
     ],
@@ -102995,7 +102991,7 @@
     "duration_min": 50,
     "tags": [
       "inegalite",
-      "moyenne-arithmetico-geometrique",
+      "inegalite-arithmetico-geometrique",
       "logarithme",
       "exponentielle"
     ],
@@ -103091,7 +103087,7 @@
     "duration_min": 60,
     "tags": [
       "inegalite",
-      "moyenne-arithmetico-geometrique",
+      "inegalite-arithmetico-geometrique",
       "raisonnement-par-l-absurde",
       "produit"
     ],
@@ -103672,7 +103668,7 @@
     "duration_min": 60,
     "tags": [
       "inegalite",
-      "moyenne-arithmetique-geometrique",
+      "inegalite-arithmetico-geometrique",
       "exponentielle",
       "somme-cyclique",
       "logarithme"
@@ -104309,7 +104305,7 @@
       "exponentielle",
       "logarithme",
       "changement-de-variable",
-      "produit-telescopique"
+      "telescopage"
     ],
     "adapted_from": null,
     "see_also": [
@@ -104725,7 +104721,7 @@
     "tags": [
       "partie-entiere",
       "encadrement",
-      "somme-telescopique",
+      "telescopage",
       "maximum-et-minimum"
     ],
     "adapted_from": null,
@@ -105398,7 +105394,7 @@
       "nombres-premiers",
       "valuation-p-adique",
       "divisibilite",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -106964,7 +106960,7 @@
     "tags": [
       "partie-entiere",
       "division-euclidienne",
-      "somme-telescopique",
+      "telescopage",
       "puissances-de-deux"
     ],
     "adapted_from": null,
@@ -107725,7 +107721,7 @@
     "duration_min": 60,
     "tags": [
       "nombres-premiers",
-      "raisonnement-par-labsurde",
+      "raisonnement-par-l-absurde",
       "principe-des-tiroirs",
       "puissances-de-deux",
       "divisibilite"
@@ -107763,7 +107759,7 @@
       "bezout",
       "theoreme-chinois",
       "construction",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -107795,7 +107791,7 @@
       "polynome",
       "facteurs-premiers",
       "tiroirs",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "equation-fonctionnelle"
     ],
     "adapted_from": null,
@@ -107829,7 +107825,7 @@
       "nombres-premiers",
       "suites",
       "valuation",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -107896,7 +107892,7 @@
       "suites",
       "petit-theoreme-de-fermat",
       "nombres-premiers",
-      "absurde",
+      "raisonnement-par-l-absurde",
       "maths-expertes",
       "congruences"
     ],
@@ -112885,7 +112881,7 @@
       "points-et-droites",
       "somme",
       "signe",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -114248,7 +114244,7 @@
       "polaire",
       "droites-concourantes",
       "produit-scalaire",
-      "repere"
+      "coordonnees"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -114281,7 +114277,7 @@
       "trigonometrie",
       "formules-d-addition",
       "chasse-aux-angles",
-      "repere",
+      "coordonnees",
       "tangente"
     ],
     "adapted_from": null,
@@ -114350,7 +114346,7 @@
       "nombres-complexes",
       "triangles-semblables",
       "alignement",
-      "repere",
+      "coordonnees",
       "produit-scalaire",
       "determinant",
       "droz-farny",
@@ -114388,7 +114384,7 @@
       "maths-expertes",
       "nombres-complexes",
       "cercle",
-      "points-cocycliques",
+      "cocyclicite",
       "projete-orthogonal",
       "bissectrice",
       "symetrie-axiale",
@@ -115231,7 +115227,7 @@
       "cercle-de-diametre",
       "projection-orthogonale",
       "symetrie-centrale",
-      "repere"
+      "coordonnees"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -116541,7 +116537,7 @@
     "duration_min": 30,
     "tags": [
       "probabilite",
-      "produit-telescopique",
+      "telescopage",
       "suites",
       "inegalite"
     ],
@@ -116771,7 +116767,7 @@
       "probabilite",
       "symetrie",
       "denombrement",
-      "raisonnement-par-labsurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],

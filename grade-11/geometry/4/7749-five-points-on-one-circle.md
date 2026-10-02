@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [angle-inscrit, orthocentre, centre-du-cercle-circonscrit, centre-du-cercle-inscrit, points-cocycliques]
+tags: [angle-inscrit, orthocentre, centre-du-cercle-circonscrit, centre-du-cercle-inscrit, cocyclicite]
 adapted_from: null
 see_also: ["10047"]
 same_as: []

@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 50
-tags: [partie-entiere, encadrement, somme-telescopique, maximum-et-minimum]
+tags: [partie-entiere, encadrement, telescopage, maximum-et-minimum]
 adapted_from: null
 see_also: []
 same_as: []

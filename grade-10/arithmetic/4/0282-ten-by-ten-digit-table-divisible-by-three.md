@@ -5,7 +5,7 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [divisibilite, criteres-de-divisibilite, double-comptage, raisonnement-par-labsurde]
+tags: [divisibilite, criteres-de-divisibilite, double-comptage, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

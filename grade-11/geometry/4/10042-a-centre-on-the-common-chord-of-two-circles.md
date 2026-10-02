@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [cercle, produit-scalaire, puissance-d-un-point, axe-radical, points-cocycliques]
+tags: [cercle, produit-scalaire, puissance-d-un-point, axe-radical, cocyclicite]
 adapted_from: null
 see_also: []
 same_as: []

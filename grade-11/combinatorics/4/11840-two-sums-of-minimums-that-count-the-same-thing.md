@@ -5,7 +5,7 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [double-comptage, partie-entiere, points-a-coordonnees-entieres, somme]
+tags: [double-comptage, partie-entiere, coordonnees-entieres, somme]
 adapted_from: null
 see_also: []
 same_as: []

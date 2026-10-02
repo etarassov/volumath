@@ -5,7 +5,7 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [invariant, multiples, divisibilite, raisonnement-par-labsurde]
+tags: [invariant, multiples, divisibilite, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

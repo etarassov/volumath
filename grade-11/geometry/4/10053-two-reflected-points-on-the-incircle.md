@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [cercle-inscrit, tangente, repere, produit-scalaire, colinearite, perpendiculaire]
+tags: [cercle-inscrit, tangente, coordonnees, produit-scalaire, colinearite, perpendiculaire]
 adapted_from: null
 see_also: []
 same_as: []

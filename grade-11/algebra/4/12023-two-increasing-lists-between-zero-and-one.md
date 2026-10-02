@@ -5,7 +5,7 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 45
-tags: [inegalite, somme, somme-telescopique, suite-croissante, minoration]
+tags: [inegalite, somme, telescopage, suite-croissante, minoration]
 adapted_from: null
 see_also: []
 same_as: []

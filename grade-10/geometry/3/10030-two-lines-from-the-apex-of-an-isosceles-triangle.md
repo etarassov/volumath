@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 35
-tags: [triangle-isocele, cercle-circonscrit, angle-inscrit, triangles-semblables, points-cocycliques, loi-des-sinus]
+tags: [triangle-isocele, cercle-circonscrit, angle-inscrit, triangles-semblables, cocyclicite, loi-des-sinus]
 adapted_from: null
 see_also: []
 same_as: []

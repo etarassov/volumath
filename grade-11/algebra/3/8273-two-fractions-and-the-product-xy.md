@@ -5,7 +5,7 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [inegalite, moyenne-arithmetique-geometrique, majoration-terme-a-terme]
+tags: [inegalite, inegalite-arithmetico-geometrique, majoration-terme-a-terme]
 adapted_from: null
 see_also: []
 same_as: []

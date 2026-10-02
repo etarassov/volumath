@@ -5,7 +5,7 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [suites, permutations, absurde, puissances, inegalite]
+tags: [suites, permutations, raisonnement-par-l-absurde, puissances, inegalite]
 adapted_from: null
 see_also: []
 same_as: []

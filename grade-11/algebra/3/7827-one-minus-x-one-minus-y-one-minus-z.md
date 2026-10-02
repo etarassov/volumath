@@ -5,7 +5,7 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [inegalite, moyenne-arithmetico-geometrique, substitution, cas-d-egalite]
+tags: [inegalite, inegalite-arithmetico-geometrique, substitution, cas-d-egalite]
 adapted_from: null
 see_also: []
 same_as: []

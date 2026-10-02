@@ -5,7 +5,7 @@ grade: 11
 theme: arithmetic
 difficulty: 5
 duration_min: 45
-tags: [nombres-premiers, raisonnement-par-absurde, division-euclidienne, euclide]
+tags: [nombres-premiers, raisonnement-par-l-absurde, division-euclidienne, euclide]
 adapted_from: null
 see_also: []
 same_as: []

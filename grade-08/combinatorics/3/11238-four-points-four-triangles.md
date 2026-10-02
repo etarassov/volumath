@@ -5,7 +5,7 @@ grade: 8
 theme: combinatorics
 difficulty: 3
 duration_min: 15
-tags: [coloriage, triangle, tiroirs, absurde]
+tags: [coloriage, triangle, tiroirs, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 10
 theme: logic-reasoning
 difficulty: 3
 duration_min: 25
-tags: [parite, nombres-premiers, carre-magique, raisonnement-par-labsurde]
+tags: [parite, nombres-premiers, carre-magique, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

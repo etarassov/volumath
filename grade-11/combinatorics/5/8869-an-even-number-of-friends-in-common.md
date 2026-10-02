@@ -5,7 +5,7 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 40
-tags: [double-comptage, parite, graphe, amities, raisonnement-par-labsurde]
+tags: [double-comptage, parite, graphe, amities, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

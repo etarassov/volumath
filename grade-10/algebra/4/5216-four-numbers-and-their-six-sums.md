@@ -5,7 +5,7 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [parite, systeme, somme, raisonnement-par-labsurde]
+tags: [parite, systeme, somme, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: ["7923"]
 same_as: []

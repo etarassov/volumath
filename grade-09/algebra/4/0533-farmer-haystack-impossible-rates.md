@@ -5,7 +5,7 @@ grade: 9
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [systeme, vitesse, absurde, fractions]
+tags: [systeme, vitesse, raisonnement-par-l-absurde, fractions]
 adapted_from: null
 see_also: []
 same_as: []

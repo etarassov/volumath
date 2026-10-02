@@ -5,7 +5,7 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [factorielle, nombres-premiers, suites, valuation, absurde]
+tags: [factorielle, nombres-premiers, suites, valuation, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

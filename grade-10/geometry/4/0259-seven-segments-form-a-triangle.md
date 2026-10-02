@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 25
-tags: [inegalite-triangulaire, raisonnement-par-labsurde, encadrement, fibonacci]
+tags: [inegalite-triangulaire, raisonnement-par-l-absurde, encadrement, fibonacci]
 adapted_from: null
 created: 2026-09-18
 see_also: ["7427"]

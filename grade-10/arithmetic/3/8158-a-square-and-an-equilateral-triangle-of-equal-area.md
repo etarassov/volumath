@@ -5,7 +5,7 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [irrationnel, racine-carree, aire, raisonnement-par-labsurde]
+tags: [irrationnel, racine-carree, aire, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

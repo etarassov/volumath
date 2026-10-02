@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [inegalite, suites, recurrence, somme-telescopique, inverse]
+tags: [inegalite, suites, recurrence, telescopage, inverse]
 adapted_from: null
 see_also: []
 same_as: []

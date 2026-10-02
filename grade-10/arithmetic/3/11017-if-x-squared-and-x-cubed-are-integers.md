@@ -5,7 +5,7 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [rationnels, fraction-irreductible, nombres-premiers, raisonnement-par-labsurde]
+tags: [rationnels, fraction-irreductible, nombres-premiers, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

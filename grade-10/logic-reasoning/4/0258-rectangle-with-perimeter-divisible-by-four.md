@@ -5,7 +5,7 @@ grade: 10
 theme: logic-reasoning
 difficulty: 4
 duration_min: 20
-tags: [raisonnement-par-labsurde, parite, aire, perimetre, decoupage]
+tags: [raisonnement-par-l-absurde, parite, aire, perimetre, decoupage]
 adapted_from: null
 see_also: []
 same_as: []

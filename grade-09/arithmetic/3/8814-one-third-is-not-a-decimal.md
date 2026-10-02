@@ -5,7 +5,7 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [nombre-decimal, divisibilite, critere-par-3, raisonnement-par-labsurde]
+tags: [nombre-decimal, divisibilite, critere-par-3, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [cercle, points-cocycliques, angle-inscrit, chasse-aux-angles, droites-paralleles]
+tags: [cercle, cocyclicite, angle-inscrit, chasse-aux-angles, droites-paralleles]
 adapted_from: null
 see_also: []
 same_as: ["7823"]

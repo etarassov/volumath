@@ -5,7 +5,7 @@ grade: 9
 theme: logic-reasoning
 difficulty: 4
 duration_min: 25
-tags: [parite, denombrement, absurde, tournoi]
+tags: [parite, denombrement, raisonnement-par-l-absurde, tournoi]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 60
-tags: [lieu-geometrique, tangente, cercle, produit-scalaire, repere, bissectrice, systeme-lineaire]
+tags: [lieu-geometrique, tangente, cercle, produit-scalaire, coordonnees, bissectrice, systeme-lineaire]
 adapted_from: null
 see_also: []
 same_as: []

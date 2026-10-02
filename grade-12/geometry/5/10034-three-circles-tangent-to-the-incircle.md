@@ -5,7 +5,7 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercle-inscrit, puissance-d-un-point, axe-radical, polaire, droites-concourantes, produit-scalaire, repere]
+tags: [cercle-inscrit, puissance-d-un-point, axe-radical, polaire, droites-concourantes, produit-scalaire, coordonnees]
 adapted_from: null
 see_also: []
 same_as: []

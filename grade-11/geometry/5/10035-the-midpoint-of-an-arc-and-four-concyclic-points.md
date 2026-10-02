@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 50
-tags: [cercle-circonscrit, bissectrice, milieu-d-un-arc, points-cocycliques, equation-de-cercle, repere, somme-et-produit-des-racines]
+tags: [cercle-circonscrit, bissectrice, milieu-d-un-arc, cocyclicite, equation-de-cercle, coordonnees, somme-et-produit-des-racines]
 adapted_from: null
 see_also: []
 same_as: []

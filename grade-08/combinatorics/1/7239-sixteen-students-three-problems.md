@@ -5,7 +5,7 @@ grade: 8
 theme: combinatorics
 difficulty: 1
 duration_min: 10
-tags: [tiroirs, absurde, comptage]
+tags: [tiroirs, raisonnement-par-l-absurde, comptage]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 25
-tags: [tiroirs, amities, absurde, denombrement]
+tags: [tiroirs, amities, raisonnement-par-l-absurde, denombrement]
 adapted_from: null
 see_also: []
 same_as: []

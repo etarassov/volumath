@@ -5,7 +5,7 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercle, triangle-rectangle, triangle-isocele, symetrie-centrale, points-cocycliques]
+tags: [cercle, triangle-rectangle, triangle-isocele, symetrie-centrale, cocyclicite]
 adapted_from: null
 see_also: []
 same_as: []

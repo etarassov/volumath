@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [inegalite, moyenne-arithmetico-geometrique, somme-cyclique, factorisation]
+tags: [inegalite, inegalite-arithmetico-geometrique, somme-cyclique, factorisation]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 40
-tags: [angle-inscrit, points-cocycliques, quadrilatere-convexe, chasse-aux-angles, angle-exterieur]
+tags: [angle-inscrit, cocyclicite, quadrilatere-convexe, chasse-aux-angles, angle-exterieur]
 adapted_from: null
 see_also: []
 same_as: []

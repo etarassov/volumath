@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 40
-tags: [cercles-secants, mediatrice, repere, distance, alignement, cercle-circonscrit]
+tags: [cercles-secants, mediatrice, coordonnees, distance, alignement, cercle-circonscrit]
 adapted_from: null
 see_also: ["8743"]
 same_as: []

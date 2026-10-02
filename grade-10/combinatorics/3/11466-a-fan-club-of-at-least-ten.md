@@ -5,7 +5,7 @@ grade: 10
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [double-comptage, tiroirs, denombrement, absurde, demonstration]
+tags: [double-comptage, tiroirs, denombrement, raisonnement-par-l-absurde, demonstration]
 adapted_from: null
 see_also: []
 same_as: []

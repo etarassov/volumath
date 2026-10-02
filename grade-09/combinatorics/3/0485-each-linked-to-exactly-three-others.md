@@ -5,7 +5,7 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [graphe, parite, comptage, absurde]
+tags: [graphe, parite, comptage, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

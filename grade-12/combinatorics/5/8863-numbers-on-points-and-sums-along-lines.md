@@ -5,7 +5,7 @@ grade: 12
 theme: combinatorics
 difficulty: 5
 duration_min: 40
-tags: [double-comptage, points-et-droites, somme, signe, raisonnement-par-labsurde]
+tags: [double-comptage, points-et-droites, somme, signe, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

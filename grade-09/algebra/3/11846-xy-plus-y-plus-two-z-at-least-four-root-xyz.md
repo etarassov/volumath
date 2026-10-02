@@ -5,7 +5,7 @@ grade: 9
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [inegalite, moyenne-arithmetique-et-geometrique, racine-carree, identites-remarquables]
+tags: [inegalite, inegalite-arithmetico-geometrique, racine-carree, identites-remarquables]
 adapted_from: null
 see_also: []
 same_as: []

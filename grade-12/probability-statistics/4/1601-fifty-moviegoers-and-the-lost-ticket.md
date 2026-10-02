@@ -5,7 +5,7 @@ grade: 12
 theme: probability-statistics
 difficulty: 4
 duration_min: 30
-tags: [probabilite, symetrie, denombrement, raisonnement-par-labsurde]
+tags: [probabilite, symetrie, denombrement, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

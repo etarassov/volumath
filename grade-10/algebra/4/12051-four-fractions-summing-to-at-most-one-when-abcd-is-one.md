@@ -5,7 +5,7 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [inegalite, racine-carree, moyenne-arithmetique-et-geometrique, regroupement, fractions]
+tags: [inegalite, racine-carree, inegalite-arithmetico-geometrique, regroupement, fractions]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 90
-tags: [maths-expertes, nombres-complexes, cercle, points-cocycliques, projete-orthogonal, bissectrice, symetrie-axiale, hauteur]
+tags: [maths-expertes, nombres-complexes, cercle, cocyclicite, projete-orthogonal, bissectrice, symetrie-axiale, hauteur]
 adapted_from: null
 see_also: []
 same_as: []

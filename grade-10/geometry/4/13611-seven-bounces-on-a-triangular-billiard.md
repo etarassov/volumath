@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [billard, triangle-equilateral, triangles-semblables, angles, droites-concourantes, repere]
+tags: [billard, triangle-equilateral, triangles-semblables, angles, droites-concourantes, coordonnees]
 adapted_from: null
 see_also: []
 same_as: []

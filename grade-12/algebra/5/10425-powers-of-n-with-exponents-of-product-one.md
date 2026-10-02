@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 50
-tags: [inegalite, moyenne-arithmetico-geometrique, logarithme, exponentielle]
+tags: [inegalite, inegalite-arithmetico-geometrique, logarithme, exponentielle]
 adapted_from: null
 see_also: []
 same_as: []

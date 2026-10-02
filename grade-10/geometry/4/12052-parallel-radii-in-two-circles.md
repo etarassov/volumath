@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [cercle, points-cocycliques, vecteurs, puissance-d-un-point, pythagore, mediatrice, disjonction-de-cas]
+tags: [cercle, cocyclicite, vecteurs, puissance-d-un-point, pythagore, mediatrice, disjonction-de-cas]
 adapted_from: null
 see_also: []
 same_as: []

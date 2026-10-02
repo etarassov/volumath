@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [cercle, tangente, milieu, symetrie, repere, coordonnees, cercle-circonscrit, triangles-semblables]
+tags: [cercle, tangente, milieu, symetrie, coordonnees, cercle-circonscrit, triangles-semblables]
 adapted_from: null
 see_also: []
 same_as: []

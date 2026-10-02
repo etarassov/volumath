@@ -5,7 +5,7 @@ grade: 8
 theme: logic-reasoning
 difficulty: 4
 duration_min: 35
-tags: [parite, graphe, chemins, ponts, raisonnement-par-labsurde]
+tags: [parite, graphe, chemins, ponts, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

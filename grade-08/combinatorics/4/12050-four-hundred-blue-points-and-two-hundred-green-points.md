@@ -5,7 +5,7 @@ grade: 8
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [points-alignes, comptage, fenetre-glissante, valeurs-intermediaires, variation-de-un]
+tags: [alignement, comptage, fenetre-glissante, valeurs-intermediaires, variation-de-un]
 adapted_from: null
 see_also: []
 same_as: []

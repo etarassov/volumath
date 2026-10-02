@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [triangle-equilateral, cercle-circonscrit, angle-inscrit, points-cocycliques, parallelisme, alignement]
+tags: [triangle-equilateral, cercle-circonscrit, angle-inscrit, cocyclicite, parallelisme, alignement]
 adapted_from: null
 see_also: []
 same_as: []

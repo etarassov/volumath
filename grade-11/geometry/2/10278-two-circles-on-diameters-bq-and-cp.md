@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 2
 duration_min: 20
-tags: [produit-scalaire, equation-de-cercle, repere, hauteur, paralleles]
+tags: [produit-scalaire, equation-de-cercle, coordonnees, hauteur, paralleles]
 adapted_from: null
 see_also: []
 same_as: []

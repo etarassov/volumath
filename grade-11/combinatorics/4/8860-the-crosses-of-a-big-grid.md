@@ -5,7 +5,7 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [double-comptage, parite, grille, diagonales, raisonnement-par-labsurde]
+tags: [double-comptage, parite, grille, diagonales, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

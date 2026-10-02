@@ -5,7 +5,7 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [nombres-premiers, factorisation, puissances-de-deux, raisonnement-par-labsurde]
+tags: [nombres-premiers, factorisation, puissances-de-deux, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: ["8324"]
 same_as: []

@@ -5,7 +5,7 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [principe-de-lextremum, tournoi, raisonnement-par-labsurde, maximum]
+tags: [principe-de-lextremum, tournoi, raisonnement-par-l-absurde, maximum]
 adapted_from: null
 see_also: []
 same_as: []

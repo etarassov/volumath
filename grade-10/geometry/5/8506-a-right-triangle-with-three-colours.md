@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [coloriage-du-plan, triangle-rectangle, raisonnement-par-labsurde, perpendiculaire]
+tags: [coloriage-du-plan, triangle-rectangle, raisonnement-par-l-absurde, perpendiculaire]
 adapted_from: null
 see_also: []
 same_as: []

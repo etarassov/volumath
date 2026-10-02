@@ -5,7 +5,7 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 50
-tags: [parallelogramme, angles, points-cocycliques, angle-inscrit, construction-auxiliaire]
+tags: [parallelogramme, angles, cocyclicite, angle-inscrit, construction-auxiliaire]
 adapted_from: null
 see_also: []
 same_as: []

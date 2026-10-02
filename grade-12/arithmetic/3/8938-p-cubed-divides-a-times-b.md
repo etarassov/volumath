@@ -5,7 +5,7 @@ grade: 12
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [nombres-premiers, valuation-p-adique, divisibilite, raisonnement-par-labsurde]
+tags: [nombres-premiers, valuation-p-adique, divisibilite, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []

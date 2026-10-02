@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 60
-tags: [inegalite, moyenne-arithmetique-geometrique, exponentielle, somme-cyclique, logarithme]
+tags: [inegalite, inegalite-arithmetico-geometrique, exponentielle, somme-cyclique, logarithme]
 adapted_from: null
 see_also: []
 same_as: []

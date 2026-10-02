@@ -5,7 +5,7 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [irrationnel, raisonnement-par-absurde, identites-remarquables, nombres-premiers]
+tags: [irrationnel, raisonnement-par-l-absurde, identites-remarquables, nombres-premiers]
 adapted_from: null
 see_also: []
 same_as: []

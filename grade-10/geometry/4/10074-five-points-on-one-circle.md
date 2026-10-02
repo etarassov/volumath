@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 60
-tags: [cercles-secants, tangente-commune, angle-inscrit, tangente, triangle-isocele, alignement, points-cocycliques, chasse-aux-angles]
+tags: [cercles-secants, tangente-commune, angle-inscrit, tangente, triangle-isocele, alignement, cocyclicite, chasse-aux-angles]
 adapted_from: null
 see_also: []
 same_as: []

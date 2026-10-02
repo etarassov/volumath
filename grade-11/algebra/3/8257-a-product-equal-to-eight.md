@@ -5,7 +5,7 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [inegalite, moyenne-arithmetique-geometrique, changement-de-variable]
+tags: [inegalite, inegalite-arithmetico-geometrique, changement-de-variable]
 adapted_from: null
 see_also: []
 same_as: []

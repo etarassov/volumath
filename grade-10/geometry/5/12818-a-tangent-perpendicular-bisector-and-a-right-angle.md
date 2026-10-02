@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 50
-tags: [tangente, mediatrice, symetrie, milieu, droite-des-milieux, angle-droit, repere]
+tags: [tangente, mediatrice, symetrie, milieu, droite-des-milieux, angle-droit, coordonnees]
 adapted_from: null
 see_also: []
 same_as: []

@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [milieu, parallelisme, repere, vecteurs, tangente]
+tags: [milieu, parallelisme, coordonnees, vecteurs, tangente]
 adapted_from: null
 see_also: []
 same_as: []

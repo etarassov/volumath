@@ -5,7 +5,7 @@ grade: 11
 theme: logic-reasoning
 difficulty: 4
 duration_min: 40
-tags: [invariant, signes-alternes, cercle, raisonnement-par-labsurde]
+tags: [invariant, signes-alternes, cercle, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: []
