@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 40
 tags: [strategie, principe-des-tiroirs, denombrement, chiffres]
 adapted_from: null
-see_also: []
+see_also: ["13631"]
 same_as: []
 created: 2026-09-20
 source:
@@ -78,6 +78,4 @@ Quel que soit le code secret, ces six essais suffisent.
 
 Peut-on faire mieux ? Non : **$6$ est le nombre minimal d'essais**. Autrement dit, quels que soient les $5$ essais qu'on décide de composer, il existe toujours un code secret que ces $5$ essais n'ouvrent pas.
 
-La démonstration est nettement plus difficile que la question traitée ici, et c'était la seconde partie de l'exercice d'origine. En voici seulement l'idée : on range les $5$ essais dans un tableau de $5$ lignes et $7$ colonnes, puis on construit chiffre par chiffre un code $x_1 x_2 \ldots x_7$ en évitant à chaque place les chiffres déjà utilisés dans la colonne correspondante. Le point délicat est que ce procédé naïf risque de bloquer aux dernières places, et qu'il faut choisir les deux premiers chiffres avec soin pour que cela n'arrive pas.
-
-Une erreur fréquente chez les candidats : croire qu'il suffit d'exhiber $5$ essais et un code que ces $5$ essais n'ouvrent pas pour prouver que $5$ essais ne suffisent pas. Cela prouve seulement que *ces* $5$ essais-là sont mauvais, pas qu'aucun jeu de $5$ essais ne marche.
+C'était la seconde partie de l'exercice d'origine. La démonstration est nettement plus difficile que la question traitée ici : elle fait l'objet de l'exercice 13631.

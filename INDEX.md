@@ -2,7 +2,7 @@
 
 Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 
-3605 exercice(s).
+3606 exercice(s).
 
 ## 4e
 
@@ -884,6 +884,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●● | 5008 | Le numéro à neuf chiffres | [md](grade-09/arithmetic/5/5008-the-nine-digit-number.md) |
 | ●●●●● | 7604 | Le plus petit dénominateur possible de la somme | [md](grade-09/arithmetic/5/7604-smallest-denominator-of-the-sum.md) |
 | ●●●●● | 8024 | On ajoute son plus grand chiffre | [md](grade-09/arithmetic/5/8024-adding-the-largest-digit.md) |
+| ●●●●● | 12244 | 2005 solutions de 1/x + 1/y = 1/n | [md](grade-09/arithmetic/5/12244-two-thousand-and-five-solutions-of-one-over-x-plus-one-over-y.md) |
 | ●●●●● | 12801 | Le premier chiffre des puissances de 2 | [md](grade-09/arithmetic/5/12801-the-first-digit-of-the-powers-of-two.md) |
 | ●●●●● | 12803 | Le plus petit entier nippon | [md](grade-09/arithmetic/5/12803-the-smallest-nippon-integer.md) |
 | ●●●●● | 12808 | Le produit des sommes de deux nombres premiers | [md](grade-09/arithmetic/5/12808-the-product-of-sums-of-two-primes.md) |
@@ -1166,6 +1167,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●● | 8045 | L'angle BPC dans un triangle isocèle à 80° | [md](grade-09/geometry/5/8045-the-angle-bpc-in-an-eighty-degree-triangle.md) |
 | ●●●●● | 10235 | Le milieu de [AB] est le centre du cercle MNK | [md](grade-09/geometry/5/10235-the-midpoint-of-ab-is-the-centre-of-circle-mnk.md) |
 | ●●●●● | 12802 | Un parallélogramme, un centre de gravité et une bissectrice | [md](grade-09/geometry/5/12802-a-parallelogram-a-centroid-and-a-bisector.md) |
+| ●●●●● | 12813 | Trois parallélogrammes et deux cercles concentriques | [md](grade-09/geometry/5/12813-three-parallelograms-and-two-concentric-circles.md) |
 | ●●●●● | 12823 | Deux bissectrices qui se coupent sur (XD) | [md](grade-09/geometry/5/12823-two-bisectors-meeting-on-the-line-xd.md) |
 
 ### Fonctions et analyse
@@ -1331,7 +1333,6 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 13612 | Deux nouveaux voisins à chaque dîner | [md](grade-09/combinatorics/4/13612-two-new-neighbours-at-every-dinner.md) |
 | ●●●●○ | 13621 | Des numéros de téléphone à l'abri des erreurs | [md](grade-09/combinatorics/4/13621-phone-numbers-safe-from-one-wrong-digit.md) |
 | ●●●●● | 12476 | Alice et les routes à sens unique | [md](grade-09/combinatorics/5/12476-alice-and-the-one-way-roads.md) |
-| ●●●●● | 12814 | Le jardinier et le pivert | [md](grade-09/combinatorics/5/12814-the-gardener-and-the-woodpecker.md) |
 | ●●●●● | 12822 | Les 200 boîtes d'Alice | [md](grade-09/combinatorics/5/12822-alices-two-hundred-boxes.md) |
 | ●●●●● | 13277 | Aucune différence n'est un nombre premier | [md](grade-09/combinatorics/5/13277-no-difference-is-a-prime-number.md) |
 | ●●●●● | 13453 | Une grille où ligne et colonne ont la même somme | [md](grade-09/combinatorics/5/13453-a-grid-where-row-and-column-sums-agree.md) |
@@ -1444,6 +1445,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●● | 3822 | Treize enfants autour de la table | [md](grade-09/logic-reasoning/5/3822-thirteen-children-around-the-table.md) |
 | ●●●●● | 4618 | La file de chapeaux | [md](grade-09/logic-reasoning/5/4618-the-line-of-hats.md) |
 | ●●●●● | 7321 | Vingt enfants et leurs grands-pères | [md](grade-09/logic-reasoning/5/7321-twenty-children-and-their-grandfathers.md) |
+| ●●●●● | 12814 | Le jardinier et le pivert | [md](grade-09/logic-reasoning/5/12814-the-gardener-and-the-woodpecker.md) |
 
 ### Coloriage
 
@@ -1509,6 +1511,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 7067 | Deux fractions à examiner | [md](grade-10/arithmetic/3/7067-two-fractions-to-test.md) |
 | ●●●○○ | 7124 | Une fraction en étage qui vaut 10/7 | [md](grade-10/arithmetic/3/7124-a-stacked-fraction-equal-to-ten-sevenths.md) |
 | ●●●○○ | 7250 | Vingt-six nombres entre 2 et 100 | [md](grade-10/arithmetic/3/7250-twenty-six-numbers-not-coprime.md) |
+| ●●●○○ | 7322 | Cent cartes et trois additions fausses | [md](grade-10/arithmetic/3/7322-one-hundred-cards-and-two-wrong-sums.md) |
 | ●●●○○ | 7323 | 7 divise-t-il 2222⁵⁵⁵⁵ + 5555²²²² ? | [md](grade-10/arithmetic/3/7323-does-seven-divide-this-enormous-sum.md) |
 | ●●●○○ | 7330 | La somme des chiffres de 9A | [md](grade-10/arithmetic/3/7330-the-digit-sum-of-nine-times-a.md) |
 | ●●●○○ | 7331 | Ce nombre à dix chiffres est-il premier ? | [md](grade-10/arithmetic/3/7331-is-this-ten-digit-number-prime.md) |
@@ -1624,7 +1627,6 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 7038 | La racine carrée d'un entier | [md](grade-10/arithmetic/4/7038-the-square-root-of-an-integer.md) |
 | ●●●●○ | 7043 | Un paquet dont la somme tombe juste | [md](grade-10/arithmetic/4/7043-a-subset-whose-sum-is-divisible.md) |
 | ●●●●○ | 7083 | Quand 7ⁿ + 8 est un carré parfait | [md](grade-10/arithmetic/4/7083-when-seven-to-the-n-plus-eight-is-a-square.md) |
-| ●●●●○ | 7322 | Cent cartes et trois additions fausses | [md](grade-10/arithmetic/4/7322-one-hundred-cards-and-two-wrong-sums.md) |
 | ●●●●○ | 7324 | 11¹⁰⁰ − 1 se termine par trois zéros | [md](grade-10/arithmetic/4/7324-eleven-to-the-hundred-minus-one.md) |
 | ●●●●○ | 7325 | n! n'est jamais divisible par 2ⁿ | [md](grade-10/arithmetic/4/7325-n-factorial-is-never-divisible-by-two-to-the-n.md) |
 | ●●●●○ | 7434 | Les distances |aᵢ − i| peuvent-elles être toutes différentes ? | [md](grade-10/arithmetic/4/7434-the-distances-from-a-permutation.md) |
@@ -2219,7 +2221,6 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●● | 12621 | Deux bissectrices et une perpendiculaire | [md](grade-10/geometry/5/12621-two-bisectors-and-a-perpendicular.md) |
 | ●●●●● | 12639 | Deux droites qui se coupent sur le cercle circonscrit | [md](grade-10/geometry/5/12639-two-lines-meeting-on-the-circumcircle.md) |
 | ●●●●● | 12661 | Un parallélogramme, deux cercles et trois droites concourantes | [md](grade-10/geometry/5/12661-a-parallelogram-two-circles-and-three-concurrent-lines.md) |
-| ●●●●● | 12813 | Trois parallélogrammes et deux cercles concentriques | [md](grade-10/geometry/5/12813-three-parallelograms-and-two-concentric-circles.md) |
 | ●●●●● | 12818 | Une médiatrice tangente et un angle droit | [md](grade-10/geometry/5/12818-a-tangent-perpendicular-bisector-and-a-right-angle.md) |
 | ●●●●● | 12848 | Un pentagone avec deux angles droits | [md](grade-10/geometry/5/12848-a-pentagon-with-two-right-angles.md) |
 | ●●●●● | 12890 | Deux médiatrices qui se coupent sur le cercle | [md](grade-10/geometry/5/12890-two-perpendicular-bisectors-meeting-on-the-circle.md) |
@@ -2423,11 +2424,11 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●● | 12471 | Atteindre chaque intervalle [r, r + 2] avec des nombres de somme 2n | [md](grade-10/combinatorics/5/12471-reaching-every-interval-r-to-r-plus-two.md) |
 | ●●●●● | 12634 | Le plus grand poids d'une permutation | [md](grade-10/combinatorics/5/12634-largest-weight-of-a-permutation.md) |
 | ●●●●● | 12652 | Des ensembles n-équilibrés | [md](grade-10/combinatorics/5/12652-sets-with-exactly-n-balanced-partitions.md) |
-| ●●●●● | 12834 | Effacer des nombres qui partagent un diviseur | [md](grade-10/combinatorics/5/12834-erasing-numbers-that-share-a-divisor.md) |
 | ●●●●● | 12849 | Des sommes avec des signes qui ne s'annulent jamais | [md](grade-10/combinatorics/5/12849-signed-sums-that-never-vanish.md) |
 | ●●●●● | 12856 | Jetons mauves et jetons bleus sur une grille | [md](grade-10/combinatorics/5/12856-purple-and-blue-tokens-on-a-grid.md) |
 | ●●●●● | 12896 | Coefficients entre −2 et 2 qui annulent une somme | [md](grade-10/combinatorics/5/12896-coefficients-between-minus-two-and-two-cancelling-a-sum.md) |
 | ●●●●● | 13283 | Trente points de trois couleurs et leur deuxième voisin | [md](grade-10/combinatorics/5/13283-thirty-points-and-their-second-nearest-neighbour.md) |
+| ●●●●● | 13631 | Cinq essais ne suffisent pas | [md](grade-10/combinatorics/5/13631-five-tries-are-not-enough.md) |
 | ●●●●● | 13872 | Des espions pour retrouver un carré | [md](grade-10/combinatorics/5/13872-spies-to-find-a-square-in-a-big-grid.md) |
 
 ### Logique et raisonnement
@@ -2513,6 +2514,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●● | 11449 | Le collier magique | [md](grade-10/logic-reasoning/5/11449-the-magic-necklace.md) |
 | ●●●●● | 11473 | Des lutins alignés sur le réseau triangulaire | [md](grade-10/logic-reasoning/5/11473-elves-in-a-row-on-the-triangular-lattice.md) |
 | ●●●●● | 11618 | Le jeu des jetons qui avancent vers la case 0 | [md](grade-10/logic-reasoning/5/11618-tokens-moving-towards-square-zero.md) |
+| ●●●●● | 12834 | Effacer des nombres qui partagent un diviseur | [md](grade-10/logic-reasoning/5/12834-erasing-numbers-that-share-a-divisor.md) |
 | ●●●●● | 13259 | Une mouche et des araignées sur un quadrillage | [md](grade-10/logic-reasoning/5/13259-a-fly-and-spiders-on-a-grid.md) |
 | ●●●●● | 13627 | n points sur un cercle de périmètre n | [md](grade-10/logic-reasoning/5/13627-n-points-on-a-circle-of-perimeter-n.md) |
 
@@ -2656,7 +2658,6 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●○ | 12027 | k nombres jamais premiers entre eux, k + 1 toujours | [md](grade-11/arithmetic/4/12027-k-numbers-never-coprime-k-plus-one-always.md) |
 | ●●●●○ | 12041 | Une seule façon de couper ℤ en trois | [md](grade-11/arithmetic/4/12041-only-one-way-to-split-the-integers-into-three.md) |
 | ●●●●○ | 12240 | Quand (5ᵐ + 2ⁿp)/(5ᵐ − 2ⁿp) est un carré | [md](grade-11/arithmetic/4/12240-when-five-to-the-m-plus-two-to-the-n-times-p-ratio-is-a-square.md) |
-| ●●●●○ | 12244 | 2005 solutions de 1/x + 1/y = 1/n | [md](grade-11/arithmetic/4/12244-two-thousand-and-five-solutions-of-one-over-x-plus-one-over-y.md) |
 | ●●●●○ | 12401 | Deux nombres premiers et une puissance de leur différence | [md](grade-11/arithmetic/4/12401-two-primes-and-a-power-of-their-difference.md) |
 | ●●●●○ | 12617 | Les chiffres 1 de n(2ⁿ − 1) en base 2 | [md](grade-11/arithmetic/4/12617-the-ones-of-n-times-two-to-the-n-minus-one-in-base-two.md) |
 | ●●●●○ | 12641 | Des diviseurs dont les sommes successives sont des carrés | [md](grade-11/arithmetic/4/12641-divisors-whose-running-sums-are-squares.md) |
@@ -3000,6 +3001,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●● | 10035 | Le milieu d'un arc et quatre points cocycliques | [md](grade-11/geometry/5/10035-the-midpoint-of-an-arc-and-four-concyclic-points.md) |
 | ●●●●● | 10043 | Quatre cercles inscrits qui ont un point commun | [md](grade-11/geometry/5/10043-four-incircles-with-a-common-point.md) |
 | ●●●●● | 10051 | Un point à égale distance de A et du pied de la hauteur | [md](grade-11/geometry/5/10051-a-point-equidistant-from-a-and-the-foot-of-the-altitude.md) |
+| ●●●●● | 10052 | Un cercle tangent à deux côtés et au cercle circonscrit | [md](grade-11/geometry/5/10052-a-circle-tangent-to-two-sides-and-to-the-circumcircle.md) |
 | ●●●●● | 10054 | Le centre du cercle circonscrit à DPQ | [md](grade-11/geometry/5/10054-the-centre-of-the-circle-through-d-p-q.md) |
 | ●●●●● | 10208 | Deux parallèles, deux tangentes, une troisième tangente | [md](grade-11/geometry/5/10208-two-parallels-and-a-third-tangent.md) |
 | ●●●●● | 10211 | L'orthocentre qui tombe sur le cercle circonscrit | [md](grade-11/geometry/5/10211-the-orthocentre-that-lands-on-the-circumcircle.md) |
@@ -3602,7 +3604,6 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●●● | 10027 | Un quadrilatère circonscrit et ses lignes médianes | [md](grade-12/geometry/5/10027-a-tangential-quadrilateral-and-its-bimedians.md) |
 | ●●●●● | 10034 | Trois cercles tangents au cercle inscrit et trois droites concourantes | [md](grade-12/geometry/5/10034-three-circles-tangent-to-the-incircle.md) |
 | ●●●●● | 10036 | Un triangle isocèle caché | [md](grade-12/geometry/5/10036-a-hidden-isosceles-triangle.md) |
-| ●●●●● | 10052 | Un cercle tangent à deux côtés et au cercle circonscrit | [md](grade-12/geometry/5/10052-a-circle-tangent-to-two-sides-and-to-the-circumcircle.md) |
 | ●●●●● | 10060 | Deux perpendiculaires par l'orthocentre et trois triangles semblables | [md](grade-12/geometry/5/10060-two-perpendiculars-through-the-orthocentre-and-three-similar-triangles.md) |
 | ●●●●● | 10069 | Deux droites symétriques par rapport à la bissectrice | [md](grade-12/geometry/5/10069-two-lines-symmetric-about-the-bisector.md) |
 | ●●●●● | 10077 | Le centre du cercle inscrit sur la droite (KL) | [md](grade-12/geometry/5/10077-the-incentre-on-line-kl.md) |

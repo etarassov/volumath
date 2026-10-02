@@ -2,7 +2,7 @@
 id: "12814"
 title: "Le jardinier et le pivert"
 grade: 9
-theme: combinatorics
+theme: logic-reasoning
 difficulty: 5
 duration_min: 50
 tags: [jeu, strategie, grille, coloriage, majoration, minoration]

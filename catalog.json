@@ -29775,7 +29775,8 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "7856"
+      "7856",
+      "12244"
     ],
     "same_as": [],
     "created": "2026-09-20",
@@ -30154,6 +30155,42 @@
       "local_copy": "sources/originals/clublyon/Inégalités.pdf"
     },
     "path": "grade-09/arithmetic/5/0690-five-digit-number-and-its-reverse.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12244",
+    "title": "2005 solutions de 1/x + 1/y = 1/n",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 5,
+    "duration_min": 35,
+    "tags": [
+      "equation-diophantienne",
+      "diviseurs",
+      "nombre-de-diviseurs",
+      "decomposition-en-facteurs-premiers",
+      "carre-parfait",
+      "factorisation"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "7452"
+    ],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de février 2016, junior",
+      "reference": "2017-10_ofm-2015-2016-test-fevrier-junior.pdf, test du 26 février 2016, exercice 4 ; corrigé 2017-10_ofm-2015-2016-test-fevrier-junior-corrige.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-fevrier-junior.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-fevrier-junior.pdf"
+    },
+    "path": "grade-09/arithmetic/5/12244-two-thousand-and-five-solutions-of-one-over-x-plus-one-over-y.md",
     "sections": [
       "Going further",
       "Hints",
@@ -35721,39 +35758,6 @@
     ]
   },
   {
-    "id": "12814",
-    "title": "Le jardinier et le pivert",
-    "grade": 9,
-    "theme": "combinatorics",
-    "difficulty": 5,
-    "duration_min": 50,
-    "tags": [
-      "jeu",
-      "strategie",
-      "grille",
-      "coloriage",
-      "majoration",
-      "minoration"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection de février 2023",
-      "reference": "2023-09_Enonce-Test-3.pdf, test junior, exercice 4, et test EGMO, exercice 8 (le même énoncé) ; corrigé 2023-09_Corrige-Test-3.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-3.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-3.pdf"
-    },
-    "path": "grade-09/combinatorics/5/12814-the-gardener-and-the-woodpecker.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "12822",
     "title": "Les 200 boîtes d'Alice",
     "grade": 9,
@@ -40905,6 +40909,40 @@
     ]
   },
   {
+    "id": "12813",
+    "title": "Trois parallélogrammes et deux cercles concentriques",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 5,
+    "duration_min": 50,
+    "tags": [
+      "angle-inscrit",
+      "bissectrice",
+      "symetrie",
+      "parallelogramme",
+      "cercle-circonscrit",
+      "mediatrice",
+      "theoreme-des-milieux"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection de février 2023",
+      "reference": "2023-09_Enonce-Test-3.pdf, test junior, exercice 3 ; corrigé 2023-09_Corrige-Test-3.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-3.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-3.pdf"
+    },
+    "path": "grade-09/geometry/5/12813-three-parallelograms-and-two-concentric-circles.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "12823",
     "title": "Deux bissectrices qui se coupent sur (XD)",
     "grade": 9,
@@ -44226,6 +44264,39 @@
     "path": "grade-09/logic-reasoning/5/0537-knights-princesses-dragons-survivor.md",
     "sections": [
       "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12814",
+    "title": "Le jardinier et le pivert",
+    "grade": 9,
+    "theme": "logic-reasoning",
+    "difficulty": 5,
+    "duration_min": 50,
+    "tags": [
+      "jeu",
+      "strategie",
+      "grille",
+      "coloriage",
+      "majoration",
+      "minoration"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection de février 2023",
+      "reference": "2023-09_Enonce-Test-3.pdf, test junior, exercice 4, et test EGMO, exercice 8 (le même énoncé) ; corrigé 2023-09_Corrige-Test-3.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-3.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-3.pdf"
+    },
+    "path": "grade-09/logic-reasoning/5/12814-the-gardener-and-the-woodpecker.md",
+    "sections": [
       "Hints",
       "Solution",
       "Statement"
@@ -53136,6 +53207,40 @@
     ]
   },
   {
+    "id": "7322",
+    "title": "Cent cartes et trois additions fausses",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 40,
+    "tags": [
+      "parite",
+      "restes",
+      "encadrement",
+      "entiers-consecutifs"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [
+      "12279"
+    ],
+    "created": "2026-09-20",
+    "source": {
+      "name": "POFM, stage olympique de Grésillon 2007",
+      "reference": "stage_ete_2007.pdf, « En TD », stratégie de base (groupe B), exercice 46 (Olympiades académiques 2005)",
+      "url": "http://maths-olympiques.fr/?page_id=43",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm/stage_ete_2007.pdf"
+    },
+    "path": "grade-10/arithmetic/3/7322-one-hundred-cards-and-two-wrong-sums.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "7323",
     "title": "7 divise-t-il 2222⁵⁵⁵⁵ + 5555²²²² ?",
     "grade": 10,
@@ -57855,40 +57960,6 @@
       "local_copy": "sources/originals/pofm/stage_junior_2011.pdf"
     },
     "path": "grade-10/arithmetic/4/7083-when-seven-to-the-n-plus-eight-is-a-square.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7322",
-    "title": "Cent cartes et trois additions fausses",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "parite",
-      "modulo",
-      "encadrement",
-      "entiers-consecutifs"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [
-      "12279"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Grésillon 2007",
-      "reference": "stage_ete_2007.pdf, « En TD », stratégie de base (groupe B), exercice 46 (Olympiades académiques 2005)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2007.pdf"
-    },
-    "path": "grade-10/arithmetic/4/7322-one-hundred-cards-and-two-wrong-sums.md",
     "sections": [
       "Going further",
       "Hints",
@@ -64239,7 +64310,9 @@
       "chiffres"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "13631"
+    ],
     "same_as": [],
     "created": "2026-09-20",
     "source": {
@@ -66222,40 +66295,6 @@
     ]
   },
   {
-    "id": "12834",
-    "title": "Effacer des nombres qui partagent un diviseur",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 5,
-    "duration_min": 60,
-    "tags": [
-      "jeu",
-      "strategie-gagnante",
-      "pgcd",
-      "nombres-premiers",
-      "invariant",
-      "denombrement"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection du 22 novembre 2023",
-      "reference": "2025-01_Enonce-Test-1.pdf, test senior, exercice 1 ; corrigé 2025-01_Corrige-Test-1.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2025-01_Enonce-Test-1.pdf"
-    },
-    "path": "grade-10/combinatorics/5/12834-erasing-numbers-that-share-a-divisor.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "12849",
     "title": "Des sommes avec des signes qui ne s'annulent jamais",
     "grade": 10,
@@ -66383,6 +66422,41 @@
       "local_copy": "sources/originals/coupe-animath/2020-10_Sujet.pdf"
     },
     "path": "grade-10/combinatorics/5/13283-thirty-points-and-their-second-nearest-neighbour.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "13631",
+    "title": "Cinq essais ne suffisent pas",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 5,
+    "duration_min": 60,
+    "tags": [
+      "principe-des-tiroirs",
+      "denombrement",
+      "chiffres",
+      "disjonction-de-cas",
+      "construction"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "7606"
+    ],
+    "same_as": [],
+    "created": "2026-10-02",
+    "source": {
+      "name": "Coupe Animath de printemps 2013 (test de sélection du stage olympique de Montpellier, 4 juin 2013)",
+      "reference": "2017-09_coupe_printemps_2013_1.pdf, épreuve de première, exercice 6, question b) ; corrigé 2017-09_coupe_printemps_2013_corrige.pdf, exercice 6 b). Aussi dans stage_ete_2013.pdf, chapitre XII « Test de sélection du 4 juin 2013 », exercice 6, question b), pp. 440-442. Le corrigé écrit a6 au lieu de a7 dans le deuxième cas, et dans le premier cas il pose x1 = a6 et x2 = α sans vérifier que ces deux chiffres sont différents : la solution ci-dessous comble ce trou.",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2013_1.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/coupe-animath/2017-09_coupe_printemps_2013_1.pdf"
+    },
+    "path": "grade-10/combinatorics/5/13631-five-tries-are-not-enough.md",
     "sections": [
       "Going further",
       "Hints",
@@ -74360,7 +74434,9 @@
       "bissectrice"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "10052"
+    ],
     "same_as": [],
     "created": "2026-10-01",
     "source": {
@@ -75110,39 +75186,6 @@
     "path": "grade-10/geometry/5/12661-a-parallelogram-two-circles-and-three-concurrent-lines.md",
     "sections": [
       "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12813",
-    "title": "Trois parallélogrammes et deux cercles concentriques",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 5,
-    "duration_min": 50,
-    "tags": [
-      "angle-inscrit",
-      "bissectrice",
-      "symetrie",
-      "parallelogramme",
-      "cercle-circonscrit",
-      "coordonnees"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection de février 2023",
-      "reference": "2023-09_Enonce-Test-3.pdf, test junior, exercice 3 ; corrigé 2023-09_Corrige-Test-3.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-3.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-3.pdf"
-    },
-    "path": "grade-10/geometry/5/12813-three-parallelograms-and-two-concentric-circles.md",
-    "sections": [
       "Hints",
       "Solution",
       "Statement"
@@ -77873,6 +77916,40 @@
       "local_copy": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-6.pdf"
     },
     "path": "grade-10/logic-reasoning/5/11618-tokens-moving-towards-square-zero.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12834",
+    "title": "Effacer des nombres qui partagent un diviseur",
+    "grade": 10,
+    "theme": "logic-reasoning",
+    "difficulty": 5,
+    "duration_min": 60,
+    "tags": [
+      "jeu",
+      "strategie-gagnante",
+      "pgcd",
+      "nombres-premiers",
+      "invariant",
+      "denombrement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection du 22 novembre 2023",
+      "reference": "2025-01_Enonce-Test-1.pdf, test senior, exercice 1 ; corrigé 2025-01_Corrige-Test-1.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-1.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2025-01_Enonce-Test-1.pdf"
+    },
+    "path": "grade-10/logic-reasoning/5/12834-erasing-numbers-that-share-a-divisor.md",
     "sections": [
       "Going further",
       "Hints",
@@ -85154,40 +85231,6 @@
       "local_copy": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-janvier.pdf"
     },
     "path": "grade-11/arithmetic/4/12240-when-five-to-the-m-plus-two-to-the-n-times-p-ratio-is-a-square.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12244",
-    "title": "2005 solutions de 1/x + 1/y = 1/n",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "equation-diophantienne",
-      "diviseurs",
-      "nombre-de-diviseurs",
-      "decomposition-en-facteurs-premiers",
-      "carre-parfait",
-      "factorisation"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de février 2016, junior",
-      "reference": "2017-10_ofm-2015-2016-test-fevrier-junior.pdf, test du 26 février 2016, exercice 4 ; corrigé 2017-10_ofm-2015-2016-test-fevrier-junior-corrige.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-fevrier-junior.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-fevrier-junior.pdf"
-    },
-    "path": "grade-11/arithmetic/4/12244-two-thousand-and-five-solutions-of-one-over-x-plus-one-over-y.md",
     "sections": [
       "Going further",
       "Hints",
@@ -97312,6 +97355,45 @@
       "local_copy": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-2.pdf"
     },
     "path": "grade-11/geometry/5/10051-a-point-equidistant-from-a-and-the-foot-of-the-altitude.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "10052",
+    "title": "Un cercle tangent à deux côtés et au cercle circonscrit",
+    "grade": 11,
+    "theme": "geometry",
+    "difficulty": 5,
+    "duration_min": 75,
+    "tags": [
+      "cercles-tangents",
+      "cercle-circonscrit",
+      "angle-inscrit",
+      "bissectrice",
+      "bissectrice-exterieure",
+      "pole-sud",
+      "aire",
+      "thales",
+      "droites-concourantes"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "10065"
+    ],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, envoi d'entraînement 2015-2016 n° 2 (géométrie)",
+      "reference": "2017-10_ofm-2015-2016-envoi-2.pdf, Exercices du groupe A, exercice 7 ; corrigé 2017-10_ofm-2015-2016-envoi-2-solutions.pdf. Le corrigé utilise le théorème de Pascal et une homothétie ; la solution ici les remplace par des rapports de longueurs (aires et théorème de Thalès), pour rester au niveau de la 1re. L'énoncé original oublie l'hypothèse AB ≠ AC : si AB = AC, alors F = M et la droite (FM) n'existe pas.",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi-2.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-2.pdf"
+    },
+    "path": "grade-11/geometry/5/10052-a-circle-tangent-to-two-sides-and-to-the-circumcircle.md",
     "sections": [
       "Going further",
       "Hints",
@@ -114292,41 +114374,6 @@
       "local_copy": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-5.pdf"
     },
     "path": "grade-12/geometry/5/10036-a-hidden-isosceles-triangle.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "10052",
-    "title": "Un cercle tangent à deux côtés et au cercle circonscrit",
-    "grade": 12,
-    "theme": "geometry",
-    "difficulty": 5,
-    "duration_min": 60,
-    "tags": [
-      "hors-programme",
-      "theoreme-de-pascal",
-      "cercles-tangents",
-      "cercle-circonscrit",
-      "cercle-inscrit",
-      "bissectrice",
-      "droites-concourantes"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, envoi d'entraînement 2015-2016 n° 2 (géométrie)",
-      "reference": "2017-10_ofm-2015-2016-envoi-2.pdf, Exercices du groupe A, exercice 7 ; corrigé 2017-10_ofm-2015-2016-envoi-2-solutions.pdf (même méthode que le corrigé, le théorème de Pascal ; l'homothétie du corrigé est remplacée par un argument avec deux triangles isocèles. L'énoncé original oublie l'hypothèse AB ≠ AC : si AB = AC, alors F = M et la droite (FM) n'existe pas)",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi-2.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-2.pdf"
-    },
-    "path": "grade-12/geometry/5/10052-a-circle-tangent-to-two-sides-and-to-the-circumcircle.md",
     "sections": [
       "Going further",
       "Hints",

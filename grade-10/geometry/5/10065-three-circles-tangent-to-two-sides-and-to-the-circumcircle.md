@@ -7,7 +7,7 @@ difficulty: 5
 duration_min: 60
 tags: [cercles-tangents, cercle-inscrit, cercle-circonscrit, vecteurs, colinearite, droites-concourantes, bissectrice]
 adapted_from: null
-see_also: []
+see_also: ["10052"]
 same_as: []
 created: 2026-10-01
 source:

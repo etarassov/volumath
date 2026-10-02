@@ -3,9 +3,9 @@ id: "7322"
 title: "Cent cartes et trois additions fausses"
 grade: 10
 theme: arithmetic
-difficulty: 4
+difficulty: 3
 duration_min: 40
-tags: [parite, modulo, encadrement, entiers-consecutifs]
+tags: [parite, restes, encadrement, entiers-consecutifs]
 adapted_from: null
 see_also: []
 same_as: ["12279"]
@@ -32,8 +32,8 @@ On dispose de $100$ cartes. Sur chacune sont écrits **deux entiers consécutifs
 
 1. Que vaut la somme des deux nombres écrits sur une carte ? Est-elle paire ou impaire ?
 2. Pour a), additionne $21$ nombres impairs. Quelle est la parité du résultat ?
-3. Pour b), la parité ne suffit plus. Regarde modulo $4$. Mais d'abord : quelles sont exactement les $100$ cartes ? Sur quelle carte figure le nombre $1$ ?
-4. Une fois les cartes identifiées, la somme des nombres d'une carte s'écrit $4n - 1$. Quel est son reste modulo $4$ ? Et celui d'une somme de $21$ telles cartes ?
+3. Pour b), la parité ne suffit plus. Regarde le reste dans la division par $4$. Mais d'abord : quelles sont exactement les $100$ cartes ? Sur quelle carte figure le nombre $1$ ?
+4. Une fois les cartes identifiées, la somme des nombres d'une carte s'écrit $4n - 1$. Quel est son reste dans la division par $4$ ? Et celui d'une somme de $21$ telles cartes ?
 5. Pour c), Alice et Bob ont ensemble $41$ cartes. Quelle est la **plus petite** somme possible pour $41$ cartes ? Compare-la à $2003 + 1396$.
 
 ## Solution
@@ -46,7 +46,7 @@ Alice additionne les nombres de $21$ cartes, c'est-à-dire qu'elle additionne $2
 
 Son total est donc impair. Or $2004$ est pair. **Alice s'est trompée.**
 
-### b) Modulo 4
+### b) Le reste dans la division par 4
 
 Le nombre $2005$ est impair : la parité ne suffit plus. Regardons de plus près.
 
@@ -56,17 +56,17 @@ Ensuite, $3$ ne peut plus aller avec $2$ : il va avec $4$. Puis $5$ avec $6$, et
 $$\{1,2\},\ \{3,4\},\ \{5,6\},\ \ldots,\ \{199,200\} .$$
 
 **La somme d'une carte.** La carte $\{2n-1,\ 2n\}$ a pour somme
-$$(2n-1) + 2n = 4n - 1 .$$
+$$(2n-1) + 2n = 4n - 1 = 4(n - 1) + 3 .$$
 
-Modulo $4$, cette somme vaut donc $-1$, c'est-à-dire $3$.
+Son reste dans la division par $4$ est donc $3$.
 
-**La somme d'Alice.** En additionnant $21$ cartes, on obtient un nombre congru à
-$$21 \times (-1) = -21 \pmod 4 .$$
-Or $-21 = -24 + 3$, donc le total d'Alice est congru à $3$ modulo $4$.
+**La somme d'Alice.** Appelons « carte numéro $n$ » la carte $\{2n-1,\ 2n\}$, et notons $n_1, n_2, \ldots, n_{21}$ les numéros des cartes d'Alice. Son total vaut
+$$(4n_1 - 1) + \cdots + (4n_{21} - 1) = 4(n_1 + \cdots + n_{21}) - 21 = 4(n_1 + \cdots + n_{21} - 6) + 3 .$$
+Les numéros valent tous au moins $1$, donc $n_1 + \cdots + n_{21} - 6$ est un entier positif. Le total d'Alice a donc pour reste $3$ dans la division par $4$.
 
-Et $2005 = 4 \times 501 + 1$ est congru à $1$ modulo $4$. **Alice s'est encore trompée.**
+Or $2005 = 4 \times 501 + 1$ a pour reste $1$. **Alice s'est encore trompée.**
 
-*(On vérifie au passage que $2003 = 4 \times 500 + 3$ est bien congru à $3$ : le troisième total annoncé, lui, est compatible.)*
+*(On vérifie au passage que $2003 = 4 \times 500 + 3$ a bien pour reste $3$ : le troisième total annoncé, lui, est compatible.)*
 
 ### c) Un encadrement
 
@@ -86,5 +86,5 @@ Or $3399 < 3403$. La somme annoncée est trop petite pour être possible : **Bob
 ## Going further
 
 1. Quelle est la plus grande somme possible pour $21$ cartes ? Et la plus petite ? Combien de valeurs le total d'Alice peut-il prendre ?
-2. Alice annonce $2003$ et Bob annonce $1408$. Ces deux annonces passent-elles les trois tests de l'exercice (parité, reste modulo $4$, minoration) ?
+2. Alice annonce $2003$ et Bob annonce $1408$. Ces deux annonces passent-elles les trois tests de l'exercice (parité, reste dans la division par $4$, minoration) ?
 3. Reprends la question b) en supposant qu'Alice a choisi $22$ cartes au lieu de $21$. Quels totaux sont alors interdits ?

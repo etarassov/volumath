@@ -1,13 +1,13 @@
 ---
 id: "12244"
 title: "2005 solutions de 1/x + 1/y = 1/n"
-grade: 11
+grade: 9
 theme: arithmetic
-difficulty: 4
+difficulty: 5
 duration_min: 35
 tags: [equation-diophantienne, diviseurs, nombre-de-diviseurs, decomposition-en-facteurs-premiers, carre-parfait, factorisation]
 adapted_from: null
-see_also: []
+see_also: ["7452"]
 same_as: []
 created: 2026-10-01
 source:

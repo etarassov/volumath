@@ -1,11 +1,11 @@
 ---
 id: "12813"
 title: "Trois parallélogrammes et deux cercles concentriques"
-grade: 10
+grade: 9
 theme: geometry
 difficulty: 5
 duration_min: 50
-tags: [angle-inscrit, bissectrice, symetrie, parallelogramme, cercle-circonscrit, coordonnees]
+tags: [angle-inscrit, bissectrice, symetrie, parallelogramme, cercle-circonscrit, mediatrice, theoreme-des-milieux]
 adapted_from: null
 see_also: []
 same_as: []
@@ -37,7 +37,7 @@ Démontrer que le cercle circonscrit au triangle $A_2B_2C_2$ a lui aussi pour ce
 1. Que sont les droites $(AA_1)$, $(BB_1)$ et $(CC_1)$ pour le triangle $ABC$ ? Notez $I$ leur point commun.
 2. Montrez que $C_1A = C_1I$, en comparant deux angles du triangle $AC_1I$. Faites de même avec $B_1$.
 3. Que représente la droite $(B_1C_1)$ pour le segment $[AI]$ ? Et le milieu de $[B_1C_1]$ pour le parallélogramme $AB_1A_2C_1$ ?
-4. Placez-vous dans un repère d'origine le milieu de $[B_1C_1]$, dont l'axe des abscisses est la droite $(B_1C_1)$, et montrez que $OA_2 = OI$.
+4. Soit $J$ le milieu de $[AI]$ et $K$ celui de $[B_1C_1]$. Avec le théorème des milieux dans le triangle $AIA_2$, montrez que $(IA_2)$ est parallèle à $(B_1C_1)$, puis que la médiatrice de $[B_1C_1]$ est aussi celle de $[IA_2]$.
 
 ## Solution
 
@@ -68,19 +68,16 @@ Les points $B_1$ et $C_1$ sont tous les deux à égale distance de $A$ et de $I$
 
 ### Étape 4 : OA₂ = OI
 
-Les diagonales du parallélogramme $AB_1A_2C_1$ ont le même milieu : le milieu $K$ de $[B_1C_1]$ est aussi le milieu de $[AA_2]$.
+Les diagonales du parallélogramme $AB_1A_2C_1$ ont le même milieu : le milieu $K$ de $[B_1C_1]$ est aussi le milieu de $[AA_2]$. Soit $J$ le milieu de $[AI]$. D'après l'étape 3, $J$ est sur la droite $(B_1C_1)$, et cette droite est perpendiculaire à $(AI)$ en $J$.
 
-Prenons un repère orthonormé d'origine $K$ dont l'axe des abscisses est la droite $(B_1C_1)$. Notons $A = (p\,;\,q)$.
+Si $K = J$, les segments $[AA_2]$ et $[AI]$ ont le même milieu, donc $A_2 = I$ et $OA_2 = OI$.
 
-- $I$ est le symétrique de $A$ par rapport à l'axe des abscisses : $I = (p\,;\,-q)$.
-- $K$ est le milieu de $[AA_2]$ : $A_2 = (-p\,;\,-q)$.
-- Comme $OB_1 = OC_1$, le point $O$ est sur la médiatrice de $[B_1C_1]$, qui est l'axe des ordonnées : $O = (0\,;\,h)$ pour un certain réel $h$.
+Supposons maintenant $K \neq J$. Alors $K$ n'est pas sur la droite $(AI)$, qui ne coupe $(B_1C_1)$ qu'en $J$. Les points $A$, $I$, $A_2$ ne sont donc pas alignés.
 
-Alors
+- **La droite $(IA_2)$ est parallèle à $(B_1C_1)$.** Dans le triangle $AIA_2$, la droite $(JK)$ passe par les milieux des côtés $[AI]$ et $[AA_2]$. D'après le théorème des milieux, elle est parallèle au troisième côté, $[IA_2]$. Or $J$ et $K$ sont deux points distincts de $(B_1C_1)$, donc $(JK) = (B_1C_1)$.
+- **La médiatrice de $[B_1C_1]$ est aussi celle de $[IA_2]$.** Notons $\Delta$ la médiatrice de $[B_1C_1]$. Elle passe par $K$ et elle est perpendiculaire à $(B_1C_1)$, comme $(AI)$ : elle est donc parallèle à $(AI)$. Dans le triangle $AIA_2$, la droite $\Delta$ passe par le milieu $K$ du côté $[AA_2]$ et elle est parallèle au côté $[AI]$. D'après le théorème des milieux, elle passe par le milieu du troisième côté, $[IA_2]$. De plus, elle est perpendiculaire à $(IA_2)$, puisque $(IA_2)$ est parallèle à $(B_1C_1)$. C'est donc la médiatrice de $[IA_2]$.
 
-$$OI^2 = p^2 + (-q - h)^2 \qquad \text{et} \qquad OA_2^2 = (-p)^2 + (-q - h)^2,$$
-
-donc $OA_2 = OI$. (En termes de géométrie : $A_2$ est le symétrique de $I$ par rapport à la médiatrice de $[B_1C_1]$, et cette droite passe par $O$.)
+Comme $OB_1 = OC_1$, le point $O$ est sur la médiatrice $\Delta$ de $[B_1C_1]$. Il est donc à la même distance de $I$ et de $A_2$ : $OA_2 = OI$.
 
 ### Conclusion
 

@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 35
 tags: [equation-diophantienne, diviseurs, factorisation, denombrement, nombre-de-diviseurs, decomposition-en-facteurs-premiers]
 adapted_from: null
-see_also: ["7856"]
+see_also: ["7856", "12244"]
 same_as: []
 created: 2026-09-20
 source:

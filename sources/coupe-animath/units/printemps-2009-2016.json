@@ -244,7 +244,8 @@
   "13627",
   "13628",
   "13629",
-  "13630"
+  "13630",
+  "13631"
  ],
  "skipped": [
   {
@@ -279,7 +280,7 @@
   },
   {
    "where": "2017-09_coupe_printemps_2013_1.pdf, épreuve de première, exercice 6",
-   "why": "déjà dans la collection pour la question a) (ouvrir le coffre en six essais) ; la question b) (cinq essais ne suffisent jamais) n'y est qu'esquissée dans « Going further ». Pas réimportée : la preuve complète de b) demande une étude de cas longue (ou le théorème de Hall), et une seconde copie en 2de ferait doublon",
+   "why": "déjà dans la collection pour la question a) (ouvrir le coffre en six essais) ; la question b) (cinq essais ne suffisent jamais) a été importée à part le 2026-10-02, sous le numéro 13631 (2de, difficulté 5), avec la preuve complète par étude de cas ; les deux fichiers sont liés par see_also",
    "existing": "7606"
   },
   {
@@ -593,7 +594,7 @@
   },
   {
    "where": "2017-09_coupe_printemps_2013_corrige.pdf, exercice 6 b)",
-   "what": "dans le deuxième cas, le corrigé écrit « donc a6 n'apparaît pas dans une colonne... » là où il faut lire a7 ; dans le premier cas, il pose x1 = a6 et x2 = α sans vérifier que ces deux chiffres sont différents. Le résultat (6 essais au minimum) reste vrai : chaque chiffre apparaît au plus 5 fois dans le tableau des 5 essais, donc la condition de Hall est vérifiée. Problème non réimporté (voir 7606)."
+   "what": "dans le deuxième cas, le corrigé écrit « donc a6 n'apparaît pas dans une colonne... » là où il faut lire a7 ; dans le premier cas, il pose x1 = a6 et x2 = α sans vérifier que ces deux chiffres sont différents. Le résultat (6 essais au minimum) reste vrai : chaque chiffre apparaît au plus 5 fois dans le tableau des 5 essais, donc la condition de Hall est vérifiée. Corrigé dans 13631, qui vérifie aussi que x1 et x2 sont différents."
   },
   {
    "where": "2017-09_coupe_printemps_2015_corrige.pdf, exercice 6",
@@ -613,12 +614,12 @@
   "2010 : « test de sélection du 3 juin 2010 » du stage de Grésillon ; six problèmes distincts sur trois épreuves (collège ex 1 à 4, seconde ex 2 à 5, première ex 3 à 6). Ex 3 déjà présent (7424, venu du polycopié du stage d'été 2010) ; les cinq autres importés une fois chacun (13607 à 13611).",
   "2011 : « test de sélection du 7 juin 2011 » du stage de Grésillon ; six problèmes sur trois épreuves (collège ex 1 à 4, seconde ex 2 à 5, première ex 3 à 6). L'ex 1 (collège, 7 et 8 convives) et l'ex 5 (lycée, 17 et 18 convives) sont le même problème à deux tailles, le corrigé le dit : importés ensemble dans 13612. Les autres : ex 2 → 13613, ex 3 → 13614, ex 4 → 13615, ex 6 → 13616. Aucun n'était déjà dans la collection.",
   "2012 : « test de sélection du 5 juin 2012 » du stage de Montpellier ; six problèmes sur trois épreuves (collège ex 1 à 4, seconde ex 2 à 5, première ex 3 à 6). Aucun n'était déjà dans la collection (similar.py et grep). Ex 1 → 13617, ex 2 → 13618, ex 3 → 13619, ex 4 → 13620, ex 5 → 13621, ex 6 → 13622. Pour l'ex 6, le cas obtus est refait dans un repère (formule bc = 2R·AH démontrée par le calcul) au lieu de la loi des sinus du corrigé ; inégalité vérifiée numériquement sur 200 000 triangles. vm.py check signale 13614 et 12014 comme doublons possibles : ce sont deux problèmes différents (hexagone dans le cercle circonscrit / plus grand parallélogramme), faux positif.",
-  "2013 : « test de sélection du 4 juin 2013 » du stage de Montpellier ; six problèmes sur trois épreuves. Les six étaient déjà dans la collection (7601 à 7606, venus du polycopié du stage d'été 2013) : rien d'importé. Pour le coordinateur : 7606 ne traite que la question a) du coffre-fort ; la question b), plus difficile, manque encore en version complète.",
+  "2013 : « test de sélection du 4 juin 2013 » du stage de Montpellier ; six problèmes sur trois épreuves. Les six étaient déjà dans la collection (7601 à 7606, venus du polycopié du stage d'été 2013) : rien d'importé. 7606 traite la question a) du coffre-fort ; la question b), plus difficile, a été ajoutée le 2026-10-02 sous le numéro 13631.",
   "2014 : Coupe Animath du 3 juin 2014, sept exercices (collège 1 à 4, lycée 4 à 7). Six étaient déjà dans la collection (7701 à 7706, venus du polycopié du stage d'été 2014). L'exercice 6 (cercles à égale distance de quatre points) avait été écarté par l'unité pofm/ete-2014 comme trop long ; il est importé ici dans 13623 (2de, difficulté 4), avec l'hypothèse « trois points jamais alignés » qui écarte le seul cas dégénéré, et un exemple explicite à 7 cercles vérifié par le calcul.",
   "2015 : le premier tour n'a pas de corrigé à lui, mais ses réponses, avec de courtes justifications, sont dans le polycopié POFM stage_ete_2015.pdf, pages 15 et 16. Presque tout le premier tour était déjà dans la base (ClubLyon et pofm/ete-2015). Seul l'exercice 11 des lycéens manquait : pofm/ete-2015 l'avait écarté comme reposant sur l'angle tangentiel, hors programme ; 13624 le résout avec le milieu de l'hypoténuse et une médiatrice, sans cet angle, et la réponse 27 a été vérifiée numériquement.",
   "2015, épreuve du 2 juin : pofm/ete-2015 avait écarté l'exercice 4 commun et les exercices 6 et 7 du lycée comme « niveau olympiade », ce qui n'est pas une raison d'écarter selon le brief. Ils sont importés : 13625 (4e, 4 étoiles, avec l'hypothèse ajoutée que M, N, P ne sont pas des sommets), 13626 (2de, 4 étoiles) et 13627 (2de, 5 étoiles). Les trois ont été vérifiés en Python (triangles au hasard, force brute jusqu'à 200 000, configurations de points au hasard).",
   "2016 : premier tour (questionnaires collégiens et lycéens) et épreuve du 31 mai 2016. Le corrigé du premier tour est un simple tableau de réponses sans couche texte, lu sur les pages rendues ; les solutions détaillées sont dans stage_ete_2016.pdf (POFM), pages 26 à 28. Les exercices 9 à 12 des collégiens sont les exercices 1 à 4 des lycéens. Presque tout était déjà dans la base (pofm/ete-2016, 7901 à 7925). Trois problèmes manquaient, que pofm/ete-2016 avait écartés pour des raisons que le brief n'admet pas (« dernier exercice, niveau olympiade ») : lycéens 11 (13628, résolu sans la formule cos 2θ du polycopié), lycéens 12 (13629, énoncé réparé, voir source_errors) et l'exercice 8 de l'épreuve finale (13630). Les trois ont été vérifiés en Python : recherche exhaustive pour 13628, conditions entières et cas tangent pour 13629, force brute sur les petites classes (jusqu'à 4 élèves et 4 questions) pour 13630."
  ],
- "updated": "2026-10-01",
+ "updated": "2026-10-02",
  "scope": "gap-filling: most of these papers already reached the collection through the summer camp handouts"
 }

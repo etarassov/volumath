@@ -2,7 +2,7 @@
 id: "12834"
 title: "Effacer des nombres qui partagent un diviseur"
 grade: 10
-theme: combinatorics
+theme: logic-reasoning
 difficulty: 5
 duration_min: 60
 tags: [jeu, strategie-gagnante, pgcd, nombres-premiers, invariant, denombrement]

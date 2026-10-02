@@ -248,9 +248,9 @@
   },
   {
    "id": "10052",
-   "tool": "théorème de Pascal (géométrie projective)",
+   "tool": "théorème de Pascal (géométrie projective) dans le corrigé ; le 2026-10-02 la solution a été réécrite avec des rapports de longueurs (aires, Thalès) et le fichier est passé en 1re",
    "suggested_theme": "projective-geometry",
-   "hors_programme": true
+   "hors_programme": false
   },
   {
    "id": "10060",
