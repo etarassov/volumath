@@ -83,7 +83,7 @@ $$\binom{49}{6} - \binom{44}{6} = 13\,983\,816 - 7\,059\,052 = \boxed{6\,924\,76
 ## Going further
 
 Environ la moitié des grilles de six numéros sur $49$ contiennent deux numéros consécutifs :
-$6\,924\,764$ sur $13\,983\,816$, soit à peu près $49{,}5\,\%$. Beaucoup de joueurs de loto
+$6\,924\,764$ sur $13\,983\,816$, soit à peu près $\text{49,5}\,\%$. Beaucoup de joueurs de loto
 évitent les numéros consécutifs en croyant qu'ils sont « moins probables » ; ils le sont
 légèrement, mais à peine, et surtout ils ne le sont pas pour une grille donnée : chaque
 grille précise a exactement la même chance que n'importe quelle autre.

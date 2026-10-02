@@ -50,10 +50,10 @@ Regardons $E$ comme un polynôme de la variable $x$, en traitant $y$ et $z$ comm
 $$E(x) = x^3 - 3yz \cdot x + (y^3 + z^3).$$
 
 Calculons sa valeur en $x = -(y+z)$ :
-$$E\big(-(y+z)\big) = -(y+z)^3 + 3yz(y+z) + y^3 + z^3 .$$
+$$E(-(y+z)) = -(y+z)^3 + 3yz(y+z) + y^3 + z^3 .$$
 
 Développons $(y+z)^3 = y^3 + 3y^2z + 3yz^2 + z^3$ et $3yz(y+z) = 3y^2z + 3yz^2$ :
-$$E\big(-(y+z)\big) = -y^3 - 3y^2z - 3yz^2 - z^3 + 3y^2z + 3yz^2 + y^3 + z^3 = 0 .$$
+$$E(-(y+z)) = -y^3 - 3y^2z - 3yz^2 - z^3 + 3y^2z + 3yz^2 + y^3 + z^3 = 0 .$$
 
 Donc $x = -(y+z)$ est racine du polynôme $E(x)$, ce qui signifie que $x + y + z$ divise $E$.
 
@@ -61,7 +61,7 @@ Donc $x = -(y+z)$ est racine du polynôme $E(x)$, ce qui signifie que $x + y + z
 
 Le quotient est de degré $2$ en $x$. Divisons $x^3 - 3yz\,x + (y^3+z^3)$ par $x + (y+z)$ :
 
-$$x^3 - 3yz\,x + y^3 + z^3 \; = \; \big(x + y + z\big)\Big(x^2 - (y+z)\,x + \big(y^2 - yz + z^2\big)\Big).$$
+$$x^3 - 3yz\,x + y^3 + z^3 \; = \; (x + y + z)(x^2 - (y+z)\,x + (y^2 - yz + z^2)).$$
 
 On peut vérifier ce résultat en développant le membre de droite :
 $$x^3 - (y+z)x^2 + (y^2-yz+z^2)x + (y+z)x^2 - (y+z)^2 x + (y+z)(y^2-yz+z^2).$$
@@ -78,7 +78,7 @@ $$\boxed{\,x^3 + y^3 + z^3 - 3xyz \; = \; (x+y+z)\left(x^2 + y^2 + z^2 - xy - yz
 ### Une conséquence utile
 
 Le second facteur se réécrit
-$$x^2+y^2+z^2-xy-yz-zx = \frac{1}{2}\Big( (x-y)^2 + (y-z)^2 + (z-x)^2 \Big),$$
+$$x^2+y^2+z^2-xy-yz-zx = \frac{1}{2}( (x-y)^2 + (y-z)^2 + (z-x)^2 ),$$
 comme on le vérifie en développant. Il est donc toujours positif ou nul, et nul uniquement quand $x = y = z$. On en déduit par exemple que, pour des réels positifs,
 $$x^3+y^3+z^3 \geqslant 3xyz ,$$
 avec égalité exactement lorsque $x = y = z$. C'est l'inégalité entre moyenne arithmétique et moyenne géométrique pour trois nombres, appliquée à $x^3$, $y^3$, $z^3$.

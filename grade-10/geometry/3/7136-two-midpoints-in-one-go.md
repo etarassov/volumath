@@ -55,11 +55,11 @@ $$\vec{AD} = k\,\vec b, \qquad \vec{AE} = k\,\vec c .$$
 
 **Où est $J$ ?** Le point $J$ est sur $(CD)$, donc il existe un nombre $t$ tel que
 
-$$\vec{AJ} = \vec{AC} + t\,\vec{CD} = \vec c + t\big(k\vec b - \vec c\big) = tk\,\vec b + (1-t)\,\vec c .$$
+$$\vec{AJ} = \vec{AC} + t\,\vec{CD} = \vec c + t(k\vec b - \vec c) = tk\,\vec b + (1-t)\,\vec c .$$
 
 Il est aussi sur $(BE)$, donc il existe un nombre $s$ tel que
 
-$$\vec{AJ} = \vec{AB} + s\,\vec{BE} = \vec b + s\big(k\vec c - \vec b\big) = (1-s)\,\vec b + sk\,\vec c .$$
+$$\vec{AJ} = \vec{AB} + s\,\vec{BE} = \vec b + s(k\vec c - \vec b) = (1-s)\,\vec b + sk\,\vec c .$$
 
 En identifiant les coefficients :
 
@@ -89,7 +89,7 @@ $M = M_0$ : **$M$ est le milieu de $[BC]$.**
 
 **Le point $N$.** Un point de la droite $(DE)$ s'écrit
 
-$$\vec{AD} + u\,\vec{DE} = k\vec b + u\big(k\vec c - k\vec b\big) = k(1-u)\,\vec b + ku\,\vec c .$$
+$$\vec{AD} + u\,\vec{DE} = k\vec b + u(k\vec c - k\vec b) = k(1-u)\,\vec b + ku\,\vec c .$$
 
 Il est sur la droite $(AJ)$, c'est-à-dire de la forme $\lambda(\vec b + \vec c)$, exactement
 lorsque

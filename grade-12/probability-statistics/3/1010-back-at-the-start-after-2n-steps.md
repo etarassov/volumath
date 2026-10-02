@@ -80,6 +80,6 @@ et la probabilité d'être revenu au point de départ décroît avec le temps ; 
 ## Going further
 
 1. Quelle est la probabilité que le jeton soit en position $2$ après $6$ secondes ? Et en position $3$ ?
-2. Montrer que la probabilité d'être en position $j$ après $k$ secondes vaut $\binom{k}{(k+j)/2} \big/ 2^{k}$ lorsque $k$ et $j$ ont la même parité et $|j| \leqslant k$, et $0$ sinon.
+2. Montrer que la probabilité d'être en position $j$ après $k$ secondes vaut $\binom{k}{(k+j)/2} / 2^{k}$ lorsque $k$ et $j$ ont la même parité et $|j| \leqslant k$, et $0$ sinon.
 3. Vérifier numériquement que $p_{2n}\sqrt{n}$ se stabilise, et deviner vers quoi.
 4. Le jeton revient-il en $0$ avec certitude si on le laisse marcher indéfiniment ? (C'est une question célèbre et la réponse est oui, mais elle demande bien plus que cet exercice.)

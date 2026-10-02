@@ -47,7 +47,7 @@ Posons $x = XY$.
 
 **Étape 2 : $Y$ est au-dessus de la droite $(DC)$.**
 
-Si $Y$ était dans le carré ou sur son bord, le triangle $ABY$ serait entièrement contenu dans le carré et son aire, $\dfrac{10 \times x}{2} = 5x$, vaudrait $99$, donc $x = 19{,}8 > 10$ : le point $Y$ serait alors en dehors du carré. C'est contradictoire.
+Si $Y$ était dans le carré ou sur son bord, le triangle $ABY$ serait entièrement contenu dans le carré et son aire, $\dfrac{10 \times x}{2} = 5x$, vaudrait $99$, donc $x = \text{19,8} > 10$ : le point $Y$ serait alors en dehors du carré. C'est contradictoire.
 
 Donc $x > 10$ et $Y$ est strictement au-dessus de la droite $(DC)$. Le triangle dépasse du carré par le haut.
 
@@ -81,7 +81,7 @@ $$100x - 500 = 99x , \qquad \text{donc} \qquad x = 500 .$$
 
 **Étape 5 : vérification.**
 
-Avec $x = 500$ : l'aire du grand triangle vaut $2500$, le rapport vaut $\frac{490}{500} = 0{,}98$, l'aire du petit triangle vaut $2500 \times 0{,}98^2 = 2401$, et la différence vaut $2500 - 2401 = 99$. ✓
+Avec $x = 500$ : l'aire du grand triangle vaut $2500$, le rapport vaut $\frac{490}{500} = \text{0,98}$, l'aire du petit triangle vaut $2500 \times \text{0,98}^2 = 2401$, et la différence vaut $2500 - 2401 = 99$. ✓
 
 **Conclusion.** $XY = \boxed{500}$ cm.
 

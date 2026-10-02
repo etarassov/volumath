@@ -51,7 +51,7 @@ $$(0,0,0), \; (0,0,1), \; (0,1,0), \; (1,0,0), \; (0,1,1), \; (1,0,1), \; (1,1,0
 
 Le symétrique du point $M = (a, b, c)$ par rapport au point $N = (a', b', c')$ est le point $M'$ tel que $N$ soit le milieu de $[MM']$. Ses coordonnées sont donc
 
-$$M' = \big(2a' - a, \; 2b' - b, \; 2c' - c\big).$$
+$$M' = (2a' - a, \; 2b' - b, \; 2c' - c).$$
 
 **Étape 3. L'invariant.**
 

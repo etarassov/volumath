@@ -39,7 +39,7 @@ On demande seulement un nombre.
 - $\dfrac{n}{3}$ doit valoir au moins $1$ : donc $n \geqslant 3$.
 - $3n$ doit valoir au moins $1$ et au plus $1000$ : donc $1 \leqslant 3n \leqslant 1000$.
 
-**La condition qui décide.** De $3n \leqslant 1000$ on tire $n \leqslant \dfrac{1000}{3} = 333{,}33\ldots$ Comme $n$ est un entier, cela signifie
+**La condition qui décide.** De $3n \leqslant 1000$ on tire $n \leqslant \dfrac{1000}{3} = \text{333,33}\ldots$ Comme $n$ est un entier, cela signifie
 
 $$n \leqslant 333 .$$
 

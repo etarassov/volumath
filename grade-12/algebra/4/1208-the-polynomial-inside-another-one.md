@@ -79,7 +79,7 @@ $$f(1) = 1 + 1 + b + 100 + c = 1 + 1 - 8009 + 100 + 900 = -7007.$$
 
 On peut aussi passer par la forme factorisée, ce qui est plus rapide :
 
-$$f(1) = g(1) \times (1 + 90) = \bigl(1 - 89 + 1 + 10\bigr) \times 91 = (-77) \times 91 = -7007.$$
+$$f(1) = g(1) \times (1 + 90) = (1 - 89 + 1 + 10) \times 91 = (-77) \times 91 = -7007.$$
 
 **Un mot sur l'hypothèse.** Il fallait bien trois racines **distinctes** : c'est ce qui force $R$ à être nul. Et l'hypothèse est réalisable : pour $a = -89$, le polynôme $g(x) = x^3 - 89x^2 + x + 10$ change de signe entre $-1$ et $0$, entre $0$ et $1$, puis entre $1$ et $100$ (on a $g(-1) = -81$, $g(0) = 10$, $g(1) = -77$ et $g(100) = 110\,110$), donc il a bien trois racines réelles distinctes d'après le théorème des valeurs intermédiaires.
 

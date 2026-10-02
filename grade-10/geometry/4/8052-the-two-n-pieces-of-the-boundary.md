@@ -111,7 +111,7 @@ long du cycle : chaque terme $-PA_{i+1}^2$ est annulé par le terme $+PA_{i+1}^2
 suivante, et le tout dernier, $-PA_{n+1}^2 = -PA_1^2$, annule le tout premier, $+PA_1^2$. Il
 reste
 
-$$\sum_{i=1}^{n} \big(PA_i^2 - PA_{i+1}^2\big) = PA_1^2 - PA_1^2 = 0 .$$
+$$\sum_{i=1}^{n} (PA_i^2 - PA_{i+1}^2) = PA_1^2 - PA_1^2 = 0 .$$
 
 À droite, on obtient
 

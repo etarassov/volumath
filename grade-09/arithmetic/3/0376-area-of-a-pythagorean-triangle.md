@@ -63,7 +63,7 @@ $$a = 2p+1 \qquad \text{et} \qquad b = 2q+1,$$
 
 avec $p$ et $q$ entiers. Donc
 
-$$a^2 + b^2 = \big(4(p^2+p) + 1\big) + \big(4(q^2+q) + 1\big) = 4\big(p^2+p+q^2+q\big) + 2.$$
+$$a^2 + b^2 = (4(p^2+p) + 1) + (4(q^2+q) + 1) = 4(p^2+p+q^2+q) + 2.$$
 
 Le nombre $a^2 + b^2$ donne donc le reste $2$ dans la division par $4$.
 

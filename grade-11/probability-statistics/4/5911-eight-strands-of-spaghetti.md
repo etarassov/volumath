@@ -38,7 +38,7 @@ Quelle est la probabilité d'obtenir **une seule grande boucle** ?
 
 ## Solution
 
-**Réponse : $\dfrac{2048}{6435} \approx 0{,}318$, soit un peu moins d'une chance sur trois.**
+**Réponse : $\dfrac{2048}{6435} \approx \text{0,318}$, soit un peu moins d'une chance sur trois.**
 
 ### La bonne façon de regarder le premier collage
 
@@ -63,13 +63,13 @@ Au numérateur : $14 \times 12 \times 10 \times 8 \times 6 \times 4 \times 2 = 6
 Au dénominateur : $15 \times 13 \times 11 \times 9 \times 7 \times 5 \times 3 = 2\,027\,025$.
 
 En simplifiant par $315$ :
-$$p_8 = \frac{645\,120}{2\,027\,025} = \frac{2048}{6435} \approx 0{,}3183.$$
+$$p_8 = \frac{645\,120}{2\,027\,025} = \frac{2048}{6435} \approx \text{0,3183}.$$
 
 ### Vérification sur les petits cas
 
 - $p_1 = 1$.
 - $p_2 = \dfrac{2}{3}$. Vérifions à la main : avec $2$ spaghettis il y a $4$ extrémités, donc $\binom{4}{2} = 6$ premiers collages possibles, tous de même probabilité. Deux d'entre eux referment un spaghetti sur lui-même, les quatre autres joignent les deux spaghettis. Dans ces quatre cas on obtient un long spaghetti, puis une boucle unique. La probabilité vaut bien $\tfrac{4}{6} = \tfrac{2}{3}$.
-- $p_3 = \dfrac{4}{5} \times \dfrac{2}{3} = \dfrac{8}{15} \approx 0{,}53$.
+- $p_3 = \dfrac{4}{5} \times \dfrac{2}{3} = \dfrac{8}{15} \approx \text{0,53}$.
 
 On voit que la probabilité décroît, mais lentement : même avec beaucoup de spaghettis, l'événement reste loin d'être rare.
 

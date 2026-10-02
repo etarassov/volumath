@@ -87,7 +87,7 @@ $$c_{i+1}, \; c_{i+2}, \; \ldots, \; c_{i+y}$$
 (indices modulo $n$), c'est-à-dire **$y$ couleurs consécutives dans l'ordre cyclique $c_0, c_1, \ldots, c_{n-1}, c_0, \ldots$**, chacune une seule fois. Comme $y < n$, toutes les autres couleurs sont absentes de cette ligne.
 
 Donc, pour une couleur $c_m$ :
-$$\text{nombre d'apparitions de } c_m = \#\big\{ i \in \{1, \ldots, x\} \;:\; m \in \{i+1, \ldots, i+y\} \big\} .$$
+$$\text{nombre d'apparitions de } c_m = \#\{ i \in \{1, \ldots, x\} \;:\; m \in \{i+1, \ldots, i+y\} \} .$$
 
 La condition « $m$ est entre $i+1$ et $i+y$ » se réécrit « $i$ est entre $m-y$ et $m-1$ ». On compare donc deux blocs de restes consécutifs modulo $n$ : le bloc $A = \{1, \ldots, x\}$, de longueur $x$, et le bloc $B_m = \{m-y, \ldots, m-1\}$, de longueur $y$. Le nombre d'apparitions de $c_m$ est le nombre d'éléments communs.
 

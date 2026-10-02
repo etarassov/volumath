@@ -41,7 +41,7 @@ consécutifs strictement positifs ?
 
 La somme porte sur les entiers de $n$ à $n+m$, il y a donc $m+1$ termes. En regroupant le premier
 avec le dernier, le deuxième avec l'avant-dernier, etc., on obtient la formule classique
-$$n + (n+1) + \dots + (n+m) = \frac{(m+1)\bigl(n + (n+m)\bigr)}{2} = \frac{(m+1)(2n+m)}{2}.$$
+$$n + (n+1) + \dots + (n+m) = \frac{(m+1)(n + (n+m))}{2} = \frac{(m+1)(2n+m)}{2}.$$
 
 L'équation devient donc
 $$(m+1)(2n+m) = 2000.$$

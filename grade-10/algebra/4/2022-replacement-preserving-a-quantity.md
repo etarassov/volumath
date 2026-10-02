@@ -37,7 +37,7 @@ Peut-on obtenir au tableau les trois nombres $2$, $3$, $3$ ?
 1. Essayez quelques opérations pour sentir ce qui se passe. Les nombres deviennent vite compliqués : ce n'est sûrement pas en calculant qu'on s'en sortira.
 2. Cherchez une quantité qui ne change **jamais**, quelle que soit l'opération effectuée. On appelle cela un invariant.
 3. Les coefficients $\text{0,6}$ et $\text{0,8}$ ne sont pas choisis au hasard : $\text{0,6}^2 + \text{0,8}^2 = 1$. Cela suggère de regarder des carrés.
-4. Calculez $\big(\text{0,6}\,a + \text{0,8}\,b\big)^2 + \big(\text{0,8}\,a - \text{0,6}\,b\big)^2$.
+4. Calculez $(\text{0,6}\,a + \text{0,8}\,b)^2 + (\text{0,8}\,a - \text{0,6}\,b)^2$.
 
 ## Solution
 
@@ -45,12 +45,12 @@ Peut-on obtenir au tableau les trois nombres $2$, $3$, $3$ ?
 
 Développons la somme des carrés des deux nouveaux nombres :
 
-$$\big(\text{0,6}\,a + \text{0,8}\,b\big)^2 = \text{0,36}\,a^2 + \text{0,96}\,ab + \text{0,64}\,b^2 ,$$
-$$\big(\text{0,8}\,a - \text{0,6}\,b\big)^2 = \text{0,64}\,a^2 - \text{0,96}\,ab + \text{0,36}\,b^2 .$$
+$$(\text{0,6}\,a + \text{0,8}\,b)^2 = \text{0,36}\,a^2 + \text{0,96}\,ab + \text{0,64}\,b^2 ,$$
+$$(\text{0,8}\,a - \text{0,6}\,b)^2 = \text{0,64}\,a^2 - \text{0,96}\,ab + \text{0,36}\,b^2 .$$
 
 En additionnant, les doubles produits se détruisent :
 
-$$\big(\text{0,6}\,a + \text{0,8}\,b\big)^2 + \big(\text{0,8}\,a - \text{0,6}\,b\big)^2 = (\text{0,36} + \text{0,64})\,a^2 + (\text{0,64} + \text{0,36})\,b^2 = a^2 + b^2 .$$
+$$(\text{0,6}\,a + \text{0,8}\,b)^2 + (\text{0,8}\,a - \text{0,6}\,b)^2 = (\text{0,36} + \text{0,64})\,a^2 + (\text{0,64} + \text{0,36})\,b^2 = a^2 + b^2 .$$
 
 Les deux nombres effacés avaient pour somme de carrés $a^2 + b^2$ ; les deux nouveaux ont exactement la même. Le troisième nombre n'a pas bougé. Donc :
 

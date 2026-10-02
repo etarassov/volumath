@@ -59,7 +59,7 @@ $$a_4 + a_5 + a_6 + a_7 \leq 4a_4 - 6.$$
 
 En combinant avec $a_4 + a_5 + a_6 + a_7 \geq 51$ :
 
-$$4a_4 - 6 \geq 51, \qquad \text{donc} \qquad a_4 \geq \frac{57}{4} = 14{,}25,$$
+$$4a_4 - 6 \geq 51, \qquad \text{donc} \qquad a_4 \geq \frac{57}{4} = \text{14,25},$$
 
 et comme $a_4$ est un entier, $a_4 \geq 15$.
 

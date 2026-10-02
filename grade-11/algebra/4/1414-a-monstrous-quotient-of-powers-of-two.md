@@ -53,7 +53,7 @@ $$\frac{a^2 + 1}{a + b + 1}.$$
 
 Calculons le produit $(a + b + 1)(a - b + 1)$. En regroupant $a + 1$ d'un côté, on reconnaît une différence de deux carrés :
 
-$$(a + b + 1)(a - b + 1) = \bigl((a+1) + b\bigr)\bigl((a+1) - b\bigr) = (a+1)^2 - b^2 .$$
+$$(a + b + 1)(a - b + 1) = ((a+1) + b)((a+1) - b) = (a+1)^2 - b^2 .$$
 
 Or $(a+1)^2 = a^2 + 2a + 1$ et $b^2 = 2a$, donc
 

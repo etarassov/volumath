@@ -22,7 +22,7 @@ source:
 
 Déterminer toutes les fonctions $f : \mathbb{N} \to \mathbb{N}$ telles que, pour tous entiers naturels $m$ et $n$,
 
-$$f\big(f(m) + f(n)\big) = m + n .$$
+$$f(f(m) + f(n)) = m + n .$$
 
 (Ici $\mathbb{N} = \{0, 1, 2, \ldots\}$.)
 
@@ -44,7 +44,7 @@ $$f(2c) = 0 .$$
 
 Reprenons l'équation avec $m = n = 2c$ :
 
-$$f\big(f(2c) + f(2c)\big) = 2c + 2c = 4c .$$
+$$f(f(2c) + f(2c)) = 2c + 2c = 4c .$$
 
 Mais $f(2c) = 0$, donc le membre de gauche vaut $f(0+0) = f(0) = c$. Ainsi
 
@@ -54,7 +54,7 @@ $$c = 4c, \qquad \text{donc} \qquad 3c = 0, \qquad \text{donc} \qquad c = f(0) =
 
 Prenons $n = 0$ dans l'équation générale :
 
-$$f\big(f(m) + f(0)\big) = m + 0, \qquad \text{c'est-à-dire} \qquad f\big(f(m)\big) = m \quad \text{pour tout } m .$$
+$$f(f(m) + f(0)) = m + 0, \qquad \text{c'est-à-dire} \qquad f(f(m)) = m \quad \text{pour tout } m .$$
 
 En particulier $f$ est bijective : elle est sa propre fonction réciproque.
 
@@ -62,7 +62,7 @@ En particulier $f$ est bijective : elle est sa propre fonction réciproque.
 
 Appliquons $f$ aux deux membres de l'équation de départ :
 
-$$f\Big(f\big(f(m)+f(n)\big)\Big) = f(m+n) .$$
+$$f(f(f(m)+f(n))) = f(m+n) .$$
 
 Le membre de gauche est de la forme $f(f(x))$ avec $x = f(m)+f(n)$, donc il vaut $x$. Ainsi
 

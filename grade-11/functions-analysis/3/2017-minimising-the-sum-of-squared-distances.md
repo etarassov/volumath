@@ -46,7 +46,7 @@ $$(x - a_k)^2 = x^2 - 2a_k x + a_k^2 .$$
 
 En sommant pour $k$ allant de $1$ à $n$ :
 
-$$f(x) = n\,x^2 - 2\big(a_1 + a_2 + \cdots + a_n\big)\,x + \big(a_1^2 + a_2^2 + \cdots + a_n^2\big).$$
+$$f(x) = n\,x^2 - 2(a_1 + a_2 + \cdots + a_n)\,x + (a_1^2 + a_2^2 + \cdots + a_n^2).$$
 
 Notons $S = a_1 + \cdots + a_n$ et $Q = a_1^2 + \cdots + a_n^2$, de sorte que
 

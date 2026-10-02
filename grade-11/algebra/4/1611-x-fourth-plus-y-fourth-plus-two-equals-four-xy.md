@@ -39,7 +39,7 @@ d'une.**
 **Étape 1. Une identité.**
 
 Pour tous réels $x$ et $y$ :
-$$(x^2 - y^2)^2 + 2(xy - 1)^2 = \bigl(x^4 - 2x^2y^2 + y^4\bigr) + 2\bigl(x^2y^2 - 2xy + 1\bigr) .$$
+$$(x^2 - y^2)^2 + 2(xy - 1)^2 = (x^4 - 2x^2y^2 + y^4) + 2(x^2y^2 - 2xy + 1) .$$
 
 En développant le second membre :
 $$x^4 - 2x^2y^2 + y^4 + 2x^2y^2 - 4xy + 2 = x^4 + y^4 + 2 - 4xy ,$$

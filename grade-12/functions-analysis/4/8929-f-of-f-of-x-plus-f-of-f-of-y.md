@@ -72,7 +72,7 @@ La fonction $f$ est donc forcément de la forme $t \mapsto t + c$.
 
 Il reste à voir quelles constantes $c$ conviennent. Si $f(t) = t + c$, alors $f(f(x)) = f(x+c) = x + 2c$, et l'équation de départ devient
 
-$$(x + 2c) + (y + 2c) = 2y + \big((x-y) + c\big),$$
+$$(x + 2c) + (y + 2c) = 2y + ((x-y) + c),$$
 
 c'est-à-dire
 

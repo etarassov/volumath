@@ -110,7 +110,7 @@ soit $3! = 6$ permutations interdites, et $24 - 6 = 18$.
 
 Le résultat est joli : sur les $n!$ permutations de $1, \ldots, n$, seules $2 \times 3^{n-2}$
 sont presque croissantes. Pour $n = 10$, cela fait $13\,122$ sur $3\,628\,800$, soit moins de
-$0{,}4\,\%$.
+$\text{0,4}\,\%$.
 
 La méthode employée est celle de la **construction incrémentale** : au lieu de compter
 directement, on cherche comment fabriquer les objets de taille $n+1$ à partir de ceux de

@@ -120,7 +120,7 @@ $$B = \{1, \ldots, 1\,020\,604\} \;\cup\; \{2\,041\,210\} \;\cup\; \{3\,061\,816
 
 **Sa somme** vaut la somme de tout $E$ moins celle de $A$ :
 
-$$\frac{N^2(N^2+1)}{2} - a^2 = \frac{N^2(N^2+1)}{2} - \frac{N^2(N-1)^2}{4} = \frac{N^2 \big( 2N^2 + 2 - (N-1)^2 \big)}{4}.$$
+$$\frac{N^2(N^2+1)}{2} - a^2 = \frac{N^2(N^2+1)}{2} - \frac{N^2(N-1)^2}{4} = \frac{N^2 ( 2N^2 + 2 - (N-1)^2 )}{4}.$$
 
 Développons le crochet :
 

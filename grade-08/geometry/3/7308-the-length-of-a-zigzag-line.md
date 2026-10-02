@@ -61,7 +61,7 @@ $$c_1 + c_2 + \cdots + c_k = AB = 1 .$$
 La longueur totale de la ligne brisée vaut donc
 $$L = c_1\sqrt{2} + c_2\sqrt{2} + \cdots + c_k\sqrt{2} = (c_1 + c_2 + \cdots + c_k)\sqrt{2} = 1 \times \sqrt{2} .$$
 
-**Conclusion.** La ligne brisée mesure $\sqrt{2}$, soit environ $1{,}41$, quel que soit le nombre de sommets et quelles que soient leurs positions.
+**Conclusion.** La ligne brisée mesure $\sqrt{2}$, soit environ $\text{1,41}$, quel que soit le nombre de sommets et quelles que soient leurs positions.
 
 **Une autre façon de le voir.** Faites glisser tous les segments qui montent vers la gauche, en les mettant bout à bout, et tous les segments qui descendent aussi. On reconstitue exactement les deux côtés d'un grand triangle rectangle isocèle de base $[AB]$, c'est-à-dire la moitié d'un carré de côté $1$. La ligne brisée a donc la même longueur que la diagonale de ce carré.
 

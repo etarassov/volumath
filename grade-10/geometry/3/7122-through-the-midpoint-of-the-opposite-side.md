@@ -55,7 +55,7 @@ $$\vec{AN} = \frac{t}{2}\,\vec v .$$
 
 **Le point $P$, vu depuis $(BM)$.** Il existe un nombre $s$ tel que
 
-$$\vec{AP} = \vec{AB} + s\,\vec{BM} = \vec u + s\big(t\vec v - \vec u\big) = (1-s)\,\vec u + st\,\vec v .$$
+$$\vec{AP} = \vec{AB} + s\,\vec{BM} = \vec u + s(t\vec v - \vec u) = (1-s)\,\vec u + st\,\vec v .$$
 
 **Le point $P$, vu depuis $(CN)$.** Il existe un nombre $r$ tel que
 

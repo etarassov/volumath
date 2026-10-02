@@ -46,7 +46,7 @@ Considérons les trois points
 $$A = (0\,;0) , \qquad B = (1\,;0) , \qquad C = \left(\frac12\,;\, \frac{\sqrt3}{2}\right) .$$
 
 *Ils sont bien dans le carré.* Leurs abscisses valent $0$, $1$ et $\tfrac12$, toutes comprises
-entre $0$ et $2$ ; leurs ordonnées valent $0$, $0$ et $\tfrac{\sqrt3}{2} \approx 0{,}87$, elles
+entre $0$ et $2$ ; leurs ordonnées valent $0$, $0$ et $\tfrac{\sqrt3}{2} \approx \text{0,87}$, elles
 aussi comprises entre $0$ et $2$.
 
 *Ils forment un triangle équilatéral de côté $1$.* En effet :

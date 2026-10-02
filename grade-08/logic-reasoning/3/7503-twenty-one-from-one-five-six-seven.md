@@ -29,7 +29,7 @@ Peut-on obtenir $21$ ?
 ## Hints
 
 1. Essaie d'abord sans division. Tu vas voir que tu n'y arrives pas : les sommes et produits de $1$, $5$, $6$, $7$ tombent rarement sur $21$.
-2. $21 = 3 \times 7$, et aussi $21 = 6 \times 3{,}5$. Est-ce que l'un de ces deux découpages aide ?
+2. $21 = 3 \times 7$, et aussi $21 = 6 \times \text{3,5}$. Est-ce que l'un de ces deux découpages aide ?
 3. Pour qu'une division donne un résultat plus **grand** que le nombre de départ, il faut diviser par un nombre plus petit que $1$.
 4. Cherche à écrire $21 = \dfrac{6}{\text{quelque chose}}$. Que doit valoir ce « quelque chose » ? Peux-tu le fabriquer avec $1$, $5$ et $7$ ?
 

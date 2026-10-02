@@ -90,7 +90,7 @@ $$99 = 13b - 2c .$$
 
 Comme $c$ est un chiffre, $0 \leq 2c \leq 18$, donc
 $$99 \leq 13b \leq 117 ,$$
-c'est-à-dire $7{,}6\ldots \leq b \leq 9$. Donc $b \in \{8, 9\}$.
+c'est-à-dire $\text{7,6}\ldots \leq b \leq 9$. Donc $b \in \{8, 9\}$.
 
 - Si $b = 8$ : $13 \times 8 = 104$, donc $2c = 104 - 99 = 5$. Impossible, $5$ est impair.
 - Si $b = 9$ : $13 \times 9 = 117$, donc $2c = 117 - 99 = 18$, donc $c = 9$. Cela convient.

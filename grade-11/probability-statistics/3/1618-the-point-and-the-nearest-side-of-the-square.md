@@ -59,7 +59,7 @@ L'ensemble de ces points est donc un **carré de même centre**, de côté $1 - 
 $$(1-2t)^2 .$$
 
 Comme le grand carré a pour aire $1$, on obtient
-$$P\bigl(d(P) \ge t\bigr) = (1-2t)^2 .$$
+$$P(d(P) \ge t) = (1-2t)^2 .$$
 
 **Étape 2. Les deux valeurs utiles.**
 

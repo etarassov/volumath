@@ -31,7 +31,7 @@ est divisible par $9$.
 1. Essayez avec $n = 0$, $n = 1$, $n = 2$, $n = 3$. Que valent les quatre nombres obtenus ?
 2. C'est une propriété qui dépend d'un entier $n$ et qu'il faut prouver pour tous les entiers : le raisonnement par récurrence est fait pour cela.
 3. Pour l'hérédité, calculez la différence entre le nombre au rang $n+1$ et le nombre au rang $n$. Essayez d'y faire apparaître $4^n + 15n - 1$.
-4. $4^{n+1} = 4 \times 4^n$. Écrivez $4^{n+1} + 15(n+1) - 1$ sous la forme $4\big(4^n + 15n - 1\big) + \text{quelque chose}$.
+4. $4^{n+1} = 4 \times 4^n$. Écrivez $4^{n+1} + 15(n+1) - 1$ sous la forme $4(4^n + 15n - 1) + \text{quelque chose}$.
 
 ## Solution
 
@@ -63,6 +63,6 @@ et $4k - 5n + 2$ est un entier. Donc $u_{n+1}$ est divisible par $9$.
 
 On peut aussi présenter la même idée sans récurrence, en calculant la différence de deux termes consécutifs :
 
-$$u_{n+1} - 4u_n = \big(4^{n+1} + 15n + 14\big) - 4\big(4^n + 15n - 1\big) = -45n + 18 = 9(2 - 5n).$$
+$$u_{n+1} - 4u_n = (4^{n+1} + 15n + 14) - 4(4^n + 15n - 1) = -45n + 18 = 9(2 - 5n).$$
 
 Ainsi $u_{n+1} = 4u_n + 9(2-5n)$ : si $u_n$ est un multiple de $9$, alors $u_{n+1}$ aussi. C'est exactement l'hérédité, écrite autrement.

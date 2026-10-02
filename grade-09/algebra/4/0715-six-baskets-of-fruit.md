@@ -92,4 +92,4 @@ Voici un exemple pour se convaincre que la situation est possible. Prenons $1$, 
 
 $$21 + 105 + 525 = 651 = 31 \times 21$$
 
-Essaie aussi de voir ce que donnerait le même problème avec $n$ paniers au lieu de $6$ : on trouve $R = (n-1)P$, puis $Q = (n-1)^2 P$, et le total vaut $\big(1 + (n-1) + (n-1)^2\big) P$. Pour $n = 6$ cela fait bien $1 + 5 + 25 = 31$.
+Essaie aussi de voir ce que donnerait le même problème avec $n$ paniers au lieu de $6$ : on trouve $R = (n-1)P$, puis $Q = (n-1)^2 P$, et le total vaut $(1 + (n-1) + (n-1)^2) P$. Pour $n = 6$ cela fait bien $1 + 5 + 25 = 31$.

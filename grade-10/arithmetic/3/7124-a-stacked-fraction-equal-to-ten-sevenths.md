@@ -57,7 +57,7 @@ $$\frac{1}{y + \frac{1}{z}} = \frac{10}{7} - 1 = \frac{3}{7},
 
 $$y < \frac{7}{3} \leqslant y + 1 .$$
 
-Or $\dfrac{7}{3}$ vaut $2{,}33\ldots$, donc $y = 2$. (On vérifie que $y = 1$ ne marche pas :
+Or $\dfrac{7}{3}$ vaut $\text{2,33}\ldots$, donc $y = 2$. (On vérifie que $y = 1$ ne marche pas :
 il faudrait $\dfrac1z = \dfrac{7}{3} - 1 = \dfrac43 > 1$, impossible.)
 
 **On détermine $z$.** Il reste

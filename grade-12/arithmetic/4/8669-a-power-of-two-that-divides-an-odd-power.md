@@ -52,7 +52,7 @@ $$k^2 - 1 = 2j \times (2j+2) = 4\,j(j+1) ,$$
 
 et $j(j+1)$ est pair. Il y a donc au moins trois facteurs $2$ :
 
-$$8 \ \big|\ k^2 - 1 .$$
+$$8  \mid k^2 - 1 .$$
 
 $P(1)$ est vraie.
 
@@ -85,7 +85,7 @@ Donc $2^{\,n+3} = 2^{\,(n+1)+2}$ divise $k^{\,2^{\,n+1}} - 1$ : $P(n+1)$ est vra
 
 D'après le principe de récurrence, $P(n)$ est vraie pour tout $n \geqslant 1$ :
 
-$$\boxed{2^{\,n+2} \ \big|\ k^{\,2^{\,n}} - 1 \quad \text{pour tout entier impair } k \text{ et tout } n \geqslant 1 .}$$
+$$\boxed{2^{\,n+2}  \mid k^{\,2^{\,n}} - 1 \quad \text{pour tout entier impair } k \text{ et tout } n \geqslant 1 .}$$
 
 **Vérification sur un exemple.** Avec $k = 3$ : $3^2 - 1 = 8 = 2^3$ ; $3^4 - 1 = 80 = 2^4 \times 5$ ; $3^8 - 1 = 6560 = 2^5 \times 205$. À chaque étape, la puissance de $2$ gagne exactement un cran, comme annoncé.
 

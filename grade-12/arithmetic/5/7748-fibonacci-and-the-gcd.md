@@ -79,7 +79,7 @@ Pour $n = 1$ : le membre de droite vaut $F_{m-1} F_1 + F_m F_2 = F_{m-1} + F_m =
 **Hérédité.** Supposons $(\star)$ vraie aux rangs $n$ et $n+1$. Alors
 
 $$F_{m+n+2} = F_{m+n+1} + F_{m+n}$$
-$$= \bigl(F_{m-1} F_{n+1} + F_m F_{n+2}\bigr) + \bigl(F_{m-1} F_n + F_m F_{n+1}\bigr)$$
+$$= (F_{m-1} F_{n+1} + F_m F_{n+2}) + (F_{m-1} F_n + F_m F_{n+1})$$
 $$= F_{m-1}\,(F_{n+1} + F_n) + F_m\,(F_{n+2} + F_{n+1})$$
 $$= F_{m-1} F_{n+2} + F_m F_{n+3} .$$
 

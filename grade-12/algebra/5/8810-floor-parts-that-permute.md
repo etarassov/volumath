@@ -20,7 +20,7 @@ source:
 
 ## Statement
 
-Pour un réel $x$, on note $\lfloor x \rfloor$ sa **partie entière**, c'est-à-dire le plus grand entier inférieur ou égal à $x$. Par exemple $\lfloor 3{,}7 \rfloor = 3$ et $\lfloor -1{,}2 \rfloor = -2$.
+Pour un réel $x$, on note $\lfloor x \rfloor$ sa **partie entière**, c'est-à-dire le plus grand entier inférieur ou égal à $x$. Par exemple $\lfloor \text{3,7} \rfloor = 3$ et $\lfloor -\text{1,2} \rfloor = -2$.
 
 Soit $n \geqslant 2$ un entier. On dit que des réels $x_1, x_2, \dots, x_n$ sont **$n$-partageants** lorsque chacun des entiers $1, 2, \dots, n$ est égal à exactement un des $n$ nombres
 $$\lfloor x_1 \rfloor, \; \lfloor x_2 \rfloor, \; \dots, \; \lfloor x_n \rfloor .$$
@@ -46,7 +46,7 @@ lorsque $x_1, x_2, \dots, x_n$ sont $n$-partageants.
 **Pour tous réels $u$ et $v$ :**
 $$\lfloor u \rfloor + \lfloor v \rfloor \; \leqslant \; \lfloor u + v \rfloor \; \leqslant \; \lfloor u \rfloor + \lfloor v \rfloor + 1 .$$
 
-En effet, $u + v = \big(\lfloor u \rfloor + \lfloor v \rfloor\big) + \big(\{u\} + \{v\}\big)$, et le second morceau vérifie $0 \leqslant \{u\} + \{v\} < 2$. La partie entière de $u+v$ est donc $\lfloor u \rfloor + \lfloor v \rfloor$ ou $\lfloor u \rfloor + \lfloor v \rfloor + 1$, selon que $\{u\}+\{v\}$ est plus petit ou plus grand que $1$.
+En effet, $u + v = (\lfloor u \rfloor + \lfloor v \rfloor) + (\{u\} + \{v\})$, et le second morceau vérifie $0 \leqslant \{u\} + \{v\} < 2$. La partie entière de $u+v$ est donc $\lfloor u \rfloor + \lfloor v \rfloor$ ou $\lfloor u \rfloor + \lfloor v \rfloor + 1$, selon que $\{u\}+\{v\}$ est plus petit ou plus grand que $1$.
 
 ### Étape 2 : on encadre chaque terme
 
@@ -59,7 +59,7 @@ $$\lfloor x_{i+1} \rfloor - \lfloor x_i \rfloor - 1 \; \leqslant \; \lfloor x_{i
 ### Étape 3 : on somme, et tout se télescope
 
 Additionnons $(\star)$ pour $i = 1, 2, \dots, n-1$. Au milieu on obtient $T$. À droite,
-$$\sum_{i=1}^{n-1} \big( \lfloor x_{i+1} \rfloor - \lfloor x_i \rfloor \big) = \lfloor x_n \rfloor - \lfloor x_1 \rfloor ,$$
+$$\sum_{i=1}^{n-1} ( \lfloor x_{i+1} \rfloor - \lfloor x_i \rfloor ) = \lfloor x_n \rfloor - \lfloor x_1 \rfloor ,$$
 car la somme est télescopique. À gauche, on retranche $n-1$ fois $1$. Donc
 $$\lfloor x_n \rfloor - \lfloor x_1 \rfloor - (n-1) \; \leqslant \; T \; \leqslant \; \lfloor x_n \rfloor - \lfloor x_1 \rfloor . \qquad (\star\star)$$
 

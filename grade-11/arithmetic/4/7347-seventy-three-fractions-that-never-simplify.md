@@ -46,7 +46,7 @@ $$(n + k + 2) - k = n + 2 ,$$
 la **même pour toutes les fractions**. C'est le point de départ.
 
 Tout diviseur commun de $k$ et de $n+k+2$ divise leur différence $n+2$ ; et réciproquement, tout diviseur commun de $k$ et de $n+2$ divise leur somme $n+k+2$. Donc
-$$\mathrm{PGCD}\big(k, \; n+k+2\big) = \mathrm{PGCD}\big(k, \; n+2\big) .$$
+$$\mathrm{PGCD}(k, \; n+k+2) = \mathrm{PGCD}(k, \; n+2) .$$
 
 Les $73$ fractions sont donc toutes irréductibles si et seulement si
 

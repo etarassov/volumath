@@ -56,7 +56,7 @@ C'est le **principe des tiroirs** sous sa forme générale : si l'on range $n$ o
 tiroirs, un tiroir au moins contient au moins $\left\lceil \dfrac{n}{k} \right\rceil$ objets,
 c'est-à-dire $\dfrac{n}{k}$ arrondi vers le haut.
 
-Ici $n = 16$ et $k = 3$, et $\dfrac{16}{3} = 5{,}33\ldots$, arrondi vers le haut : $6$.
+Ici $n = 16$ et $k = 3$, et $\dfrac{16}{3} = \text{5,33}\ldots$, arrondi vers le haut : $6$.
 
 Le nombre $16$ est le plus petit qui marche : avec $15$ élèves, on pourrait avoir exactement cinq
 élèves par exercice, et aucun groupe de six.

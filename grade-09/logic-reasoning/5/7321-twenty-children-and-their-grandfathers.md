@@ -79,7 +79,7 @@ $$t' + u' = s . \qquad (3)$$
 **Étape 4 : le compte final.**
 
 Additionnons les trois nombres de petits-enfants, en utilisant $(1)$, $(2)$ puis $(3)$ :
-$$s + t + u = s + \big(t' + 20 - s\big) + \big(u' + 20 - s\big) = (t' + u') + 40 - s = s + 40 - s = 40 .$$
+$$s + t + u = s + (t' + 20 - s) + (u' + 20 - s) = (t' + u') + 40 - s = s + 40 - s = 40 .$$
 
 Trois nombres dont la somme vaut $40$ ne peuvent pas être tous inférieurs ou égaux à $13$ : cela donnerait au plus $39$.
 

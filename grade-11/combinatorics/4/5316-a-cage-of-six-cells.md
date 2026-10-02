@@ -67,7 +67,7 @@ Coupons la cage en deux paquets : le paquet $A$ des cases situées sur les ligne
 
 L'ensemble des colonnes touchées par la cage est $C_1 \cup C_2 \cup \cdots \cup C_\ell$, qui compte $c$ éléments. Ajoutons les ensembles un par un : quand on ajoute $C_{i+1}$, au moins un de ses éléments est déjà présent, puisqu'il appartient aussi à $C_i$. Chaque nouvel ensemble apporte donc au plus $|C_{i+1}| - 1$ colonnes nouvelles :
 
-$$c = |C_1 \cup \cdots \cup C_\ell| \leqslant |C_1| + \big(|C_2| - 1\big) + \cdots + \big(|C_\ell| - 1\big) = n - (\ell - 1) .$$
+$$c = |C_1 \cup \cdots \cup C_\ell| \leqslant |C_1| + (|C_2| - 1) + \cdots + (|C_\ell| - 1) = n - (\ell - 1) .$$
 
 D'où
 $$c \leqslant n - \ell + 1, \qquad \text{c'est-à-dire} \qquad n \geqslant \ell + c - 1 .$$

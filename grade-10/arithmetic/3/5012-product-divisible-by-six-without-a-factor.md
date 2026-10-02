@@ -79,7 +79,7 @@ solutions, au lieu des deux attendues.
 Remplaçons $n$ par $n + 6$. Alors $n - 2$ devient $(n-2) + 6$ et $n - 3$ devient $(n-3) + 6$.
 En développant,
 
-$$\bigl((n-2)+6\bigr)\bigl((n-3)+6\bigr) = (n-2)(n-3) + 6(n-2) + 6(n-3) + 36 ,$$
+$$((n-2)+6)((n-3)+6) = (n-2)(n-3) + 6(n-2) + 6(n-3) + 36 ,$$
 
 et les trois derniers termes sont tous des multiples de $6$. Donc le produit change d'un
 multiple de $6$ : il est divisible par $6$ pour $n$ si et seulement s'il l'est pour $n + 6$.

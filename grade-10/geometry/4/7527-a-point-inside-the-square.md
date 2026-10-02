@@ -88,6 +88,6 @@ $$\widehat{CED} = 60°.$$
 
 La démonstration est un retournement de problème : au lieu de partir de $E$ et de calculer, on part de la réponse supposée et on vérifie qu'elle donne bien les données de l'énoncé. Cette manœuvre n'est licite que grâce à l'étape 1, l'**unicité** du point $E$ : sans elle, on aurait seulement montré qu'il existe un point vérifiant l'énoncé pour lequel la réponse est $60°$, ce qui ne suffirait pas.
 
-Vérifions au passage par le calcul. Avec $AB = 1$, le point $E$ est à la distance $h$ de $(AB)$ avec $\tan(75°) = \dfrac{1/2}{h}$, donc $h = \dfrac{1}{2\tan 75°} \approx 0{,}134$. Le côté du carré valant $1$, le point $E$ est à la distance $1 - 0{,}134 = 0{,}866$ de la droite $(DC)$. Or $0{,}866 \approx \dfrac{\sqrt3}{2}$, qui est exactement la hauteur d'un triangle équilatéral de côté $1$. Tout concorde.
+Vérifions au passage par le calcul. Avec $AB = 1$, le point $E$ est à la distance $h$ de $(AB)$ avec $\tan(75°) = \dfrac{1/2}{h}$, donc $h = \dfrac{1}{2\tan 75°} \approx \text{0,134}$. Le côté du carré valant $1$, le point $E$ est à la distance $1 - \text{0,134} = \text{0,866}$ de la droite $(DC)$. Or $\text{0,866} \approx \dfrac{\sqrt3}{2}$, qui est exactement la hauteur d'un triangle équilatéral de côté $1$. Tout concorde.
 
 À toi : dans le même carré, place $E$ de sorte que $\widehat{AEB} = 120°$ au lieu de $150°$, toujours avec $EA = EB$. Que vaut alors $\widehat{CED}$ ? Cette fois la réponse n'est plus un angle « rond », ce qui montre à quel point la valeur $150°$ était choisie pour que la figure se referme.

@@ -90,4 +90,4 @@ $$32, \ 36, \ 37, \ 39, \ 40, \ 43, \ 44, \ 44, \ 48, \ 51 .$$
 
 Les trois plus petites sont bien $32$, $36$, $37$ et les deux plus grandes $48$ et $51$. ✓
 
-**Conclusion.** La seule valeur possible est $e = \boxed{\dfrac{55}{2}}$, soit $27{,}5$.
+**Conclusion.** La seule valeur possible est $e = \boxed{\dfrac{55}{2}}$, soit $\text{27,5}$.

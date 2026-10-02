@@ -44,7 +44,7 @@ Donc $x = -2$ est une solution.
 
 **Factorisation.** Puisque $-2$ est racine, $P(x)$ est divisible par $x + 2$. Cherchons $a$, $b$, $c$ tels que
 
-$$x^3 - 5x - 2 = (x+2)\big(ax^2 + bx + c\big).$$
+$$x^3 - 5x - 2 = (x+2)(ax^2 + bx + c).$$
 
 En développant le membre de droite :
 
@@ -59,7 +59,7 @@ Identifions les coefficients avec $x^3 + 0\,x^2 - 5x - 2$ :
 
 Ainsi
 
-$$x^3 - 5x - 2 = (x + 2)\big(x^2 - 2x - 1\big).$$
+$$x^3 - 5x - 2 = (x + 2)(x^2 - 2x - 1).$$
 
 **Les deux autres racines.** Un produit est nul si et seulement si l'un de ses facteurs est nul. Il reste donc à résoudre
 

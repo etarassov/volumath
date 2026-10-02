@@ -31,7 +31,7 @@ Déterminer la valeur exacte de $p$.
 1. Quatre lancers, autant de pile que de face : combien de « pile » faut-il obtenir exactement ?
 2. Nomme $X$ le nombre de « pile » obtenus sur les quatre lancers. Quelle loi suit $X$ ? Quels sont ses paramètres ?
 3. Écris $P(X = 2)$ en fonction de $p$. N'oublie pas le coefficient binomial.
-4. Tu obtiens une équation de degré $4$ en $p$. Mais le membre de gauche est un **carré** : $p^2(1-p)^2 = \big(p(1-p)\big)^2$. Cela ramène à une équation du second degré.
+4. Tu obtiens une équation de degré $4$ en $p$. Mais le membre de gauche est un **carré** : $p^2(1-p)^2 = (p(1-p))^2$. Cela ramène à une équation du second degré.
 5. Attention au signe : $p(1-p)$ est-il positif ou négatif ? Et à la fin, laquelle des deux racines retenir ?
 
 ## Solution
@@ -56,11 +56,11 @@ $$6\, p^2 (1-p)^2 = \frac16, \qquad \text{c'est-à-dire} \qquad p^2(1-p)^2 = \fr
 
 Le membre de gauche est un carré :
 
-$$p^2 (1-p)^2 = \big(p(1-p)\big)^2 .$$
+$$p^2 (1-p)^2 = (p(1-p))^2 .$$
 
 L'équation devient
 
-$$\big(p(1-p)\big)^2 = \left(\frac16\right)^2 .$$
+$$(p(1-p))^2 = \left(\frac16\right)^2 .$$
 
 Deux nombres ont le même carré s'ils sont égaux ou opposés, donc
 

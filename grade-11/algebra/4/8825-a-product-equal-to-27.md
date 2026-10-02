@@ -38,7 +38,7 @@ $$x + y + z \geqslant 3\sqrt[3]{xyz} .$$
 
 ### Étape 1 : on factorise l'hypothèse
 
-$$abc + ab + ac + a = a\left(bc + b + c + 1\right) = a\big(b(c+1) + (c+1)\big) = a\,(b+1)(c+1).$$
+$$abc + ab + ac + a = a\left(bc + b + c + 1\right) = a(b(c+1) + (c+1)) = a\,(b+1)(c+1).$$
 
 L'hypothèse s'écrit donc
 $$a\,(b+1)\,(c+1) = 27 .$$
@@ -51,7 +51,7 @@ Rappelons l'inégalité entre moyenne arithmétique et moyenne géométrique pou
 $$\frac{x+y+z}{3} \geqslant \sqrt[3]{xyz}, \qquad \text{c'est-à-dire} \qquad x+y+z \geqslant 3\sqrt[3]{xyz} .$$
 
 *(Démonstration rapide, si on veut la refaire : en posant $x = u^3$, $y = v^3$, $z = w^3$ avec $u, v, w \geqslant 0$, il s'agit de montrer $u^3+v^3+w^3 \geqslant 3uvw$. Or*
-$$u^3+v^3+w^3-3uvw = (u+v+w)\left(u^2+v^2+w^2-uv-vw-wu\right) = \frac{u+v+w}{2}\Big((u-v)^2+(v-w)^2+(w-u)^2\Big) \geqslant 0 .)$$
+$$u^3+v^3+w^3-3uvw = (u+v+w)\left(u^2+v^2+w^2-uv-vw-wu\right) = \frac{u+v+w}{2}((u-v)^2+(v-w)^2+(w-u)^2) \geqslant 0 .)$$
 
 Appliquons-la à $x = a$, $y = b+1$, $z = c+1$ :
 $$a + (b+1) + (c+1) \; \geqslant \; 3\sqrt[3]{a(b+1)(c+1)} \; = \; 3\sqrt[3]{27} \; = \; 3 \times 3 \; = \; 9 .$$

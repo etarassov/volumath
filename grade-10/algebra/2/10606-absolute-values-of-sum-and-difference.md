@@ -58,6 +58,6 @@ Une autre preuve, sans cas, avec l'inégalité triangulaire $|A + B| \leqslant |
 
 $$2|x| = |A + B| \leqslant |A| + |B| \qquad \text{et} \qquad 2|y| = |A + (-B)| \leqslant |A| + |B|$$
 
-En additionnant, $2|x| + 2|y| \leqslant 2\left(|x + y| + |x - y|\right)$, ce qu'on voulait.
+En additionnant, $2|x| + 2|y| \leqslant 2(|x + y| + |x - y|)$, ce qu'on voulait.
 
 On peut même montrer mieux : $|x - y| + |x + y| = 2 \max(|x|, |y|)$. Pourquoi est-ce plus fort que l'inégalité de l'énoncé ?

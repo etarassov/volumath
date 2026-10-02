@@ -87,7 +87,7 @@ donc leur somme, c'est-à-dire $P(x) - D(x)$.
 
 Enfin
 
-$$P(x) = D(x) + \Big( P(x) - D(x) \Big)$$
+$$P(x) = D(x) + ( P(x) - D(x) )$$
 
 est la somme de deux multiples de $D$, donc $P$ est un multiple de $D$.
 

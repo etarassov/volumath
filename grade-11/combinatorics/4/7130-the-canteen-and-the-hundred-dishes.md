@@ -42,7 +42,7 @@ Calculer le rapport $\dfrac{n}{m}$.
 
 Considérons l'ensemble $\mathcal{P}$ des couples
 
-$$\big(e, \{p, p'\}\big)$$
+$$(e, \{p, p'\})$$
 
 où $e$ est un élève et $\{p, p'\}$ une paire de plats distincts que l'élève $e$ a **tous les
 deux** goûtés. Comptons $|\mathcal{P}|$ de deux façons.

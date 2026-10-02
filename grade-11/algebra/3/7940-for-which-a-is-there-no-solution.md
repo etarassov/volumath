@@ -71,4 +71,4 @@ Ces valeurs sont bien différentes de $0$ et de $-2$ : elles sont donc toutes ac
 
 $$0 \le a < \frac{8}{5} .$$
 
-*Deux vérifications.* Pour $a = 1$ : l'équation est $3x^2 + 3x + 1 = 0$, de discriminant $9 - 12 = -3 < 0$, donc sans solution. ✓ Pour $a = 1{,}8$, qui est au-delà de $\frac85 = 1{,}6$ : l'équation est $6{,}84 x^2 + 5{,}4x + 1 = 0$, de discriminant $29{,}16 - 27{,}36 = 1{,}8 > 0$, donc avec deux solutions. ✓
+*Deux vérifications.* Pour $a = 1$ : l'équation est $3x^2 + 3x + 1 = 0$, de discriminant $9 - 12 = -3 < 0$, donc sans solution. ✓ Pour $a = \text{1,8}$, qui est au-delà de $\frac85 = \text{1,6}$ : l'équation est $\text{6,84} x^2 + \text{5,4}x + 1 = 0$, de discriminant $\text{29,16} - \text{27,36} = \text{1,8} > 0$, donc avec deux solutions. ✓

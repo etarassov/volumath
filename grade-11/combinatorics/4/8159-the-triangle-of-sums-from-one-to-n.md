@@ -73,7 +73,7 @@ $$S = \sum_{k=0}^{n-1} \binom{n-1}{k}\,(k+1) .$$
 
 Écrivons la même somme dans l'autre sens, en remplaçant l'indice $k$ par $n-1-k$. Comme $\binom{n-1}{\,n-1-k\,} = \binom{n-1}{k}$, on obtient
 
-$$S = \sum_{k=0}^{n-1} \binom{n-1}{k}\,\big((n-1-k)+1\big) = \sum_{k=0}^{n-1} \binom{n-1}{k}\,(n-k) .$$
+$$S = \sum_{k=0}^{n-1} \binom{n-1}{k}\,((n-1-k)+1) = \sum_{k=0}^{n-1} \binom{n-1}{k}\,(n-k) .$$
 
 Additionnons les deux écritures de $S$ terme à terme. Le facteur devient $(k+1) + (n-k) = n+1$, qui ne dépend plus de $k$ :
 

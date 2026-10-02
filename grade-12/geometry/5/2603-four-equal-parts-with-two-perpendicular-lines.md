@@ -81,7 +81,7 @@ où l'on a utilisé $c = a$ (étape 3).
 Il faut savoir que $\varphi$ est continue, c'est-à-dire que les quatre aires varient continûment avec $\theta$. Le point à justifier est que la position de $\ell_1(\theta)$ dépend continûment de $\theta$.
 
 Notons $m(\theta)$ la distance algébrique de l'origine à $\ell_1(\theta)$, et $F(\theta, m)$ l'aire de $Q$ du côté « gauche » de la droite de direction $\theta$ à distance algébrique $m$. Les majorations des deux exercices précédents donnent, pour une constante $K$ ne dépendant que de $Q$,
-$$|F(\theta', m') - F(\theta, m)| \leq K\big(|\theta' - \theta| + |m' - m|\big),$$
+$$|F(\theta', m') - F(\theta, m)| \leq K(|\theta' - \theta| + |m' - m|),$$
 donc $F$ est continue. Fixons $\theta_0$ et $\varepsilon > 0$. Par stricte croissance (étape 1),
 $$F(\theta_0, m(\theta_0) - \varepsilon) < \frac{\mathcal{A}}{2} < F(\theta_0, m(\theta_0) + \varepsilon).$$
 Par continuité de $F$, ces deux inégalités strictes restent vraies quand on remplace $\theta_0$ par un $\theta$ assez proche. Comme $m \mapsto F(\theta, m)$ est strictement croissante et vaut $\mathcal{A}/2$ en $m(\theta)$, on en tire

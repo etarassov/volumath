@@ -44,7 +44,7 @@ par 4 vaut 1.
 **Étape 2. La somme des deux carrés laisse le reste 2.**
 
 Soient $2a+1$ et $2b+1$ nos deux nombres impairs. D'après l'étape 1,
-$$(2a+1)^2 + (2b+1)^2 = 4(a^2+a) + 1 + 4(b^2+b) + 1 = 4\,\big(a^2+a+b^2+b\big) + 2 .$$
+$$(2a+1)^2 + (2b+1)^2 = 4(a^2+a) + 1 + 4(b^2+b) + 1 = 4\,(a^2+a+b^2+b) + 2 .$$
 
 Cette somme est donc de la forme $4k+2$ : son reste dans la division par 4 vaut 2.
 

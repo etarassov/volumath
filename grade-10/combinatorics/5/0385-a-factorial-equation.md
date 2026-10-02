@@ -53,7 +53,7 @@ Voilà une première solution : $(x, y, z) = (3, 5, 6)$, avec bien $x \ne 1$ et 
 
 Pourquoi cela fonctionne-t-il ? Parce que $6 = 3!$ et que $6! = 6 \times 5!$. Autrement dit, l'exemple s'écrit
 
-$$6! = 6 \times 5! = 3! \times \big(3! - 1\big)! .$$
+$$6! = 6 \times 5! = 3! \times (3! - 1)! .$$
 
 **L'idée : appliquer la règle de base à une factorielle.**
 
@@ -85,7 +85,7 @@ De plus, à deux valeurs différentes de $x$ correspondent deux valeurs différe
 
 **Conclusion.** Pour chaque entier $x \ge 3$, le triplet
 
-$$(x,\ y,\ z) = \big(x,\ x!-1,\ x!\big)$$
+$$(x,\ y,\ z) = (x,\ x!-1,\ x!)$$
 
 est une solution de l'équation $x! \times y! = z!$ avec $x \ne 1$ et $y \ne 1$. Comme il y a une infinité de valeurs possibles pour $x$, l'équation possède bien une infinité de solutions.
 

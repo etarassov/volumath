@@ -63,14 +63,14 @@ $$n = ab \qquad \text{avec } a \geqslant 2 \text{ et } b \geqslant 2 .$$
 Posons $x = 2^a$, de sorte que $2^n = 2^{ab} = (2^a)^b = x^b$. L'identité de la somme
 géométrique donne
 
-$$x^b - 1 = (x - 1)\bigl(x^{b-1} + x^{b-2} + \cdots + x + 1\bigr) .$$
+$$x^b - 1 = (x - 1)(x^{b-1} + x^{b-2} + \cdots + x + 1) .$$
 
 (On peut la retrouver en développant le membre de droite : tout se télescope, il ne reste que
 $x^b$ et $-1$.)
 
 En revenant à $2$ :
 
-$$2^n - 1 = (2^a - 1)\bigl(2^{a(b-1)} + 2^{a(b-2)} + \cdots + 2^a + 1\bigr) .$$
+$$2^n - 1 = (2^a - 1)(2^{a(b-1)} + 2^{a(b-2)} + \cdots + 2^a + 1) .$$
 
 Le nombre $2^a - 1$ est donc un diviseur de $2^n - 1$. Reste à vérifier que c'est un diviseur
 « utile », c'est-à-dire différent de $1$ et de $2^n - 1$ :

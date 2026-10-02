@@ -58,11 +58,11 @@ $$P_i(x) + P_j(x) = (x-r_i)^2 + (x-r_j)^2 - \frac{D}{2} = 2x^2 - 2(r_i + r_j)x +
 
 Son discriminant vaut
 
-$$\Delta_{ij} = 4(r_i+r_j)^2 - 8\left(r_i^2 + r_j^2 - \frac{D}{2}\right) = 4\Big[(r_i+r_j)^2 - 2(r_i^2+r_j^2)\Big] + 4D .$$
+$$\Delta_{ij} = 4(r_i+r_j)^2 - 8\left(r_i^2 + r_j^2 - \frac{D}{2}\right) = 4[(r_i+r_j)^2 - 2(r_i^2+r_j^2)] + 4D .$$
 
 Or $(r_i+r_j)^2 - 2(r_i^2+r_j^2) = -(r_i - r_j)^2$, donc
 
-$$\Delta_{ij} = 4\Big(D - (r_i-r_j)^2\Big) .$$
+$$\Delta_{ij} = 4(D - (r_i-r_j)^2) .$$
 
 L'hypothèse « $P_i + P_j$ a deux racines réelles distinctes » signifie $\Delta_{ij} > 0$, c'est-à-dire
 
@@ -77,7 +77,7 @@ $$T(x) = \sum_{i=1}^n P_i(x) = n x^2 - 2\left(\sum_i r_i\right) x + \sum_i r_i^2
 Son discriminant vaut
 
 $$\Delta = 4\left(\sum_i r_i\right)^2 - 4n\left(\sum_i r_i^2 - \frac{nD}{4}\right)
-= 4\left[\frac{n^2 D}{4} - \left(n\sum_i r_i^2 - \Big(\sum_i r_i\Big)^2\right)\right] .$$
+= 4\left[\frac{n^2 D}{4} - \left(n\sum_i r_i^2 - (\sum_i r_i)^2\right)\right] .$$
 
 Il s'agit donc de montrer
 

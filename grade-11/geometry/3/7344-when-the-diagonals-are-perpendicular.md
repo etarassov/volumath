@@ -54,8 +54,8 @@ $$AB^2 + CD^2 - BC^2 - AD^2 = -2\,\vec{a}\cdot\vec{b} - 2\,\vec{c}\cdot\vec{d} +
 
 Regroupons : les deux termes contenant $\vec{b}$ d'un côté, les deux contenant $\vec{d}$ de l'autre.
 
-$$AB^2 + CD^2 - BC^2 - AD^2 = 2\Big[ \vec{b}\cdot\vec{c} - \vec{b}\cdot\vec{a} + \vec{a}\cdot\vec{d} - \vec{c}\cdot\vec{d} \Big]$$
-$$= 2\Big[ \vec{b}\cdot\left(\vec{c} - \vec{a}\right) - \vec{d}\cdot\left(\vec{c} - \vec{a}\right) \Big]$$
+$$AB^2 + CD^2 - BC^2 - AD^2 = 2[ \vec{b}\cdot\vec{c} - \vec{b}\cdot\vec{a} + \vec{a}\cdot\vec{d} - \vec{c}\cdot\vec{d} ]$$
+$$= 2[ \vec{b}\cdot\left(\vec{c} - \vec{a}\right) - \vec{d}\cdot\left(\vec{c} - \vec{a}\right) ]$$
 $$= 2\left(\vec{b} - \vec{d}\right)\cdot\left(\vec{c} - \vec{a}\right) .$$
 
 Or $\vec{b} - \vec{d} = \vec{DB}$ et $\vec{c} - \vec{a} = \vec{AC}$. On obtient donc l'identité

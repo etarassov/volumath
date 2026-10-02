@@ -81,7 +81,7 @@ $$\frac{1}{2^2} + \frac{1}{3^2} + \ldots + \frac{1}{99^2}
 Les dénominateurs sont des sommes de nombres impairs consécutifs à partir de $1$. La somme
 des $k$ premiers nombres impairs vaut $k^2$. En effet, en utilisant la méthode de Gauss,
 
-$$1 + 3 + 5 + \ldots + (2k-1) = \frac{k \times \big(1 + (2k-1)\big)}{2} = \frac{k \times 2k}{2} = k^2.$$
+$$1 + 3 + 5 + \ldots + (2k-1) = \frac{k \times (1 + (2k-1))}{2} = \frac{k \times 2k}{2} = k^2.$$
 
 Le premier dénominateur est $1 + 3 = 2^2$, le deuxième $1+3+5 = 3^2$, et ainsi de suite. Le
 dernier dénominateur s'arrête au nombre impair $2015 = 2 \times 1008 - 1$, c'est donc la

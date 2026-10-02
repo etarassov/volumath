@@ -56,7 +56,7 @@ $$\min(S) \;=\; \text{nombre d'entiers } i \geqslant 1 \text{ tels que } \min(S)
 
 En sommant sur tous les $S$ et en échangeant l'ordre des deux comptages :
 
-$$\Sigma \;=\; \sum_{i \geqslant 1} \; \bigl(\text{nombre de sous-ensembles } S \text{ à } k \text{ éléments avec } \min(S) \geqslant i\bigr).$$
+$$\Sigma \;=\; \sum_{i \geqslant 1} \; (\text{nombre de sous-ensembles } S \text{ à } k \text{ éléments avec } \min(S) \geqslant i).$$
 
 **Étape 2. On compte ces sous-ensembles.**
 

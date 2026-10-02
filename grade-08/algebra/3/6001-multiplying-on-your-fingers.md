@@ -62,7 +62,7 @@ $$5 - (a - 5) = 10 - a \quad \text{doigts repliés.}$$
 De même pour l'autre main : $b - 5$ doigts levés et $10 - b$ doigts repliés.
 
 **Étape 2.** Le nombre de doigts levés en tout vaut $(a - 5) + (b - 5)$, et on compte $10$ pour chacun :
-$$10\bigl((a-5) + (b-5)\bigr) = 10a + 10b - 100.$$
+$$10((a-5) + (b-5)) = 10a + 10b - 100.$$
 
 **Étape 3.** Le produit des doigts repliés vaut
 $$(10 - a)(10 - b) = 100 - 10b - 10a + ab.$$

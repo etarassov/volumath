@@ -55,11 +55,11 @@ $$\alpha_1 = 0, \qquad \beta_r = 10, \qquad \alpha_{i+1} \leqslant \beta_i \ \te
 
 Comme $f$ est croissante et $\alpha_{i+1} \leqslant \beta_i$, on a $f(\alpha_{i+1}) \leqslant f(\beta_i)$, donc
 
-$$D = f(\beta_r) - f(\alpha_1) = \sum_{i=1}^{r}\big(f(\beta_i) - f(\alpha_i)\big) \ +\ \sum_{i=1}^{r-1}\big(f(\alpha_{i+1}) - f(\beta_i)\big) .$$
+$$D = f(\beta_r) - f(\alpha_1) = \sum_{i=1}^{r}(f(\beta_i) - f(\alpha_i)) \ +\ \sum_{i=1}^{r-1}(f(\alpha_{i+1}) - f(\beta_i)) .$$
 
 Chacun des termes de la seconde somme est négatif ou nul, donc
 
-$$D \ \leqslant\ \sum_{i=1}^{r}\big(f(\beta_i) - f(\alpha_i)\big) \ = \ r ,$$
+$$D \ \leqslant\ \sum_{i=1}^{r}(f(\beta_i) - f(\alpha_i)) \ = \ r ,$$
 
 puisque chaque observateur a vu exactement $1$ mètre.
 

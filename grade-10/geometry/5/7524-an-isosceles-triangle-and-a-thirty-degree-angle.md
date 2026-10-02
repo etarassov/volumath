@@ -90,6 +90,6 @@ $$\widehat{ADC} = \frac{60°}{2} = 30°.$$
 
 ## Going further
 
-On peut aussi vérifier le résultat par le calcul, ce qui rassure mais n'explique rien. Prenons $AB = AC = 1$. La loi des sinus dans $ABC$ donne $BC = 2\sin(50°) \approx 1{,}532$, donc $AD \approx 1{,}532$. Dans le triangle $ACD$ on connaît $AC = 1$, $AD \approx 1{,}532$ et l'angle $\widehat{CAD} = 100°$ ; la loi des cosinus donne $CD \approx 1{,}970$, puis la loi des sinus donne $\sin \widehat{ADC} = \frac{AC \sin 100°}{CD} \approx 0{,}5$, soit bien $30°$.
+On peut aussi vérifier le résultat par le calcul, ce qui rassure mais n'explique rien. Prenons $AB = AC = 1$. La loi des sinus dans $ABC$ donne $BC = 2\sin(50°) \approx \text{1,532}$, donc $AD \approx \text{1,532}$. Dans le triangle $ACD$ on connaît $AC = 1$, $AD \approx \text{1,532}$ et l'angle $\widehat{CAD} = 100°$ ; la loi des cosinus donne $CD \approx \text{1,970}$, puis la loi des sinus donne $\sin \widehat{ADC} = \frac{AC \sin 100°}{CD} \approx \text{0,5}$, soit bien $30°$.
 
 Les problèmes de ce genre, où une figure toute simple cache une valeur d'angle inattendue, s'appellent des **problèmes d'angles adventices**. Le plus célèbre est le « problème de Langley » : dans un triangle isocèle d'angle au sommet $20°$, on trace deux céviennes faisant $50°$ et $60°$ avec la base, et on demande un angle qui vaut $20°$. Comme ici, la solution passe par la construction d'un triangle équilatéral bien placé.

@@ -73,17 +73,17 @@ $$x^2 - y x + 1 = 0 .$$
 
 Son discriminant vaut $y^2 - 4$. Il y a des solutions réelles si et seulement si $y^2 \ge 4$, c'est-à-dire $|y| \ge 2$.
 
-- Pour $y = 2 - \sqrt{3}$ : comme $\sqrt{3} \approx 1{,}73$, on a $y \approx 0{,}27$, donc $|y| < 2$. Aucune solution réelle.
-- Pour $y = 2 + \sqrt{3} \approx 3{,}73$ : on a bien $|y| > 2$. Calculons le discriminant :
+- Pour $y = 2 - \sqrt{3}$ : comme $\sqrt{3} \approx \text{1,73}$, on a $y \approx \text{0,27}$, donc $|y| < 2$. Aucune solution réelle.
+- Pour $y = 2 + \sqrt{3} \approx \text{3,73}$ : on a bien $|y| > 2$. Calculons le discriminant :
   $$y^2 - 4 = \left(2+\sqrt{3}\right)^2 - 4 = 4 + 4\sqrt{3} + 3 - 4 = 3 + 4\sqrt{3} .$$
   Les deux solutions sont donc
   $$x = \frac{y \pm \sqrt{y^2-4}}{2} = \frac{2 + \sqrt{3} \ \pm \ \sqrt{3 + 4\sqrt{3}}}{2} .$$
 
 **Étape 5 : valeurs approchées et vérification.**
 
-On a $\sqrt{3} \approx 1{,}732$ et $\sqrt{3 + 4\sqrt{3}} = \sqrt{9{,}928} \approx 3{,}151$. Les deux solutions valent donc environ
+On a $\sqrt{3} \approx \text{1,732}$ et $\sqrt{3 + 4\sqrt{3}} = \sqrt{\text{9,928}} \approx \text{3,151}$. Les deux solutions valent donc environ
 
-$$x_1 \approx 3{,}44 \qquad \text{et} \qquad x_2 \approx 0{,}29 .$$
+$$x_1 \approx \text{3,44} \qquad \text{et} \qquad x_2 \approx \text{0,29} .$$
 
 On peut vérifier que leur produit vaut $1$, ce qui est normal : dans $x^2 - yx + 1 = 0$, le produit des racines vaut le terme constant, soit $1$.
 

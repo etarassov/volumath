@@ -64,7 +64,7 @@ $$P = (x - y)(y - z)(x - z) .$$
 
 Remplaçons $(x, y, z)$ par $(y, z, x)$ dans la forme factorisée. On obtient
 
-$$(y - z)(z - x)(y - x) = (y - z) \times \big[(x - z)(x - y)\big] = P ,$$
+$$(y - z)(z - x)(y - x) = (y - z) \times [(x - z)(x - y)] = P ,$$
 
 car les deux changements de signe se compensent. L'expression $P$ est donc inchangée par la
 permutation circulaire $x \to y \to z \to x$. Quitte à effectuer une ou deux fois cette

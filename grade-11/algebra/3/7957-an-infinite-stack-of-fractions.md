@@ -46,11 +46,11 @@ $$u_1 = 1 \qquad \text{et} \qquad u_{n+1} = 1 + \frac{1}{1 + u_n} \ \text{ pour 
 
 **Question 1 : les premiers termes.**
 
-$$u_2 = 1 + \frac{1}{1 + 1} = 1 + \frac12 = \frac32 = 1{,}5 ,$$
+$$u_2 = 1 + \frac{1}{1 + 1} = 1 + \frac12 = \frac32 = \text{1,5} ,$$
 
-$$u_3 = 1 + \frac{1}{1 + \frac32} = 1 + \frac{1}{\frac52} = 1 + \frac25 = \frac75 = 1{,}4 ,$$
+$$u_3 = 1 + \frac{1}{1 + \frac32} = 1 + \frac{1}{\frac52} = 1 + \frac25 = \frac75 = \text{1,4} ,$$
 
-$$u_4 = 1 + \frac{1}{1 + \frac75} = 1 + \frac{1}{\frac{12}{5}} = 1 + \frac{5}{12} = \frac{17}{12} \approx 1{,}4167 .$$
+$$u_4 = 1 + \frac{1}{1 + \frac75} = 1 + \frac{1}{\frac{12}{5}} = 1 + \frac{5}{12} = \frac{17}{12} \approx \text{1,4167} .$$
 
 Ce sont bien les valeurs obtenues en arrêtant l'empilement. En arrêtant après un étage, on trouve $1 + \frac12 = \frac32$. En arrêtant après deux étages, le dénominateur vaut
 
@@ -84,7 +84,7 @@ $$\ell = \sqrt{2} .$$
 
 **Conclusion.** La fraction continue vaut $\boxed{\sqrt{2}}$.
 
-*Contrôle :* $\sqrt2 \approx 1{,}41421$, et les premiers termes $1 \ ; \ 1{,}5 \ ; \ 1{,}4 \ ; \ 1{,}41667$ s'en approchent bien, alternativement par en dessous et par au-dessus.
+*Contrôle :* $\sqrt2 \approx \text{1,41421}$, et les premiers termes $1 \ ; \ \text{1,5} \ ; \ \text{1,4} \ ; \ \text{1,41667}$ s'en approchent bien, alternativement par en dessous et par au-dessus.
 
 ## Going further
 
@@ -94,6 +94,6 @@ $$u_{n+1} - \sqrt{2} = \frac{\left(1 - \sqrt2\right)\left(u_n - \sqrt2\right)}{1
 
 Comme $u_n \ge 1$, on a $1 + u_n \ge 2$, donc
 
-$$\left|u_{n+1} - \sqrt2\right| \le \frac{\sqrt2 - 1}{2}\left|u_n - \sqrt2\right| \le 0{,}21 \times \left|u_n - \sqrt2\right| .$$
+$$\left|u_{n+1} - \sqrt2\right| \le \frac{\sqrt2 - 1}{2}\left|u_n - \sqrt2\right| \le \text{0,21} \times \left|u_n - \sqrt2\right| .$$
 
 L'écart à $\sqrt2$ est donc divisé par près de cinq à chaque étape : la suite converge, et très vite.

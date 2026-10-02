@@ -56,7 +56,7 @@ $$f(x) + f(x+2) = \sqrt{2}\, f(x+1).$$
 
 **Additionnons la première et la troisième.**
 
-$$f(x-2) + 2f(x) + f(x+2) = \sqrt{2}\, \bigl( f(x-1) + f(x+1) \bigr).$$
+$$f(x-2) + 2f(x) + f(x+2) = \sqrt{2}\, ( f(x-1) + f(x+1) ).$$
 
 Or la deuxième égalité dit exactement que $f(x-1) + f(x+1) = \sqrt{2}\, f(x)$. Le membre de
 droite vaut donc
@@ -76,7 +76,7 @@ $$f(x+4) = -f(x).$$
 **Conclusion.**
 
 Appliquons cette dernière relation deux fois :
-$$f(x+8) = -f(x+4) = -\bigl(-f(x)\bigr) = f(x).$$
+$$f(x+8) = -f(x+4) = -(-f(x)) = f(x).$$
 
 C'est vrai pour tout réel $x$ : **la fonction $f$ est périodique, de période $8$.**
 

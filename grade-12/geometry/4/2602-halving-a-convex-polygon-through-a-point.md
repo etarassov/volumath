@@ -57,7 +57,7 @@ $$h(\theta) = g(\theta) - \frac{\mathcal{A}}{2}.$$
 Trouver une droite convenable, c'est trouver $\theta$ tel que $h(\theta) = 0$.
 
 La relation $(\star)$ se réécrit
-$$h(\theta + \pi) = g(\theta+\pi) - \frac{\mathcal{A}}{2} = \big(\mathcal{A} - g(\theta)\big) - \frac{\mathcal{A}}{2} = \frac{\mathcal{A}}{2} - g(\theta) = -h(\theta).$$
+$$h(\theta + \pi) = g(\theta+\pi) - \frac{\mathcal{A}}{2} = (\mathcal{A} - g(\theta)) - \frac{\mathcal{A}}{2} = \frac{\mathcal{A}}{2} - g(\theta) = -h(\theta).$$
 
 **$g$ est continue.**
 

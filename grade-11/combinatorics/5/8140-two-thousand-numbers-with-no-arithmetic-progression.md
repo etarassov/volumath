@@ -85,4 +85,4 @@ N'importe quels $2018$ éléments de $E$ répondent à la question : ils sont de
 
 ## Going further
 
-La même construction, avec $k$ chiffres, donne $2^k$ entiers sans suite arithmétique, tous inférieurs à $3^k / 2$. Le nombre d'entiers obtenus est donc de l'ordre de $N^{\log 2 / \log 3} \approx N^{0{,}63}$ quand on se limite aux entiers inférieurs à $N$. On sait aujourd'hui faire nettement mieux, mais trouver le maximum exact reste un problème ouvert difficile.
+La même construction, avec $k$ chiffres, donne $2^k$ entiers sans suite arithmétique, tous inférieurs à $3^k / 2$. Le nombre d'entiers obtenus est donc de l'ordre de $N^{\log 2 / \log 3} \approx N^{\text{0,63}}$ quand on se limite aux entiers inférieurs à $N$. On sait aujourd'hui faire nettement mieux, mais trouver le maximum exact reste un problème ouvert difficile.

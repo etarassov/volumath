@@ -63,7 +63,7 @@ $$a_4 + a_5 + a_6 + a_7 \le 4a_4 - 6 .$$
 
 Avec l'étape 1, cela donne $4a_4 - 6 \ge 51$, donc $4a_4 \ge 57$, donc
 
-$$a_4 \ge \frac{57}{4} = 14{,}25 , \qquad \text{et comme } a_4 \text{ est entier,} \qquad a_4 \ge 15 .$$
+$$a_4 \ge \frac{57}{4} = \text{14,25} , \qquad \text{et comme } a_4 \text{ est entier,} \qquad a_4 \ge 15 .$$
 
 **Étape 3 : les trois premiers sont alors très grands.**
 

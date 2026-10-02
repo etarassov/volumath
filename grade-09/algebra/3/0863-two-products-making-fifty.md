@@ -37,7 +37,7 @@ $$(x+3)(x+2) + (x+3)(x+4) = 50.$$
 
 Les deux produits ont le facteur $(x+3)$ en commun. On le met en évidence :
 
-$$(x+3)(x+2) + (x+3)(x+4) = (x+3)\big[(x+2) + (x+4)\big] = (x+3)(2x+6).$$
+$$(x+3)(x+2) + (x+3)(x+4) = (x+3)[(x+2) + (x+4)] = (x+3)(2x+6).$$
 
 Or $2x + 6 = 2(x+3)$, donc
 

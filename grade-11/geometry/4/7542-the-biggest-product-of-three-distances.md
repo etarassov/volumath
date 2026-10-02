@@ -108,7 +108,7 @@ Ces deux droites ne sont pas parallèles entre elles, puisque $(BC)$ et $(CA)$ n
 
 **D'où vient l'inégalité utilisée ?** Pour $u, v, w \geqslant 0$, on a l'identité
 
-$$u^3 + v^3 + w^3 - 3uvw = (u+v+w)\,\big(u^2+v^2+w^2-uv-vw-wu\big).$$
+$$u^3 + v^3 + w^3 - 3uvw = (u+v+w)\,(u^2+v^2+w^2-uv-vw-wu).$$
 
 Le second facteur vaut la moitié de $(u-v)^2 + (v-w)^2 + (w-u)^2$, donc il est positif ou nul, et nul seulement si $u = v = w$. Ainsi $u^3+v^3+w^3 \geqslant 3uvw$. En posant $u = \sqrt[3]{x}$, $v = \sqrt[3]{y}$, $w = \sqrt[3]{z}$, on obtient exactement $x + y + z \geqslant 3\sqrt[3]{xyz}$, c'est-à-dire l'inégalité de l'énoncé.
 

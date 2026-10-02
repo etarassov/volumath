@@ -88,7 +88,7 @@ $$m \le 21 \qquad \text{ou} \qquad m \ge 47 .$$
 
 **On croise les deux conditions.**
 
-$$\big( 20 \le m \le 50 \big) \ \text{et} \ \big( m \le 21 \ \text{ou} \ m \ge 47 \big) \quad \Longleftrightarrow \quad m \in \{20,\ 21,\ 47,\ 48,\ 49,\ 50\} .$$
+$$( 20 \le m \le 50 ) \ \text{et} \ ( m \le 21 \ \text{ou} \ m \ge 47 ) \quad \Longleftrightarrow \quad m \in \{20,\ 21,\ 47,\ 48,\ 49,\ 50\} .$$
 
 Il y a donc **six** valeurs possibles de $m$, et chacune donne exactement un $n$.
 

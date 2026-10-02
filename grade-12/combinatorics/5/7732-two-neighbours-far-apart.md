@@ -42,7 +42,7 @@ Montrer qu'il existe forcément deux cases voisines dont les valeurs diffèrent 
 
 On peut aller de $c$ à $c'$ en se déplaçant à chaque pas vers une case voisine, exactement comme un roi aux échecs : à chaque pas, on corrige d'une unité la ligne (si elle n'est pas encore bonne) et d'une unité la colonne (si elle n'est pas encore bonne), les deux en même temps quand c'est possible. Le nombre de pas nécessaires est donc
 
-$$\max\bigl(|i - i'|,\; |j - j'|\bigr) .$$
+$$\max(|i - i'|,\; |j - j'|) .$$
 
 Comme les lignes et les colonnes vont de $1$ à $n$, cet écart est au plus $n-1$. Le chemin comporte donc **au plus $n-1$ pas**, c'est-à-dire qu'il passe par au plus $n$ cases, extrémités comprises.
 

@@ -81,7 +81,7 @@ L'égalité a donc lieu exactement lorsque les trois nombres sont égaux.
 
 On peut aussi tout faire d'un seul coup. Développons
 
-$$(a-b)^2 + (b-c)^2 + (c-a)^2 = 2a^2 + 2b^2 + 2c^2 - 2ab - 2bc - 2ca = 2\,\big(a^2+b^2+c^2 - ab - bc - ca\big).$$
+$$(a-b)^2 + (b-c)^2 + (c-a)^2 = 2a^2 + 2b^2 + 2c^2 - 2ab - 2bc - 2ca = 2\,(a^2+b^2+c^2 - ab - bc - ca).$$
 
 Cette quantité est une somme de trois carrés, donc positive ou nulle, ce qui redonne l'inégalité. Et elle est nulle exactement quand les trois carrés le sont, c'est-à-dire quand $a = b = c$.
 

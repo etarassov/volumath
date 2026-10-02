@@ -54,15 +54,15 @@ Deux polynômes qui coïncident pour tous réels $x$, $y$ ont donc les mêmes co
 
 **Étape 1. On applique la transformation deux fois.**
 
-Notons $T(x,y) = (x+y,\; x-y)$. L'hypothèse s'écrit $P\big(T(x,y)\big) = 2 P(x,y)$.
+Notons $T(x,y) = (x+y,\; x-y)$. L'hypothèse s'écrit $P(T(x,y)) = 2 P(x,y)$.
 
 Appliquons-la au couple $T(x,y) = (x+y,\, x-y)$ au lieu de $(x,y)$ :
 
-$$P\Big(T\big(T(x,y)\big)\Big) = 2\, P\big(T(x,y)\big) = 4\,P(x,y).$$
+$$P(T(T(x,y))) = 2\, P(T(x,y)) = 4\,P(x,y).$$
 
 Or
 
-$$T\big(T(x,y)\big) = T(x+y,\; x-y) = \big((x+y) + (x-y),\; (x+y) - (x-y)\big) = (2x,\; 2y).$$
+$$T(T(x,y)) = T(x+y,\; x-y) = ((x+y) + (x-y),\; (x+y) - (x-y)) = (2x,\; 2y).$$
 
 On obtient donc, pour tous réels $x$ et $y$,
 
@@ -76,7 +76,7 @@ $$P(2x, 2y) = \sum_{i,j} c_{ij}\, 2^{i}x^{i}\, 2^{j}y^{j} = \sum_{i,j} 2^{\,i+j}
 
 L'égalité $(\star)$ et l'identification des coefficients donnent, pour tout couple $(i,j)$ :
 
-$$2^{\,i+j}\, c_{ij} = 4\, c_{ij}, \qquad \text{c'est-à-dire} \qquad \big(2^{\,i+j} - 4\big)\, c_{ij} = 0 .$$
+$$2^{\,i+j}\, c_{ij} = 4\, c_{ij}, \qquad \text{c'est-à-dire} \qquad (2^{\,i+j} - 4)\, c_{ij} = 0 .$$
 
 Si $i + j \neq 2$, alors $2^{\,i+j} \neq 4$ et donc $c_{ij} = 0$.
 
@@ -109,7 +109,7 @@ Les trois conditions sont **la même**. La seule contrainte est donc $\alpha = \
 
 Prenons $\alpha = \beta + \gamma$ et posons $P(x,y) = (\beta+\gamma)x^2 + \beta xy + \gamma y^2$. Le calcul de l'étape 3 donne
 
-$$P(x+y, x-y) = \big(2\beta + 2\gamma\big)x^2 + 2\beta\, xy + 2\gamma\, y^2 = 2P(x,y). \quad \checkmark$$
+$$P(x+y, x-y) = (2\beta + 2\gamma)x^2 + 2\beta\, xy + 2\gamma\, y^2 = 2P(x,y). \quad \checkmark$$
 
 **Conclusion.** Les polynômes cherchés sont exactement
 

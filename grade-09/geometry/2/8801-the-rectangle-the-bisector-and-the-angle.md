@@ -55,19 +55,19 @@ $$\widehat{AQC} = 180 - 45 = 135^\circ .$$
 **Étape 3. La bissectrice.**
 
 Par définition, la bissectrice de $\widehat{AQC}$ partage cet angle en deux angles égaux. Comme $X$ est sur cette bissectrice,
-$$\widehat{AQX} = \widehat{XQC} = \frac{135}{2} = 67{,}5^\circ .$$
+$$\widehat{AQX} = \widehat{XQC} = \frac{135}{2} = \text{67,5}^\circ .$$
 
 **Étape 4. Le triangle $XQC$.**
 
-Dans ce triangle, l'angle en $Q$ vaut $67{,}5^\circ$ et l'angle en $C$ est l'angle $\widehat{QCX}$. Or $Q$ est sur $[DC]$ et $X$ est sur la droite $(CP)$, du même côté que $P$ : cet angle en $C$ est exactement l'angle $\widehat{DCP}$ de l'énoncé, soit $30^\circ$. La somme des angles donne
-$$\widehat{QXC} = 180 - 67{,}5 - 30 = 82{,}5^\circ .$$
+Dans ce triangle, l'angle en $Q$ vaut $\text{67,5}^\circ$ et l'angle en $C$ est l'angle $\widehat{QCX}$. Or $Q$ est sur $[DC]$ et $X$ est sur la droite $(CP)$, du même côté que $P$ : cet angle en $C$ est exactement l'angle $\widehat{DCP}$ de l'énoncé, soit $30^\circ$. La somme des angles donne
+$$\widehat{QXC} = 180 - \text{67,5} - 30 = \text{82,5}^\circ .$$
 
 **Étape 5. On revient à l'angle demandé.**
 
 Les points $P$, $X$, $C$ sont alignés, car $X$ est sur la droite $(CP)$, et $X$ est entre $P$ et $C$. Les angles $\widehat{PXQ}$ et $\widehat{QXC}$ sont donc supplémentaires :
-$$\widehat{PXQ} = 180 - 82{,}5 = 97{,}5^\circ .$$
+$$\widehat{PXQ} = 180 - \text{82,5} = \text{97,5}^\circ .$$
 
-**Conclusion.** L'angle $\widehat{PXQ}$ mesure $\boxed{97{,}5^\circ}$.
+**Conclusion.** L'angle $\widehat{PXQ}$ mesure $\boxed{\text{97,5}^\circ}$.
 
 Remarque : les longueurs $AB$ et $AD$ n'interviennent jamais dans le calcul. La réponse est la même pour tous les rectangles autorisés par l'énoncé, ce qui explique qu'on n'ait pas eu besoin de les connaître.
 

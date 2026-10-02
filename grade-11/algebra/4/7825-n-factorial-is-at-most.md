@@ -80,4 +80,4 @@ $$n! \leq \left(\frac{n+1}{2}\right)^{n} .$$
 **Cas d'égalité.** Il faut l'égalité dans chacune des $n$ majorations, donc $k = n+1-k$ pour
 tout $k$, ce qui n'est possible que si $n = 1$. Et en effet $1! = 1 = \left(\frac{2}{2}\right)^1$.
 Dès que $n \geq 2$, l'inégalité est stricte : par exemple $4! = 24 < \left(\frac52\right)^4
-= 39{,}0625$.
+= \text{39,0625}$.

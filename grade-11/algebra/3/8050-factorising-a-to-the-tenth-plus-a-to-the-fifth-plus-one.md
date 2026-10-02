@@ -45,7 +45,7 @@ en un produit de deux polynômes à coefficients entiers, l'un et l'autre de deg
 
 La réponse est
 
-$$\boxed{a^{10} + a^5 + 1 = (a^2 + a + 1)\,\big(a^8 - a^7 + a^5 - a^4 + a^3 - a + 1\big) .}$$
+$$\boxed{a^{10} + a^5 + 1 = (a^2 + a + 1)\,(a^8 - a^7 + a^5 - a^4 + a^3 - a + 1) .}$$
 
 ### Deviner le facteur
 
@@ -75,7 +75,7 @@ En effet, le membre de droite vaut $a^{10} - a + a^5 - a^2 + a^2 + a + 1 = a^{10
 
 Or
 
-$$a^9 - 1 = (a^3)^3 - 1 = (a^3 - 1)\big(a^6 + a^3 + 1\big) ,$$
+$$a^9 - 1 = (a^3)^3 - 1 = (a^3 - 1)(a^6 + a^3 + 1) ,$$
 
 et surtout
 
@@ -84,11 +84,11 @@ $$a^3 - 1 = (a - 1)(a^2 + a + 1) .$$
 Les trois morceaux contiennent donc tous le facteur $a^2 + a + 1$, et on peut le mettre en
 facteur :
 
-$$a^{10} + a^5 + 1 = (a^2 + a + 1)\Big[\, a\,(a-1)\big(a^6 + a^3 + 1\big) \ + \ a^2 (a-1) \ + \ 1 \,\Big] .$$
+$$a^{10} + a^5 + 1 = (a^2 + a + 1)[\, a\,(a-1)(a^6 + a^3 + 1) \ + \ a^2 (a-1) \ + \ 1 \,] .$$
 
 Il ne reste qu'à développer le crochet :
 
-$$a(a-1)\big(a^6+a^3+1\big) = (a^2 - a)(a^6+a^3+1) = a^8 + a^5 + a^2 - a^7 - a^4 - a ,$$
+$$a(a-1)(a^6+a^3+1) = (a^2 - a)(a^6+a^3+1) = a^8 + a^5 + a^2 - a^7 - a^4 - a ,$$
 
 puis
 

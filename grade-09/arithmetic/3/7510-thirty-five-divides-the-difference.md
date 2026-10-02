@@ -75,7 +75,7 @@ Pour tout $n \geqslant 1$, le nombre $a - b = 665$ divise $a^n - b^n = 3^{6n} - 
 
 La propriété démontrée à l'étape 3, « $a - b$ divise $a^n - b^n$ », est l'une des plus utiles de toute l'arithmétique. On peut aussi l'écrire directement sous forme de produit :
 
-$$a^n - b^n = (a-b)\,\big(a^{n-1} + a^{n-2}b + a^{n-3}b^2 + \cdots + b^{n-1}\big).$$
+$$a^n - b^n = (a-b)\,(a^{n-1} + a^{n-2}b + a^{n-3}b^2 + \cdots + b^{n-1}).$$
 
 Pour $n = 2$ on retrouve $a^2 - b^2 = (a-b)(a+b)$, et pour $n = 3$ l'identité $a^3 - b^3 = (a-b)(a^2+ab+b^2)$.
 

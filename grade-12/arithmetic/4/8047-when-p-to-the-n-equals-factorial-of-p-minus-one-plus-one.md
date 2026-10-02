@@ -84,7 +84,7 @@ Donc $(p-1)^2$ divise $(p-1)!$, c'est-à-dire $p^n - 1$.
 
 Factorisons :
 
-$$p^n - 1 = (p-1)\big(p^{n-1} + p^{n-2} + \cdots + p + 1\big) .$$
+$$p^n - 1 = (p-1)(p^{n-1} + p^{n-2} + \cdots + p + 1) .$$
 
 Notons $Q = p^{n-1} + p^{n-2} + \cdots + p + 1$ le deuxième facteur : c'est une somme de $n$
 termes. Comme $p \equiv 1 \pmod{p-1}$, chacun de ces $n$ termes est congru à $1$ modulo

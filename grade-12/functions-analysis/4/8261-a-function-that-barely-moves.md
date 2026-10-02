@@ -58,7 +58,7 @@ Ainsi $x_0 = a$ et $x_n = b$, et deux points consécutifs sont distants de $h$.
 
 On écrit la différence $f(b) - f(a)$ comme une somme qui se télescope :
 
-$$f(b) - f(a) = \sum_{k=0}^{n-1} \Big( f(x_{k+1}) - f(x_k) \Big) .$$
+$$f(b) - f(a) = \sum_{k=0}^{n-1} ( f(x_{k+1}) - f(x_k) ) .$$
 
 L'inégalité triangulaire donne alors
 

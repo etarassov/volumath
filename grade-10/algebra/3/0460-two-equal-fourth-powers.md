@@ -38,7 +38,7 @@ $$(x+1)^4 = (x-3)^4$$
 
 Soient $a$ et $b$ deux nombres réels. L'égalité $a^4 = b^4$ s'écrit $a^4 - b^4 = 0$. Factorisons en appliquant deux fois l'identité $a^2 - b^2 = (a-b)(a+b)$ :
 
-$$a^4 - b^4 = \big(a^2\big)^2 - \big(b^2\big)^2 = (a^2 - b^2)(a^2 + b^2) = (a-b)(a+b)(a^2+b^2)$$
+$$a^4 - b^4 = (a^2)^2 - (b^2)^2 = (a^2 - b^2)(a^2 + b^2) = (a-b)(a+b)(a^2+b^2)$$
 
 Un produit est nul si et seulement si l'un au moins de ses facteurs est nul. Trois cas se présentent donc.
 

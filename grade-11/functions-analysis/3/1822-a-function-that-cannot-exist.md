@@ -45,7 +45,7 @@ $$f(1^2) = 4 \times 1^2 + 4 \times 1 + 1 = 9, \qquad \text{donc} \qquad f(1) = 9
 
 Appliquons-la maintenant en $x = -1$. Comme $(-1)^2 = 1$, le membre de gauche est encore $f(1)$ :
 
-$$f\big((-1)^2\big) = 4 \times (-1)^2 + 4 \times (-1) + 1 = 4 - 4 + 1 = 1, \qquad \text{donc} \qquad f(1) = 1.$$
+$$f((-1)^2) = 4 \times (-1)^2 + 4 \times (-1) + 1 = 4 - 4 + 1 = 1, \qquad \text{donc} \qquad f(1) = 1.$$
 
 On obtient $f(1) = 9$ et $f(1) = 1$, ce qui est impossible.
 
@@ -57,7 +57,7 @@ Quelle que soit la fonction $f$, la fonction
 
 $$g : x \longmapsto f(x^2)$$
 
-est **paire**, puisque $g(-x) = f\big((-x)^2\big) = f(x^2) = g(x)$.
+est **paire**, puisque $g(-x) = f((-x)^2) = f(x^2) = g(x)$.
 
 Or le membre de droite, $4x^2+4x+1 = (2x+1)^2$, n'est pas une fonction paire : en $x = 1$ elle vaut $9$ et en $x = -1$ elle vaut $1$.
 

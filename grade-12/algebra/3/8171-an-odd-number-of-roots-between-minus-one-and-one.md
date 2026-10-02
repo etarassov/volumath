@@ -26,7 +26,7 @@ $$P(x) = a_{2016}x^{2016} + a_{2015}x^{2015} + \cdots + a_1 x + a_0 .$$
 
 Montrer que si
 
-$$\big|\,a_1 + a_3 + \cdots + a_{2015}\,\big| \ >\ \big|\,a_0 + a_2 + a_4 + \cdots + a_{2016}\,\big| ,$$
+$$|a_1 + a_3 + \cdots + a_{2015}| \ >\ |a_0 + a_2 + a_4 + \cdots + a_{2016}| ,$$
 
 alors le nombre de racines de $P$ dans l'intervalle $[-1\,;\,1]$, comptées avec leur multiplicité, est **impair**.
 

@@ -70,15 +70,15 @@ $$h_D = AD \sin(45° - \alpha) = \frac{4\,\cos\alpha\,\sin(45° - \alpha)}{\sin 
 
 *L'aire totale.* Les deux triangles ont la même base $[AC]$, de longueur $4$ :
 
-$$\mathcal{A} = \frac{1}{2} \times 4 \times h_B + \frac{1}{2} \times 4 \times h_D = 2\left(h_B + h_D\right) = \frac{8}{\sin 45°}\Big[\sin(135° - \alpha)\sin\alpha + \cos\alpha\,\sin(45° - \alpha)\Big].$$
+$$\mathcal{A} = \frac{1}{2} \times 4 \times h_B + \frac{1}{2} \times 4 \times h_D = 2\left(h_B + h_D\right) = \frac{8}{\sin 45°}[\sin(135° - \alpha)\sin\alpha + \cos\alpha\,\sin(45° - \alpha)].$$
 
-*Le crochet se simplifie entièrement.* D'abord $\sin(135° - \alpha) = \sin\big(180° - (135° - \alpha)\big) = \sin(45° + \alpha)$. Ensuite, les formules d'addition donnent
+*Le crochet se simplifie entièrement.* D'abord $\sin(135° - \alpha) = \sin(180° - (135° - \alpha)) = \sin(45° + \alpha)$. Ensuite, les formules d'addition donnent
 
 $$\sin(45° + \alpha) = \frac{\sqrt2}{2}\left(\cos\alpha + \sin\alpha\right), \qquad \sin(45° - \alpha) = \frac{\sqrt2}{2}\left(\cos\alpha - \sin\alpha\right).$$
 
 Donc
 
-$$\sin(45° + \alpha)\sin\alpha + \cos\alpha\,\sin(45° - \alpha) = \frac{\sqrt2}{2}\Big[\sin\alpha\cos\alpha + \sin^2\alpha + \cos^2\alpha - \cos\alpha\sin\alpha\Big].$$
+$$\sin(45° + \alpha)\sin\alpha + \cos\alpha\,\sin(45° - \alpha) = \frac{\sqrt2}{2}[\sin\alpha\cos\alpha + \sin^2\alpha + \cos^2\alpha - \cos\alpha\sin\alpha].$$
 
 Les deux produits $\sin\alpha\cos\alpha$ se détruisent, et il reste $\sin^2\alpha + \cos^2\alpha = 1$ :
 

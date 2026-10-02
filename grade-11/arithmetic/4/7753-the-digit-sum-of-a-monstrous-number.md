@@ -26,7 +26,7 @@ On pose
 
 $$N = 4444^{4444} .$$
 
-Calculer $f\bigl(f(f(N))\bigr)$.
+Calculer $f(f(f(N)))$.
 
 ## Hints
 
@@ -64,7 +64,7 @@ $$7^1 \equiv 7, \qquad 7^2 = 49 \equiv 4, \qquad 7^3 = 343 = 9 \times 38 + 1 \eq
 
 Le cycle a donc longueur $3$. Comme $4444 = 3 \times 1481 + 1$,
 
-$$7^{4444} = \bigl(7^3\bigr)^{1481} \times 7^1 \equiv 1^{1481} \times 7 = 7 \pmod 9 .$$
+$$7^{4444} = (7^3)^{1481} \times 7^1 \equiv 1^{1481} \times 7 = 7 \pmod 9 .$$
 
 Donc $f(f(f(N)))$ laisse le reste $7$ dans la division par $9$.
 
@@ -72,7 +72,7 @@ Donc $f(f(f(N)))$ laisse le reste $7$ dans la division par $9$.
 
 $4444 < 10^4$, donc
 
-$$N = 4444^{4444} < \bigl(10^4\bigr)^{4444} = 10^{17776} .$$
+$$N = 4444^{4444} < (10^4)^{4444} = 10^{17776} .$$
 
 $N$ a donc au plus $17776$ chiffres.
 
@@ -90,7 +90,7 @@ $$f(f(f(N))) \leqslant 13 .$$
 
 Le nombre $f(f(f(N)))$ est un entier strictement positif, au plus égal à $13$, qui laisse le reste $7$ dans la division par $9$. Les entiers de $1$ à $13$ qui laissent ce reste sont $7$ et… $16$, qui est trop grand. Il n'en reste qu'un.
 
-**Conclusion : $f\bigl(f(f(4444^{4444}))\bigr) = 7$.**
+**Conclusion : $f(f(f(4444^{4444}))) = 7$.**
 
 ## Going further
 

@@ -102,7 +102,7 @@ $H$ vers $C$, sa distance à la droite $(PC)$ décroît linéairement de $d(H,(P
 $$d(B, (PC)) \leq d(H, (PC)) .$$
 
 En combinant :
-$$d\big(B, (PC)\big) < PH = d(P, \Delta) .$$
+$$d(B, (PC)) < PH = d(P, \Delta) .$$
 
 **Étape 5 : la contradiction.**
 

@@ -60,7 +60,7 @@ La condition est donc : **$381 - 13a$ est un multiple de $17$ et $381 - 13a \ge 
 
 **Étape 3 : les valeurs de $a$.**
 
-D'abord, $381 - 13a \ge 0$ donne $a \le \dfrac{381}{13} = 29{,}3\ldots$, donc $a \le 29$.
+D'abord, $381 - 13a \ge 0$ donne $a \le \dfrac{381}{13} = \text{29,3}\ldots$, donc $a \le 29$.
 
 Ensuite il faut $13a \equiv 381 \pmod{17}$. Comme $381 = 17 \times 22 + 7$, on a $381 \equiv 7 \pmod{17}$. Et comme $13 \equiv -4 \pmod{17}$, la condition devient
 

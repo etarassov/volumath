@@ -70,7 +70,7 @@ Choisissons un point $O$ et traçons le cercle $\mathcal{C}$ de centre $O$ et de
 
 D'après $(\star\star)$, tout point de $\mathcal{C}$ a la même couleur que $O$. Donc tous les points de $\mathcal{C}$ ont la même couleur.
 
-Or ce cercle a pour diamètre $2\sqrt{3} \approx 3{,}46$, bien plus que $1$. On peut donc y trouver deux points distants d'exactement $1$ : il suffit de partir d'un point $P$ de $\mathcal{C}$ et de faire tourner un second point $Q$ sur le cercle ; la distance $PQ$ varie continûment de $0$ (quand $Q = P$) jusqu'à $2\sqrt{3}$ (quand $Q$ est diamétralement opposé), donc elle prend la valeur $1$ en chemin.
+Or ce cercle a pour diamètre $2\sqrt{3} \approx \text{3,46}$, bien plus que $1$. On peut donc y trouver deux points distants d'exactement $1$ : il suffit de partir d'un point $P$ de $\mathcal{C}$ et de faire tourner un second point $Q$ sur le cercle ; la distance $PQ$ varie continûment de $0$ (quand $Q = P$) jusqu'à $2\sqrt{3}$ (quand $Q$ est diamétralement opposé), donc elle prend la valeur $1$ en chemin.
 
 Ces deux points $P$ et $Q$ sont sur $\mathcal{C}$, donc de la même couleur, et distants de $1$. Cela contredit $(\star)$.
 

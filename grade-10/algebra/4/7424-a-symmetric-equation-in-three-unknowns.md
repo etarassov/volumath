@@ -44,7 +44,7 @@ puis
 $$(1 + x + y + xy)(1+z) = 1 + x + y + xy + z + xz + yz + xyz.$$
 
 Autrement dit
-$$(1+x)(1+y)(1+z) = 1 + \bigl(x + y + z + xy + yz + zx + xyz\bigr).$$
+$$(1+x)(1+y)(1+z) = 1 + (x + y + z + xy + yz + zx + xyz).$$
 
 L'équation de l'énoncé s'écrit donc
 $$(1+x)(1+y)(1+z) - 1 = 2009,$$

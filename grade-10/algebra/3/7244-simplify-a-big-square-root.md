@@ -38,14 +38,14 @@ $$A = \sqrt{(a+b+c)(a+b-c)(a-b+c)(b+c-a)} .$$
 
 **Premier regroupement.**
 
-$$(a+b+c)(b+c-a) = \big((b+c) + a\big)\big((b+c) - a\big) = (b+c)^2 - a^2 .$$
+$$(a+b+c)(b+c-a) = ((b+c) + a)((b+c) - a) = (b+c)^2 - a^2 .$$
 
 Développons et utilisons l'hypothèse $a^2 = b^2 + c^2$ :
 $$(b+c)^2 - a^2 = b^2 + 2bc + c^2 - a^2 = (b^2 + c^2) + 2bc - a^2 = a^2 + 2bc - a^2 = 2bc .$$
 
 **Second regroupement.**
 
-$$(a+b-c)(a-b+c) = \big(a + (b-c)\big)\big(a - (b-c)\big) = a^2 - (b-c)^2 .$$
+$$(a+b-c)(a-b+c) = (a + (b-c))(a - (b-c)) = a^2 - (b-c)^2 .$$
 
 De même :
 $$a^2 - (b-c)^2 = a^2 - b^2 + 2bc - c^2 = a^2 - (b^2 + c^2) + 2bc = a^2 - a^2 + 2bc = 2bc .$$

@@ -45,7 +45,7 @@ dont l'aire vaut $1000 \times 2000 = 2\,000\,000$.
 
 Chaque coordonnée suit la loi uniforme sur son intervalle, et les deux tirages sont indépendants : le point $(X, Y)$ est donc réparti **uniformément** dans le rectangle. Pour une partie $D$ du rectangle,
 
-$$P\bigl((X, Y) \in D\bigr) = \frac{\text{aire de } D}{\text{aire de } R}.$$
+$$P((X, Y) \in D) = \frac{\text{aire de } D}{\text{aire de } R}.$$
 
 **Repérer l'événement.**
 

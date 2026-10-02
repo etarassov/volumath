@@ -71,7 +71,7 @@ $$P(\text{première blanche en place } k) = P(N_{k-1}) - P(N_k).$$
 
 Alice gagne si $k \in \{1, 3, 5, 7\}$ :
 
-$$P(\text{Alice gagne}) = \bigl(P(N_0) - P(N_1)\bigr) + \bigl(P(N_2) - P(N_3)\bigr) + \bigl(P(N_4) - P(N_5)\bigr) + \bigl(P(N_6) - P(N_7)\bigr).$$
+$$P(\text{Alice gagne}) = (P(N_0) - P(N_1)) + (P(N_2) - P(N_3)) + (P(N_4) - P(N_5)) + (P(N_6) - P(N_7)).$$
 
 Remplaçons :
 

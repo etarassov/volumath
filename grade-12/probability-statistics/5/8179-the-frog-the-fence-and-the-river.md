@@ -73,7 +73,7 @@ $$d_y = E(y) - E(y+1) .$$
 
 La relation du milieu se récrit : comme $E(y+1) - E(y) = -d_y$ et $E(y) - E(y-1) = -d_{y-1}$,
 
-$$\big(E(y+1) - E(y)\big) - \big(E(y) - E(y-1)\big) = -d_y + d_{y-1} = -4 ,$$
+$$(E(y+1) - E(y)) - (E(y) - E(y-1)) = -d_y + d_{y-1} = -4 ,$$
 
 donc
 
@@ -91,7 +91,7 @@ $$d_y = 3 + 4y \qquad \text{pour } 0 \leqslant y \leqslant 23 .$$
 
 Comme $E(24) = 0$, la somme télescopique donne
 
-$$E(21) = \big(E(21)-E(22)\big) + \big(E(22)-E(23)\big) + \big(E(23)-E(24)\big) = d_{21} + d_{22} + d_{23} .$$
+$$E(21) = (E(21)-E(22)) + (E(22)-E(23)) + (E(23)-E(24)) = d_{21} + d_{22} + d_{23} .$$
 
 Or $d_{21} = 3 + 84 = 87$, $d_{22} = 3 + 88 = 91$ et $d_{23} = 3 + 92 = 95$, d'où
 

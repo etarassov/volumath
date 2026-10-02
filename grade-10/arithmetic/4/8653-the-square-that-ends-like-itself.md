@@ -49,7 +49,7 @@ Les deux lignes coïncident dans quatre colonnes : $0$, $1$, $5$ et $6$.
 
 Deux nombres ont les mêmes deux derniers chiffres exactement quand leur différence est un multiple de $100$. La condition s'écrit donc
 
-$$100 \ \big|\ n^2 - n, \qquad \text{c'est-à-dire} \qquad 100 \ \big|\ n(n-1).$$
+$$100  \mid n^2 - n, \qquad \text{c'est-à-dire} \qquad 100  \mid n(n-1).$$
 
 **L'observation clé.** Les entiers $n$ et $n-1$ sont consécutifs : leur seul diviseur commun est $1$. En particulier, ils ne peuvent pas être pairs tous les deux, ni multiples de $5$ tous les deux.
 

@@ -56,14 +56,14 @@ dehors : il y a donc $4$ équipes entièrement féminines.
 
 Comparons $\dfrac{4}{84}$ à $5\,\%$. Le plus simple est de calculer $5\,\%$ de $84$ :
 
-$$\frac{5}{100} \times 84 = 4{,}2 .$$
+$$\frac{5}{100} \times 84 = \text{4,2} .$$
 
-Comme $4 < 4{,}2$, on a bien
+Comme $4 < \text{4,2}$, on a bien
 
 $$\frac{4}{84} < \frac{5}{100} .$$
 
 **Oui, c'est vrai : moins de $5\,\%$ des équipes sont composées uniquement de filles.**
-(Le pourcentage exact vaut $\frac{4}{84} \approx 4{,}76\,\%$.)
+(Le pourcentage exact vaut $\frac{4}{84} \approx \text{4,76}\,\%$.)
 
 ## Going further
 

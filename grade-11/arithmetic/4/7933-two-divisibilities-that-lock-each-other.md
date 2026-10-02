@@ -59,7 +59,7 @@ $$b-1 \ \text{ divise } \ b^3a + 1 \qquad \Longleftrightarrow \qquad b-1 \ \text
 
 Les deux conditions réunies donnent
 
-$$b - 1 \ \big| \ a+1 \qquad \text{et} \qquad a+1 \ \big| \ b+1 ,$$
+$$b - 1  \mid a+1 \qquad \text{et} \qquad a+1  \mid b+1 ,$$
 
 donc, par transitivité, $b - 1$ divise $b+1$. Comme $b+1 = (b-1) + 2$, le nombre $b-1$ divise aussi $2$.
 

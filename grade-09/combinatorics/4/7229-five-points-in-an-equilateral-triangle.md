@@ -24,7 +24,7 @@ On se donne un triangle équilatéral de côté $1$ et cinq points situés à l'
 triangle ou sur son bord.
 
 1. Montrer qu'il existe toujours deux de ces points distants d'au plus $\dfrac{1}{2}$.
-2. Aurait-on le même résultat avec la distance $0{,}49$ à la place de $\dfrac{1}{2}$ ?
+2. Aurait-on le même résultat avec la distance $\text{0,49}$ à la place de $\dfrac{1}{2}$ ?
 
 ## Hints
 
@@ -53,7 +53,7 @@ plus $\dfrac{1}{2}$.
 
 **Il existe donc bien deux points parmi les cinq distants d'au plus $\dfrac{1}{2}$.**
 
-**2. Avec $0{,}49$, la réponse est non.**
+**2. Avec $\text{0,49}$, la réponse est non.**
 
 Donnons un contre-exemple : cinq points du triangle deux à deux distants d'au moins
 $\dfrac{1}{2}$.
@@ -68,16 +68,16 @@ Calculons toutes les distances :
 
 - $AB = BC = CA = 1$ ;
 - $AM = MB = BN = NC = \dfrac{1}{2}$ ;
-- $CM$ est une hauteur du triangle équilatéral, donc $CM = \dfrac{\sqrt{3}}{2} \approx 0{,}87$ ;
+- $CM$ est une hauteur du triangle équilatéral, donc $CM = \dfrac{\sqrt{3}}{2} \approx \text{0,87}$ ;
 - $AN$ est aussi une hauteur, donc $AN = \dfrac{\sqrt{3}}{2}$ ;
 - $MN$ est un segment des milieux dans le triangle $ABC$ : il est parallèle à $(AC)$ et vaut la
   moitié, donc $MN = \dfrac{1}{2}$.
 
 Toutes ces distances valent au moins $\dfrac{1}{2}$, donc elles sont toutes strictement supérieures
-à $0{,}49$.
+à $\text{0,49}$.
 
-**Avec $0{,}49$ le résultat est donc faux : ces cinq points sont deux à deux distants de plus de
-$0{,}49$.**
+**Avec $\text{0,49}$ le résultat est donc faux : ces cinq points sont deux à deux distants de plus de
+$\text{0,49}$.**
 
 ## Going further
 

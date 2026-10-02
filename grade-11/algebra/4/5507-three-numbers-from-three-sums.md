@@ -63,7 +63,7 @@ $$xy + yz + zx = \frac{36 - 14}{2} = 11 .$$
 Développons :
 $$(t-x)(t-y) = t^2 - (x+y)t + xy ,$$
 puis
-$$P(t) = \big[t^2 - (x+y)t + xy\big](t - z) = t^3 - (x+y)t^2 + xy\,t - z\,t^2 + (x+y)z\,t - xyz ,$$
+$$P(t) = [t^2 - (x+y)t + xy](t - z) = t^3 - (x+y)t^2 + xy\,t - z\,t^2 + (x+y)z\,t - xyz ,$$
 soit, en rangeant,
 $$P(t) = t^3 - (x + y + z)\,t^2 + (xy + yz + zx)\,t - xyz .$$
 

@@ -58,7 +58,7 @@ Les deux camions mettent le même temps.
 **b) Tous les carrefours à égale distance.**
 
 Soit $M(x\,;\,y)$. On étudie
-$$\Delta = d(A, M) - d(B, M) = \underbrace{\big(|x - 3| - |x - 10|\big)}_{\text{ne dépend que de } x} + \underbrace{\big(|y - 2| - |y - 15|\big)}_{\text{ne dépend que de } y} .$$
+$$\Delta = d(A, M) - d(B, M) = \underbrace{(|x - 3| - |x - 10|)}_{\text{ne dépend que de } x} + \underbrace{(|y - 2| - |y - 15|)}_{\text{ne dépend que de } y} .$$
 
 *Le morceau en $x$.* On l'appelle $u(x)$.
 

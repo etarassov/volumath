@@ -39,11 +39,11 @@ est un nombre premier.
 
 L'expression $4n^4 + 1$ n'a que deux termes, mais en lui ajoutant et en lui retranchant $4n^2$ on fait apparaître un carré :
 
-$$4n^4 + 1 = \big(4n^4 + 4n^2 + 1\big) - 4n^2 = \big(2n^2 + 1\big)^2 - (2n)^2.$$
+$$4n^4 + 1 = (4n^4 + 4n^2 + 1) - 4n^2 = (2n^2 + 1)^2 - (2n)^2.$$
 
 C'est une différence de deux carrés, donc
 
-$$4n^4 + 1 = \big(2n^2 + 1 - 2n\big)\big(2n^2 + 1 + 2n\big).$$
+$$4n^4 + 1 = (2n^2 + 1 - 2n)(2n^2 + 1 + 2n).$$
 
 Notons
 
@@ -80,7 +80,7 @@ Les seules valeurs possibles sont donc $n = -1$, $n = 0$ et $n = 1$.
 
 L'identité utilisée ici porte un nom : c'est l'**identité de Sophie Germain**,
 
-$$a^4 + 4b^4 = \big(a^2 - 2ab + 2b^2\big)\big(a^2 + 2ab + 2b^2\big),$$
+$$a^4 + 4b^4 = (a^2 - 2ab + 2b^2)(a^2 + 2ab + 2b^2),$$
 
 que l'on retrouve en prenant $a = 1$ et $b = n$ (au facteur près, c'est le même calcul). Elle se démontre exactement de la même façon : on ajoute et on retranche $4a^2b^2$.
 

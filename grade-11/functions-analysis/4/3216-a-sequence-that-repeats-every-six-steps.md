@@ -52,7 +52,7 @@ $$u_{n-1} = u_{n-2} - u_{n-3} + (n-1).$$
 
 En reportant dans $u_n = u_{n-1} - u_{n-2} + n$ :
 
-$$u_n = \big( u_{n-2} - u_{n-3} + n - 1 \big) - u_{n-2} + n = -\,u_{n-3} + 2n - 1 .$$
+$$u_n = ( u_{n-2} - u_{n-3} + n - 1 ) - u_{n-2} + n = -\,u_{n-3} + 2n - 1 .$$
 
 Donc, pour tout $n \ge 4$,
 
@@ -64,7 +64,7 @@ $$u_{n-3} = -\,u_{n-6} + 2(n-3) - 1 = -\,u_{n-6} + 2n - 7 .$$
 
 En reportant dans $(\star)$ :
 
-$$u_n = -\big( -\,u_{n-6} + 2n - 7 \big) + 2n - 1 = u_{n-6} - 2n + 7 + 2n - 1 = u_{n-6} + 6 .$$
+$$u_n = -( -\,u_{n-6} + 2n - 7 ) + 2n - 1 = u_{n-6} - 2n + 7 + 2n - 1 = u_{n-6} + 6 .$$
 
 Donc, pour tout $n \ge 7$,
 

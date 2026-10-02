@@ -28,7 +28,7 @@ On rappelle que $\log_b$ est croissante si $b > 1$ et **décroissante** si $0 < 
 
 On considère
 
-$$f(x) = \log_{1/2}\Big( \log_{4}\Big( \log_{1/4}\Big( \log_{16}\Big( \log_{1/16}(x) \Big) \Big) \Big) \Big) .$$
+$$f(x) = \log_{1/2}( \log_{4}( \log_{1/4}( \log_{16}( \log_{1/16}(x) ) ) ) ) .$$
 
 L'ensemble de définition de $f$ est un intervalle. Déterminer cet intervalle, puis sa longueur.
 
@@ -105,6 +105,6 @@ $$\frac{1}{16} - \frac{1}{256} = \frac{16}{256} - \frac{1}{256} = \frac{15}{256}
 
 ## Going further
 
-1. Reprendre le calcul avec $g(x) = \log_{1/2}\big( \log_4 ( \log_{1/4} (x) ) \big)$ : quel est son ensemble de définition ?
+1. Reprendre le calcul avec $g(x) = \log_{1/2}( \log_4 ( \log_{1/4} (x) ) )$ : quel est son ensemble de définition ?
 2. Dans la solution, à quels étages l'inégalité a-t-elle été renversée ? Compter, et vérifier que cela correspond exactement aux bases plus petites que $1$.
 3. Que se passerait-il si l'on remplaçait la base $16$ du quatrième étage par $\tfrac{1}{16}$ ? L'ensemble de définition serait-il encore un intervalle ?

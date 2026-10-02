@@ -58,11 +58,11 @@ $$\text{aire}(PCA) = \frac{a \times PE}{2}, \qquad \text{aire}(PAB) = \frac{a \t
 
 **Additionner.**
 
-$$\text{aire}(ABC) = \frac{a \times PD}{2} + \frac{a \times PE}{2} + \frac{a \times PF}{2} = \frac{a}{2}\bigl(PD + PE + PF\bigr).$$
+$$\text{aire}(ABC) = \frac{a \times PD}{2} + \frac{a \times PE}{2} + \frac{a \times PF}{2} = \frac{a}{2}(PD + PE + PF).$$
 
 Notons $h$ la hauteur du triangle équilatéral. Alors $\text{aire}(ABC) = \dfrac{a \times h}{2}$, d'où
 
-$$\frac{a \times h}{2} = \frac{a}{2}\bigl(PD + PE + PF\bigr), \qquad \text{donc} \qquad PD + PE + PF = h.$$
+$$\frac{a \times h}{2} = \frac{a}{2}(PD + PE + PF), \qquad \text{donc} \qquad PD + PE + PF = h.$$
 
 **La réponse.**
 

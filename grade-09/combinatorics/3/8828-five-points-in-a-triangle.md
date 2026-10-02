@@ -59,7 +59,7 @@ Deux des cinq points sont dans un même petit triangle de côté $1$, donc à di
 
 ### Pourquoi cinq et pas quatre
 
-Avec seulement $4$ points, le résultat tombe : on peut placer les trois sommets du grand triangle et son centre. Les distances entre sommets valent $2$, et la distance du centre à un sommet vaut $\dfrac{2}{\sqrt3} \approx 1{,}15$, toutes strictement plus grandes que $1$.
+Avec seulement $4$ points, le résultat tombe : on peut placer les trois sommets du grand triangle et son centre. Les distances entre sommets valent $2$, et la distance du centre à un sommet vaut $\dfrac{2}{\sqrt3} \approx \text{1,15}$, toutes strictement plus grandes que $1$.
 
 ## Going further
 

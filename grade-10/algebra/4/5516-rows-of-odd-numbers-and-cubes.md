@@ -74,7 +74,7 @@ La ligne $n$ contient $n$ nombres, qui augmentent de $2$ à chaque fois. Le prem
 $$(n^2 - n + 1) + 2(n - 1) = n^2 + n - 1 .$$
 
 Pour additionner une liste de nombres régulièrement espacés, on utilise l'astuce de Gauss : on écrit la somme $S$ dans un sens, puis dans l'autre, et on additionne terme à terme. Chaque paire donne « premier $+$ dernier », et il y a $n$ paires :
-$$2S = n \times \big[(n^2 - n + 1) + (n^2 + n - 1)\big] = n \times 2n^2 = 2n^3 .$$
+$$2S = n \times [(n^2 - n + 1) + (n^2 + n - 1)] = n \times 2n^2 = 2n^3 .$$
 
 Donc
 $$S = n^3 .$$

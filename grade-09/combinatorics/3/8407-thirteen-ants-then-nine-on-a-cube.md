@@ -61,7 +61,7 @@ Soit $F$ une fourmi. Elle se trouve sur une arête, dont les deux extrémités s
 
 Comme l'arête mesure $1$ et que $F$ est plus proche de $S(F)$ que de l'autre extrémité,
 
-$$d\big(F, S(F)\big) \leqslant \frac{1}{2}.$$
+$$d(F, S(F)) \leqslant \frac{1}{2}.$$
 
 **On applique le principe des tiroirs.**
 

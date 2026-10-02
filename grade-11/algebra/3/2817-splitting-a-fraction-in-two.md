@@ -90,7 +90,7 @@ $$\frac{x^2}{m} + \frac{y^2}{n} + \frac{z^2}{p} \;\geqslant\; \frac{(x+y)^2}{m+n
 
 Appliquons maintenant de nouveau la question 1, cette fois aux deux fractions $\dfrac{(x+y)^2}{m+n}$ et $\dfrac{z^2}{p}$ : le rôle de $x$ est tenu par $x+y$, celui de $m$ par $m+n$. Comme $m+n > 0$ et $p > 0$, c'est licite :
 
-$$\frac{(x+y)^2}{m+n} + \frac{z^2}{p} \;\geqslant\; \frac{\big((x+y) + z\big)^2}{(m+n)+p} = \frac{(x+y+z)^2}{m+n+p}.$$
+$$\frac{(x+y)^2}{m+n} + \frac{z^2}{p} \;\geqslant\; \frac{((x+y) + z)^2}{(m+n)+p} = \frac{(x+y+z)^2}{m+n+p}.$$
 
 En enchaînant les deux inégalités, on obtient le résultat annoncé.
 

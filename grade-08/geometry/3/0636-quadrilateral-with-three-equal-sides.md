@@ -94,7 +94,7 @@ $$\widehat{CDA} = 360° - 75° - 90° - 150° = 45°.$$
 
 **Vérification.** $75° + 90° + 150° + 45° = 360°$ ✔. On peut aussi retrouver l'angle en $D$ en deux morceaux :
 
-$$\widehat{CDA} = \widehat{BDC} + \widehat{ADB} = 15° + \bigl(180° - 75° - 75°\bigr) = 15° + 30° = 45°. \ ✔$$
+$$\widehat{CDA} = \widehat{BDC} + \widehat{ADB} = 15° + (180° - 75° - 75°) = 15° + 30° = 45°. \ ✔$$
 
 ## Going further
 

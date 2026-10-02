@@ -45,7 +45,7 @@ $$2x^2 = u^2 + 3x - 2 .$$
 
 Reportons dans le membre de gauche de l'équation :
 
-$$2x^2 + 6 - 2u = \big(u^2 + 3x - 2\big) + 6 - 2u = u^2 - 2u + 3x + 4 .$$
+$$2x^2 + 6 - 2u = (u^2 + 3x - 2) + 6 - 2u = u^2 - 2u + 3x + 4 .$$
 
 L'équation s'écrit donc
 

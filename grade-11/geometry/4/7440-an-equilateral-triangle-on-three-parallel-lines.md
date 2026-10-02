@@ -86,7 +86,7 @@ Les trois angles valent $60°$ : **le triangle $A_1A_2A_3$ est équilatéral.**
 
 - $A_1$ est sur $(D_1)$ : c'est ainsi qu'on l'a choisi.
 - $A_2$ est sur $(D_2)$ : c'est l'intersection de $(D_2)$ avec $(D_3')$.
-- $A_3$ est sur $(D_3)$ : en effet $A_2$ est sur $(D_3') = r\big((D_3)\big)$, donc son antécédent
+- $A_3$ est sur $(D_3)$ : en effet $A_2$ est sur $(D_3') = r((D_3))$, donc son antécédent
   $A_3$ est sur $(D_3)$.
 
 **La construction répond bien à la question.**

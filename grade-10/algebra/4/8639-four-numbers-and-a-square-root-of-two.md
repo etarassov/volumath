@@ -63,7 +63,7 @@ $$\left(-\sqrt2\right)^2 + \left(\frac{1}{\sqrt2}\right)^2 + \left(\sqrt2\right)
 
 $$\left(-\sqrt2\right)^2 + 1^2 + \left(\sqrt2\right)^2 + \left(2\sqrt2\right)^2 = 2 + 1 + 2 + 8 = 13 .$$
 
-**Conclusion.** Comme $\dfrac{17}{2} = 8{,}5$ est différent de $13$, **Maena ne pourra jamais obtenir ces quatre nombres**.
+**Conclusion.** Comme $\dfrac{17}{2} = \text{8,5}$ est différent de $13$, **Maena ne pourra jamais obtenir ces quatre nombres**.
 
 ## Going further
 

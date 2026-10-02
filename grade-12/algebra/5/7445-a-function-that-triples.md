@@ -22,7 +22,7 @@ source:
 
 Soit $f$ une fonction définie sur les entiers strictement positifs, à valeurs entières
 strictement positives, **strictement croissante**, et qui vérifie
-$$f\big(f(n)\big) = 3n \qquad \text{pour tout entier } n \geqslant 1.$$
+$$f(f(n)) = 3n \qquad \text{pour tout entier } n \geqslant 1.$$
 
 Calculer $f(2011)$.
 
@@ -57,7 +57,7 @@ Posons $k = f(1)$.
 - **$k \geqslant 3$ est impossible.** La relation donne $f(k) = f(f(1)) = 3$. Mais on vient de
   voir que $f(k) \geqslant k$, donc $3 \geqslant k$, et comme $k \geqslant 3$ cela force $k = 3$,
   c'est-à-dire $f(3) = 3$. En appliquant alors la relation à $n = 3$ :
-  $$9 = f\big(f(3)\big) = f(3) = 3,$$
+  $$9 = f(f(3)) = f(3) = 3,$$
   ce qui est faux.
 
 Il ne reste qu'une possibilité :
@@ -66,20 +66,20 @@ $$f(1) = 2.$$
 ### Étape 2 : deux familles de valeurs
 
 Appliquons la relation en cascade :
-$$f(2) = f\big(f(1)\big) = 3 \times 1 = 3,$$
-$$f(3) = f\big(f(2)\big) = 3 \times 2 = 6,$$
-$$f(6) = f\big(f(3)\big) = 3 \times 3 = 9,$$
-$$f(9) = f\big(f(6)\big) = 3 \times 6 = 18,$$
+$$f(2) = f(f(1)) = 3 \times 1 = 3,$$
+$$f(3) = f(f(2)) = 3 \times 2 = 6,$$
+$$f(6) = f(f(3)) = 3 \times 3 = 9,$$
+$$f(9) = f(f(6)) = 3 \times 6 = 18,$$
 $$f(18) = 27, \qquad f(27) = 54, \qquad f(54) = 81, \ \ldots$$
 
 Un motif apparaît. Montrons par récurrence que pour tout entier $k \geqslant 0$ :
-$$f\big(3^k\big) = 2 \times 3^k \qquad \text{et} \qquad f\big(2 \times 3^k\big) = 3^{k+1}.$$
+$$f(3^k) = 2 \times 3^k \qquad \text{et} \qquad f(2 \times 3^k) = 3^{k+1}.$$
 
 - **Initialisation.** Pour $k = 0$ : $f(1) = 2$ et $f(2) = 3$. C'est bien ce qu'on a trouvé.
 - **Hérédité.** Supposons $f(3^k) = 2 \times 3^k$. Alors
-  $$f\big(2 \times 3^k\big) = f\Big(f\big(3^k\big)\Big) = 3 \times 3^k = 3^{k+1},$$
+  $$f(2 \times 3^k) = f(f(3^k)) = 3 \times 3^k = 3^{k+1},$$
   puis
-  $$f\big(3^{k+1}\big) = f\Big(f\big(2 \times 3^k\big)\Big) = 3 \times 2 \times 3^k = 2 \times 3^{k+1}.$$
+  $$f(3^{k+1}) = f(f(2 \times 3^k)) = 3 \times 2 \times 3^k = 2 \times 3^{k+1}.$$
 
 La propriété est donc vraie pour tout $k$.
 
@@ -92,29 +92,29 @@ $$3^{k+1} - 2 \times 3^k + 1 = 3^k + 1.$$
 
 Le même nombre. Or $f$ est strictement croissante, elle envoie $3^k$ sur $2 \times 3^k$ et
 $2 \times 3^k$ sur $3^{k+1}$. Les $3^k + 1$ valeurs
-$$f\big(3^k\big) < f\big(3^k + 1\big) < \cdots < f\big(2 \times 3^k\big)$$
+$$f(3^k) < f(3^k + 1) < \cdots < f(2 \times 3^k)$$
 sont donc $3^k+1$ entiers strictement croissants, compris entre $2 \times 3^k$ et $3^{k+1}$,
 c'est-à-dire pris dans un ensemble qui contient exactement $3^k+1$ entiers. Il n'y a aucune
 liberté : ce sont tous les entiers de cet intervalle, dans l'ordre. Autrement dit
-$$f\big(3^k + j\big) = 2 \times 3^k + j \qquad \text{pour } 0 \leqslant j \leqslant 3^k.$$
+$$f(3^k + j) = 2 \times 3^k + j \qquad \text{pour } 0 \leqslant j \leqslant 3^k.$$
 
 ### Étape 4 : la formule sur la seconde moitié
 
 Soit maintenant $n$ compris entre $2 \times 3^k$ et $3^{k+1}$. Posons $j = n - 2 \times 3^k$, de
 sorte que $0 \leqslant j \leqslant 3^k$. D'après l'étape 3,
-$$n = 2 \times 3^k + j = f\big(3^k + j\big),$$
+$$n = 2 \times 3^k + j = f(3^k + j),$$
 donc
-$$f(n) = f\Big(f\big(3^k + j\big)\Big) = 3\big(3^k + j\big).$$
+$$f(n) = f(f(3^k + j)) = 3(3^k + j).$$
 
 En remplaçant $j$ par $n - 2 \times 3^k$ :
-$$f(n) = 3\big(3^k + n - 2\times 3^k\big) = 3\big(n - 3^k\big).$$
+$$f(n) = 3(3^k + n - 2\times 3^k) = 3(n - 3^k).$$
 
 ### Étape 5 : le calcul demandé
 
 On a $3^6 = 729$, donc $2 \times 3^6 = 1458$ et $3^7 = 2187$. Et
 $$1458 \leqslant 2011 \leqslant 2187,$$
 donc $2011$ est dans la seconde moitié, avec $k = 6$. La formule de l'étape 4 donne
-$$f(2011) = 3\big(2011 - 729\big) = 3 \times 1282 = 3846.$$
+$$f(2011) = 3(2011 - 729) = 3 \times 1282 = 3846.$$
 
 $$\boxed{f(2011) = 3846}$$
 

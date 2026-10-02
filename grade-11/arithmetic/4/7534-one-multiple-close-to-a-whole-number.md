@@ -61,13 +61,13 @@ Les $n-1$ nombres $\{a\}, \{2a\}, \ldots, \{(n-1)a\}$ sont tous dans cet interva
 
 Deux nombres d'un même morceau de longueur $\frac1n$ diffèrent de moins de $\frac1n$ :
 
-$$\bigl|\{ja\} - \{ia\}\bigr| \;<\; \frac1n.$$
+$$|\{ja\} - \{ia\}| \;<\; \frac1n.$$
 
 **Étape 3. On revient à un multiple de $a$.**
 
 Posons $m = j - i$, de sorte que $1 \leqslant m \leqslant n-2$. Alors
 
-$$ma = ja - ia = \bigl(\lfloor ja\rfloor - \lfloor ia \rfloor\bigr) + \bigl(\{ja\} - \{ia\}\bigr).$$
+$$ma = ja - ia = (\lfloor ja\rfloor - \lfloor ia \rfloor) + (\{ja\} - \{ia\}).$$
 
 Le premier terme, notons-le $N$, est un entier. Le second est de valeur absolue $< \frac1n$. Donc
 
@@ -91,4 +91,4 @@ $$\left| a - \frac{p}{q} \right| \;<\; \frac{1}{q\,n}.$$
 
 C'est le point de départ de toute la théorie de l'approximation des réels par des fractions, et donc des fractions continues.
 
-Un exemple concret : prends $a = \pi$ et $n = 8$. Parmi $\pi, 2\pi, \ldots, 7\pi$, c'est $7\pi \approx 21{,}991$ qui est le plus près d'un entier, à $0{,}009$ de $22$, bien mieux que le $\frac18 = 0{,}125$ garanti. On retrouve la fameuse approximation $\pi \approx \frac{22}{7}$.
+Un exemple concret : prends $a = \pi$ et $n = 8$. Parmi $\pi, 2\pi, \ldots, 7\pi$, c'est $7\pi \approx \text{21,991}$ qui est le plus près d'un entier, à $\text{0,009}$ de $22$, bien mieux que le $\frac18 = \text{0,125}$ garanti. On retrouve la fameuse approximation $\pi \approx \frac{22}{7}$.

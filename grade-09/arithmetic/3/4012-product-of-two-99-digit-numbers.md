@@ -49,7 +49,7 @@ où $A'$ et $B'$ sont les entiers formés par les chiffres restants.
 
 **Développons le produit :**
 
-$$A \times B = 10\,000 \times 10\,000 \times A'B' \; + \; 10\,000 \times \bigl( 505 \, A' + 303 \, B' \bigr) \; + \; 303 \times 505 .$$
+$$A \times B = 10\,000 \times 10\,000 \times A'B' \; + \; 10\,000 \times ( 505 \, A' + 303 \, B' ) \; + \; 303 \times 505 .$$
 
 Les deux premiers termes sont des multiples de $10\,000$ : ils ne contiennent que des zéros
 sur les quatre derniers chiffres et ne peuvent donc pas les modifier. Tout se joue sur le

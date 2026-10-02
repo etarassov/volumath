@@ -80,6 +80,6 @@ Les rayons $R_1$ et $R_2$ ont disparu. Que le cycliste tourne en tout petit rond
 ## Going further
 
 1. Reformule le résultat sans parler de vélo : une corde du grand cercle, tangente au petit cercle, a une longueur $2r$. Retrouve l'aire de la couronne.
-2. Le vélo mesure $r = 1{,}05$ m. Quelle est l'aire entre les deux traces, en mètres carrés ? Combien mesure le rayon de la trace arrière si celui de la trace avant vaut $10$ m ?
+2. Le vélo mesure $r = \text{1,05}$ m. Quelle est l'aire entre les deux traces, en mètres carrés ? Combien mesure le rayon de la trace arrière si celui de la trace avant vaut $10$ m ?
 3. Le cycliste ne roule plus en cercle, mais suit une boucle fermée quelconque, sans jamais revenir en arrière, et il tourne toujours dans le même sens. On peut montrer que l'aire entre les deux traces vaut encore $\pi r^2$. Commence par le cas où la roue arrière suit exactement le contour d'un carré, en pivotant sur place à chaque coin : que dessine alors la roue avant dans les coins, et quelle est l'aire entre les deux traces ?
 4. Refais la question 3 avec un triangle, puis avec un polygone convexe quelconque. Quelle propriété des angles d'un polygone fait marcher l'argument ?

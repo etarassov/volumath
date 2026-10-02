@@ -71,7 +71,7 @@ Soit $a$ un réel. Choisissons
 
 $$N = -2\sqrt{|a| + 1} ,$$
 
-qui est bien négatif. Alors $N^2 = 4\left(|a|+1\right) \ge 4a$, c'est-à-dire
+qui est bien négatif. Alors $N^2 = 4(|a|+1) \ge 4a$, c'est-à-dire
 
 $$a \le \frac{N^2}{4} .$$
 

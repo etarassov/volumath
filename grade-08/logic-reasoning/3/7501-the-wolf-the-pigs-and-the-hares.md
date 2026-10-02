@@ -69,7 +69,7 @@ Un cochon remplit plus que un lièvre et demi.
 
 Reprenons le premier repas. Comme $c > \tfrac{3}{2} l$, on a $3c > \tfrac{9}{2} l$, donc
 
-$$3c + 7l \;>\; \tfrac{9}{2}\,l + 7l \;=\; \tfrac{23}{2}\,l \;=\; 11{,}5\,l \;>\; 11\,l.$$
+$$3c + 7l \;>\; \tfrac{9}{2}\,l + 7l \;=\; \tfrac{23}{2}\,l \;=\; \text{11,5}\,l \;>\; 11\,l.$$
 
 Donc 11 lièvres remplissent **moins** que le repas « 3 cochons et 7 lièvres ». Or ce repas-là laissait déjà le loup sur sa faim :
 

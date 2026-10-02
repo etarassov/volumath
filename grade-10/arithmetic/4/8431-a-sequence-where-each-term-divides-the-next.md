@@ -45,7 +45,7 @@ Il s'agit de montrer que $A$ divise $a_{n+1}^2 + 1$.
 
 Par définition,
 
-$$a_{n+1} = b^2 + b + 1 = \big(b^2 + 1\big) + b = A + b.$$
+$$a_{n+1} = b^2 + b + 1 = (b^2 + 1) + b = A + b.$$
 
 **Étape 2. Élever au carré.**
 
@@ -61,7 +61,7 @@ puisque $b^2 + 1 = A$.
 
 Les trois termes contiennent $A$ :
 
-$$a_{n+1}^2 + 1 = A\,\big(A + 2b + 1\big).$$
+$$a_{n+1}^2 + 1 = A\,(A + 2b + 1).$$
 
 Comme $A + 2b + 1$ est un entier, $A = a_n^2 + 1$ divise bien $a_{n+1}^2 + 1$.
 
@@ -75,7 +75,7 @@ $$A + 2b + 1 = b^2 + 1 + 2b + 1 = (b+1)^2 + 1.$$
 
 Autrement dit,
 
-$$a_{n+1}^2 + 1 = \big(a_n^2 + 1\big)\,\big((a_n+1)^2 + 1\big).$$
+$$a_{n+1}^2 + 1 = (a_n^2 + 1)\,((a_n+1)^2 + 1).$$
 
 Vérifions sur les premiers termes. Avec $a_1 = 1$, on a $a_2 = 3$ et
 

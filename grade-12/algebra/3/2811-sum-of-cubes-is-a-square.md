@@ -65,7 +65,7 @@ Or $n^2 + 4n + 4 = (n+2)^2$. Donc
 
 $$1^3 + 2^3 + \cdots + (n+1)^3 = \frac{(n+1)^2 (n+2)^2}{4},$$
 
-ce qui est exactement $P(n+1)$, puisque $\dfrac{(n+1)\big((n+1)+1\big)}{2} = \dfrac{(n+1)(n+2)}{2}$.
+ce qui est exactement $P(n+1)$, puisque $\dfrac{(n+1)((n+1)+1)}{2} = \dfrac{(n+1)(n+2)}{2}$.
 
 **Conclusion.** $P(1)$ est vraie et $P$ est héréditaire, donc par récurrence $P(n)$ est vraie pour tout entier $n \geqslant 1$ :
 
@@ -75,6 +75,6 @@ $$1^3 + 2^3 + \cdots + n^3 = \left(1 + 2 + \cdots + n\right)^2 = \frac{n^2(n+1)^
 
 ## Going further
 
-1. Il existe une jolie preuve sans récurrence : montrer que $k^3 = \big(1+2+\cdots+k\big)^2 - \big(1+2+\cdots+(k-1)\big)^2$, puis additionner ces égalités pour $k = 1, 2, \ldots, n$ et observer le télescopage.
+1. Il existe une jolie preuve sans récurrence : montrer que $k^3 = (1+2+\cdots+k)^2 - (1+2+\cdots+(k-1))^2$, puis additionner ces égalités pour $k = 1, 2, \ldots, n$ et observer le télescopage.
 2. Démontrer de la même façon que $1 + 3 + 5 + \cdots + (2n-1) = n^2$.
 3. La somme $1^4 + 2^4 + \cdots + n^4$ est-elle aussi une puissance d'une expression simple ? Tester sur $n = 1, 2, 3$.

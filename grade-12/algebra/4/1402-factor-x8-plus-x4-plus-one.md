@@ -47,7 +47,7 @@ $$x^8 + x^4 + 1 = (x^8 + 2x^4 + 1) - x^4 = (x^4+1)^2 - (x^2)^2 .$$
 
 C'est une différence de deux carrés, donc
 
-$$x^8 + x^4 + 1 = \bigl(x^4 + 1 + x^2\bigr)\bigl(x^4 + 1 - x^2\bigr) = (x^4 + x^2 + 1)(x^4 - x^2 + 1) .$$
+$$x^8 + x^4 + 1 = (x^4 + 1 + x^2)(x^4 + 1 - x^2) = (x^4 + x^2 + 1)(x^4 - x^2 + 1) .$$
 
 **Deuxième étape : le premier facteur.**
 
@@ -63,15 +63,15 @@ $$x^4 + x^2 + 1 = (x^2 + x + 1)(x^2 - x + 1) .$$
 
 Pour $x^4 - x^2 + 1$, on part encore de $(x^2+1)^2 = x^4 + 2x^2 + 1$. Cette fois il faut retrancher $3x^2$ :
 
-$$x^4 - x^2 + 1 = (x^4 + 2x^2 + 1) - 3x^2 = (x^2+1)^2 - \bigl(\sqrt 3\, x\bigr)^2 .$$
+$$x^4 - x^2 + 1 = (x^4 + 2x^2 + 1) - 3x^2 = (x^2+1)^2 - (\sqrt 3\, x)^2 .$$
 
 D'où
 
-$$x^4 - x^2 + 1 = \bigl(x^2 + \sqrt 3\, x + 1\bigr)\bigl(x^2 - \sqrt 3\, x + 1\bigr) .$$
+$$x^4 - x^2 + 1 = (x^2 + \sqrt 3\, x + 1)(x^2 - \sqrt 3\, x + 1) .$$
 
 **Conclusion.**
 
-$$x^8 + x^4 + 1 = (x^2 + x + 1)\,(x^2 - x + 1)\,\bigl(x^2 + \sqrt 3\, x + 1\bigr)\,\bigl(x^2 - \sqrt 3\, x + 1\bigr) .$$
+$$x^8 + x^4 + 1 = (x^2 + x + 1)\,(x^2 - x + 1)\,(x^2 + \sqrt 3\, x + 1)\,(x^2 - \sqrt 3\, x + 1) .$$
 
 **Vérification rapide.** Chacun de ces quatre trinômes a un discriminant strictement négatif : $1 - 4 = -3$ pour les deux premiers, $3 - 4 = -1$ pour les deux derniers. Aucun ne se casse davantage sur les réels, la factorisation est donc allée au bout. Et $P(0) = 1$ est bien égal au produit $1 \times 1 \times 1 \times 1$ des termes constants, tandis que le coefficient de $x^8$ vaut bien $1 \times 1 \times 1 \times 1 = 1$.
 

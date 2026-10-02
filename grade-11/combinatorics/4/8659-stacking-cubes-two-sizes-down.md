@@ -60,7 +60,7 @@ et la condition $\ell \geqslant m-2$ est respectée. La pile obtenue est donc va
 
 On a donc établi une correspondance exacte : chaque empilement des $n+1$ cubes correspond à un empilement des $n$ cubes accompagné d'un choix entre $3$ positions. D'où
 
-$$\big(\text{nombre pour } n+1\big) = 3 \times \big(\text{nombre pour } n\big) = 3 \times 2 \times 3^{\,n-2} = 2 \times 3^{\,(n+1)-2} .$$
+$$(\text{nombre pour } n+1) = 3 \times (\text{nombre pour } n) = 3 \times 2 \times 3^{\,n-2} = 2 \times 3^{\,(n+1)-2} .$$
 
 $P(n+1)$ est vraie.
 

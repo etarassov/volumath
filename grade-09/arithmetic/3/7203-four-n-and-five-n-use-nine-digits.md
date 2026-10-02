@@ -48,7 +48,7 @@ $$1+8, \qquad 2+7, \qquad 3+6, \qquad 4+5.$$
 Écartons les trois premières. Si $4n$ a $k$ chiffres et $5n$ en a au moins $k+2$, alors
 $5n \geqslant 10^{k+1}$ et $4n < 10^{k}$, donc
 $$\frac{5n}{4n} \geqslant \frac{10^{k+1}}{10^{k}} = 10 .$$
-Or $\frac{5n}{4n} = \frac{5}{4}$, qui vaut $1{,}25$, et non $10$ ou davantage. Impossible.
+Or $\frac{5n}{4n} = \frac{5}{4}$, qui vaut $\text{1,25}$, et non $10$ ou davantage. Impossible.
 
 Il reste donc le cas $4+5$ : **$4n$ a quatre chiffres et $5n$ en a cinq.**
 

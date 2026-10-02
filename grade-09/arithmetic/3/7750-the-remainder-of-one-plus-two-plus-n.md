@@ -72,6 +72,6 @@ C'est vrai puisque $n > 0$. Le reste de la division de $S_n$ par $n$ est donc $\
 
 On peut retrouver le résultat sans formule, en regroupant les termes deux par deux autour du milieu.
 
-Si $n$ est impair, on écrit $S_n = n + \bigl(1 + (n-1)\bigr) + \bigl(2 + (n-2)\bigr) + \cdots$ : tous les paquets valent $n$, donc $S_n$ est un multiple de $n$.
+Si $n$ est impair, on écrit $S_n = n + (1 + (n-1)) + (2 + (n-2)) + \cdots$ : tous les paquets valent $n$, donc $S_n$ est un multiple de $n$.
 
 Si $n$ est pair, le même regroupement laisse le terme du milieu $\dfrac n2$ tout seul, et c'est exactement le reste.

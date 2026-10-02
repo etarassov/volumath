@@ -77,7 +77,7 @@ $$P(x) = \frac{x - r}{2}\left(\frac{q^2}{\lambda}(x - s)^2 - \lambda\right) = \f
 
 et, avec l'identité $A^2 - B^2 = (A - B)(A + B)$,
 
-$$P(x) = \frac{x - r}{2\lambda}\,\big(q(x - s) - \lambda\big)\big(q(x - s) + \lambda\big)$$
+$$P(x) = \frac{x - r}{2\lambda}\,(q(x - s) - \lambda)(q(x - s) + \lambda)$$
 
 C'est un produit de trois facteurs du premier degré à coefficients réels. Les racines de $P$ sont $r$, $s + \frac{\lambda}{q}$ et $s - \frac{\lambda}{q}$ : elles sont toutes réelles.
 

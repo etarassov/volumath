@@ -79,7 +79,7 @@ $$16S^2 = \left(2ab - a^2 - b^2 + c^2\right)\left(2ab + a^2 + b^2 - c^2\right).$
 
 *Deuxième factorisation.* Chaque parenthèse se réorganise autour d'une identité remarquable :
 
-$$2ab - a^2 - b^2 + c^2 = c^2 - \left(a^2 - 2ab + b^2\right) = c^2 - (a-b)^2 = \big(c - (a-b)\big)\big(c + (a-b)\big),$$
+$$2ab - a^2 - b^2 + c^2 = c^2 - \left(a^2 - 2ab + b^2\right) = c^2 - (a-b)^2 = (c - (a-b))(c + (a-b)),$$
 
 $$2ab + a^2 + b^2 - c^2 = (a+b)^2 - c^2 = (a + b - c)(a + b + c).$$
 

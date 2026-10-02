@@ -63,7 +63,7 @@ Or $10 \equiv 1 \pmod 9$, donc $10^i \equiv 1 \pmod 9$ pour tout $i$, d'où
 $$n \equiv a_k + \cdots + a_1 + a_0 = s(n) \pmod 9 .$$
 
 **Un entier et sa somme de chiffres ont donc toujours le même reste modulo $9$.** En appliquant cela trois fois :
-$$s(B) \equiv B = s(A) \equiv A = s\big(4444^{4444}\big) \equiv 4444^{4444} \pmod 9 .$$
+$$s(B) \equiv B = s(A) \equiv A = s(4444^{4444}) \equiv 4444^{4444} \pmod 9 .$$
 
 ### On calcule ce reste
 

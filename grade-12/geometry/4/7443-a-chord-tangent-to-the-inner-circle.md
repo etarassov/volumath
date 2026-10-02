@@ -71,11 +71,11 @@ Appliquons l'angle tangentiel deux fois, avec la même tangente $t$ et la même 
 
 **Dans le grand cercle $\Gamma$**, la tangente en $C$ est $t$ et $[CA]$ est une corde. Donc
 l'angle entre $t$ et $(CA)$ est égal à l'angle inscrit $\widehat{ABC}$ :
-$$\big(t, (CA)\big) = \widehat{ABC}.$$
+$$(t, (CA)) = \widehat{ABC}.$$
 
 **Dans le petit cercle $\gamma$**, la tangente en $C$ est la même droite $t$, et $[CH]$ est une
 corde. Donc l'angle entre $t$ et $(CH)$ est égal à l'angle inscrit $\widehat{HGC}$ :
-$$\big(t, (CH)\big) = \widehat{HGC}.$$
+$$(t, (CH)) = \widehat{HGC}.$$
 
 Mais $(CH)$ et $(CA)$ sont **la même droite**, et les deux angles sont pris du même côté. Donc
 $$\widehat{ABC} = \widehat{HGC}.$$

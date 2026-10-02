@@ -65,7 +65,7 @@ $$\widehat{BAP} = \widehat{BAQ} + \widehat{QAP}, \qquad \widehat{CAQ} = \widehat
 
 En additionnant les deux premières égalités :
 
-$$\widehat{BAP} + \widehat{CAQ} = \bigl(\widehat{BAQ} + \widehat{QAP} + \widehat{PAC}\bigr) + \widehat{PAQ} = \widehat{BAC} + \widehat{PAQ}.$$
+$$\widehat{BAP} + \widehat{CAQ} = (\widehat{BAQ} + \widehat{QAP} + \widehat{PAC}) + \widehat{PAQ} = \widehat{BAC} + \widehat{PAQ}.$$
 
 **Conclusion.** En comparant avec $(\star)$ :
 

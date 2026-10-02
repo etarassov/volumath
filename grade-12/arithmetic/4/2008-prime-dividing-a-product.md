@@ -82,6 +82,6 @@ Cette propriété est souvent appelée **lemme d'Euclide**. Elle est le cas part
 
 Elle peut sembler évidente, mais elle ne l'est pas : elle est la clé de l'unicité de la décomposition en facteurs premiers. Il existe des ensembles de nombres où elle tombe en défaut. Prenons par exemple les entiers de la forme $a + b\sqrt{-5}$. Dans ce monde-là,
 
-$$6 = 2 \times 3 = \big(1 + \sqrt{-5}\big)\big(1 - \sqrt{-5}\big),$$
+$$6 = 2 \times 3 = (1 + \sqrt{-5})(1 - \sqrt{-5}),$$
 
 et $2$ ne peut plus se décomposer, tout en divisant un produit sans diviser aucun des deux facteurs. La décomposition en facteurs premiers n'y est donc plus unique.

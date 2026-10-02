@@ -50,7 +50,7 @@ Il s'agit donc de sommer les entiers de $1$ à $1000$ qui sont multiples de $2$,
 
 Notons $S_d$ la somme des multiples de $d$ compris entre $1$ et $1000$, et $k_d$ le nombre de ces
 multiples, c'est-à-dire la partie entière de $\dfrac{1000}{d}$. Alors
-$$S_d = d + 2d + \dots + k_d\,d = d\,\bigl(1 + 2 + \dots + k_d\bigr) = d \cdot \frac{k_d (k_d+1)}{2}.$$
+$$S_d = d + 2d + \dots + k_d\,d = d\,(1 + 2 + \dots + k_d) = d \cdot \frac{k_d (k_d+1)}{2}.$$
 
 Calculons ce dont nous avons besoin.
 

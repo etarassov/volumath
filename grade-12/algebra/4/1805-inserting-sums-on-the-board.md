@@ -61,7 +61,7 @@ $$x_1 + x_2,\quad x_2 + x_3,\quad \ldots,\quad x_{m-1} + x_m.$$
 
 La nouvelle somme vaut donc
 
-$$S_{n+1} = S_n + \big[(x_1+x_2) + (x_2+x_3) + \ldots + (x_{m-1}+x_m)\big].$$
+$$S_{n+1} = S_n + [(x_1+x_2) + (x_2+x_3) + \ldots + (x_{m-1}+x_m)].$$
 
 Dans le crochet, comptons combien de fois apparaît chaque $x_k$ :
 

@@ -65,10 +65,10 @@ $b \leqslant \dfrac{3000}{4^k}$, et il suffit alors de compter les entiers impai
 |---|---|---|---|
 | $0$ | $1$ | $b \leqslant 3000$ | $1500$ |
 | $1$ | $4$ | $b \leqslant 750$ | $375$ |
-| $2$ | $16$ | $b \leqslant 187{,}5$, donc $b \leqslant 187$ | $94$ |
-| $3$ | $64$ | $b \leqslant 46{,}8\ldots$, donc $b \leqslant 46$ | $23$ |
-| $4$ | $256$ | $b \leqslant 11{,}7\ldots$, donc $b \leqslant 11$ | $6$ |
-| $5$ | $1024$ | $b \leqslant 2{,}9\ldots$, donc $b = 1$ | $1$ |
+| $2$ | $16$ | $b \leqslant \text{187,5}$, donc $b \leqslant 187$ | $94$ |
+| $3$ | $64$ | $b \leqslant \text{46,8}\ldots$, donc $b \leqslant 46$ | $23$ |
+| $4$ | $256$ | $b \leqslant \text{11,7}\ldots$, donc $b \leqslant 11$ | $6$ |
+| $5$ | $1024$ | $b \leqslant \text{2,9}\ldots$, donc $b = 1$ | $1$ |
 
 Pour $k \geqslant 6$ on a $4^k = 4096 > 3000$, il n'y a plus rien. Au total
 $$1500 + 375 + 94 + 23 + 6 + 1 = 1999.$$

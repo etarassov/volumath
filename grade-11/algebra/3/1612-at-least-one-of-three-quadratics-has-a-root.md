@@ -52,7 +52,7 @@ $$\Delta_1 = (a-b)^2 - 4(b-c), \qquad
 
 **Étape 2. La somme des trois discriminants.**
 
-$$\Delta_1 + \Delta_2 + \Delta_3 = (a-b)^2 + (b-c)^2 + (c-a)^2 \;-\; 4\bigl[(b-c) + (c-a) + (a-b)\bigr].$$
+$$\Delta_1 + \Delta_2 + \Delta_3 = (a-b)^2 + (b-c)^2 + (c-a)^2 \;-\; 4[(b-c) + (c-a) + (a-b)].$$
 
 Or le crochet est nul :
 $$(b-c) + (c-a) + (a-b) = b - c + c - a + a - b = 0 .$$

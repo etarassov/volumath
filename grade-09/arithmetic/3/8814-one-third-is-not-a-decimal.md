@@ -22,7 +22,7 @@ source:
 
 Un **nombre décimal** est un nombre qui peut s'écrire avec un nombre fini de chiffres après la virgule. Autrement dit, c'est un nombre de la forme
 $$\frac{a}{10^{\,b}}$$
-où $a$ est un entier relatif et $b$ un entier naturel. Par exemple $2{,}75 = \dfrac{275}{10^2}$ est décimal, et $7 = \dfrac{7}{10^0}$ aussi.
+où $a$ est un entier relatif et $b$ un entier naturel. Par exemple $\text{2,75} = \dfrac{275}{10^2}$ est décimal, et $7 = \dfrac{7}{10^0}$ aussi.
 
 Montrer que $\dfrac{1}{3}$ **n'est pas** un nombre décimal.
 

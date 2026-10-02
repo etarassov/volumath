@@ -75,7 +75,7 @@ $$4n = 4a+4b+4c = (2a+3b+4c) + 2a + b \leq 1000 + 2a + b \leq 1000 + 2\times 4 +
 
 donc
 
-$$n \leq \dfrac{1210}{4} = 302{,}5.$$
+$$n \leq \dfrac{1210}{4} = \text{302,5}.$$
 
 Comme $n$ est un entier, $n \leq 302$.
 

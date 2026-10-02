@@ -62,7 +62,7 @@ $4 > 3$, le principe des tiroirs garantit que **deux de ces points ont la même 
 
 Choisissons-en deux, une fois pour toutes, dans chaque colonne, et fabriquons l'**étiquette**
 de la colonne :
-$$\text{étiquette}(i) = \bigl(\{j_1, j_2\},\ \text{couleur}\bigr),$$
+$$\text{étiquette}(i) = (\{j_1, j_2\},\ \text{couleur}),$$
 où $j_1$ et $j_2$ sont les deux lignes concernées et où la couleur est leur couleur commune.
 
 **Étape 3. Il y a peu d'étiquettes possibles.**

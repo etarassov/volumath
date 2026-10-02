@@ -35,7 +35,7 @@ Quelle est la mesure, en degrés, de l'angle $\widehat{DAG}$ ?
 
 ## Solution
 
-**La réponse : $\widehat{DAG} = 7{,}5°$.**
+**La réponse : $\widehat{DAG} = \text{7,5}°$.**
 
 Tout se joue sur les **arcs**. Chaque arc du cercle a une mesure en degrés, et les arcs qui se suivent s'additionnent ; le tour complet fait $360°$.
 
@@ -77,9 +77,9 @@ $$15° + 90° + \text{arc } DG = 120° \qquad \text{d'où} \qquad \text{arc } DG
 
 L'angle $\widehat{DAG}$ a son sommet $A$ sur le cercle et ses côtés passent par $D$ et par $G$ : c'est l'angle inscrit qui intercepte l'arc $DG$. D'après le théorème de l'angle inscrit, il vaut la moitié de cet arc :
 
-$$\widehat{DAG} = \frac{15°}{2} = 7{,}5° .$$
+$$\widehat{DAG} = \frac{15°}{2} = \text{7,5}° .$$
 
-**Conclusion.** $\widehat{DAG} = \boxed{7{,}5°}$.
+**Conclusion.** $\widehat{DAG} = \boxed{\text{7,5}°}$.
 
 ## Going further
 

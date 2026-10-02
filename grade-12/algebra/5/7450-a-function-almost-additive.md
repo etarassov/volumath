@@ -71,7 +71,7 @@ Montrons par récurrence que $f(3k) \geqslant k$ pour tout entier $k \geqslant 1
 
 - Pour $k = 1$ : $f(3) = 1 \geqslant 1$.
 - Si $f(3k) \geqslant k$, alors
-  $$f\big(3(k+1)\big) = f(3k + 3) \geqslant f(3k) + f(3) \geqslant k + 1.$$
+  $$f(3(k+1)) = f(3k + 3) \geqslant f(3k) + f(3) \geqslant k + 1.$$
 
 La propriété est donc vraie pour tout $k \geqslant 1$.
 

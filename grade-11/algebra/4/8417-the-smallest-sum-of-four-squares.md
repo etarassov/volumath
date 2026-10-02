@@ -81,7 +81,7 @@ $$b^2 = \beta^2 + \frac{8}{5}\,\beta + \frac{16}{25}, \qquad c^2 = \gamma^2 + \f
 
 En additionnant, les termes de degré $1$ se regroupent :
 
-$$\frac{4}{5}\,\alpha + \frac{8}{5}\,\beta + \frac{12}{5}\,\gamma + \frac{16}{5}\,\delta = \frac{4}{5}\,\big(\alpha + 2\beta + 3\gamma + 4\delta\big) = 0$$
+$$\frac{4}{5}\,\alpha + \frac{8}{5}\,\beta + \frac{12}{5}\,\gamma + \frac{16}{5}\,\delta = \frac{4}{5}\,(\alpha + 2\beta + 3\gamma + 4\delta) = 0$$
 
 d'après $(\star)$. Et les constantes donnent
 

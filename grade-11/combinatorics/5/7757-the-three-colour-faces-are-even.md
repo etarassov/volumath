@@ -83,7 +83,7 @@ Le tableau montre l'essentiel :
 
 En sommant sur toutes les faces,
 
-$$T = \sum_{F \text{ face}} \bigl(\text{nombre d'arêtes RB de } F\bigr) .$$
+$$T = \sum_{F \text{ face}} (\text{nombre d'arêtes RB de } F) .$$
 
 ### On recolle
 

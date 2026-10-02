@@ -81,7 +81,7 @@ Comparons les triangles $ABN$ et $CBM$.
 - $BA = BC$, car $ABC$ est équilatéral.
 - $BN = BM$, qu'on vient de démontrer.
 - Les angles entre ces côtés sont égaux :
-$$\widehat{ABN} = \widehat{ABM} - \widehat{NBM} = \big(60° + \widehat{CBM}\big) - 60° = \widehat{CBM} .$$
+$$\widehat{ABN} = \widehat{ABM} - \widehat{NBM} = (60° + \widehat{CBM}) - 60° = \widehat{CBM} .$$
 
 *(La soustraction est licite : comme $N$ appartient à $[AM]$, la demi-droite $[BN)$ est à l'intérieur de l'angle $\widehat{ABM}$.)*
 

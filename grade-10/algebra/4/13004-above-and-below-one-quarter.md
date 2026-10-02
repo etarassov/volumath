@@ -40,7 +40,7 @@ $$X = (1 - x)\,y, \qquad Y = (1 - y)\,z, \qquad Z = (1 - z)\,x .$$
 Notons $p = xyz$. Les nombres $x$, $y$, $z$, $1-x$, $1-y$, $1-z$ sont tous positifs ou nuls, donc $X$, $Y$, $Z$ et $p$ aussi.
 
 **Le produit $XYZ$.** En regroupant les facteurs autrement :
-$$XYZ = (1-x)y \cdot (1-y)z \cdot (1-z)x = \big[xyz\big] \times \big[(1-x)(1-y)(1-z)\big] = p \times p = p^2,$$
+$$XYZ = (1-x)y \cdot (1-y)z \cdot (1-z)x = [xyz] \times [(1-x)(1-y)(1-z)] = p \times p = p^2,$$
 car, d'après l'hypothèse, le second crochet vaut aussi $p$.
 
 **La somme $X + Y + Z$.** D'une part,

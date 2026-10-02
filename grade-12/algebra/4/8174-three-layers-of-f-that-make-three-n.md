@@ -22,7 +22,7 @@ source:
 
 Déterminer toutes les fonctions $f : \mathbb{N} \to \mathbb{N}$ telles que, pour tout entier naturel $n$,
 
-$$f\big(f(f(n))\big) + f\big(f(n)\big) + f(n) = 3n .$$
+$$f(f(f(n))) + f(f(n)) + f(n) = 3n .$$
 
 (Ici $\mathbb{N} = \{0, 1, 2, \ldots\}$ : les valeurs de $f$ sont des entiers **positifs ou nuls**.)
 
@@ -40,7 +40,7 @@ $$f\big(f(f(n))\big) + f\big(f(n)\big) + f(n) = 3n .$$
 
 Écrivons l'équation en $n = 0$ :
 
-$$f\big(f(f(0))\big) + f\big(f(0)\big) + f(0) = 0 .$$
+$$f(f(f(0))) + f(f(0)) + f(0) = 0 .$$
 
 C'est une somme de trois entiers naturels, donc positifs ou nuls, qui vaut $0$ : chacun est nul. En particulier $f(0) = 0$.
 

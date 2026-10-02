@@ -67,7 +67,7 @@ avec $\alpha < \beta$ (car $x-1 < x+1$).
 
 **Deux puissances de $2$ qui diffèrent de $2$.** En soustrayant,
 
-$$2^{\beta} - 2^{\alpha} = 2, \qquad \text{c'est-à-dire} \qquad 2^{\alpha}\big(2^{\beta - \alpha} - 1\big) = 2.$$
+$$2^{\beta} - 2^{\alpha} = 2, \qquad \text{c'est-à-dire} \qquad 2^{\alpha}(2^{\beta - \alpha} - 1) = 2.$$
 
 Le facteur $2^{\beta-\alpha} - 1$ est impair (une puissance de $2$ d'exposant $\geqslant 1$ moins $1$), et le produit vaut $2$. Le seul découpage possible de $2$ en un facteur pair de la forme $2^\alpha$ et un facteur impair est $2 = 2 \times 1$. Donc
 

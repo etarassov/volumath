@@ -50,15 +50,15 @@ $$f(2,1) = 2 + 1, \quad f(3,1) = 2 + 1 + 2, \quad f(4,1) = 2 + 1 + 2 + 3, \quad 
 
 donc
 
-$$f(m,1) = 2 + \big(1 + 2 + \cdots + (m-1)\big) = 2 + \frac{m(m-1)}{2}.$$
+$$f(m,1) = 2 + (1 + 2 + \cdots + (m-1)) = 2 + \frac{m(m-1)}{2}.$$
 
 Descendons maintenant, avec la troisième règle :
 
-$$f(m,n) = f(m,1) - \big(1 + 2 + \cdots + (n-1)\big) = 2 + \frac{m(m-1)}{2} - \frac{n(n-1)}{2}.$$
+$$f(m,n) = f(m,1) - (1 + 2 + \cdots + (n-1)) = 2 + \frac{m(m-1)}{2} - \frac{n(n-1)}{2}.$$
 
 *Vérification.* Cette formule satisfait bien les trois règles :
 
-$$f(m+1,n) - f(m,n) = \frac{(m+1)m}{2} - \frac{m(m-1)}{2} = \frac{m\big((m+1)-(m-1)\big)}{2} = m,$$
+$$f(m+1,n) - f(m,n) = \frac{(m+1)m}{2} - \frac{m(m-1)}{2} = \frac{m((m+1)-(m-1))}{2} = m,$$
 
 et de même $f(m,n+1) - f(m,n) = -n$. Enfin $f(1,1) = 2$. Comme les règles déterminent $f$ de proche en proche à partir de $f(1,1)$, c'est bien la seule fonction possible.
 

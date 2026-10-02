@@ -29,7 +29,7 @@ Montrer que deux d'entre eux sont à une distance inférieure à $\dfrac{3}{4}$.
 1. C'est un énoncé du type « parmi cinq objets, deux se ressemblent ». Cherche donc quatre tiroirs.
 2. Découpe le carré en quatre morceaux identiques.
 3. Deux points rangés dans le même morceau sont proches. Mais à quel point ? Quelle est la plus grande distance possible entre deux points d'un petit carré ?
-4. Compare cette distance avec $\dfrac34 = 0{,}75$.
+4. Compare cette distance avec $\dfrac34 = \text{0,75}$.
 
 ## Solution
 
@@ -47,12 +47,12 @@ $$\sqrt{\left(\frac12\right)^2 + \left(\frac12\right)^2} = \sqrt{\frac14 + \frac
 
 $$\left(\frac{\sqrt2}{2}\right)^2 = \frac{1}{2} = \frac{8}{16} \qquad \text{et} \qquad \left(\frac{3}{4}\right)^2 = \frac{9}{16} .$$
 
-Comme $\dfrac{8}{16} < \dfrac{9}{16}$, on a bien $\dfrac{\sqrt2}{2} < \dfrac34$. (Numériquement, $\dfrac{\sqrt2}{2} \approx 0{,}707$ contre $0{,}75$.)
+Comme $\dfrac{8}{16} < \dfrac{9}{16}$, on a bien $\dfrac{\sqrt2}{2} < \dfrac34$. (Numériquement, $\dfrac{\sqrt2}{2} \approx \text{0,707}$ contre $\text{0,75}$.)
 
 **Conclusion.** Les deux points situés dans le même petit carré sont à une distance au plus $\dfrac{\sqrt2}{2}$, donc strictement inférieure à $\dfrac34$.
 
 ## Going further
 
-La démonstration donne en réalité un résultat plus fort que l'énoncé : deux des cinq points sont à distance au plus $\dfrac{\sqrt2}{2} \approx 0{,}707$, et non seulement $0{,}75$.
+La démonstration donne en réalité un résultat plus fort que l'énoncé : deux des cinq points sont à distance au plus $\dfrac{\sqrt2}{2} \approx \text{0,707}$, et non seulement $\text{0,75}$.
 
 Peut-on encore améliorer ? Avec $5$ points, la meilleure valeur possible est exactement $\dfrac{\sqrt2}{2}$ : il suffit de placer les quatre sommets et le centre pour que toutes les distances soient au moins égales à cette valeur. En revanche, avec $10$ points, quel découpage choisirais-tu ?

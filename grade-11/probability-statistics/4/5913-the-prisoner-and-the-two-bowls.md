@@ -41,7 +41,7 @@ Comment doit-il répartir les billes pour maximiser sa probabilité de survie ? 
 ## Solution
 
 **Réponse : il met une seule bille blanche dans un bol et les $199$ autres billes dans l'autre. Sa probabilité de survie vaut alors**
-$$\frac{1}{2} \times 1 + \frac{1}{2} \times \frac{99}{199} = \frac{149}{199} \approx 0{,}749,$$
+$$\frac{1}{2} \times 1 + \frac{1}{2} \times \frac{99}{199} = \frac{149}{199} \approx \text{0,749},$$
 **soit presque trois chances sur quatre, au lieu d'une sur deux.**
 
 ### La formule générale
@@ -71,20 +71,20 @@ $$P(m) = \frac{1}{2}\cdot 1 + \frac{1}{2}\cdot\frac{100-m}{200-m} = \frac{1}{2} 
 
 La probabilité est donc **décroissante** en $m$ : le mieux est $m = 1$.
 
-$$P(1) = \frac{1}{2} + \frac{1}{2}\cdot\frac{99}{199} = \frac{199 + 99}{398} = \frac{298}{398} = \frac{149}{199} \approx 0{,}7487.$$
+$$P(1) = \frac{1}{2} + \frac{1}{2}\cdot\frac{99}{199} = \frac{199 + 99}{398} = \frac{298}{398} = \frac{149}{199} \approx \text{0,7487}.$$
 
 ### Quelques répartitions, pour comparer
 
 | Répartition | Probabilité de survie |
 |---|---|
-| $50$ blanches + $50$ noires dans chaque bol | $0{,}500$ |
-| toutes les blanches d'un côté, toutes les noires de l'autre | $0{,}500$ |
-| $10$ blanches seules d'un côté | $0{,}5 + 0{,}5 \times \tfrac{90}{190} \approx 0{,}737$ |
-| $1$ blanche seule d'un côté | $0{,}7487$ |
+| $50$ blanches + $50$ noires dans chaque bol | $\text{0,500}$ |
+| toutes les blanches d'un côté, toutes les noires de l'autre | $\text{0,500}$ |
+| $10$ blanches seules d'un côté | $\text{0,5} + \text{0,5} \times \tfrac{90}{190} \approx \text{0,737}$ |
+| $1$ blanche seule d'un côté | $\text{0,7487}$ |
 
 ### Conclusion
 
-La meilleure stratégie est de placer **une seule bille blanche** dans un bol et tout le reste dans l'autre. La probabilité de survie vaut $\tfrac{149}{199} \approx 0{,}749$.
+La meilleure stratégie est de placer **une seule bille blanche** dans un bol et tout le reste dans l'autre. La probabilité de survie vaut $\tfrac{149}{199} \approx \text{0,749}$.
 
 L'idée est simple à dire : un bol sur deux est un gain assuré, et dans l'autre bol on a quand même retiré une blanche seulement sur les cent, si bien qu'il reste presque la moitié de blanches.
 

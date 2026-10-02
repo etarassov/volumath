@@ -52,7 +52,7 @@ $$12, \; 42, \; 72, \; \ldots, \; 12 + 30k, \; \ldots$$
 **Étape 2 : le dernier terme.**
 
 On veut $12 + 30k \leq 2015$, c'est-à-dire $30k \leq 2003$, donc
-$$k \leq \frac{2003}{30} = 66{,}76\ldots$$
+$$k \leq \frac{2003}{30} = \text{66,76}\ldots$$
 
 Le plus grand entier possible est $k = 66$, ce qui donne
 $$12 + 30 \times 66 = 12 + 1980 = 1992.$$

@@ -79,7 +79,7 @@ $$n - S \text{ est un multiple de } 3
 
 Or la différence de deux multiples de $3$ est encore un multiple de $3$. Calculons cette différence :
 
-$$\big((n+1) - S\big) - \big(n - S\big) = 1.$$
+$$((n+1) - S) - (n - S) = 1.$$
 
 Il faudrait donc que $1$ soit un multiple de $3$, ce qui est faux.
 

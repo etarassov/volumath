@@ -45,7 +45,7 @@ $n$ et $n+1$ sont deux entiers qui se suivent. Parmi deux entiers qui se suivent
 **Cas 1 : $n$ est pair.**
 On peut alors écrire $n = 2k$, où $k$ est un entier. Donc
 
-$$n(n+1) = 2k(n+1) = 2 \times \big(k(n+1)\big)$$
+$$n(n+1) = 2k(n+1) = 2 \times (k(n+1))$$
 
 Ce nombre est le double d'un entier, il est donc pair.
 

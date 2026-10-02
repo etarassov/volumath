@@ -89,7 +89,7 @@ $$\widehat{DMP} + \widehat{PDM} = 180° - \widehat{DPM} = 180° - (90° + \wideh
 
 Donc
 
-$$\widehat{DME} = \bigl(\widehat{DMP} + \widehat{PDM}\bigr) + \widehat{PMQ} = (90° - \widehat{A}) + \widehat{A} = 90°.$$
+$$\widehat{DME} = (\widehat{DMP} + \widehat{PDM}) + \widehat{PMQ} = (90° - \widehat{A}) + \widehat{A} = 90°.$$
 
 **Le triangle $MDE$ est donc rectangle et isocèle en $M$.**
 
@@ -99,6 +99,6 @@ Le cas d'un angle $\widehat{A}$ obtus demande un mot de plus. Les angles $\wideh
 
 Pour l'angle, l'ordre des demi-droites autour de $M$ devient $[MP)$, $[MD)$, $[ME)$, $[MQ)$, et le découpage se fait par soustraction :
 
-$$\widehat{DME} = \widehat{PMQ} - \widehat{DMP} - \widehat{QME} = \widehat{A} - \bigl(\widehat{DMP} + \widehat{PDM}\bigr) = \widehat{A} - \bigl(180° - (270° - \widehat{A})\bigr) = 90°.$$
+$$\widehat{DME} = \widehat{PMQ} - \widehat{DMP} - \widehat{QME} = \widehat{A} - (\widehat{DMP} + \widehat{PDM}) = \widehat{A} - (180° - (270° - \widehat{A})) = 90°.$$
 
 Le résultat vaut donc pour tous les triangles $ABC$, et l'on peut le vérifier sur un dessin très aplati.

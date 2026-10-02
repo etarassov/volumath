@@ -64,7 +64,7 @@ Plaçons maintenant le loup n'importe où et comptons.
 
 Enlevons du plateau la ligne et la colonne du loup. Il reste un tableau de $(n-1) \times (n-1)$ cases. Parmi celles-ci, il faut encore retirer les cases des deux diagonales du loup (la case du loup, elle, a déjà été enlevée). Donc
 
-$$\text{cases libres} = (n-1)^2 - \big(\text{nombre de cases des deux diagonales, celle du loup exclue}\big).$$
+$$\text{cases libres} = (n-1)^2 - (\text{nombre de cases des deux diagonales, celle du loup exclue}).$$
 
 Il suffit donc de montrer que **les deux diagonales du loup contiennent toujours au moins $n-1$ cases autres que celle du loup**.
 
@@ -78,7 +78,7 @@ Notons
 *Seconde diagonale (celle qui descend vers la gauche).* Le même raisonnement donne $\min(a, d) + \min(b, c)$ cases autres que celle du loup.
 
 Au total, le nombre de cases des deux diagonales autres que celle du loup vaut
-$$\big(\min(a,c) + \min(b,c)\big) + \big(\min(a,d) + \min(b,d)\big).$$
+$$(\min(a,c) + \min(b,c)) + (\min(a,d) + \min(b,d)).$$
 
 **Un petit lemme.** Si $a + b = n - 1$ et si $c$ est un entier compris entre $0$ et $n-1$, alors
 $$\min(a,c) + \min(b,c) \geq c.$$
@@ -86,7 +86,7 @@ $$\min(a,c) + \min(b,c) \geq c.$$
 *Démonstration.* Si $c \leq a$, alors $\min(a,c) = c$ et l'autre terme est positif ou nul : la somme est au moins $c$. Même chose si $c \leq b$. Sinon $c > a$ et $c > b$, et alors $\min(a,c) + \min(b,c) = a + b = n-1 \geq c$. $\square$
 
 En appliquant le lemme deux fois, une fois avec $c$ et une fois avec $d$ :
-$$\big(\min(a,c) + \min(b,c)\big) + \big(\min(a,d) + \min(b,d)\big) \geq c + d = n-1.$$
+$$(\min(a,c) + \min(b,c)) + (\min(a,d) + \min(b,d)) \geq c + d = n-1.$$
 
 Donc le nombre de cases libres est au plus
 $$(n-1)^2 - (n-1) = (n-1)(n-2).$$

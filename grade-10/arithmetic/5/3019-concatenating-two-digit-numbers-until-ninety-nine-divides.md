@@ -58,7 +58,7 @@ $$12 + 13 + \cdots + n = (1 + 2 + \cdots + n) - (1 + 2 + \cdots + 11)
 
 On cherche donc $n$ tel que
 
-$$99 \ \Big|\ \frac{n(n+1)}{2} - 66.$$
+$$99  \mid \frac{n(n+1)}{2} - 66.$$
 
 **Se débarrasser du demi.**
 

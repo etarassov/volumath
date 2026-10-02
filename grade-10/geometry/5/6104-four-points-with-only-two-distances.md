@@ -74,12 +74,12 @@ Il y a deux segments longs, et deux possibilités.
 
 Comme $AC = AD$, le point $A$ est sur la médiatrice de $[CD]$. Cette médiatrice passe par $B$ (car $BC = BD$) et par le milieu $M$ de $[CD]$. Le point $A$ est donc sur la droite $(BM)$, à distance $a$ de $B$ : il n'y a que deux positions, une de chaque côté de $B$.
 
-Avec $BM = \dfrac{a\sqrt{3}}{2} \approx 0{,}87\,a$ et $CM = \dfrac{a}{2}$ :
+Avec $BM = \dfrac{a\sqrt{3}}{2} \approx \text{0,87}\,a$ et $CM = \dfrac{a}{2}$ :
 
 - si $A$ est du côté opposé à $M$, alors $AM = a + \dfrac{a\sqrt{3}}{2}$ et, par le théorème de Pythagore dans le triangle $AMC$ rectangle en $M$,
 $$AC^2 = \left(a + \frac{a\sqrt{3}}{2}\right)^2 + \left(\frac{a}{2}\right)^2 = a^2\left(1 + \sqrt{3} + \frac{3}{4} + \frac{1}{4}\right) = a^2\left(2 + \sqrt{3}\right),$$
-donc $AC = a\sqrt{2 + \sqrt{3}} \approx 1{,}93\,a > a$ : cohérent.
-- si $A$ est du côté de $M$, alors $AM = \left|a - \dfrac{a\sqrt{3}}{2}\right|$ et le même calcul donne $AC = a\sqrt{2 - \sqrt{3}} \approx 0{,}52\,a < a$. Mais $AC$ devait être la **grande** longueur. Ce sous-cas est donc à rejeter ici.
+donc $AC = a\sqrt{2 + \sqrt{3}} \approx \text{1,93}\,a > a$ : cohérent.
+- si $A$ est du côté de $M$, alors $AM = \left|a - \dfrac{a\sqrt{3}}{2}\right|$ et le même calcul donne $AC = a\sqrt{2 - \sqrt{3}} \approx \text{0,52}\,a < a$. Mais $AC$ devait être la **grande** longueur. Ce sous-cas est donc à rejeter ici.
 
 **Troisième configuration : un triangle équilatéral $BCD$ et un point $A$ placé sur l'axe de symétrie, au-delà du sommet $B$, à distance $a$ de $B$.** Quatre distances valent $a$, deux valent $a\sqrt{2+\sqrt{3}}$.
 
@@ -89,7 +89,7 @@ C'est le cas 3 avec les rôles de $a$ et $b$ échangés, et il faut donc reprend
 
 *(a) Les deux courts sans extrémité commune.* On obtient comme en 3(a) un carré de côté $b$ dont les diagonales valent $a$, donc $a = b\sqrt{2} > b$. **Impossible.**
 
-*(b) Les deux courts partagent une extrémité.* Disons $AC = AD = a$ et $BC = BD = CD = AB = b$. Comme en 3(b), $BCD$ est équilatéral de côté $b$ et $A$ est sur la droite $(BM)$ à distance $b$ de $B$. Cette fois il faut $AC < b$, donc c'est la position rejetée plus haut qui convient : $A$ du côté de $M$, et même **au-delà** de $M$, puisque $BM \approx 0{,}87\,b < b$. On trouve $AC = b\sqrt{2 - \sqrt{3}} \approx 0{,}52\,b < b$ : cohérent.
+*(b) Les deux courts partagent une extrémité.* Disons $AC = AD = a$ et $BC = BD = CD = AB = b$. Comme en 3(b), $BCD$ est équilatéral de côté $b$ et $A$ est sur la droite $(BM)$ à distance $b$ de $B$. Cette fois il faut $AC < b$, donc c'est la position rejetée plus haut qui convient : $A$ du côté de $M$, et même **au-delà** de $M$, puisque $BM \approx \text{0,87}\,b < b$. On trouve $AC = b\sqrt{2 - \sqrt{3}} \approx \text{0,52}\,b < b$ : cohérent.
 
 **Quatrième configuration : un triangle équilatéral $BCD$ et un point $A$ placé sur l'axe de symétrie, de l'autre côté du côté $[CD]$, à distance $b$ de $B$.** Deux distances valent $b\sqrt{2-\sqrt{3}}$, quatre valent $b$.
 

@@ -82,7 +82,7 @@ apparaît $111\,111$ fois.
 
 Ce chiffre d'arrivée porte un nom : on l'appelle la **racine numérique** du nombre. La formule
 compacte est
-$$\text{racine numérique de } n = 1 + \big((n-1) \bmod 9\big)$$
+$$\text{racine numérique de } n = 1 + ((n-1) \bmod 9)$$
 pour tout entier $n \geqslant 1$.
 
 Elle explique aussi pourquoi le tour de magie « pense à un nombre, additionne ses chiffres,

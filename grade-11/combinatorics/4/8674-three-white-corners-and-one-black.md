@@ -63,7 +63,7 @@ $$w(i+1,j+1) \equiv w(i,j) + w(i+1,j) + w(i,j+1) \pmod 2 ,$$
 
 puisque modulo $2$, ajouter et retrancher sont la même chose. En remplaçant chacun des trois termes par sa valeur donnée par $(\star\star)$ :
 
-$$w(i+1,j+1) \equiv \big[w(i,1)+w(1,j)+w(1,1)\big] + \big[w(i+1,1)+w(1,j)+w(1,1)\big] + \big[w(i,1)+w(1,j+1)+w(1,1)\big].$$
+$$w(i+1,j+1) \equiv [w(i,1)+w(1,j)+w(1,1)] + [w(i+1,1)+w(1,j)+w(1,1)] + [w(i,1)+w(1,j+1)+w(1,1)].$$
 
 Regroupons : les deux $w(i,1)$ s'annulent, les deux $w(1,j)$ aussi, et il reste trois $w(1,1)$, soit $w(1,1)$. Il reste donc
 
@@ -81,7 +81,7 @@ $$w(n,n) \equiv w(n,1) + w(1,n) + w(1,1) \pmod 2 .$$
 
 Additionnons maintenant les quatre coins :
 
-$$w(1,1) + w(1,n) + w(n,1) + w(n,n) \equiv w(1,1) + w(1,n) + w(n,1) + \big[w(n,1)+w(1,n)+w(1,1)\big] .$$
+$$w(1,1) + w(1,n) + w(n,1) + w(n,n) \equiv w(1,1) + w(1,n) + w(n,1) + [w(n,1)+w(1,n)+w(1,1)] .$$
 
 Tout se met par paires : deux $w(1,1)$, deux $w(1,n)$, deux $w(n,1)$. La somme est donc **paire** :
 

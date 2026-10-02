@@ -26,7 +26,7 @@ $$f(x) = x^2 + ax + b.$$
 
 On suppose qu'il existe un nombre réel $t$ tel que
 
-$$f(t) = 0 \qquad \text{et} \qquad f\big(f(f(t))\big) = 0.$$
+$$f(t) = 0 \qquad \text{et} \qquad f(f(f(t))) = 0.$$
 
 Montrer que
 
@@ -45,11 +45,11 @@ $$f(0) \times f(1) = 0.$$
 
 Comme $f(t) = 0$, on a
 
-$$f\big(f(f(t))\big) = f\big(f(0)\big).$$
+$$f(f(f(t))) = f(f(0)).$$
 
 L'hypothèse devient donc simplement
 
-$$f\big(f(0)\big) = 0.$$
+$$f(f(0)) = 0.$$
 
 Le nombre $t$ a disparu : il ne servait qu'à garantir que $f$ possède une racine réelle.
 

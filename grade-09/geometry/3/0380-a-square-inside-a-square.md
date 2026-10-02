@@ -67,7 +67,7 @@ $$\frac{9x^2}{5x^2} = \frac{9}{5} .$$
 
 L'aire du grand carré est $\dfrac{9}{5}$ fois, c'est-à-dire $\text{1,8}$ fois, celle du petit. Le rapport des aires est $9 : 5$, et il ne dépend pas de la taille du grand carré.
 
-**Vérification.** Le côté du petit carré est l'hypoténuse d'un des triangles. D'après le théorème de Pythagore, il mesure $\sqrt{x^2 + (2x)^2} = \sqrt{5x^2} = x\sqrt{5}$, et l'aire du petit carré vaut bien $\big(x\sqrt{5}\big)^2 = 5x^2$.
+**Vérification.** Le côté du petit carré est l'hypoténuse d'un des triangles. D'après le théorème de Pythagore, il mesure $\sqrt{x^2 + (2x)^2} = \sqrt{5x^2} = x\sqrt{5}$, et l'aire du petit carré vaut bien $(x\sqrt{5})^2 = 5x^2$.
 
 ## Going further
 

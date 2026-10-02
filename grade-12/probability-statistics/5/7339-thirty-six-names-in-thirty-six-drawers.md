@@ -107,7 +107,7 @@ Et la borne $1 - \ln 2$ ne dépend pas du nombre de stagiaires : avec $100$ pris
 
 ## Going further
 
-1. Où la démonstration utilise-t-elle que chaque stagiaire peut ouvrir la **moitié** des tiroirs ? Que devient la probabilité s'ils n'ont droit qu'à $17$ tiroirs ? *(Réponse : environ $26{,}5\,\%$ — c'est ce que donne l'énoncé imprimé dans le polycopié, qui dit « moins de 18 ».)*
+1. Où la démonstration utilise-t-elle que chaque stagiaire peut ouvrir la **moitié** des tiroirs ? Que devient la probabilité s'ils n'ont droit qu'à $17$ tiroirs ? *(Réponse : environ $\text{26,5}\,\%$ — c'est ce que donne l'énoncé imprimé dans le polycopié, qui dit « moins de 18 ».)*
 2. Minore de la même façon $\sum_{k=19}^{36} \frac{1}{k}$ par une intégrale, et encadre ainsi la probabilité de survie.
 3. Avec $2n$ prisonniers ouvrant chacun $n$ tiroirs, montre que la probabilité de survie tend vers $1 - \ln 2$ quand $n$ devient grand.
 4. Pourquoi la stratégie ne marcherait-elle plus si le geôlier, au lieu de tirer le rangement au hasard, le choisissait après avoir entendu la discussion des stagiaires ? Quelle parade simple ont-ils ? *(Indication : ils peuvent renuméroter les tiroirs entre eux, au hasard.)*

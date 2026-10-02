@@ -48,7 +48,7 @@ $$p^3 + q^3 + r^3 - 3pqr = (p + q + r)\left(p^2 + q^2 + r^2 - pq - qr - rp\right
 
 Le second facteur se réécrit
 $$p^2 + q^2 + r^2 - pq - qr - rp
- = \frac{1}{2}\Big[(p-q)^2 + (q-r)^2 + (r-p)^2\Big] \geq 0 .$$
+ = \frac{1}{2}[(p-q)^2 + (q-r)^2 + (r-p)^2] \geq 0 .$$
 
 Comme $p + q + r \geq 0$, le produit est positif ou nul, ce qui prouve $(\star)$.
 

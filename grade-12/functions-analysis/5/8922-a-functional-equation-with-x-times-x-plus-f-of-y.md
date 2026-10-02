@@ -22,7 +22,7 @@ source:
 
 Trouver toutes les fonctions $f$ définies sur $\mathbb{R}$ et à valeurs dans $\mathbb{R}$ telles que, pour tous réels $x$ et $y$,
 
-$$f\big(x\,(x + f(y))\big) = (x+y)\,f(x).$$
+$$f(x\,(x + f(y))) = (x+y)\,f(x).$$
 
 Aucune hypothèse de continuité n'est faite : $f$ est une fonction quelconque.
 
@@ -38,7 +38,7 @@ Aucune hypothèse de continuité n'est faite : $f$ est une fonction quelconque.
 
 Notons $P(x,y)$ l'égalité
 
-$$f\big(x(x + f(y))\big) = (x+y) f(x).$$
+$$f(x(x + f(y))) = (x+y) f(x).$$
 
 ### Les deux solutions
 
@@ -51,7 +51,7 @@ Montrons qu'il n'y en a pas d'autres.
 
 Supposons qu'il existe $x_0$ avec $f(x_0) \neq 0$. Soient $a$ et $b$ deux réels tels que $f(a) = f(b)$. Écrivons $P(x_0, a)$ et $P(x_0, b)$ :
 
-$$f\big(x_0(x_0 + f(a))\big) = (x_0+a) f(x_0), \qquad f\big(x_0(x_0 + f(b))\big) = (x_0+b) f(x_0).$$
+$$f(x_0(x_0 + f(a))) = (x_0+a) f(x_0), \qquad f(x_0(x_0 + f(b))) = (x_0+b) f(x_0).$$
 
 Comme $f(a) = f(b)$, les deux membres de gauche sont **le même nombre**. Donc les deux membres de droite sont égaux :
 
@@ -63,7 +63,7 @@ Comme $f(x_0) \neq 0$, on peut simplifier : $x_0 + a = x_0 + b$, donc $a = b$. L
 
 Le facteur $(x+y)$ du membre de droite vaut $1$ exactement quand $x = 1-y$. Fixons donc $y \neq 1$ et écrivons $P(1-y,\ y)$ :
 
-$$f\big((1-y)\,(1-y+f(y))\big) = (1-y+y)\,f(1-y) = f(1-y).$$
+$$f((1-y)\,(1-y+f(y))) = (1-y+y)\,f(1-y) = f(1-y).$$
 
 Les deux membres sont des images par $f$, et $f$ est injective. On peut donc retirer le $f$ des deux côtés :
 
@@ -83,7 +83,7 @@ Un tel $x$ existe : la condition $x(x+k) = 1$ s'écrit $x^2 + kx - 1 = 0$, une �
 
 Écrivons $P(x, 1)$ :
 
-$$f\big(x(x+k)\big) = (x+1) f(x).$$
+$$f(x(x+k)) = (x+1) f(x).$$
 
 Le nombre $x$ est différent de $1$, donc l'étape 2 donne $f(x) = x$ : le membre de droite vaut $(x+1)x = x^2 + x$.
 

@@ -92,7 +92,7 @@ d'après la seconde propriété de $s$.
 **Étape 4. Une propriété de la multiplication par $s$.**
 
 Soit $z$ un nombre complexe, $Z$ le point d'affixe $z$ et $Z'$ le point d'affixe $s\,z$. Alors
-$$\overrightarrow{BZ'} \cdot \overrightarrow{Z'Z} = \mathrm{Re}\left(\overline{s\,z}\,(z - s\,z)\right) = |z|^2\, \mathrm{Re}\left(\overline{s} - |s|^2\right) = |z|^2 \left(\cos^2\beta - \cos^2\beta\right) = 0.$$
+$$\overrightarrow{BZ'} \cdot \overrightarrow{Z'Z} = \mathrm{Re}\left(\overline{s\,z}\,(z - s\,z)\right) = |z|^2\, \mathrm{Re}(\overline{s} - |s|^2) = |z|^2 \left(\cos^2\beta - \cos^2\beta\right) = 0.$$
 Les vecteurs $\overrightarrow{BZ'}$ et $\overrightarrow{Z'Z}$ sont donc toujours orthogonaux.
 
 **Étape 5. Les droites $(CQ)$ et $(AD)$ se coupent au pied de la perpendiculaire issue de $B$.**

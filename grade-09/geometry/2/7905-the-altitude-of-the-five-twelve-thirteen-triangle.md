@@ -56,6 +56,6 @@ $$\mathcal{A} = \frac{BC \times AH}{2} = \frac{13 \times AH}{2} .$$
 
 $$\frac{13 \times AH}{2} = 30 \qquad \text{donc} \qquad AH = \frac{60}{13} .$$
 
-**Conclusion.** $AH = \boxed{\dfrac{60}{13}}$, soit environ $4{,}6$.
+**Conclusion.** $AH = \boxed{\dfrac{60}{13}}$, soit environ $\text{4,6}$.
 
 Cette fraction est irréductible, car $13$ est premier et ne divise pas $60$.

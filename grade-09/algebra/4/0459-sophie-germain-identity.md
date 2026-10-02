@@ -56,7 +56,7 @@ $$n^4 + 4 = n^4 + 4n^2 + 4 - 4n^2 = (n^2+2)^2 - (2n)^2$$
 
 On applique $a^2 - b^2 = (a-b)(a+b)$ avec $a = n^2+2$ et $b = 2n$ :
 
-$$n^4 + 4 = \big((n^2+2) - 2n\big)\big((n^2+2) + 2n\big) = (n^2 - 2n + 2)(n^2 + 2n + 2)$$
+$$n^4 + 4 = ((n^2+2) - 2n)((n^2+2) + 2n) = (n^2 - 2n + 2)(n^2 + 2n + 2)$$
 
 Nous avons bien écrit $n^4 + 4$ comme un produit de deux entiers.
 

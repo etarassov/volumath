@@ -28,7 +28,7 @@ Quelle est la plus grande valeur que $s$ peut prendre ? Pour quels $x$ et $y$ es
 
 ## Hints
 
-1. Fais quelques essais numériques. Avec $x = 1$ et $y = 1$, que vaut $s$ ? Et avec $x = 1{,}5$ et $y = 0{,}7$ ?
+1. Fais quelques essais numériques. Avec $x = 1$ et $y = 1$, que vaut $s$ ? Et avec $x = \text{1,5}$ et $y = \text{0,7}$ ?
 2. Par définition du minimum, $s$ est inférieur ou égal à **chacune** des trois quantités. Écris les trois inégalités.
 3. De $s \leqslant x$ tu peux déduire une majoration de $\frac{1}{x}$. De $s \leqslant \frac{1}{y}$ tu peux déduire une majoration de $y$.
 4. Utilise ces deux majorations dans la troisième inégalité $s \leqslant y + \frac{1}{x}$.

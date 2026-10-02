@@ -46,7 +46,7 @@ avec égalité exactement lorsque $p = q$.
 
 **Étape 2. On l'applique au premier produit.**
 
-Prenons $p = x$ et $q = \sqrt{y^2+1}$. Comme $\big(\sqrt{y^2+1}\big)^2 = y^2+1$, on obtient
+Prenons $p = x$ et $q = \sqrt{y^2+1}$. Comme $(\sqrt{y^2+1})^2 = y^2+1$, on obtient
 
 $$x\sqrt{y^2+1} \;\leqslant\; \frac{x^2 + y^2 + 1}{2}.$$
 

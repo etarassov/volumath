@@ -28,7 +28,7 @@ $$|u_n| = |u_{n-1} + 1| .$$
 
 Quelle est la plus petite valeur que puisse prendre
 
-$$\big|\,u_1 + u_2 + \cdots + u_{2017}\,\big| \ ?$$
+$$|u_1 + u_2 + \cdots + u_{2017}| \ ?$$
 
 ## Hints
 

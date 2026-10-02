@@ -66,8 +66,8 @@ $10\times2 + 4 = 24$. C'est bien cela.
 Appelons $(i_1\,;j_1), \ldots, (i_{10}\,;j_{10})$ les cases occupées par les dix tours. La
 somme cherchée vaut
 
-$$S = \sum_{k=1}^{10} \Big(10\,(i_k-1) + (j_k-1)\Big)
-   = 10\times\Big[(i_1-1) + \cdots + (i_{10}-1)\Big] + \Big[(j_1-1) + \cdots + (j_{10}-1)\Big]$$
+$$S = \sum_{k=1}^{10} (10\,(i_k-1) + (j_k-1))
+   = 10\times[(i_1-1) + \cdots + (i_{10}-1)] + [(j_1-1) + \cdots + (j_{10}-1)]$$
 
 Le premier crochet ne dépend que des lignes occupées, le second que des colonnes occupées.
 

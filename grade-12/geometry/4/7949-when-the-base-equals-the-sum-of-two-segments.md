@@ -116,8 +116,8 @@ $$\frac{5\alpha}{4} - 135° = \pm\left(90° - \alpha\right) + k \times 360° , \
 
 Pour $\alpha = 100°$, on a $\widehat{ABD} = 20°$ et $\widehat{ADB} = 60°$. Avec $AB = 1$ :
 
-$$BC = 2\sin 50° \approx 1{,}532 , \qquad AD = \frac{\sin 20°}{\sin 60°} \approx 0{,}395 , \qquad DB = \frac{\sin 100°}{\sin 60°} \approx 1{,}137 .$$
+$$BC = 2\sin 50° \approx \text{1,532} , \qquad AD = \frac{\sin 20°}{\sin 60°} \approx \text{0,395} , \qquad DB = \frac{\sin 100°}{\sin 60°} \approx \text{1,137} .$$
 
-Et $0{,}395 + 1{,}137 \approx 1{,}532$. ✓
+Et $\text{0,395} + \text{1,137} \approx \text{1,532}$. ✓
 
 **Conclusion.** $\widehat{BAC} = \boxed{100°}$.

@@ -75,7 +75,7 @@ $$T_2 - T_1 = 600.$$
 
 **Étape 4. Calculer cette différence.**
 
-$$T_2 - T_1 = \big(4a_4 + 8a_5 + 8a_6 + 8a_7 + 8a_8\big) - \big(a_1 + 2a_2 + 3a_3 + 4a_4 + 5a_5 + 6a_6 + 7a_7 + 8a_8\big).$$
+$$T_2 - T_1 = (4a_4 + 8a_5 + 8a_6 + 8a_7 + 8a_8) - (a_1 + 2a_2 + 3a_3 + 4a_4 + 5a_5 + 6a_6 + 7a_7 + 8a_8).$$
 
 Les termes en $a_0$, $a_4$ et $a_8$ disparaissent, et il reste
 
@@ -93,7 +93,7 @@ $$|a_7 - a_1| \leqslant 99, \qquad |a_6 - a_2| \leqslant 99, \qquad |a_5 - a_3| 
 
 Alors, en majorant chaque terme de $(\star)$ :
 
-$$\big| (a_7 - a_1) + 2(a_6 - a_2) + 3(a_5 - a_3) \big| \leqslant 99 + 2 \times 99 + 3 \times 99 = 6 \times 99 = 594.$$
+$$| (a_7 - a_1) + 2(a_6 - a_2) + 3(a_5 - a_3) | \leqslant 99 + 2 \times 99 + 3 \times 99 = 6 \times 99 = 594.$$
 
 Mais $(\star)$ affirme que cette quantité vaut $600$, et $600 > 594$. C'est impossible.
 

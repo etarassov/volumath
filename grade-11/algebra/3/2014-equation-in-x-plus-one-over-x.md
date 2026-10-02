@@ -49,7 +49,7 @@ $$x^2 + \frac{1}{x^2} = t^2 - 2 .$$
 
 L'équation devient
 
-$$7t - 2\big(t^2 - 2\big) = 9, \qquad \text{c'est-à-dire} \qquad -2t^2 + 7t + 4 - 9 = 0,$$
+$$7t - 2(t^2 - 2) = 9, \qquad \text{c'est-à-dire} \qquad -2t^2 + 7t + 4 - 9 = 0,$$
 
 soit, en multipliant par $-1$ :
 

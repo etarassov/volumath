@@ -70,7 +70,7 @@ $$10\,000 \leqslant x \leqslant 99\,999$$
 
 Avec $x = 2\,564\,f$ :
 
-- $2\,564\,f \geqslant 10\,000$ donne $f \geqslant 3{,}9\ldots$, donc $f \geqslant 4$ ;
+- $2\,564\,f \geqslant 10\,000$ donne $f \geqslant \text{3,9}\ldots$, donc $f \geqslant 4$ ;
 - $2\,564\,f \leqslant 99\,999$ est vérifié pour tout chiffre $f$, puisque $2\,564 \times 9 = 23\,076$.
 
 Il reste $f \in \{4, 5, 6, 7, 8, 9\}$, et chacune de ces valeurs donne bien un nombre : le chiffre déplacé $f$ n'est pas nul, donc le nombre obtenu a lui aussi six chiffres.

@@ -62,7 +62,7 @@ $$A = (n-1)(n-2)(n-3) \qquad \text{et} \qquad B = (n-2)(n-2) .$$
 
 Comme $n \geqslant 3$, le facteur $n-2$ est strictement positif, et
 
-$$\mathrm{PGCD}(A, B) = (n-2) \times \mathrm{PGCD}\big((n-1)(n-3),\; n-2\big) .$$
+$$\mathrm{PGCD}(A, B) = (n-2) \times \mathrm{PGCD}((n-1)(n-3),\; n-2) .$$
 
 **Le morceau restant ne vaut que 1.**
 
@@ -72,7 +72,7 @@ $$(n-1)(n-3) \equiv (2-1)(2-3) \equiv 1 \times (-1) \equiv -1 \pmod{n-2} .$$
 
 Donc tout diviseur commun de $(n-1)(n-3)$ et de $n-2$ divise $-1$, c'est-à-dire vaut $1$ :
 
-$$\mathrm{PGCD}\big((n-1)(n-3),\; n-2\big) = 1 .$$
+$$\mathrm{PGCD}((n-1)(n-3),\; n-2) = 1 .$$
 
 **Conclusion.**
 

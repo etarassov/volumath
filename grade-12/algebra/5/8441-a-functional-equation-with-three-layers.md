@@ -22,7 +22,7 @@ source:
 
 Déterminer toutes les fonctions $f$ définies sur $\mathbb{R}$ et à valeurs dans $\mathbb{R}$ telles que, pour tous nombres réels $x$ et $y$,
 
-$$f\big(f(f(x))\big) + f\big(f(y)\big) = f(y) + x.$$
+$$f(f(f(x))) + f(f(y)) = f(y) + x.$$
 
 ## Hints
 
@@ -38,7 +38,7 @@ $$f\big(f(f(x))\big) + f\big(f(y)\big) = f(y) + x.$$
 
 Supposons que $f$ vérifie l'équation
 
-$$f\big(f(f(x))\big) + f\big(f(y)\big) = f(y) + x \qquad (\star)$$
+$$f(f(f(x))) + f(f(y)) = f(y) + x \qquad (\star)$$
 
 pour tous réels $x$ et $y$.
 
@@ -46,17 +46,17 @@ pour tous réels $x$ et $y$.
 
 Posons $y = 0$ dans $(\star)$ :
 
-$$f\big(f(f(x))\big) + f\big(f(0)\big) = f(0) + x,$$
+$$f(f(f(x))) + f(f(0)) = f(0) + x,$$
 
 c'est-à-dire, en posant $c = f(0) - f(f(0))$,
 
-$$f\big(f(f(x))\big) = x + c \qquad \text{pour tout réel } x. \qquad (1)$$
+$$f(f(f(x))) = x + c \qquad \text{pour tout réel } x. \qquad (1)$$
 
 **Étape 2. La fonction $f$ est surjective.**
 
 Soit $b$ un réel quelconque. Posons $x = b - c$. D'après $(1)$,
 
-$$f\Big(\underbrace{f\big(f(b-c)\big)}_{\text{un certain réel } z}\Big) = (b-c) + c = b.$$
+$$f\left(\underbrace{f(f(b-c))}_{\text{un certain réel } z}\right) = (b-c) + c = b.$$
 
 Le réel $b$ a donc un antécédent par $f$, à savoir $z = f(f(b-c))$. Comme $b$ était quelconque, $f$ est surjective.
 
@@ -64,7 +64,7 @@ Le réel $b$ a donc un antécédent par $f$, à savoir $z = f(f(b-c))$. Comme $b
 
 Comme $f$ est surjective, tout réel $u$ s'écrit $u = f(y)$ pour un certain réel $y$. En reportant dans $(\star)$, on obtient
 
-$$f\big(f(f(x))\big) + f(u) = u + x \qquad \text{pour tous réels } x \text{ et } u. \qquad (2)$$
+$$f(f(f(x))) + f(u) = u + x \qquad \text{pour tous réels } x \text{ et } u. \qquad (2)$$
 
 C'est un progrès décisif : la fonction $f$ n'apparaît plus qu'une seule fois avec une variable libre.
 
@@ -72,7 +72,7 @@ C'est un progrès décisif : la fonction $f$ n'apparaît plus qu'une seule fois 
 
 Posons $x = 0$ dans $(2)$ :
 
-$$f\big(f(f(0))\big) + f(u) = u.$$
+$$f(f(f(0))) + f(u) = u.$$
 
 D'après $(1)$ appliqué à $x = 0$, le premier terme vaut $0 + c = c$. Donc
 
@@ -86,7 +86,7 @@ Soit $f$ définie par $f(u) = u + C$. Calculons les deux membres de $(\star)$.
 
 $$f(x) = x + C, \qquad f(f(x)) = x + 2C, \qquad f(f(f(x))) = x + 3C.$$
 
-- Membre de gauche : $\big(x + 3C\big) + \big(y + 2C\big) = x + y + 5C$.
+- Membre de gauche : $(x + 3C) + (y + 2C) = x + y + 5C$.
 - Membre de droite : $f(y) + x = (y + C) + x = x + y + C$.
 
 L'égalité pour tous $x, y$ équivaut à

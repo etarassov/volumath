@@ -64,7 +64,7 @@ Chaque point de $\Gamma$ est à distance $\sqrt{3}$ de $O$, donc, d'après l'ét
 
 **Étape 3 : la contradiction.**
 
-Sur ce cercle de rayon $\sqrt{3}$, donc de diamètre $2\sqrt{3} \approx 3{,}46$, on peut tracer une corde de longueur $1$ : il suffit de prendre un point $P$ de $\Gamma$ et le point $Q$ de $\Gamma$ tel que $PQ = 1$, ce qui est possible car $1$ est bien compris entre $0$ et le diamètre.
+Sur ce cercle de rayon $\sqrt{3}$, donc de diamètre $2\sqrt{3} \approx \text{3,46}$, on peut tracer une corde de longueur $1$ : il suffit de prendre un point $P$ de $\Gamma$ et le point $Q$ de $\Gamma$ tel que $PQ = 1$, ce qui est possible car $1$ est bien compris entre $0$ et le diamètre.
 
 Les points $P$ et $Q$ sont à distance $1$ et de la même couleur. C'est exactement ce que l'hypothèse absurde interdisait.
 

@@ -51,7 +51,7 @@ $$S = \sum_{i=1}^{2n} (a_i + i) = \sum_{i=1}^{2n} a_i \;+\; \sum_{i=1}^{2n} i.$$
 
 Les $a_i$ sont les entiers $1$ à $2n$ dans le désordre, donc les deux sommes valent la même chose :
 
-$$S = 2 \times \big(1 + 2 + \cdots + 2n\big) = 2 \times \frac{2n\,(2n+1)}{2} = 2n\,(2n+1).$$
+$$S = 2 \times (1 + 2 + \cdots + 2n) = 2 \times \frac{2n\,(2n+1)}{2} = 2n\,(2n+1).$$
 
 C'est un multiple de $2n$, donc
 

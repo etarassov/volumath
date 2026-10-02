@@ -39,7 +39,7 @@ et dire pour quelles valeurs de $x$ elle est atteinte.
 
 Le nombre $|x - a|$ est la distance entre $x$ et $a$ sur la droite graduée. Regroupons les six points deux par deux, du plus extérieur au plus intérieur :
 
-$$f(x) = \underbrace{\big(|x| + |x-5|\big)}_{\text{paire } 0 \text{ et } 5} + \underbrace{\big(|x-1| + |x-4|\big)}_{\text{paire } 1 \text{ et } 4} + \underbrace{\big(|x-2| + |x-3|\big)}_{\text{paire } 2 \text{ et } 3}.$$
+$$f(x) = \underbrace{(|x| + |x-5|)}_{\text{paire } 0 \text{ et } 5} + \underbrace{(|x-1| + |x-4|)}_{\text{paire } 1 \text{ et } 4} + \underbrace{(|x-2| + |x-3|)}_{\text{paire } 2 \text{ et } 3}.$$
 
 **Le lemme sur une paire.** Soient $a < b$ deux réels. Alors pour tout $x$,
 

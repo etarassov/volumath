@@ -72,4 +72,4 @@ $$X = \frac{12 \pm 2\sqrt{29}}{2} = 6 \pm \sqrt{29} .$$
 
 *Vérification :* la somme vaut $\left(6+\sqrt{29}\right) + \left(6 - \sqrt{29}\right) = 12$, et le produit vaut $6^2 - 29 = 36 - 29 = 7$. ✓
 
-**Conclusion.** Les deux nombres d'Alice sont soit $3$ et $4$, soit $6 - \sqrt{29}$ et $6 + \sqrt{29}$ (c'est-à-dire environ $0{,}61$ et $11{,}39$). Le papier ne permet pas de trancher entre les deux.
+**Conclusion.** Les deux nombres d'Alice sont soit $3$ et $4$, soit $6 - \sqrt{29}$ et $6 + \sqrt{29}$ (c'est-à-dire environ $\text{0,61}$ et $\text{11,39}$). Le papier ne permet pas de trancher entre les deux.

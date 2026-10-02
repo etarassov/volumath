@@ -55,7 +55,7 @@ $$(x^2 + 1)(x + 1)(x - 1) = (x^2 + 1)(x + 1),$$
 
 c'est-à-dire, en ramenant tout à gauche et en mettant $(x^2+1)(x+1)$ en facteur,
 
-$$(x^2 + 1)(x + 1)\big[(x - 1) - 1\big] = 0, \qquad \text{soit} \qquad (x^2 + 1)(x + 1)(x - 2) = 0 .$$
+$$(x^2 + 1)(x + 1)[(x - 1) - 1] = 0, \qquad \text{soit} \qquad (x^2 + 1)(x + 1)(x - 2) = 0 .$$
 
 **On conclut.** Un produit est nul si et seulement si l'un de ses facteurs est nul.
 

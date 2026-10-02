@@ -84,7 +84,7 @@ $$a > b$$
 
 **Échange de $b$ et $d$.** On a $f' = a - ad + adc - adcb$, et
 
-$$f - f' = (-ab + abc) - (-ad + adc) = a\big(b(c-1) - d(c-1)\big) = a(c-1)(b-d)$$
+$$f - f' = (-ab + abc) - (-ad + adc) = a(b(c-1) - d(c-1)) = a(c-1)(b-d)$$
 
 Comme $a > 0$ et $c - 1 > 0$, il faut
 

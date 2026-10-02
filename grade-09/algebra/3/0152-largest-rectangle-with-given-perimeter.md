@@ -83,7 +83,7 @@ L'aire ne dépasse donc jamais $1$ cm².
 
 De $a + b = 2$ on tire $b = 2 - a$, donc
 
-$$S = ab = a(2-a) = 2a - a^2 = -\big(a^2 - 2a\big) = -\big(a^2 - 2a + 1\big) + 1 = 1 - (a-1)^2$$
+$$S = ab = a(2-a) = 2a - a^2 = -(a^2 - 2a) = -(a^2 - 2a + 1) + 1 = 1 - (a-1)^2$$
 
 On lit directement le résultat : $S$ vaut $1$ moins un carré, donc $S \leqslant 1$, avec égalité quand $a = 1$.
 

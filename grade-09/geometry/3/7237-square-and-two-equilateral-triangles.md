@@ -82,6 +82,6 @@ elles sont confondues.
 
 On peut préciser : le point $E$ est-il entre $D$ et $F$ ? Un calcul de longueurs le confirme. Dans
 le triangle isocèle $DAE$ d'angle au sommet $30^\circ$ et de côtés $a$, la base vaut
-$DE = 2a\sin(15^\circ) \approx 0{,}518\,a$, tandis que dans le triangle isocèle $CDF$ d'angle au
-sommet $150^\circ$, la base vaut $DF = 2a\sin(75^\circ) \approx 1{,}932\,a$. Comme
+$DE = 2a\sin(15^\circ) \approx \text{0,518}\,a$, tandis que dans le triangle isocèle $CDF$ d'angle au
+sommet $150^\circ$, la base vaut $DF = 2a\sin(75^\circ) \approx \text{1,932}\,a$. Comme
 $DE < DF$, le point $E$ est bien entre $D$ et $F$.

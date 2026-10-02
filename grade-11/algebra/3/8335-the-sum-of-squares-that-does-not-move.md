@@ -52,7 +52,7 @@ $$x_1^2 + x_2^2 + \cdots + x_n^2 \;\text{ne change jamais.}$$
 
 **La somme des carrés de la liste de départ.**
 
-$$2^2 + \left(\sqrt2\right)^2 + \left(\frac{1}{\sqrt2}\right)^2 + \left(-\sqrt2\right)^2 = 4 + 2 + \frac{1}{2} + 2 = \frac{17}{2} = 8{,}5 .$$
+$$2^2 + \left(\sqrt2\right)^2 + \left(\frac{1}{\sqrt2}\right)^2 + \left(-\sqrt2\right)^2 = 4 + 2 + \frac{1}{2} + 2 = \frac{17}{2} = \text{8,5} .$$
 
 **La somme des carrés de la liste d'arrivée.**
 
@@ -66,12 +66,12 @@ $$1^2 = 1 , \qquad \left(2\sqrt2\right)^2 = 4 \times 2 = 8 , \qquad \left(\frac{
 
 Au total :
 
-$$1 + 8 + \left(3 - 2\sqrt2\right) + \frac12 = \frac{25}{2} - 2\sqrt2 = 12{,}5 - 2\sqrt2 .$$
+$$1 + 8 + \left(3 - 2\sqrt2\right) + \frac12 = \frac{25}{2} - 2\sqrt2 = \text{12,5} - 2\sqrt2 .$$
 
 **On compare.**
 
-Comme $\sqrt 2 \approx 1{,}414$, on a $2\sqrt 2 \approx 2{,}83$, donc la seconde somme vaut
-environ $9{,}67$. En tout cas les deux valeurs sont différentes : si elles étaient égales, on
+Comme $\sqrt 2 \approx \text{1,414}$, on a $2\sqrt 2 \approx \text{2,83}$, donc la seconde somme vaut
+environ $\text{9,67}$. En tout cas les deux valeurs sont différentes : si elles étaient égales, on
 aurait $2\sqrt2 = 4$, donc $\sqrt2 = 2$, ce qui est faux.
 
 **Conclusion.** La somme des carrés est un invariant de l'opération et elle ne prend pas la même

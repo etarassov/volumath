@@ -22,7 +22,7 @@ source:
 
 Trouver toutes les fonctions $f$ définies sur $\mathbb{R}$ et à valeurs dans $\mathbb{R}$ telles que, pour tous nombres réels $x$ et $y$,
 
-$$f\big(f(x)\,f(y)\big) = f(x)\,y.$$
+$$f(f(x)\,f(y)) = f(x)\,y.$$
 
 ## Hints
 
@@ -50,8 +50,8 @@ Supposons désormais que $f$ n'est **pas** la fonction nulle. Il existe donc un 
 
 Supposons $f(b) = f(c)$, et montrons que $b = c$. Appliquons l'équation avec $x = a$ :
 
-- pour $y = b$ : $f\big(f(a)\,f(b)\big) = f(a)\,b$ ;
-- pour $y = c$ : $f\big(f(a)\,f(c)\big) = f(a)\,c$.
+- pour $y = b$ : $f(f(a)\,f(b)) = f(a)\,b$ ;
+- pour $y = c$ : $f(f(a)\,f(c)) = f(a)\,c$.
 
 Comme $f(b) = f(c)$, les deux membres de gauche sont le même nombre. Donc
 
@@ -63,7 +63,7 @@ et comme $f(a) \neq 0$, on peut diviser : $b = c$. La fonction $f$ est donc inje
 
 L'équation donne
 
-$$f\big(f(x)\,f(1)\big) = f(x) \times 1 = f(x).$$
+$$f(f(x)\,f(1)) = f(x) \times 1 = f(x).$$
 
 Les deux membres sont de la forme $f(\ldots)$ : à gauche $f$ appliquée à $f(x)f(1)$, à droite $f$ appliquée à $x$. L'injectivité permet donc de supprimer le $f$ :
 
@@ -84,11 +84,11 @@ $$f(1)^2 = 1, \qquad \text{donc} \qquad f(1) = 1 \quad \text{ou} \quad f(1) = -1
 
 Il reste à vérifier les trois candidats.
 
-**La fonction nulle.** $f\big(f(x)f(y)\big) = f(0) = 0$ et $f(x)\,y = 0 \times y = 0$. Les deux membres valent $0$ : c'est bien une solution.
+**La fonction nulle.** $f(f(x)f(y)) = f(0) = 0$ et $f(x)\,y = 0 \times y = 0$. Les deux membres valent $0$ : c'est bien une solution.
 
-**L'identité $f(x) = x$.** $f\big(f(x)f(y)\big) = f(xy) = xy$ et $f(x)\,y = x y$. Égalité : c'est une solution.
+**L'identité $f(x) = x$.** $f(f(x)f(y)) = f(xy) = xy$ et $f(x)\,y = x y$. Égalité : c'est une solution.
 
-**L'opposé $f(x) = -x$.** $f\big(f(x)f(y)\big) = f\big((-x)(-y)\big) = f(xy) = -xy$ et $f(x)\,y = (-x)\,y = -xy$. Égalité : c'est aussi une solution.
+**L'opposé $f(x) = -x$.** $f(f(x)f(y)) = f((-x)(-y)) = f(xy) = -xy$ et $f(x)\,y = (-x)\,y = -xy$. Égalité : c'est aussi une solution.
 
 ### Conclusion
 

@@ -47,11 +47,11 @@ Chaque paire de droites **non parallèles** donne un point d'intersection. Il fa
 
 **Étape 2 : les paires parallèles.**
 
-La corde $[A_iA_{i+1}]$ est perpendiculaire au rayon qui passe par son milieu. En tournant d'un cran, on tourne ce rayon de $\dfrac{360°}{100} = 3{,}6°$. Donc en passant de $\ell_i$ à $\ell_j$, la direction tourne de $(j - i) \times 3{,}6°$.
+La corde $[A_iA_{i+1}]$ est perpendiculaire au rayon qui passe par son milieu. En tournant d'un cran, on tourne ce rayon de $\dfrac{360°}{100} = \text{3,6}°$. Donc en passant de $\ell_i$ à $\ell_j$, la direction tourne de $(j - i) \times \text{3,6}°$.
 
 Deux droites sont parallèles exactement quand leurs directions diffèrent d'un multiple de $180°$, c'est-à-dire quand
 
-$$(j - i) \times 3{,}6° = 180° \times k, \qquad \text{soit} \qquad j - i = 50k .$$
+$$(j - i) \times \text{3,6}° = 180° \times k, \qquad \text{soit} \qquad j - i = 50k .$$
 
 Avec $1 \le i < j \le 100$, la seule possibilité est $j = i + 50$. Cela donne les $50$ paires
 

@@ -65,7 +65,7 @@ $$E_k(v,s) = W_{s+1}\left[1 - \left(\frac12\right)^{k}\right] + \left(\frac12\ri
 
 qu'on écrira aussi, en partant d'un pot vide ($v = 0$),
 
-$$E_k(0,s) = W_{s+1} + \left(\frac12\right)^{k}\bigl(100k - W_{s+1}\bigr).$$
+$$E_k(0,s) = W_{s+1} + \left(\frac12\right)^{k}(100k - W_{s+1}).$$
 
 Sous cette forme, on voit tout de suite le comportement pour les grands $k$ : le terme $\left(\frac12\right)^{k}(100k - W_{s+1})$ tend vers $0$, donc $E_k(0,s)$ redescend vers $W_{s+1}$. Il suffit donc d'examiner les premières valeurs de $k$.
 

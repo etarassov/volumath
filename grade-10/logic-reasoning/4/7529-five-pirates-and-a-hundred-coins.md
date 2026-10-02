@@ -78,7 +78,7 @@ $P_2$ propose donc $(98, 0, 1, 1)$ et obtient trois voix : la sienne, celle de $
 
 **Cinq pirates : le vrai problème.**
 
-$P_1$ propose. Il faut plus de la moitié de $5$ votants, soit plus de $2{,}5$ : au moins $3$ voix. La sienne, plus deux autres.
+$P_1$ propose. Il faut plus de la moitié de $5$ votants, soit plus de $\text{2,5}$ : au moins $3$ voix. La sienne, plus deux autres.
 
 Si $P_1$ meurt, on retombe sur le partage à quatre : $P_2$ obtient $98$, $P_3$ obtient $0$, $P_4$ obtient $1$ et $P_5$ obtient $1$.
 

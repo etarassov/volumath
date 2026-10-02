@@ -71,10 +71,10 @@ Ainsi, quelle que soit la valeur de $x$, la droite passe par le point $F(-1\,;\,
 Même calcul. La droite passe par $E(0\,;\,x)$ et $S(1\,;\,mx+p)$, donc son coefficient directeur est
 $$(mx + p) - x = (m-1)x + p ,$$
 et son équation est
-$$Y = \big[(m-1)x + p\big]X + x .$$
+$$Y = [(m-1)x + p]X + x .$$
 
 On regroupe :
-$$Y = x\,\big[(m-1)X + 1\big] + pX .$$
+$$Y = x\,[(m-1)X + 1] + pX .$$
 
 Le terme qui dépend de $x$ disparaît exactement quand
 $$(m-1)X + 1 = 0, \qquad \text{c'est-à-dire} \qquad X = \frac{1}{1-m} ,$$
