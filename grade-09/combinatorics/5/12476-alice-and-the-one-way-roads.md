@@ -5,7 +5,7 @@ grade: 9
 theme: combinatorics
 difficulty: 5
 duration_min: 45
-tags: [strategie, questions, routes-a-sens-unique, double-comptage, algorithme]
+tags: [strategie, questions, routes-a-sens-unique, double-comptage, algorithme, tournoi]
 adapted_from: null
 see_also: []
 same_as: []

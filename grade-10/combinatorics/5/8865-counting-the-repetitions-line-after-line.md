@@ -1,7 +1,7 @@
 ---
 id: "8865"
 title: "Compter les répétitions, ligne après ligne"
-grade: 11
+grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 45
@@ -41,7 +41,7 @@ Montrer qu'au bout d'un certain temps, toutes les lignes qu'Aurélien écrit son
 1. Reprends l'exemple et regarde une **colonne** plutôt qu'une ligne, à partir de la deuxième ligne. Que remarques-tu ?
 2. Note $x$ le nombre écrit à la ligne $k$, colonne $j$, et $a$ le nombre écrit juste en dessous. Combien de fois le nombre $x$ apparaît-il dans la ligne $k$ ? Que lit-on sous chacune de ces apparitions ?
 3. Déduis-en que le nombre $a$ apparaît au moins $a$ fois dans la ligne $k+1$. Qu'est-ce que cela dit du nombre écrit à la ligne $k+2$, colonne $j$ ?
-4. Un nombre écrit à partir de la ligne $2$ compte des apparitions parmi $2018$ nombres : il est donc borné. Que devient une suite d'entiers croissante et bornée ?
+4. Un nombre écrit à partir de la ligne $2$ compte des apparitions parmi $2018$ nombres : il reste donc entre $1$ et $2018$. Combien de fois au plus des entiers qui ne diminuent jamais et restent entre $1$ et $2018$ peuvent-ils augmenter ?
 5. Il y a $2018$ colonnes, donc un nombre **fini** de colonnes : chacune se stabilise, et on peut attendre que toutes l'aient fait.
 
 ## Solution
@@ -73,7 +73,7 @@ $$1 \leqslant L_k(j) \leqslant 2018 \qquad \text{pour tout } k \geqslant 2 .$$
 
 ### Étape 3 : chaque colonne se stabilise
 
-Fixons une colonne $j$. La suite $L_2(j), L_3(j), L_4(j), \dots$ est une suite d'entiers croissante et majorée par $2018$. Une telle suite ne peut pas croître strictement plus de $2017$ fois : elle est donc constante à partir d'un certain rang, disons à partir de la ligne $N_j$.
+Fixons une colonne $j$. Les nombres $L_2(j), L_3(j), L_4(j), \dots$ sont des entiers qui ne diminuent jamais et restent compris entre $1$ et $2018$. Chaque fois qu'ils augmentent, ils gagnent au moins $1$, donc ils ne peuvent augmenter qu'au plus $2017$ fois : à partir d'une certaine ligne, disons la ligne $N_j$, ils ne changent plus.
 
 ### Étape 4 : on attend que toutes les colonnes soient stabilisées
 

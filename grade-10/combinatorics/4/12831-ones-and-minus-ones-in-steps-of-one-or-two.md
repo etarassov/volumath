@@ -88,4 +88,4 @@ D'après la partie 1, $C = 507$ convient ; d'après la partie 2, aucun entier pl
 ## Going further
 
 1. Pour la suite $1, 1, -1, -1, \ldots$ de la partie 2, construisez une suite peu croissante dont la somme vaut exactement $507$.
-2. Que devient la réponse pour des suites de $2022$ termes au lieu de $2023$ ?
+2. Que devient la réponse pour des suites de $2022$ termes au lieu de $2023$ ? (Réponse : $506$. Attention, la suite $1, 1, -1, -1, \ldots$ ne suffit plus pour la majoration : avec $6$ termes, elle permet d'atteindre $3$, alors que la vraie réponse est $2$. Une suite qui convient est $1, -1, -1, 1, 1, -1, -1, \ldots, 1, 1, -1$ : un terme, puis des blocs de deux termes égaux, puis un dernier terme.)

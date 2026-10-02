@@ -8,11 +8,11 @@ duration_min: 15
 tags: [double-comptage, paires, denombrement]
 adapted_from: null
 see_also: []
-same_as: ["7131"]
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, test de rentrée (Coupe Animath d'automne) du 7 octobre 2015"
-  reference: "2017-09_coupe_automne_2015.pdf, exercices collège, exercice 1 ; corrigé 2017-09_coupe_automne_2015_corrige.pdf"
+  reference: "2017-09_coupe_automne_2015.pdf, exercices collège, exercice 1 ; corrigé 2017-09_coupe_automne_2015_corrige.pdf. Le même problème, avec quinze campeurs de corvée de vaisselle, figure aussi dans stage_junior_2013.pdf, « Avancés : combinatoire », mercredi matin (Irène Marcovici), exercice 7."
   url: "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2015.pdf"
   original_language: "fr"
   local_copy: "sources/originals/coupe-animath/2017-09_coupe_automne_2015.pdf"
@@ -45,7 +45,7 @@ $$3d = 105, \qquad d = 35 .$$
 
 **Conclusion.** Le stage a duré $35$ jours.
 
-**Remarque.** Le raisonnement montre que le stage dure forcément $35$ jours, mais il ne dit pas si une telle organisation existe vraiment. Elle existe : c'est une version d'un problème célèbre posé par le pasteur anglais Thomas Kirkman en 1850, avec quinze écolières qui se promènent par groupes de trois.
+**Remarque.** Le raisonnement montre que le stage dure forcément $35$ jours, mais il ne dit pas si une telle organisation existe vraiment. Elle existe : c'est une version d'un problème célèbre posé par le pasteur anglais Thomas Kirkman en 1850, avec quinze écolières qui se promènent par groupes de trois. Elles se promènent sept jours de suite, en cinq rangs de trois chaque jour : cela fait $7 \times 5 = 35$ rangs, exactement le nombre trouvé ici.
 
 ## Going further
 

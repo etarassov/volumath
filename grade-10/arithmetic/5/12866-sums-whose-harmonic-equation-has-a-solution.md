@@ -29,7 +29,7 @@ $$\frac{ab}{a + b} + \frac{cd}{c + d} = \frac{(a + b)(c + d)}{a + b + c + d}.$$
 1. Cherchez des solutions avec $a = b = c = d$. Quelle valeur de $s$ obtenez-vous ? Essayez ensuite de trouver une solution pour $s = 9$.
 2. Essayez de montrer qu'il n'y a pas de solution pour $s = 5$, ou pour $s$ premier. Posez $u = a + b$ et $v = c + d$, et chassez les dénominateurs.
 3. Un nombre premier $p$ qui divise $s$ divise $u^2 v^2$. Que peut-on en déduire pour $u$ et $v$ ?
-4. La réponse : les entiers $s$ divisibles par un carré parfait plus grand que $1$. Pour la construction, si $s = k\ell^2$, généralisez la solution $(1, 2, 2, 4)$ trouvée pour $s = 9 = 3^2$.
+4. La réponse : les entiers $s$ divisibles par un carré parfait plus grand que $1$. Pour la construction, si $s = k\ell^2$, généralisez la solution $(4, 2, 2, 1)$ trouvée pour $s = 9 = 3^2$.
 
 ## Solution
 

@@ -1,7 +1,7 @@
 ---
 id: "12812"
 title: "Une somme de factorielles égale à 1 + 2 + ⋯ + n"
-grade: 10
+grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 40

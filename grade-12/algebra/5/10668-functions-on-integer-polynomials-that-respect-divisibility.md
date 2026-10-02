@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 120
-tags: [polynome, divisibilite, equation-fonctionnelle, division-euclidienne, racines, limite, hors-programme]
+tags: [polynome, divisibilite, equation-fonctionnelle, division-euclidienne, racines, limite, maths-expertes]
 adapted_from: null
 see_also: []
 same_as: []
@@ -36,10 +36,10 @@ $$P(r) \text{ divise } Q(r) \iff f(P)(r) \text{ divise } f(Q)(r)$$
 
 ## Solution
 
-**Rappel.** On utilise quatre faits sur les polynômes et les entiers.
+**Rappel.** On utilise quatre faits sur les polynômes et les entiers. Le premier est démontré dans l'option maths expertes, les trois autres se justifient en quelques lignes.
 
 - Un polynôme non nul de degré $d$ a au plus $d$ racines. Donc un polynôme qui s'annule en une infinité de nombres est le polynôme nul, et le produit de deux polynômes non nuls n'est pas nul (les degrés s'ajoutent).
-- **Division euclidienne des polynômes.** Si $V$ et $U \neq 0$ sont des polynômes à coefficients rationnels, il existe des polynômes $W$ et $R$ à coefficients rationnels tels que $V = UW + R$, avec $R = 0$ ou $\deg R < \deg U$. Elle se calcule comme une division posée entre entiers. Quand $R = 0$, on dit que $U$ **divise** $V$ dans $\mathbb{Q}[X]$.
+- **Division euclidienne des polynômes.** Si $V$ et $U \neq 0$ sont des polynômes à coefficients rationnels, il existe des polynômes $W$ et $R$ à coefficients rationnels tels que $V = UW + R$, avec $R = 0$ ou $\deg R < \deg U$. Elle se calcule comme une division posée entre entiers : si $V$ a pour degré $p$ et pour coefficient dominant $a$, et $U$ pour degré $q \leqslant p$ et pour coefficient dominant $b$, on retranche de $V$ le polynôme $\frac{a}{b} X^{p - q}\, U$. Le degré baisse, et on recommence tant qu'il reste au moins égal à $q$. Quand $R = 0$, on dit que $U$ **divise** $V$ dans $\mathbb{Q}[X]$.
 - Si $\deg R < \deg U$, le quotient $\frac{R(r)}{U(r)}$ tend vers $0$ quand $r$ tend vers $+\infty$ ou vers $-\infty$. Donc $|R(r)| < |U(r)|$ dès que $|r|$ est assez grand.
 - Pour des entiers $a$, $b$ et un entier $d \geqslant 1$, $a^d$ divise $b^d$ si et seulement si $a$ divise $b$. Si $a$ et $b$ sont non nuls, cela se voit sur les décompositions en facteurs premiers, où chaque exposant est multiplié par $d$. Si $a$ ou $b$ est nul, on vérifie directement.
 

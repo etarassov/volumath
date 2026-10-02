@@ -1,9 +1,9 @@
 ---
 id: "12862"
 title: "Trois nombres premiers et p² + pq + q² = r²"
-grade: 10
+grade: 9
 theme: arithmetic
-difficulty: 3
+difficulty: 4
 duration_min: 25
 tags: [nombres-premiers, factorisation, difference-de-carres, diviseurs, equation-diophantienne]
 adapted_from: null
@@ -53,7 +53,7 @@ On a $p + q + r > p$ et $p + q + r > q$. Donc
 
 $$p + q - r = \frac{pq}{p + q + r} < \frac{pq}{p} = q \qquad \text{et de même} \qquad p + q - r < p.$$
 
-Or, comme $p$ et $q$ sont premiers, les diviseurs positifs de $pq$ sont $1$, $p$, $q$ et $pq$ : d'après la décomposition en facteurs premiers, un diviseur de $pq$ ne peut contenir que les facteurs premiers $p$ et $q$, et pas plus de fois que $pq$ lui-même. Le seul de ces diviseurs qui soit plus petit que $p$ et que $q$ est $1$. Donc
+Or, comme $p$ et $q$ sont premiers, les diviseurs positifs de $pq$ sont $1$, $p$, $q$ et $pq$ (si $p = q$, ce sont seulement $1$, $p$ et $p^2$) : d'après la décomposition en facteurs premiers, un diviseur de $pq$ ne peut contenir que les facteurs premiers $p$ et $q$, et pas plus de fois que $pq$ lui-même. Le seul de ces diviseurs qui soit plus petit que $p$ et que $q$ est $1$. Donc
 
 $$p + q - r = 1 \qquad \text{et} \qquad p + q + r = pq.$$
 

@@ -1,7 +1,7 @@
 ---
 id: "12878"
 title: "Une inégalité qui cache des carrés"
-grade: 10
+grade: 9
 theme: algebra
 difficulty: 4
 duration_min: 40

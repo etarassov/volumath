@@ -1,11 +1,11 @@
 ---
 id: "8822"
 title: "p²(p³ − 1) = q(q + 1)"
-grade: 12
+grade: 10
 theme: arithmetic
-difficulty: 5
+difficulty: 4
 duration_min: 50
-tags: [nombres-premiers, lemme-de-gauss, divisibilite, encadrement, equation-entiere]
+tags: [nombres-premiers, divisibilite, encadrement, equation-entiere, decomposition-en-facteurs-premiers]
 adapted_from: null
 see_also: []
 same_as: []
@@ -26,8 +26,8 @@ $$p^2\left(p^3 - 1\right) = q\,(q+1) .$$
 ## Hints
 
 1. Commence par écarter le cas $p = q$ : l'équation devient alors une égalité entre deux puissances de $p$ que l'on compare facilement.
-2. Une fois $p \neq q$ acquis, $p$ et $q$ sont deux nombres premiers distincts, donc premiers entre eux, et $p^2$ est premier avec $q$.
-3. Le lemme de Gauss appliqué deux fois donne deux divisibilités : l'une dit que $p^2$ divise $q+1$, l'autre que $q$ divise $p^3-1$. Écris-les.
+2. Une fois $p \neq q$ acquis, $p$ et $q$ sont deux nombres premiers distincts. Pense à la décomposition en facteurs premiers de chacun des deux membres.
+3. Le facteur premier $q$ apparaît dans la décomposition de $p^2(p^3-1)$, mais pas dans celle de $p^2$. Le facteur $p$ apparaît deux fois dans celle de $q(q+1)$, mais pas dans celle de $q$. Tu obtiens deux divisibilités : l'une dit que $q$ divise $p^3-1$, l'autre que $p^2$ divise $q+1$.
 4. Factorise $p^3 - 1$. Comme $q$ est premier, il divise l'un des deux facteurs. Traite les deux cas.
 5. Dans chaque cas, compare les tailles : $q+1$ est un multiple de $p^2$, donc $q$ est grand, alors que la divisibilité obtenue le rend petit.
 
@@ -41,14 +41,16 @@ En divisant par $p$ (non nul) : $p^4 - p = p + 1$, donc $p^4 = 2p + 1$. Or pour 
 $$p^4 = p \cdot p^3 \geqslant 8p > 2p + 1 .$$
 Il n'y a donc pas de solution avec $p = q$.
 
-Ainsi $p$ et $q$ sont deux nombres premiers **distincts** : ils sont premiers entre eux, et $p^2$ est premier avec $q$.
+Ainsi $p$ et $q$ sont deux nombres premiers **distincts**.
 
 ### Étape 2 : deux divisibilités
 
-L'équation dit que $q$ divise $p^2(p^3-1)$. Comme $q$ est premier avec $p^2$, le **lemme de Gauss** donne
+On utilise la décomposition en facteurs premiers. Celle d'un produit s'obtient en mettant bout à bout celles des facteurs.
+
+L'équation dit que $q$ divise $p^2(p^3-1)$, donc le nombre premier $q$ apparaît dans la décomposition de ce produit. La décomposition de $p^2$ ne contient que le facteur $p$, qui est différent de $q$. Le facteur $q$ vient donc de la décomposition de $p^3 - 1$ :
 $$q \mid p^3 - 1 . \qquad (1)$$
 
-De même, $p^2$ divise $q(q+1)$, et $p^2$ est premier avec $q$, donc
+De même, $p^2$ divise $q(q+1)$, donc le facteur $p$ apparaît au moins deux fois dans la décomposition de ce produit. La décomposition de $q$ est réduite au seul facteur $q$, qui est différent de $p$. Les deux facteurs $p$ viennent donc de la décomposition de $q+1$ :
 $$p^2 \mid q+1 .$$
 Il existe donc un entier $k \geqslant 1$ tel que
 $$q + 1 = k p^2 . \qquad (2)$$
@@ -57,7 +59,7 @@ $$q + 1 = k p^2 . \qquad (2)$$
 
 Factorisons :
 $$p^3 - 1 = (p-1)\left(p^2+p+1\right).$$
-Comme $q$ est premier et divise ce produit, le lemme d'Euclide donne
+Comme $q$ est premier et divise ce produit, il apparaît dans sa décomposition en facteurs premiers, donc dans celle de $p - 1$ ou dans celle de $p^2 + p + 1$ :
 $$q \mid p - 1 \qquad \text{ou} \qquad q \mid p^2+p+1 .$$
 
 **Premier cas : $q \mid p-1$.** Alors $q \leqslant p-1$. Mais d'après $(2)$, $q = kp^2 - 1 \geqslant p^2 - 1$. Il faudrait donc

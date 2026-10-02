@@ -1,9 +1,9 @@
 ---
 id: "12822"
 title: "Les 200 boîtes d'Alice"
-grade: 10
+grade: 9
 theme: combinatorics
-difficulty: 4
+difficulty: 5
 duration_min: 40
 tags: [processus, monovariant, raisonnement-par-l-absurde, principe-extremal]
 adapted_from: null

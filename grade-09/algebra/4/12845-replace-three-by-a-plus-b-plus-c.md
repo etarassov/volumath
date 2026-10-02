@@ -1,9 +1,9 @@
 ---
 id: "12845"
 title: "Remplacer 3 par a + b + c"
-grade: 10
+grade: 9
 theme: algebra
-difficulty: 3
+difficulty: 4
 duration_min: 25
 tags: [inegalite, fractions, identites-remarquables, factorisation]
 adapted_from: null
@@ -61,6 +61,8 @@ $$\frac{a}{b} + \frac{b}{a} - 2 = \frac{a^2 + b^2 - 2ab}{ab} = \frac{(a - b)^2}{
 Comme $c \geq 0$, on peut multiplier cette inégalité par $c$ : $c\,(a/b + b/a) \geq 2c$. Donc
 
 $$\Delta \geq 3 - c + 2c - 4c^2 = 3 + c - 4c^2 = (1 - c)(3 + 4c).$$
+
+La dernière égalité se vérifie en développant : $(1 - c)(3 + 4c) = 3 + 4c - 3c - 4c^2 = 3 + c - 4c^2$.
 
 Or $1 - c \geq 0$, car $c \leq 1$, et $3 + 4c > 0$. Donc $\Delta \geq 0$, **ce qui démontre l'inégalité.**
 

@@ -1,11 +1,11 @@
 ---
 id: "7452"
 title: "Compter les solutions d'une équation de fractions"
-grade: 11
+grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [equation-diophantienne, diviseurs, factorisation, denombrement]
+tags: [equation-diophantienne, diviseurs, factorisation, denombrement, nombre-de-diviseurs, decomposition-en-facteurs-premiers]
 adapted_from: null
 see_also: ["7856"]
 same_as: []
@@ -69,7 +69,9 @@ Donc $u > 0$ et $v > 0$.
 Chaque couple $(x, y)$ solution donne un couple d'entiers strictement positifs $(u, v)$ avec
 $uv = N^2$, et réciproquement : si $u$ et $v$ sont deux entiers strictement positifs de produit
 $N^2$, alors $x = N + u$ et $y = N + v$ sont strictement positifs et on remonte les calculs pour
-retrouver $\dfrac1x + \dfrac1y = \dfrac1N$. La correspondance est bijective.
+retrouver $\dfrac1x + \dfrac1y = \dfrac1N$. Ainsi, à chaque solution $(x, y)$ correspond un
+seul couple $(u, v)$, et à chaque couple $(u, v)$ correspond une seule solution : il y a autant
+de solutions que de couples.
 
 Or se donner un couple $(u, v)$ d'entiers strictement positifs avec $uv = N^2$, c'est exactement
 se donner un diviseur $u$ de $N^2$ : le second facteur $v = N^2/u$ est alors imposé.

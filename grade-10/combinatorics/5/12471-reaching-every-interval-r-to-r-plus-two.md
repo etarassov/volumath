@@ -82,7 +82,9 @@ réel tel que $0 \leqslant r \leqslant s_k$. On sépare trois cas.
   $$r = \delta + x_k \leqslant \sigma + x_k \leqslant \delta + x_k + 2 = r + 2.$$
 
 Ces trois cas couvrent tous les réels $r$ entre $0$ et $s_k$. Donc $\mathcal{P}(k)$ est vraie. Par
-récurrence, $\mathcal{P}(k)$ est vraie pour tout $k$ entre $0$ et $n$.
+récurrence, $\mathcal{P}(k)$ est vraie pour tout $k$ entre $0$ et $n$. Autrement dit, la propriété est
+vraie pour $k = 0$, et chaque fois qu'elle est vraie pour un entier, elle l'est aussi pour le suivant. De
+proche en proche, elle est donc vraie pour $k = 0, 1, 2, \ldots$ et ainsi de suite jusqu'à $n$.
 
 ### Conclusion
 

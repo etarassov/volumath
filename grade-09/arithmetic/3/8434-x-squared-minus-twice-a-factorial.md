@@ -1,9 +1,9 @@
 ---
 id: "8434"
 title: "x² − 2 × y! = 2021"
-grade: 11
+grade: 9
 theme: arithmetic
-difficulty: 4
+difficulty: 3
 duration_min: 30
 tags: [factorielle, congruences, carres, equation-en-entiers, cas-a-traiter]
 adapted_from: null
@@ -34,6 +34,14 @@ $$x^2 - 2 \times y! = 2021.$$
 4. Il ne reste alors que quelques valeurs de $y$ à examiner une par une. Pour chacune, il suffit de voir si un certain nombre est un carré parfait.
 
 ## Solution
+
+### Un rappel sur les restes
+
+On écrit $a \equiv b \pmod m$, et on lit « $a$ est congru à $b$ modulo $m$ », quand $a - b$ est un multiple de $m$. Pour $a$ et $b$ positifs, cela veut dire que $a$ et $b$ ont le même reste dans la division par $m$. Par exemple $26 \equiv 2 \pmod 8$, car $26 - 2 = 24 = 3 \times 8$.
+
+On peut ajouter et multiplier ces relations comme des égalités : si $a \equiv b$ et $c \equiv d \pmod m$, alors $a + c \equiv b + d$ et $ac \equiv bd \pmod m$. En multipliant plusieurs fois, $a \equiv b$ donne $a^n \equiv b^n \pmod m$.
+
+En pratique : pour connaître le reste d'une somme ou d'une puissance, on peut remplacer chaque nombre par son reste, ou par un nombre plus simple qui lui est congru. Dans le tableau plus bas, $x \bmod 8$ désigne le reste de $x$ dans la division par $8$.
 
 ### Étape 1. Éliminer les grandes valeurs de $y$
 

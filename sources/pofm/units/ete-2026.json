@@ -193,13 +193,6 @@
    "where": "Groupe B, entraînement de fin de parcours, ex. 2"
   },
   {
-   "id": "8927",
-   "grade": 12,
-   "theme": "arithmetic",
-   "difficulty": 5,
-   "where": "Groupe B, entraînement de fin de parcours, ex. 3"
-  },
-  {
    "id": "8928",
    "grade": 11,
    "theme": "combinatorics",
@@ -431,7 +424,14 @@
    "reason": "comptes rendus d'exposés (théorème du road coloring, olympiade de linguistique) ; aucun exercice réutilisable"
   }
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "8927",
+   "survivor": "11804",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : même problème que 11804 (grade-10/arithmetic/4/11804-two-to-the-x-plus-three-to-the-y-is-a-square.md). Placé en Terminale, il relève en fait de la 2de, où 11804 le pose déjà : une fois déplacé, il aurait été un doublon au même niveau. Repéré lors de la revue des niveaux qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": [
   "Coupe Animath de printemps 2026 (p. 17-42) entièrement dépouillée.",
   "Entraînements de mi-parcours et de fin de parcours des groupes A, B et C entièrement dépouillés.",
@@ -443,7 +443,7 @@
   "Groupe C, « Combinatoire : Double Comptage » (p. 377-388) : les douze premiers exercices passés en revue, aucun retenu, tout est déjà dans la base.",
   "Reprendre à : Groupe B « Combinatoire : Grilles » ex. 2 à 8 (p. 278-290, nécessitent de lire les figures), Groupe B « Ordre multiplicatif 1 » (p. 269) et « Équations diophantiennes » (p. 296), les cours du Groupe C au-delà de leurs ouvertures (Polynômes p. 316 et 334, Problèmes de taille p. 321, Restes chinois p. 349, Récurrence ex. 8 à 20, Invariants ex. 7 et suivants), et les ouvertures des cours du Groupe D (p. 444 et suivantes)."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-10-02",
  "files": [
   {
    "file": "Poly-Valbonne-2026.pdf",

@@ -5,7 +5,7 @@ grade: 8
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [parite, restes, division-euclidienne, entiers-consecutifs, somme-des-entiers, absurde]
+tags: [parite, restes, division-euclidienne, entiers-consecutifs, somme-des-entiers, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
 same_as: ["7322"]
@@ -39,7 +39,7 @@ On dispose de $100$ cartes. Sur chacune sont écrits deux entiers consécutifs, 
 
 **Étape 1. Les cartes sont forcément $\{1, 2\}$, $\{3, 4\}$, $\{5, 6\}$, etc.**
 
-Le nombre $1$ est écrit sur une carte, à côté d'un entier consécutif, donc de $0$ ou de $2$. Comme $0$ n'est écrit sur aucune carte, la carte qui porte $1$ est la carte $\{1, 2\}$.
+Le nombre $1$ est écrit sur une carte, à côté d'un entier consécutif, donc de $0$ ou de $2$. Les $100$ cartes portent en tout $200$ nombres, et les $200$ entiers de $1$ à $200$ y figurent chacun une fois : ils occupent toutes les places, donc aucun autre nombre n'est écrit sur les cartes. En particulier, $0$ n'est écrit sur aucune carte. Ainsi la carte qui porte $1$ est la carte $\{1, 2\}$.
 
 Le nombre $3$ est écrit à côté de $2$ ou de $4$. Le nombre $2$ est déjà sur la carte $\{1, 2\}$, et chaque nombre n'est écrit qu'une fois, donc la carte qui porte $3$ est $\{3, 4\}$. De la même façon, la carte qui porte $5$ est $\{5, 6\}$, et ainsi de suite jusqu'à la carte $\{199, 200\}$.
 

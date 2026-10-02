@@ -8,11 +8,11 @@ duration_min: 45
 tags: [equation-diophantienne, puissances, restes, factorisation, carres]
 adapted_from: null
 see_also: []
-same_as: ["8927"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 5 (pot-pourri)"
-  reference: "2020-02_sujet-envoi-5.pdf, Exercices Juniors, exercice 6 ; corrigé 2020-04_corrige-commente-envoi-5.pdf"
+  reference: "2020-02_sujet-envoi-5.pdf, Exercices Juniors, exercice 6 ; corrigé 2020-04_corrige-commente-envoi-5.pdf. Le même problème figure aussi dans Poly-Valbonne-2026.pdf, chapitre IV « Groupe B », entraînement de fin de parcours, exercice 3."
   url: "https://maths-olympiques.fr/wp-content/uploads/2020/02/sujet-envoi-5.pdf"
   original_language: "fr"
   local_copy: "sources/originals/pofm-envois/2020-02_sujet-envoi-5.pdf"

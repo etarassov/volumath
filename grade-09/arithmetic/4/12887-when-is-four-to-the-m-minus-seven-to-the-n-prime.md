@@ -1,9 +1,9 @@
 ---
 id: "12887"
 title: "Quand |4ᵐ − 7ⁿ| est-il premier ?"
-grade: 10
+grade: 9
 theme: arithmetic
-difficulty: 3
+difficulty: 4
 duration_min: 30
 tags: [nombres-premiers, puissances, restes, divisibilite, valeur-absolue]
 adapted_from: null
@@ -21,6 +21,8 @@ source:
 ## Statement
 
 Déterminer tous les couples $(m, n)$ d'entiers strictement positifs tels que le nombre $|4^m - 7^n|$ est un nombre premier.
+
+On rappelle que $|x|$ désigne la distance entre $x$ et $0$ : $|3| = |-3| = 3$. Ainsi $|4^m - 7^n|$ est l'écart entre $4^m$ et $7^n$, c'est-à-dire le plus grand des deux moins le plus petit.
 
 ## Hints
 

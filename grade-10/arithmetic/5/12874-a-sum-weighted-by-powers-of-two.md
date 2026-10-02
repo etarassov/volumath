@@ -69,6 +69,8 @@ Soit $y_1 < y_2 < \cdots < y_n$ des entiers strictement positifs deux à deux di
 
 $$y_1 + y_2 + \cdots + y_n \geq 1 + 2 + \cdots + n = \frac{n(n + 1)}{2}.$$
 
+Pour la dernière égalité, on écrit la somme $1 + 2 + \cdots + n$ deux fois, une fois dans l'ordre croissant et une fois dans l'ordre décroissant, et on additionne terme à terme : $1 + n$, $2 + (n - 1)$, et ainsi de suite. On obtient $n$ fois $n + 1$, donc deux fois la somme vaut $n(n + 1)$.
+
 D'après la partie précédente, **on a toujours $S \geq n(n + 1)/2$.**
 
 ### La valeur est atteinte

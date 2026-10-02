@@ -1,7 +1,7 @@
 ---
 id: "7856"
 title: "1/x + 1/y = 1/p a exactement trois solutions"
-grade: 11
+grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 30
@@ -63,7 +63,9 @@ $$p^2 = ab .$$
 **Étape 3 : on compte les factorisations.**
 
 Il s'agit donc d'écrire $p^2$ comme produit de deux entiers strictement positifs $a$ et $b$.
-Comme $p$ est premier, les diviseurs positifs de $p^2$ sont exactement
+Comme $p$ est premier, la décomposition en facteurs premiers de $p^2 = p \times p$ ne contient
+que deux fois le facteur $p$. Un diviseur positif de $p^2$ ne peut donc contenir que $0$, $1$ ou
+$2$ fois ce facteur, et les diviseurs positifs de $p^2$ sont exactement
 $$1, \quad p, \quad p^2 ,$$
 et à chaque choix de $a$ correspond exactement un $b = \dfrac{p^2}{a}$. Il y a donc exactement
 **trois** couples :
@@ -76,6 +78,11 @@ $$(a, b) = (1,\ p^2), \qquad (p,\ p), \qquad (p^2,\ 1) .$$
 | $(1, p^2)$ | $p + 1$ | $p^2 + p$ |
 | $(p, p)$ | $2p$ | $2p$ |
 | $(p^2, 1)$ | $p^2 + p$ | $p + 1$ |
+
+Réciproquement, ces trois couples sont bien des solutions, pour tout nombre premier $p$ :
+$$\frac{1}{p+1} + \frac{1}{p(p+1)} = \frac{p}{p(p+1)} + \frac{1}{p(p+1)} = \frac{p+1}{p(p+1)} = \frac{1}{p}
+\qquad \text{et} \qquad \frac{1}{2p} + \frac{1}{2p} = \frac{2}{2p} = \frac{1}{p} .$$
+Le troisième couple est le premier, dans l'autre ordre.
 
 **Conclusion.** L'équation admet exactement trois solutions :
 $$(x,y) = \left(p+1,\ p^2+p\right), \quad (2p,\ 2p), \quad \left(p^2+p,\ p+1\right).$$

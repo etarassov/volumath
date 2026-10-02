@@ -1,11 +1,11 @@
 ---
 id: "12037"
 title: "BE = CD : un point sur la bissectrice, un point sur le cercle"
-grade: 12
+grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 90
-tags: [hors-programme, cercle-circonscrit, cocyclicite, bissectrice, rotation, angles-orientes, coordonnees]
+tags: [cercle-circonscrit, cocyclicite, bissectrice, rotation, angles-orientes, coordonnees]
 adapted_from: null
 see_also: []
 same_as: []
@@ -38,7 +38,7 @@ Montrer que :
 
 ## Solution
 
-**Rappel.** Cette solution utilise deux outils qui ne sont pas au programme du lycée.
+**Rappel.** Cette solution utilise deux outils. Le premier, les angles orientés de droites, n'est pas au programme : on le présente ici. Le second, les rotations, a été vu au collège : on rappelle les propriétés qui servent.
 
 - *Angles orientés de droites.* Pour deux droites $d_1$ et $d_2$, on note $(d_1, d_2)$ l'angle dont il faut tourner $d_1$, dans le sens direct, pour la rendre parallèle à $d_2$. Il est défini à un multiple de $180^\circ$ près, et il vérifie la relation de Chasles $(d_1, d_2) + (d_2, d_3) = (d_1, d_3)$. On écrit $(MX, MY)$ pour l'angle des droites $(MX)$ et $(MY)$. Le théorème de l'angle inscrit devient alors, sans aucune discussion de figure : *si $M$, $N$, $X$, $Y$ sont quatre points distincts et si $M$, $X$, $Y$ ne sont pas alignés, alors ces quatre points sont sur un même cercle si et seulement si $(MX, MY) = (NX, NY)$.*
 - *Rotations.* Une rotation $\rho$ de centre $O$ et d'angle $\theta$ conserve les distances et envoie le milieu d'un segment sur le milieu du segment image. Pour tout point $X \neq O$, l'angle orienté de vecteurs de $\overrightarrow{OX}$ vers $\overrightarrow{O\rho(X)}$ vaut $\theta$. Un demi-tour, c'est-à-dire une rotation d'angle $180^\circ$, envoie toute droite sur une droite parallèle. Enfin, si deux droites $\Delta$ et $\Delta'$ se coupent en $O$, la symétrie d'axe $\Delta$ suivie de la symétrie d'axe $\Delta'$ est une rotation de centre $O$.
@@ -114,7 +114,15 @@ De même, $M$ est sur la perpendiculaire à $(QL)$ en $L$ si et seulement si
 
 $$x\,(q - l\cos\alpha) + l\sin\alpha \cdot y = l\,(m - l) .$$
 
-Or $m - k = (AD - AE)/2$ et $m - l = (AE - AD)/2$. Posons $w = (AE - AD)/2$, de sorte que $m - k = -w$ et $m - l = w$. Le point $x = 0$, $y = w/\sin\alpha$ vérifie les deux équations : la première devient $-k\,w = -k\,w$, la seconde $l\,w = l\,w$. Les deux perpendiculaires se coupent en un seul point, qui est $R$ par définition. Donc $R = (0, h)$ avec
+Or $m - k = (AD - AE)/2$ et $m - l = (AE - AD)/2$. Posons $w = (AE - AD)/2$, de sorte que $m - k = -w$ et $m - l = w$. Le point $x = 0$, $y = w/\sin\alpha$ vérifie les deux équations : la première devient $-k\,w = -k\,w$, la seconde $l\,w = l\,w$. Ce système n'a pas d'autre solution, car son déterminant n'est pas nul. Il vaut
+
+$$(q - k\cos\alpha)\, l\sin\alpha + k\sin\alpha\,(q - l\cos\alpha) = \sin\alpha\,(q(k + l) - 2kl\cos\alpha) .$$
+
+Or $k + l = (AE + AB + AD + AC)/2 = 2m$, et $q = m/\cos\alpha$. Le déterminant vaut donc
+
+$$\frac{2\sin\alpha}{\cos\alpha}\,(m^2 - kl\cos^2\alpha) .$$
+
+Il est strictement positif : $\sin\alpha > 0$ et $\cos\alpha > 0$, puis $m^2 - kl = (k - l)^2/4 \geqslant 0$, et $kl\cos^2\alpha < kl$ car $kl > 0$ et $\cos^2\alpha < 1$. Les deux perpendiculaires se coupent donc en un seul point, qui est $R$ par définition. Donc $R = (0, h)$ avec
 
 $$h = \frac{w}{\sin\alpha} = \frac{AE - AD}{2\sin\alpha} = \frac{AB - AC}{2\sin\alpha} ,$$
 

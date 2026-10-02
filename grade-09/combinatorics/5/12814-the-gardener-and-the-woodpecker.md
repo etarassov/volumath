@@ -1,7 +1,7 @@
 ---
 id: "12814"
 title: "Le jardinier et le pivert"
-grade: 10
+grade: 9
 theme: combinatorics
 difficulty: 5
 duration_min: 50

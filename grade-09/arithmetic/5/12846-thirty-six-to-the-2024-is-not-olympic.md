@@ -1,9 +1,9 @@
 ---
 id: "12846"
 title: "36²⁰²⁴ n'est pas olympique"
-grade: 10
+grade: 9
 theme: arithmetic
-difficulty: 4
+difficulty: 5
 duration_min: 45
 tags: [restes, carres, parite, puissances, descente-infinie]
 adapted_from: null

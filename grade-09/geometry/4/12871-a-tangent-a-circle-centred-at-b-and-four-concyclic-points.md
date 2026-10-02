@@ -1,18 +1,18 @@
 ---
 id: "12871"
 title: "Une tangente, un cercle de centre B et quatre points cocycliques"
-grade: 10
+grade: 9
 theme: geometry
-difficulty: 3
+difficulty: 4
 duration_min: 30
-tags: [tangente, triangle-isocele, cercle-circonscrit, cercle-de-diametre, cocyclicite, chasse-aux-angles, coordonnees]
+tags: [tangente, triangle-isocele, cercle-circonscrit, cercle-de-diametre, cocyclicite, chasse-aux-angles, symetrie-axiale, losange]
 adapted_from: null
 see_also: []
 same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 15 janvier 2025"
-  reference: "2025-10_Sujet-Test-2-2024-2025.pdf, test junior, exercice 1 ; corrigé 2025-10_Corrige-Test-2-2024-2025.pdf (on suit la solution alternative n° 1 ; la seconde preuve, par les coordonnées, est ajoutée ici)"
+  reference: "2025-10_Sujet-Test-2-2024-2025.pdf, test junior, exercice 1 ; corrigé 2025-10_Corrige-Test-2-2024-2025.pdf (on suit la solution alternative n° 1 ; la seconde preuve, par une symétrie, est ajoutée ici)"
   url: "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-2-2024-2025.pdf"
   original_language: "fr"
   local_copy: "sources/originals/pofm-tests/2025-10_Sujet-Test-2-2024-2025.pdf"
@@ -57,10 +57,10 @@ $$\widehat{OAE} + \widehat{BAD} = \widehat{OAE} + \widehat{EAB} = \widehat{OAB} 
 
 ### L'angle en G
 
-Sur la figure, le point $E$ est entre $O$ et $G$, et le point $G$ est sur le segment $[DB]$. On regarde le triangle $EGD$.
+Sur la figure, le point $E$ est entre $O$ et $G$, et le point $G$ est sur la demi-droite $[DB)$. On regarde le triangle $EGD$.
 
 - Les droites $(OG)$ et $(AD)$ se coupent en $E$, donc les angles $\widehat{GED}$ et $\widehat{OEA}$ sont opposés par le sommet : $\widehat{GED} = \widehat{OEA} = \widehat{OAE}$.
-- Comme $E$ est sur $[DA]$ et $G$ sur $[DB]$, on a $\widehat{EDG} = \widehat{ADB} = \widehat{BAD}$.
+- Comme $E$ est sur $[DA]$ et $G$ sur $[DB)$, on a $\widehat{EDG} = \widehat{ADB} = \widehat{BAD}$.
 
 La somme des angles du triangle $EGD$ vaut $180^\circ$, donc
 
@@ -74,16 +74,12 @@ Les triangles $OAB$ et $OGB$ sont rectangles en $A$ et en $G$. Les points $A$ et
 
 ### Une autre preuve, qui ne dépend pas de la figure
 
-La preuve ci-dessus lit plusieurs positions sur la figure (quel point est entre quels autres). Voici une preuve par le calcul qui s'en passe. On se place dans un repère orthonormé d'origine $A$, dont l'axe des abscisses est la droite $(AE)$. On note $O(p\,;q)$ et $B(b\,;c)$.
+La preuve ci-dessus lit plusieurs positions sur la figure (quel point est entre quels autres). En voici une qui s'en passe. Les points $A$, $E$ et $D$ sont sur une même droite, la droite $(AE)$. On note $s$ la symétrie d'axe $(AE)$. Elle laisse $A$ et $E$ en place, et elle conserve les distances et les angles.
 
-- Le point $E$ est sur l'axe des abscisses, et $OA = OE$, donc $O$ est sur la médiatrice de $[AE]$. Cette médiatrice est la droite verticale qui passe par le milieu de $[AE]$, donc ce milieu a pour abscisse $p$, et $E(2p\,;0)$.
-- De même, $BA = BD$ et $D$ est sur l'axe des abscisses, donc $D(2b\,;0)$.
+- Soit $O'$ le symétrique de $O$. On a $O'A = OA$ et $O'E = OE$, et $OA = OE$ : le quadrilatère $AOEO'$ a ses quatre côtés égaux, c'est un losange. Ses côtés opposés $[AO']$ et $[OE]$ sont donc parallèles. (Si $O$ est sur la droite $(AE)$, alors $O' = O$, et les droites $(AO')$ et $(OE)$ sont toutes les deux la droite $(AE)$.)
+- Soit $B'$ le symétrique de $B$. Comme $BA = BD$, on obtient de même que $ABDB'$ est un losange, donc $(AB')$ est parallèle à $(BD)$.
 
-On en déduit les coordonnées de quatre vecteurs :
-
-$$\overrightarrow{AO}(p\,;q), \qquad \overrightarrow{OE}(p\,;-q), \qquad \overrightarrow{AB}(b\,;c), \qquad \overrightarrow{BD}(b\,;-c).$$
-
-La symétrie par rapport à l'axe des abscisses change le vecteur de coordonnées $(x\,;y)$ en celui de coordonnées $(x\,;-y)$. Elle envoie donc $\overrightarrow{AO}$ sur $\overrightarrow{OE}$, et $\overrightarrow{AB}$ sur $\overrightarrow{BD}$. Une symétrie conserve les angles. Comme les droites $(AO)$ et $(AB)$ sont perpendiculaires, les droites $(OE)$ et $(BD)$ le sont aussi, quelle que soit la figure. On conclut comme plus haut.
+La symétrie $s$ envoie les droites $(AO)$ et $(AB)$, qui sont perpendiculaires, sur les droites $(AO')$ et $(AB')$, qui sont donc perpendiculaires elles aussi. Les droites $(OE)$ et $(BD)$ leur sont parallèles, donc elles sont perpendiculaires, quelle que soit la figure. On conclut comme plus haut.
 
 ## Going further
 

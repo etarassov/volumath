@@ -5,7 +5,7 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercle, angle-inscrit, points-cocycliques, parallelogramme, point-fantome, alignement]
+tags: [cercle, angle-inscrit, cocyclicite, parallelogramme, point-fantome, alignement]
 adapted_from: null
 see_also: []
 same_as: []

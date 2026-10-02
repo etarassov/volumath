@@ -1,11 +1,11 @@
 ---
 id: "10815"
 title: "2a⁴ + 2a²b² + b⁴ = c² n'a pas de solution avec a non nul"
-grade: 12
+grade: 11
 theme: arithmetic
 difficulty: 5
 duration_min: 90
-tags: [triplet-pythagoricien, descente-infinie, congruences, pgcd, puissances, maths-expertes]
+tags: [triplet-pythagoricien, descente-infinie, congruences, pgcd, puissances]
 adapted_from: null
 see_also: []
 same_as: []
@@ -65,7 +65,11 @@ Soit $d = \mathrm{PGCD}(a, b)$, et $a = d\,a'$, $b = d\,b'$. Alors $c^2 = d^4 \l
 
 ### Étape 3 : $a$ est pair et $b$ impair
 
-Rappelons qu'un carré est congru à $0$, $1$ ou $4$ modulo $8$, et qu'un carré impair est congru à $1$. Supposons $a$ impair : $a^2 \equiv 1$ et $a^4 \equiv 1 \pmod 8$.
+On écrit $x \equiv y \pmod 8$, et on dit que $x$ est congru à $y$ modulo $8$, quand $x$ et $y$ ont le même reste dans la division par $8$, c'est-à-dire quand $x - y$ est un multiple de $8$. Ces relations s'additionnent et se multiplient comme des égalités : si $x - y$ et $x' - y'$ sont des multiples de $8$, alors $(x + x') - (y + y')$ en est un, et $xx' - yy' = x(x' - y') + y'(x - y)$ aussi. On utilisera plus bas la même notation modulo $4$.
+
+Un carré pair s'écrit $(2k)^2 = 4k^2$ : il est congru à $0$ modulo $8$ si $k$ est pair, et à $4$ si $k$ est impair. Un carré impair s'écrit $(2k + 1)^2 = 4k(k + 1) + 1$. L'un des deux nombres $k$ et $k + 1$ est pair, donc $4k(k + 1)$ est un multiple de $8$, et un carré impair est congru à $1$ modulo $8$.
+
+Supposons $a$ impair : $a^2 \equiv 1$ et $a^4 \equiv 1 \pmod 8$.
 
 - Si $b$ est pair, $b^2 \equiv 0$ ou $4$, donc $2a^2b^2 \equiv 2b^2 \equiv 0$ et $b^4 \equiv 0 \pmod 8$. La somme vaut $2 + 0 + 0 = 2 \pmod 8$.
 - Si $b$ est impair, la somme vaut $2 + 2 + 1 = 5 \pmod 8$.

@@ -8,11 +8,11 @@ duration_min: 20
 tags: [principe-des-tiroirs, sous-ensembles, somme, restes, divisibilite]
 adapted_from: null
 see_also: []
-same_as: ["7740"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 5 (pot-pourri)"
-  reference: "2022-03_sujet-envoi-5.pdf, Exercices Juniors, exercice 4 ; corrigé 2022-05_corrige-envoi-5.pdf"
+  reference: "2022-03_sujet-envoi-5.pdf, Exercices Juniors, exercice 4 ; corrigé 2022-05_corrige-envoi-5.pdf. Le même problème, avec 2014 au lieu de 2021, figure aussi dans stage_ete_2014.pdf, « Groupe B : logique et stratégies de base », mercredi 20 matin (Alix Deleporte), exercice 16."
   url: "https://maths-olympiques.fr/wp-content/uploads/2022/03/sujet-envoi-5.pdf"
   original_language: "fr"
   local_copy: "sources/originals/pofm-envois/2022-03_sujet-envoi-5.pdf"
@@ -36,7 +36,7 @@ Aurélien écrit $11$ entiers naturels au tableau. Montrer qu'il peut choisir ce
 
 **Construire l'expression.** Un entier qui appartient à la fois à $S$ et à $T$ apparaît dans les deux sommes et disparaît de la différence. Il reste
 
-$$s(S) - s(T) = \Big(\text{somme des entiers de } S \text{ qui ne sont pas dans } T\Big) - \Big(\text{somme des entiers de } T \text{ qui ne sont pas dans } S\Big).$$
+$$s(S) - s(T) = (\text{somme des entiers de } S \text{ qui ne sont pas dans } T) - (\text{somme des entiers de } T \text{ qui ne sont pas dans } S).$$
 
 Aurélien choisit donc les entiers qui sont dans une seule des deux parties : il met un signe $+$ devant ceux de $S$ et un signe $-$ devant ceux de $T$. Comme $S \neq T$, il choisit au moins un entier.
 

@@ -131,8 +131,10 @@ sont de part et d'autre de la droite $(AB)$.
 
 Les points $P$ et $C$ sont de part et d'autre de $(AB)$, et
 $$\widehat{APB} + \widehat{ACB} = 120^\circ + 60^\circ = 180^\circ.$$
-D'après la réciproque du théorème de l'angle inscrit (deux angles opposés supplémentaires), les
-points $A$, $P$, $B$, $C$ sont sur un même cercle. **Le point $P$ est sur le cercle circonscrit au
+On utilise la réciproque du théorème de l'angle inscrit, sous la forme suivante : si deux points $P$
+et $C$ sont de part et d'autre d'une droite $(AB)$ et si $\widehat{APB} + \widehat{ACB} = 180^\circ$, alors
+les quatre points $A$, $P$, $B$, $C$ sont sur un même cercle. Les points $A$, $P$, $B$, $C$ sont donc sur un
+même cercle. **Le point $P$ est sur le cercle circonscrit au
 triangle $ABC$**, plus précisément sur l'arc $AB$ qui ne contient pas $C$.
 
 ## Going further

@@ -43,7 +43,6 @@
     "7735",
     "7736",
     "7739",
-    "7740",
     "7741",
     "7742",
     "7743",
@@ -155,6 +154,12 @@
       "survivor": "8528",
       "date": "2026-09-30",
       "why": "Retiré le 2026-09-30 : même problème que 8528 (grade-11/algebra/4/8528-erase-two-numbers-and-write-a-plus-b-plus-ab.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "7740",
+      "survivor": "11832",
+      "date": "2026-10-02",
+      "why": "Retiré le 2026-10-02 : même problème que 11832 (grade-09/combinatorics/3/11832-eleven-integers-signs-and-a-multiple-of-2021.md), avec 2014 au lieu de 2021 et des entiers quelconques au lieu d'entiers naturels, ce qui ne change rien à la preuve. Placé en 1re, il relève en fait de la 3e, où 11832 le pose déjà : une fois déplacé, il aurait été un doublon au même niveau. Repéré lors de la revue des niveaux qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
     }
   ],
   "notes": [
@@ -164,7 +169,7 @@
     "Seuls les exercices resolus par un eleve pendant le stage ont une solution imprimee dans la muraille; les autres n'en ont aucune.",
     "REPRISE: (1) La muraille, exercices 86 a 136; (2) les premiers exercices des cours des groupes B, C et D (p. 150-480), seulement echantillonnes; (3) le test de fin de parcours des groupes B, C, D."
   ],
-  "updated": "2026-09-30",
+  "updated": "2026-10-02",
   "files": [
     {
       "file": "stage_ete_2014.pdf",

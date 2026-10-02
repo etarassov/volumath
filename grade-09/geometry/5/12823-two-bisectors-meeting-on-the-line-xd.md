@@ -1,7 +1,7 @@
 ---
 id: "12823"
 title: "Deux bissectrices qui se coupent sur (XD)"
-grade: 10
+grade: 9
 theme: geometry
 difficulty: 5
 duration_min: 60

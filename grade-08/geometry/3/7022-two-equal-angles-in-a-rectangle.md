@@ -1,7 +1,7 @@
 ---
 id: "7022"
 title: "Deux angles égaux dans un rectangle"
-grade: 10
+grade: 8
 theme: geometry
 difficulty: 3
 duration_min: 30
@@ -33,7 +33,7 @@ Montrer que les angles $\widehat{CGF}$ et $\widehat{FBE}$ sont égaux.
    $\widehat{CGF}$ à l'aide de deux angles que l'on sait lire ailleurs sur la figure.
 2. Les droites $(AB)$ et $(DC)$ sont parallèles : cherche des angles alternes-internes.
 3. Où se trouve $F$ par rapport au segment $[AB]$ ? Que peux-tu dire du triangle $ABF$ ?
-4. Compare les triangles $ABE$ et $DCE$.
+4. Cherche une symétrie de la figure qui échange $A$ et $D$. Que fait-elle des triangles $ABE$ et $DCE$ ?
 
 ## Solution
 
@@ -66,10 +66,13 @@ $$\widehat{AFB} = 180° - 2\,\widehat{ABF} . \qquad (4)$$
 
 **Étape 5 : $\widehat{ECD} = \widehat{ABE}$.**
 
-Comparons les triangles $ABE$ et $DCE$. Ils sont rectangles, l'un en $A$, l'autre en $D$. Or
-$$AE = DE = \frac{AD}{2} \qquad \text{et} \qquad AB = DC .$$
-Ils ont donc deux côtés égaux encadrant l'angle droit : ils sont **isométriques**. Les angles
-opposés au côté $AE$ (respectivement $DE$) sont donc égaux :
+Notons $\Delta$ la droite qui passe par $E$ et qui est parallèle à $(AB)$. Comme $ABCD$ est un
+rectangle, $\Delta$ est perpendiculaire à $(AD)$ et passe par le milieu $E$ de $[AD]$ : c'est la
+médiatrice de $[AD]$. Pour la même raison, c'est aussi la médiatrice de $[BC]$.
+
+La symétrie par rapport à $\Delta$ échange donc $A$ et $D$, échange $B$ et $C$, et laisse $E$
+en place. Elle envoie le triangle $ABE$ sur le triangle $DCE$, et l'angle $\widehat{ABE}$ sur
+l'angle $\widehat{DCE}$. Une symétrie conserve les angles, donc
 $$\widehat{ABE} = \widehat{DCE} = \widehat{ECD} . \qquad (5)$$
 
 **Étape 6 : le calcul final.**
@@ -91,10 +94,11 @@ $$\widehat{ABF} - \widehat{ABE} = \widehat{EBF} .$$
 ## Going further
 
 Deux ingrédients portent toute la démonstration : $F$ est sur la médiatrice de $[AB]$, ce qui
-rend le triangle $ABF$ isocèle (étape 4), et les triangles $ABE$ et $DCE$ sont isométriques
-(étape 5). Les dimensions exactes du rectangle n'interviennent nulle part : le résultat vaut
+rend le triangle $ABF$ isocèle (étape 4), et les triangles $ABE$ et $DCE$ sont symétriques
+l'un de l'autre (étape 5). Les dimensions exactes du rectangle n'interviennent nulle part : le résultat vaut
 pour un rectangle très plat comme pour un rectangle très haut.
 
 Les angles droits, eux, ne servent qu'à l'étape 5. Si l'on remplace le rectangle par un
-parallélogramme quelconque, les triangles $ABE$ et $DCE$ restent-ils isométriques ? Refais le
+parallélogramme quelconque, la droite $\Delta$ est-elle encore un axe de symétrie de la
+figure ? Les angles $\widehat{ABE}$ et $\widehat{DCE}$ restent-ils égaux ? Refais le
 raisonnement pour le savoir.

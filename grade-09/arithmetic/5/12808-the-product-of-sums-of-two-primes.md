@@ -1,9 +1,9 @@
 ---
 id: "12808"
 title: "Le produit des sommes de deux nombres premiers"
-grade: 10
+grade: 9
 theme: arithmetic
-difficulty: 4
+difficulty: 5
 duration_min: 40
 tags: [nombres-premiers, divisibilite, factorielle, parite, restes]
 adapted_from: null

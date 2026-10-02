@@ -1,7 +1,7 @@
 ---
 id: "12888"
 title: "Deux entiers dont le produit plus un est un carré"
-grade: 10
+grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 45

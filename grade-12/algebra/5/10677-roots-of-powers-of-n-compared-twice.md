@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 60
-tags: [inegalite, moyenne-arithmetique-geometrique, exponentielle, somme-cyclique, hors-programme]
+tags: [inegalite, moyenne-arithmetique-geometrique, exponentielle, somme-cyclique, logarithme]
 adapted_from: null
 see_also: []
 same_as: []
@@ -34,11 +34,17 @@ $$\sqrt[b_1]{n^{b_2}} + \sqrt[b_2]{n^{b_3}} + \cdots + \sqrt[b_{n+1}]{n^{b_1}} \
 
 ## Solution
 
-**Rappel.** On utilise l'**inégalité entre moyenne arithmétique et moyenne géométrique**, qui n'est pas au programme du lycée pour plus de deux nombres. Si $x_1, x_2, \ldots, x_n$ sont $n$ réels strictement positifs, alors
+**Rappel.** On utilise l'**inégalité entre moyenne arithmétique et moyenne géométrique** : si $x_1, x_2, \ldots, x_n$ sont $n$ réels strictement positifs, alors
 
 $$\frac{x_1 + x_2 + \cdots + x_n}{n} \geqslant \sqrt[n]{x_1 x_2 \cdots x_n}$$
 
-Pour $n = 2$, c'est l'inégalité $\frac{x + y}{2} \geqslant \sqrt{xy}$, qui vient de $(\sqrt{x} - \sqrt{y})^2 \geqslant 0$. On utilise aussi les règles de calcul sur les puissances à exposant réel : pour un réel $n > 0$, on a $n^{s} \times n^{t} = n^{s + t}$ et $\sqrt[k]{n^{c}} = n^{c/k}$. Enfin, si $n > 1$, la fonction $t \mapsto n^{t}$ est strictement croissante sur $\mathbb{R}$.
+Pour plus de deux nombres, elle n'est pas dans le cours, mais elle se démontre en quelques lignes avec le logarithme. La fonction $g(t) = t - 1 - \ln t$ a pour dérivée $g'(t) = 1 - \frac{1}{t}$, qui est négative pour $0 < t < 1$ et positive pour $t > 1$. Son minimum sur $]0, +\infty[$ est donc $g(1) = 0$ : pour tout $t > 0$, on a $\ln t \leqslant t - 1$, avec égalité seulement pour $t = 1$. Notons $m$ la moyenne des $x_i$, et appliquons cette inégalité à $t = x_i/m$ pour chaque $i$. En additionnant les $n$ inégalités obtenues,
+
+$$\ln\frac{x_1}{m} + \ln\frac{x_2}{m} + \cdots + \ln\frac{x_n}{m} \leqslant \frac{x_1 + x_2 + \cdots + x_n}{m} - n = n - n = 0 .$$
+
+Le membre de gauche vaut $\ln\frac{x_1 x_2 \cdots x_n}{m^n}$. Donc $x_1 x_2 \cdots x_n \leqslant m^n$, et en prenant la racine $n$-ième, c'est l'inégalité annoncée. Il y a égalité seulement si tous les $x_i$ sont égaux à $m$.
+
+On utilise aussi les règles de calcul sur les puissances à exposant réel : pour un réel $n > 0$, on a $n^{s} \times n^{t} = n^{s + t}$ et $\sqrt[k]{n^{c}} = n^{c/k}$. Enfin, si $n > 1$, la fonction $t \mapsto n^{t}$ est strictement croissante sur $\mathbb{R}$.
 
 **Étape 1. Le cas $n = 1$.**
 

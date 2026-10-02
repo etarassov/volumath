@@ -1,7 +1,7 @@
 ---
 id: "12802"
 title: "Un parallélogramme, un centre de gravité et une bissectrice"
-grade: 10
+grade: 9
 theme: geometry
 difficulty: 5
 duration_min: 50

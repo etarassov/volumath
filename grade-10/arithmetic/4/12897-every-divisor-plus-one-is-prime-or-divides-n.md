@@ -60,7 +60,7 @@ Si $a \geq 3$, alors $8$ divise $n$. Mais $8 + 1 = 9$ n'est pas premier, et $9$ 
 
 Alors $b + 1$ divise $n$. On écrit $b + 1 = 2^c e$ avec $e$ impair. Le nombre $e$ divise $b + 1$, qui divise $n$, et il est impair, donc d'après le lemme il divise $b$. Il divise donc $(b + 1) - b = 1$, et $e = 1$. Ainsi **$b + 1 = 2^c$ est une puissance de $2$.**
 
-Comme $b + 1$ n'est pas premier, $b + 1 \neq 2$, donc $c \geq 2$. Comme $2^c$ divise $n$, le lemme donne $c \leq a$. On a donc $2 \leq c \leq a$ et $b = 2^c - 1$.
+Comme $b + 1$ n'est pas premier, $b + 1 \neq 2$, donc $c \geq 2$. Comme $2^c$ divise $n$, le lemme donne $c \leq a$. On a donc $2 \leq c \leq a$ et $b = 2^c - 1$. En particulier $a \geq 2$.
 
 **Si $a = 2$**, alors $c = 2$, $b = 3$, et $n = 4 \times 3 = 12$.
 

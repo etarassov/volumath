@@ -1,9 +1,9 @@
 ---
 id: "8676"
 title: "Une équation avec 1005, 2011 et 1006"
-grade: 11
+grade: 10
 theme: arithmetic
-difficulty: 5
+difficulty: 4
 duration_min: 50
 tags: [equation-diophantienne, congruences, modulo-huit, identites-remarquables]
 adapted_from: null
@@ -12,7 +12,7 @@ same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, La Muraille"
-  reference: "valbonne-2023.pdf, chapitre « La Muraille », exercice 8 (niveau 1, une étoile). La Muraille ne publie pas de corrigés ; solution rédigée ici et vérifiée par calcul."
+  reference: "valbonne-2023.pdf, chapitre « La Muraille », exercice 8, du niveau 1, marqué d'une étoile. Dans La Muraille, une étoile ne note pas la difficulté : elle signale un exercice resté sans solution à la muraille d'un stage précédent. La Muraille ne publie pas de corrigés ; solution rédigée ici et vérifiée par calcul."
   url: "https://maths-olympiques.fr/wp-content/uploads/2023/12/valbonne-2023.pdf"
   original_language: "fr"
   local_copy: "sources/originals/pofm/valbonne-2023.pdf"
@@ -48,6 +48,14 @@ $$1005^2 + 2011^1 = 1006^2 ,$$
 et le triplet $(x, y, z) = (2, 1, 2)$ est bien solution. *(Vérification : $1\,010\,025 + 2011 = 1\,012\,036 = 1006^2$.)*
 
 Montrons maintenant que c'est la seule.
+
+### Un rappel sur les restes
+
+On écrit $a \equiv b \pmod m$, et on lit « $a$ est congru à $b$ modulo $m$ », quand $a - b$ est un multiple de $m$. Pour $a$ et $b$ positifs, cela veut dire que $a$ et $b$ ont le même reste dans la division par $m$. Par exemple $1005 \equiv -1 \pmod{1006}$, car $1005 - (-1) = 1006$.
+
+On peut ajouter et multiplier ces relations comme des égalités : si $a \equiv b$ et $c \equiv d \pmod m$, alors $a + c \equiv b + d$ et $ac \equiv bd \pmod m$. En multipliant plusieurs fois, $a \equiv b$ donne $a^n \equiv b^n \pmod m$.
+
+En pratique : pour connaître le reste d'une somme ou d'une puissance, on peut remplacer chaque nombre par son reste, ou par un nombre plus simple qui lui est congru.
 
 ### Étape 1 : modulo 1006, les exposants $x$ et $y$ ont des parités différentes
 

@@ -1,7 +1,7 @@
 ---
 id: "12801"
 title: "Le premier chiffre des puissances de 2"
-grade: 10
+grade: 9
 theme: arithmetic
 difficulty: 5
 duration_min: 45

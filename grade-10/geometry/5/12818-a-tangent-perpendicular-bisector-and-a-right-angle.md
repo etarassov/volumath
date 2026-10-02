@@ -35,7 +35,7 @@ Démontrer que les droites $(DE)$ et $(EF)$ sont perpendiculaires.
 
 ## Solution
 
-Notons $O$ le centre et $R$ le rayon de $\Omega$, et $A'$ le milieu de $[AC]$, qui est sur $m$.
+Notons $O$ le centre et $R$ le rayon de $\Omega$, et $A'$ le milieu de $[AC]$, qui est sur $m$. On suppose la figure non dégénérée : en particulier $D \neq A'$, et $E$ est distinct de $D$ et de $F$.
 
 ### Étape 1 : la droite (OD) est parallèle à (AC)
 

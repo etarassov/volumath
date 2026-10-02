@@ -1,7 +1,7 @@
 ---
 id: "12854"
 title: "Le plus petit de trois nombres ne dépasse pas 45"
-grade: 10
+grade: 9
 theme: algebra
 difficulty: 3
 duration_min: 15

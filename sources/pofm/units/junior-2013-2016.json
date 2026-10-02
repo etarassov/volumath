@@ -35,7 +35,6 @@
   "7128",
   "7129",
   "7130",
-  "7131",
   "7132",
   "7133",
   "7134",
@@ -277,6 +276,12 @@
    "survivor": "7051",
    "date": "2026-09-30",
    "why": "Retiré le 2026-09-30 : même problème que 7051 (grade-10/geometry/4/7051-red-points-blue-points-no-crossing.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7131",
+   "survivor": "13048",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : même problème que 13048 (grade-08/combinatorics/2/13048-fifteen-students-and-ice-creams-for-three.md), avec des campeurs de corvée de vaisselle au lieu d'élèves qui vont manger une glace. Placé en 1re, il relève en fait de la 4e, où 13048 le pose déjà : une fois déplacé, il aurait été un doublon au même niveau. Repéré lors de la revue des niveaux qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
   }
  ],
  "notes": [
@@ -296,7 +301,7 @@
   "DOUBLONS avec d'autres blocs, a des niveaux differents : 7104/0310, 7105/7923, 7107/7715, 7107/8135, 7107/8846, 7107/7228, 7108/8120, 7108/8847, 7110/7048, 7115/7235, 7120/7021, 7121/7259, 7143/7952, 7151/7024, 7151/7236, 7154/7051, 7135/0912, 7153/4617.",
   "Le stage junior reste la meilleure porte d'entree de la source pour un club : les tests initiaux et finaux sont calibres pour des eleves de 3e et de 2de, et les premiers exercices de chaque cours sont des echauffements."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-02",
  "files": [
   {
    "file": "stage_junior_2013.pdf",

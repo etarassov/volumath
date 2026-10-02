@@ -81,6 +81,8 @@ qu'en $D$. Donc $D$ n'est pas sur la droite $(MN)$, et $(MN)$ n'est ni $(DF)$ ni
 pied de la perpendiculaire à $(MN)$ issue de $D$.
 
 Notons $\theta$ l'angle entre les droites $(DF)$ et $(MN)$, avec $0^\circ < \theta \leqslant 90^\circ$.
+Le sinus n'est défini, dans un triangle rectangle, que pour un angle aigu. Quand $\theta = 90^\circ$, on
+pose $\sin\theta = 1$ : on vérifie à chaque fois que les formules ci-dessous restent vraies avec cette valeur.
 
 **La distance $DK$.** Si $K = M$, alors $(DM)$ est perpendiculaire à $(MN)$, $\theta = 90^\circ$ et
 $DK = DM = DM\sin\theta$. Sinon, le triangle $DKM$ est rectangle en $K$, son angle en $M$ est aigu et

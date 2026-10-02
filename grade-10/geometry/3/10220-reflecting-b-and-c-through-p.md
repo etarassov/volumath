@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 25
 tags: [angle-tangentiel, tangente, triangles-semblables, puissance-d-un-point, symetrie-centrale, cocyclicite]
 adapted_from: null
-see_also: []
+see_also: ["12459"]
 same_as: []
 created: 2026-10-01
 source:

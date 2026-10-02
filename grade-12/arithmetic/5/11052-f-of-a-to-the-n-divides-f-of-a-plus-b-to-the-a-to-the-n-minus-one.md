@@ -5,7 +5,7 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 90
-tags: [hors-programme, equation-fonctionnelle, valuation, petit-theoreme-de-fermat, nombres-premiers, tiroirs, congruences]
+tags: [maths-expertes, equation-fonctionnelle, valuation, petit-theoreme-de-fermat, nombres-premiers, tiroirs, congruences]
 adapted_from: null
 see_also: []
 same_as: []
@@ -33,23 +33,19 @@ $f : \mathbb{N}^* \to \mathbb{N}^*$ telles que :
 
 1. Montre que l'identité convient. Il s'agit de prouver que $a^{k+1}$ divise $(a + b)^{a^k} - b^{a^k}$, par récurrence sur $k$.
 2. Montre que $f$ n'est pas constante, puis que $f(1) = 1$ en prenant $a = 1$.
-3. Montre que $f(a)$ divise $a$ : pour un facteur premier $p$ de $f(a)$, compare quand $n$ grandit l'exposant de $p$ dans $f(a)^n$ et dans $f(a + b)^{a^{n-1}} - f(b)^{a^{n-1}}$, grâce au lemme LTE. Il faut choisir $b$ pour que $f(a + b) \neq f(b)$.
+3. Montre que $f(a)$ divise $a$ : pour un facteur premier $p$ de $f(a)$, compare quand $n$ grandit l'exposant de $p$ dans $f(a)^n$ et dans $f(a + b)^{a^{n-1}} - f(b)^{a^{n-1}}$, grâce à la factorisation $x^a - y^a = (x - y)(x^{a-1} + x^{a-2}y + \cdots + y^{a-1})$. Il faut choisir $b$ pour que $f(a + b) \neq f(b)$.
 4. Pour un nombre premier $\ell$ avec $f(\ell) = \ell$, le petit théorème de Fermat montre que $\ell$ divise $f(b + \ell) - f(b)$.
 5. Pour montrer $f(u) = u$, cherche un entier $n$ avec $f(n) = n$ et un grand nombre premier $q$ qui divise $n - u$. Un produit de nombres premiers distincts $\ell$ vérifiant $f(\ell) = \ell$ est un bon candidat pour $n$.
 
 ## Solution
 
-**Rappel.** Deux résultats qui ne sont pas au programme du lycée (le premier figure en option maths
-expertes).
+**Rappel.** On utilise un résultat de l'option maths expertes et une notation.
 
 * **Petit théorème de Fermat.** Si $\ell$ est un nombre premier, alors $\ell$ divise $X^\ell - X$ pour tout
   entier $X$. En l'appliquant plusieurs fois, $\ell$ divise aussi $X^{\ell^k} - X$ pour tout $k \geqslant 0$.
-* **Lemme LTE** (« relèvement des exposants »). Pour un entier non nul $Z$ et un nombre premier $p$, notons
-  $e_p(Z)$ l'exposant de $p$ dans la décomposition de $|Z|$ en facteurs premiers. Soient $x \neq y$ deux
-  entiers non divisibles par $p$, avec $p$ qui divise $x - y$, et soit $m \geqslant 1$. Alors
-  $$e_p(x^m - y^m) = e_p(x - y) + e_p(m)$$
-  dans chacun des cas suivants : $p$ est impair ; ou $p = 2$ et $m$ est impair ; ou $p = 2$ et $4$ divise
-  $x - y$.
+* **Notation.** Pour un entier non nul $Z$ et un nombre premier $p$, on note $e_p(Z)$ l'exposant de $p$
+  dans la décomposition de $|Z|$ en facteurs premiers. C'est le plus grand entier $E$ tel que $p^E$ divise
+  $Z$.
 
 **Réponse :** la seule solution est l'identité, $f(n) = n$ pour tout $n$.
 
@@ -95,16 +91,29 @@ divise $D_k$ pour tout $k \geqslant N - 1$, donc
 
 $$e_p(D_k) \geqslant (k + 1)\,e \quad \text{pour tout } k \geqslant N - 1 . \qquad (1)$$
 
-En particulier, $e_p(D_N) \geqslant 2$ : $p$ divise $D_N$, et si $p = 2$, alors $4$ divise $D_N$.
-Appliquons le lemme LTE à $x = X^{a^N}$, $y = Y^{a^N}$ (non divisibles par $p$, distincts, avec $p$
-divisant $x - y = D_N$) et $m = a^{k-N}$ pour $k \geqslant N$. Les conditions sont remplies : si $p = 2$,
-on vient de voir que $4$ divise $x - y$. On obtient
+*Un lemme.* Notons $c = e_p(a)$. Soient $x \neq y$ deux entiers, avec $p$ qui ne divise pas $y$, et
+posons $E = e_p(x - y)$. Si $E > c$, alors
 
-$$e_p(D_k) = e_p(D_N) + (k - N)\,e_p(a) \quad \text{pour tout } k \geqslant N .$$
+$$e_p(x^a - y^a) = E + c .$$
 
-Avec (1), cela donne $(k + 1)\,e \leqslant e_p(D_N) + (k - N)\,e_p(a)$, donc
-$(k + 1)\left(e - e_p(a)\right) \leqslant e_p(D_N)$ pour tout $k \geqslant N$. Le membre de droite ne dépend
-pas de $k$ : si l'on avait $e > e_p(a)$, le membre de gauche deviendrait aussi grand qu'on veut. Donc
+En effet, $x^a - y^a = (x - y)\,S$ avec $S = x^{a-1} + x^{a-2}y + \cdots + y^{a-1}$. Pour tout $j$, le
+nombre $x^j - y^j$ est un multiple de $x - y$, donc de $p^E$. Chacun des $a$ termes $x^{a-1-i}y^i$ de $S$
+diffère donc de $y^{a-1-i}y^i = y^{a-1}$ d'un multiple de $p^E$, et $S = a\,y^{a-1} + p^E t$ pour un
+entier $t$. Le nombre $p^{c+1}$ divise $p^E t$, car $c + 1 \leqslant E$, mais il ne divise pas
+$a\,y^{a-1}$ : comme $p$ ne divise pas $y$, l'exposant de $p$ dans $a\,y^{a-1}$ est celui de $a$,
+c'est-à-dire $c$. Il ne divise donc pas $S$. Comme $p^c$ divise les deux termes,
+il divise $S$, et $e_p(S) = c$. Ainsi $e_p(x^a - y^a) = E + c$.
+
+*La croissance des exposants.* On a $D_{k+1} = x^a - y^a$ avec $x = X^{a^k}$ et $y = Y^{a^k}$, de sorte
+que $x - y = D_k$, et $p$ ne divise pas $y$. Posons $K = \max(N - 1, c)$. Pour $k \geqslant K$, (1)
+donne $e_p(D_k) \geqslant (k + 1)\,e \geqslant k + 1 > c$, et le lemme donne
+$e_p(D_{k+1}) = e_p(D_k) + c$. De proche en proche,
+
+$$e_p(D_k) = e_p(D_K) + (k - K)\,c \quad \text{pour tout } k \geqslant K .$$
+
+Avec (1), cela donne $(k + 1)\,e \leqslant e_p(D_K) + (k - K)\,c \leqslant e_p(D_K) + (k + 1)\,c$,
+donc $(k + 1)(e - c) \leqslant e_p(D_K)$ pour tout $k \geqslant K$. Le membre de droite ne dépend
+pas de $k$ : si l'on avait $e > c$, le membre de gauche deviendrait aussi grand qu'on veut. Donc
 $e_p(f(a)) \leqslant e_p(a)$.
 
 Ceci vaut pour tout facteur premier $p$ de $f(a)$, donc $f(a)$ divise $a$. En particulier,

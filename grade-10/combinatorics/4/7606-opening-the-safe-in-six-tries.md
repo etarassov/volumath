@@ -24,7 +24,7 @@ Le code secret du coffre-fort d'une association est une suite de $7$ chiffres **
 
 On peut essayer d'ouvrir le coffre en composant à son tour une suite de $7$ chiffres tous différents. Le coffre s'ouvre dès qu'**au moins un** des $7$ chiffres composés se trouve à la bonne place, c'est-à-dire à la même place que dans le code secret.
 
-Par exemple, si le code secret est $0123456$ et qu'on compose $9123407$, le coffre s'ouvre, car le $1$, le $2$ et le $3$ sont à la bonne place. En revanche $1234567$ ne l'ouvre pas.
+Par exemple, si le code secret est $0123456$ et qu'on compose $9123407$, le coffre s'ouvre, car le $1$, le $2$, le $3$ et le $4$ sont à la bonne place. En revanche $1234567$ ne l'ouvre pas.
 
 On ne sait rien du code secret. Montrer qu'on peut malgré tout ouvrir le coffre à coup sûr en **au plus $6$ essais**.
 
@@ -80,4 +80,4 @@ Peut-on faire mieux ? Non : **$6$ est le nombre minimal d'essais**. Autrement di
 
 La démonstration est nettement plus difficile que la question traitée ici, et c'était la seconde partie de l'exercice d'origine. En voici seulement l'idée : on range les $5$ essais dans un tableau de $5$ lignes et $7$ colonnes, puis on construit chiffre par chiffre un code $x_1 x_2 \ldots x_7$ en évitant à chaque place les chiffres déjà utilisés dans la colonne correspondante. Le point délicat est que ce procédé naïf risque de bloquer aux dernières places, et qu'il faut choisir les deux premiers chiffres avec soin pour que cela n'arrive pas.
 
-Une erreur fréquente chez les candidats : croire qu'il suffit d'exhiber $6$ essais et un code que ces $6$ essais n'ouvrent pas pour prouver que $6$ est le minimum. Cela prouve seulement que *ces* $6$ essais-là sont mauvais, pas qu'aucun jeu de $5$ essais ne marche.
+Une erreur fréquente chez les candidats : croire qu'il suffit d'exhiber $5$ essais et un code que ces $5$ essais n'ouvrent pas pour prouver que $5$ essais ne suffisent pas. Cela prouve seulement que *ces* $5$ essais-là sont mauvais, pas qu'aucun jeu de $5$ essais ne marche.

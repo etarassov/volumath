@@ -7151,7 +7151,7 @@
       "division-euclidienne",
       "entiers-consecutifs",
       "somme-des-entiers",
-      "absurde"
+      "raisonnement-par-l-absurde"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -8837,13 +8837,11 @@
     ],
     "adapted_from": null,
     "see_also": [],
-    "same_as": [
-      "7131"
-    ],
+    "same_as": [],
     "created": "2026-10-01",
     "source": {
       "name": "Olympiades françaises de mathématiques, test de rentrée (Coupe Animath d'automne) du 7 octobre 2015",
-      "reference": "2017-09_coupe_automne_2015.pdf, exercices collège, exercice 1 ; corrigé 2017-09_coupe_automne_2015_corrige.pdf",
+      "reference": "2017-09_coupe_automne_2015.pdf, exercices collège, exercice 1 ; corrigé 2017-09_coupe_automne_2015_corrige.pdf. Le même problème, avec quinze campeurs de corvée de vaisselle, figure aussi dans stage_junior_2013.pdf, « Avancés : combinatoire », mercredi matin (Irène Marcovici), exercice 7.",
       "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2015.pdf",
       "original_language": "fr",
       "local_copy": "sources/originals/coupe-animath/2017-09_coupe_automne_2015.pdf"
@@ -14890,6 +14888,37 @@
       "local_copy": "sources/originals/namc/Stomachion-AS-ArchPuzzle_NCTM-1.pdf"
     },
     "path": "grade-08/geometry/3/5610-the-fourteen-pieces-of-the-stomachion.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "7022",
+    "title": "Deux angles égaux dans un rectangle",
+    "grade": 8,
+    "theme": "geometry",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "rectangle",
+      "chasse-aux-angles",
+      "triangle-isocele"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-09-20",
+    "source": {
+      "name": "POFM, stage olympique junior de Cachan 2010",
+      "reference": "stage_junior_2010.pdf, lundi 25 octobre (géométrie), exercices d'échauffement, exercice 3 ; repris en 2012 (stage_junior_2012.pdf, exercices d'échauffement, exercice 3)",
+      "url": "http://maths-olympiques.fr/?page_id=43",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm/stage_junior_2010.pdf"
+    },
+    "path": "grade-08/geometry/3/7022-two-equal-angles-in-a-rectangle.md",
     "sections": [
       "Going further",
       "Hints",
@@ -21239,6 +21268,37 @@
     ]
   },
   {
+    "id": "12854",
+    "title": "Le plus petit de trois nombres ne dépasse pas 45",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "inegalite",
+      "minimum",
+      "fractions"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection du 27 mars 2024",
+      "reference": "2025-01_Enonce-Test-4.pdf, test junior, exercice 1 ; corrigé 2025-01_Corrige-Test-4.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-4.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2025-01_Enonce-Test-4.pdf"
+    },
+    "path": "grade-09/algebra/3/12854-the-smallest-of-three-numbers-is-at-most-45.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "13041",
     "title": "Une fraction de puissances de 2 égale à 2ᵃ + b",
     "grade": 9,
@@ -22201,6 +22261,72 @@
     ]
   },
   {
+    "id": "12845",
+    "title": "Remplacer 3 par a + b + c",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "inegalite",
+      "fractions",
+      "identites-remarquables",
+      "factorisation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection des 21 et 22 février 2024",
+      "reference": "2025-01_Enonce-Test-3.pdf, test junior, exercice 2 ; corrigé 2025-01_Corrige-Test-3.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-3.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2025-01_Enonce-Test-3.pdf"
+    },
+    "path": "grade-09/algebra/4/12845-replace-three-by-a-plus-b-plus-c.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12878",
+    "title": "Une inégalité qui cache des carrés",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 4,
+    "duration_min": 40,
+    "tags": [
+      "inegalite",
+      "factorisation",
+      "identites-remarquables",
+      "somme-de-carres",
+      "developpement",
+      "cas-d-egalite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection des 19 et 20 février 2025",
+      "reference": "2025-10_Sujet-Test-3-2024-2025.pdf, test junior, exercice 2 ; corrigé 2025-10_Corrige-Test-3-2024-2025.pdf (on suit la première solution, la factorisation ; dans le corrigé, le deuxième terme de l'inégalité simplifiée garde par erreur un carré)",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-3-2024-2025.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2025-10_Sujet-Test-3-2024-2025.pdf"
+    },
+    "path": "grade-09/algebra/4/12878-an-inequality-hiding-squares.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "13052",
     "title": "Des nombres entre −1/2 et 1/2 dont les sommes sont entières",
     "grade": 9,
@@ -22584,6 +22710,38 @@
       "local_copy": "sources/originals/clublyon/Inégalités.pdf"
     },
     "path": "grade-09/algebra/5/0679-product-of-fifty-fractions.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12821",
+    "title": "4(a³ + b³ + c³ + 3) ≥ 3(a + 1)(b + 1)(c + 1)",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 5,
+    "duration_min": 35,
+    "tags": [
+      "inegalite",
+      "factorisation",
+      "identites-remarquables",
+      "puissances"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection d'avril 2023",
+      "reference": "2023-09_Enonce-Test-4.pdf, test junior, exercice 2 ; corrigé 2023-09_Corrige-Test-4.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-4.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-4.pdf"
+    },
+    "path": "grade-09/algebra/5/12821-four-times-a-cubed-plus-b-cubed-plus-c-cubed-plus-three.md",
     "sections": [
       "Going further",
       "Hints",
@@ -26732,6 +26890,40 @@
     ]
   },
   {
+    "id": "7856",
+    "title": "1/x + 1/y = 1/p a exactement trois solutions",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "nombres-premiers",
+      "fractions-egyptiennes",
+      "factorisation",
+      "diviseurs"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "7452"
+    ],
+    "same_as": [],
+    "created": "2026-09-20",
+    "source": {
+      "name": "POFM, stage olympique de Valbonne 2015",
+      "reference": "stage_ete_2015.pdf, quatrième période, groupe A « arithmétique », lundi 24 après-midi (Vincent Bouis), exercice 10",
+      "url": "http://maths-olympiques.fr/?page_id=43",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm/stage_ete_2015.pdf"
+    },
+    "path": "grade-09/arithmetic/3/7856-one-over-x-plus-one-over-y-equals-one-over-p.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "7901",
     "title": "Deux nombres premiers dont la somme et la différence sont premières",
     "grade": 9,
@@ -27137,6 +27329,39 @@
       "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
     },
     "path": "grade-09/arithmetic/3/8427-a-power-of-two-that-is-always-odd.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "8434",
+    "title": "x² − 2 × y! = 2021",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 30,
+    "tags": [
+      "factorielle",
+      "congruences",
+      "carres",
+      "equation-en-entiers",
+      "cas-a-traiter"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-09-20",
+    "source": {
+      "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe A",
+      "reference": "Poly-2021-Valbonne.pdf, Groupe A, « Modulos & factorisation » (Théo Lenoir et Angela Xue), exercice 11",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
+    },
+    "path": "grade-09/arithmetic/3/8434-x-squared-minus-twice-a-factorial.md",
     "sections": [
       "Going further",
       "Hints",
@@ -28631,6 +28856,38 @@
     ]
   },
   {
+    "id": "12812",
+    "title": "Une somme de factorielles égale à 1 + 2 + ⋯ + n",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 40,
+    "tags": [
+      "factorielle",
+      "restes",
+      "congruences",
+      "equation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection de février 2023",
+      "reference": "2023-09_Enonce-Test-3.pdf, test junior, exercice 2 ; corrigé 2023-09_Corrige-Test-3.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-3.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-3.pdf"
+    },
+    "path": "grade-09/arithmetic/4/12812-a-sum-of-factorials-equal-to-a-triangular-number.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "12829",
     "title": "Multiples de 222 et somme des carrés des chiffres",
     "grade": 9,
@@ -28696,6 +28953,39 @@
     ]
   },
   {
+    "id": "12862",
+    "title": "Trois nombres premiers et p² + pq + q² = r²",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 25,
+    "tags": [
+      "nombres-premiers",
+      "factorisation",
+      "difference-de-carres",
+      "diviseurs",
+      "equation-diophantienne"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection du 15 mai 2024",
+      "reference": "2025-01_Enonce-Test-5.pdf, test junior, exercice 2 ; corrigé 2025-01_Corrige-Test-5.pdf (on suit la solution alternative du corrigé)",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-5.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2025-01_Enonce-Test-5.pdf"
+    },
+    "path": "grade-09/arithmetic/4/12862-three-primes-and-p-squared-plus-pq-plus-q-squared.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "12885",
     "title": "Trois entiers en progression géométrique entre deux carrés",
     "grade": 9,
@@ -28721,6 +29011,39 @@
       "local_copy": "sources/originals/pofm-tests/2025-10_Sujet-Test-3-2024-2025.pdf"
     },
     "path": "grade-09/arithmetic/4/12885-three-integers-in-geometric-progression-between-two-squares.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12887",
+    "title": "Quand |4ᵐ − 7ⁿ| est-il premier ?",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "nombres-premiers",
+      "puissances",
+      "restes",
+      "divisibilite",
+      "valeur-absolue"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection du 2 avril 2025",
+      "reference": "2025-10_Sujet-Test-4-2024-2025.pdf, test junior, exercice 1 ; corrigé 2025-10_Corrige-Test-4-2024-2025.pdf (même solution, rédigée avec des restes au lieu des congruences)",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-4-2024-2025.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2025-10_Sujet-Test-4-2024-2025.pdf"
+    },
+    "path": "grade-09/arithmetic/4/12887-when-is-four-to-the-m-minus-seven-to-the-n-prime.md",
     "sections": [
       "Going further",
       "Hints",
@@ -29437,6 +29760,42 @@
     ]
   },
   {
+    "id": "7452",
+    "title": "Compter les solutions d'une équation de fractions",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "equation-diophantienne",
+      "diviseurs",
+      "factorisation",
+      "denombrement",
+      "nombre-de-diviseurs",
+      "decomposition-en-facteurs-premiers"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "7856"
+    ],
+    "same_as": [],
+    "created": "2026-09-20",
+    "source": {
+      "name": "POFM, stage olympique de Grésillon 2011, chasse au trésor",
+      "reference": "stage_ete_2011.pdf, « Chasse au trésor », exercices des débutants, exercice 3",
+      "url": "http://maths-olympiques.fr/?page_id=43",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm/stage_ete_2011.pdf"
+    },
+    "path": "grade-09/arithmetic/4/7452-counting-the-solutions-of-a-fraction-equation.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "7508",
     "title": "Une somme de 2011 carrés qui fait un carré",
     "grade": 9,
@@ -29796,6 +30155,137 @@
       "local_copy": "sources/originals/clublyon/Inégalités.pdf"
     },
     "path": "grade-09/arithmetic/5/0690-five-digit-number-and-its-reverse.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12801",
+    "title": "Le premier chiffre des puissances de 2",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 5,
+    "duration_min": 45,
+    "tags": [
+      "chiffres",
+      "puissances-de-deux",
+      "denombrement",
+      "majoration"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection du 23 novembre 2022",
+      "reference": "2023-01_Enonce-Web-Test-1.pdf, exercice 1 ; corrigé 2023-01_Corrige-Web-Test-1.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Énoncé-Web-Test-1.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-01_Enonce-Web-Test-1.pdf"
+    },
+    "path": "grade-09/arithmetic/5/12801-the-first-digit-of-the-powers-of-two.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12803",
+    "title": "Le plus petit entier nippon",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 5,
+    "duration_min": 50,
+    "tags": [
+      "diviseurs",
+      "fractions",
+      "minimum",
+      "disjonction-de-cas",
+      "encadrement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection du 23 novembre 2022",
+      "reference": "2023-01_Enonce-Web-Test-1.pdf, exercice 3 ; corrigé 2023-01_Corrige-Web-Test-1.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Énoncé-Web-Test-1.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-01_Enonce-Web-Test-1.pdf"
+    },
+    "path": "grade-09/arithmetic/5/12803-the-smallest-nippon-integer.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12808",
+    "title": "Le produit des sommes de deux nombres premiers",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 5,
+    "duration_min": 40,
+    "tags": [
+      "nombres-premiers",
+      "divisibilite",
+      "factorielle",
+      "parite",
+      "restes"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection de janvier 2023",
+      "reference": "2023-01_Enonce-Web-Test-2.pdf, test junior, exercice 4, et test senior, exercice 5 (le même énoncé) ; corrigé 2023-01_Corrige-Web-Test-2.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Énoncé-Web-Test-2.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-01_Enonce-Web-Test-2.pdf"
+    },
+    "path": "grade-09/arithmetic/5/12808-the-product-of-sums-of-two-primes.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12846",
+    "title": "36²⁰²⁴ n'est pas olympique",
+    "grade": 9,
+    "theme": "arithmetic",
+    "difficulty": 5,
+    "duration_min": 45,
+    "tags": [
+      "restes",
+      "carres",
+      "parite",
+      "puissances",
+      "descente-infinie"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection des 21 et 22 février 2024",
+      "reference": "2025-01_Enonce-Test-3.pdf, test junior, exercice 3 ; corrigé 2025-01_Corrige-Test-3.pdf (le corrigé écrit x et y à la place de a et b dans la seconde moitié de sa preuve, coquille sans conséquence)",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-3.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2025-01_Enonce-Test-3.pdf"
+    },
+    "path": "grade-09/arithmetic/5/12846-thirty-six-to-the-2024-is-not-olympic.md",
     "sections": [
       "Going further",
       "Hints",
@@ -31872,13 +32362,11 @@
     ],
     "adapted_from": null,
     "see_also": [],
-    "same_as": [
-      "7740"
-    ],
+    "same_as": [],
     "created": "2026-10-01",
     "source": {
       "name": "POFM, envoi d'entraînement 2021-2022 n° 5 (pot-pourri)",
-      "reference": "2022-03_sujet-envoi-5.pdf, Exercices Juniors, exercice 4 ; corrigé 2022-05_corrige-envoi-5.pdf",
+      "reference": "2022-03_sujet-envoi-5.pdf, Exercices Juniors, exercice 4 ; corrigé 2022-05_corrige-envoi-5.pdf. Le même problème, avec 2014 au lieu de 2021, figure aussi dans stage_ete_2014.pdf, « Groupe B : logique et stratégies de base », mercredi 20 matin (Alix Deleporte), exercice 16.",
       "url": "https://maths-olympiques.fr/wp-content/uploads/2022/03/sujet-envoi-5.pdf",
       "original_language": "fr",
       "local_copy": "sources/originals/pofm-envois/2022-03_sujet-envoi-5.pdf"
@@ -34254,6 +34742,39 @@
     ]
   },
   {
+    "id": "12888",
+    "title": "Deux entiers dont le produit plus un est un carré",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 4,
+    "duration_min": 45,
+    "tags": [
+      "principe-des-tiroirs",
+      "carre-parfait",
+      "restes",
+      "construction",
+      "optimisation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection du 2 avril 2025",
+      "reference": "2025-10_Sujet-Test-4-2024-2025.pdf, test junior, exercice 2 ; corrigé 2025-10_Corrige-Test-4-2024-2025.pdf (même solution, avec des restes au lieu des congruences ; dans le corrigé, les paires (4k, 4k + 2) pour 0 ⩽ k ⩽ 505 contiennent 0 et oublient 2024, il faut lire (4k + 2, 4k + 4))",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-4-2024-2025.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2025-10_Sujet-Test-4-2024-2025.pdf"
+    },
+    "path": "grade-09/combinatorics/4/12888-two-integers-whose-product-plus-one-is-a-square.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "13007",
     "title": "Autant de grands que de petits autour de la table",
     "grade": 9,
@@ -35178,7 +35699,8 @@
       "questions",
       "routes-a-sens-unique",
       "double-comptage",
-      "algorithme"
+      "algorithme",
+      "tournoi"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -35192,6 +35714,71 @@
       "local_copy": "sources/originals/pofm-tests/2020-11_Enonce-Test-Avril-2020.pdf"
     },
     "path": "grade-09/combinatorics/5/12476-alice-and-the-one-way-roads.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12814",
+    "title": "Le jardinier et le pivert",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 5,
+    "duration_min": 50,
+    "tags": [
+      "jeu",
+      "strategie",
+      "grille",
+      "coloriage",
+      "majoration",
+      "minoration"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection de février 2023",
+      "reference": "2023-09_Enonce-Test-3.pdf, test junior, exercice 4, et test EGMO, exercice 8 (le même énoncé) ; corrigé 2023-09_Corrige-Test-3.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-3.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-3.pdf"
+    },
+    "path": "grade-09/combinatorics/5/12814-the-gardener-and-the-woodpecker.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12822",
+    "title": "Les 200 boîtes d'Alice",
+    "grade": 9,
+    "theme": "combinatorics",
+    "difficulty": 5,
+    "duration_min": 40,
+    "tags": [
+      "processus",
+      "monovariant",
+      "raisonnement-par-l-absurde",
+      "principe-extremal"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection d'avril 2023",
+      "reference": "2023-09_Enonce-Test-4.pdf, test junior, exercice 3 ; corrigé 2023-09_Corrige-Test-4.pdf. Le commentaire des correcteurs signale une erreur dans l'énoncé posé le jour de l'épreuve, sans dire laquelle ; l'énoncé publié, repris ici, est correct.",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-4.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-4.pdf"
+    },
+    "path": "grade-09/combinatorics/5/12822-alices-two-hundred-boxes.md",
     "sections": [
       "Going further",
       "Hints",
@@ -39520,6 +40107,76 @@
     ]
   },
   {
+    "id": "12827",
+    "title": "Trois cercles et un alignement",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 35,
+    "tags": [
+      "angle-inscrit",
+      "angle-au-centre",
+      "symetrie-axiale",
+      "mediatrice",
+      "triangle-isocele",
+      "alignement"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection de mai 2023",
+      "reference": "2023-09_Enonce-Test-5.pdf, test junior, exercice 1 ; corrigé 2023-09_Corrige-Test-5.pdf (le corrigé écrit à tort BCD = 180° − DAB : en fait BCD = DAB, car D et E sont du même côté de (AB) et D est entre A et E)",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-5.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-5.pdf"
+    },
+    "path": "grade-09/geometry/4/12827-three-circles-and-an-alignment.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12871",
+    "title": "Une tangente, un cercle de centre B et quatre points cocycliques",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 4,
+    "duration_min": 30,
+    "tags": [
+      "tangente",
+      "triangle-isocele",
+      "cercle-circonscrit",
+      "cercle-de-diametre",
+      "cocyclicite",
+      "chasse-aux-angles",
+      "symetrie-axiale",
+      "losange"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection du 15 janvier 2025",
+      "reference": "2025-10_Sujet-Test-2-2024-2025.pdf, test junior, exercice 1 ; corrigé 2025-10_Corrige-Test-2-2024-2025.pdf (on suit la solution alternative n° 1 ; la seconde preuve, par une symétrie, est ajoutée ici)",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-2-2024-2025.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2025-10_Sujet-Test-2-2024-2025.pdf"
+    },
+    "path": "grade-09/geometry/4/12871-a-tangent-a-circle-centred-at-b-and-four-concyclic-points.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "13003",
     "title": "Deux triangles semblables si et seulement si l'angle vaut 60°",
     "grade": 9,
@@ -40209,6 +40866,74 @@
     },
     "path": "grade-09/geometry/5/10235-the-midpoint-of-ab-is-the-centre-of-circle-mnk.md",
     "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12802",
+    "title": "Un parallélogramme, un centre de gravité et une bissectrice",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 5,
+    "duration_min": 50,
+    "tags": [
+      "parallelogramme",
+      "centre-de-gravite",
+      "cercle",
+      "pythagore",
+      "triangles-semblables",
+      "bissectrice"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection du 23 novembre 2022",
+      "reference": "2023-01_Enonce-Web-Test-1.pdf, exercice 2 ; corrigé 2023-01_Corrige-Web-Test-1.pdf (qui conclut par la puissance d'un point et le théorème du pôle Sud ; ici, Pythagore et deux paires de triangles semblables)",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Énoncé-Web-Test-1.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-01_Enonce-Web-Test-1.pdf"
+    },
+    "path": "grade-09/geometry/5/12802-a-parallelogram-a-centroid-and-a-bisector.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12823",
+    "title": "Deux bissectrices qui se coupent sur (XD)",
+    "grade": 9,
+    "theme": "geometry",
+    "difficulty": 5,
+    "duration_min": 60,
+    "tags": [
+      "triangle-isocele",
+      "bissectrice",
+      "cocyclicite",
+      "symetrie-axiale",
+      "angle-droit",
+      "concours"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test de sélection d'avril 2023",
+      "reference": "2023-09_Enonce-Test-4.pdf, test junior, exercice 4 ; corrigé 2023-09_Corrige-Test-4.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-4.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-4.pdf"
+    },
+    "path": "grade-09/geometry/5/12823-two-bisectors-meeting-on-the-line-xd.md",
+    "sections": [
+      "Going further",
       "Hints",
       "Solution",
       "Statement"
@@ -45630,69 +46355,6 @@
     ]
   },
   {
-    "id": "12845",
-    "title": "Remplacer 3 par a + b + c",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "inegalite",
-      "fractions",
-      "identites-remarquables",
-      "factorisation"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection des 21 et 22 février 2024",
-      "reference": "2025-01_Enonce-Test-3.pdf, test junior, exercice 2 ; corrigé 2025-01_Corrige-Test-3.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-3.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2025-01_Enonce-Test-3.pdf"
-    },
-    "path": "grade-10/algebra/3/12845-replace-three-by-a-plus-b-plus-c.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12854",
-    "title": "Le plus petit de trois nombres ne dépasse pas 45",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 15,
-    "tags": [
-      "inegalite",
-      "minimum",
-      "fractions"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection du 27 mars 2024",
-      "reference": "2025-01_Enonce-Test-4.pdf, test junior, exercice 1 ; corrigé 2025-01_Corrige-Test-4.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-4.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2025-01_Enonce-Test-4.pdf"
-    },
-    "path": "grade-10/algebra/3/12854-the-smallest-of-three-numbers-is-at-most-45.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "12893",
     "title": "Le plus grand b tel que a/x² + b/(xy) + c/y² reste positif",
     "grade": 10,
@@ -48882,38 +49544,6 @@
     ]
   },
   {
-    "id": "12821",
-    "title": "4(a³ + b³ + c³ + 3) ≥ 3(a + 1)(b + 1)(c + 1)",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "inegalite",
-      "factorisation",
-      "identites-remarquables",
-      "puissances"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection d'avril 2023",
-      "reference": "2023-09_Enonce-Test-4.pdf, test junior, exercice 2 ; corrigé 2023-09_Corrige-Test-4.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-4.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-4.pdf"
-    },
-    "path": "grade-10/algebra/4/12821-four-times-a-cubed-plus-b-cubed-plus-c-cubed-plus-three.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "12858",
     "title": "Des produits en progression arithmétique",
     "grade": 10,
@@ -48972,40 +49602,6 @@
       "local_copy": "sources/originals/pofm-tests/2025-01_Enonce-Test-5.pdf"
     },
     "path": "grade-10/algebra/4/12863-two-over-xyz-plus-nine-xyz-against-seven-times-the-sum.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12878",
-    "title": "Une inégalité qui cache des carrés",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "inegalite",
-      "factorisation",
-      "identites-remarquables",
-      "somme-de-carres",
-      "developpement",
-      "cas-d-egalite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection des 19 et 20 février 2025",
-      "reference": "2025-10_Sujet-Test-3-2024-2025.pdf, test junior, exercice 2 ; corrigé 2025-10_Corrige-Test-3-2024-2025.pdf (on suit la première solution, la factorisation ; dans le corrigé, le deuxième terme de l'inégalité simplifiée garde par erreur un carré)",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-3-2024-2025.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2025-10_Sujet-Test-3-2024-2025.pdf"
-    },
-    "path": "grade-10/algebra/4/12878-an-inequality-hiding-squares.md",
     "sections": [
       "Going further",
       "Hints",
@@ -51754,72 +52350,6 @@
       "local_copy": "sources/originals/pofm-tests/2021-12_Sujet-test-5-2021.pdf"
     },
     "path": "grade-10/arithmetic/3/12627-seventy-three-p-squared-plus-six.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12862",
-    "title": "Trois nombres premiers et p² + pq + q² = r²",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "nombres-premiers",
-      "factorisation",
-      "difference-de-carres",
-      "diviseurs",
-      "equation-diophantienne"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection du 15 mai 2024",
-      "reference": "2025-01_Enonce-Test-5.pdf, test junior, exercice 2 ; corrigé 2025-01_Corrige-Test-5.pdf (on suit la solution alternative du corrigé)",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-5.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2025-01_Enonce-Test-5.pdf"
-    },
-    "path": "grade-10/arithmetic/3/12862-three-primes-and-p-squared-plus-pq-plus-q-squared.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12887",
-    "title": "Quand |4ᵐ − 7ⁿ| est-il premier ?",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "nombres-premiers",
-      "puissances",
-      "restes",
-      "divisibilite",
-      "valeur-absolue"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection du 2 avril 2025",
-      "reference": "2025-10_Sujet-Test-4-2024-2025.pdf, test junior, exercice 1 ; corrigé 2025-10_Corrige-Test-4-2024-2025.pdf (même solution, rédigée avec des restes au lieu des congruences)",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-4-2024-2025.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2025-10_Sujet-Test-4-2024-2025.pdf"
-    },
-    "path": "grade-10/arithmetic/3/12887-when-is-four-to-the-m-minus-seven-to-the-n-prime.md",
     "sections": [
       "Going further",
       "Hints",
@@ -55451,13 +55981,11 @@
     ],
     "adapted_from": null,
     "see_also": [],
-    "same_as": [
-      "8927"
-    ],
+    "same_as": [],
     "created": "2026-10-01",
     "source": {
       "name": "POFM, envoi d'entraînement 2019-2020 n° 5 (pot-pourri)",
-      "reference": "2020-02_sujet-envoi-5.pdf, Exercices Juniors, exercice 6 ; corrigé 2020-04_corrige-commente-envoi-5.pdf",
+      "reference": "2020-02_sujet-envoi-5.pdf, Exercices Juniors, exercice 6 ; corrigé 2020-04_corrige-commente-envoi-5.pdf. Le même problème figure aussi dans Poly-Valbonne-2026.pdf, chapitre IV « Groupe B », entraînement de fin de parcours, exercice 3.",
       "url": "https://maths-olympiques.fr/wp-content/uploads/2020/02/sujet-envoi-5.pdf",
       "original_language": "fr",
       "local_copy": "sources/originals/pofm-envois/2020-02_sujet-envoi-5.pdf"
@@ -56196,104 +56724,6 @@
       "local_copy": "sources/originals/pofm-tests/2022-07_Enonce-Web-Test-5.pdf"
     },
     "path": "grade-10/arithmetic/4/12658-three-products-each-one-less-than-a-factorial.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12808",
-    "title": "Le produit des sommes de deux nombres premiers",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "nombres-premiers",
-      "divisibilite",
-      "factorielle",
-      "parite",
-      "restes"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection de janvier 2023",
-      "reference": "2023-01_Enonce-Web-Test-2.pdf, test junior, exercice 4, et test senior, exercice 5 (le même énoncé) ; corrigé 2023-01_Corrige-Web-Test-2.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Énoncé-Web-Test-2.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-01_Enonce-Web-Test-2.pdf"
-    },
-    "path": "grade-10/arithmetic/4/12808-the-product-of-sums-of-two-primes.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12812",
-    "title": "Une somme de factorielles égale à 1 + 2 + ⋯ + n",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "factorielle",
-      "restes",
-      "congruences",
-      "equation"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection de février 2023",
-      "reference": "2023-09_Enonce-Test-3.pdf, test junior, exercice 2 ; corrigé 2023-09_Corrige-Test-3.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-3.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-3.pdf"
-    },
-    "path": "grade-10/arithmetic/4/12812-a-sum-of-factorials-equal-to-a-triangular-number.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12846",
-    "title": "36²⁰²⁴ n'est pas olympique",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 45,
-    "tags": [
-      "restes",
-      "carres",
-      "parite",
-      "puissances",
-      "descente-infinie"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection des 21 et 22 février 2024",
-      "reference": "2025-01_Enonce-Test-3.pdf, test junior, exercice 3 ; corrigé 2025-01_Corrige-Test-3.pdf (le corrigé écrit x et y à la place de a et b dans la seconde moitié de sa preuve, coquille sans conséquence)",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-3.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2025-01_Enonce-Test-3.pdf"
-    },
-    "path": "grade-10/arithmetic/4/12846-thirty-six-to-the-2024-is-not-olympic.md",
     "sections": [
       "Going further",
       "Hints",
@@ -58811,6 +59241,38 @@
     ]
   },
   {
+    "id": "8676",
+    "title": "Une équation avec 1005, 2011 et 1006",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 50,
+    "tags": [
+      "equation-diophantienne",
+      "congruences",
+      "modulo-huit",
+      "identites-remarquables"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-09-20",
+    "source": {
+      "name": "POFM, stage olympique de Valbonne 2023, La Muraille",
+      "reference": "valbonne-2023.pdf, chapitre « La Muraille », exercice 8, du niveau 1, marqué d'une étoile. Dans La Muraille, une étoile ne note pas la difficulté : elle signale un exercice resté sans solution à la muraille d'un stage précédent. La Muraille ne publie pas de corrigés ; solution rédigée ici et vérifiée par calcul.",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/12/valbonne-2023.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm/valbonne-2023.pdf"
+    },
+    "path": "grade-10/arithmetic/4/8676-three-consecutive-looking-numbers.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "8711",
     "title": "Découper 1, 2, …, p en tranches de même somme",
     "grade": 10,
@@ -58931,6 +59393,39 @@
       "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
     },
     "path": "grade-10/arithmetic/4/8820-three-primes-and-three-prime-gaps.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "8822",
+    "title": "p²(p³ − 1) = q(q + 1)",
+    "grade": 10,
+    "theme": "arithmetic",
+    "difficulty": 4,
+    "duration_min": 50,
+    "tags": [
+      "nombres-premiers",
+      "divisibilite",
+      "encadrement",
+      "equation-entiere",
+      "decomposition-en-facteurs-premiers"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-09-20",
+    "source": {
+      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
+      "reference": "Poly-2025-compresse.pdf, Groupe A, « Arithmétique : Nombres premiers » (Anatole et Martin), exercice 24, p. 60",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
+    },
+    "path": "grade-10/arithmetic/4/8822-an-equation-with-two-primes.md",
     "sections": [
       "Going further",
       "Hints",
@@ -59298,71 +59793,6 @@
       "local_copy": "sources/originals/pofm-tests/2022-08_Enonce-Web-Test-3.pdf"
     },
     "path": "grade-10/arithmetic/5/12646-consecutive-integers-with-largest-prime-factors-p-and-q.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12801",
-    "title": "Le premier chiffre des puissances de 2",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 5,
-    "duration_min": 45,
-    "tags": [
-      "chiffres",
-      "puissances-de-deux",
-      "denombrement",
-      "majoration"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection du 23 novembre 2022",
-      "reference": "2023-01_Enonce-Web-Test-1.pdf, exercice 1 ; corrigé 2023-01_Corrige-Web-Test-1.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Énoncé-Web-Test-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-01_Enonce-Web-Test-1.pdf"
-    },
-    "path": "grade-10/arithmetic/5/12801-the-first-digit-of-the-powers-of-two.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12803",
-    "title": "Le plus petit entier nippon",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 5,
-    "duration_min": 50,
-    "tags": [
-      "diviseurs",
-      "fractions",
-      "minimum",
-      "disjonction-de-cas",
-      "encadrement"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection du 23 novembre 2022",
-      "reference": "2023-01_Enonce-Web-Test-1.pdf, exercice 3 ; corrigé 2023-01_Corrige-Web-Test-1.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Énoncé-Web-Test-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-01_Enonce-Web-Test-1.pdf"
-    },
-    "path": "grade-10/arithmetic/5/12803-the-smallest-nippon-integer.md",
     "sections": [
       "Going further",
       "Hints",
@@ -62779,38 +63209,6 @@
     ]
   },
   {
-    "id": "12822",
-    "title": "Les 200 boîtes d'Alice",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "processus",
-      "monovariant",
-      "raisonnement-par-l-absurde",
-      "principe-extremal"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection d'avril 2023",
-      "reference": "2023-09_Enonce-Test-4.pdf, test junior, exercice 3 ; corrigé 2023-09_Corrige-Test-4.pdf. Le commentaire des correcteurs signale une erreur dans l'énoncé posé le jour de l'épreuve, sans dire laquelle ; l'énoncé publié, repris ici, est correct.",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-4.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-4.pdf"
-    },
-    "path": "grade-10/combinatorics/4/12822-alices-two-hundred-boxes.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "12825",
     "title": "Morgane et ses piles de pièces",
     "grade": 10,
@@ -62904,39 +63302,6 @@
       "local_copy": "sources/originals/pofm-tests/2025-10_Sujet-Test-2-2024-2025.pdf"
     },
     "path": "grade-10/combinatorics/4/12873-more-than-half-of-the-subsets-are-nice.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12888",
-    "title": "Deux entiers dont le produit plus un est un carré",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 45,
-    "tags": [
-      "principe-des-tiroirs",
-      "carre-parfait",
-      "restes",
-      "construction",
-      "optimisation"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection du 2 avril 2025",
-      "reference": "2025-10_Sujet-Test-4-2024-2025.pdf, test junior, exercice 2 ; corrigé 2025-10_Corrige-Test-4-2024-2025.pdf (même solution, avec des restes au lieu des congruences ; dans le corrigé, les paires (4k, 4k + 2) pour 0 ⩽ k ⩽ 505 contiennent 0 et oublient 2024, il faut lire (4k + 2, 4k + 4))",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-4-2024-2025.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2025-10_Sujet-Test-4-2024-2025.pdf"
-    },
-    "path": "grade-10/combinatorics/4/12888-two-integers-whose-product-plus-one-is-a-square.md",
     "sections": [
       "Going further",
       "Hints",
@@ -65858,39 +66223,6 @@
     ]
   },
   {
-    "id": "12814",
-    "title": "Le jardinier et le pivert",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 5,
-    "duration_min": 50,
-    "tags": [
-      "jeu",
-      "strategie",
-      "grille",
-      "coloriage",
-      "majoration",
-      "minoration"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection de février 2023",
-      "reference": "2023-09_Enonce-Test-3.pdf, test junior, exercice 4, et test EGMO, exercice 8 (le même énoncé) ; corrigé 2023-09_Corrige-Test-3.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-3.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-3.pdf"
-    },
-    "path": "grade-10/combinatorics/5/12814-the-gardener-and-the-woodpecker.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "12834",
     "title": "Effacer des nombres qui partagent un diviseur",
     "grade": 10,
@@ -66412,6 +66744,39 @@
       "local_copy": "sources/originals/pofm/poly_valbonne_2024.pdf"
     },
     "path": "grade-10/combinatorics/5/8739-the-silver-grid.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "8865",
+    "title": "Compter les répétitions, ligne après ligne",
+    "grade": 10,
+    "theme": "combinatorics",
+    "difficulty": 5,
+    "duration_min": 45,
+    "tags": [
+      "invariant",
+      "monotonie",
+      "comptage",
+      "suites-dentiers",
+      "stabilisation"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-09-20",
+    "source": {
+      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe B, « Combinatoire : Révisions » (Maryam), d'après les stages de Valbonne 2018 et 2023",
+      "reference": "Poly-2025-compresse.pdf, Groupe B, « Combinatoire : Révisions », exercice 12, p. 227 et 230. La justification imprimée affirme que « la somme des nombres d'une ligne autre que la première fait 2018 », ce qui est faux : la ligne 1, 1, 2 donne 2, 2, 1, de somme 5 et non 3. La démonstration ci-dessous utilise à la place que chaque nombre écrit est majoré par 2018, ce qui suffit.",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
+    },
+    "path": "grade-10/combinatorics/5/8865-counting-the-repetitions-line-after-line.md",
     "sections": [
       "Going further",
       "Hints",
@@ -67473,7 +67838,9 @@
       "cocyclicite"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "12459"
+    ],
     "same_as": [],
     "created": "2026-10-01",
     "source": {
@@ -68263,75 +68630,6 @@
     ]
   },
   {
-    "id": "12827",
-    "title": "Trois cercles et un alignement",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 3,
-    "duration_min": 35,
-    "tags": [
-      "angle-inscrit",
-      "angle-au-centre",
-      "symetrie-axiale",
-      "mediatrice",
-      "triangle-isocele",
-      "alignement"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection de mai 2023",
-      "reference": "2023-09_Enonce-Test-5.pdf, test junior, exercice 1 ; corrigé 2023-09_Corrige-Test-5.pdf (le corrigé écrit à tort BCD = 180° − DAB : en fait BCD = DAB, car D et E sont du même côté de (AB) et D est entre A et E)",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-5.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-5.pdf"
-    },
-    "path": "grade-10/geometry/3/12827-three-circles-and-an-alignment.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12871",
-    "title": "Une tangente, un cercle de centre B et quatre points cocycliques",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "tangente",
-      "triangle-isocele",
-      "cercle-circonscrit",
-      "cercle-de-diametre",
-      "cocyclicite",
-      "chasse-aux-angles",
-      "coordonnees"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection du 15 janvier 2025",
-      "reference": "2025-10_Sujet-Test-2-2024-2025.pdf, test junior, exercice 1 ; corrigé 2025-10_Corrige-Test-2-2024-2025.pdf (on suit la solution alternative n° 1 ; la seconde preuve, par les coordonnées, est ajoutée ici)",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-2-2024-2025.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2025-10_Sujet-Test-2-2024-2025.pdf"
-    },
-    "path": "grade-10/geometry/3/12871-a-tangent-a-circle-centred-at-b-and-four-concyclic-points.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "13001",
     "title": "Une parallèle née de deux cercles",
     "grade": 10,
@@ -68949,37 +69247,6 @@
       "local_copy": "sources/originals/pofm/stage_junior_2010.pdf"
     },
     "path": "grade-10/geometry/3/7021-the-line-through-two-midpoints-of-a-trapezium.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7022",
-    "title": "Deux angles égaux dans un rectangle",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "rectangle",
-      "chasse-aux-angles",
-      "triangle-isocele"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2010",
-      "reference": "stage_junior_2010.pdf, lundi 25 octobre (géométrie), exercices d'échauffement, exercice 3 ; repris en 2012 (stage_junior_2012.pdf, exercices d'échauffement, exercice 3)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2010.pdf"
-    },
-    "path": "grade-10/geometry/3/7022-two-equal-angles-in-a-rectangle.md",
     "sections": [
       "Going further",
       "Hints",
@@ -74587,7 +74854,7 @@
     "tags": [
       "cercle",
       "angle-inscrit",
-      "points-cocycliques",
+      "cocyclicite",
       "parallelogramme",
       "point-fantome",
       "alignement"
@@ -74852,40 +75119,6 @@
     ]
   },
   {
-    "id": "12802",
-    "title": "Un parallélogramme, un centre de gravité et une bissectrice",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 5,
-    "duration_min": 50,
-    "tags": [
-      "parallelogramme",
-      "centre-de-gravite",
-      "cercle",
-      "pythagore",
-      "triangles-semblables",
-      "bissectrice"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection du 23 novembre 2022",
-      "reference": "2023-01_Enonce-Web-Test-1.pdf, exercice 2 ; corrigé 2023-01_Corrige-Web-Test-1.pdf (qui conclut par la puissance d'un point et le théorème du pôle Sud ; ici, Pythagore et deux paires de triangles semblables)",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Énoncé-Web-Test-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-01_Enonce-Web-Test-1.pdf"
-    },
-    "path": "grade-10/geometry/5/12802-a-parallelogram-a-centroid-and-a-bisector.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "12813",
     "title": "Trois parallélogrammes et deux cercles concentriques",
     "grade": 10,
@@ -74947,40 +75180,6 @@
     },
     "path": "grade-10/geometry/5/12818-a-tangent-perpendicular-bisector-and-a-right-angle.md",
     "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12823",
-    "title": "Deux bissectrices qui se coupent sur (XD)",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 5,
-    "duration_min": 60,
-    "tags": [
-      "triangle-isocele",
-      "bissectrice",
-      "cocyclicite",
-      "symetrie-axiale",
-      "angle-droit",
-      "concours"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test de sélection d'avril 2023",
-      "reference": "2023-09_Enonce-Test-4.pdf, test junior, exercice 4 ; corrigé 2023-09_Corrige-Test-4.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-4.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2023-09_Enonce-Test-4.pdf"
-    },
-    "path": "grade-10/geometry/5/12823-two-bisectors-meeting-on-the-line-xd.md",
-    "sections": [
-      "Going further",
       "Hints",
       "Solution",
       "Statement"
@@ -84009,40 +84208,6 @@
     ]
   },
   {
-    "id": "7856",
-    "title": "1/x + 1/y = 1/p a exactement trois solutions",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "nombres-premiers",
-      "fractions-egyptiennes",
-      "factorisation",
-      "diviseurs"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7452"
-    ],
-    "same_as": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2015",
-      "reference": "stage_ete_2015.pdf, quatrième période, groupe A « arithmétique », lundi 24 après-midi (Vincent Bouis), exercice 10",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2015.pdf"
-    },
-    "path": "grade-11/arithmetic/3/7856-one-over-x-plus-one-over-y-equals-one-over-p.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7928",
     "title": "2 puissance n plus 1, carré ou cube",
     "grade": 11,
@@ -85924,40 +86089,6 @@
     ]
   },
   {
-    "id": "7452",
-    "title": "Compter les solutions d'une équation de fractions",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "equation-diophantienne",
-      "diviseurs",
-      "factorisation",
-      "denombrement"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7856"
-    ],
-    "same_as": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Grésillon 2011, chasse au trésor",
-      "reference": "stage_ete_2011.pdf, « Chasse au trésor », exercices des débutants, exercice 3",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2011.pdf"
-    },
-    "path": "grade-11/arithmetic/4/7452-counting-the-solutions-of-a-fraction-equation.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7534",
     "title": "Un multiple tout près d'un entier",
     "grade": 11,
@@ -87026,39 +87157,6 @@
     ]
   },
   {
-    "id": "8434",
-    "title": "x² − 2 × y! = 2021",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "factorielle",
-      "congruences",
-      "carres",
-      "equation-en-entiers",
-      "cas-a-traiter"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe A",
-      "reference": "Poly-2021-Valbonne.pdf, Groupe A, « Modulos & factorisation » (Théo Lenoir et Angela Xue), exercice 11",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
-    },
-    "path": "grade-11/arithmetic/4/8434-x-squared-minus-twice-a-factorial.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8437",
     "title": "14ⁿ + 19 n'est jamais premier",
     "grade": 11,
@@ -87634,6 +87732,39 @@
       "local_copy": "sources/originals/pofm-envois/2017-10_ofm-2016-2017-envoi-2.pdf"
     },
     "path": "grade-11/arithmetic/5/10443-two-sequences-adding-each-others-square-roots.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "10815",
+    "title": "2a⁴ + 2a²b² + b⁴ = c² n'a pas de solution avec a non nul",
+    "grade": 11,
+    "theme": "arithmetic",
+    "difficulty": 5,
+    "duration_min": 90,
+    "tags": [
+      "triplet-pythagoricien",
+      "descente-infinie",
+      "congruences",
+      "pgcd",
+      "puissances"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, envoi d'entraînement 2013-2014 n° 4 (arithmétique)",
+      "reference": "2017-10_ofm-2013-2014-envoi-4.pdf, Exercices du groupe A, exercice 8 (Corée 2003) ; corrigé 2017-10_ofm-2013-2014-envoi-4-solutions.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-4.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-4.pdf"
+    },
+    "path": "grade-11/arithmetic/5/10815-two-a-to-the-fourth-plus-two-a-squared-b-squared-plus-b-to-the-fourth.md",
     "sections": [
       "Going further",
       "Hints",
@@ -88667,38 +88798,6 @@
     ]
   },
   {
-    "id": "8676",
-    "title": "Une équation avec 1005, 2011 et 1006",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 5,
-    "duration_min": 50,
-    "tags": [
-      "equation-diophantienne",
-      "congruences",
-      "modulo-huit",
-      "identites-remarquables"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2023, La Muraille",
-      "reference": "valbonne-2023.pdf, chapitre « La Muraille », exercice 8 (niveau 1, une étoile). La Muraille ne publie pas de corrigés ; solution rédigée ici et vérifiée par calcul.",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/12/valbonne-2023.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/valbonne-2023.pdf"
-    },
-    "path": "grade-11/arithmetic/5/8676-three-consecutive-looking-numbers.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8717",
     "title": "Une infinité de nombres premiers de la forme 4k + 3",
     "grade": 11,
@@ -89343,39 +89442,6 @@
       "local_copy": "sources/originals/namc/JohnsonSabloffIWalktheLine.pdf"
     },
     "path": "grade-11/combinatorics/3/5420-forbidden-crossroads.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7131",
-    "title": "Quinze participants et la corvée de vaisselle",
-    "grade": 11,
-    "theme": "combinatorics",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "double-comptage",
-      "paires",
-      "coefficients-binomiaux"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [
-      "13048"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013",
-      "reference": "stage_junior_2013.pdf, « Avancés : combinatoire », mercredi matin (Irène Marcovici), exercice 7",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2013.pdf"
-    },
-    "path": "grade-11/combinatorics/3/7131-fifteen-campers-and-the-washing-up.md",
     "sections": [
       "Going further",
       "Hints",
@@ -90756,40 +90822,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
     },
     "path": "grade-11/combinatorics/4/7730-a-list-with-everyone-on-it.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7740",
-    "title": "Des coefficients −1, 0, 1 pour tomber sur un multiple de 2014",
-    "grade": 11,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "principe-des-tiroirs",
-      "restes",
-      "sous-sommes",
-      "divisibilite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [
-      "11832"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2014, cours de Groupe B",
-      "reference": "stage_ete_2014.pdf, « Groupe B : logique et stratégies de base », mercredi 20 matin (Alix Deleporte), exercice 16",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
-    },
-    "path": "grade-11/combinatorics/4/7740-coefficients-minus-one-zero-one.md",
     "sections": [
       "Going further",
       "Hints",
@@ -92894,39 +92926,6 @@
       "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
     },
     "path": "grade-11/combinatorics/5/8862-alice-bob-and-the-rows-of-the-grid.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8865",
-    "title": "Compter les répétitions, ligne après ligne",
-    "grade": 11,
-    "theme": "combinatorics",
-    "difficulty": 5,
-    "duration_min": 45,
-    "tags": [
-      "invariant",
-      "monotonie",
-      "comptage",
-      "suites-dentiers",
-      "stabilisation"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe B, « Combinatoire : Révisions » (Maryam), d'après les stages de Valbonne 2018 et 2023",
-      "reference": "Poly-2025-compresse.pdf, Groupe B, « Combinatoire : Révisions », exercice 12, p. 227 et 230. La justification imprimée affirme que « la somme des nombres d'une ligne autre que la première fait 2018 », ce qui est faux : la ligne 1, 1, 2 donne 2, 2, 1, de somme 5 et non 3. La démonstration ci-dessous utilise à la place que chaque nombre écrit est majoré par 2018, ce qui suffit.",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-11/combinatorics/5/8865-counting-the-repetitions-line-after-line.md",
     "sections": [
       "Going further",
       "Hints",
@@ -95781,7 +95780,9 @@
       "theoreme-de-reim"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "10220"
+    ],
     "same_as": [],
     "created": "2026-10-01",
     "source": {
@@ -98051,6 +98052,40 @@
     ]
   },
   {
+    "id": "11841",
+    "title": "La droite (XY) passe par un point fixe",
+    "grade": 11,
+    "theme": "geometry",
+    "difficulty": 5,
+    "duration_min": 60,
+    "tags": [
+      "angles-orientes",
+      "cercle",
+      "puissance-d-un-point",
+      "point-fixe",
+      "symetrie-axiale",
+      "tangente"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, envoi d'entraînement 2021-2022 n° 5 (pot-pourri)",
+      "reference": "2022-03_sujet-envoi-5.pdf, Exercices Seniors, exercice 16 ; corrigé 2022-05_corrige-envoi-5.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/03/sujet-envoi-5.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-envois/2022-03_sujet-envoi-5.pdf"
+    },
+    "path": "grade-11/geometry/5/11841-the-line-xy-passes-through-a-fixed-point.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "11867",
     "title": "Le symétrique du centre exinscrit et deux angles supplémentaires",
     "grade": 11,
@@ -98111,6 +98146,40 @@
       "local_copy": "sources/originals/pofm-envois/2025-04_Sujet-envoi-5-2024-2025.pdf"
     },
     "path": "grade-11/geometry/5/11885-an-inscribed-2n-gon-with-equal-angles-to-an-inner-point.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "12037",
+    "title": "BE = CD : un point sur la bissectrice, un point sur le cercle",
+    "grade": 11,
+    "theme": "geometry",
+    "difficulty": 5,
+    "duration_min": 90,
+    "tags": [
+      "cercle-circonscrit",
+      "cocyclicite",
+      "bissectrice",
+      "rotation",
+      "angles-orientes",
+      "coordonnees"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-10-01",
+    "source": {
+      "name": "POFM, test du 24 mars 2013",
+      "reference": "2017-10_ofm-2012-2013-test-mars-2.pdf, exercice 8 ; corrigé 2017-10_ofm-2012-2013-test-mars-corrige.pdf (dans le corrigé, la question 1 suppose déjà R sur le cercle ABC pour en faire le centre d'une similitude, et la bissectrice intérieure est obtenue par un argument de continuité ; solution réécrite avec un centre de rotation construit explicitement et des coordonnées ; énoncé précisé : D et E distincts des sommets)",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-mars-2.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-mars-2.pdf"
+    },
+    "path": "grade-11/geometry/5/12037-be-equals-cd-a-point-on-the-bisector-a-point-on-the-circle.md",
     "sections": [
       "Going further",
       "Hints",
@@ -98312,7 +98381,7 @@
       "aire",
       "rapport-de-longueurs",
       "mediane",
-      "points-alignes"
+      "alignement"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -98410,6 +98479,7 @@
       "cercle",
       "tangente",
       "geometrie-reperee",
+      "coordonnees",
       "equation-de-cercle",
       "produit-scalaire",
       "symetrie",
@@ -103573,7 +103643,7 @@
       "division-euclidienne",
       "racines",
       "limite",
-      "hors-programme"
+      "maths-expertes"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -103605,7 +103675,7 @@
       "moyenne-arithmetique-geometrique",
       "exponentielle",
       "somme-cyclique",
-      "hors-programme"
+      "logarithme"
     ],
     "adapted_from": null,
     "see_also": [],
@@ -107205,40 +107275,6 @@
     ]
   },
   {
-    "id": "10815",
-    "title": "2a⁴ + 2a²b² + b⁴ = c² n'a pas de solution avec a non nul",
-    "grade": 12,
-    "theme": "arithmetic",
-    "difficulty": 5,
-    "duration_min": 90,
-    "tags": [
-      "triplet-pythagoricien",
-      "descente-infinie",
-      "congruences",
-      "pgcd",
-      "puissances",
-      "maths-expertes"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, envoi d'entraînement 2013-2014 n° 4 (arithmétique)",
-      "reference": "2017-10_ofm-2013-2014-envoi-4.pdf, Exercices du groupe A, exercice 8 (Corée 2003) ; corrigé 2017-10_ofm-2013-2014-envoi-4-solutions.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-4.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-4.pdf"
-    },
-    "path": "grade-12/arithmetic/5/10815-two-a-to-the-fourth-plus-two-a-squared-b-squared-plus-b-to-the-fourth.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "10824",
     "title": "m divise n² + 2 et n divise m² + 2",
     "grade": 12,
@@ -107822,7 +107858,7 @@
     "difficulty": 5,
     "duration_min": 90,
     "tags": [
-      "hors-programme",
+      "maths-expertes",
       "equation-fonctionnelle",
       "valuation",
       "petit-theoreme-de-fermat",
@@ -110088,39 +110124,6 @@
     ]
   },
   {
-    "id": "8822",
-    "title": "p²(p³ − 1) = q(q + 1)",
-    "grade": 12,
-    "theme": "arithmetic",
-    "difficulty": 5,
-    "duration_min": 50,
-    "tags": [
-      "nombres-premiers",
-      "lemme-de-gauss",
-      "divisibilite",
-      "encadrement",
-      "equation-entiere"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Arithmétique : Nombres premiers » (Anatole et Martin), exercice 24, p. 60",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-12/arithmetic/5/8822-an-equation-with-two-primes.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8826",
     "title": "Le plus petit n sans solution non nulle",
     "grade": 12,
@@ -110243,40 +110246,6 @@
       "local_copy": "sources/originals/pofm/Poly-Valbonne-2026.pdf"
     },
     "path": "grade-12/arithmetic/5/8926-if-n-divides-two-to-the-n-plus-one-then-three-divides-n.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8927",
-    "title": "2ᵐ + 3ⁿ est un carré parfait",
-    "grade": 12,
-    "theme": "arithmetic",
-    "difficulty": 5,
-    "duration_min": 55,
-    "tags": [
-      "equation-diophantienne",
-      "congruences",
-      "factorisation",
-      "puissances"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [
-      "11804"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2026, Groupe B",
-      "reference": "Poly-Valbonne-2026.pdf, chapitre IV « Groupe B », entraînement de fin de parcours, exercice 3",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2026/09/Poly-Valbonne-2026.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-Valbonne-2026.pdf"
-    },
-    "path": "grade-12/arithmetic/5/8927-two-to-the-m-plus-three-to-the-n-is-a-square.md",
     "sections": [
       "Going further",
       "Hints",
@@ -114727,41 +114696,6 @@
     ]
   },
   {
-    "id": "11841",
-    "title": "La droite (XY) passe par un point fixe",
-    "grade": 12,
-    "theme": "geometry",
-    "difficulty": 5,
-    "duration_min": 60,
-    "tags": [
-      "hors-programme",
-      "angles-orientes",
-      "cercle",
-      "puissance-d-un-point",
-      "point-fixe",
-      "symetrie-axiale",
-      "tangente"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, envoi d'entraînement 2021-2022 n° 5 (pot-pourri)",
-      "reference": "2022-03_sujet-envoi-5.pdf, Exercices Seniors, exercice 16 ; corrigé 2022-05_corrige-envoi-5.pdf",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/03/sujet-envoi-5.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-envois/2022-03_sujet-envoi-5.pdf"
-    },
-    "path": "grade-12/geometry/5/11841-the-line-xy-passes-through-a-fixed-point.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "11856",
     "title": "Quatre centres de cercles inscrits et un angle droit en I",
     "grade": 12,
@@ -114858,41 +114792,6 @@
       "local_copy": "sources/originals/pofm-tests/2017-10_ofm-2011-2012-test-mars-2.pdf"
     },
     "path": "grade-12/geometry/5/12010-the-midpoint-of-ef-on-the-common-chord.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "12037",
-    "title": "BE = CD : un point sur la bissectrice, un point sur le cercle",
-    "grade": 12,
-    "theme": "geometry",
-    "difficulty": 5,
-    "duration_min": 90,
-    "tags": [
-      "hors-programme",
-      "cercle-circonscrit",
-      "cocyclicite",
-      "bissectrice",
-      "rotation",
-      "angles-orientes",
-      "coordonnees"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "same_as": [],
-    "created": "2026-10-01",
-    "source": {
-      "name": "POFM, test du 24 mars 2013",
-      "reference": "2017-10_ofm-2012-2013-test-mars-2.pdf, exercice 8 ; corrigé 2017-10_ofm-2012-2013-test-mars-corrige.pdf (dans le corrigé, la question 1 suppose déjà R sur le cercle ABC pour en faire le centre d'une similitude, et la bissectrice intérieure est obtenue par un argument de continuité ; solution réécrite avec un centre de rotation construit explicitement et des coordonnées ; énoncé précisé : D et E distincts des sommets)",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-mars-2.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-mars-2.pdf"
-    },
-    "path": "grade-12/geometry/5/12037-be-equals-cd-a-point-on-the-bisector-a-point-on-the-circle.md",
     "sections": [
       "Going further",
       "Hints",

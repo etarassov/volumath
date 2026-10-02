@@ -1,9 +1,9 @@
 ---
 id: "12821"
 title: "4(a³ + b³ + c³ + 3) ≥ 3(a + 1)(b + 1)(c + 1)"
-grade: 10
+grade: 9
 theme: algebra
-difficulty: 4
+difficulty: 5
 duration_min: 35
 tags: [inegalite, factorisation, identites-remarquables, puissances]
 adapted_from: null

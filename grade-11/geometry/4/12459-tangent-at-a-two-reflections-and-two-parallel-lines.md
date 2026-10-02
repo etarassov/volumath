@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 50
 tags: [tangente, cercle-circonscrit, produit-scalaire, puissance-d-un-point, symetrie-centrale, parallelisme, theoreme-de-reim]
 adapted_from: null
-see_also: []
+see_also: ["10220"]
 same_as: []
 created: 2026-10-01
 source:
@@ -26,7 +26,7 @@ par rapport au point $P$.
 
 Soit $\omega_1$ le cercle circonscrit au triangle $DAC$, et $\omega_2$ le cercle circonscrit au
 triangle $APB$. Les cercles $\omega_1$ et $\omega_2$ se recoupent en un point $F$, autre que $A$. La
-droite $(BF)$ recoupe $\omega_1$ en un point $G$, autre que $F$.
+droite $(BF)$ recoupe $\omega_1$ en un point $G$, autre que $F$. On suppose $G \neq E$.
 
 Démontrer que les droites $(BC)$ et $(EG)$ sont parallèles.
 

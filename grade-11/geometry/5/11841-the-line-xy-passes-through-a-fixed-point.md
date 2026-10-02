@@ -1,11 +1,11 @@
 ---
 id: "11841"
 title: "La droite (XY) passe par un point fixe"
-grade: 12
+grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [hors-programme, angles-orientes, cercle, puissance-d-un-point, point-fixe, symetrie-axiale, tangente]
+tags: [angles-orientes, cercle, puissance-d-un-point, point-fixe, symetrie-axiale, tangente]
 adapted_from: null
 see_also: []
 same_as: []
@@ -104,7 +104,7 @@ $$QA^2 = QO^2 - R^2. \qquad (\star)$$
 
 $$MO^2 = \overrightarrow{OM} \cdot \overrightarrow{OM} = \left(\overrightarrow{OA} + \lambda\vec{u}\right) \cdot \left(\overrightarrow{OA} + \lambda\vec{u}\right) = OA^2 + 2\lambda\, \overrightarrow{OA} \cdot \vec{u} + \lambda^2.$$
 
-La condition $(\star)$ pour $M$ devient $2\lambda\, \overrightarrow{OA} \cdot \vec{u} = R^2 - OA^2$. Or $\overrightarrow{OA} \cdot \vec{u} \neq 0$ : sinon $(OA)$ serait perpendiculaire à $\ell$, donc à $(BC)$, et serait la perpendiculaire à $(BC)$ passant par $O$, c'est-à-dire $\Delta$. On aurait $A \in \Delta$, ce qui est exclu. Il y a donc une seule valeur de $\lambda$ qui convient,
+La condition $(\star)$ pour $M$ devient $2\lambda\, \overrightarrow{OA} \cdot \vec{u} = R^2 - OA^2$. Or $\overrightarrow{OA} \cdot \vec{u} \neq 0$. Sinon, ou bien $A = O$, ou bien la droite $(OA)$ est perpendiculaire à $\ell$, donc à $(BC)$, et c'est la perpendiculaire à $(BC)$ passant par $O$, c'est-à-dire $\Delta$. Dans les deux cas $A \in \Delta$, puisque $O$ est sur $\Delta$, ce qui est exclu. Il y a donc une seule valeur de $\lambda$ qui convient,
 
 $$\lambda_0 = \frac{R^2 - OA^2}{2\, \overrightarrow{OA} \cdot \vec{u}},$$
 

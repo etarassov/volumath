@@ -1,9 +1,9 @@
 ---
 id: "12827"
 title: "Trois cercles et un alignement"
-grade: 10
+grade: 9
 theme: geometry
-difficulty: 3
+difficulty: 4
 duration_min: 35
 tags: [angle-inscrit, angle-au-centre, symetrie-axiale, mediatrice, triangle-isocele, alignement]
 adapted_from: null
@@ -81,4 +81,4 @@ Les demi-droites $[AD)$ et $[AE)$ font le même angle $\alpha$ avec la demi-droi
 ## Going further
 
 1. L'hypothèse $\widehat{CAB} < \widehat{ABC}$ n'a pas servi. Où a-t-on utilisé $\widehat{CAB} < \widehat{BCA}$ ? Que se passe-t-il si $\widehat{CAB} = \widehat{BCA}$ ?
-2. Montrez que $D$ est entre $A$ et $E$. (On pourra comparer $AD$ et $AE = AC$, sachant qu'une corde qui intercepte un angle inscrit $\theta$ dans un cercle de rayon $R$ mesure $2R\sin\theta$.)
+2. Montrez que $D$ est entre $A$ et $E$. (On pourra comparer $AD$ et $AE = AC$. Notons $R$ le rayon de $\omega$. La hauteur issue de $O$ coupe le triangle isocèle $OAD$ en deux triangles rectangles : avec le sinus et l'angle au centre, montrer que $AD = 2R\sin\widehat{ACD}$. De même, $AC = 2R\sin\widehat{ABC}$.)

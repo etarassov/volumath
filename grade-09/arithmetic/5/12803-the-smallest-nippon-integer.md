@@ -1,7 +1,7 @@
 ---
 id: "12803"
 title: "Le plus petit entier nippon"
-grade: 10
+grade: 9
 theme: arithmetic
 difficulty: 5
 duration_min: 50
