@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 20
-tags: [angles, triangle isocele, milieu, cercle circonscrit]
+tags: [angles, triangle-isocele, milieu, cercle-circonscrit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023"

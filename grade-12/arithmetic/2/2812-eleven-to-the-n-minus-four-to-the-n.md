@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 2
 duration_min: 20
-tags: [recurrence, divisibilite, puissances, multiple]
+tags: [recurrence, divisibilite, puissances, multiples]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School I, Proofs using Induction"

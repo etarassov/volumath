@@ -8,6 +8,7 @@ duration_min: 55
 tags: [equation-diophantienne, congruences, factorisation, puissances]
 adapted_from: null
 see_also: []
+same_as: ["11804"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2026, Groupe B"

@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 2
 duration_min: 30
-tags: [carre, cercle circonscrit, mediatrice, coordonnees, vecteurs]
+tags: [carre, cercle-circonscrit, mediatrice, coordonnees, vecteurs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 1 (géométrie)"

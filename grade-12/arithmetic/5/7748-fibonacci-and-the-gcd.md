@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [fibonacci, pgcd, recurrence double, algorithme d euclide]
+tags: [fibonacci, pgcd, recurrence-double, algorithme-d-euclide]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe A"

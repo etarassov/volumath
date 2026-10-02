@@ -5,9 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 4
 duration_min: 40
-tags: [disjonction-de-cas, sommes, partage, demonstration]
+tags: [disjonction-de-cas, somme, partage, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Bubbling Cauldrons (Julia Robinson Mathematics Festival)"

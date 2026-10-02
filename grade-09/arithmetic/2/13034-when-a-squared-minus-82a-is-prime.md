@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 2
 duration_min: 15
-tags: [nombres premiers, factorisation, entiers relatifs, disjonction de cas]
+tags: [nombres-premiers, factorisation, entiers-relatifs, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, éliminatoires du test de rentrée 2015 (Coupe Animath d'automne), questionnaires collégiens et lycéens"

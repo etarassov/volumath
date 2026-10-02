@@ -8,6 +8,7 @@ duration_min: 20
 tags: [bissectrice, cercle-circonscrit, centre-cercle-inscrit, angle-inscrit, pole-sud, mediatrice]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 1 (géométrie)"

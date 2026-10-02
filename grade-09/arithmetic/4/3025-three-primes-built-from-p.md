@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 25
-tags: [nombres premiers, restes, divisibilite, disjonction de cas]
+tags: [nombres-premiers, restes, divisibilite, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Olympiads training, Fermat's Thm"

@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [somme des chiffres, divisibilite par 9, multiples, disjonction de cas]
+tags: [somme-des-chiffres, divisibilite-par-9, multiples, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, Coupe Animath"

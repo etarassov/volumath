@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [difference de deux carres, parite, equation en entiers]
+tags: [difference-de-deux-carres, parite, equation-en-entiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2012, groupe des débutants"

@@ -8,6 +8,7 @@ duration_min: 35
 tags: [cercle-de-diametre, orthocentre, hauteur, triangles-semblables, triangle-rectangle, milieu]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 1 (géométrie)"

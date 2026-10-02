@@ -8,6 +8,7 @@ duration_min: 90
 tags: [pentagone, tangente, angle-inscrit, cocyclicite, chasse-aux-angles, parallelisme, rotation, vecteurs, parallelogramme, droites-concourantes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 15 janvier 2025"

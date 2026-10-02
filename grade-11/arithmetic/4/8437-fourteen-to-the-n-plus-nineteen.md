@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [nombre-premier, congruence, parite, disjonction-de-cas]
+tags: [nombres-premiers, congruences, parite, disjonction-de-cas]
 adapted_from: null
 see_also: ["8430"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe A"

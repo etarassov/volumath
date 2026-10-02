@@ -8,6 +8,7 @@ duration_min: 45
 tags: [triangle-equilateral, cercle-inscrit, tangente, coordonnees, colinearite, produit-scalaire, paralleles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 1 (géométrie)"

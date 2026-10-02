@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [translation, vecteur, plus-court-chemin, inegalite-triangulaire, parallelogramme]
+tags: [translation, vecteurs, plus-court-chemin, inegalite-triangulaire, parallelogramme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2, «Geometric Optimization»"

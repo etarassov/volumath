@@ -8,6 +8,7 @@ duration_min: 30
 tags: [probabilite, denombrement, cartes, coefficient-binomial, equiprobabilite]
 adapted_from: null
 see_also: ["2409"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, Probability"

@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [principe des tiroirs, divisibilite, reste, chiffres]
+tags: [principe-des-tiroirs, divisibilite, restes, chiffres]
 adapted_from: null
 see_also: ["1217"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe A"

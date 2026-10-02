@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [principe des tiroirs, partie entiere, partie decimale, approximation]
+tags: [principe-des-tiroirs, partie-entiere, partie-decimale, approximation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, La Muraille"

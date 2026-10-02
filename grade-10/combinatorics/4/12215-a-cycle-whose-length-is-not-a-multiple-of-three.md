@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [graphes, villes et routes, chemin le plus long, circuits, restes, divisibilite par 3]
+tags: [graphe, villes-et-routes, chemin-le-plus-long, circuit, restes, divisibilite-par-3]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de février 2015 (groupe A et EGMO)"

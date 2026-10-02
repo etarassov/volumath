@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 2
 duration_min: 10
-tags: [systemes, equations, somme]
+tags: [systeme, equation, somme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12, Week 1: Algebra"

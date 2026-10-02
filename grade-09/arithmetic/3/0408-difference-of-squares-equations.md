@@ -5,8 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [identites remarquables, diviseurs, nombres premiers, equations entieres]
+tags: [identites-remarquables, diviseurs, nombres-premiers, equation-entiere]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015"

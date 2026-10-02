@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 70
-tags: [nombres premiers, puissances, pgcd, congruences, binome de newton, equation diophantienne, maths-expertes]
+tags: [nombres-premiers, puissances, pgcd, congruences, binome-de-newton, equation-diophantienne, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mars 2012"

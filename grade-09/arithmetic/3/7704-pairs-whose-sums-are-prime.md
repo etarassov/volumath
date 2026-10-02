@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [nombres premiers, paires, somme, comptage]
+tags: [nombres-premiers, paires, somme, comptage]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, Coupe Animath du 3 juin 2014"

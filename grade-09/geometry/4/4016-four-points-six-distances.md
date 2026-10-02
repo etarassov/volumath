@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 4
 duration_min: 25
-tags: [distances, triangle-equilateral, pythagore, configuration]
+tags: [distance, triangle-equilateral, pythagore, configuration]
 adapted_from: null
-see_also: ["3825"]
+see_also: []
+same_as: ["3825"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 2A, Week 1 Competition"

@@ -8,6 +8,7 @@ duration_min: 15
 tags: [congruences, puissances, divisibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

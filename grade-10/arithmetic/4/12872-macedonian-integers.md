@@ -8,6 +8,7 @@ duration_min: 45
 tags: [factorielle, diviseurs, nombre-de-diviseurs, nombres-premiers, decomposition-en-facteurs-premiers, parite, puissances-de-deux, disjonction-de-cas, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 15 janvier 2025"

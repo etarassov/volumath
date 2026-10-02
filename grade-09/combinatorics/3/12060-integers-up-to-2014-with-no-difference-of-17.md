@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 30
-tags: [principe des tiroirs, differences, blocs, majoration, exemple extremal, entiers]
+tags: [principe-des-tiroirs, differences, blocs, majoration, exemple-extremal, entiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de sélection pour la JBMO 2014 (14 mai 2014)"

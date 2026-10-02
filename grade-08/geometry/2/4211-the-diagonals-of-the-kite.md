@@ -8,6 +8,7 @@ duration_min: 15
 tags: [quadrilatere, mediatrice, symetrie, perpendiculaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Graphs and Geometry III"

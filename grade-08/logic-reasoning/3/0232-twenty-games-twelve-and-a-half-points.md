@@ -7,6 +7,8 @@ difficulty: 3
 duration_min: 20
 tags: [tournoi, echecs, points, cas-de-reference, mise-en-equation]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей"

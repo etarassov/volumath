@@ -5,9 +5,10 @@ grade: 12
 theme: functions-analysis
 difficulty: 4
 duration_min: 35
-tags: [equation fonctionnelle, inegalite, somme et produit, second degre]
+tags: [equation-fonctionnelle, inegalite, somme-et-produit, second-degre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, la muraille"

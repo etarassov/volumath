@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 30
 tags: [algorithme, majoration, recurrence, tri, strategie]
 adapted_from: null
-see_also: ["6108"]
+see_also: ["6108", "6110"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular Winter/Spring 2016, rubrique « In Session »"

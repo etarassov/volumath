@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [inegalite, fractions, identite remarquable, inegalite de nesbitt, changement de variables]
+tags: [inegalite, fractions, identites-remarquables, inegalite-de-nesbitt, changement-de-variable]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de mars 2017"

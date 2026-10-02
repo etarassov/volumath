@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [equation diophantienne, nombres premiers, factorisation, diviseurs communs, puissances]
+tags: [equation-diophantienne, nombres-premiers, factorisation, diviseur-commun, puissances]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du stage de mars 2013"

@@ -8,6 +8,7 @@ duration_min: 20
 tags: [calendrier, restes, division-euclidienne, jours-de-la-semaine]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), X26 AMC 8, Number Theory"

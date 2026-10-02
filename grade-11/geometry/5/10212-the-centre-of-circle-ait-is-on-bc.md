@@ -8,6 +8,7 @@ duration_min: 60
 tags: [cercle-inscrit, longueurs-des-tangentes, theoreme-des-cordes, puissance-d-un-point, symetrie-axiale, bissectrice, cocyclicite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 1 (géométrie)"

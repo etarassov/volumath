@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [divisibilite, congruences, chiffre des unites, puissances]
+tags: [divisibilite, congruences, chiffre-des-unites, puissances]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe B"

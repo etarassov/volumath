@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 75
-tags: [cercle inscrit, cercle circonscrit, angle inscrit, puissance d'un point, produit scalaire, thales, parallelogramme, mediatrice]
+tags: [cercle-inscrit, cercle-circonscrit, angle-inscrit, puissance-d-un-point, produit-scalaire, thales, parallelogramme, mediatrice]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 2 (géométrie)"

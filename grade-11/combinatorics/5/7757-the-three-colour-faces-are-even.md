@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [double comptage, parite, polyedre, coloriage]
+tags: [double-comptage, parite, polyedre, coloriage]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, la muraille"

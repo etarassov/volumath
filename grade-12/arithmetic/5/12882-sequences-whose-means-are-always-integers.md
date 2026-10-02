@@ -8,6 +8,7 @@ duration_min: 75
 tags: [suites, moyenne, moyenne-geometrique, divisibilite, decomposition-en-facteurs-premiers, valuation, periodicite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection des 19 et 20 février 2025"

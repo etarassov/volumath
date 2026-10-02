@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [equation fonctionnelle, nombres premiers, divisibilite, injectivite, contraposee]
+tags: [equation-fonctionnelle, nombres-premiers, divisibilite, injectivite, contraposee]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 5 (pot-pourri)"

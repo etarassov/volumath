@@ -5,9 +5,10 @@ grade: 12
 theme: functions-analysis
 difficulty: 5
 duration_min: 45
-tags: [logarithme, ensemble de definition, fonction decroissante, inegalites]
+tags: [logarithme, ensemble-de-definition, fonction-decroissante, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Functions review"

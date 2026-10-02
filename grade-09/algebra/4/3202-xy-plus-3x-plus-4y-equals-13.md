@@ -8,6 +8,7 @@ duration_min: 25
 tags: [equation, entiers, factorisation, diviseurs, developpement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Algebra review"

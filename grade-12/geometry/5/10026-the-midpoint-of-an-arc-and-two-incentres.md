@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 75
-tags: [cercle inscrit, angle inscrit, chasse aux angles, triangles semblables, puissance-d-un-point, alignement, quadrilatere inscrit]
+tags: [cercle-inscrit, angle-inscrit, chasse-aux-angles, triangles-semblables, puissance-d-un-point, alignement, quadrilatere-inscrit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 1 (géométrie)"

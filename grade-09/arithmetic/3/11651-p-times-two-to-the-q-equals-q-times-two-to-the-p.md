@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [puissances de 2, equation, entiers, comparaison, suite decroissante]
+tags: [puissances-de-2, equation, entiers, comparaison, suite-decroissante]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2017-2018 n° 5 (pot-pourri)"

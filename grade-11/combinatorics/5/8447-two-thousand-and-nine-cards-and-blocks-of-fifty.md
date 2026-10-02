@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 45
-tags: [jeu, strategie, invariant, monovariant, parite, puissances de deux]
+tags: [jeu, strategie, invariant, monovariant, parite, puissances-de-deux]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe B"

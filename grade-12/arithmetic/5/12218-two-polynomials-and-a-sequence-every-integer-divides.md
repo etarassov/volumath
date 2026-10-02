@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 90
-tags: [polynomes, suites, divisibilite, suites arithmetiques, degre, limites, sous-suites]
+tags: [polynome, suites, divisibilite, suite-arithmetique, degre, limite, sous-suite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de février 2015 (groupe A et EGMO)"

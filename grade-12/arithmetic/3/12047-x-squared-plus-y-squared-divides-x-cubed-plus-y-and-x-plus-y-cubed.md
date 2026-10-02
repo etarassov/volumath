@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 3
 duration_min: 35
-tags: [maths-expertes, divisibilite, pgcd, theoreme de gauss, nombres premiers entre eux, inegalites]
+tags: [maths-expertes, divisibilite, pgcd, theoreme-de-gauss, nombres-premiers-entre-eux, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 15 janvier 2014"

@@ -8,6 +8,7 @@ duration_min: 40
 tags: [denombrement, table-ronde, recurrence, parite, catalan]
 adapted_from: null
 see_also: ["2405", "5201"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Catalan Numbers — Tom Davis"

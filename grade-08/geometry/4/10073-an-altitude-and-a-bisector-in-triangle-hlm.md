@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [hauteur, bissectrice, mediane, droite des milieux, parallelogramme, triangle isocele, symetrie axiale, triangle equilateral]
+tags: [hauteur, bissectrice, mediane, droite-des-milieux, parallelogramme, triangle-isocele, symetrie-axiale, triangle-equilateral]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 1 (géométrie)"

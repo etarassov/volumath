@@ -8,6 +8,7 @@ duration_min: 40
 tags: [angles-orientes, droite-de-simson, cocyclicite, cercle-circonscrit, cercle-de-diametre, mediatrice, droite-des-milieux, alignement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 1 (géométrie)"

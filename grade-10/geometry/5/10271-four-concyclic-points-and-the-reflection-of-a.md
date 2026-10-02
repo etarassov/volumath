@@ -8,6 +8,7 @@ duration_min: 60
 tags: [geometrie-analytique, coordonnees, determinant, cocyclicite, cercle-circonscrit, symetrie-axiale, paralleles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 1 (géométrie)"

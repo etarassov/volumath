@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [principe des tiroirs, congruences, repunits]
+tags: [principe-des-tiroirs, congruences, repunit]
 adapted_from: null
-see_also: []
+see_also: ["7043"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2011, groupe des débutants"

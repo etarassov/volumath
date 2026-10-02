@@ -5,9 +5,10 @@ grade: 8
 theme: algebra
 difficulty: 1
 duration_min: 5
-tags: [calcul litteral, equation]
+tags: [calcul-litteral, equation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2018, éliminatoires"

@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [hors-programme, inversion, cercles-tangents, tangentes, homothetie, translation, centre-de-gravite, lieu-geometrique]
+tags: [hors-programme, inversion, cercles-tangents, tangente, homothetie, translation, centre-de-gravite, lieu-geometrique]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 1 (géométrie)"

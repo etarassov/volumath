@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [racine carree, identites remarquables, telescopage, fractions]
+tags: [racine-carree, identites-remarquables, telescopage, fractions]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 6 (pot-pourri)"

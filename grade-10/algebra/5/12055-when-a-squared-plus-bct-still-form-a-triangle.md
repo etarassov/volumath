@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 5
 duration_min: 50
-tags: [inegalite triangulaire, triangle, fonction affine, parametre, contre-exemple, inegalites]
+tags: [inegalite-triangulaire, triangle, fonction-affine, parametre, contre-exemple, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test du 12 avril 2014"

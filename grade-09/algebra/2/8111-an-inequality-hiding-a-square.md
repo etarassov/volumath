@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 2
 duration_min: 15
-tags: [inegalite, identite-remarquable, calcul-litteral]
+tags: [inegalite, identites-remarquables, calcul-litteral]
 adapted_from: null
-see_also: ["7607"]
+see_also: []
+same_as: ["8215"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, cours de Groupe A"

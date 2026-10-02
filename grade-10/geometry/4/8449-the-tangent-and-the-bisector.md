@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 30
-tags: [cercle circonscrit, tangente, bissectrice, angle inscrit, triangle isocele]
+tags: [cercle-circonscrit, tangente, bissectrice, angle-inscrit, triangle-isocele]
 adapted_from: null
-see_also: ["7269", "8858"]
+see_also: ["7269"]
+same_as: ["8858"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, entraînement de Groupe B"

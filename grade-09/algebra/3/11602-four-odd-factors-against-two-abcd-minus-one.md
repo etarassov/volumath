@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [inegalite, factorisation, cas d egalite, entiers]
+tags: [inegalite, factorisation, cas-d-egalite, entiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 5 (pot-pourri)"

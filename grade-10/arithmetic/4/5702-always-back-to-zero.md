@@ -8,6 +8,7 @@ duration_min: 40
 tags: [fractions, irreductible, denominateur, descente, demonstration, noeuds]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Conway's Rational Tangles (Kelley Barnes)"

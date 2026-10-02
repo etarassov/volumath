@@ -8,6 +8,7 @@ duration_min: 45
 tags: [nombres-premiers, restes, polynome, sommes-de-puissances, lemme-d-euclide]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 3 (arithmétique)"

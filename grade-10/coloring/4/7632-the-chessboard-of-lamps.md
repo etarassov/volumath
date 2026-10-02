@@ -5,9 +5,10 @@ grade: 10
 theme: coloring
 difficulty: 4
 duration_min: 45
-tags: [invariant, parite, echiquier, coloriage, lignes et diagonales]
+tags: [invariant, parite, echiquier, coloriage, lignes-et-diagonales]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, La Muraille"

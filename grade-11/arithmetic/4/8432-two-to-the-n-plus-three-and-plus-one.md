@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [carre-parfait, puissance-de-deux, congruence, factorisation]
+tags: [carre-parfait, puissances-de-deux, congruences, factorisation]
 adapted_from: null
-see_also: ["7034"]
+see_also: []
+same_as: ["7034"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe A"

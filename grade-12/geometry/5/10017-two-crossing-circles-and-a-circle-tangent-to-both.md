@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercles tangents, tangente, tangente commune, angle tangentiel, puissance-d-un-point, triangles semblables, parallelisme]
+tags: [cercles-tangents, tangente, tangente-commune, angle-tangentiel, puissance-d-un-point, triangles-semblables, parallelisme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 6 (géométrie)"

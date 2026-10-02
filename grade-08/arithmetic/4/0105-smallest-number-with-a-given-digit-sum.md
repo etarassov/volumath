@@ -5,8 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [chiffres, somme-de-chiffres, divisibilite, minimum, encadrement]
+tags: [chiffres, somme-des-chiffres, divisibilite, minimum, encadrement]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей"

@@ -8,6 +8,7 @@ duration_min: 50
 tags: [cercles-tangents, fractions, pythagore, equivalence, arithmetique]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), A Problem Fit for a Princess: Apollonian Gaskets in History"

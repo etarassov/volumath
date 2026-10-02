@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 2
 duration_min: 15
-tags: [racines-carrees, factorisation, irrationnels]
+tags: [racine-carree, factorisation, irrationnel]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2017, premier tour"

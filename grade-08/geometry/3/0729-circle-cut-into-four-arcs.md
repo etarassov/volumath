@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [aire, cercle, quart de disque, pythagore, carre]
+tags: [aire, cercle, quart-de-disque, pythagore, carre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024"

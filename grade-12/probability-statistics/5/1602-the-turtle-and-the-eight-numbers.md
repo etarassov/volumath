@@ -5,9 +5,10 @@ grade: 12
 theme: probability-statistics
 difficulty: 5
 duration_min: 45
-tags: [probabilites, marche-aleatoire, suites, symetrie, ruine-du-joueur]
+tags: [probabilite, marche-aleatoire, suites, symetrie, ruine-du-joueur]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2A, Group Competition"

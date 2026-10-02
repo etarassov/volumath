@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 20
-tags: [thales, aire, rectangle, racines-carrees]
+tags: [thales, aire, rectangle, racine-carree]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2017, premier tour"

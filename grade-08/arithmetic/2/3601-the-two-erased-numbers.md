@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 2
 duration_min: 10
-tags: [sommes, entiers, pairs-impairs]
+tags: [somme, entiers, pairs-impairs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 8 training, Berkeley mini Math Tournament 2025"

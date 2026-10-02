@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [chiffres, puissances, encadrement, disjonction de cas]
+tags: [chiffres, puissances, encadrement, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2021"

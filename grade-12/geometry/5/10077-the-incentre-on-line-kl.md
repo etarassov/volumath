@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 90
-tags: [cercle inscrit, bissectrice, tangente, vecteurs, nombres complexes, alignement, maths-expertes]
+tags: [cercle-inscrit, bissectrice, tangente, vecteurs, nombres-complexes, alignement, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 1 (géométrie)"

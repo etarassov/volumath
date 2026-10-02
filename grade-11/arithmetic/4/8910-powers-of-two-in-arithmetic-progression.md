@@ -8,6 +8,7 @@ duration_min: 45
 tags: [puissances-de-deux, suite-arithmetique, maximum, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, Coupe Animath de printemps 2026"

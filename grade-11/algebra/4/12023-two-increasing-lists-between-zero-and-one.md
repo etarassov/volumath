@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 45
-tags: [inegalites, sommes, somme telescopique, suites croissantes, minoration]
+tags: [inegalite, somme, somme-telescopique, suite-croissante, minoration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test d'entraînement de janvier 2013"

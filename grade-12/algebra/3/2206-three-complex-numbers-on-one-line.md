@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [complexes, argument, alignement, conjugue]
+tags: [nombres-complexes, argument, alignement, conjugue]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Complex Numbers"

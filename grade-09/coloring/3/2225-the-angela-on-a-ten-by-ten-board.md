@@ -8,6 +8,7 @@ duration_min: 30
 tags: [coloriage, invariant, parite, echiquier, deplacement]
 adapted_from: null
 see_also: ["0507"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, Invariants II"

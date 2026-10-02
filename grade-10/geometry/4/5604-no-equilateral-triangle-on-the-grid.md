@@ -8,6 +8,7 @@ duration_min: 40
 tags: [quadrillage, pick, triangle-equilateral, irrationnel, raisonnement-par-labsurde]
 adapted_from: null
 see_also: ["5601"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Pick's Theorem"

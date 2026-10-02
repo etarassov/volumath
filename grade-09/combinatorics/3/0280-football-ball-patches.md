@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [double-comptage, polygones, equation]
+tags: [double-comptage, polygone, equation]
 adapted_from: null
-see_also: ["0231"]
+see_also: []
+same_as: ["0231"]
 created: 2026-09-18
 source:
   name: "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015"

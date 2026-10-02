@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 2
 duration_min: 15
-tags: [diviseurs, divisibilite, nombres premiers, decomposition]
+tags: [diviseurs, divisibilite, nombres-premiers, decomposition]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, éliminatoires du test de rentrée 2015 (Coupe Animath d'automne), questionnaire lycéens"

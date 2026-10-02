@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [calendrier, reste, division-euclidienne, modulo]
+tags: [calendrier, restes, division-euclidienne, modulo]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2008"

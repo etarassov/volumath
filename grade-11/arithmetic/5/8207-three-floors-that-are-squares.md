@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 5
 duration_min: 50
-tags: [partie entiere, carres parfaits, encadrement, valuation]
+tags: [partie-entiere, carre-parfait, encadrement, valuation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, Coupe Animath de printemps 2019"

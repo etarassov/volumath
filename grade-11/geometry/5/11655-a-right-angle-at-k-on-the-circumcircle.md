@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercle circonscrit, tangentes, geometrie analytique, equation de cercle, produit scalaire, produit des racines]
+tags: [cercle-circonscrit, tangente, geometrie-analytique, equation-de-cercle, produit-scalaire, produit-des-racines]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 5 (pot-pourri)"

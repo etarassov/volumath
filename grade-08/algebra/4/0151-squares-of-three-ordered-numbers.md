@@ -5,8 +5,10 @@ grade: 8
 theme: algebra
 difficulty: 4
 duration_min: 25
-tags: [carres, inegalites, relatifs, signes, contre-exemple]
+tags: [carres, inegalite, relatifs, signe, contre-exemple]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)"

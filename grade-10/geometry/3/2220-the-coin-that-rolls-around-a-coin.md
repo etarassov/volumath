@@ -8,6 +8,7 @@ duration_min: 30
 tags: [cercle, perimetre, roulement, rotation, modelisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, A kaleidoscope of geometry problems"

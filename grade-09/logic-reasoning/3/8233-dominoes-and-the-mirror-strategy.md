@@ -5,9 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 3
 duration_min: 30
-tags: [jeu, strategie gagnante, symetrie, echiquier]
+tags: [jeu, strategie-gagnante, symetrie, echiquier]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"

@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [division euclidienne, restes, multiples]
+tags: [division-euclidienne, restes, multiples]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe B"

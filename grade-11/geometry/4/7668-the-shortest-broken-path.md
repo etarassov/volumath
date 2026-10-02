@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [symetrie axiale, plus court chemin, angles, minimisation]
+tags: [symetrie-axiale, plus-court-chemin, angles, minimisation]
 adapted_from: null
 see_also: ["0656"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, La Muraille"

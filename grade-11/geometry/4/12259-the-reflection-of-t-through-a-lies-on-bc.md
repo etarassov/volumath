@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [symetrie axiale, symetrie centrale, tangente, cercle, produit scalaire, projete orthogonal, al-kashi, vecteurs, alignement]
+tags: [symetrie-axiale, symetrie-centrale, tangente, cercle, produit-scalaire, projete-orthogonal, al-kashi, vecteurs, alignement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de novembre 2016"

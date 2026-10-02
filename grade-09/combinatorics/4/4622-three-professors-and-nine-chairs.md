@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [denombrement, placements, intervalles, choix]
+tags: [denombrement, placement, intervalle, choix]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Beginners 2, Sticks and Stones Part II"

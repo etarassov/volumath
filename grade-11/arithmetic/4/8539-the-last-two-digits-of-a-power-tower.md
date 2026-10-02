@@ -8,6 +8,7 @@ duration_min: 35
 tags: [congruences, puissances, cycle, modulo-cent]
 adapted_from: null
 see_also: ["0554"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe A"

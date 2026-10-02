@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 75
-tags: [pgcd, premiers entre eux, algorithme d euclide, indicatrice d euler, denombrement]
+tags: [pgcd, premiers-entre-eux, algorithme-d-euclide, indicatrice-d-euler, denombrement]
 adapted_from: null
 see_also: ["1805", "6011"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular, « Problem Circle : Number Sum Triangles » (Joshua Zucker)"

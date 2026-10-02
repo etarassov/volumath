@@ -5,9 +5,10 @@ grade: 11
 theme: logic-reasoning
 difficulty: 5
 duration_min: 60
-tags: [jeux, strategie-gagnante, coloriage, restes, infini]
+tags: [jeu, strategie-gagnante, coloriage, restes, infini]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 18 mai 2022"

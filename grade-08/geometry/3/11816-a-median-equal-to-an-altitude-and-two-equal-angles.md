@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [triangle equilateral, mediane, hauteur, angles opposes par le sommet, aire, mediatrice]
+tags: [triangle-equilateral, mediane, hauteur, angles-opposes-par-le-sommet, aire, mediatrice]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 5 (pot-pourri)"

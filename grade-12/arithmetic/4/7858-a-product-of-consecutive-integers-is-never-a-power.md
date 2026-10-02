@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [nombres premiers entre eux, puissances, binome de newton, encadrement]
+tags: [nombres-premiers-entre-eux, puissances, binome-de-newton, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"

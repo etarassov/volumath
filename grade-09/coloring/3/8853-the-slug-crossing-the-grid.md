@@ -5,9 +5,10 @@ grade: 9
 theme: coloring
 difficulty: 3
 duration_min: 30
-tags: [coloriage, damier, parite, chemin, construction]
+tags: [coloriage, damier, parite, chemins, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe A"

@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 40
-tags: [polynome, inegalite, developpement, coefficients positifs]
+tags: [polynome, inegalite, developpement, coefficients-positifs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2010"

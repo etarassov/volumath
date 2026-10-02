@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [coloriage, ensembles, parite, cycle impair, construction, minimum, tiroirs]
+tags: [coloriage, ensembles, parite, cycle-impair, construction, minimum, tiroirs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de janvier 2015"

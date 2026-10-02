@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [cercles, angles, triangle, tiroirs, raisonnement-par-l-absurde]
+tags: [cercle, angles, triangle, tiroirs, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2012, La Muraille"

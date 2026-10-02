@@ -8,6 +8,7 @@ duration_min: 50
 tags: [triangle-rectangle-isocele, theoreme-des-milieux, triangles-egaux, parallelogramme, milieu]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »"

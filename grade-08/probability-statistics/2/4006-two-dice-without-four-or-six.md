@@ -7,7 +7,8 @@ difficulty: 2
 duration_min: 15
 tags: [probabilite, parite, denombrement, des]
 adapted_from: null
-see_also: ["3812"]
+see_also: []
+same_as: ["3812"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 2A, Week 1 Competition"

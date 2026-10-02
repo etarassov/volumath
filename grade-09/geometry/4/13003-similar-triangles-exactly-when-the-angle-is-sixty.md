@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [triangles semblables, triangle rectangle, mediatrice, triangle isocele, chasse aux angles, equivalence]
+tags: [triangles-semblables, triangle-rectangle, mediatrice, triangle-isocele, chasse-aux-angles, equivalence]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, épreuve de sélection (Coupe Animath d'automne) du 5 octobre 2011"

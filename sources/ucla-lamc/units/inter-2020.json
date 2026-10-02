@@ -155,17 +155,6 @@
    "note": "doublon de 3825 (2de), see_also posé"
   },
   {
-   "id": "4017",
-   "grade": 10,
-   "theme": "arithmetic",
-   "difficulty": 3,
-   "title": "Combien de cubes divisent 3! × 5! × 7! ?",
-   "file": "Handout-3131-2694.pdf",
-   "ref": "problème 9",
-   "answer": "6 (1, 8, 27, 64, 216, 1728)",
-   "note": "doublon de 3823 (2de, difficulté 4), see_also posé"
-  },
-  {
    "id": "4019",
    "grade": 10,
    "theme": "combinatorics",
@@ -335,10 +324,16 @@
    "survivor": "3824",
    "date": "2026-09-30",
    "why": "Retiré le 2026-09-30 : même problème que 3824 (grade-10/combinatorics/4/3824-a-triangle-in-the-octagon.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "4017",
+   "survivor": "3823",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : même problème que 3823 (grade-10/arithmetic/4/3823-cubes-that-divide-a-product-of-factorials.md), au même niveau. Repéré lors du tri des liens see_also et same_as qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
   }
  ],
  "notes": "Passage 1 (2026-09-19), 25 exercices, ids 4001 à 4025. Le fichier le plus rentable de l'unité est de loin Handout-3131-2694.pdf (séance d'indice 3, « Week 1 Competition ») : 22 problèmes de style AMC avec barème complet en fin de fichier ; 19 des 22 sont maintenant importés. Attention : un agent voisin travaille Handout-4070-3775.pdf, une autre compétition LAMC qui reprend les mêmes problèmes AMC. Cinq collisions sont listées dans « duplicates ». Avant d'importer un problème de compétition, chercher son énoncé dans la base, pas seulement son fichier source. Deux fichiers de corrigés de cette unité n'ont aucune couche texte (Handout-2812-2392.pdf pour la probabilité géométrique, Handout-2819-2408.pdf pour la théorie des nombres) : il faut les lire en image ou se passer du corrigé. Reprendre à la séance d'indice 4 (event 2949, Polynomials 2) ; les séances 0 à 3 sont exploitées, mais 0 et 3 gardent les restes listés dans « skipped ».",
- "updated": "2026-09-30",
+ "updated": "2026-10-02",
  "sessions": [
   {
    "event": "3443",

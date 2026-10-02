@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 4
 duration_min: 45
-tags: [denombrement, recurrence, coefficients binomiaux, partitions ordonnees]
+tags: [denombrement, recurrence, coefficients-binomiaux, partitions-ordonnees]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Simplex Locks, par Amy N. Myers (Bryn Mawr College), Philadelphia Area Math Teachers Circle"

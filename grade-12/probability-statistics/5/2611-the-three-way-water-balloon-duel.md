@@ -8,6 +8,7 @@ duration_min: 50
 tags: [probabilite-conditionnelle, suite-geometrique, strategie, arbre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School Circle, Probability I (Anand Rajagopalan)"

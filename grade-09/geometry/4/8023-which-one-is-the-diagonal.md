@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 4
 duration_min: 30
-tags: [inegalite triangulaire, quadrilatere, diagonale, disjonction-de-cas]
+tags: [inegalite-triangulaire, quadrilatere, diagonales, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2017"

@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [nombres premiers, decomposition en facteurs premiers, ensemble image, construction]
+tags: [nombres-premiers, decomposition-en-facteurs-premiers, ensemble-image, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Functions review"

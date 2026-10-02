@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [division euclidienne, reste, identites remarquables, difference de carres, puissances]
+tags: [division-euclidienne, restes, identites-remarquables, difference-de-carres, puissances]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Number theory review"

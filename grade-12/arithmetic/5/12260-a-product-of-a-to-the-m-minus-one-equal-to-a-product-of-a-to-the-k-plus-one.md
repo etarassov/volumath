@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [puissances, nombres premiers, congruences, nombres premiers entre eux, theoreme de gauss, principe des tiroirs, maths-expertes]
+tags: [puissances, nombres-premiers, congruences, nombres-premiers-entre-eux, theoreme-de-gauss, principe-des-tiroirs, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de novembre 2016"

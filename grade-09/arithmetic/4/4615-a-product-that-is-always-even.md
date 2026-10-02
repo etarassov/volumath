@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [parite, permutation, somme, raisonnement par l absurde]
+tags: [parite, permutations, somme, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: ["7435"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Beginners Circle, Pigeonhole Principle"

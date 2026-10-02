@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [inegalites, moyenne arithmetique et geometrique, identite remarquable, racines carrees]
+tags: [inegalite, moyenne-arithmetique-et-geometrique, identites-remarquables, racine-carree]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 5 (pot-pourri)"

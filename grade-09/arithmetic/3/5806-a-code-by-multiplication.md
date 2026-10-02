@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [chiffres, divisibilite, cryptographie, code secret]
+tags: [chiffres, divisibilite, cryptographie, code-secret]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Codes, Ciphers, and Secrets (Matthias Beck)"

@@ -5,8 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [fractions, construction, demonstration, denominateurs]
+tags: [fractions, construction, demonstration, denominateur]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей"

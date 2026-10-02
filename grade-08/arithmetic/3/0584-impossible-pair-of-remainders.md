@@ -5,8 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [division-euclidienne, reste, absurde, multiples]
+tags: [division-euclidienne, restes, absurde, multiples]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей"

@@ -8,6 +8,7 @@ duration_min: 60
 tags: [chiffres, ecriture-decimale, tiroirs, restes, bijection, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de février 2023"

@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [pgcd, fraction irreductible, combinaison lineaire, parite]
+tags: [pgcd, fraction-irreductible, combinaison-lineaire, parite]
 adapted_from: null
 see_also: ["7040"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2012, groupe des débutants"

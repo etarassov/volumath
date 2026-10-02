@@ -7,6 +7,8 @@ difficulty: 4
 duration_min: 30
 tags: [cube, espace, decoupage, minimum, construction]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей"

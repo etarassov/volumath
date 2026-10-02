@@ -8,6 +8,7 @@ duration_min: 45
 tags: [strategie, questions, routes-a-sens-unique, double-comptage, algorithme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 1er avril 2020"

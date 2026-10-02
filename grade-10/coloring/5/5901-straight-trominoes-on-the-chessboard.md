@@ -8,6 +8,7 @@ duration_min: 50
 tags: [coloriage, pavage, tromino, damier, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Coloring (Tom Davis)"

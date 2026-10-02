@@ -8,6 +8,7 @@ duration_min: 40
 tags: [produit-scalaire, puissance-d-un-point, orthocentre, hauteur, symetrie-axiale, cercle-circonscrit, cocyclicite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 1 (géométrie)"

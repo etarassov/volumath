@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 2
 duration_min: 20
-tags: [nombres premiers, parite, entiers consecutifs, factorisation]
+tags: [nombres-premiers, parite, entiers-consecutifs, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"

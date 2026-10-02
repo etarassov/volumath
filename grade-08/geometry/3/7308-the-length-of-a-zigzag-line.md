@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [pythagore, triangle-rectangle-isocele, projection, longueur]
+tags: [pythagore, triangle-rectangle-isocele, projection, longueurs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2008"

@@ -5,9 +5,10 @@ grade: 12
 theme: probability-statistics
 difficulty: 3
 duration_min: 30
-tags: [marche aleatoire, loi binomiale, parite, coefficient binomial]
+tags: [marche-aleatoire, loi-binomiale, parite, coefficient-binomial]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Intro to combinatorics and probability"

@@ -5,9 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 4
 duration_min: 30
-tags: [menteurs, disjonction de cas, contradiction, equation]
+tags: [menteurs, disjonction-de-cas, contradiction, equation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, Problem Solving: Think Outside the Box"

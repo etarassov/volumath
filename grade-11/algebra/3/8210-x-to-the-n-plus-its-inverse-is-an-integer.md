@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [recurrence double, calcul algebrique, entiers, inverse]
+tags: [recurrence-double, calcul-algebrique, entiers, inverse]
 adapted_from: null
-see_also: ["7076"]
+see_also: []
+same_as: ["7076"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A et de Groupe B"

@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 1
 duration_min: 15
-tags: [sommes, decomposition, multiples, essais-organises]
+tags: [somme, decomposition, multiples, essais-organises]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »"

@@ -48,7 +48,6 @@
   "7040",
   "7042",
   "7043",
-  "7044",
   "7047",
   "7048",
   "7049",
@@ -301,6 +300,12 @@
    "survivor": "8440",
    "date": "2026-09-30",
    "why": "Retiré le 2026-09-30 : même problème que 8440 (grade-11/algebra/4/8440-two-nth-powers-and-a-product-of-at-least-four.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. 8440 a été gardé parce qu'il demande davantage. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7044",
+   "survivor": "8644",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : même jeu que 8644 (grade-10/logic-reasoning/4/8644-blackening-cells-one-next-to-another.md), qui le pose pour un tableau n × n quelconque, au même niveau. Repéré lors du tri des liens see_also et same_as qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
   }
  ],
  "notes": [
@@ -320,7 +325,7 @@
   "PIÈGE DE RENDU TROUVÉ ICI : une légende d'image Markdown qui contient un crochet non apparié, par exemple « la demi-droite [AC) », casse silencieusement la syntaxe ![...](...) et la figure n'apparaît pas du tout, sans le moindre avertissement de pandoc. Il faut écrire la légende sans crochet ouvrant isolé. Repéré sur 7089, corrigé ; tous mes autres fichiers ont été passés au crible.",
   "Répartition, fin : 7088 (stage_junior_2011, TD de géométrie des débutants), 7089 (stage_junior_2010, mardi géométrie)."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-02",
  "files": [
   {
    "file": "stage_junior_2009.pdf",

@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 2
 duration_min: 15
-tags: [identite remarquable, difference de carres, nombre premier]
+tags: [identites-remarquables, difference-de-carres, nombres-premiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, More Tilings and Some Algebra"

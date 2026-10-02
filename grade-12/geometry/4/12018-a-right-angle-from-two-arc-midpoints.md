@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 4
 duration_min: 60
-tags: [cercles, milieu d'arc, angle inscrit, produit scalaire, vecteurs, parallelogramme, angle droit]
+tags: [cercle, milieu-d-arc, angle-inscrit, produit-scalaire, vecteurs, parallelogramme, angle-droit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test d'entraînement de novembre 2012"

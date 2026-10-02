@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [recurrence, divisibilite, numeration decimale, unicite, parite]
+tags: [recurrence, divisibilite, numeration-decimale, unicite, parite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Induction and Peano Axioms"

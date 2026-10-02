@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [distances, classification, triangle-equilateral, mediatrice, pentagone-regulier, disjonction-de-cas]
+tags: [distance, classification, triangle-equilateral, mediatrice, pentagone-regulier, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular Winter 2012, rubrique « In Session »"

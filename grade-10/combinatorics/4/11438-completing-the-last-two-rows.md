@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [tableau, carre-latin, construction, chaines, demonstration]
+tags: [tableau, carre-latin, construction, chaine, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 4 (combinatoire)"

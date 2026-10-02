@@ -8,6 +8,7 @@ duration_min: 10
 tags: [denombrement, bijection, complementaire, combinaisons]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Visualization in Algebra, Tom Davis"

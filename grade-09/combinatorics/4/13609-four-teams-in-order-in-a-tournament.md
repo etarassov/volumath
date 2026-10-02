@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [tournoi, tiroirs, double comptage, contre-exemple, graphe]
+tags: [tournoi, tiroirs, double-comptage, contre-exemple, graphe]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2010 (test de sélection du stage olympique de Grésillon, 3 juin 2010)"

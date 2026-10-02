@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [systeme, identite remarquable, factorisation, disjonction de cas]
+tags: [systeme, identites-remarquables, factorisation, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 5 (pot-pourri)"

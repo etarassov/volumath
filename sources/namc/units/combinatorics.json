@@ -182,15 +182,6 @@
    "ref": "Pigeonhole 1"
   },
   {
-   "id": "5220",
-   "grade": 10,
-   "theme": "combinatorics",
-   "difficulty": 4,
-   "title": "Onze nombres parmi les vingt premiers",
-   "file": "ConreyCristianiPig_and_par.pdf",
-   "ref": "Pigeonhole 4"
-  },
-  {
    "id": "5221",
    "grade": 11,
    "theme": "combinatorics",
@@ -456,7 +447,14 @@
    "why": "niveau olympiade supérieur (14 entiers de 1..28 ; 25 points et un cercle de rayon 1 ; rectangle bleu dans une grille 14x14 ; somme consécutive divisible par 100 ; Erdős-Szekeres sur 780 réels). Aucun n'a été rédigé."
   }
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "5220",
+   "survivor": "8569",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : c'est le cas n = 10 de la question 2 de 8569 (grade-10/arithmetic/3/8569-n-plus-one-numbers-among-the-first-2n.md), au même niveau. Repéré lors du tri des liens see_also et same_as qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": [
   "Les 6 fichiers ont été lus. Supreme-court-handshakes-combined.pdf est entièrement écarté : c'est un plan de séance autour du seul comptage n(n-1)/2, déjà dans la base (0576).",
   "catalan.pdf est un article de Tom Davis. La formule de Catalan est déjà démontrée par 2405 (Terminale) ; on a donc importé les deux formulations les plus éloignées de celle-là, la triangulation d'un polygone (5201, 1re) et les poignées de main non croisées (5202, 2de), toutes deux liées à 2405 par see_also.",
@@ -466,7 +464,7 @@
   "Aucune erreur de source trouvée : les énoncés retenus sont corrects. Les fichiers ne comportent presque aucune solution, toutes les réponses publiées ici ont été calculées et vérifiées (script de vérification exécuté sur les 21 réponses numériques).",
   "Les 21 exercices passent vm.py check et se compilent tous en PDF. Pages relues à l'écran : 5201, 5202, 5203, 5207, 5210, 5215, 5216, 5221."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-10-02",
  "files": [
   {
    "file": "catalan.pdf",

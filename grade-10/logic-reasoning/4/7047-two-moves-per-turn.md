@@ -5,9 +5,10 @@ grade: 10
 theme: logic-reasoning
 difficulty: 4
 duration_min: 30
-tags: [jeu, raisonnement par l absurde, vol de strategie]
+tags: [jeu, raisonnement-par-l-absurde, vol-de-strategie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2011, groupe des avancés"

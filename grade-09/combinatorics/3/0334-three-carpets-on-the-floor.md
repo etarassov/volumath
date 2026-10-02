@@ -5,8 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [aires, recouvrement, intersection, diagramme]
+tags: [aire, recouvrement, intersection, diagramme]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015"

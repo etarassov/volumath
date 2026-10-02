@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 30
 tags: [tetraedre, volume, pythagore, espace, pyramide]
 adapted_from: null
-see_also: []
+see_also: ["2808"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12 Training, Week 6: Geometry: Triangles"

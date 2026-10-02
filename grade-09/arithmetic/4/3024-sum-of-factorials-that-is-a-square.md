@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 25
-tags: [factorielle, carres, chiffre des unites, recherche exhaustive]
+tags: [factorielle, carres, chiffre-des-unites, recherche-exhaustive]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Olympiads training, Modular Arithmetic I and Divisibility Rules"

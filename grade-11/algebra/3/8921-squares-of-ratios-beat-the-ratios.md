@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [inegalites, moyennes, symetrie, fractions]
+tags: [inegalite, moyenne, symetrie, fractions]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2026, Groupe B"

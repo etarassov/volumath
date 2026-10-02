@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 30
-tags: [minimum, decoupage, recurrence, regions du plan]
+tags: [minimum, decoupage, recurrence, regions-du-plan]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe A"

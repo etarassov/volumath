@@ -8,6 +8,7 @@ duration_min: 25
 tags: [permutations, denombrement, probabilite, equiprobabilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12 Training, Week 4: Combinatorics"

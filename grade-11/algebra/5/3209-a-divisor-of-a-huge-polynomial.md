@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 5
 duration_min: 40
-tags: [polynomes, divisibilite, factorisation, puissances]
+tags: [polynome, divisibilite, factorisation, puissances]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Algebra review"

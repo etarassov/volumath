@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [equation fonctionnelle, irrationnels, racine carree, substitution]
+tags: [equation-fonctionnelle, irrationnel, racine-carree, substitution]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de janvier, année 2011-2012"

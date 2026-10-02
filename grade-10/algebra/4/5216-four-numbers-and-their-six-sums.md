@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [parite, systeme, sommes, raisonnement-par-labsurde]
+tags: [parite, systeme, somme, raisonnement-par-labsurde]
 adapted_from: null
-see_also: []
+see_also: ["7923"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Pigeonhole Principle and Parity Problems — Brian Conrey et Corinne Cristiani"

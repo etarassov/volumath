@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 4
 duration_min: 50
-tags: [polynomes, racines, coefficients, identification, somme des carres, disjonction de cas]
+tags: [polynome, racines, coefficients, identification, somme-de-carres, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mars 2012"

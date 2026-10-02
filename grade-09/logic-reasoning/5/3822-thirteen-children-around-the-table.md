@@ -5,9 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 5
 duration_min: 40
-tags: [menteurs, parite, cycle, disjonction de cas]
+tags: [menteurs, parite, cycle, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, Problem Solving: Think Outside the Box"

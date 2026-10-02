@@ -8,6 +8,7 @@ duration_min: 35
 tags: [carre, triangle-equilateral, angles, triangle-isocele, analyse-synthese]
 adapted_from: null
 see_also: ["0660"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2008"

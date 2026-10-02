@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 2
 duration_min: 15
-tags: [denombrement, permutations, factorielle, principe multiplicatif]
+tags: [denombrement, permutations, factorielle, principe-multiplicatif]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2019, éliminatoires"

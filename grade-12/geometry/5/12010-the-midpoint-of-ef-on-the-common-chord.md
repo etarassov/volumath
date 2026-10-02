@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 90
-tags: [quadrilatere, cercle, projete orthogonal, produit scalaire, puissance d un point, axe radical, quart de tour]
+tags: [quadrilatere, cercle, projete-orthogonal, produit-scalaire, puissance-d-un-point, axe-radical, quart-de-tour]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mars 2012"

@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 3
 duration_min: 30
-tags: [coefficients-binomiaux, factorielles, triangle-de-pascal, equation]
+tags: [coefficients-binomiaux, factorielle, triangle-de-pascal, equation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Combinations and Pascal's Triangle"

@@ -8,6 +8,7 @@ duration_min: 30
 tags: [nombres-premiers, suites, factorisation, encadrement, identites-remarquables]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 3 (arithmétique)"

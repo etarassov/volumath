@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 2
 duration_min: 15
-tags: [nombres premiers, parite, somme]
+tags: [nombres-premiers, parite, somme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2017"

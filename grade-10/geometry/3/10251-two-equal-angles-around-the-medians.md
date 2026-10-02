@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 20
-tags: [medianes, centre-de-gravite, droite-des-milieux, cocyclicite, quadrilatere-inscrit, angle-inscrit, chasse-aux-angles]
+tags: [mediane, centre-de-gravite, droite-des-milieux, cocyclicite, quadrilatere-inscrit, angle-inscrit, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 1 (géométrie)"

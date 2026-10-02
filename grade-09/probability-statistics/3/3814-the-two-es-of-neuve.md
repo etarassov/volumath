@@ -5,9 +5,10 @@ grade: 9
 theme: probability-statistics
 difficulty: 3
 duration_min: 20
-tags: [probabilite, anagrammes, denombrement, lettres repetees]
+tags: [probabilite, anagrammes, denombrement, lettres-repetees]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, More on Combinatorics and Probability"

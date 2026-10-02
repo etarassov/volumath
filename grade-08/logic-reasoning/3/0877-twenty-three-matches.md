@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 3
 duration_min: 25
-tags: [jeu, strategie gagnante, multiples, division euclidienne]
+tags: [jeu, strategie-gagnante, multiples, division-euclidienne]
 adapted_from: null
-see_also: []
+see_also: ["7707"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023"

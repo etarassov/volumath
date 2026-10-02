@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 20
-tags: [congruences, binome de newton, puissances, restes]
+tags: [congruences, binome-de-newton, puissances, restes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Olympiads training, Modular Arithmetic IV"

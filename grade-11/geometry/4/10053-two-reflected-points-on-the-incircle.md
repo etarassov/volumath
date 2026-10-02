@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [cercle inscrit, tangente, repere, produit scalaire, colinearite, perpendiculaires]
+tags: [cercle-inscrit, tangente, repere, produit-scalaire, colinearite, perpendiculaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 2 (géométrie)"

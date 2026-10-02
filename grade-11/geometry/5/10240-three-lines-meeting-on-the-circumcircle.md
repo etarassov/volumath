@@ -8,6 +8,7 @@ duration_min: 60
 tags: [angles-orientes, cercle-circonscrit, cocyclicite, droites-concourantes, paralleles, angle-inscrit, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 1 (géométrie)"

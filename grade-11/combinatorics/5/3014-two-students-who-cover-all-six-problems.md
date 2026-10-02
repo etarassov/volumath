@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 40
-tags: [denombrement, coefficients binomiaux, principe des tiroirs, double comptage, demonstration]
+tags: [denombrement, coefficients-binomiaux, principe-des-tiroirs, double-comptage, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Olympiads 2, Double Counting"

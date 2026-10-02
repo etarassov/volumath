@@ -8,6 +8,7 @@ duration_min: 45
 tags: [suite-geometrique, raison-rationnelle, decomposition-en-facteurs-premiers, cubes, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 8 training, Berkeley mini Math Tournament 2025"

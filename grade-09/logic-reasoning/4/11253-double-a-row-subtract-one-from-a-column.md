@@ -8,6 +8,7 @@ duration_min: 30
 tags: [strategie, algorithme, tableau, descente]
 adapted_from: null
 see_also: ["11427"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2017-2018 n° 4 (combinatoire)"

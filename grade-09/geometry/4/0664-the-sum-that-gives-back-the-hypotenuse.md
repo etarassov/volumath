@@ -8,6 +8,7 @@ duration_min: 35
 tags: [bissectrice, triangle-isocele, symetrie-axiale, triangle-rectangle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »"

@@ -8,6 +8,7 @@ duration_min: 45
 tags: [ordre-multiplicatif, petit-theoreme-de-fermat, plus-petit-facteur-premier, congruences]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2026, Groupe B"

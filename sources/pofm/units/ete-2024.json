@@ -21,7 +21,6 @@
   "8709",
   "8710",
   "8711",
-  "8712",
   "8713",
   "8714",
   "8715",
@@ -157,6 +156,12 @@
    "survivor": "8650",
    "date": "2026-09-30",
    "why": "Retiré le 2026-09-30 : même problème que 8650 (grade-10/arithmetic/3/8650-the-units-digit-of-a-tower.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8712",
+   "survivor": "13870",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : sa question est entièrement contenue dans 13870 (grade-10/geometry/4/13870-a-bisector-and-a-parallel-in-an-isosceles-triangle.md), au même niveau, qui demande davantage. Doublon repéré lors de la relecture qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
   }
  ],
  "notes": [
@@ -169,7 +174,7 @@
   "Doublons reperes entre d'autres blocs, signales sans rien toucher : 7045 et 8641 (jeton de C1 a H8), 7046 et 8642 (au plus la moitie des jetons), 7044 et 8644 (noircir une case voisine).",
   "Reprendre au second passage par : entrainement de mi-parcours du Groupe B exercices 2 et 4, puis les entrainements du Groupe A (pages 89 et 151), puis les cours de geometrie du Groupe A laisses de cote, puis les premiers exercices de chaque cours de Groupe B."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-02",
  "files": [
   {
    "file": "poly_valbonne_2024.pdf",

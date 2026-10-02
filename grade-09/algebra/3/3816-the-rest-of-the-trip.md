@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [vitesse moyenne, equation, proportionnalite]
+tags: [vitesse-moyenne, equation, proportionnalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, Mid-Quarter Competition"

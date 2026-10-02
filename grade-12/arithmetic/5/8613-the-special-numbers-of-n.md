@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 75
-tags: [decomposition en somme, divisibilite, identite remarquable, majoration]
+tags: [decomposition-en-somme, divisibilite, identites-remarquables, majoration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023"

@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [polygone regulier, triangle isocele, symetrie axiale, mediatrice, points cocycliques, angle inscrit, chasse aux angles]
+tags: [polygone-regulier, triangle-isocele, symetrie-axiale, mediatrice, points-cocycliques, angle-inscrit, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2017-2018 n° 2 (géométrie)"

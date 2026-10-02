@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 30
 tags: [invariant, parite, somme, construction]
 adapted_from: null
-see_also: []
+see_also: ["8630"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe A"

@@ -5,9 +5,10 @@ grade: 10
 theme: logic-reasoning
 difficulty: 4
 duration_min: 25
-tags: [invariant, somme alternee, cercle, processus]
+tags: [invariant, somme-alternee, cercle, processus]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe A"

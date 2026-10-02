@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [aire, cercle circonscrit, triangle, hexagone, hauteur]
+tags: [aire, cercle-circonscrit, triangle, hexagone, hauteur]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2011 (test de sélection du stage olympique de Grésillon, 7 juin 2011)"

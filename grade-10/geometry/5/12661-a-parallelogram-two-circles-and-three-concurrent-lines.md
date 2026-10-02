@@ -8,6 +8,7 @@ duration_min: 60
 tags: [angle-inscrit, cocyclicite, parallelogramme, droites-concourantes, triangle-isocele]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 18 mai 2022"

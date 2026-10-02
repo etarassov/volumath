@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 45
-tags: [trigonometrie, al-kashi, aire, heron, identites]
+tags: [trigonometrie, al-kashi, aire, heron, identite]
 adapted_from: null
-see_also: []
+see_also: ["7058"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Trigonometry #2"

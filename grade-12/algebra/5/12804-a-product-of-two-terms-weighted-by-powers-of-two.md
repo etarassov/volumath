@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 60
-tags: [inegalite, puissances-de-deux, majoration, suites-geometriques, convexite]
+tags: [inegalite, puissances-de-deux, majoration, suite-geometrique, convexite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 23 novembre 2022"

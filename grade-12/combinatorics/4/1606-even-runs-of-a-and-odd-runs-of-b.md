@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [denombrement, suites-recurrentes, mots, parite]
+tags: [denombrement, suite-recurrente, mots, parite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2B, Olympiad Style Problems 2"

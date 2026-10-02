@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 30
 tags: [inegalite, fractions, cas-degalite, cauchy-schwarz]
 adapted_from: null
-see_also: []
+see_also: ["2818"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School II, Inequalities and convex functions"

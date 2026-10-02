@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercle, angle inscrit, tangente, cocyclicite, point fixe]
+tags: [cercle, angle-inscrit, tangente, cocyclicite, point-fixe]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 6 (pot-pourri)"

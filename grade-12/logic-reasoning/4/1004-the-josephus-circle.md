@@ -5,9 +5,10 @@ grade: 12
 theme: logic-reasoning
 difficulty: 4
 duration_min: 50
-tags: [recurrence, puissances de deux, elimination, invariant, numeration binaire]
+tags: [recurrence, puissances-de-deux, elimination, invariant, numeration-binaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Induction continued: the Josephus problem"

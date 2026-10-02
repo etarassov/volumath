@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [cocyclicite, angle au centre, triangle isocele, triangles semblables]
+tags: [cocyclicite, angle-au-centre, triangle-isocele, triangles-semblables]
 adapted_from: null
-see_also: []
+see_also: ["10071"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2024"

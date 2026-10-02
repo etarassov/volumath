@@ -8,6 +8,7 @@ duration_min: 30
 tags: [denombrement, des, enumeration, ordre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Beginners 2, Sticks and Stones Part II"

@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [equation diophantienne, puissances, restes, carres, factorisation]
+tags: [equation-diophantienne, puissances, restes, carres, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 5 (pot-pourri)"

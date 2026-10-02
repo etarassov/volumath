@@ -5,9 +5,10 @@ grade: 11
 theme: functions-analysis
 difficulty: 3
 duration_min: 20
-tags: [minimum, forme canonique, changement de variable, inegalites]
+tags: [minimum, forme-canonique, changement-de-variable, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Olympiads training, Inequalities I: AM-GM"

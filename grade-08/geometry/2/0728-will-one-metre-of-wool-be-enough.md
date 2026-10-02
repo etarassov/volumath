@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 2
 duration_min: 20
-tags: [perimetre, demi-cercle, longueur, rayon]
+tags: [perimetre, demi-cercle, longueurs, rayon]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024"

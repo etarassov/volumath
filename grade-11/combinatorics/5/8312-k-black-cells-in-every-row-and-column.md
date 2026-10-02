@@ -8,6 +8,7 @@ duration_min: 60
 tags: [grille, coloriage, minimum, denombrement, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2020, Coupe Animath de printemps 2020"

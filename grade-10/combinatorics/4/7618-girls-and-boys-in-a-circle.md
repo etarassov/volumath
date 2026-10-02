@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [denombrement, double comptage, cercle, comptage par blocs]
+tags: [denombrement, double-comptage, cercle, comptage-par-blocs]
 adapted_from: null
 see_also: []
+same_as: ["7755"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, La Muraille"

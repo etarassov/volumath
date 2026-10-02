@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [fractions egyptiennes, recurrence, construction, telescopage]
+tags: [fractions-egyptiennes, recurrence, construction, telescopage]
 adapted_from: null
-see_also: []
+see_also: ["11202"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, La Muraille"

@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 45
-tags: [denombrement, ponts, recurrence, decoupage en blocs, suite de fibonacci]
+tags: [denombrement, ponts, recurrence, decoupage-en-blocs, suite-de-fibonacci]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de janvier 2016"

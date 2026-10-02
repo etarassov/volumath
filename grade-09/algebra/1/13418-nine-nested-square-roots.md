@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 1
 duration_min: 10
-tags: [racine carree, calcul astucieux, carres parfaits]
+tags: [racine-carree, calcul-astucieux, carre-parfait]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2022"

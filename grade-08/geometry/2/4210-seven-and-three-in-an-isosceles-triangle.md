@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 2
 duration_min: 10
-tags: [triangle isocele, inegalite triangulaire, disjonction de cas]
+tags: [triangle-isocele, inegalite-triangulaire, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Graphs and Geometry"

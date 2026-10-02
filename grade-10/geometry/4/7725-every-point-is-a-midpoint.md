@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [principe de l extremum, milieu, distance maximale, raisonnement par l absurde]
+tags: [principe-de-l-extremum, milieu, distance-maximale, raisonnement-par-l-absurde]
 adapted_from: null
-see_also: ["8834"]
+see_also: []
+same_as: ["8834"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe A"

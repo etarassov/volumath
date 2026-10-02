@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [nombres premiers, premiers entre eux, diviseurs, maximum]
+tags: [nombres-premiers, premiers-entre-eux, diviseurs, maximum]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test d'entraînement de novembre 2012"

@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 45
-tags: [polynomes, irrationnel, nombres premiers, coefficients, raisonnement par l'absurde]
+tags: [polynome, irrationnel, nombres-premiers, coefficients, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, éliminatoires du test de rentrée 2015 (Coupe Animath d'automne), questionnaire lycéens"

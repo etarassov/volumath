@@ -8,6 +8,7 @@ duration_min: 45
 tags: [cercle-circonscrit, angle-inscrit, triangle-equilateral, triangles-isometriques, cocyclicite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de février 2016, cours du groupe B (Vincent)"

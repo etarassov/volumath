@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [coloriage, droites, recurrence, algorithme glouton, geometrie combinatoire]
+tags: [coloriage, droites, recurrence, algorithme-glouton, geometrie-combinatoire]
 adapted_from: null
 see_also: []
+same_as: ["12269"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, cours de Groupe D"

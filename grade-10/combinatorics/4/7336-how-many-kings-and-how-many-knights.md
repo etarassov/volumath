@@ -8,6 +8,7 @@ duration_min: 45
 tags: [echiquier, principe-des-tiroirs, maximum, decoupage, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2008"

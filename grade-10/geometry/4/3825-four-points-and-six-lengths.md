@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [distances, inegalite triangulaire, disjonction de cas, triangle equilateral]
+tags: [distance, inegalite-triangulaire, disjonction-de-cas, triangle-equilateral]
 adapted_from: null
-see_also: ["4016"]
+see_also: []
+same_as: ["4016"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, Mid-Quarter Competition"

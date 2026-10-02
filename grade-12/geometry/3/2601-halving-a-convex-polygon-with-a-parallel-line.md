@@ -8,6 +8,7 @@ duration_min: 25
 tags: [aire, continuite, valeurs-intermediaires, polygone]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School II Circle, Fair Divisions (Prof. Igor Pak)"

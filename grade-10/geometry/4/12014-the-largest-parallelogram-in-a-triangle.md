@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [aires, parallelogramme, triangle, thales, maximum, second degre]
+tags: [aire, parallelogramme, triangle, thales, maximum, second-degre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test d'entraînement de novembre 2012"

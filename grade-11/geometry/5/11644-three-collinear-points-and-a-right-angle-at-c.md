@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [puissance d'un point, cercles, tangente, produit scalaire, geometrie analytique, diagonales perpendiculaires]
+tags: [puissance-d-un-point, cercle, tangente, produit-scalaire, geometrie-analytique, diagonales-perpendiculaires]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 5 (pot-pourri)"

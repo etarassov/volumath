@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [progression arithmetique, inverse, fractions, raisonnement par l absurde, construction]
+tags: [progression-arithmetique, inverse, fractions, raisonnement-par-l-absurde, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2023"

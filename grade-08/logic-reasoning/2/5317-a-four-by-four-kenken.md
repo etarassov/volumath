@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 2
 duration_min: 25
-tags: [kenken, grille, deduction, elimination, somme et produit]
+tags: [kenken, grille, deduction, elimination, somme-et-produit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), KenKen, par Tom Davis"

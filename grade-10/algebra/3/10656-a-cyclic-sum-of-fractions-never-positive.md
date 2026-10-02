@@ -8,6 +8,7 @@ duration_min: 30
 tags: [inegalite, changement-de-variable, produit-egal-a-un, somme-cyclique]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 2 (algèbre)"

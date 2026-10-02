@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [pourcentages, moyenne ponderee, mise en equation]
+tags: [pourcentages, moyenne-ponderee, mise-en-equation]
 adapted_from: null
-see_also: ["4004"]
+see_also: []
+same_as: ["4004"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, Mid-Quarter Competition"

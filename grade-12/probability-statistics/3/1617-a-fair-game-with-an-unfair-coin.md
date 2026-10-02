@@ -5,9 +5,10 @@ grade: 12
 theme: probability-statistics
 difficulty: 3
 duration_min: 25
-tags: [probabilites, independance, suite-geometrique, symetrie]
+tags: [probabilite, independance, suite-geometrique, symetrie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2A, Group Competition"

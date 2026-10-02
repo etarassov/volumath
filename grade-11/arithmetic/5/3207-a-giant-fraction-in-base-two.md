@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 5
 duration_min: 45
-tags: [puissances de deux, base deux, factorisation, somme geometrique, divisibilite]
+tags: [puissances-de-deux, base-deux, factorisation, somme-geometrique, divisibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Algebra review"

@@ -5,13 +5,14 @@ grade: 9
 theme: geometry
 difficulty: 2
 duration_min: 25
-tags: [theoreme de thales, parallelisme, rapports, droites concourantes]
+tags: [theoreme-de-thales, parallelisme, rapport, droites-concourantes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023"
-  reference: "Preparation.POFM.pdf, exercice 21, d'après les envois POFM 2019-2022"
+  reference: "Preparation.POFM.pdf, exercice 21, d'après les envois POFM 2019-2022. C'est l'exercice 3 des Exercices Juniors de l'envoi POFM 2019-2020 n° 1 (2019-10_sujet-envoi-1.pdf), repris en exercice 10 des Exercices Seniors."
   url: ""
   original_language: "fr"
   local_copy: "sources/originals/clublyon/Preparation.POFM.pdf"

@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 2
 duration_min: 20
-tags: [milieux, droite des milieux, aire, triangle]
+tags: [milieu, droite-des-milieux, aire, triangle]
 adapted_from: null
 see_also: ["0830"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023"

@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [equation exponentielle, congruences, factorisation, parite]
+tags: [equation-exponentielle, congruences, factorisation, parite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, la muraille"

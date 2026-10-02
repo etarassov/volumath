@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 20
 tags: [factorisation, entiers, equation, double-distributivite]
 adapted_from: null
-see_also: ["0864"]
+see_also: []
+same_as: ["0864"]
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024"

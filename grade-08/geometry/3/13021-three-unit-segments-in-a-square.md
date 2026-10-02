@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [carre, triangle isocele, hauteur, pythagore, aire]
+tags: [carre, triangle-isocele, hauteur, pythagore, aire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, test de rentrée (Coupe Animath d'automne) du 1er octobre 2014"

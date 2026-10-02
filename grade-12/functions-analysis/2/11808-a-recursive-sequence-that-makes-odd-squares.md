@@ -5,9 +5,10 @@ grade: 12
 theme: functions-analysis
 difficulty: 2
 duration_min: 20
-tags: [suite recurrente, recurrence, conjecture, identite remarquable]
+tags: [suite-recurrente, recurrence, conjecture, identites-remarquables]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 5 (pot-pourri)"

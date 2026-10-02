@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 3
 duration_min: 35
-tags: [ensemble sans somme, maximum, construction, appariement, principe des tiroirs]
+tags: [ensemble-sans-somme, maximum, construction, appariement, principe-des-tiroirs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 5 (pot-pourri)"

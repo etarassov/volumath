@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [angles-orientes, cocyclicite, cercle-circonscrit, mediatrice, perpendiculaires, bissectrice]
+tags: [angles-orientes, cocyclicite, cercle-circonscrit, mediatrice, perpendiculaire, bissectrice]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 1 (géométrie)"

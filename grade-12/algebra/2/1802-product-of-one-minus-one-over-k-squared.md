@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 2
 duration_min: 25
-tags: [recurrence, produit, fractions, identite-remarquable]
+tags: [recurrence, produit, fractions, identites-remarquables]
 adapted_from: null
-see_also: ["0406"]
+see_also: ["0406", "3422"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Induction in Algebra"

@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [divisibilite, reste, disjonction de cas, numeration]
+tags: [divisibilite, restes, disjonction-de-cas, numeration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12 Training, Week 2: Divisibility and Modular Arithmetic"

@@ -8,6 +8,7 @@ duration_min: 75
 tags: [cercles-tangents, puissance-d-un-point, angle-inscrit, bissectrice, trigonometrie, aire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 29 novembre 2017"

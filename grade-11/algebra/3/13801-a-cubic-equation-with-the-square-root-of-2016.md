@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [polynome, changement de variable, factorisation, second degre, racines]
+tags: [polynome, changement-de-variable, factorisation, second-degre, racines]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2017, éliminatoires"

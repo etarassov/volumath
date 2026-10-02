@@ -5,9 +5,10 @@ grade: 10
 theme: coloring
 difficulty: 4
 duration_min: 50
-tags: [pavage, tetramino, echiquier, double-comptage, construction]
+tags: [pavage, tetraminos, echiquier, double-comptage, construction]
 adapted_from: null
 see_also: ["0812"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2024, entraînement de fin de parcours"

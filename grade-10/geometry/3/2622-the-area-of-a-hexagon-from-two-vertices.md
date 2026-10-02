@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [hexagone-regulier, diagonale, aire, triangle-equilateral, distance]
+tags: [hexagone-regulier, diagonales, aire, triangle-equilateral, distance]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School II Circle, AMC Preparation"

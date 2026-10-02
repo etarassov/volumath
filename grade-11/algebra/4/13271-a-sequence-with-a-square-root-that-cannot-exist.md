@@ -8,6 +8,7 @@ duration_min: 35
 tags: [suites, entiers, carres, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2019"

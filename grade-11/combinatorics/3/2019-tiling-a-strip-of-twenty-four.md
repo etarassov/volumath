@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 30
 tags: [denombrement, recurrence, fibonacci, pavage, suites]
 adapted_from: null
-see_also: []
+see_also: ["5204"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Induction I"

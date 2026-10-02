@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [triangle-de-pascal, sommes, puissances-de-deux, denombrement]
+tags: [triangle-de-pascal, somme, puissances-de-deux, denombrement]
 adapted_from: null
-see_also: ["0405"]
+see_also: []
+same_as: ["0405"]
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)"

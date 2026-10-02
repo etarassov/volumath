@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [criteres de divisibilite, chiffres, disjonction de cas, unicite]
+tags: [criteres-de-divisibilite, chiffres, disjonction-de-cas, unicite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), « License Plates and Divisibility », Sonya Kohli, Philadelphia Area Math Teachers' Circle"

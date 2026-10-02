@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [bissectrice, lieu geometrique, cercle, thales, aire, rapport]
+tags: [bissectrice, lieu-geometrique, cercle, thales, aire, rapport]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 2 (géométrie)"

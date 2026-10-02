@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 55
-tags: [orthocentre, parallelogramme, cercle, angle droit, symetrie centrale, puissance d'un point, theoreme de pythagore, theoreme de thales]
+tags: [orthocentre, parallelogramme, cercle, angle-droit, symetrie-centrale, puissance-d-un-point, theoreme-de-pythagore, theoreme-de-thales]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de mai 2016"

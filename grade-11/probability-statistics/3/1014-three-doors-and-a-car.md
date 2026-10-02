@@ -5,9 +5,10 @@ grade: 11
 theme: probability-statistics
 difficulty: 3
 duration_min: 35
-tags: [probabilite conditionnelle, arbre, information, evenement contraire]
+tags: [probabilite-conditionnelle, arbre, information, evenement-contraire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Did Dream cheat?"

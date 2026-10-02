@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [equation diophantienne, bezout, pgcd, entiers relatifs]
+tags: [equation-diophantienne, bezout, pgcd, entiers-relatifs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Olympiads training, Modular Arithmetic I and Divisibility Rules"

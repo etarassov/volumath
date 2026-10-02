@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [equation reciproque, changement de variable, second degre, discriminant]
+tags: [equation-reciproque, changement-de-variable, second-degre, discriminant]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, cours de Groupe A"

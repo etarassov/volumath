@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [aire, distances, inegalite, maximum, centre-de-gravite]
+tags: [aire, distance, inegalite, maximum, centre-de-gravite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2012, La Muraille"

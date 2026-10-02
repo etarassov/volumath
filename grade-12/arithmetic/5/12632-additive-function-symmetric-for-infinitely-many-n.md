@@ -8,6 +8,7 @@ duration_min: 75
 tags: [equation-fonctionnelle, nombres-premiers, decomposition-en-facteurs-premiers, principe-des-tiroirs, valuation, restes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 12 mai 2021"

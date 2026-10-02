@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [factorisation, identites remarquables, equation, degre quatre]
+tags: [factorisation, identites-remarquables, equation, degre-quatre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2017"

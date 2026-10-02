@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [fractions, inegalite, produit en croix, equation, contre-exemple]
+tags: [fractions, inegalite, produit-en-croix, equation, contre-exemple]
 adapted_from: null
 see_also: ["0501"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Did Dream cheat?"

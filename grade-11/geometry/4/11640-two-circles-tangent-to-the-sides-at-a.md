@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [cercles, tangente, cercle circonscrit, produit scalaire, projete orthogonal, parallelogramme, vecteurs]
+tags: [cercle, tangente, cercle-circonscrit, produit-scalaire, projete-orthogonal, parallelogramme, vecteurs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 5 (pot-pourri)"

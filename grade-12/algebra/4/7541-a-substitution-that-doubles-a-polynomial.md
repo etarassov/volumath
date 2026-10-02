@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [polynomes, deux-variables, identification-des-coefficients, substitution, homogeneite]
+tags: [polynome, deux-variables, identification-des-coefficients, substitution, homogeneite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2012, La Muraille"

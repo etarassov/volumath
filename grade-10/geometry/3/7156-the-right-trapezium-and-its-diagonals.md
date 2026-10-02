@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [trapeze, perpendicularite, triangles semblables, coordonnees]
+tags: [trapeze, perpendicularite, triangles-semblables, coordonnees]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2015"

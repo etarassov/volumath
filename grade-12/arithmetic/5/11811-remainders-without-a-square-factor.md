@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 75
-tags: [division euclidienne, nombres premiers, restes, puissances, equation diophantienne]
+tags: [division-euclidienne, nombres-premiers, restes, puissances, equation-diophantienne]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 5 (pot-pourri)"

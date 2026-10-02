@@ -5,8 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 2
 duration_min: 15
-tags: [angles, horloge, fractions, degres]
+tags: [angles, horloge, fractions, degre]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей"

@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [chiffres, somme-des-chiffres, divisibilite, puissances, reste]
+tags: [chiffres, somme-des-chiffres, divisibilite, puissances, restes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), « Place Value Problems », Harold Reiter"

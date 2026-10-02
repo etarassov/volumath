@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [carres parfaits, puissances de 2, modulo 4, identite remarquable, encadrement]
+tags: [carre-parfait, puissances-de-2, modulo-4, identites-remarquables, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 5 (pot-pourri)"

@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [nombres premiers, diviseurs, nombre de diviseurs, restes, divisibilite par 3, divisibilite par 5, disjonction de cas]
+tags: [nombres-premiers, diviseurs, nombre-de-diviseurs, restes, divisibilite-par-3, divisibilite-par-5, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de février 2015 (groupe B et EGMO)"

@@ -5,13 +5,14 @@ grade: 10
 theme: logic-reasoning
 difficulty: 4
 duration_min: 45
-tags: [strategie gagnante, pavage en dominos, appariement, parite]
+tags: [strategie-gagnante, pavage-en-dominos, appariement, parite]
 adapted_from: null
-see_also: ["7044"]
+see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"
-  reference: "valbonne-2023.pdf, Groupe A, « Jeux » (Théo & Augustin), exercice 6"
+  reference: "valbonne-2023.pdf, Groupe A, « Jeux » (Théo & Augustin), exercice 6. Le même jeu, posé pour des grilles 2012 × 2012 et 2011 × 2011, figure aussi dans stage_junior_2011.pdf, « Combinatoire », TD stratégies, exercice 3."
   url: "https://maths-olympiques.fr/wp-content/uploads/2023/12/valbonne-2023.pdf"
   original_language: "fr"
   local_copy: "sources/originals/pofm/valbonne-2023.pdf"

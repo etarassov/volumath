@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [triangle isocele, bissectrice, cercle inscrit, pythagore, aire, entiers]
+tags: [triangle-isocele, bissectrice, cercle-inscrit, pythagore, aire, entiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2016, éliminatoires"

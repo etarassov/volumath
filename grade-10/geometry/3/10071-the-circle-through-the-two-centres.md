@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 40
-tags: [cercles secants, mediatrice, repere, distance, alignement, cercle circonscrit]
+tags: [cercles-secants, mediatrice, repere, distance, alignement, cercle-circonscrit]
 adapted_from: null
 see_also: ["8743"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 1 (géométrie)"

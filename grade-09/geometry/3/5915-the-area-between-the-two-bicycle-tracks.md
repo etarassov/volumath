@@ -8,6 +8,7 @@ duration_min: 30
 tags: [pythagore, cercle, tangente, aire, modelisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Bicycle Math (James Tanton)"

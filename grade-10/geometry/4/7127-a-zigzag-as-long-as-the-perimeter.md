@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [mediane, triangle rectangle, hauteurs, milieux, demonstration]
+tags: [mediane, triangle-rectangle, hauteur, milieu, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013"

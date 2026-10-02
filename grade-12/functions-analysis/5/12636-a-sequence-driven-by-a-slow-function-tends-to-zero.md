@@ -5,9 +5,10 @@ grade: 12
 theme: functions-analysis
 difficulty: 5
 duration_min: 90
-tags: [suites, limite, fonction-croissante, suite-monotone, inegalites, raisonnement-par-l-absurde]
+tags: [suites, limite, fonction-croissante, suite-monotone, inegalite, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 17 novembre 2021"

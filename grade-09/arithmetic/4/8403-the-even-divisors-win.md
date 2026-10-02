@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [diviseurs, parite, multiple, somme, appariement]
+tags: [diviseurs, parite, multiples, somme, appariement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, Coupe Animath de printemps 2021"

@@ -1,6 +1,6 @@
 ---
 id: "10637"
-title: "(x + 2/y)(y/x + 2) ⩾ 8"
+title: "(x + 2/y)(y/x + 2) ≥ 8"
 grade: 10
 theme: algebra
 difficulty: 2
@@ -8,6 +8,7 @@ duration_min: 15
 tags: [inegalite, identites-remarquables, carre-positif, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 2 (algèbre)"

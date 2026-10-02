@@ -8,6 +8,7 @@ duration_min: 35
 tags: [somme-des-chiffres, congruences, carres, construction, divisibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 10 janvier 2018"

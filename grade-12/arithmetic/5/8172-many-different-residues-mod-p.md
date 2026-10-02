@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 45
-tags: [congruence, nombre-premier, denombrement, principe-des-tiroirs, double-comptage]
+tags: [congruences, nombres-premiers, denombrement, principe-des-tiroirs, double-comptage]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, La Muraille"

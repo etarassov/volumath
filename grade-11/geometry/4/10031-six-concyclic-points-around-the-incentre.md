@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [bissectrice, cercle inscrit, cercle circonscrit, points cocycliques, pythagore, theoreme de la mediane, pole sud]
+tags: [bissectrice, cercle-inscrit, cercle-circonscrit, points-cocycliques, pythagore, theoreme-de-la-mediane, pole-sud]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 5 (géométrie)"

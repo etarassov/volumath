@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 2
 duration_min: 20
-tags: [fractions, denominateur commun, simplification, ppcm]
+tags: [fractions, denominateur-commun, simplification, ppcm]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024"

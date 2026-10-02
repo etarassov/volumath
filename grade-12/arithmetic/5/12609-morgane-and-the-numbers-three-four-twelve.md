@@ -8,6 +8,7 @@ duration_min: 90
 tags: [invariant, divisibilite, puissances-de-cinq, fractions, chemin-minimal, carres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 6 janvier 2021"

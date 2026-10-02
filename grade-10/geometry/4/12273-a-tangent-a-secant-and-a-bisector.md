@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [cercle, tangente, bissectrice, theoreme de thales, coordonnees, rapport de longueurs]
+tags: [cercle, tangente, bissectrice, theoreme-de-thales, coordonnees, rapport-de-longueurs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de mars 2017"

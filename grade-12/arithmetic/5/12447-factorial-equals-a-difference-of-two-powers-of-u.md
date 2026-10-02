@@ -8,6 +8,7 @@ duration_min: 75
 tags: [maths-expertes, congruences, factorielle, puissances, nombres-premiers, petit-theoreme-de-fermat]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 20 mars 2019"

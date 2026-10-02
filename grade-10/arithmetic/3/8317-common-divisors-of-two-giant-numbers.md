@@ -8,6 +8,7 @@ duration_min: 25
 tags: [pgcd, algorithme-deuclide, diviseurs, puissances-de-dix]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2020, cours du Groupe A"

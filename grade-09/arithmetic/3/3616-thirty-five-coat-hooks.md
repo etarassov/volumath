@@ -8,6 +8,7 @@ duration_min: 25
 tags: [diviseurs, equation-entiere, espacement, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), X26 AMC 8, Number Theory"

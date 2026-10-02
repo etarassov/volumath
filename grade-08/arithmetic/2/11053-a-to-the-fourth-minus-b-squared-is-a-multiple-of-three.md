@@ -8,6 +8,7 @@ duration_min: 10
 tags: [restes, carres, puissances]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 3 (arithmétique)"

@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [sommes, inegalites, recurrence, ordre, choix-de-nombres]
+tags: [somme, inegalite, recurrence, ordre, choix-de-nombres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection des 19 et 20 février 2020"

@@ -47,9 +47,10 @@ grade: 8                      # 8 to 12, must match the folder
 theme: arithmetic             # must match the folder
 difficulty: 3                 # 1 to 5, must match the folder
 duration_min: 15              # rough time for one student
-tags: [parite, entiers]       # French, lowercase, no accents
+tags: [parite, entiers]       # French, lowercase, no accents, hyphens between words
 adapted_from: null            # id of the original when this is a copy for another grade
-see_also: []                  # ids of the same problem imported independently elsewhere
+see_also: []                  # ids of related problems: a step towards it, a converse
+same_as: []                   # ids of the same problem, imported again at another grade
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей"   # in the original language
@@ -93,13 +94,16 @@ looking at it, which is the only way they show up. Nothing here raises an error.
 |---|---|---|
 | `\binom` | `\dbinom` | the `d` form prints its own source, raw, on the page |
 | `$$(\star) \qquad ...$$` | `\tag{...}` | tags are dropped silently, so a later reference points at nothing |
-| `(` `)` | `\big(` `\big)` | the `\big` forms open ugly gaps |
+| `(` `)` | `\big(` `\big)` `\Big(` `\Big)` | the `\big` and `\Big` forms open ugly gaps |
+| plain `(` `)` around an absolute value | an absolute value inside `\left( \right)` | the bars come loose, with a space on each side of what they hold |
+| a big fraction on its own `$$` line | `\dfrac` `\tfrac` | both are ignored: a fraction inside a sentence stays small, one on a display line stays large |
+| `≥` `≤` in plain prose and titles | `⩾` `⩽` outside `$...$` | the slanted signs print as empty boxes, `vm.py check` reports them |
 | two equations joined by "et" | `\begin{cases}` | renders badly |
 | "pour $u > 0$" | `\left]0, +\infty\right[` | **breaks the build** with "unclosed delimiter" |
 | « guillemets » in plain prose | `\og` `\fg` inside `$...$` | the whole display prints as raw LaTeX source |
 
 `[0,1[` written without `\left`/`\right` is fine. Confirmed to render correctly: `\boxed`,
-`\binom`, `\underbrace`, `\prod`, `\pmod`, `\overline`, `\widehat`, `\tfrac`, `\mathbb`,
+`\binom`, `\underbrace`, `\prod`, `\pmod`, `\overline`, `\widehat`, `\mathbb`,
 `\mathcal`, `\varnothing`, `\xrightarrow{...}` (a small labelled arrow, good for showing a
 calculation step by step), the degree sign, and Markdown tables.
 
@@ -172,6 +176,7 @@ python3 tools/vm.py new --grade 8 --theme arithmetic --difficulty 3 \
         --title "Parité de n² + n" --slug parity-of-n-squared-plus-n [--id 0042]
 python3 tools/vm.py list  [--grade 8] [--theme geometry] [--difficulty 3] [--tag parite]
 python3 tools/vm.py check                     # validate every file, use it after every import
+python3 tools/vm.py tags  [--grade 8] [--theme algebra]   # tags in use, most used first
 python3 tools/vm.py index                     # rebuild catalog.json and INDEX.md
 python3 tools/vm.py build --ids 0001 0002     # one PDF per exercise: statement, hints, solution
 python3 tools/vm.py sheet --out seance-01 --grade 8 --theme arithmetic --title "Séance 1"
@@ -234,9 +239,21 @@ concluding the problem is broken. Often it is the extraction that is broken.
 - Reusing a problem at another grade means a new file with its own id and
   `adapted_from: "<original id>"`, because the solution has to be rewritten for that grade.
 - Sources overlap, so the same classic arrives twice from two different books. That is fine
-  at two different grades: cross link the two files with `see_also` so nobody hands the same
+  at two different grades: link the two files with `same_as` so nobody hands the same
   problem to the same child twice. Two copies at the *same grade* are waste even when they sit
   in different themes or at different difficulties, because the same child meets both. Keep one.
+  When one file's whole question is part of the other's, keep the one that asks more. When
+  the two share an idea but ask different things, they are not copies: keep both and link
+  them with `see_also`.
+- `same_as` means that a student who solved one file has nothing new to do in the other.
+  `see_also` means the two are only related: one is a step towards the other, a converse, or
+  the same idea on a different question. An id goes in one list or the other, never both.
+  Write every link in both files. `vm.py check` notes a link that goes only one way, and
+  reports `same_as` at the same grade as an error.
+- Before writing a tag, look at `python3 tools/vm.py tags` and reuse the spelling that is
+  already there. `inegalite` and `inegalites` are two tags to a script, and a search for one
+  misses the other. Join words with hyphens: in `[raisonnement par l'absurde, parite]` the
+  apostrophe opens a quoted string and the reader swallows the rest of the list as one tag.
 - `sources/originals/` holds the downloaded source material and is not committed. Exercises
   cite their source, so nothing is lost if those files are absent.
 - When several agents import at once, each is given its own block of ids in advance. Never
@@ -246,7 +263,7 @@ concluding the problem is broken. Often it is the extraction that is broken.
   another agent's block, not even your own file.** Both owners notice the pair at the same
   moment, each deletes their own copy trusting the other to survive, and the problem
   disappears from the database entirely. This has now happened twice, to 0379/0535 and to
-  0756/0860. Keep your file, cross link with `see_also` when the two sit at different grades,
+  0756/0860. Keep your file, link with `same_as` when the two sit at different grades,
   and let the coordinator arbitrate once every agent has stopped. Skipping a duplicate you
   have not yet written is still fine, and so is dropping one of two files you own yourself.
 - After a parallel import, reconcile the ledgers against the disk before believing either.

@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [numeration, bases, suites, recurrence]
+tags: [numeration, base, suites, recurrence]
 adapted_from: null
 see_also: ["5122"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Hercules and the Hydra (document de référence de la séance)"

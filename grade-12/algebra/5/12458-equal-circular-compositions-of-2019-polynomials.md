@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 75
-tags: [maths-expertes, polynomes, composition, degre, coefficient-dominant, recurrence, cycle-impair]
+tags: [maths-expertes, polynome, composition, degre, coefficient-dominant, recurrence, cycle-impair]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 27 novembre 2019"

@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 2
 duration_min: 15
-tags: [droite-des-milieux, milieux, rectangle, parallelogramme, hauteur]
+tags: [droite-des-milieux, milieu, rectangle, parallelogramme, hauteur]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 1 (géométrie)"

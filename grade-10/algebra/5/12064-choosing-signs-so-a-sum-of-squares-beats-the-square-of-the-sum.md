@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 5
 duration_min: 50
-tags: [inegalites, signes alternes, nombres ranges, carre d'une somme, descente, inegalite]
+tags: [inegalite, signes-alternes, nombres-ranges, carre-d-une-somme, descente]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, deuxième jour du test de sélection pour l'OIM 2014 (14 mai 2014)"

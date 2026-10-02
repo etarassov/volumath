@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 35
 tags: [triangle-isocele, angles, bissectrice, symetrie, construction]
 adapted_from: null
-see_also: []
+see_also: ["7949"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 28 mars 2018"

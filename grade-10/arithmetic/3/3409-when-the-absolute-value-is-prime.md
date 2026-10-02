@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [nombres premiers, valeur absolue, factorisation, entiers relatifs]
+tags: [nombres-premiers, valeur-absolue, factorisation, entiers-relatifs]
 adapted_from: null
-see_also: ["3201"]
+see_also: []
+same_as: ["3201"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12, Week 1: Algebra"

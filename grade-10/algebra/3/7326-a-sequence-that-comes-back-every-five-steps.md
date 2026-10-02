@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [suite, recurrence, periodicite, calcul]
+tags: [suites, recurrence, periodicite, calcul]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2008"

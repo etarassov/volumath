@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercle inscrit, cercle circonscrit, angle inscrit, triangles semblables, aires, rapport de longueurs, mediane, points alignes]
+tags: [cercle-inscrit, cercle-circonscrit, angle-inscrit, triangles-semblables, aire, rapport-de-longueurs, mediane, points-alignes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de mai 2017"

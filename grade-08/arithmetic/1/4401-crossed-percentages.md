@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 1
 duration_min: 5
-tags: [pourcentage, produit, comparaison]
+tags: [pourcentages, produit, comparaison]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Percentages"

@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [aire, milieux, coordonnees, octogone, decoupage]
+tags: [aire, milieu, coordonnees, octogone, decoupage]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, la muraille"

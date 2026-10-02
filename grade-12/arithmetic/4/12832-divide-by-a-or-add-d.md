@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 50
-tags: [suites, divisibilite, congruences, lemme-de-gauss, permutation, maths-expertes]
+tags: [suites, divisibilite, congruences, lemme-de-gauss, permutations, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2023"

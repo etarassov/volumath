@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [nombre-premier, reste, division-euclidienne, puissance]
+tags: [nombres-premiers, restes, division-euclidienne, puissances]
 adapted_from: null
-see_also: ["8545"]
+see_also: ["8437"]
+same_as: ["8545"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe A"

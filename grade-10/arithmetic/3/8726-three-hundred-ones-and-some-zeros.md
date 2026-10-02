@@ -8,6 +8,7 @@ duration_min: 25
 tags: [carre-parfait, criteres-de-divisibilite, facteurs-premiers, somme-des-chiffres]
 adapted_from: null
 see_also: []
+same_as: ["8656"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2024, cours de Groupe A"

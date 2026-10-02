@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [double comptage, connaissances, somme des carres, moyenne, inegalites]
+tags: [double-comptage, connaissances, somme-de-carres, moyenne, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test du 26 février 2014"

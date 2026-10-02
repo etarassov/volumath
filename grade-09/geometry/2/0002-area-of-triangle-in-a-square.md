@@ -7,6 +7,8 @@ difficulty: 2
 duration_min: 20
 tags: [aire, carre, triangle, paralleles]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Exercice classique, ajouté comme exemple de mise en forme"

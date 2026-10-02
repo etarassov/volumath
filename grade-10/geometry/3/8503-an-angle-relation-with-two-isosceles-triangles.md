@@ -8,6 +8,7 @@ duration_min: 30
 tags: [angles, triangle-isocele, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: ["0663"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, Coupe Animath de printemps 2022"

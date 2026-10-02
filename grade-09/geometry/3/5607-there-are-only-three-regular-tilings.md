@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 35
 tags: [pavage, polygone-regulier, angles, divisibilite]
 adapted_from: null
-see_also: []
+see_also: ["5608", "5609", "5611"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Art Meets Math: Escher's Tilings"

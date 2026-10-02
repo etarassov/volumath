@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [denombrement, grille, maximum, minimum, principe multiplicatif]
+tags: [denombrement, grille, maximum, minimum, principe-multiplicatif]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2017-2018 n° 4 (combinatoire)"

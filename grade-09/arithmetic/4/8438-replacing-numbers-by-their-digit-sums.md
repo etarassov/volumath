@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [invariant, somme-des-chiffres, reste, division-par-neuf, denombrement]
+tags: [invariant, somme-des-chiffres, restes, division-par-neuf, denombrement]
 adapted_from: null
 see_also: ["7218"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe A"

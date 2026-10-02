@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [geometrie-combinatoire, segments, fonctions-affines, plus-petit-contre-exemple, trajectoire, demonstration]
+tags: [geometrie-combinatoire, segments, fonction-affine, plus-petit-contre-exemple, trajectoire, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 4 (combinatoire)"

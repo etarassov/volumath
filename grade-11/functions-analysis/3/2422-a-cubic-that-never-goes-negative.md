@@ -8,6 +8,7 @@ duration_min: 30
 tags: [derivee, variations, minimum, inegalite, polynome]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, The AM-GM Inequality"

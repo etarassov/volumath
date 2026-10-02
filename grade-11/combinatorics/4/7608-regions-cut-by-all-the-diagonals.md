@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 45
-tags: [denombrement, coefficients binomiaux, polygone, diagonales, comptage pas a pas]
+tags: [denombrement, coefficients-binomiaux, polygone, diagonales, comptage-pas-a-pas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, test de mi-parcours"

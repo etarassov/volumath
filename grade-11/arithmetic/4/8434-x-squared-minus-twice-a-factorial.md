@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [factorielle, congruence, carres, equation-en-entiers, cas-a-traiter]
+tags: [factorielle, congruences, carres, equation-en-entiers, cas-a-traiter]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe A"

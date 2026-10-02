@@ -5,9 +5,10 @@ grade: 10
 theme: logic-reasoning
 difficulty: 5
 duration_min: 45
-tags: [logique, langue inconnue, une seule question, tableau de cas]
+tags: [logique, langue-inconnue, une-seule-question, tableau-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Knights and Knaves: A journey to the land of logic (Altha Rodin, d'après Raymond Smullyan)"

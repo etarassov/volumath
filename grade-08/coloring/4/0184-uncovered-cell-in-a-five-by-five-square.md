@@ -7,6 +7,8 @@ difficulty: 4
 duration_min: 45
 tags: [coloriage, pavage, quadrillage, symetrie, demonstration]
 adapted_from: null
+see_also: ["8177"]
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей"

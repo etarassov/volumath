@@ -5,9 +5,10 @@ grade: 10
 theme: functions-analysis
 difficulty: 4
 duration_min: 40
-tags: [optimisation, aire, inegalite triangulaire, identite remarquable, changement de variable]
+tags: [optimisation, aire, inegalite-triangulaire, identites-remarquables, changement-de-variable]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Visualization in Algebra, Tom Davis"

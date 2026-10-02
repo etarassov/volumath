@@ -42,7 +42,6 @@
     "8331",
     "8332",
     "8333",
-    "8334",
     "8335",
     "8336",
     "8337",
@@ -144,6 +143,12 @@
       "survivor": "7306",
       "date": "2026-09-30",
       "why": "Retiré le 2026-09-30 : même problème que 7306 (grade-08/logic-reasoning/3/7306-thirty-three-numbers-in-eleven-triples.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8334",
+      "survivor": "7826",
+      "date": "2026-10-02",
+      "why": "Retiré le 2026-10-02 : mêmes règles et mêmes questions que 7826 (grade-09/logic-reasoning/3/7826-words-in-x-y-and-t.md), au même niveau : sa question 1 est une étape de la question c) de 7826. Repéré lors du tri des liens see_also et same_as qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
     }
   ],
   "notes": [
@@ -151,7 +156,7 @@
     "Le corrige publie de l'exercice 17 decrit une construction qui contredit sa propre figure ; la figure est juste, le texte non. Construction verifiee et reecrite dans 8312.",
     "8344, 8345 : écrits par cette unité (Polycopie-Valbonne-2020-v2.pdf, Groupe A, entraînement de mi-parcours, exercices 3 et 1) mais jamais inscrits ici. Ajoutés le 2026-09-30 lors de la vérification des registres."
   ],
-  "updated": "2026-09-30",
+  "updated": "2026-10-02",
   "files": [
     {
       "file": "Polycopie-Valbonne-2020-v2.pdf",

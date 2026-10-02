@@ -8,6 +8,7 @@ duration_min: 25
 tags: [decomposition-en-facteurs-premiers, puissances, divisibilite]
 adapted_from: null
 see_also: []
+same_as: ["8425"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2024, cours de Groupe A"

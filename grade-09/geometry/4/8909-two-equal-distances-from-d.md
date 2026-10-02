@@ -8,6 +8,7 @@ duration_min: 35
 tags: [cercle, diametre, angle-droit, bissectrice, triangle-isocele, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, Coupe Animath de printemps 2026"

@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [principe des tiroirs, raisonnement par l'absurde, denombrement, ensembles]
+tags: [principe-des-tiroirs, raisonnement-par-l-absurde, denombrement, ensembles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 5 (pot-pourri)"

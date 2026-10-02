@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 45
-tags: [recurrence, algorithme glouton, repartition, inegalites]
+tags: [recurrence, algorithme-glouton, repartition, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

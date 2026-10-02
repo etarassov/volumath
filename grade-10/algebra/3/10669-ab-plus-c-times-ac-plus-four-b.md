@@ -1,13 +1,14 @@
 ---
 id: "10669"
-title: "(ab + c)(ac + 4b) ⩾ 8 quand abc = 1"
+title: "(ab + c)(ac + 4b) ≥ 8 quand abc = 1"
 grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [inegalite, produit-egal-a-un, racines-carrees, cas-d-egalite]
+tags: [inegalite, produit-egal-a-un, racine-carree, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 2 (algèbre)"

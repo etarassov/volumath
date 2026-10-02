@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [signes, tiroirs, contre-exemple, inegalites]
+tags: [signe, tiroirs, contre-exemple, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, Coupe Animath de printemps 2026"

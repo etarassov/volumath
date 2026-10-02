@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [equation diophantienne, carres parfaits, discriminant, factorisation, diviseurs]
+tags: [equation-diophantienne, carre-parfait, discriminant, factorisation, diviseurs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2015, jour 2"

@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [inegalite, identite-remarquable, racine-carree, cas-degalite]
+tags: [inegalite, identites-remarquables, racine-carree, cas-degalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe A"

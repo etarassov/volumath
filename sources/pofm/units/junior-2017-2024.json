@@ -35,7 +35,6 @@
   "7229",
   "7233",
   "7234",
-  "7235",
   "7237",
   "7239",
   "7242",
@@ -173,6 +172,12 @@
    "survivor": "8916",
    "date": "2026-09-30",
    "why": "Retiré le 2026-09-30 : même problème que 8916 (grade-11/geometry/4/8916-two-tangents-that-meet-at-the-circumcentre.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7235",
+   "survivor": "8224",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : c'est le cas du triangle 3-4-5, que 8224 (grade-10/geometry/3/8224-inradius-of-a-right-triangle.md) traite à la fin de sa solution, au même niveau. Repéré lors du tri des liens see_also et same_as qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
   }
  ],
  "notes": [
@@ -185,7 +190,7 @@
   "7261 (jeu des deux tas de 2010) ressemble a 5305 mais les regles different : ici on peut vider autant de jetons qu'on veut d'un seul tas, la reponse et la strategie ne sont pas les memes.",
   "Les quatre documents sont tous exploites. Le gisement restant est surtout du groupe B de 2021 et 2024 (olympiade, souvent au-dela du club) et les series d'exercices d'application deja couvertes ailleurs dans la base."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-02",
  "files": [
   {
    "file": "Poly-CJ-17.pdf",

@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 50
-tags: [cercle circonscrit, symetrie axiale, mediatrice, bissectrice, milieu d'arc, produit scalaire, angle inscrit]
+tags: [cercle-circonscrit, symetrie-axiale, mediatrice, bissectrice, milieu-d-arc, produit-scalaire, angle-inscrit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, deuxième jour du test de sélection pour l'OIM 2014 (14 mai 2014)"

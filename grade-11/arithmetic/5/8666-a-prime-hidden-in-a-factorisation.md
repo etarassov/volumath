@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 5
 duration_min: 50
-tags: [equation diophantienne, factorisation, nombres premiers, etude de cas]
+tags: [equation-diophantienne, factorisation, nombres-premiers, etude-de-cas]
 adapted_from: null
-see_also: ["8330"]
+see_also: []
+same_as: ["8330"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

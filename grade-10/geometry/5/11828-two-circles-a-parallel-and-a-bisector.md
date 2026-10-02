@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercles secants, cordes paralleles, mediatrice, vecteurs, coordonnees, bissectrice, symetrie]
+tags: [cercles-secants, cordes-paralleles, mediatrice, vecteurs, coordonnees, bissectrice, symetrie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 5 (pot-pourri)"

@@ -5,13 +5,14 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercle inscrit, tangentes, triangle rectangle, longueurs]
+tags: [cercle-inscrit, tangente, triangle-rectangle, longueurs]
 adapted_from: null
-see_also: ["7020", "7235"]
+see_also: ["7020"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"
-  reference: "PolycopieV1-1.pdf, chapitre III « Groupe A », première partie, TD « Les points du triangle » (Henry Bambury), exercice 12"
+  reference: "PolycopieV1-1.pdf, chapitre III « Groupe A », première partie, TD « Les points du triangle » (Henry Bambury), exercice 12. Le cas du triangle 3-4-5 figure aussi dans Poly_final_CJ18.pdf, « Première journée », exercices d'échauffement, exercice 1."
   url: "http://maths-olympiques.fr/wp-content/uploads/2019/08/PolycopieV1-1.pdf"
   original_language: "fr"
   local_copy: "sources/originals/pofm/PolycopieV1-1.pdf"

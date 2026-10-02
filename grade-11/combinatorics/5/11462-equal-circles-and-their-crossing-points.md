@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [cercles, double-comptage, poids, mediatrice, demonstration]
+tags: [cercle, double-comptage, poids, mediatrice, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 4 (combinatoire)"

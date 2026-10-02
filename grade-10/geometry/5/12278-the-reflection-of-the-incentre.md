@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 50
-tags: [triangle isocele, centre du cercle inscrit, bissectrice, symetrie axiale, triangles semblables, coordonnees, points cocycliques]
+tags: [triangle-isocele, centre-du-cercle-inscrit, bissectrice, symetrie-axiale, triangles-semblables, coordonnees, points-cocycliques]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de mars 2017"

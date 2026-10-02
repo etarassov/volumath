@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [maths-expertes, congruences, nombres premiers, petit theoreme de fermat, bezout, inverse modulo p, pgcd]
+tags: [maths-expertes, congruences, nombres-premiers, petit-theoreme-de-fermat, bezout, inverse-modulo-p, pgcd]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de janvier 2015"

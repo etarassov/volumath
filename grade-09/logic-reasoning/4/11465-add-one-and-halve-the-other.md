@@ -5,9 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 4
 duration_min: 30
-tags: [monovariant, somme, absurde, inegalites, demonstration]
+tags: [monovariant, somme, absurde, inegalite, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 4 (combinatoire)"

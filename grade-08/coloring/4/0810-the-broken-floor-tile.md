@@ -8,6 +8,7 @@ duration_min: 35
 tags: [coloriage, pavage, invariant, parite, carreaux]
 adapted_from: null
 see_also: []
+same_as: ["7655"]
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »"

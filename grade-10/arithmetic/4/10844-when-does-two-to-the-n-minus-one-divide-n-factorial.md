@@ -8,6 +8,7 @@ duration_min: 35
 tags: [factorielle, puissances-de-deux, divisibilite, encadrement, somme-geometrique]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2017-2018 n° 1 (arithmétique)"

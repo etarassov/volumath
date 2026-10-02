@@ -8,6 +8,7 @@ duration_min: 25
 tags: [equation-du-second-degre, factorisation, diviseurs, somme-et-produit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 8 training, Berkeley mini Math Tournament 2025"

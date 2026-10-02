@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 25
 tags: [divisibilite, puissances, recurrence, factorisation]
 adapted_from: null
-see_also: ["7620"]
+see_also: []
+same_as: ["7620"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2012, La Muraille"

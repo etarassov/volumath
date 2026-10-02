@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 5
 duration_min: 45
-tags: [coefficient-binomial, double-comptage, divisibilite, nombre-premier, demonstration]
+tags: [coefficient-binomial, double-comptage, divisibilite, nombres-premiers, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, Combinatorics"

@@ -8,6 +8,7 @@ duration_min: 40
 tags: [polygone-regulier, triangulation, angle-inscrit, cercle-circonscrit, parite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Saint-Malo 2007"

@@ -5,9 +5,10 @@ grade: 12
 theme: probability-statistics
 difficulty: 4
 duration_min: 45
-tags: [loi binomiale, esperance, prise de decision, independance, seuil]
+tags: [loi-binomiale, esperance, prise-de-decision, independance, seuil]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Did Dream cheat?"

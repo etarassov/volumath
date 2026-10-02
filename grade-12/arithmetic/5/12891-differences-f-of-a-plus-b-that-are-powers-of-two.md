@@ -8,6 +8,7 @@ duration_min: 90
 tags: [equation-fonctionnelle, puissances-de-2, recurrence, construction, partie-entiere]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 2 avril 2025"

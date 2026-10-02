@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 1
 duration_min: 5
-tags: [fraction, factorisation, calcul-malin, produit]
+tags: [fractions, factorisation, calcul-malin, produit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, Coupe Animath de printemps 2021"

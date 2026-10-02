@@ -8,6 +8,7 @@ duration_min: 75
 tags: [pavage, escalier, puissances-de-2, de-proche-en-proche, carres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 9 janvier 2019"

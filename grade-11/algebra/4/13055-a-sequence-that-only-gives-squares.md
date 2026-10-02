@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 45
-tags: [suites, recurrence, carres parfaits, relation lineaire]
+tags: [suites, recurrence, carre-parfait, relation-lineaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, test de rentrée (Coupe Animath d'automne) du 7 octobre 2015"

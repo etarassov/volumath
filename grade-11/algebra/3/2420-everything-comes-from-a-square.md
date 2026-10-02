@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 40
-tags: [inegalite, identite-remarquable, moyenne-geometrique, positivite, demonstration]
+tags: [inegalite, identites-remarquables, moyenne-geometrique, positivite, demonstration]
 adapted_from: null
 see_also: ["2421"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, The AM-GM Inequality"

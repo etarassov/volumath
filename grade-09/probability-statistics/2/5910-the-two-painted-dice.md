@@ -5,9 +5,10 @@ grade: 9
 theme: probability-statistics
 difficulty: 2
 duration_min: 20
-tags: [probabilites, des, equiprobabilite, equation]
+tags: [probabilite, des, equiprobabilite, equation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Probability (Elgin Johnston)"

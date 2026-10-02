@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [cercle circonscrit, angle inscrit, symetrie, thales, vecteurs, alignement]
+tags: [cercle-circonscrit, angle-inscrit, symetrie, thales, vecteurs, alignement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, test de rentrée (Coupe Animath d'automne) du 1er octobre 2014"

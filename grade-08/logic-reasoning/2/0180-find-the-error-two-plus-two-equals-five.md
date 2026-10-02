@@ -7,6 +7,8 @@ difficulty: 2
 duration_min: 20
 tags: [trouver-lerreur, division-par-zero, factorisation, raisonnement]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей"

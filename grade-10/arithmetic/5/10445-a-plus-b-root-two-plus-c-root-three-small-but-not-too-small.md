@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [racines-carrees, irrationnels, principe-des-tiroirs, encadrement, facteurs-premiers]
+tags: [racine-carree, irrationnel, principe-des-tiroirs, encadrement, facteurs-premiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 2 (algèbre)"

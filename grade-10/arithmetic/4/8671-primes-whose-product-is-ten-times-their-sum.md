@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [nombres premiers, produit et somme, factorisation, etude de cas]
+tags: [nombres-premiers, produit-et-somme, factorisation, etude-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, La Muraille"

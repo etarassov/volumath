@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [nombres premiers, divisibilite, polynome, puissances, factorisation]
+tags: [nombres-premiers, divisibilite, polynome, puissances, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de janvier 2017"

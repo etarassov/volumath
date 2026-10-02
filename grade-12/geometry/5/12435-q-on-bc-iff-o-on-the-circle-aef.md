@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [hors-programme, angles-orientes, cercles, cocyclicite, symetrie, angle-inscrit]
+tags: [hors-programme, angles-orientes, cercle, cocyclicite, symetrie, angle-inscrit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 9 janvier 2019"

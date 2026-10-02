@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 3
 duration_min: 20
-tags: [denombrement, echiquier, principe multiplicatif]
+tags: [denombrement, echiquier, principe-multiplicatif]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Beginners, Combinatorics on a Chessboard"

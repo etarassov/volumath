@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [triangle-equilateral, rotation, symetrie-axiale, mediatrice, angles-inscrits, cercle-circonscrit, raisonnement-par-l-absurde]
+tags: [triangle-equilateral, rotation, symetrie-axiale, mediatrice, angle-inscrit, cercle-circonscrit, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 15 mai 2019"

@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [divisibilite, somme-des-carres, disjonction-de-cas, congruences]
+tags: [divisibilite, somme-de-carres, disjonction-de-cas, congruences]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Induction in Arithmetic"

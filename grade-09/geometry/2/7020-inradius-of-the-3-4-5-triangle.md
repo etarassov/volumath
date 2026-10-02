@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 2
 duration_min: 20
-tags: [cercle inscrit, aire, triangle rectangle]
+tags: [cercle-inscrit, aire, triangle-rectangle]
 adapted_from: null
-see_also: []
+see_also: ["8224"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2010"

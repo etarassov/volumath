@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [principe des tiroirs, divisibilite, sommes partielles]
+tags: [principe-des-tiroirs, divisibilite, sommes-partielles]
 adapted_from: null
 see_also: ["7036"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2011, groupe des débutants"

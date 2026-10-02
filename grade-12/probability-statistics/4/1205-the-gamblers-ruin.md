@@ -8,6 +8,7 @@ duration_min: 40
 tags: [probabilite, marche-aleatoire, suite-arithmetique, recurrence, ruine-du-joueur]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2, «Random walks»"

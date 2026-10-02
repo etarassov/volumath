@@ -8,6 +8,7 @@ duration_min: 25
 tags: [echiquier, maximum, construction, majoration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2021"

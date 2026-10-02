@@ -8,6 +8,7 @@ duration_min: 60
 tags: [angle-inscrit, angle-au-centre, angle-tangentiel, cocyclicite, cercles-tangents, point-de-miquel, symetrie-axiale, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 1 (géométrie)"

@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [denombrement, recurrence, coefficients binomiaux, partitions ordonnees]
+tags: [denombrement, recurrence, coefficients-binomiaux, partitions-ordonnees]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, La Muraille"

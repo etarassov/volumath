@@ -5,8 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 4
 duration_min: 30
-tags: [absurde, disjonction-de-cas, reseau, graphes, demonstration]
+tags: [absurde, disjonction-de-cas, reseau, graphe, demonstration]
 adapted_from: null
+see_also: []
+same_as: ["8118"]
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей"

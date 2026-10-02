@@ -8,6 +8,7 @@ duration_min: 45
 tags: [inegalite, moyenne-geometrique, racine-n-ieme, astuce, demonstration]
 adapted_from: null
 see_also: ["2420"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, The AM-GM Inequality"

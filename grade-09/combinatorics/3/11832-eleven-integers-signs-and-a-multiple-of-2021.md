@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 20
-tags: [principe des tiroirs, sous-ensembles, sommes, restes, divisibilite]
+tags: [principe-des-tiroirs, sous-ensembles, somme, restes, divisibilite]
 adapted_from: null
-see_also: ["7740"]
+see_also: []
+same_as: ["7740"]
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 5 (pot-pourri)"

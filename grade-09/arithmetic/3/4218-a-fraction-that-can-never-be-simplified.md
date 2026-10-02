@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [pgcd, fraction irreductible, combinaison lineaire]
+tags: [pgcd, fraction-irreductible, combinaison-lineaire]
 adapted_from: null
-see_also: []
+see_also: ["7040"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Greatest Common Divisors"

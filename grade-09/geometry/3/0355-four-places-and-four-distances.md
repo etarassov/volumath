@@ -7,6 +7,8 @@ difficulty: 3
 duration_min: 15
 tags: [inegalite-triangulaire, distance, alignement, encadrement]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей"

@@ -5,9 +5,10 @@ grade: 12
 theme: functions-analysis
 difficulty: 5
 duration_min: 50
-tags: [polynomes, racines reelles, equation fonctionnelle, valeurs intermediaires, derivee, minimum]
+tags: [polynome, racines-reelles, equation-fonctionnelle, valeurs-intermediaires, derivee, minimum]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 5 (pot-pourri)"

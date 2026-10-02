@@ -5,9 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 3
 duration_min: 25
-tags: [principe des tiroirs, moyenne, comptage]
+tags: [principe-des-tiroirs, moyenne, comptage]
 adapted_from: null
-see_also: []
+see_also: ["8628"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, cours de stratégies de base du groupe A"

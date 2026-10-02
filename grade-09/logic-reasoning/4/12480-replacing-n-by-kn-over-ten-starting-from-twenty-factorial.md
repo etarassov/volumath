@@ -8,6 +8,7 @@ duration_min: 40
 tags: [jeu, strategie-gagnante, factorielle, decomposition-en-facteurs-premiers, parite, invariant]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 6 mai 2020"

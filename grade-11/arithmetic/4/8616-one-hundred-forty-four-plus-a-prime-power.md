@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [factorisation, nombres premiers, diviseurs d une puissance, disjonction de cas]
+tags: [factorisation, nombres-premiers, diviseurs-d-une-puissance, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

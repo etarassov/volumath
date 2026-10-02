@@ -8,6 +8,7 @@ duration_min: 50
 tags: [graphe, recurrence, double-comptage, minimum, concours]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 4 (combinatoire)"

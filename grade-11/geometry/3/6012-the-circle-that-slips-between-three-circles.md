@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 3
 duration_min: 40
-tags: [cercles tangents, courbure, equation du second degre, somme des racines]
+tags: [cercles-tangents, courbure, equation-du-second-degre, somme-des-racines]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular, « A Problem Fit for a Princess » (Christopher Goff)"

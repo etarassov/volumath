@@ -8,6 +8,7 @@ duration_min: 35
 tags: [logique, mensonge, recurrence, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2016"

@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [points, triangles, coloriage, tiroirs, disjonction-de-cas]
+tags: [points, triangle, coloriage, tiroirs, disjonction-de-cas]
 adapted_from: null
 see_also: ["0235"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 1 (combinatoire)"

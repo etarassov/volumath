@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 2
 duration_min: 15
-tags: [systeme, mise en equation, masse]
+tags: [systeme, mise-en-equation, masse]
 adapted_from: null
-see_also: ["0629"]
+see_also: []
+same_as: ["0629"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, Problem Solving: Think Outside the Box"

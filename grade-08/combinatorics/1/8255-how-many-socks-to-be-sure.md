@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 1
 duration_min: 10
-tags: [principe des tiroirs, pire des cas]
+tags: [principe-des-tiroirs, pire-des-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe B"

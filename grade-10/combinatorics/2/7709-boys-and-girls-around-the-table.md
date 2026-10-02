@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 2
 duration_min: 20
-tags: [denombrement, factorielle, alternance, table ronde]
+tags: [denombrement, factorielle, alternance, table-ronde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, test de mi-parcours du vendredi 22 août"

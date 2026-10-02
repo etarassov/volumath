@@ -5,13 +5,14 @@ grade: 10
 theme: algebra
 difficulty: 2
 duration_min: 10
-tags: [identites remarquables, calcul algebrique, inverse]
+tags: [identites-remarquables, calcul-algebrique, inverse]
 adapted_from: null
-see_also: ["8512"]
+see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"
-  reference: "PolycopieV1-1.pdf, chapitre III « Groupe A », première partie, « TD manipulations algébriques, récurrence » (Yohann D'Anello), exercice 4"
+  reference: "PolycopieV1-1.pdf, chapitre III « Groupe A », première partie, « TD manipulations algébriques, récurrence » (Yohann D'Anello), exercice 4. Le même exercice, avec √2020, figure aussi dans Poly_Valbonne_2022-Corrigé-1.pdf, chapitre III, « Inégalités 2 » (Théo), exercice 6."
   url: "http://maths-olympiques.fr/wp-content/uploads/2019/08/PolycopieV1-1.pdf"
   original_language: "fr"
   local_copy: "sources/originals/pofm/PolycopieV1-1.pdf"

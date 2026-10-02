@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [inegalite, racine carree, racine cubique, changement de variables, raisonnement par l'absurde]
+tags: [inegalite, racine-carree, racine-cubique, changement-de-variable, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de mars 2016"

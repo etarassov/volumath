@@ -8,6 +8,7 @@ duration_min: 30
 tags: [aire, partage, trapeze, pythagore, optimisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2011 (test de sélection du stage olympique de Grésillon, 7 juin 2011)"

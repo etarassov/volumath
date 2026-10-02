@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 2
 duration_min: 10
-tags: [denombrement, double comptage, paires, droites]
+tags: [denombrement, double-comptage, paires, droites]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, éliminatoires du test de rentrée 2015 (Coupe Animath d'automne), questionnaire collégiens"

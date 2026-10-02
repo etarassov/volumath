@@ -8,6 +8,7 @@ duration_min: 45
 tags: [equation-fonctionnelle, bijection, injectivite, substitution, analyse-synthese]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 2 (algèbre)"

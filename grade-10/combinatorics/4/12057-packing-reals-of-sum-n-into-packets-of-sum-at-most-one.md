@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [paquets, regroupement, tri, principe extremal, exemple extremal, sommes]
+tags: [paquets, regroupement, tri, principe-extremal, exemple-extremal, somme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de sélection pour l'OIM 2014, premier jour (13 mai 2014)"

@@ -8,6 +8,7 @@ duration_min: 45
 tags: [algorithme, majoration, recherche-exhaustive, graphe-des-positions, tri]
 adapted_from: null
 see_also: ["6109"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular Winter/Spring 2016, rubrique « Problem Circle »"

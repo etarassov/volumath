@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 3
 duration_min: 30
-tags: [suites, relation-de-recurrence, denombrement, compositions]
+tags: [suites, relation-de-recurrence, denombrement, composition]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 1, Recurrences and Generating Functions"

@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercle inscrit, cercle circonscrit, hauteurs, triangles semblables, al-kashi, trigonometrie, puissance d'un point, perpendicularite]
+tags: [cercle-inscrit, cercle-circonscrit, hauteur, triangles-semblables, al-kashi, trigonometrie, puissance-d-un-point, perpendicularite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 15 mai 2013"

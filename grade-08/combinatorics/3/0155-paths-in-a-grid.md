@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 25
 tags: [denombrement, quadrillage, chemins, triangle-de-pascal, choix]
 adapted_from: null
-see_also: ["0401"]
+see_also: ["2405"]
+same_as: ["0401"]
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)"

@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [denombrement, bijection, congruence, coefficient-binomial]
+tags: [denombrement, bijection, congruences, coefficient-binomial]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School Circle, AMC Problem Session"

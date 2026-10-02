@@ -8,6 +8,7 @@ duration_min: 25
 tags: [fractions, inegalite, somme, moyenne]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, Coupe Animath de printemps 2018"

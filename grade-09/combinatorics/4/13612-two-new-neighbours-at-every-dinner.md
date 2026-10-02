@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 45
-tags: [table ronde, voisins, construction, majoration, nombre premier, reste]
+tags: [table-ronde, voisins, construction, majoration, nombres-premiers, restes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2011 (test de sélection du stage olympique de Grésillon, 7 juin 2011)"

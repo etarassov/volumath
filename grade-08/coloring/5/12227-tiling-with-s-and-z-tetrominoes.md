@@ -5,9 +5,10 @@ grade: 8
 theme: coloring
 difficulty: 5
 duration_min: 45
-tags: [pavage, tetrominos, coloriage, parite, invariant]
+tags: [pavage, tetromino, coloriage, parite, invariant]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2015, jour 1"

@@ -8,6 +8,7 @@ duration_min: 30
 tags: [nombres-complexes, racines-de-lunite, trigonometrie, second-degre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School II Circle, Roots of Unity (Prof. Kent Merryfield, CSULB)"

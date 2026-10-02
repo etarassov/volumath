@@ -5,8 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [chiffres, produit, cycle, periodicite, reste]
+tags: [chiffres, produit, cycle, periodicite, restes]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей"

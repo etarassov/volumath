@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [inegalite-geometrique, disques, al-kashi, principe-des-tiroirs, recurrence, inegalite-triangulaire]
+tags: [inegalite-geometrique, disque, al-kashi, principe-des-tiroirs, recurrence, inegalite-triangulaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 31 mars 2021"

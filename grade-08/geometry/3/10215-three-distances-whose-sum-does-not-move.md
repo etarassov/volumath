@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 15
 tags: [triangle-equilateral, aire, hauteur, projete-orthogonal, invariant, decoupage]
 adapted_from: null
-see_also: ["1220"]
+see_also: []
+same_as: ["1220"]
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 1 (géométrie)"

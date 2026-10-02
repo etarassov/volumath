@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 45
-tags: [graphe oriente, denombrement, factorielle]
+tags: [graphe-oriente, denombrement, factorielle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2011"

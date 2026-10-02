@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [palindromes, divisibilite, chiffres, critere-de-divisibilite-par-11]
+tags: [palindrome, divisibilite, chiffres, critere-de-divisibilite-par-11]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2016 (test de rentrée OFM)"

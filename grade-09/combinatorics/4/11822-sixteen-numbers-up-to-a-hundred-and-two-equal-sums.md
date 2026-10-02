@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [principe des tiroirs, differences, paires, suite arithmetique]
+tags: [principe-des-tiroirs, differences, paires, suite-arithmetique]
 adapted_from: null
 see_also: ["8543"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 5 (pot-pourri)"

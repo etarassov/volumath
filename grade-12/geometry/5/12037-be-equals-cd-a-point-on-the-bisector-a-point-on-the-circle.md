@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 90
-tags: [hors-programme, cercle circonscrit, cocyclicite, bissectrice, rotation, angles orientes, coordonnees]
+tags: [hors-programme, cercle-circonscrit, cocyclicite, bissectrice, rotation, angles-orientes, coordonnees]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 24 mars 2013"

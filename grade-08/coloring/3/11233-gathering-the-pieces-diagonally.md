@@ -5,9 +5,10 @@ grade: 8
 theme: coloring
 difficulty: 3
 duration_min: 20
-tags: [coloriage, parite, echiquier, deplacements, minimum]
+tags: [coloriage, parite, echiquier, deplacement, minimum]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 4 (combinatoire)"

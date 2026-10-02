@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [puissances de 2, sommes, recurrence, parite, ecriture binaire, extremalite]
+tags: [puissances-de-2, somme, recurrence, parite, ecriture-binaire, extremalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mars 2015"

@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [double-comptage, mise-en-equation, polygones, ballon]
+tags: [double-comptage, mise-en-equation, polygone, ballon]
 adapted_from: null
-see_also: ["0280"]
+see_also: []
+same_as: ["0280"]
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей"

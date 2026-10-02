@@ -5,9 +5,10 @@ grade: 11
 theme: probability-statistics
 difficulty: 4
 duration_min: 45
-tags: [esperance, variable aleatoire, strategie, theorie des jeux, equation]
+tags: [esperance, variable-aleatoire, strategie, theorie-des-jeux, equation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2, Intro to Game Theory"

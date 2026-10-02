@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [division-euclidienne, restes, nombres-premiers, diviseurs, sommes]
+tags: [division-euclidienne, restes, nombres-premiers, diviseurs, somme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 23 mars 2022"

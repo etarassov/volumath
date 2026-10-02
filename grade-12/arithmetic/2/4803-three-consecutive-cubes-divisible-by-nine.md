@@ -8,6 +8,7 @@ duration_min: 20
 tags: [recurrence, divisibilite, cubes, congruences]
 adapted_from: null
 see_also: []
+same_as: ["7754"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Introduction to Induction (Olga Radko)"

@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 45
-tags: [nombres-premiers, factorisation, identite-remarquable, parite, disjonction-de-cas]
+tags: [nombres-premiers, factorisation, identites-remarquables, parite, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2026, Groupe B"

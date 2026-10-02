@@ -5,9 +5,10 @@ grade: 11
 theme: probability-statistics
 difficulty: 4
 duration_min: 40
-tags: [probabilites-conditionnelles, probabilites-totales, de, parite]
+tags: [probabilite-conditionnelle, probabilites-totales, des, parite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Essential Counting Strategies (Kevin Wang)"

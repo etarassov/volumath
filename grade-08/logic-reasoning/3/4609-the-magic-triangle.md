@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 3
 duration_min: 25
-tags: [somme, construction, double comptage, entiers]
+tags: [somme, construction, double-comptage, entiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Junior Circle, Problems from Russian Olympiads"

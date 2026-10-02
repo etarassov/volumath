@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercle, tangente, triangle isocele, angles, quadrilatere]
+tags: [cercle, tangente, triangle-isocele, angles, quadrilatere]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2009 (test de sélection du stage olympique de Grésillon, 4 juin 2009)"

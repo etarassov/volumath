@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [nombres premiers, divisibilite, partie entiere, puissances, factorisation]
+tags: [nombres-premiers, divisibilite, partie-entiere, puissances, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 6 (pot-pourri)"

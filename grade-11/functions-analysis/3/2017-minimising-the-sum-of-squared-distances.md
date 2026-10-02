@@ -5,9 +5,10 @@ grade: 11
 theme: functions-analysis
 difficulty: 3
 duration_min: 25
-tags: [minimum, forme canonique, second degre, moyenne]
+tags: [minimum, forme-canonique, second-degre, moyenne]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Quadratic equations (Oleg Gleizer)"

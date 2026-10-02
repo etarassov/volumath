@@ -8,6 +8,7 @@ duration_min: 30
 tags: [bases-de-numeration, ecriture-des-nombres, entiers-relatifs, division-euclidienne]
 adapted_from: null
 see_also: ["6102"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular Winter 2012, rubrique « Problem Circle »"

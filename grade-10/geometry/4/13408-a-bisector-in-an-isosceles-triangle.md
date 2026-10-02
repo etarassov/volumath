@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [triangle isocele, bissectrice, thales, paralleles, chasse aux angles, mediatrice]
+tags: [triangle-isocele, bissectrice, thales, paralleles, chasse-aux-angles, mediatrice]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2021"

@@ -52,16 +52,6 @@
    "problem": 15
   },
   {
-   "id": "1605",
-   "grade": 12,
-   "theme": "arithmetic",
-   "difficulty": 3,
-   "title": "Un nombre premier divise ses propres coefficients binomiaux",
-   "session": "2323",
-   "file": "Handout-2698-2323.pdf",
-   "problem": 14
-  },
-  {
    "id": "1606",
    "grade": 12,
    "theme": "combinatorics",
@@ -372,9 +362,16 @@
    "reason": "Fonctions generatrices : cours suivi, chaque probleme depend du precedent."
   }
  ],
- "retired_ids": [],
+ "retired_ids": [
+  {
+   "id": "1605",
+   "survivor": "1813",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : c'est la question 1 de 1813 (grade-12/combinatorics/4/1813-prime-divides-binomial-coefficients.md), au même niveau. Repéré lors du tri des liens see_also et same_as qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
+  }
+ ],
  "notes": "Passe 1 terminee : 24 exercices (1601 a 1624) pris dans les sessions 2323 (Group Competition), 1714 et 1715 (Olympiad Style 1 et 2), 2069 (Mean Inequalities). Ces quatre handouts sont les plus 'autoportants' du lot : listes de problemes de concours plutot que lecons. Les sessions suivantes de la liste (index 22 et au-dela) n'ont plus de corrige. Attention, plusieurs handouts de ce bloc partagent la meme banque de problemes : 2185, 1714 et 1715 se recoupent largement, verifier les doublons avant d'importer depuis 2185. Le bloc d'ids 1625 a 1800 reste libre. PIEGE DE RENDU trouve pendant cette passe : un intervalle ouvert a la francaise ecrit avec \\left] ... \\right[ casse la compilation typst (« unclosed delimiter »). Ecrire « pour u > 0 » ou utiliser des crochets equilibres. Un intervalle ecrit [0,1[ sans \\left/\\right passe sans probleme. Rappel aussi : les decimales francaises dans une formule doivent s'ecrire \\text{0,527} et non 0{,}527, qui s'imprime « 0, 527 ».",
- "updated": "2026-09-19",
+ "updated": "2026-10-02",
  "sessions": [
   {
    "event": "2323",

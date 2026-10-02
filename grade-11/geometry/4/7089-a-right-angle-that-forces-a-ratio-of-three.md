@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [bissectrice, milieu, vecteurs, triangle isocele, mediatrice, rapport de longueurs]
+tags: [bissectrice, milieu, vecteurs, triangle-isocele, mediatrice, rapport-de-longueurs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-21
 source:
   name: "POFM, stage olympique junior de Cachan 2010"

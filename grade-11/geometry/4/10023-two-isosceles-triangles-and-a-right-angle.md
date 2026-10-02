@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [triangle isocele, produit scalaire, coordonnees, vecteur normal, perpendicularite, trigonometrie]
+tags: [triangle-isocele, produit-scalaire, coordonnees, vecteur-normal, perpendicularite, trigonometrie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 1 (géométrie)"

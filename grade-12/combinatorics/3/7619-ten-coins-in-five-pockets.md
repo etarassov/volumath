@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 3
 duration_min: 30
-tags: [denombrement, principe multiplicatif, combinaisons avec repetition, coefficients binomiaux]
+tags: [denombrement, principe-multiplicatif, combinaisons-avec-repetition, coefficients-binomiaux]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, La Muraille"

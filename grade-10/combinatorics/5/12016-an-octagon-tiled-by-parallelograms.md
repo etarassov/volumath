@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 60
-tags: [pavage, parallelogrammes, octogone regulier, rectangle, chaine, parallelisme]
+tags: [pavage, parallelogramme, octogone-regulier, rectangle, chaine, parallelisme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test d'entraînement de novembre 2012"

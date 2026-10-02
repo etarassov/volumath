@@ -8,6 +8,7 @@ duration_min: 30
 tags: [nombres-premiers, carres, factorisation, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection junior du 23 février 2018"

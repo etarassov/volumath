@@ -8,10 +8,11 @@ duration_min: 30
 tags: [invariant, mots, transformations, impossibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"
-  reference: "stage_ete_2015.pdf, test de mi-parcours du vendredi 21 août, groupe B, exercice 1"
+  reference: "stage_ete_2015.pdf, test de mi-parcours du vendredi 21 août, groupe B, exercice 1. Les mêmes règles, avec les questions xy et xt, xytx et txyt, xxyy et xyyyyx, figurent aussi dans Polycopie-Valbonne-2020-v2.pdf, Groupe A, « Invariants », exercice 7."
   url: "http://maths-olympiques.fr/?page_id=43"
   original_language: "fr"
   local_copy: "sources/originals/pofm/stage_ete_2015.pdf"

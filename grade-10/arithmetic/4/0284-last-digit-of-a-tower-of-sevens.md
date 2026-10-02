@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [puissances, restes, dernier-chiffre, cycles]
+tags: [puissances, restes, dernier-chiffre, cycle]
 adapted_from: null
 see_also: ["0554"]
+same_as: []
 created: 2026-09-18
 source:
   name: "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015"

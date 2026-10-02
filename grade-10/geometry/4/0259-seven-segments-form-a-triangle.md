@@ -9,6 +9,7 @@ tags: [inegalite-triangulaire, raisonnement-par-labsurde, encadrement, fibonacci
 adapted_from: null
 created: 2026-09-18
 see_also: ["7427"]
+same_as: []
 source:
   name: "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)"
   reference: "AU.pdf, листок 2, задача 8"

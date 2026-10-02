@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [inegalites, carres, identites remarquables, developpement, raisonnement par l'absurde]
+tags: [inegalite, carres, identites-remarquables, developpement, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 5 (pot-pourri)"

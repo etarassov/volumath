@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [maths-expertes, petit theoreme de fermat, congruences, equation diophantienne, nombres premiers, factorisation]
+tags: [maths-expertes, petit-theoreme-de-fermat, congruences, equation-diophantienne, nombres-premiers, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 15 mai 2013"

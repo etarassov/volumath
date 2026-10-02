@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [diviseurs, nombre-de-diviseurs, decomposition-en-facteurs-premiers, parite, carres-parfaits, construction]
+tags: [diviseurs, nombre-de-diviseurs, decomposition-en-facteurs-premiers, parite, carre-parfait, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 3 (arithmétique)"

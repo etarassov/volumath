@@ -8,6 +8,7 @@ duration_min: 30
 tags: [chiffres, numeration, encadrement, divisibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Olympiads training, Modular Arithmetic I and Divisibility Rules"

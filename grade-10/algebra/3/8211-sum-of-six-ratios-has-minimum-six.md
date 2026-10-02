@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [inegalites, identites remarquables, minimum, cas d egalite]
+tags: [inegalite, identites-remarquables, minimum, cas-d-egalite]
 adapted_from: null
 see_also: ["0880"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"

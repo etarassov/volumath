@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [reordonnement, maximum, principe-des-tiroirs, permutation]
+tags: [reordonnement, maximum, principe-des-tiroirs, permutations]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2020, Coupe Animath de printemps 2020"

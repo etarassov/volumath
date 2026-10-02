@@ -8,6 +8,7 @@ duration_min: 90
 tags: [puissances, differences, principe-extremal, raisonnement-par-l-absurde, theoreme-des-valeurs-intermediaires, concours]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection d'avril 2023"

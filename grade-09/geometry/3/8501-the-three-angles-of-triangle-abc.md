@@ -8,6 +8,7 @@ duration_min: 25
 tags: [angles, triangle-isocele, triangle-equilateral, symetrie]
 adapted_from: null
 see_also: []
+same_as: ["0661"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, Coupe Animath de printemps 2022"

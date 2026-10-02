@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 45
-tags: [arbre, recurrence, suite geometrique, invariant, jeu]
+tags: [arbre, recurrence, suite-geometrique, invariant, jeu]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Hercules and the Hydra (Joshua M. Sabloff)"

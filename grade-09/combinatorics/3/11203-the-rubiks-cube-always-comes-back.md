@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [tiroirs, periodicite, absurde, configurations]
+tags: [tiroirs, periodicite, absurde, configuration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 2 (combinatoire)"

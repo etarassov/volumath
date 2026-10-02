@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [cocyclicite, angle inscrit, triangles semblables, triangles isometriques]
+tags: [cocyclicite, angle-inscrit, triangles-semblables, triangles-isometriques]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2021"

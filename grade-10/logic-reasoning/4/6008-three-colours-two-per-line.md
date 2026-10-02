@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 45
 tags: [couleurs, plan, droites, construction, directions]
 adapted_from: null
-see_also: ["6103"]
+see_also: []
+same_as: ["6103"]
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular, « Problem Circle » de Joshua Zucker, d'après un exposé de Tatiana Shubin"

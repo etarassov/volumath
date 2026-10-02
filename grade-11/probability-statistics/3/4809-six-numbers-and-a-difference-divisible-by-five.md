@@ -5,9 +5,10 @@ grade: 11
 theme: probability-statistics
 difficulty: 3
 duration_min: 25
-tags: [probabilites, principe-des-tiroirs, restes, evenement-certain]
+tags: [probabilite, principe-des-tiroirs, restes, evenement-certain]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Essential Counting Strategies (Kevin Wang)"

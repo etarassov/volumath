@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [triangle equilateral, triangle isocele, chasse aux angles, alignement]
+tags: [triangle-equilateral, triangle-isocele, chasse-aux-angles, alignement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2023"

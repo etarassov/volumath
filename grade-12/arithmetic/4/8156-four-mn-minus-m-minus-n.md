@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [factorisation, congruence, petit-theoreme-de-fermat, carre-parfait]
+tags: [factorisation, congruences, petit-theoreme-de-fermat, carre-parfait]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, La Muraille"

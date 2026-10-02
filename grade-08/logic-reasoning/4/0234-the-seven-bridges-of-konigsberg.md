@@ -5,8 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 4
 duration_min: 35
-tags: [parite, graphes, chemin, ponts, raisonnement-par-labsurde]
+tags: [parite, graphe, chemins, ponts, raisonnement-par-labsurde]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей"

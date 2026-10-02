@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [distance, disjonction de cas, recouvrement, disque]
+tags: [distance, disjonction-de-cas, recouvrement, disque]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe B"

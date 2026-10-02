@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 2
 duration_min: 10
-tags: [tiroirs, absurde, sommes]
+tags: [tiroirs, absurde, somme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 4 (combinatoire)"

@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 2
 duration_min: 20
-tags: [milieux, similitude, triangle]
+tags: [milieu, similitude, triangle]
 adapted_from: null
 see_also: ["0878"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Triangles semblables », 11 avril 2024"

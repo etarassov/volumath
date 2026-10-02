@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [inegalites, principe-de-lextremum, rangement, somme]
+tags: [inegalite, principe-de-lextremum, rangement, somme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe B"

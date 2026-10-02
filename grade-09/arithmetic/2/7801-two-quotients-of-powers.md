@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 2
 duration_min: 15
-tags: [puissances, racine carree, regles de calcul]
+tags: [puissances, racine-carree, regles-de-calcul]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"

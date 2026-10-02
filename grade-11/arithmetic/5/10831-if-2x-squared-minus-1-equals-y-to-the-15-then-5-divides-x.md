@@ -8,6 +8,7 @@ duration_min: 60
 tags: [divisibilite, pgcd, factorisation, carre-parfait, encadrement, congruences, nombres-premiers-entre-eux]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 1 (arithmétique)"
@@ -104,3 +105,4 @@ Ainsi $4W$ est strictement compris entre deux carrés consécutifs : ce n'est pa
 
 1. Où a-t-on utilisé l'hypothèse $x > 1$ ? Que se passe-t-il pour $x = 1$ ?
 2. Vérifie que $2 \times 78^2 - 1 = 23^3$ : l'équation $2x^2 - 1 = y^3$ a une solution avec $x > 1$, et $78$ n'est pas divisible par $5$. Refais les étapes 2 à 4 pour cette équation, avec $z = y$. Que valent $a$ et $b$ pour $x = 78$ ? Pourquoi ne peut-on pas aller plus loin ?
+3. En réalité, aucun couple d'entiers ne vérifie l'équation avec $x > 1$. On connaît toutes les solutions entières de $2x^2 - 1 = z^3$ (c'est un résultat difficile, bien au-delà du lycée) : avec $x > 1$, il n'y a que $x = 78$ et $z = 23$, celle de la question 2. Or $23$ n'est pas la puissance cinquième d'un entier. L'exercice démontre donc une propriété de nombres qui n'existent pas. C'est logiquement correct, car une affirmation sur « tous les couples solutions » est vraie quand il n'y en a aucun, et la démonstration reste un très bon exercice. Mais il est honnête de le dire aux élèves une fois qu'ils l'ont faite.

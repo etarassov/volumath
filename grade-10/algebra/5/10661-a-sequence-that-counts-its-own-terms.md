@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 5
 duration_min: 75
-tags: [suite, entiers, denombrement, monotonie, descente-infinie, raisonnement-par-l-absurde]
+tags: [suites, entiers, denombrement, monotonie, descente-infinie, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 2 (algèbre)"

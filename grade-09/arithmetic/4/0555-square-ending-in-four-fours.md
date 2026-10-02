@@ -7,6 +7,8 @@ difficulty: 4
 duration_min: 30
 tags: [carre-parfait, restes, parite, demonstration, raisonnement-par-labsurde]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей"

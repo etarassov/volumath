@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 5
 duration_min: 45
-tags: [triangle isocele, chasse aux angles, triangle equilateral, point auxiliaire]
+tags: [triangle-isocele, chasse-aux-angles, triangle-equilateral, point-auxiliaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2017, La muraille"

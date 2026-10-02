@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 75
-tags: [orthocentre, cercle circonscrit, repere, distance, colinearite, points cocycliques]
+tags: [orthocentre, cercle-circonscrit, repere, distance, colinearite, points-cocycliques]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 1 (géométrie)"

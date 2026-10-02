@@ -8,6 +8,7 @@ duration_min: 40
 tags: [probabilite-conditionnelle, denombrement, coefficient-binomial, tirage-sans-remise]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, Conditional Probability"

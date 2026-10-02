@@ -8,6 +8,7 @@ duration_min: 45
 tags: [probabilites-totales, marche-aleatoire, symetrie, systeme-lineaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 1, Electrical Circuits and Random Walks"

@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 35
-tags: [divisibilite, factorisation, nombres-premiers, identite-remarquable, decomposition-en-facteurs-premiers]
+tags: [divisibilite, factorisation, nombres-premiers, identites-remarquables, decomposition-en-facteurs-premiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 1 (arithmétique)"

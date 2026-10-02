@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [progression arithmetique, tableau, cas, raisonnement par l'absurde]
+tags: [progression-arithmetique, tableau, cas, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 6 (pot-pourri)"

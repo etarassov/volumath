@@ -8,6 +8,7 @@ duration_min: 35
 tags: [parite, absurde, denombrement, invariant]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей"

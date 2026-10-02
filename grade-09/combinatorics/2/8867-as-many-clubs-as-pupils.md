@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 2
 duration_min: 15
-tags: [double comptage, denombrement, inscriptions]
+tags: [double-comptage, denombrement, inscriptions]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe B, « Combinatoire : Double comptage » (Noé)"

@@ -5,9 +5,10 @@ grade: 8
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [calcul litteral, developpement, distributivite, preuve]
+tags: [calcul-litteral, developpement, distributivite, preuve]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular, « Problem Circle » de James Tanton"

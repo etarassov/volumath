@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 5
 duration_min: 45
-tags: [ensembles, implication, identite-remarquable, developpement, raisonnement-de-proche-en-proche]
+tags: [ensembles, implication, identites-remarquables, developpement, raisonnement-de-proche-en-proche]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »"

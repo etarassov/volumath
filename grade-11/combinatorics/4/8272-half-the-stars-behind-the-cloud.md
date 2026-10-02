@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 45
-tags: [inegalite triangulaire, double comptage, distances, moyenne]
+tags: [inegalite-triangulaire, double-comptage, distance, moyenne]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, La Muraille"

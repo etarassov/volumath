@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [equations, carres, restes, division par 4, parite, descente]
+tags: [equation, carres, restes, division-par-4, parite, descente]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test du 26 février 2014"

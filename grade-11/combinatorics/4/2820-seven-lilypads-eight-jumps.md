@@ -8,6 +8,7 @@ duration_min: 35
 tags: [denombrement, permutations, repetition, evenement-contraire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School II, Counting and probabilities"

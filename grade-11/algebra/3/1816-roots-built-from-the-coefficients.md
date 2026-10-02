@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [second-degre, somme-et-produit, systeme, parametres]
+tags: [second-degre, somme-et-produit, systeme, parametre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Vieta's formula"

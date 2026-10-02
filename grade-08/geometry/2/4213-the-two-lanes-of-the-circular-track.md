@@ -8,6 +8,7 @@ duration_min: 20
 tags: [cercle, perimetre, pi, litteral]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Perimeter and Circumference"

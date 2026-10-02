@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [recurrence forte, parite, denombrement, invariant, cases]
+tags: [recurrence-forte, parite, denombrement, invariant, cases]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe B, « Combinatoire : Grilles » (Oscar et Paul LL)"

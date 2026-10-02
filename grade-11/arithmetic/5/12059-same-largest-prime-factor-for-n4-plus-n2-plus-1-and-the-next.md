@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [nombres premiers, plus grand facteur premier, factorisation, diviseurs communs, suites d'entiers, raisonnement par l'absurde, principe extremal]
+tags: [nombres-premiers, plus-grand-facteur-premier, factorisation, diviseur-commun, suites-d-entiers, raisonnement-par-l-absurde, principe-extremal]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de sélection pour l'OIM 2014, premier jour (13 mai 2014)"

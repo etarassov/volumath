@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 40
 tags: [denombrement, optimalite, minoration, construction, mots]
 adapted_from: null
-see_also: []
+see_also: ["11206"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2, De Bruijn Sequences"

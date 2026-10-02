@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 50
-tags: [denombrement, recherche-exhaustive, symetries, disjonction-de-cas, jeu]
+tags: [denombrement, recherche-exhaustive, symetrie, disjonction-de-cas, jeu]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Tic-Tac-Toe 2.0"

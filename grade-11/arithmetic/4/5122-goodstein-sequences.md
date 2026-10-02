@@ -8,6 +8,7 @@ duration_min: 50
 tags: [bases-de-numeration, puissances, suites, grands-nombres]
 adapted_from: null
 see_also: ["5812"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), « Big Numbers », Tom Davis"

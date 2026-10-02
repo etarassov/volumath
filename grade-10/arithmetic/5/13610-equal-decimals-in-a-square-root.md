@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [racine carree, ecriture decimale, inegalite, carre parfait, divisibilite]
+tags: [racine-carree, ecriture-decimale, inegalite, carre-parfait, divisibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2010 (test de sélection du stage olympique de Grésillon, 3 juin 2010)"

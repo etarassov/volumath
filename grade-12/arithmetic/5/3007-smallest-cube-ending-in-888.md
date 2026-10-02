@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 45
-tags: [congruences, cubes, chiffres, releve de solutions]
+tags: [congruences, cubes, chiffres, releve-de-solutions]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Olympiads training, Modular Arithmetic IV"

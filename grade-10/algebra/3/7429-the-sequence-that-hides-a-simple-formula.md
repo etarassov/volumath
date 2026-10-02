@@ -8,6 +8,7 @@ duration_min: 20
 tags: [suites, recurrence, conjecture, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2011, La Muraille"

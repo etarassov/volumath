@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 2
 duration_min: 25
-tags: [denombrement, sommes, recherche-de-cas, parite]
+tags: [denombrement, somme, recherche-de-cas, parite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »"

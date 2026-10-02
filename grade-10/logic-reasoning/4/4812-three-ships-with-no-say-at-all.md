@@ -8,6 +8,7 @@ duration_min: 35
 tags: [vote, coalitions, disjonction-de-cas, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Group A, Voting: Power, Procedures, and Problems (Clint Givens)"

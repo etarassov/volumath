@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [principe des tiroirs, restes, sous-sommes, divisibilite]
+tags: [principe-des-tiroirs, restes, sous-sommes, divisibilite]
 adapted_from: null
 see_also: []
+same_as: ["11832"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe B"

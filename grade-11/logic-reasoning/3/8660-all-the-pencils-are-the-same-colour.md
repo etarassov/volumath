@@ -5,9 +5,10 @@ grade: 11
 theme: logic-reasoning
 difficulty: 3
 duration_min: 20
-tags: [recurrence, heredite, faux raisonnement, contre exemple]
+tags: [recurrence, heredite, faux-raisonnement, contre-exemple]
 adapted_from: null
-see_also: ["7720"]
+see_also: []
+same_as: ["7720"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

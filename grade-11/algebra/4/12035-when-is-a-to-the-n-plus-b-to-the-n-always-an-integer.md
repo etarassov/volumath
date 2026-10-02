@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [somme et produit, puissances, suites recurrentes, parite, contre-exemple]
+tags: [somme-et-produit, puissances, suite-recurrente, parite, contre-exemple]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 23 mars 2013"

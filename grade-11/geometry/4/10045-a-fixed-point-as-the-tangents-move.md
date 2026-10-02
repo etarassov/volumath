@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [tangente, cercle, point fixe, reperes, produit scalaire, projete orthogonal, second degre, somme et produit des racines]
+tags: [tangente, cercle, point-fixe, repere, produit-scalaire, projete-orthogonal, second-degre, somme-et-produit-des-racines]
 adapted_from: null
 see_also: ["12431"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 2 (géométrie)"

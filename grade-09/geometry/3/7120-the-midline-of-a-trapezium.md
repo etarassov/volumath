@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 35
-tags: [thales, trapeze, milieux, concours de droites, demonstration]
+tags: [thales, trapeze, milieu, concours-de-droites, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013"

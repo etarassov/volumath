@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [inequation, factorisation, signe d un produit]
+tags: [inequation, factorisation, signe-d-un-produit]
 adapted_from: null
 see_also: ["8108"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"

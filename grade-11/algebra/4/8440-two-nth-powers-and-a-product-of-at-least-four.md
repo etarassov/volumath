@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [inegalite, puissance, produit, carre-positif, cas-degalite]
+tags: [inegalite, puissances, produit, carre-positif, cas-degalite]
 adapted_from: null
-see_also: []
+see_also: ["7065"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe B"

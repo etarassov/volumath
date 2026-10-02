@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 50
-tags: [permutation, cycles, parite, coordonnees-entieres, carres, distance]
+tags: [permutations, cycle, parite, coordonnees-entieres, carres, distance]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 9 janvier 2019"

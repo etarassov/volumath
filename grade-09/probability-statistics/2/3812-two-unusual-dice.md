@@ -5,9 +5,10 @@ grade: 9
 theme: probability-statistics
 difficulty: 2
 duration_min: 15
-tags: [probabilite, parite, evenements independants]
+tags: [probabilite, parite, evenements-independants]
 adapted_from: null
-see_also: ["4006"]
+see_also: []
+same_as: ["4006"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, Mid-Quarter Competition"

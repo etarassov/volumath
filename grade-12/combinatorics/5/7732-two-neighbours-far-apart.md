@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [principe de l extremum, chemin, inegalite triangulaire, quadrillage]
+tags: [principe-de-l-extremum, chemins, inegalite-triangulaire, quadrillage]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe A"

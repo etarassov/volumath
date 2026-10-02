@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [nombres premiers, factorielle, divisibilite, nombres premiers entre eux, construction]
+tags: [nombres-premiers, factorielle, divisibilite, nombres-premiers-entre-eux, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe B"

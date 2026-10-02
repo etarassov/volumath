@@ -8,6 +8,7 @@ duration_min: 50
 tags: [processus, terminaison, plus-petit-contre-exemple, puissances-de-2, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 4 (combinatoire)"

@@ -8,6 +8,7 @@ duration_min: 75
 tags: [angles-orientes, cocyclicite, cercle-inscrit, pole-sud, cercles-tangents, tangente, bissectrice]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection des 21 et 22 février 2024"

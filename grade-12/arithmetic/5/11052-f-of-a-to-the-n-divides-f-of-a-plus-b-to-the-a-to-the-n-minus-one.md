@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 90
-tags: [hors-programme, equation-fonctionnelle, valuation, petit-theoreme-de-fermat, nombres-premiers, tiroirs]
+tags: [hors-programme, equation-fonctionnelle, valuation, petit-theoreme-de-fermat, nombres-premiers, tiroirs, congruences]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 3 (arithmétique)"

@@ -7,6 +7,8 @@ difficulty: 5
 duration_min: 35
 tags: [absurde, denombrement, parite, tournoi, disjonction-de-cas]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок 6–7 классы, 2-е полугодие, пособие для преподавателей"

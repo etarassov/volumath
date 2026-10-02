@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 60
-tags: [geometrie combinatoire, enveloppe convexe, triangulation, coloriage, absurde]
+tags: [geometrie-combinatoire, enveloppe-convexe, triangulation, coloriage, absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 6 (pot-pourri)"

@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 25
 tags: [coloriage, damier, invariant, denombrement]
 adapted_from: null
-see_also: ["0506"]
+see_also: []
+same_as: ["0506"]
 created: 2026-09-18
 source:
   name: "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015"

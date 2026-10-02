@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [divisibilite, parite, multiples, denombrement, raisonnement par l absurde]
+tags: [divisibilite, parite, multiples, denombrement, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2022"

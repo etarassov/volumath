@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [divisibilite, decomposition en facteurs premiers, equivalence]
+tags: [divisibilite, decomposition-en-facteurs-premiers, equivalence]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2012, groupe des débutants"

@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [double comptage, tableau, sommes, demonstration]
+tags: [double-comptage, tableau, somme, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Invariants II"

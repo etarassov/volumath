@@ -5,9 +5,10 @@ grade: 8
 theme: algebra
 difficulty: 2
 duration_min: 10
-tags: [calcul litteral, equations, astuce]
+tags: [calcul-litteral, equation, astuce]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »"

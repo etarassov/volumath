@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 2
 duration_min: 15
-tags: [parite, double comptage, graphe]
+tags: [parite, double-comptage, graphe]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2009 (test de sélection du stage olympique de Grésillon, 4 juin 2009)"

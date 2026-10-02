@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [somme des chiffres, divisibilite par 9, restes, construction]
+tags: [somme-des-chiffres, divisibilite-par-9, restes, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test d'entraînement de janvier 2013"

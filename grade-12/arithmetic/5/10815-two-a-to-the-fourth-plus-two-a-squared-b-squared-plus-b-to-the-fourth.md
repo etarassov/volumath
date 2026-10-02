@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 90
-tags: [triplets-pythagoriciens, descente-infinie, congruences, pgcd, puissances, maths-expertes]
+tags: [triplet-pythagoricien, descente-infinie, congruences, pgcd, puissances, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 4 (arithmétique)"

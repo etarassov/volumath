@@ -7,7 +7,8 @@ difficulty: 2
 duration_min: 20
 tags: [quadrillage, aire, pick, rectangle, calcul-litteral]
 adapted_from: null
-see_also: ["5601"]
+see_also: ["5601", "5603"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Pick's Theorem"

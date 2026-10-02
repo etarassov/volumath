@@ -8,6 +8,7 @@ duration_min: 30
 tags: [cercle, angle-inscrit, triangles-semblables, rapport-daires, cosinus]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2B, Olympiad Style Problems 2"

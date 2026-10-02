@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [bissectrice, bissectrice exterieure, milieu d'un arc, cercle circonscrit, repere, trigonometrie, triangle rectangle, points cocycliques]
+tags: [bissectrice, bissectrice-exterieure, milieu-d-un-arc, cercle-circonscrit, repere, trigonometrie, triangle-rectangle, points-cocycliques]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 1 (géométrie)"

@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 3
 duration_min: 20
-tags: [sous-ensembles, sommes, monnaie, denombrement]
+tags: [sous-ensembles, somme, monnaie, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 8 training, Berkeley mini Math Tournament 2025"

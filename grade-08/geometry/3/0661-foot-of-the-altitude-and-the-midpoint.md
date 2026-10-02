@@ -8,6 +8,7 @@ duration_min: 30
 tags: [triangle-isocele, hauteur, mediatrice, symetrie-centrale, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: ["8501"]
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »"

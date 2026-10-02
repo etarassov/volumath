@@ -8,6 +8,7 @@ duration_min: 40
 tags: [cercles-tangents, pythagore, racine-carree, tangente]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School Circle, AMC Problem Session"

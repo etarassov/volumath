@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 2
 duration_min: 20
-tags: [rangement, essais organises, suites de langford]
+tags: [rangement, essais-organises, suites-de-langford]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Puzzling Pairs (d'après les suites de Langford)"

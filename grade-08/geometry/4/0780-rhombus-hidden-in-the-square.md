@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [medianes, centre-de-gravite, losange, diagonales, aire]
+tags: [mediane, centre-de-gravite, losange, diagonales, aire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »"

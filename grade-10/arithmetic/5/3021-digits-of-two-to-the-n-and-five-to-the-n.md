@@ -8,6 +8,7 @@ duration_min: 35
 tags: [puissances, chiffres, encadrement, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Olympiads 1, Problems about Digits and Base Representations"

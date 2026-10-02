@@ -8,6 +8,7 @@ duration_min: 60
 tags: [tournoi, moyenne, construction, extremalite, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 5 (combinatoire)"

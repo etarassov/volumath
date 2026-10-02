@@ -7,11 +7,12 @@ difficulty: 4
 duration_min: 45
 tags: [coefficients-binomiaux, nombres-premiers, divisibilite, identite-de-vandermonde]
 adapted_from: null
-see_also: ["1605"]
+see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Combinations and Pascal's Triangle"
-  reference: "Handout-1765-1624.pdf, exercice 4"
+  reference: "Handout-1765-1624.pdf, exercice 4. La question 1 figure aussi seule dans Handout-2698-2323.pdf, problème 14."
   url: "https://circles.math.ucla.edu/circles/archive.shtml"
   original_language: "en"
   local_copy: "sources/originals/ucla-lamc/Handout-1765-1624.pdf"

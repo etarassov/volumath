@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [triangle isocele, bissectrice, loi des sinus, transformation trigonometrique]
+tags: [triangle-isocele, bissectrice, loi-des-sinus, transformation-trigonometrique]
 adapted_from: null
-see_also: []
+see_also: ["12416"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, la muraille"

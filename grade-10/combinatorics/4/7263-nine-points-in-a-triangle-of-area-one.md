@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [tiroirs, aire, triangle des milieux, decoupage]
+tags: [tiroirs, aire, triangle-des-milieux, decoupage]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Saint-Chéron 2024"

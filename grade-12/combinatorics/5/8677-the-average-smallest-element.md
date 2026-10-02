@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [denombrement, coefficients binomiaux, double comptage, formule du baton de hockey]
+tags: [denombrement, coefficients-binomiaux, double-comptage, formule-du-baton-de-hockey]
 adapted_from: null
 see_also: []
+same_as: ["7536"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, La Muraille"

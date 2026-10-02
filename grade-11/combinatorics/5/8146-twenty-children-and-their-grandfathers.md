@@ -7,7 +7,8 @@ difficulty: 5
 duration_min: 50
 tags: [principe-de-l-extremum, disjonction-de-cas, denombrement, raisonnement-par-l-absurde]
 adapted_from: null
-see_also: ["7321"]
+see_also: []
+same_as: ["7321"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, La Muraille"

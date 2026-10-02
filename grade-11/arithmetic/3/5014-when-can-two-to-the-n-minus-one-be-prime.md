@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 3
 duration_min: 35
-tags: [nombres premiers, puissances, factorisation, somme geometrique]
+tags: [nombres-premiers, puissances, factorisation, somme-geometrique]
 adapted_from: null
-see_also: []
+see_also: ["8324"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), « Primes! », David Patrick, San Diego Math Teachers' Circle, 2014"

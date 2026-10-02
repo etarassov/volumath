@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [triangle rectangle, cercle, mediane, triangle isocele, angles]
+tags: [triangle-rectangle, cercle, mediane, triangle-isocele, angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, Coupe Animath"

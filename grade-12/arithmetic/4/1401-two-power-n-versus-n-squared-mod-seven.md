@@ -8,6 +8,7 @@ duration_min: 40
 tags: [congruences, periodicite, denombrement, divisibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2, Winter Competition « Game »"

@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 35
 tags: [cercle-circonscrit, bissectrice, angle-inscrit, isocele]
 adapted_from: null
-see_also: ["7225"]
+see_also: ["7225", "7444"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2011, incontournable : géométrie"

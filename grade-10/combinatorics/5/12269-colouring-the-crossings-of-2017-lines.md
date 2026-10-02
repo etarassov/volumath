@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 45
-tags: [coloriage, droites, geometrie combinatoire, aire minimale, algorithme glouton, principe extremal]
+tags: [coloriage, droites, geometrie-combinatoire, aire-minimale, algorithme-glouton, principe-extremal]
 adapted_from: null
-see_also: ["8189"]
+see_also: []
+same_as: ["8189"]
 created: 2026-10-02
 source:
   name: "POFM, test de février 2017"

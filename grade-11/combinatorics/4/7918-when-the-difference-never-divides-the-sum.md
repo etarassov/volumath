@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [principe des tiroirs, divisibilite, multiples de 3, sous-ensemble, maximum]
+tags: [principe-des-tiroirs, divisibilite, multiples-de-3, sous-ensembles, maximum]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, Coupe Animath"

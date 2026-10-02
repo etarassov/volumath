@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 5
 duration_min: 50
-tags: [fractions, principe des tiroirs, rangement, contre-exemple, plus petite constante]
+tags: [fractions, principe-des-tiroirs, rangement, contre-exemple, plus-petite-constante, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de mars 2017"

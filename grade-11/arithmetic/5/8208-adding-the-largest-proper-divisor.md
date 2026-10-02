@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [diviseurs, suites, parite, puissances de 3, recurrence]
+tags: [diviseurs, suites, parite, puissances-de-3, recurrence]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, Coupe Animath de printemps 2019"

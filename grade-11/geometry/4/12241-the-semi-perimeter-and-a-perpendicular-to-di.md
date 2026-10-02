@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [cercle inscrit, cercle circonscrit, produit scalaire, pythagore, longueurs des tangentes, demi-perimetre, perpendicularite]
+tags: [cercle-inscrit, cercle-circonscrit, produit-scalaire, pythagore, longueurs-des-tangentes, demi-perimetre, perpendicularite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de janvier 2016"

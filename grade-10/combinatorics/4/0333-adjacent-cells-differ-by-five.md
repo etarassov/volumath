@@ -5,8 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [echiquier, raisonnement-par-labsurde, majoration, chemin]
+tags: [echiquier, raisonnement-par-labsurde, majoration, chemins]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015"

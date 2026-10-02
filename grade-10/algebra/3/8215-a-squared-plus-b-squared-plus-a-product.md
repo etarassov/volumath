@@ -5,13 +5,14 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [inegalites, identites remarquables, changement de variable, cas d egalite]
+tags: [inegalite, identites-remarquables, changement-de-variable, cas-d-egalite]
 adapted_from: null
-see_also: ["7607", "8111"]
+see_also: []
+same_as: ["8111"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"
-  reference: "PolycopieV1-1.pdf, chapitre III « Groupe A », première partie, « TD manipulations algébriques, récurrence » (Yohann D'Anello), exercice 11. La solution imprimée développe le membre de gauche en (a+b)² − (a+b) + 1 au lieu de (a+b)² − 2(a+b) + 2 : l'inégalité reste vraie mais le cas d'égalité disparaît. La version corrigée est donnée ici."
+  reference: "PolycopieV1-1.pdf, chapitre III « Groupe A », première partie, « TD manipulations algébriques, récurrence » (Yohann D'Anello), exercice 11. La solution imprimée développe le membre de gauche en (a+b)² − (a+b) + 1 au lieu de (a+b)² − 2(a+b) + 2 : l'inégalité reste vraie mais le cas d'égalité disparaît. La version corrigée est donnée ici. La même inégalité, sans la question du cas d'égalité, figure aussi dans stage_ete_2013.pdf, chapitre IV « Test de mi-parcours », exercice 2 des groupes A et B."
   url: "http://maths-olympiques.fr/wp-content/uploads/2019/08/PolycopieV1-1.pdf"
   original_language: "fr"
   local_copy: "sources/originals/pofm/PolycopieV1-1.pdf"

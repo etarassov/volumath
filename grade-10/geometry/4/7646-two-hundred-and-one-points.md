@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [principe des tiroirs, aire, triangle, decoupage]
+tags: [principe-des-tiroirs, aire, triangle, decoupage]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, cours de stratégies de base du groupe A"

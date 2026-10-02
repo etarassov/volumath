@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [carre parfait, reste, parite, division par quatre]
+tags: [carre-parfait, restes, parite, division-par-quatre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, test de fin de parcours du mardi 26 août"

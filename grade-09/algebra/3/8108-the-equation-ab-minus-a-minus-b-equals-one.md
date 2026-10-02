@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 20
 tags: [factorisation, equation, entiers]
 adapted_from: null
-see_also: []
+see_also: ["8213"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, cours de Groupe A"

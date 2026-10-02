@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [chiffres, carre, retenue, parite, dizaines]
+tags: [chiffres, carre, retenues, parite, dizaines]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2012, La Muraille"

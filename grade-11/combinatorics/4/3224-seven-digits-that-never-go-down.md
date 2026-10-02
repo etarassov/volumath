@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [denombrement, combinaisons, coefficients binomiaux, chiffres, barres et etoiles]
+tags: [denombrement, combinaisons, coefficients-binomiaux, chiffres, barres-et-etoiles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Combinatorics review"

@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 25
 tags: [entiers, somme, ordre, disjonction-de-cas]
 adapted_from: null
-see_also: ["8142"]
+see_also: []
+same_as: ["8142"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2007"

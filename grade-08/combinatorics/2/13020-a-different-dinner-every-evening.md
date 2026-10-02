@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 2
 duration_min: 15
-tags: [denombrement, principe multiplicatif, carres, inegalite]
+tags: [denombrement, principe-multiplicatif, carres, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, test de rentrée (Coupe Animath d'automne) du 1er octobre 2014"

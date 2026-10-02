@@ -8,6 +8,7 @@ duration_min: 50
 tags: [principe-des-tiroirs, graphe, poignees-de-main, raisonnement-par-elimination]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Pigeonhole Principle and Parity Problems — Brian Conrey et Corinne Cristiani"

@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [somme des chiffres, divisibilite par neuf, encadrement]
+tags: [somme-des-chiffres, divisibilite-par-neuf, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2011, groupe des débutants"

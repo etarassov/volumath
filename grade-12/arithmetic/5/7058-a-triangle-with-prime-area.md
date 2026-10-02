@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 50
-tags: [formule de heron, nombres premiers, parite, diviseurs]
+tags: [formule-de-heron, nombres-premiers, parite, diviseurs]
 adapted_from: null
 see_also: ["2213"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Saint-Pierre-lès-Nemours 2009"

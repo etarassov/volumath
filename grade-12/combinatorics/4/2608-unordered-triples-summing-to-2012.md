@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [denombrement, partitions, symetrie, somme-de-gauss]
+tags: [denombrement, partition, symetrie, somme-de-gauss]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School Circle, AMC Problem Session"

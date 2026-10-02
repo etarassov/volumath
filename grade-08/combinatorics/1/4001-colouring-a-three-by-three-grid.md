@@ -8,6 +8,7 @@ duration_min: 10
 tags: [denombrement, principe-multiplicatif, puissances, coloriage]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 2B, Basic Combinatorics and Probability"

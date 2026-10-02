@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 2
 duration_min: 25
-tags: [division euclidienne, reste, cryptographie, code secret]
+tags: [division-euclidienne, restes, cryptographie, code-secret]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Codes, Ciphers, and Secrets (Anne M. Ho)"

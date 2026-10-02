@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [produit scalaire, projete orthogonal, orthocentre, cercle circonscrit, points cocycliques, puissance d'un point]
+tags: [produit-scalaire, projete-orthogonal, orthocentre, cercle-circonscrit, points-cocycliques, puissance-d-un-point]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de février 2017"

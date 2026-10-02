@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 2
 duration_min: 12
-tags: [nombre-premier, factorisation, identite-remarquable, diviseurs]
+tags: [nombres-premiers, factorisation, identites-remarquables, diviseurs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe A"

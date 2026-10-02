@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 2
 duration_min: 20
-tags: [carre, divisibilite, dernier-chiffre, reste]
+tags: [carre, divisibilite, dernier-chiffre, restes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2008"

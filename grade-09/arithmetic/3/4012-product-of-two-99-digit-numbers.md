@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [chiffres, multiplication, reste, puissances-de-dix]
+tags: [chiffres, multiplication, restes, puissances-de-dix]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 2A, Week 1 Competition"

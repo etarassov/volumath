@@ -5,9 +5,10 @@ grade: 11
 theme: logic-reasoning
 difficulty: 4
 duration_min: 35
-tags: [jeu, strategie gagnante, vol de strategie, diviseurs premiers, disjonction de cas]
+tags: [jeu, strategie-gagnante, vol-de-strategie, diviseurs-premiers, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe A"

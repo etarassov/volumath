@@ -8,6 +8,7 @@ duration_min: 40
 tags: [inegalite, factorisation, carre-positif, tangente, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection des 19 et 20 février 2020"

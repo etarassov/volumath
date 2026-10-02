@@ -8,6 +8,7 @@ duration_min: 60
 tags: [minimum, optimisation, carres, nombres-impairs, puissances-de-deux, entiers-distincts, decomposition-en-facteurs-premiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 15 janvier 2025"

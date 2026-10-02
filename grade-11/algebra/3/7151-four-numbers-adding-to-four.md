@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [inegalites, factorisation, moyenne arithmetique, cas d egalite]
+tags: [inegalite, factorisation, moyenne-arithmetique, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013"

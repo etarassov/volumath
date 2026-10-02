@@ -8,6 +8,7 @@ duration_min: 20
 tags: [invariant, somme, construction, tableau]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de janvier 2023"

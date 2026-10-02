@@ -7,7 +7,8 @@ difficulty: 5
 duration_min: 45
 tags: [coefficients-binomiaux, double-comptage, sous-ensembles, identite-de-pascal, moyenne]
 adapted_from: null
-see_also: ["8677"]
+see_also: []
+same_as: ["8677"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2012, La Muraille"

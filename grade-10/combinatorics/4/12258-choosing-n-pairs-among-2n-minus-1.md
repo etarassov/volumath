@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [double comptage, paires, ensembles, procede repete, partie entiere]
+tags: [double-comptage, paires, ensembles, procede-repete, partie-entiere]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de novembre 2016"

@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [congruences, periodicite, puissances, reste]
+tags: [congruences, periodicite, puissances, restes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Number Theory (Part 1)"

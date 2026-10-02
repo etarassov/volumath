@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 20
 tags: [coloriage, pavage, echiquier, tetraminos, parite]
 adapted_from: null
-see_also: []
+see_also: ["8731"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »"

@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 35
 tags: [couleurs, milieu, cas, demonstration]
 adapted_from: null
-see_also: ["7716"]
+see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Beginners Circle, Pigeonhole Principle"

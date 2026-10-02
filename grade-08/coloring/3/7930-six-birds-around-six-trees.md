@@ -5,9 +5,10 @@ grade: 8
 theme: coloring
 difficulty: 3
 duration_min: 25
-tags: [invariant, parite, cercle, coloriage alterne]
+tags: [invariant, parite, cercle, coloriage-alterne]
 adapted_from: null
 see_also: ["7233", "7714"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, test de mi-parcours"

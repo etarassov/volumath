@@ -7,6 +7,8 @@ difficulty: 4
 duration_min: 25
 tags: [optimisation, traversee, minimum, cas]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей"

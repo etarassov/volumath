@@ -8,6 +8,7 @@ duration_min: 20
 tags: [triangle-rectangle, hauteur, pythagore, aire]
 adapted_from: null
 see_also: ["0835"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, conférence du soir"

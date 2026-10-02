@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [suites-arithmetiques, somme, nombres-impairs, carres]
+tags: [suite-arithmetique, somme, nombres-impairs, carres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2, Winter Competition « Game »"

@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [points alignes, comptage, fenetre glissante, valeurs intermediaires, variation de un]
+tags: [points-alignes, comptage, fenetre-glissante, valeurs-intermediaires, variation-de-un]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test du 26 février 2014"

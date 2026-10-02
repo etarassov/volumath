@@ -8,6 +8,7 @@ duration_min: 25
 tags: [invariant, parite, coordonnees, symetrie-centrale, cube]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe B"

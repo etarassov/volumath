@@ -5,8 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [invariant, divisibilite, difference, monnaie]
+tags: [invariant, divisibilite, differences, monnaie]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников"

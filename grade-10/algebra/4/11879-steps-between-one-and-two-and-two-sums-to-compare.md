@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 45
-tags: [suites, sommes, optimisation, coefficients, encadrement]
+tags: [suites, somme, optimisation, coefficients, encadrement, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 5 (pot-pourri)"

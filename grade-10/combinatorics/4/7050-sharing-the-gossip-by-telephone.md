@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [minimum, principe extremal, construction, borne inferieure]
+tags: [minimum, principe-extremal, construction, borne-inferieure]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2012, groupe des avancés"

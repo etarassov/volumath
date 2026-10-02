@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 45
-tags: [inegalite, changement de variable, identite remarquable]
+tags: [inegalite, changement-de-variable, identites-remarquables]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2010"

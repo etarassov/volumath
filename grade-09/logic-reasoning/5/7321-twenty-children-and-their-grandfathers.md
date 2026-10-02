@@ -7,7 +7,8 @@ difficulty: 5
 duration_min: 50
 tags: [denombrement, raisonnement-par-l-absurde, principe-des-tiroirs, ensembles]
 adapted_from: null
-see_also: ["8146"]
+see_also: []
+same_as: ["8146"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2007"

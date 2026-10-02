@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [principe des tiroirs, paires, couleurs, disjonction de cas]
+tags: [principe-des-tiroirs, paires, couleurs, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, entraînement de fin de parcours du Groupe A"

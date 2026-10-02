@@ -8,6 +8,7 @@ duration_min: 35
 tags: [factorisation, entiers, decomposition-en-facteurs-premiers, equation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, test de sélection au stage de Grésillon 2010"

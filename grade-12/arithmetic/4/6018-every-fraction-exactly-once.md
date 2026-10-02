@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 60
-tags: [fractions irreductibles, pgcd, arbre binaire, recurrence, denombrable]
+tags: [fraction-irreductible, pgcd, arbre-binaire, recurrence, denombrable]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular, « Touching Infinity : Hyperbinary Numbers and Fraction Trees » (Samuel Coskey, Paul Ellis, Japheth Wood)"

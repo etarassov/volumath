@@ -8,6 +8,7 @@ duration_min: 45
 tags: [espace, polyedre, solide-de-platon, polygone-regulier, angles]
 adapted_from: null
 see_also: ["5607"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), I See Platonic Solids In Your Future"

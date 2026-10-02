@@ -8,6 +8,7 @@ duration_min: 30
 tags: [partie-entiere, partie-fractionnaire, denombrement, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2020"

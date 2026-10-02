@@ -5,8 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [divisibilite, factorisation, contre-exemple, reste, disjonction-de-cas]
+tags: [divisibilite, factorisation, contre-exemple, restes, disjonction-de-cas]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей"

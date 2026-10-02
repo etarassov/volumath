@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [partie entiere, racine carree, divisibilite, carres parfaits, disjonction de cas]
+tags: [partie-entiere, racine-carree, divisibilite, carre-parfait, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2015 (2 juin 2015)"

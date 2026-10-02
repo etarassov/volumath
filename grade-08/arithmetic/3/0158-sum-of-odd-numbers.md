@@ -5,8 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [impairs, sommes, carres, demonstration, decoupage]
+tags: [impairs, somme, carres, demonstration, decoupage]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)"

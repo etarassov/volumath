@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 40
 tags: [coloriage, recurrence, droites, regions, parite]
 adapted_from: null
-see_also: []
+see_also: ["5904"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Introduction to Induction (Olga Radko)"

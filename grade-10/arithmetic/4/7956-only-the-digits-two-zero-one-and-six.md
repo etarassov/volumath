@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [numeration, base 4, bijection, rang dans une liste]
+tags: [numeration, base-4, bijection, rang-dans-une-liste]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, la muraille"

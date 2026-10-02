@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercle circonscrit, cercle inscrit, cercle exinscrit, bissectrices, angle inscrit, produit scalaire, repere orthonorme, equation de cercle]
+tags: [cercle-circonscrit, cercle-inscrit, cercle-exinscrit, bissectrice, angle-inscrit, produit-scalaire, repere-orthonorme, equation-de-cercle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de février 2015 (groupe A et EGMO)"

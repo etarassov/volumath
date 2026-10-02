@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [inegalite, identite-remarquable, carres, cas-degalite]
+tags: [inegalite, identites-remarquables, carres, cas-degalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School II, Inequalities and convex functions"

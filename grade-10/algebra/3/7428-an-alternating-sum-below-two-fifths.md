@@ -8,10 +8,11 @@ duration_min: 30
 tags: [somme-alternee, regroupement, majoration, fractions]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2011, La Muraille"
-  reference: "stage_ete_2011.pdf, « La Muraille », exercice 44 (aucune solution n'est publiée dans le polycopié)"
+  reference: "stage_ete_2011.pdf, « La Muraille », exercice 44 (aucune solution n'est publiée dans le polycopié). Le même exercice figure aussi dans stage_ete_2012.pdf, chapitre V « La Muraille », exercice 20, avec une solution p. 242."
   url: "http://maths-olympiques.fr/?page_id=43"
   original_language: "fr"
   local_copy: "sources/originals/pofm/stage_ete_2011.pdf"

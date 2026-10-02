@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 50
-tags: [suites, signes, puissances-de-2, valuation, principe-des-tiroirs, construction, maximum]
+tags: [suites, signe, puissances-de-2, valuation, principe-des-tiroirs, construction, maximum]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection des 21 et 22 février 2024"

@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [inegalites, cercle, maximum, raisonnement par l absurde, construction]
+tags: [inegalite, cercle, maximum, raisonnement-par-l-absurde, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2024"

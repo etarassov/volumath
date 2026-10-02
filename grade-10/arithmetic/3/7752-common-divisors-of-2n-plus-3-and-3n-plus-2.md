@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [pgcd, diviseur commun, combinaison lineaire, congruences]
+tags: [pgcd, diviseur-commun, combinaison-lineaire, congruences]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe A"

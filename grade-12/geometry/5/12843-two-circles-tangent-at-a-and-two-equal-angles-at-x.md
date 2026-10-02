@@ -8,6 +8,7 @@ duration_min: 75
 tags: [cercles-tangents, angles-orientes, cocyclicite, triangles-semblables, vecteurs, bissectrice, droite-des-milieux]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 17 janvier 2024"

@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 50
-tags: [maths-expertes, polynomes, nombres premiers, racines, degre, divisibilite]
+tags: [maths-expertes, polynome, nombres-premiers, racines, degre, divisibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 5 (pot-pourri)"

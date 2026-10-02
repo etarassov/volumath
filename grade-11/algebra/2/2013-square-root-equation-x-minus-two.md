@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 2
 duration_min: 15
-tags: [racine carree, equation, second degre, verification]
+tags: [racine-carree, equation, second-degre, verification]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Quadratic equations (Oleg Gleizer)"

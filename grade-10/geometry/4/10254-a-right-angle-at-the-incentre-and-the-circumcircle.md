@@ -8,6 +8,7 @@ duration_min: 40
 tags: [cercle-inscrit, bissectrice, pole-sud, puissance-d-un-point, pythagore, triangle-rectangle, tangente, cercle-circonscrit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 1 (géométrie)"

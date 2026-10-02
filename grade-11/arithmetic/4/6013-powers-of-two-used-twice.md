@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 50
-tags: [puissances de deux, denombrement, recurrence, parite, bijection]
+tags: [puissances-de-deux, denombrement, recurrence, parite, bijection]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular, « Touching Infinity : Hyperbinary Numbers and Fraction Trees » (Samuel Coskey, Paul Ellis, Japheth Wood)"

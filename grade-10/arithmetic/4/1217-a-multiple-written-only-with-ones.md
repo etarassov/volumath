@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [principe-des-tiroirs, divisibilite, reste, ecriture-decimale, nombres-premiers-entre-eux]
+tags: [principe-des-tiroirs, divisibilite, restes, ecriture-decimale, nombres-premiers-entre-eux]
 adapted_from: null
-see_also: ["1809", "4617"]
+see_also: ["1809", "7718"]
+same_as: ["4617"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2, «Pigeonhole Problems»"

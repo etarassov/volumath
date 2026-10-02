@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [triangle isocele, trigonometrie, formules d'addition, chasse aux angles, reperes, tangente]
+tags: [triangle-isocele, trigonometrie, formules-d-addition, chasse-aux-angles, repere, tangente]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 5 (géométrie)"

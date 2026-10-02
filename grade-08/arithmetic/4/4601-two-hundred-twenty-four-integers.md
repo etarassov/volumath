@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 4
 duration_min: 20
-tags: [tiroirs, restes, division euclidienne, demonstration]
+tags: [tiroirs, restes, division-euclidienne, demonstration]
 adapted_from: null
-see_also: []
+see_also: ["5419"]
+same_as: ["8627"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Beginners Circle, Pigeonhole Principle"

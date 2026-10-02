@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 2
 duration_min: 20
-tags: [jeu, strategie gagnante, division euclidienne, positions perdantes]
+tags: [jeu, strategie-gagnante, division-euclidienne, positions-perdantes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe B, « Combinatoire : TD de pot pourri » (Emilhan)"

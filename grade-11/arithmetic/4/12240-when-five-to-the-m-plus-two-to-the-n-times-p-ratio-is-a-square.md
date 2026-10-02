@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 50
-tags: [puissances, nombres premiers, diviseurs, carres parfaits, parite, restes, disjonction de cas]
+tags: [puissances, nombres-premiers, diviseurs, carre-parfait, parite, restes, disjonction-de-cas]
 adapted_from: null
 see_also: ["12237"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de janvier 2016"

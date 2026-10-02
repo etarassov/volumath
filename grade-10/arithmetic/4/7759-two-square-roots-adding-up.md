@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [racine carree, irrationalite, decomposition en facteurs premiers, carre parfait]
+tags: [racine-carree, irrationalite, decomposition-en-facteurs-premiers, carre-parfait]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, la muraille"

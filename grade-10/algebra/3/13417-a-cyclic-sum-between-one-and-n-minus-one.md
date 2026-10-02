@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [inegalite, fractions, encadrement, somme cyclique]
+tags: [inegalite, fractions, encadrement, somme-cyclique]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2022"

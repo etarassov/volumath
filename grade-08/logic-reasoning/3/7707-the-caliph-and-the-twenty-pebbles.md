@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 3
 duration_min: 30
-tags: [jeu, strategie gagnante, multiples, parite]
+tags: [jeu, strategie-gagnante, multiples, parite]
 adapted_from: null
 see_also: ["0877"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, évaluation initiale du premier jour"

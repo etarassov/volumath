@@ -5,9 +5,10 @@ grade: 11
 theme: probability-statistics
 difficulty: 2
 duration_min: 25
-tags: [probabilites, loi-uniforme, probabilite-geometrique, aires]
+tags: [probabilite, loi-uniforme, probabilite-geometrique, aire]
 adapted_from: null
 see_also: ["1405"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Probability (Elgin Johnston)"
@@ -63,7 +64,7 @@ Cette droite coupe les axes en $(7, 0)$ et $(0, 7)$, deux points qui sont bien d
 $$\frac{7 \times 7}{2} = \frac{49}{2}.$$
 
 D'où
-$$P(A + B \leq 7) = \frac{49/2}{100} = \frac{49}{200} = 0{,}245.$$
+$$P(A + B \leq 7) = \frac{49/2}{100} = \frac{49}{200} = \text{0,245}.$$
 
 ### 3. Probabilité que $A - B \geq 7$
 
@@ -73,7 +74,7 @@ Cette droite entre dans le carré en $(7, 0)$ et en sort en $(10, 3)$. La régio
 $$\frac{3 \times 3}{2} = \frac{9}{2}.$$
 
 D'où
-$$P(A - B \geq 7) = \frac{9/2}{100} = \frac{9}{200} = 0{,}045.$$
+$$P(A - B \geq 7) = \frac{9/2}{100} = \frac{9}{200} = \text{0,045}.$$
 
 ### Conclusion
 

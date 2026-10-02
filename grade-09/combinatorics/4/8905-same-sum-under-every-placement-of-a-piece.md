@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [grille, damier, invariant, tromino, domino, maximum]
+tags: [grille, damier, invariant, tromino, dominos, maximum]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, Coupe Animath de printemps 2026"

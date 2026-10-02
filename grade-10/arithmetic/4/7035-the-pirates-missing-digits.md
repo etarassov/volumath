@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [congruences, cle de controle, inverse modulaire]
+tags: [congruences, cle-de-controle, inverse-modulaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2011, groupe des débutants"

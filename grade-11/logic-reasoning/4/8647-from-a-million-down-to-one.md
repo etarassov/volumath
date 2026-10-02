@@ -5,9 +5,10 @@ grade: 11
 theme: logic-reasoning
 difficulty: 4
 duration_min: 45
-tags: [strategie gagnante, recurrence forte, partie entiere, parite]
+tags: [strategie-gagnante, recurrence-forte, partie-entiere, parite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

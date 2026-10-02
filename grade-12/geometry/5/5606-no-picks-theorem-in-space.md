@@ -8,6 +8,7 @@ duration_min: 50
 tags: [espace, tetraedre, volume, pick, contre-exemple, vecteurs]
 adapted_from: null
 see_also: ["5601"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Pick's Theorem"

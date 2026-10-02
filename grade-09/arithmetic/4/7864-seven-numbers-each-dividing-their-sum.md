@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 35
 tags: [diviseurs, minimum, encadrement, recherche-exhaustive]
 adapted_from: null
-see_also: []
+see_also: ["10849"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015, La Muraille"

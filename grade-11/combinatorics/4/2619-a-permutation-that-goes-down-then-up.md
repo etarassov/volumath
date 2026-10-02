@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [denombrement, combinaisons, coefficient-binomial, permutation]
+tags: [denombrement, combinaisons, coefficient-binomial, permutations]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School Circle, AMC Problem Session"

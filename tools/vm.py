@@ -6,6 +6,8 @@ Commands:
   list    list exercises matching a filter
   check   validate every exercise file
   index   rebuild catalog.json and INDEX.md
+  progress  show how far each import unit has got
+  tags    count the tags in use, so a new file reuses one instead of inventing a spelling
   build   render one exercise per PDF (statement, hints, solution)
   sheet   build a student handout and a teacher document from a selection
 
@@ -427,6 +429,8 @@ difficulty: {difficulty}
 duration_min: 15
 tags: []
 adapted_from: null
+see_also: []
+same_as: []
 created: {today}
 source:
   name: ""
@@ -504,15 +508,31 @@ def title_tokens(title):
     return {w for w in re.findall(r"[a-z0-9]+", plain) if w not in STOPWORDS}
 
 
-def linked(exo, other_id):
-    return str(other_id) in {str(x) for x in (exo.meta.get("see_also") or [])}
+# see_also: a related problem (a ladder, a converse, the same idea).
+# same_as: the same problem, imported again at another grade.
+LINK_FIELDS = ("see_also", "same_as")
+
+
+def links(exo, field):
+    value = exo.meta.get(field) or []
+    return {str(x) for x in value} if isinstance(value, list) else set()
+
+
+def linked(a, b):
+    """True when either file points at the other, by see_also, same_as or adapted_from."""
+    for x, y in ((a, b), (b, a)):
+        if y.id in links(x, "see_also") | links(x, "same_as"):
+            return True
+        if str(x.meta.get("adapted_from") or "") == y.id:
+            return True
+    return False
 
 
 def duplicate_notes(exos):
     """Flag exercises whose titles overlap a lot. Overlapping sources repeat classics.
 
-    A pair already cross linked with see_also is deliberate and stays quiet, unless the two
-    sit at the same grade, where one of them is simply waste: the same child meets both.
+    A pair that is already linked was looked at by someone and stays quiet. A link that
+    goes only one way is reported separately, by cmd_check.
     """
     out = []
     for i, a in enumerate(exos):
@@ -525,14 +545,24 @@ def duplicate_notes(exos):
                 continue
             if len(ta & tb) / min(len(ta), len(tb)) < 0.7:
                 continue
+            if linked(a, b):
+                continue
             if a.grade == b.grade:
-                out.append("%s and %s sit at the same grade and look like the same problem, "
-                           "consider keeping one: \"%s\" / \"%s\"" % (a.id, b.id, a.title, b.title))
-            elif not (linked(a, b.id) and linked(b, a.id)):
-                out.append("possible duplicate, cross link them with see_also if deliberate: "
+                out.append("%s and %s sit at the same grade and look alike: keep one if they are "
+                           "the same problem, link them with see_also if they are only related: "
+                           "\"%s\" / \"%s\"" % (a.id, b.id, a.title, b.title))
+            else:
+                out.append("possible duplicate, link them with same_as if they are the same "
+                           "problem, see_also if they are only related: "
                            "%s (grade %s) \"%s\" and %s (grade %s) \"%s\"" % (
                                a.id, a.grade, a.title, b.id, b.grade, b.title))
     return out
+
+
+def outside_maths(text):
+    """The text with every $$...$$ and $...$ taken out."""
+    text = re.sub(r"\$\$.*?\$\$", " ", text, flags=re.S)
+    return re.sub(r"\$[^$]*\$", " ", text)
 
 
 def cmd_check(args):
@@ -571,7 +601,19 @@ def cmd_check(args):
             errors.append("%s: unknown grade %s" % (rel, exo.grade))
         if exo.difficulty not in (1, 2, 3, 4, 5):
             errors.append("%s: difficulty must be 1 to 5, found %s" % (rel, exo.difficulty))
+        tags = exo.meta.get("tags")
+        if tags is not None and not isinstance(tags, list):
+            errors.append("%s: tags must be a list, like [parite, entiers]" % rel)
+        for tag in tags if isinstance(tags, list) else []:
+            if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", str(tag)):
+                errors.append("%s: tag %r must be lowercase words joined by hyphens, with no "
+                              "accent, space or apostrophe" % (rel, tag))
+        if re.search(r"[$\\]", exo.title or ""):
+            errors.append("%s: the title is not maths, LaTeX there prints literally, write it in "
+                          "plain text with unicode: %s" % (rel, exo.title))
         body = "\n".join(exo.sections.values())
+        if re.search("[⩾⩽]", (exo.title or "") + outside_maths(body)):
+            errors.append("%s: ⩾ or ⩽ outside maths prints as an empty box, write ≥ or ≤" % rel)
         for caption in unpaired_captions(body):
             errors.append("%s: unpaired square bracket in a figure caption, the figure would "
                           "vanish from the PDF: %s" % (rel, caption))
@@ -587,16 +629,31 @@ def cmd_check(args):
                 notes.append("%s: source.local_copy not on this machine: %s" % (rel, copy))
         else:
             errors.append("%s: source must be a block with name, reference, url" % rel)
-    known = {e.id for e in exos}
+    by_id = {e.id: e for e in exos}
     for exo in exos:
         origin = exo.meta.get("adapted_from")
-        if origin and str(origin) not in known:
+        if origin and str(origin) not in by_id:
             errors.append("%s: adapted_from points at unknown id %s" % (exo.rel, origin))
-        for other in exo.meta.get("see_also") or []:
-            if str(other) not in known:
-                errors.append("%s: see_also points at unknown id %s" % (exo.rel, other))
-            elif str(other) == exo.id:
-                errors.append("%s: see_also points at itself" % exo.rel)
+        for field in LINK_FIELDS:
+            value = exo.meta.get(field)
+            if value is not None and not isinstance(value, list):
+                errors.append("%s: %s must be a list of ids, like [\"0042\"], found %r"
+                              % (exo.rel, field, value))
+                continue
+            for other in sorted(links(exo, field)):
+                if other not in by_id:
+                    errors.append("%s: %s points at unknown id %s" % (exo.rel, field, other))
+                elif other == exo.id:
+                    errors.append("%s: %s points at itself" % (exo.rel, field))
+                elif field == "same_as" and by_id[other].grade == exo.grade:
+                    errors.append("%s: same_as %s is at the same grade, the same child would meet "
+                                  "both, keep one" % (exo.rel, other))
+                elif exo.id not in links(by_id[other], field):
+                    notes.append("%s: %s lists %s, but %s does not list %s back"
+                                 % (exo.rel, field, other, other, exo.id))
+        for other in sorted(links(exo, "see_also") & links(exo, "same_as")):
+            errors.append("%s: %s is in both see_also and same_as, it is either the same problem "
+                          "or a related one" % (exo.rel, other))
     notes.extend(duplicate_notes(exos))
     for line in errors:
         print("error  " + line)
@@ -698,6 +755,17 @@ def cmd_sheet(args):
     print(teacher.relative_to(ROOT))
 
 
+def cmd_tags(args):
+    counts = {}
+    for exo in select(args):
+        for tag in exo.meta.get("tags") or []:
+            counts[tag] = counts.get(tag, 0) + 1
+    for tag, n in sorted(counts.items(), key=lambda kv: (-kv[1], kv[0])):
+        print("%5d  %s" % (n, tag))
+    print("\n%d tag(s)" % len(counts))
+    return 0
+
+
 def add_filters(parser):
     parser.add_argument("--ids", nargs="+", help="exercise numbers, for example 0001 0007")
     parser.add_argument("--grade", type=int, choices=sorted(GRADE_LABELS))
@@ -732,6 +800,10 @@ def main():
 
     p = subs.add_parser("progress", help="show how far each import unit has got")
     p.set_defaults(func=cmd_progress)
+
+    p = subs.add_parser("tags", help="count the tags in use, most used first")
+    add_filters(p)
+    p.set_defaults(func=cmd_tags)
 
     p = subs.add_parser("build", help="render one PDF per exercise")
     p.add_argument("paths", nargs="*", help="explicit .md files")

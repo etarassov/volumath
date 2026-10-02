@@ -8,6 +8,7 @@ duration_min: 40
 tags: [forme-canonique, equation-de-cercle, signe-dun-produit, aire, symetrie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School Circle, AMC Problem Session"

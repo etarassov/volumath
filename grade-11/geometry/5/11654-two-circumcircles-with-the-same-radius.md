@@ -5,13 +5,14 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercles, tangente commune, symetrie axiale, symetrie centrale, produit scalaire, puissance d'un point, geometrie analytique]
+tags: [cercle, tangente-commune, symetrie-axiale, symetrie-centrale, produit-scalaire, puissance-d-un-point, geometrie-analytique]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2017-2018 n° 5 (pot-pourri)"
-  reference: "2018-02_pofm-2017-2018-envoi5.pdf, exercices du groupe A, exercice 9 ; corrigé 2018-06_pofm_2017-2018-envoi5-corrige.pdf (le corrigé fait une chasse aux angles sur la figure ; il écrit « AMNF et BMNE » pour les trapèzes isocèles, il faut lire AMNE et BMNF, et « MNP » pour MNF ; la preuve ci-dessous passe par les coordonnées et la puissance d'un point)"
+  reference: "2018-02_pofm-2017-2018-envoi5.pdf, exercices du groupe A, exercice 9 ; corrigé 2018-06_pofm_2017-2018-envoi5-corrige.pdf (le corrigé fait une chasse aux angles sur la figure ; il écrit « AMNF et BMNE » pour les trapèzes isocèles, il faut lire AMNE et BMNF, et « MNP » pour MNF ; la preuve ci-dessous passe par les coordonnées et la puissance d'un point). Le même problème est l'exercice 2 du premier jour du test de sélection pour l'OIM 2014 (2017-10_ofm-2013-2014-test-mai-1.pdf)."
   url: "https://maths-olympiques.fr/wp-content/uploads/2018/02/pofm-2017-2018-envoi5.pdf"
   original_language: "fr"
   local_copy: "sources/originals/pofm-envois/2018-02_pofm-2017-2018-envoi5.pdf"

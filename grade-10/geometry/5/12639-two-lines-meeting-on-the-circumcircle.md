@@ -8,6 +8,7 @@ duration_min: 60
 tags: [cercle-circonscrit, bissectrice, hauteur, angle-inscrit, triangles-semblables, puissance-d-un-point, point-fantome]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 12 janvier 2022"

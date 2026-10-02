@@ -5,9 +5,10 @@ grade: 10
 theme: coloring
 difficulty: 5
 duration_min: 45
-tags: [coloriage, pavage, tetramino, damier, optimisation]
+tags: [coloriage, pavage, tetraminos, damier, optimisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Coloring (Tom Davis), d'après BAMO 2008"

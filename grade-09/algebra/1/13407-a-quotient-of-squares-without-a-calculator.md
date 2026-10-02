@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 1
 duration_min: 10
-tags: [identite remarquable, difference de carres, calcul astucieux]
+tags: [identites-remarquables, difference-de-carres, calcul-astucieux]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2021"

@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [nombres premiers, puissances, petit theoreme de fermat, congruences, lemme de gauss, factorisation, maths-expertes]
+tags: [nombres-premiers, puissances, petit-theoreme-de-fermat, congruences, lemme-de-gauss, factorisation, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2015, jour 2"

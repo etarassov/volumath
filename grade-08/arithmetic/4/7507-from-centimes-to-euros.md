@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [monnaie, echange, somme, astuce, correspondance]
+tags: [monnaie, echanges, somme, astuce, correspondance]
 adapted_from: null
-see_also: ["8149"]
+see_also: []
+same_as: ["8149"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2012, La Muraille"

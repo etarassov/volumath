@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [orthocentre, nombres complexes, triangles semblables, alignement, repere, produit scalaire, determinant, droz-farny, maths-expertes]
+tags: [orthocentre, nombres-complexes, triangles-semblables, alignement, repere, produit-scalaire, determinant, droz-farny, maths-expertes]
 adapted_from: null
 see_also: ["10257"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 3 (géométrie)"

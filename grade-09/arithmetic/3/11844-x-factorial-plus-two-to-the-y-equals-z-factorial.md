@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [factorielle, divisibilite, parite, puissances de deux, equation diophantienne]
+tags: [factorielle, divisibilite, parite, puissances-de-deux, equation-diophantienne]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 5 (pot-pourri)"

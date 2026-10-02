@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 35
-tags: [suites, suite-recurrente, carres-parfaits, encadrement]
+tags: [suites, suite-recurrente, carre-parfait, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 2 (algèbre)"

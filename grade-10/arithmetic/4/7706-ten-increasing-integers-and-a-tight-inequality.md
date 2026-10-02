@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [entiers, inegalite, somme des premiers entiers, cas d egalite]
+tags: [entiers, inegalite, somme-des-premiers-entiers, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, Coupe Animath du 3 juin 2014"

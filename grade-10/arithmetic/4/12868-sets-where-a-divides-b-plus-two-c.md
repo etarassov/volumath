@@ -8,6 +8,7 @@ duration_min: 45
 tags: [divisibilite, pgcd, parite, ensembles, principe-extremal, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 20 novembre 2024"

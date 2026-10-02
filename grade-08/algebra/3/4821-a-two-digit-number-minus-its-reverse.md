@@ -8,6 +8,7 @@ duration_min: 25
 tags: [chiffres, ecriture-decimale, multiples-de-9, mise-en-equation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Group A, Math Relays"

@@ -8,6 +8,7 @@ duration_min: 35
 tags: [angle-inscrit, angle-au-centre, symetrie-axiale, mediatrice, triangle-isocele, alignement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2023"

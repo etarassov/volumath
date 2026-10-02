@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [trapeze, cercle inscrit, cercle exinscrit, tangentes, symetrie axiale, triangles semblables, homothetie, bissectrice, parallelisme]
+tags: [trapeze, cercle-inscrit, cercle-exinscrit, tangente, symetrie-axiale, triangles-semblables, homothetie, bissectrice, parallelisme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de janvier 2015"

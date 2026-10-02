@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 5
 duration_min: 60
-tags: [identite, polynomes, second-degre, tiroirs, parametre]
+tags: [identite, polynome, second-degre, tiroirs, parametre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 28 mars 2018"

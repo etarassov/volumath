@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [vecteurs, parallelogramme, colinearite, base, rapport de longueurs]
+tags: [vecteurs, parallelogramme, colinearite, base, rapport-de-longueurs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 1A, Geometry of masses 4"

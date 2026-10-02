@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 50
-tags: [factorielle, divisibilite, nombres premiers, theoreme de gauss, nombres premiers entre eux, majoration, maths-expertes]
+tags: [factorielle, divisibilite, nombres-premiers, theoreme-de-gauss, nombres-premiers-entre-eux, majoration, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de mars 2016"

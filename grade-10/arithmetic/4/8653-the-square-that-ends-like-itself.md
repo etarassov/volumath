@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [chiffre des unites, congruences, deux derniers chiffres, nombres premiers entre eux]
+tags: [chiffre-des-unites, congruences, deux-derniers-chiffres, nombres-premiers-entre-eux]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

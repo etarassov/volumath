@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [systeme, identite remarquable, polynome, racines, symetrie]
+tags: [systeme, identites-remarquables, polynome, racines, symetrie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Visualization in Algebra, Tom Davis"

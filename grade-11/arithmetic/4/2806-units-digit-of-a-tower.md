@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 30
 tags: [chiffre-des-unites, puissances, periodicite, divisibilite]
 adapted_from: null
-see_also: ["1604"]
+see_also: []
+same_as: ["1604"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School I, Relays"

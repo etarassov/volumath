@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 45
-tags: [inegalites, moyennes, cas-degalite, puissances]
+tags: [inegalite, moyenne, cas-degalite, puissances]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2026, Groupe A"

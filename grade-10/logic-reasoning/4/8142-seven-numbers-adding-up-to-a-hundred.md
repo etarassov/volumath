@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 30
 tags: [inegalite, raisonnement-par-l-absurde, entiers-distincts]
 adapted_from: null
-see_also: ["7305"]
+see_also: []
+same_as: ["7305"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, La Muraille"

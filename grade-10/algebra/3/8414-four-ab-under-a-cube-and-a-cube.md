@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 20
 tags: [inegalite, carre-positif, factorisation, cas-degalite]
 adapted_from: null
-see_also: ["8537"]
+see_also: []
+same_as: ["8537"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe A"

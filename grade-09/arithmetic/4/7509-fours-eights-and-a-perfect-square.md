@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [chiffres, repunit, carre, identite-remarquable, factorisation]
+tags: [chiffres, repunit, carre, identites-remarquables, factorisation]
 adapted_from: null
-see_also: ["8462"]
+see_also: []
+same_as: ["8462"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2012, La Muraille"

@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 3
 duration_min: 15
-tags: [inegalite, identite-remarquable, carre-positif, cas-degalite]
+tags: [inegalite, identites-remarquables, carre-positif, cas-degalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe A"

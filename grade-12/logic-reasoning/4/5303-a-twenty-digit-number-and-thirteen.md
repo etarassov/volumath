@@ -5,9 +5,10 @@ grade: 12
 theme: logic-reasoning
 difficulty: 4
 duration_min: 45
-tags: [jeu, strategie gagnante, congruences, divisibilite]
+tags: [jeu, strategie-gagnante, congruences, divisibilite]
 adapted_from: null
 see_also: ["5302"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Mathematical Games, par Tatiana Shubin (San José State University)"

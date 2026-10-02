@@ -8,6 +8,7 @@ duration_min: 40
 tags: [perimetre, aire, decomposition, recherche-de-cas, rectangle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »"

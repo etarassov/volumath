@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [principe-des-tiroirs, divisibilite, somme-partielle, reste]
+tags: [principe-des-tiroirs, divisibilite, sommes-partielles, restes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe A"

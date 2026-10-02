@@ -8,6 +8,7 @@ duration_min: 45
 tags: [diviseurs, nombres-premiers, puissances, fractions, contre-exemple, sommes-partielles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 17 novembre 2021"

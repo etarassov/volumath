@@ -8,10 +8,11 @@ duration_min: 35
 tags: [produit, somme, inegalite, puissances-de-2, entiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2016 (test de rentrée OFM)"
-  reference: "2017-09_coupe_automne_2016.pdf, exercices lycée, exercice 8 ; corrigé 2017-09_coupe_automne_2016_corrige.pdf"
+  reference: "2017-09_coupe_automne_2016.pdf, exercices lycée, exercice 8 ; corrigé 2017-09_coupe_automne_2016_corrige.pdf. Une version plus faible, qui demande seulement de montrer qu'au moins 93 des nombres valent 1, figure dans stage_ete_2018.pdf, Groupe A, « Combinatoire – Principe de l'extremum », exercice 8."
   url: "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2016.pdf"
   original_language: "fr"
   local_copy: "sources/originals/coupe-animath/2017-09_coupe_automne_2016.pdf"

@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [polynomes, divisibilite, nombres premiers, petit theoreme de fermat, congruences, maths-expertes]
+tags: [polynome, divisibilite, nombres-premiers, petit-theoreme-de-fermat, congruences, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2015, jour 1"

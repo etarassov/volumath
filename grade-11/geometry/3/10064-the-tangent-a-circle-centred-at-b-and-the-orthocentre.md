@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 3
 duration_min: 45
-tags: [orthocentre, tangente, cercle circonscrit, repere, produit scalaire, projete orthogonal, alignement]
+tags: [orthocentre, tangente, cercle-circonscrit, repere, produit-scalaire, projete-orthogonal, alignement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2017-2018 n° 2 (géométrie)"

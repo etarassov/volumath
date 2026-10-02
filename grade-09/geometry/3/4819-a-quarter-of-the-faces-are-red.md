@@ -8,6 +8,7 @@ duration_min: 25
 tags: [cube, aire, volume, proportion, equation]
 adapted_from: null
 see_also: ["0559"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Essential Counting Strategies (Kevin Wang)"

@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 2
 duration_min: 10
-tags: [equation, factorisation, produit nul]
+tags: [equation, factorisation, produit-nul]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2022, premier tour"

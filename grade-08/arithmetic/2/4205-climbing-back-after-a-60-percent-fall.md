@@ -8,6 +8,7 @@ duration_min: 15
 tags: [pourcentages, proportionnalite, prix]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Tricky Percents"

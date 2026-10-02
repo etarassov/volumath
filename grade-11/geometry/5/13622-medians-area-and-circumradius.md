@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [inegalite, mediane, cercle circonscrit, aire, repere, produit scalaire, inegalite triangulaire]
+tags: [inegalite, mediane, cercle-circonscrit, aire, repere, produit-scalaire, inegalite-triangulaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2012 (test de sélection du stage olympique de Montpellier, 5 juin 2012)"

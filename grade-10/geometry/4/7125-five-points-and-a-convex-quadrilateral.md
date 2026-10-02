@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [convexite, enveloppe convexe, disjonction de cas, demonstration]
+tags: [convexite, enveloppe-convexe, disjonction-de-cas, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013"

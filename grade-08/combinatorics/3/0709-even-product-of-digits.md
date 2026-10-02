@@ -8,6 +8,7 @@ duration_min: 20
 tags: [denombrement, chiffres, parite, complementaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants"

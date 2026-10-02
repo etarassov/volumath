@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 40
 tags: [quadrillage, aire, pick, denombrement, conjecture]
 adapted_from: null
-see_also: []
+see_also: ["5602", "5603", "5604", "5605", "5606"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Pick's Theorem"

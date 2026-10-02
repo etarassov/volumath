@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 45
-tags: [polygone regulier, coloriage, triangle isocele, double comptage, parite, rotation]
+tags: [polygone-regulier, coloriage, triangle-isocele, double-comptage, parite, rotation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de mai 2017"

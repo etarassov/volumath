@@ -8,6 +8,7 @@ duration_min: 15
 tags: [denombrement, puissances, mots]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »"

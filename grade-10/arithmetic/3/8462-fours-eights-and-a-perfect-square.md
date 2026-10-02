@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [repunit, ecriture decimale, carre parfait, identite remarquable]
+tags: [repunit, ecriture-decimale, carre-parfait, identites-remarquables]
 adapted_from: null
-see_also: ["7509"]
+see_also: []
+same_as: ["7509"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, la Muraille"

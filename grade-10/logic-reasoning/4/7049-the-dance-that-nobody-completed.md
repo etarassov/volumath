@@ -5,9 +5,10 @@ grade: 10
 theme: logic-reasoning
 difficulty: 4
 duration_min: 35
-tags: [principe extremal, maximum, raisonnement par l absurde]
+tags: [principe-extremal, maximum, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2012, groupe des avancés"

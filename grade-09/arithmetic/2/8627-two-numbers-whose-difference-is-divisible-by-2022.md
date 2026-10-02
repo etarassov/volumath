@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 2
 duration_min: 20
-tags: [tiroirs, reste, division euclidienne, divisibilite]
+tags: [tiroirs, restes, division-euclidienne, divisibilite]
 adapted_from: null
-see_also: ["4601"]
+see_also: []
+same_as: ["4601"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

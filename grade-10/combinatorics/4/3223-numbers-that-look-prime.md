@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [nombres premiers, crible, inclusion exclusion, denombrement, multiples]
+tags: [nombres-premiers, crible, inclusion-exclusion, denombrement, multiples]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Combinatorics review"

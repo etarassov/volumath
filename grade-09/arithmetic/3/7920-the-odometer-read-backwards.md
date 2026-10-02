@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [numeration decimale, divisibilite, equation, chiffres]
+tags: [numeration-decimale, divisibilite, equation, chiffres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, Coupe Animath"

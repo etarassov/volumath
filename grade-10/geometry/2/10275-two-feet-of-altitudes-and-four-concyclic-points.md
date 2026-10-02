@@ -8,6 +8,7 @@ duration_min: 15
 tags: [hauteur, triangle-rectangle, triangles-semblables, cocyclicite, quadrilatere-inscrit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 1 (géométrie)"

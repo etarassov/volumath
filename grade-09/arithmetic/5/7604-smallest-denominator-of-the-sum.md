@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 5
 duration_min: 45
-tags: [fractions, pgcd, decomposition en facteurs premiers, divisibilite]
+tags: [fractions, pgcd, decomposition-en-facteurs-premiers, divisibilite]
 adapted_from: null
 see_also: []
+same_as: ["7942"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, test de sélection"

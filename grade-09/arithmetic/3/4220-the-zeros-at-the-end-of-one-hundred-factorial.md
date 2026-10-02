@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [factorielle, decomposition en facteurs premiers, divisibilite]
+tags: [factorielle, decomposition-en-facteurs-premiers, divisibilite]
 adapted_from: null
-see_also: []
+see_also: ["7037"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, More Remainders and Divisibility"

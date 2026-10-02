@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [nombres-premiers, carres-parfaits, decomposition-en-facteurs-premiers, factorisation, disjonction-de-cas]
+tags: [nombres-premiers, carre-parfait, decomposition-en-facteurs-premiers, factorisation, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 3 (arithmétique)"

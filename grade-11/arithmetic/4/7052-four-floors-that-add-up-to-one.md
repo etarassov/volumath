@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [partie entiere, division euclidienne, identite]
+tags: [partie-entiere, division-euclidienne, identite]
 adapted_from: null
-see_also: []
+see_also: ["7053"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Saint-Pierre-lès-Nemours 2009"

@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [cercle inscrit, tangente, longueurs des tangentes, hauteur, pythagore, reciproque de pythagore, triangle rectangle isocele]
+tags: [cercle-inscrit, tangente, longueurs-des-tangentes, hauteur, pythagore, reciproque-de-pythagore, triangle-rectangle-isocele]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 2 (géométrie)"

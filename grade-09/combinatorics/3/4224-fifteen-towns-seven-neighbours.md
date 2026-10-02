@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 20
-tags: [principe des tiroirs, graphe, connexite]
+tags: [principe-des-tiroirs, graphe, connexite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Graphs and Geometry"

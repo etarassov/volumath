@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [denombrement, paires, construction, cercle, raisonnement par l'absurde]
+tags: [denombrement, paires, construction, cercle, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 15 janvier 2014"

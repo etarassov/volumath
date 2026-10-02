@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [nombres premiers, congruences, residus quadratiques, petit theoreme de fermat]
+tags: [nombres-premiers, congruences, residus-quadratiques, petit-theoreme-de-fermat]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"

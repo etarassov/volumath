@@ -8,6 +8,7 @@ duration_min: 50
 tags: [tangente, angle-tangentiel, cocyclicite, angle-inscrit, triangle-isocele, cercles-concentriques]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 1 (géométrie)"

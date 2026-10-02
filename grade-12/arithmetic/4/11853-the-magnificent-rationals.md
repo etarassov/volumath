@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [rationnels, puissances, bezout, nombres premiers entre eux, construction, maths-expertes]
+tags: [rationnels, puissances, bezout, nombres-premiers-entre-eux, construction, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 5 (pot-pourri)"

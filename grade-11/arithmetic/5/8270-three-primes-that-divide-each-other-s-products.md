@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 5
 duration_min: 50
-tags: [nombres premiers, divisibilite, encadrement, symetrie, factorisation]
+tags: [nombres-premiers, divisibilite, encadrement, symetrie, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, La Muraille"

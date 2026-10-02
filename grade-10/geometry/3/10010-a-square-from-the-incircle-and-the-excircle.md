@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercle inscrit, cercle exinscrit, bissectrice, carre, mediatrice, chasse aux angles]
+tags: [cercle-inscrit, cercle-exinscrit, bissectrice, carre, mediatrice, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 6 (géométrie)"

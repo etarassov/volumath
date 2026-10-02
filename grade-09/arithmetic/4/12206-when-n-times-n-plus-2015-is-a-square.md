@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [carre parfait, nombres premiers, decomposition en facteurs premiers, identite remarquable, raisonnement par l absurde, divisibilite]
+tags: [carre-parfait, nombres-premiers, decomposition-en-facteurs-premiers, identites-remarquables, raisonnement-par-l-absurde, divisibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de janvier 2015"

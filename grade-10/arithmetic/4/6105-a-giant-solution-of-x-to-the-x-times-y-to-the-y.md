@@ -8,6 +8,7 @@ duration_min: 35
 tags: [puissances, decomposition-en-facteurs-premiers, exposants, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular Winter 2013 et Summer 2013, rubrique « Problem Circle »"

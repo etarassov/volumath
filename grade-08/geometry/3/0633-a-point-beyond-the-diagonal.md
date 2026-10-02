@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [carre, diagonale, symetrie-axiale, triangle-equilateral, calcul-dangles]
+tags: [carre, diagonales, symetrie-axiale, triangle-equilateral, calcul-dangles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »"

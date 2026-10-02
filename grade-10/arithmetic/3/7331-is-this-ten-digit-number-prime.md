@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [nombre-premier, factorisation, identite-remarquable, somme-de-deux-cubes]
+tags: [nombres-premiers, factorisation, identites-remarquables, somme-de-deux-cubes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Saint-Malo 2007"

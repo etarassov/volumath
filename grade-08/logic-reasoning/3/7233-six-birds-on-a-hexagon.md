@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 25
 tags: [invariant, parite, coloriage, hexagone]
 adapted_from: null
-see_also: []
+see_also: ["7930"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2017"

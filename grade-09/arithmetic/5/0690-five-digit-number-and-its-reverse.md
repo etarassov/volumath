@@ -8,6 +8,7 @@ duration_min: 45
 tags: [chiffres, parite, retenues, addition]
 adapted_from: null
 see_also: []
+same_as: ["8021"]
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023"

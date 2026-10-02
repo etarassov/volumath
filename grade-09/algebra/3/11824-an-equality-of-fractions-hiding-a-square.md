@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [factorisation, calcul litteral, carres, identites remarquables]
+tags: [factorisation, calcul-litteral, carres, identites-remarquables]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 5 (pot-pourri)"

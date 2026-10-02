@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 5
 duration_min: 60
-tags: [inegalite, identite-remarquable, triangle, factorisation]
+tags: [inegalite, identites-remarquables, triangle, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 4 (algèbre)"

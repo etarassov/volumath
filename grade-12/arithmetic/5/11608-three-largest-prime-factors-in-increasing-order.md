@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [nombres premiers, factorisation, puissances, pgcd, construction]
+tags: [nombres-premiers, factorisation, puissances, pgcd, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 5 (pot-pourri)"

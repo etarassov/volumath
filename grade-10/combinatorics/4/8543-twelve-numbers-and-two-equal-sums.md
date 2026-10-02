@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [principe-des-tiroirs, denombrement, sommes, entiers-distincts]
+tags: [principe-des-tiroirs, denombrement, somme, entiers-distincts]
 adapted_from: null
-see_also: []
+see_also: ["11822"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe B"

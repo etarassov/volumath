@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 45
-tags: [principe des tiroirs, suite croissante, cumul, encadrement]
+tags: [principe-des-tiroirs, suite-croissante, cumul, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe B"

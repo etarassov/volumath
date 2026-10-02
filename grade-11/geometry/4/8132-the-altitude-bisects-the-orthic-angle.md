@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 40
 tags: [orthocentre, cocyclicite, angle-inscrit, bissectrice]
 adapted_from: null
-see_also: []
+see_also: ["10038"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, entraînement de mi-parcours du Groupe A"

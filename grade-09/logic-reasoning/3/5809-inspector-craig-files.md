@@ -5,9 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 3
 duration_min: 30
-tags: [logique, implication, disjonction de cas, enquete]
+tags: [logique, implication, disjonction-de-cas, enquete]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Knights and Knaves: A journey to the land of logic (Altha Rodin, d'après Raymond Smullyan)"

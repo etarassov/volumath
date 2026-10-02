@@ -8,6 +8,7 @@ duration_min: 40
 tags: [denombrement, polynome, developpement, inclusion-exclusion]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School I, Relays"

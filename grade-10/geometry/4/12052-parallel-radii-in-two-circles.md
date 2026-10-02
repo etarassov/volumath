@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [cercles, points cocycliques, vecteurs, puissance d'un point, pythagore, mediatrice, disjonction de cas]
+tags: [cercle, points-cocycliques, vecteurs, puissance-d-un-point, pythagore, mediatrice, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test du 26 février 2014"

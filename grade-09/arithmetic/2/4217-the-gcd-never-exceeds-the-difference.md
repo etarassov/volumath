@@ -8,6 +8,7 @@ duration_min: 15
 tags: [pgcd, divisibilite, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Greatest Common Divisors"

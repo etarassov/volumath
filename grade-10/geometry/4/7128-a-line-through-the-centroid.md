@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [centre de gravite, mediane, thales, distances, trapeze]
+tags: [centre-de-gravite, mediane, thales, distance, trapeze]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013"

@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 3
 duration_min: 15
-tags: [principe des tiroirs, triangle equilateral, couleurs, plan]
+tags: [principe-des-tiroirs, triangle-equilateral, couleurs, plan]
 adapted_from: null
-see_also: ["4616"]
+see_also: []
+same_as: ["8339"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe A"

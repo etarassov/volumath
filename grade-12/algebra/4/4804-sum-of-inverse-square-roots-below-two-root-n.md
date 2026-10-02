@@ -8,6 +8,7 @@ duration_min: 35
 tags: [recurrence, inegalite, racine-carree, quantite-conjuguee, somme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Introduction to Induction (Olga Radko)"

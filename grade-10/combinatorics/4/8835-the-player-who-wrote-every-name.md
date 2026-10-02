@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [principe de lextremum, tournoi, raisonnement par labsurde, maximum]
+tags: [principe-de-lextremum, tournoi, raisonnement-par-labsurde, maximum]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe A"

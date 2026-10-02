@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 5
 duration_min: 45
-tags: [inegalite, maximum, inegalite arithmetico-geometrique, identite remarquable, signe, symetrie]
+tags: [inegalite, maximum, inegalite-arithmetico-geometrique, identites-remarquables, signe, symetrie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de mai 2017"

@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [divisibilite, principe des tiroirs, restes, sommes consecutives, construction]
+tags: [divisibilite, principe-des-tiroirs, restes, sommes-consecutives, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de mai 2016"

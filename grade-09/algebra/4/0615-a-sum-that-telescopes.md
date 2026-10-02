@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 4
 duration_min: 45
-tags: [fractions, telescopage, majoration, nombres impairs]
+tags: [fractions, telescopage, majoration, nombres-impairs]
 adapted_from: null
 see_also: ["0865"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »"

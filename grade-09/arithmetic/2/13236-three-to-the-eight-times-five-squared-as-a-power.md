@@ -8,6 +8,7 @@ duration_min: 10
 tags: [puissances, decomposition-en-facteurs-premiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2017, premier tour"

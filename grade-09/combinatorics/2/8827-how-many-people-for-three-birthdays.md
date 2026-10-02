@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 2
 duration_min: 20
-tags: [principe des tiroirs, minimum, construction]
+tags: [principe-des-tiroirs, minimum, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe A"

@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [inegalites, fractions, inegalite arithmetico-geometrique, somme cyclique, cas d'egalite]
+tags: [inegalite, fractions, inegalite-arithmetico-geometrique, somme-cyclique, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2015, jour 2"

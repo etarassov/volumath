@@ -5,9 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 3
 duration_min: 30
-tags: [invariant, parite, somme des premiers entiers, construction]
+tags: [invariant, parite, somme-des-premiers-entiers, construction]
 adapted_from: null
 see_also: ["8580"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

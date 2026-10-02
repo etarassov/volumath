@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 2
 duration_min: 20
-tags: [fractions, relatifs, inverse, suite de coups, noeuds]
+tags: [fractions, relatifs, inverse, suite-de-coups, noeuds]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Conway's Rational Tangles (Kelley Barnes)"

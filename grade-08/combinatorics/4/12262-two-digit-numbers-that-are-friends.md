@@ -8,6 +8,7 @@ duration_min: 35
 tags: [denombrement, maximum, paires, parite, chiffres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de janvier 2017"

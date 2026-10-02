@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 30
-tags: [principe de lextremum, milieu, raisonnement par labsurde, ensemble infini]
+tags: [principe-de-lextremum, milieu, raisonnement-par-labsurde, ensemble-infini]
 adapted_from: null
 see_also: []
+same_as: ["7725"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe A"

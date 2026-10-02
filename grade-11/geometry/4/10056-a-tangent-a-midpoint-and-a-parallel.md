@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [cercle circonscrit, tangente, puissance d'un point, produit scalaire, determinant, vecteurs, parallelisme]
+tags: [cercle-circonscrit, tangente, puissance-d-un-point, produit-scalaire, determinant, vecteurs, parallelisme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 3 (géométrie)"

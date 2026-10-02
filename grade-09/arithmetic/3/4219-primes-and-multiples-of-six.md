@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [nombre premier, division euclidienne, restes]
+tags: [nombres-premiers, division-euclidienne, restes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Remainders, Primes and the Euclidean Algorithm"

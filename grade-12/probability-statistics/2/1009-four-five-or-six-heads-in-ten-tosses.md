@@ -5,9 +5,10 @@ grade: 12
 theme: probability-statistics
 difficulty: 2
 duration_min: 20
-tags: [loi binomiale, coefficient binomial, triangle de pascal, esperance]
+tags: [loi-binomiale, coefficient-binomial, triangle-de-pascal, esperance]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Intro to combinatorics and probability"

@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 1
 duration_min: 5
-tags: [puissances, factorisation, fraction]
+tags: [puissances, factorisation, fractions]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2024"

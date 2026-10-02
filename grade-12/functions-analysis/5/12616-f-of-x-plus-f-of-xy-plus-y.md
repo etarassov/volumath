@@ -5,9 +5,10 @@ grade: 12
 theme: functions-analysis
 difficulty: 5
 duration_min: 90
-tags: [equation-fonctionnelle, injectivite, fonction-croissante, limites, suites-monotones, fonction-affine]
+tags: [equation-fonctionnelle, injectivite, fonction-croissante, limite, suite-monotone, fonction-affine]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection des 14 et 21 février 2021"

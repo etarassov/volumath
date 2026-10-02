@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 3
 duration_min: 30
-tags: [denombrement, permutations, symetrie, cas-particuliers]
+tags: [denombrement, permutations, symetrie, cas-particulier]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School I, Relays"

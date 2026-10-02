@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [orthocentre, hauteurs, triangle orthique, bissectrice, cercle inscrit, triangles semblables, cosinus]
+tags: [orthocentre, hauteur, triangle-orthique, bissectrice, cercle-inscrit, triangles-semblables, cosinus]
 adapted_from: null
 see_also: ["8132"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 2 (géométrie)"

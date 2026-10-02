@@ -8,6 +8,7 @@ duration_min: 45
 tags: [suites, construction, majoration, principe-des-tiroirs, blocs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2023"

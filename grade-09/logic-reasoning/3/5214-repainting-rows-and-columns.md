@@ -8,6 +8,7 @@ duration_min: 30
 tags: [parite, invariant, tableau, coloriage]
 adapted_from: null
 see_also: ["7007"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Pigeonhole Principle and Parity Problems — Brian Conrey et Corinne Cristiani"
@@ -58,4 +59,6 @@ Un tableau entièrement blanc correspond à $N = 0$, qui est pair. On ne peut do
 
 ## Going further
 
-Le raisonnement n'utilise nulle part le fait que la case noire est dans un coin : il marcherait avec n'importe quelle case noire unique. En revanche il utilise de façon essentielle le fait que $6$ est **pair**. Sur un tableau $5 \times 5$ dont une seule case est noire, la même opération fait varier le nombre de cases noires de $5 - 2k$, qui est impair, et la conclusion tombe : on peut alors effectivement tout blanchir, en repeignant la ligne puis la colonne de la case noire.
+Le raisonnement n'utilise nulle part le fait que la case noire est dans un coin : il marcherait avec n'importe quelle case noire unique. En revanche il utilise de façon essentielle le fait que $6$ est **pair**. Sur un tableau $5 \times 5$ dont une seule case est noire, la même opération fait varier le nombre de cases noires de $5 - 2k$, qui est impair, et l'argument ne permet plus de conclure.
+
+La réponse reste pourtant non. Essaie de repeindre la ligne puis la colonne de la case noire : il reste $9$ cases noires. Pour le prouver, regarde un petit carré de $2 \times 2$ cases qui contient la case noire. Une opération change la couleur de $0$ ou de $2$ de ses cases, donc le nombre de cases noires de ce petit carré change de $-2$, $0$ ou $+2$, et sa parité ne change jamais. Il vaut $1$ au départ, il ne peut donc jamais valoir $0$. Ce second argument marche sur un tableau de n'importe quelle taille.

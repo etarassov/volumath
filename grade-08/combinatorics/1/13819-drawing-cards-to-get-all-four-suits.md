@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 1
 duration_min: 10
-tags: [cartes, pire des cas, principe des tiroirs]
+tags: [cartes, pire-des-cas, principe-des-tiroirs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2019, éliminatoires"

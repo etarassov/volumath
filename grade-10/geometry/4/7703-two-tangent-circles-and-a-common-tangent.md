@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [cercle, tangente, thales, pythagore, theoreme des milieux]
+tags: [cercle, tangente, thales, pythagore, theoreme-des-milieux]
 adapted_from: null
-see_also: []
+see_also: ["10055"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, Coupe Animath du 3 juin 2014"

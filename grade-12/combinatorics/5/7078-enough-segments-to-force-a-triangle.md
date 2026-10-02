@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 5
 duration_min: 45
-tags: [graphe, recurrence, triangle, principe extremal]
+tags: [graphe, recurrence, triangle, principe-extremal]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2012, groupe des débutants"

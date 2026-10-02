@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [diviseurs, parite, carres-parfaits, denombrement]
+tags: [diviseurs, parite, carre-parfait, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2B, Olympiad Style Problems 1"

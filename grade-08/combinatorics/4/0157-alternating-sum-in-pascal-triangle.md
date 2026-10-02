@@ -5,8 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [triangle-de-pascal, symetrie, sommes, parite, demonstration]
+tags: [triangle-de-pascal, symetrie, somme, parite, demonstration]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей (7 класс, II полугодие)"

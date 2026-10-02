@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [produit scalaire, quadrilatere inscrit, angle inscrit, projection orthogonale, milieu]
+tags: [produit-scalaire, quadrilatere-inscrit, angle-inscrit, projection-orthogonale, milieu]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 6 (géométrie)"

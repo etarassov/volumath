@@ -5,8 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [diviseurs, carres-parfaits, equivalence, demonstration]
+tags: [diviseurs, carre-parfait, equivalence, demonstration]
 adapted_from: null
+see_also: ["4816", "5916"]
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов"

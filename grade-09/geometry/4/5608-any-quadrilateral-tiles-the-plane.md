@@ -8,6 +8,7 @@ duration_min: 40
 tags: [pavage, quadrilatere, demi-tour, symetrie-centrale, angles]
 adapted_from: null
 see_also: ["5607"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Art Meets Math: Escher's Tilings"

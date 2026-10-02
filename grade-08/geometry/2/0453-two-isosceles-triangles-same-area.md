@@ -5,8 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 2
 duration_min: 20
-tags: [aire, triangle isocele, pythagore, hauteur]
+tags: [aire, triangle-isocele, pythagore, hauteur]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников"

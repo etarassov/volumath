@@ -8,6 +8,7 @@ duration_min: 30
 tags: [congruences, restes, puissances, encadrement, equation-diophantienne]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 3 (arithmétique)"

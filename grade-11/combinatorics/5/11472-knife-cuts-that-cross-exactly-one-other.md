@@ -8,6 +8,7 @@ duration_min: 60
 tags: [polygone-convexe, diagonales, maximum, plus-petit-contre-exemple, parite, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 4 (combinatoire)"

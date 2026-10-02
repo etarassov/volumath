@@ -8,6 +8,7 @@ duration_min: 20
 tags: [second-degre, discriminant, somme-de-carres, raisonnement-par-labsurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2A, Group Competition"

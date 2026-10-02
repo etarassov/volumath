@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [angle inscrit, cocyclicite, parallelisme, triangle isocele, chasse aux angles]
+tags: [angle-inscrit, cocyclicite, parallelisme, triangle-isocele, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, épreuve de sélection (Coupe Animath d'automne) du 5 octobre 2011"

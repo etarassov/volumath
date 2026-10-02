@@ -5,9 +5,10 @@ grade: 12
 theme: functions-analysis
 difficulty: 4
 duration_min: 35
-tags: [inegalite, subdivision, inegalite triangulaire, fonction constante, passage a la limite]
+tags: [inegalite, subdivision, inegalite-triangulaire, fonction-constante, passage-a-la-limite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe B"

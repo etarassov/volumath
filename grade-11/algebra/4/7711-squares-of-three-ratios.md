@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 45
-tags: [inegalite, produit egal a un, carres, changement de variable]
+tags: [inegalite, produit-egal-a-un, carres, changement-de-variable]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, test de mi-parcours du vendredi 22 août"

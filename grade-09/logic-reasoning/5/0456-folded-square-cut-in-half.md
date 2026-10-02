@@ -5,8 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 5
 duration_min: 40
-tags: [pliage, symetrie axiale, invariant, quadrillage, denombrement]
+tags: [pliage, symetrie-axiale, invariant, quadrillage, denombrement]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников"

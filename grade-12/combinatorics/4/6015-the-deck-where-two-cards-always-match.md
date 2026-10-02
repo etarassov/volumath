@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 4
 duration_min: 50
-tags: [denombrement, injection, double comptage, majoration]
+tags: [denombrement, injection, double-comptage, majoration]
 adapted_from: null
 see_also: ["5401", "5402"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular, « Spot It! Mathematical Structure in a Children's Game » (Tom Clark)"

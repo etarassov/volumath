@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [inegalite, moyennes, exposants]
+tags: [inegalite, moyenne, exposants]
 adapted_from: null
 see_also: ["8440"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2010"

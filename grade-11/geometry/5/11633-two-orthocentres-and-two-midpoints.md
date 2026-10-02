@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [orthocentre, produit scalaire, milieux, parallelogramme, quadrilatere, vecteurs]
+tags: [orthocentre, produit-scalaire, milieu, parallelogramme, quadrilatere, vecteurs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 5 (pot-pourri)"

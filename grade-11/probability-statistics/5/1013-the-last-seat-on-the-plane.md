@@ -8,6 +8,7 @@ duration_min: 50
 tags: [probabilite, symetrie, invariant, equiprobabilite, recurrence]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Did Dream cheat?"

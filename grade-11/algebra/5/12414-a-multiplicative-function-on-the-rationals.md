@@ -8,6 +8,7 @@ duration_min: 60
 tags: [equation-fonctionnelle, rationnels, puissances-de-2, recurrence, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection senior du 21 février 2018"

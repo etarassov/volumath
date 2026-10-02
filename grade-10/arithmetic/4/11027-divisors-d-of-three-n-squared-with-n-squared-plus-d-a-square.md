@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [diviseurs, carres-parfaits, pgcd, decomposition-en-facteurs-premiers, encadrement]
+tags: [diviseurs, carre-parfait, pgcd, decomposition-en-facteurs-premiers, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 3 (arithmétique)"

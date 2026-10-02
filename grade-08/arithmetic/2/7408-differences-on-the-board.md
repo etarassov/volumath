@@ -7,7 +7,8 @@ difficulty: 2
 duration_min: 15
 tags: [parite, invariant, somme-des-entiers]
 adapted_from: null
-see_also: ["4419"]
+see_also: []
+same_as: ["4419"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2010, groupe des débutants"

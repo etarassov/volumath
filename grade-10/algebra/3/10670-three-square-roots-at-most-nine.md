@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [inegalite, racines-carrees, somme-de-carres]
+tags: [inegalite, racine-carree, somme-de-carres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 2 (algèbre)"

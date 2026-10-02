@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [factorielle, divisibilite, inegalites, ordonner]
+tags: [factorielle, divisibilite, inegalite, ordonner]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 23 et du 24 février 2022"

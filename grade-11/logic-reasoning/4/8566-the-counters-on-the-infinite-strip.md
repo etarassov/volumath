@@ -8,6 +8,7 @@ duration_min: 35
 tags: [invariant, monovariant, puissances-de-deux, jetons]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe A"

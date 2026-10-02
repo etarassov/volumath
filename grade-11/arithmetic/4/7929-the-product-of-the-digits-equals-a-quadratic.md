@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [chiffres, produit des chiffres, majoration, second degre]
+tags: [chiffres, produit-des-chiffres, majoration, second-degre]
 adapted_from: null
-see_also: ["7820"]
+see_also: []
+same_as: ["7820"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, évaluation initiale"

@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [inegalite, somme de carres, encadrement, produit de facteurs]
+tags: [inegalite, somme-de-carres, encadrement, produit-de-facteurs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 5 (pot-pourri)"

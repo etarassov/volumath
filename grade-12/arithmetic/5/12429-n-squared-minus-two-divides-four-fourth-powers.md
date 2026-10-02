@@ -8,6 +8,7 @@ duration_min: 90
 tags: [maths-expertes, congruences, carres-modulo-p, bezout, gauss, nombres-premiers, principe-des-tiroirs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 28 novembre 2018"

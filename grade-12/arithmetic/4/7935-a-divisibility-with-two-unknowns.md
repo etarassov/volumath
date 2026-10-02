@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [divisibilite, nombres premiers entre eux, lemme de gauss, encadrement]
+tags: [divisibilite, nombres-premiers-entre-eux, lemme-de-gauss, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, test de fin de parcours"

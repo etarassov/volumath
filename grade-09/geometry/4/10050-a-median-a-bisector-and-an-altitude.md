@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [mediane, bissectrice, hauteur, triangle isocele, triangle rectangle, triangles egaux, angles]
+tags: [mediane, bissectrice, hauteur, triangle-isocele, triangle-rectangle, triangles-egaux, angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 2 (géométrie)"

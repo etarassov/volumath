@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [cercle circonscrit, diametre, geometrie analytique, colinearite, determinant, triangle rectangle isocele]
+tags: [cercle-circonscrit, diametre, geometrie-analytique, colinearite, determinant, triangle-rectangle-isocele]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2015, jour 2"

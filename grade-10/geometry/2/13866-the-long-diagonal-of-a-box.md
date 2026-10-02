@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 2
 duration_min: 15
-tags: [pave droit, diagonale, identites remarquables, espace]
+tags: [pave-droit, diagonales, identites-remarquables, espace]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2022, premier tour"

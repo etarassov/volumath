@@ -5,8 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [factorisation, identites remarquables, difference de carres, nombre premier]
+tags: [factorisation, identites-remarquables, difference-de-carres, nombres-premiers]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, Математический кружок (8 класс), сост. А. Л. Канунников"

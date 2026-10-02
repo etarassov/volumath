@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 20
-tags: [coloriage, nombres-premiers, parite, graphes]
+tags: [coloriage, nombres-premiers, parite, graphe]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2011, La Muraille"

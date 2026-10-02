@@ -7,11 +7,12 @@ difficulty: 3
 duration_min: 30
 tags: [principe-des-tiroirs, nombres-premiers-entre-eux, divisibilite, puissances-de-deux]
 adapted_from: null
-see_also: ["5220"]
+see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe B"
-  reference: "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Principe des tiroirs et de l'extremum » (Angela) du Groupe B, exercice 7"
+  reference: "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Principe des tiroirs et de l'extremum » (Angela) du Groupe B, exercice 7. Le cas n = 10 de la question 2 figure aussi dans ConreyCristianiPig_and_par.pdf (MathCircles.org), « The pigeon-hole principle », problème 4."
   url: "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf"
   original_language: "fr"
   local_copy: "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"

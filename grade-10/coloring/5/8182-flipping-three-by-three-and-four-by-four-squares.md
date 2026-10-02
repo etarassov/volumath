@@ -5,9 +5,10 @@ grade: 10
 theme: coloring
 difficulty: 5
 duration_min: 40
-tags: [invariant, parite, echiquier, colonnes, signes]
+tags: [invariant, parite, echiquier, colonnes, signe]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, cours de Groupe C"

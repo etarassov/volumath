@@ -8,6 +8,7 @@ duration_min: 20
 tags: [esperance, variable-aleatoire, des, jeu-equitable, gain-moyen]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 1, compétition d'automne 2023"

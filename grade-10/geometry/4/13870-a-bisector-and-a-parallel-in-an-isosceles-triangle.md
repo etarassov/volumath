@@ -5,13 +5,14 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [triangle isocele, bissectrice, cercle inscrit, droite des milieux, angles alternes internes]
+tags: [triangle-isocele, bissectrice, cercle-inscrit, droite-des-milieux, angles-alternes-internes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2024"
-  reference: "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercices lycéens, exercice 14 (sa question 1 est l'exercice collégien 7) ; corrigé 2024-06_corrige-Coupe-Animath-Printemps-2024.pdf, solution de l'exercice 14"
+  reference: "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercices lycéens, exercice 14 (sa question 1 est l'exercice collégien 7) ; corrigé 2024-06_corrige-Coupe-Animath-Printemps-2024.pdf, solution de l'exercice 14. Aussi repris dans poly_valbonne_2024.pdf, Coupe Animath de printemps 2024, exercice 7 (collégiens) et exercice 14 (lycéens)."
   url: "https://maths-olympiques.fr/wp-content/uploads/2024/06/Sujet-coupe-Animath-printemps-2024.pdf"
   original_language: "fr"
   local_copy: "sources/originals/coupe-animath/2024-06_Sujet-coupe-Animath-printemps-2024.pdf"

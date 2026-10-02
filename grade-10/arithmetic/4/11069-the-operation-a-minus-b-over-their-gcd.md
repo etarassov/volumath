@@ -8,6 +8,7 @@ duration_min: 35
 tags: [pgcd, nombres-premiers, decomposition-en-facteurs-premiers, nombres-premiers-entre-eux, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 3 (arithmétique)"

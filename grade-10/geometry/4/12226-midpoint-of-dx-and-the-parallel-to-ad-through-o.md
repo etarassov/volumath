@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [cercle circonscrit, bissectrice, hauteur, symetrie axiale, vecteurs, angle inscrit]
+tags: [cercle-circonscrit, bissectrice, hauteur, symetrie-axiale, vecteurs, angle-inscrit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2015, jour 1"

@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [denombrement, symetries, rotations, cube, factorielle]
+tags: [denombrement, symetrie, rotation, cube, factorielle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Combinations and Pascal's Triangle"

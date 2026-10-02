@@ -8,6 +8,7 @@ duration_min: 40
 tags: [coloriage, pavage, parite, construction, damier]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2017"

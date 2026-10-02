@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [quadrilatere inscrit, angle inscrit, bissectrice, symetrie axiale, mediatrice, perpendicularite]
+tags: [quadrilatere-inscrit, angle-inscrit, bissectrice, symetrie-axiale, mediatrice, perpendicularite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de janvier, année 2011-2012"

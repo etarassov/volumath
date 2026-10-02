@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 60
-tags: [grille, estimation, principe des tiroirs, moyenne, construction]
+tags: [grille, estimation, principe-des-tiroirs, moyenne, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, Coupe Animath de printemps 2019"

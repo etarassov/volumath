@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 4
 duration_min: 25
-tags: [tiroirs, connaissances, demonstration, cas extremes]
+tags: [tiroirs, connaissances, demonstration, cas-extreme]
 adapted_from: null
 see_also: ["0285"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Beginners Circle, Pigeonhole Principle"

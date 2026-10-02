@@ -5,9 +5,10 @@ grade: 10
 theme: logic-reasoning
 difficulty: 3
 duration_min: 25
-tags: [jeu, strategie-gagnante, appariement, polynomes, racines]
+tags: [jeu, strategie-gagnante, appariement, polynome, racines]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 3 (arithmétique)"

@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [angle inscrit, bissectrice, triangle isocele, cercle circonscrit, pole sud]
+tags: [angle-inscrit, bissectrice, triangle-isocele, cercle-circonscrit, pole-sud]
 adapted_from: null
-see_also: []
+see_also: ["7438"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2017"

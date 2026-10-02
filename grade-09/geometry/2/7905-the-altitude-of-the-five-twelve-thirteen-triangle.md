@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 2
 duration_min: 15
-tags: [pythagore, triangle rectangle, aire, hauteur]
+tags: [pythagore, triangle-rectangle, aire, hauteur]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, Coupe Animath"

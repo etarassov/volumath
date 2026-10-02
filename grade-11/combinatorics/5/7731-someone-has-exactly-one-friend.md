@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 45
-tags: [principe de l extremum, maximum, amis, principe des tiroirs]
+tags: [principe-de-l-extremum, maximum, amis, principe-des-tiroirs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe A"

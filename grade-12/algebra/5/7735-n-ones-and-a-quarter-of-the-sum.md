@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 50
-tags: [invariant, inegalite, inverses, moyennes]
+tags: [invariant, inegalite, inverse, moyenne]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe B"

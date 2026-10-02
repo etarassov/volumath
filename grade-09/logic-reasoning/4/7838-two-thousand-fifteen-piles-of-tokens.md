@@ -5,9 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 4
 duration_min: 35
-tags: [invariant, parite, nombres premiers, comptage de coups]
+tags: [invariant, parite, nombres-premiers, comptage-de-coups]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"

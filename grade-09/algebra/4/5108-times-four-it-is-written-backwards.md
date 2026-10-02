@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 35
 tags: [chiffres, equation, mise-en-equation, parite]
 adapted_from: null
-see_also: []
+see_also: ["7816"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), « Place Value Problems », Harold Reiter"

@@ -8,10 +8,11 @@ duration_min: 35
 tags: [jeu, invariant, parite, polygone, triangulation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Mathematical Games, par Tatiana Shubin (San José State University)"
-  reference: "TShubinmathgames.pdf, jeu 4 ; le document ne donne aucune solution"
+  reference: "TShubinmathgames.pdf, jeu 4 ; le document ne donne aucune solution. Le cas d'un polygone régulier à 2014 côtés figure aussi dans stage_ete_2013.pdf, chapitre II, groupe A, « TD de stratégies de base », exercice 3, où il est résolu par symétrie."
   url: "https://mathcircles.org/activity/mathematical-games/"
   original_language: "en"
   local_copy: "sources/originals/namc/TShubinmathgames.pdf"
@@ -86,3 +87,4 @@ Or $n - 3$ est impair exactement quand $n$ est pair.
 1. On change la règle : le joueur qui trace la **dernière** diagonale a perdu. Qui gagne alors ?
 2. Le même raisonnement s'applique à d'autres jeux où le nombre de coups est fixé d'avance. Chercher une quantité qui augmente de $1$ à chaque coup dans le jeu suivant : on casse une tablette de chocolat en morceaux, un morceau à la fois, le long des rainures, et le joueur qui ne peut plus casser a perdu.
 3. Dans un polygone convexe à $n$ sommets, de combien de façons différentes peut-on arriver à la figure finale, c'est-à-dire découper le polygone en $n-2$ triangles par des diagonales ne se coupant pas ?
+4. Pour un polygone **régulier** à $2014$ côtés, on peut trouver la stratégie d'Alice sans rien compter. Elle trace d'abord une grande diagonale, qui joint deux sommets opposés, puis elle répond à chaque coup de Bob par la diagonale symétrique par rapport à cette grande diagonale. Montrer que cette réponse est toujours possible. Pourquoi cette stratégie ne marche-t-elle plus avec $2015$ côtés, et qui gagne alors ?

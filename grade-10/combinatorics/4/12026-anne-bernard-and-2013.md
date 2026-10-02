@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [principe des tiroirs, jeux, strategie gagnante, restes, puissances de 2, sous-ensembles]
+tags: [principe-des-tiroirs, jeu, strategie-gagnante, restes, puissances-de-2, sous-ensembles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test d'entraînement de janvier 2013"

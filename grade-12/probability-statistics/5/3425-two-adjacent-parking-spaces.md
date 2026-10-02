@@ -5,9 +5,10 @@ grade: 12
 theme: probability-statistics
 difficulty: 5
 duration_min: 45
-tags: [probabilite, denombrement, combinaisons, evenement contraire, rangements]
+tags: [probabilite, denombrement, combinaisons, evenement-contraire, rangement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12 Training, Week 4: Combinatorics"

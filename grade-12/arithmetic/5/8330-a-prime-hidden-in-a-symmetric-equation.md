@@ -8,6 +8,7 @@ duration_min: 55
 tags: [nombres-premiers, lemme-de-gauss, equation-diophantienne, factorisation, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: ["8666"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2020, cours du Groupe A (problème de la JBMO 2011)"

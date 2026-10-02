@@ -8,6 +8,7 @@ duration_min: 60
 tags: [maths-expertes, equation-fonctionnelle, divisibilite, nombres-premiers, lemme-de-gauss, infinite-des-nombres-premiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 1er avril 2020"

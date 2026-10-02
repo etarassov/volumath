@@ -5,9 +5,10 @@ grade: 8
 theme: coloring
 difficulty: 3
 duration_min: 25
-tags: [damier, parite, coloriage, chemin]
+tags: [damier, parite, coloriage, chemins]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"

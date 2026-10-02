@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [cercle, tangente, symetrie, mediatrice, pythagore, cordes]
+tags: [cercle, tangente, symetrie, mediatrice, pythagore, corde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de janvier 2023"

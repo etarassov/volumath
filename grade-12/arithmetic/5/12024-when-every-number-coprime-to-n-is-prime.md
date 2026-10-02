@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 75
-tags: [nombres premiers, premiers entre eux, decomposition en facteurs premiers, produit de nombres premiers, raisonnement par l'absurde]
+tags: [nombres-premiers, premiers-entre-eux, decomposition-en-facteurs-premiers, produit-de-nombres-premiers, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test d'entraînement de janvier 2013"

@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 90
-tags: [maths-expertes, congruences, petit-theoreme-de-fermat, theoreme-chinois, bezout, nombres-premiers]
+tags: [maths-expertes, congruences, petit-theoreme-de-fermat, theoreme-chinois, bezout, nombres-premiers, polynome]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 3 (arithmétique)"

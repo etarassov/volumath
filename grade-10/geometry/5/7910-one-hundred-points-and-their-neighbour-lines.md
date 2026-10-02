@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 50
-tags: [cercle, polygone regulier, mediatrice, symetrie, denombrement, points d intersection]
+tags: [cercle, polygone-regulier, mediatrice, symetrie, denombrement, points-d-intersection]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, Coupe Animath"

@@ -7,7 +7,8 @@ difficulty: 5
 duration_min: 45
 tags: [coloriage, triangle-equilateral, distance, raisonnement-par-l-absurde]
 adapted_from: null
-see_also: ["8148"]
+see_also: []
+same_as: ["8148"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2007"

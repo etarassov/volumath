@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [parite, reste, division euclidienne, entiers consecutifs, somme des entiers, absurde]
+tags: [parite, restes, division-euclidienne, entiers-consecutifs, somme-des-entiers, absurde]
 adapted_from: null
-see_also: ["7322"]
+see_also: []
+same_as: ["7322"]
 created: 2026-10-02
 source:
   name: "POFM, test de mai 2017"

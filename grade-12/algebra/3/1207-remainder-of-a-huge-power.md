@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [polynome, division-euclidienne, factorisation, reste, congruence]
+tags: [polynome, division-euclidienne, factorisation, restes, congruences]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 1, compétition d'automne 2023"

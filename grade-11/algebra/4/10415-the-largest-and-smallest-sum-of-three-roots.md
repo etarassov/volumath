@@ -8,6 +8,7 @@ duration_min: 45
 tags: [inegalite, racine-carree, extremum, carres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 3 (algèbre)"

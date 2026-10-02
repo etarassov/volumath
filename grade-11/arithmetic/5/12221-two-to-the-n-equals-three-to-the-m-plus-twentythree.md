@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 5
 duration_min: 50
-tags: [equation diophantienne, puissances, restes, divisibilite, congruences, recurrence]
+tags: [equation-diophantienne, puissances, restes, divisibilite, congruences, recurrence]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mars 2015"

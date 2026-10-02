@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 45
-tags: [construction, partition, sous-ensembles, sommes, denombrement]
+tags: [construction, partition, sous-ensembles, somme, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 23 et du 24 février 2022"

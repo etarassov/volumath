@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 1
 duration_min: 15
-tags: [denombrement, combinaisons, pourcentage]
+tags: [denombrement, combinaisons, pourcentages]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2014"

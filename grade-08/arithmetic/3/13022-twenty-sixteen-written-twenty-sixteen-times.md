@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [divisibilite, critere de divisibilite par 9, somme des chiffres, factorisation]
+tags: [divisibilite, critere-de-divisibilite-par-9, somme-des-chiffres, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, test de rentrée (Coupe Animath d'automne) du 1er octobre 2014"

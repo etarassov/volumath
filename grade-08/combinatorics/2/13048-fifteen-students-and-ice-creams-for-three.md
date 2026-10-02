@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 2
 duration_min: 15
-tags: [double comptage, paires, denombrement]
+tags: [double-comptage, paires, denombrement]
 adapted_from: null
-see_also: ["7131"]
+see_also: []
+same_as: ["7131"]
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, test de rentrée (Coupe Animath d'automne) du 7 octobre 2015"

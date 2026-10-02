@@ -5,9 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 3
 duration_min: 25
-tags: [jeu, strategie gagnante, divisibilite, dernier chiffre]
+tags: [jeu, strategie-gagnante, divisibilite, dernier-chiffre]
 adapted_from: null
 see_also: ["5303"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Mathematical Games, par Tatiana Shubin (San José State University)"

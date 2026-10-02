@@ -5,9 +5,10 @@ grade: 11
 theme: functions-analysis
 difficulty: 4
 duration_min: 30
-tags: [equation fonctionnelle, injectivite, raisonnement par l absurde]
+tags: [equation-fonctionnelle, injectivite, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Saint-Pierre-lès-Nemours 2009"

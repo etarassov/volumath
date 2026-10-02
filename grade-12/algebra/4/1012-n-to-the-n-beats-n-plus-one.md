@@ -1,13 +1,14 @@
 ---
 id: "1012"
-title: "Comparer $n^n$ et $(n+1)^{n-1}$"
+title: "Comparer nⁿ et (n + 1)ⁿ⁻¹"
 grade: 12
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [inegalite, puissances, binome de newton, majoration, suites]
+tags: [inegalite, puissances, binome-de-newton, majoration, suites]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Induction and Peano Axioms"

@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [nombres premiers, congruences, multiples de trois]
+tags: [nombres-premiers, congruences, multiples-de-trois]
 adapted_from: null
 see_also: ["0876"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

@@ -8,6 +8,7 @@ duration_min: 40
 tags: [bissectrice, triangle-isocele, angles-alternes-internes, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, Coupe Animath de printemps 2022"

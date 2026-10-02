@@ -8,6 +8,7 @@ duration_min: 35
 tags: [triangle-isocele, inegalite-triangulaire, somme-des-angles, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: ["8503"]
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »"

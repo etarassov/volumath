@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 3
 duration_min: 30
-tags: [denombrement, combinaisons avec repetition, bijection, cloisons]
+tags: [denombrement, combinaisons-avec-repetition, bijection, cloisons]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013"

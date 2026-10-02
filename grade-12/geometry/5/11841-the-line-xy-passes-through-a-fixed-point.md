@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [hors-programme, angles orientes, cercle, puissance d un point, point fixe, symetrie axiale, tangente]
+tags: [hors-programme, angles-orientes, cercle, puissance-d-un-point, point-fixe, symetrie-axiale, tangente]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 5 (pot-pourri)"

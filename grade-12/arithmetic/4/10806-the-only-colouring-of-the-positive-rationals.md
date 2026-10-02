@@ -8,6 +8,7 @@ duration_min: 45
 tags: [rationnels, fractions, recurrence, unicite, construction, algorithme-d-euclide]
 adapted_from: null
 see_also: ["10802"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 3 (arithmétique)"

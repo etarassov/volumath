@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [denombrement, permutations, symetrie, rotations]
+tags: [denombrement, permutations, symetrie, rotation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Intro to combinatorics and probability"

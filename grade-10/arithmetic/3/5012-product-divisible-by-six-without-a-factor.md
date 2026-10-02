@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [divisibilite, nombres premiers, restes, contre-exemple]
+tags: [divisibilite, nombres-premiers, restes, contre-exemple]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), « Introduction to Finite Systems: Z6 and Z7 », Harold Reiter, Teachers' Circle Workshop"

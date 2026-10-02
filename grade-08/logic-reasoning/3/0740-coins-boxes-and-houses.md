@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 3
 duration_min: 20
-tags: [comptage double, encadrement, raisonnement par l absurde]
+tags: [comptage-double, encadrement, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024"

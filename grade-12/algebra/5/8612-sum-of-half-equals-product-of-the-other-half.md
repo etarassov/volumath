@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 60
-tags: [equation, echange de deux termes, parite, analyse synthese]
+tags: [equation, echange-de-deux-termes, parite, analyse-synthese]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023"

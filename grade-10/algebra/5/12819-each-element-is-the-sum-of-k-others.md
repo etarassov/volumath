@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 5
 duration_min: 50
-tags: [construction, ordre, inegalite, sommes, extremal]
+tags: [construction, ordre, inegalite, somme, extremal]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de février 2023"

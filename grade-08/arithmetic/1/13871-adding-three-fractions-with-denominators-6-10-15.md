@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 1
 duration_min: 5
-tags: [fractions, denominateur commun, calcul]
+tags: [fractions, denominateur-commun, calcul]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2025"

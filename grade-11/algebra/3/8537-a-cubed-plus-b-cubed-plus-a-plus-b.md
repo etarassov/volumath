@@ -1,6 +1,6 @@
 ---
 id: "8537"
-title: "a³ + b³ + a + b ⩾ 4ab"
+title: "a³ + b³ + a + b ≥ 4ab"
 grade: 11
 theme: algebra
 difficulty: 3
@@ -8,6 +8,7 @@ duration_min: 25
 tags: [inegalite, factorisation, carre, cas-degalite]
 adapted_from: null
 see_also: []
+same_as: ["8414"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe A"

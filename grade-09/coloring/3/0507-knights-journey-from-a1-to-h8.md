@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 20
 tags: [echiquier, cavalier, coloriage, parite, demonstration]
 adapted_from: null
-see_also: ["0135"]
+see_also: ["2225"]
+same_as: ["0135"]
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей"

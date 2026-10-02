@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 1
 duration_min: 10
-tags: [rectangle, perimetre, longueur, figure]
+tags: [rectangle, perimetre, longueurs, figure]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024"

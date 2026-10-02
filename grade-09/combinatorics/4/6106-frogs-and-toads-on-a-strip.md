@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 45
-tags: [invariant, comptage, deplacements, strategie, jeu-de-taquin]
+tags: [invariant, comptage, deplacement, strategie, jeu-de-taquin]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular Summer 2013, rubrique « Problem Circle »"

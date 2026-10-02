@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [cercle inscrit, bissectrice, symetrie axiale, tangente, perpendicularite]
+tags: [cercle-inscrit, bissectrice, symetrie-axiale, tangente, perpendicularite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 5 (pot-pourri)"

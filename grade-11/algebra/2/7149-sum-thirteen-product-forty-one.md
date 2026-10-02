@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 2
 duration_min: 15
-tags: [identites remarquables, somme et produit, polynomes symetriques]
+tags: [identites-remarquables, somme-et-produit, polynomes-symetriques]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2015"

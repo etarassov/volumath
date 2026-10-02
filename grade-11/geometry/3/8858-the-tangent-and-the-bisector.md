@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [angle tangentiel, bissectrice, cercle circonscrit, triangle isocele, chasse aux angles]
+tags: [angle-tangentiel, bissectrice, cercle-circonscrit, triangle-isocele, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: ["8449"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, entraînement de fin de parcours du Groupe A"

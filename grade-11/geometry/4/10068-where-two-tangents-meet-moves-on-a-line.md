@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 60
-tags: [lieu geometrique, tangente, cercle, produit scalaire, repere, bissectrice, systeme lineaire]
+tags: [lieu-geometrique, tangente, cercle, produit-scalaire, repere, bissectrice, systeme-lineaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2017-2018 n° 2 (géométrie)"

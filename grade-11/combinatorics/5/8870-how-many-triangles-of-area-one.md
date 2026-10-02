@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 40
-tags: [double comptage, aire, droites paralleles, majoration, points alignes]
+tags: [double-comptage, aire, droites-paralleles, majoration, points-alignes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe B, « Combinatoire : Double comptage » (Noé)"

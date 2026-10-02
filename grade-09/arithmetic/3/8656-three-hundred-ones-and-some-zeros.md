@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [carre parfait, somme des chiffres, divisibilite par neuf]
+tags: [carre-parfait, somme-des-chiffres, divisibilite-par-neuf]
 adapted_from: null
-see_also: ["8726"]
+see_also: []
+same_as: ["8726"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

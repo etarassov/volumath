@@ -8,6 +8,7 @@ duration_min: 20
 tags: [second-degre, racines, somme-et-produit, grands-nombres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Quadratic Inequalities"

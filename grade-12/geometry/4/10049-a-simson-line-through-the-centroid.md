@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [nombres complexes, maths-expertes, droite de simson, orthocentre, centre de gravite, cercle circonscrit, alignement]
+tags: [nombres-complexes, maths-expertes, droite-de-simson, orthocentre, centre-de-gravite, cercle-circonscrit, alignement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 2 (géométrie)"

@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [principe de l extremum, inegalite triangulaire, minimum, appariement]
+tags: [principe-de-l-extremum, inegalite-triangulaire, minimum, appariement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"

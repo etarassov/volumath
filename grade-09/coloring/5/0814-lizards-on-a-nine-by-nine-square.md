@@ -5,9 +5,10 @@ grade: 9
 theme: coloring
 difficulty: 5
 duration_min: 45
-tags: [coloriage, bandes, minimum, construction, diagonale]
+tags: [coloriage, bandes, minimum, construction, diagonales]
 adapted_from: null
 see_also: ["0179"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »"

@@ -8,6 +8,7 @@ duration_min: 30
 tags: [nombres-premiers, contre-exemple, factorisation, conjecture]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Introduction to Induction (Olga Radko)"

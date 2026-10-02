@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [probabilite, denombrement, combinaisons, polygone regulier]
+tags: [probabilite, denombrement, combinaisons, polygone-regulier]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, Mid-Quarter Competition"

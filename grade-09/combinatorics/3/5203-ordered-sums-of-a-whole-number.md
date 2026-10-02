@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 30
-tags: [denombrement, bijection, puissances-de-deux, sommes]
+tags: [denombrement, bijection, puissances-de-deux, somme]
 adapted_from: null
 see_also: ["5204"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Compositions — Josh Zucker"

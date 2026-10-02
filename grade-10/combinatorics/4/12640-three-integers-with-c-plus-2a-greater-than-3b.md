@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [inegalites, puissances, principe-extremal, ecarts, raisonnement-par-l-absurde]
+tags: [inegalite, puissances, principe-extremal, ecarts, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 12 janvier 2022"

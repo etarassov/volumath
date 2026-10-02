@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 5
 duration_min: 60
-tags: [invariant, parite, quadrillage, disque, signes]
+tags: [invariant, parite, quadrillage, disque, signe]
 adapted_from: null
 see_also: ["7118"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 1 (combinatoire)"

@@ -8,6 +8,7 @@ duration_min: 35
 tags: [triangle-rectangle, hauteur, bissectrice, cercle-inscrit, triangle-isocele, mediatrice, cercle-de-diametre, cocyclicite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 1 (géométrie)"

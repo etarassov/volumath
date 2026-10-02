@@ -8,6 +8,7 @@ duration_min: 30
 tags: [espace, tetraedre, volume, pythagore, systeme]
 adapted_from: null
 see_also: ["3412"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School I, Relays"

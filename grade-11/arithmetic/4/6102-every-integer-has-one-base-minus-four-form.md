@@ -8,6 +8,7 @@ duration_min: 45
 tags: [bases-de-numeration, division-euclidienne, existence-et-unicite, recurrence, entiers-relatifs]
 adapted_from: null
 see_also: ["6101"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular Winter 2012, rubrique « Problem Circle »"

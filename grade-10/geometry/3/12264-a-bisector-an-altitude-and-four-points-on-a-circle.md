@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [triangle rectangle, bissectrice, triangle isocele, hauteur, angle inscrit, cocyclicite]
+tags: [triangle-rectangle, bissectrice, triangle-isocele, hauteur, angle-inscrit, cocyclicite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de janvier 2017"

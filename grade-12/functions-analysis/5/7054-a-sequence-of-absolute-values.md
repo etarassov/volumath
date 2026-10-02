@@ -5,9 +5,10 @@ grade: 12
 theme: functions-analysis
 difficulty: 5
 duration_min: 60
-tags: [valeur absolue, suite recurrente, periodicite, disjonction de cas]
+tags: [valeur-absolue, suite-recurrente, periodicite, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Saint-Pierre-lès-Nemours 2009"

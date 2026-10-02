@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 50
-tags: [jeu, strategie-gagnante, polynomes, racines, signe, appariement, encadrement]
+tags: [jeu, strategie-gagnante, polynome, racines, signe, appariement, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 20 novembre 2024"

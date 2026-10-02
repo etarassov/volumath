@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [chiffres, retenues, parite, raisonnement par l absurde, demonstration]
+tags: [chiffres, retenues, parite, raisonnement-par-l-absurde, demonstration]
 adapted_from: null
 see_also: []
+same_as: ["0690"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2017"

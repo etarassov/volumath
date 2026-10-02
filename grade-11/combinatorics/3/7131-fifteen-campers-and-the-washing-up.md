@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [double comptage, paires, coefficients binomiaux]
+tags: [double-comptage, paires, coefficients-binomiaux]
 adapted_from: null
 see_also: []
+same_as: ["13048"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013"

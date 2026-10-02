@@ -5,8 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [chiffres, paires, denombrement, echange]
+tags: [chiffres, paires, denombrement, echanges]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017"

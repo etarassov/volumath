@@ -8,6 +8,7 @@ duration_min: 45
 tags: [chiffres, puissances-de-deux, denombrement, majoration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 23 novembre 2022"

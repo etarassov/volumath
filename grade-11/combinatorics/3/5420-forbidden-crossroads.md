@@ -8,6 +8,7 @@ duration_min: 35
 tags: [denombrement, chemins, quadrillage, coefficient-binomial, obstacles]
 adapted_from: null
 see_also: ["0401"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Locked Out: A Breakout Box Session for Your Circle — fiche « I Walk the Line(s) », Aimee S. Johnson et Joshua M. Sabloff"

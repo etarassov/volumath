@@ -116,13 +116,6 @@
    "title": "Les entiers de 1 à 2022 et leurs différences"
   },
   {
-   "id": "8512",
-   "grade": 10,
-   "theme": "algebra",
-   "difficulty": 2,
-   "title": "De x + 1/x à x² + 1/x²"
-  },
-  {
    "id": "8515",
    "grade": 10,
    "theme": "algebra",
@@ -470,8 +463,8 @@
   },
   {
    "what": "11 nombres parmi 1..20, l'un divise l'autre",
-   "reason": "deja dans la base ; la version generale a ete importee sous 8569 avec see_also",
-   "survivor": "5220"
+   "reason": "deja dans la base ; la version generale a ete importee sous 8569 avec see_also. Le survivant 5220 a lui-même été retiré le 2026-10-02 au profit de 8569.",
+   "survivor": "8569"
   },
   {
    "what": "ligne fermee symetrique sur une grille 15 x 15",
@@ -593,6 +586,12 @@
    "survivor": "7731",
    "date": "2026-09-30",
    "why": "Retiré le 2026-09-30 : même problème que 7731 (grade-11/combinatorics/5/7731-someone-has-exactly-one-friend.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "8512",
+   "survivor": "8209",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : même problème que 8209 (grade-10/algebra/2/8209-x-plus-one-over-x-squared.md), au même niveau. Doublon repéré lors de la relecture qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
   }
  ],
  "notes": [
@@ -609,7 +608,7 @@
   "Doublons a arbitrer par le coordinateur, aucun fichier n'a ete supprime : 8512 / 8209 (meme dossier, meme titre), 8540 / 8220 (meme dossier), 8527 / 7217 (meme dossier), 8580 / 8630 (meme dossier), 8535 / 7229 et 8828 (meme niveau), 8551 / 1217, 7718 et 7847 (meme dossier).",
   "Liens see_also poses depuis mes fichiers : 8512->8209, 8522->8628, 8539->0554, 8545->8430, 8551->1217, 8569->5220, 8571->8843, 8575->7232 et 8834, 8584->4601."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-02",
  "files": [
   {
    "file": "Poly_Valbonne_2022-Corrigé-1.pdf",

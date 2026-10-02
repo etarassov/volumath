@@ -1,6 +1,6 @@
 ---
 id: "10405"
-title: "L'inéquation fonctionnelle f(xy) ⩽ x f(y)"
+title: "L'inéquation fonctionnelle f(xy) ≤ x f(y)"
 grade: 11
 theme: algebra
 difficulty: 4
@@ -8,6 +8,7 @@ duration_min: 40
 tags: [equation-fonctionnelle, inegalite, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 4 (algèbre)"

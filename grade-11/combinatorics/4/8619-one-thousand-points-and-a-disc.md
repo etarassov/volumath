@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [principe des tiroirs, ensemble maximal, distance, recouvrement]
+tags: [principe-des-tiroirs, ensemble-maximal, distance, recouvrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

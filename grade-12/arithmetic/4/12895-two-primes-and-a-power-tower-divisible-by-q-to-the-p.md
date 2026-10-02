@@ -8,6 +8,7 @@ duration_min: 50
 tags: [nombres-premiers, congruences, petit-theoreme-de-fermat, puissances, divisibilite, recurrence, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 14 mai 2025"

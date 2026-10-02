@@ -8,6 +8,7 @@ duration_min: 30
 tags: [chevaliers, menteurs, cas, information]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Beginners, Knights and Knaves"

@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 4
 duration_min: 30
-tags: [trapeze, parallelogramme, triangle equilateral, angles, losange]
+tags: [trapeze, parallelogramme, triangle-equilateral, angles, losange]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2017"

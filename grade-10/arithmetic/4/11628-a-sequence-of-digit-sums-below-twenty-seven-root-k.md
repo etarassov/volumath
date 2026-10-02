@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [somme des chiffres, ecriture decimale, inegalites, puissances de dix, suites]
+tags: [somme-des-chiffres, ecriture-decimale, inegalite, puissances-de-dix, suites]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 6 (pot-pourri)"

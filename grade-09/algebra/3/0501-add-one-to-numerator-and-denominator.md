@@ -7,6 +7,8 @@ difficulty: 3
 duration_min: 20
 tags: [fractions, comparaison, calcul-litteral, produit-en-croix]
 adapted_from: null
+see_also: ["1022"]
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей"

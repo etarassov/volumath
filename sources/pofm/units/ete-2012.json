@@ -26,7 +26,6 @@
   "7514",
   "7515",
   "7517",
-  "7518",
   "7519",
   "7520",
   "7521",
@@ -116,6 +115,12 @@
    "survivor": "7755",
    "date": "2026-09-30",
    "why": "Retiré le 2026-09-30 : même problème que 7755 (grade-09/combinatorics/4/7755-girls-and-boys-side-by-side.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7518",
+   "survivor": "7428",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : même problème que 7428 (grade-10/algebra/3/7428-an-alternating-sum-below-two-fifths.md), au même niveau. Repéré lors du tri des liens see_also et same_as qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
   }
  ],
  "notes": [
@@ -137,7 +142,7 @@
   "OU REPRENDRE : le chapitre V « La Muraille » est epuise. Il reste a depouiller, dans ce document, le chapitre VII « Test de selection » (pages 263 a 270 du PDF), les tests de mi-parcours et de fin de periode, les cours des chapitres III et IV au-dela de l'arithmetique 4e-3e deja survolee, et la Coupe Animath en debut de document. Un second passage peut aussi reprendre les exercices 74, 91 et 95 de la Muraille, tous ecartes pour cause de solution imprimee douteuse ou de demonstration non aboutie (details dans skipped).",
   "DOUBLONS A ARBITRER PAR LE COORDINATEUR, RIEN SUPPRIME (regle du brief). Paires ou mes fichiers rencontrent ceux d'autres agents : 7509 (g9) = 8462 (g10) = 7626 (g10), meme probleme A + 2B + 4 carre parfait, cross-links poses ; 7510 (g9) = 7620 (g10), 35 divise 3^6n - 2^6n, cross-link pose ; 7516 (g9) = 7618 (g10), filles et garcons en cercle, cross-link pose ; 7536 (g11) = 8677 (g12), moyenne des plus petits elements, cross-link pose ; 7507 (g8) = 8149 (g10), des centimes aux euros, cross-link deja pose. DEUX PAIRES AU MEME GRADE, a trancher : 7517 et 7627 sont dans le MEME dossier grade-10/logic-reasoning/3 et sont le meme probleme (segments d'une droite deux a deux secants, point commun) ; 7518 (grade-10/algebra/4) et 7428 (grade-10/algebra/3) sont la meme somme alternee < 2/5, meme grade, dossiers de difficulte differents. Dans les deux cas j'ai garde mon fichier et pose un see_also, conformement a la regle qui interdit de supprimer."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-02",
  "files": [
   {
    "file": "stage_ete_2012.pdf",

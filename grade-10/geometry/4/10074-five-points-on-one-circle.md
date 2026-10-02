@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 60
-tags: [cercles secants, tangente commune, angle inscrit, tangente, triangle isocele, alignement, points cocycliques, chasse aux angles]
+tags: [cercles-secants, tangente-commune, angle-inscrit, tangente, triangle-isocele, alignement, points-cocycliques, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 1 (géométrie)"

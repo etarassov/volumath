@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 2
 duration_min: 10
-tags: [chiffres, somme des chiffres, produit, denombrement]
+tags: [chiffres, somme-des-chiffres, produit, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2018, éliminatoires"

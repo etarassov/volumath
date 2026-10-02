@@ -8,6 +8,7 @@ duration_min: 30
 tags: [pgcd, ppcm, equation-diophantienne, factorisation, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 3 (arithmétique)"

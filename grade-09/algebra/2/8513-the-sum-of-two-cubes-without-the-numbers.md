@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 2
 duration_min: 20
-tags: [identite-remarquable, factorisation, somme-et-produit]
+tags: [identites-remarquables, factorisation, somme-et-produit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe A"

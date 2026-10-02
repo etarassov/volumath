@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercle circonscrit, cercle inscrit, orthocentre, angle inscrit, vecteurs, cocyclicite, triangle equilateral]
+tags: [cercle-circonscrit, cercle-inscrit, orthocentre, angle-inscrit, vecteurs, cocyclicite, triangle-equilateral]
 adapted_from: null
 see_also: ["7749"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 2 (géométrie)"

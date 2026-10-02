@@ -8,6 +8,7 @@ duration_min: 25
 tags: [triangle-equilateral, aire, hauteur, decoupage, invariant]
 adapted_from: null
 see_also: []
+same_as: ["10215"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2, «Geometric Optimization»"

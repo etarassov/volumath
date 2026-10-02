@@ -8,6 +8,7 @@ duration_min: 45
 tags: [probabilite, denombrement, cartes, coefficient-binomial, surcomptage]
 adapted_from: null
 see_also: ["2408"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, Probability"

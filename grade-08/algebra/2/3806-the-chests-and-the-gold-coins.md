@@ -5,9 +5,10 @@ grade: 8
 theme: algebra
 difficulty: 2
 duration_min: 15
-tags: [equation, mise en equation, division euclidienne]
+tags: [equation, mise-en-equation, division-euclidienne]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, Mid-Quarter Competition"

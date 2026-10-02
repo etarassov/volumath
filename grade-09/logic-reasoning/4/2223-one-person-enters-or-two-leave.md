@@ -5,9 +5,10 @@ grade: 9
 theme: logic-reasoning
 difficulty: 4
 duration_min: 35
-tags: [invariant, divisibilite, reste, raisonnement]
+tags: [invariant, divisibilite, restes, raisonnement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, Invariants II"

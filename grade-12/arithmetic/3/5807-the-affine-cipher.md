@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 3
 duration_min: 35
-tags: [congruences, bezout, inverse modulaire, cryptographie]
+tags: [congruences, bezout, inverse-modulaire, cryptographie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Codes, Ciphers, and Secrets (Anne M. Ho)"

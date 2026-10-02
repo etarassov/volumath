@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 1
 duration_min: 10
-tags: [denombrement, quadrillage, diagonale]
+tags: [denombrement, quadrillage, diagonales]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2022, premier tour"

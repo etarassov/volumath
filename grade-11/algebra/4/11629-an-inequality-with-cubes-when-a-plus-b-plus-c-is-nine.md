@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [inegalites, identites remarquables, cubes, tangente, cas d'egalite]
+tags: [inegalite, identites-remarquables, cubes, tangente, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 6 (pot-pourri)"

@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [tangente, angle tangentiel, bissectrice, triangle isocele, angle exterieur]
+tags: [tangente, angle-tangentiel, bissectrice, triangle-isocele, angle-exterieur]
 adapted_from: null
-see_also: []
+see_also: ["8449"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Saint-Chéron 2024"

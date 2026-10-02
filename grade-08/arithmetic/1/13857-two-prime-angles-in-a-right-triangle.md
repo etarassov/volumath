@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 1
 duration_min: 10
-tags: [nombres premiers, angles, triangle rectangle]
+tags: [nombres-premiers, angles, triangle-rectangle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2022, premier tour"

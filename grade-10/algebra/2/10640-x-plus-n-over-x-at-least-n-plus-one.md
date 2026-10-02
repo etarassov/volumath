@@ -1,6 +1,6 @@
 ---
 id: "10640"
-title: "x + n/x ⩾ n + 1 quand x ⩾ n"
+title: "x + n/x ≥ n + 1 quand x ≥ n"
 grade: 10
 theme: algebra
 difficulty: 2
@@ -8,6 +8,7 @@ duration_min: 15
 tags: [inegalite, factorisation, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 2 (algèbre)"

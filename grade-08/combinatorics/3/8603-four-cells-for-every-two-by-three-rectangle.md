@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 3
 duration_min: 30
-tags: [grille, coloriage, minimum, rectangles disjoints]
+tags: [grille, coloriage, minimum, rectangles-disjoints]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023"

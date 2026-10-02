@@ -8,6 +8,7 @@ duration_min: 40
 tags: [diviseurs, nombres-premiers, decomposition-en-facteurs-premiers, somme-geometrique, factorisation, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 2 (arithmétique)"

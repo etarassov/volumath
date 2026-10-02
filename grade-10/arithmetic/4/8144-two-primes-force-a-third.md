@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 25
-tags: [nombre-premier, divisibilite, congruences, disjonction-de-cas]
+tags: [nombres-premiers, divisibilite, congruences, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, La Muraille"

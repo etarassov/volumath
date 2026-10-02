@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [equation entiere, factorisation, entiers naturels, diviseurs]
+tags: [equation-entiere, factorisation, entiers-naturels, diviseurs]
 adapted_from: null
-see_also: ["0760"]
+see_also: []
+same_as: ["0760"]
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Calcul », niveau collège - débutants, 16 avril 2024"

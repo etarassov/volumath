@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercles, tangentes, symetrie axiale, bissectrice, perpendicularite, pythagore]
+tags: [cercle, tangente, symetrie-axiale, bissectrice, perpendicularite, pythagore]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 15 janvier 2014"

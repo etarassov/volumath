@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [inegalite, factorisation, identite-remarquable, somme-de-carres, developpement, cas-d-egalite]
+tags: [inegalite, factorisation, identites-remarquables, somme-de-carres, developpement, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection des 19 et 20 février 2025"

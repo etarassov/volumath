@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 45
-tags: [decoupage, rectangles, double comptage, coins, invariant]
+tags: [decoupage, rectangle, double-comptage, coins, invariant]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2015, jour 2"

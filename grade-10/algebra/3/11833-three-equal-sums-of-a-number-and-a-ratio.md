@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [systeme, inegalite, moyenne arithmetique et geometrique, racine carree, cas d egalite]
+tags: [systeme, inegalite, moyenne-arithmetique-et-geometrique, racine-carree, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 5 (pot-pourri)"

@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [diviseurs, nombres premiers, decomposition]
+tags: [diviseurs, nombres-premiers, decomposition]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"

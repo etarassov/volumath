@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [inegalites, signe-d-un-produit, developpement, symetrie]
+tags: [inegalite, signe-d-un-produit, developpement, symetrie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2024, cours de Groupe A"

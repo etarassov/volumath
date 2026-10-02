@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [monovariant, denombrement, paires, processus fini]
+tags: [monovariant, denombrement, paires, processus-fini]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, cours de Groupe C"

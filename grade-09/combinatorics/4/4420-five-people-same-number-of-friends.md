@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 25
-tags: [tiroirs, amitie, absurde, denombrement]
+tags: [tiroirs, amities, absurde, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Pigeonhole Principle"

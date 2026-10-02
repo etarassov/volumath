@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 45
-tags: [invariant, monotonie, comptage, suites dentiers, stabilisation]
+tags: [invariant, monotonie, comptage, suites-dentiers, stabilisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe B, « Combinatoire : Révisions » (Maryam), d'après les stages de Valbonne 2018 et 2023"

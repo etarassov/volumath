@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 2
 duration_min: 20
-tags: [invariant, parite, tableau, signes]
+tags: [invariant, parite, tableau, signe]
 adapted_from: null
 see_also: ["7118"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, cours de Groupe C"

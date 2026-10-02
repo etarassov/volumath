@@ -8,6 +8,7 @@ duration_min: 45
 tags: [strategie, information, ecriture-en-base, polynome, entiers]
 adapted_from: null
 see_also: []
+same_as: ["8157"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, Number Bases"

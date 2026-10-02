@@ -8,6 +8,7 @@ duration_min: 20
 tags: [invariant, parite, damier, coloriage]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe B, « Combinatoire : Grilles » (Oscar et Paul LL)"

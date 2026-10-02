@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [cercles tangents, tangente, droites concourantes, reperes, equation de cercle, produit scalaire]
+tags: [cercles-tangents, tangente, droites-concourantes, repere, equation-de-cercle, produit-scalaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 2 (géométrie)"

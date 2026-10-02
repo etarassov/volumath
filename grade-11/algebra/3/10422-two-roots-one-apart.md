@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [polynomes, second-degre, discriminant, factorisation, parametre]
+tags: [polynome, second-degre, discriminant, factorisation, parametre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 4 (algèbre)"

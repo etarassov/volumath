@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 2
 duration_min: 20
-tags: [developpement, identites, polynomes, symetrie]
+tags: [developpement, identite, polynome, symetrie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"

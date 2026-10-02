@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [inegalite, changement-de-variable, inverses, produit-egal-a-un, somme-cyclique]
+tags: [inegalite, changement-de-variable, inverse, produit-egal-a-un, somme-cyclique]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 2 (algèbre)"

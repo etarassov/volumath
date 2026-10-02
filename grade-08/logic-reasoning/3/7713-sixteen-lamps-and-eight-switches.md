@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 3
 duration_min: 25
-tags: [invariant, parite, tableau, allume eteint]
+tags: [invariant, parite, tableau, allume-eteint]
 adapted_from: null
-see_also: []
+see_also: ["8120"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe A"

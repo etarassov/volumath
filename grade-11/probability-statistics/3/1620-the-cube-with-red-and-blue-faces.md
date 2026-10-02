@@ -5,9 +5,10 @@ grade: 11
 theme: probability-statistics
 difficulty: 3
 duration_min: 30
-tags: [probabilites, denombrement, equiprobabilite, cube, disjonction-de-cas]
+tags: [probabilite, denombrement, equiprobabilite, cube, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2A, Group Competition"

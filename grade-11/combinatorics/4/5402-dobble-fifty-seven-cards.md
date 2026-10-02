@@ -8,6 +8,7 @@ duration_min: 40
 tags: [dobble, denombrement, comptage-double, paires, cartes]
 adapted_from: null
 see_also: ["5401", "6015"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Can you « Spot it! », Calvin Jongsma et Thomas J. Clark"

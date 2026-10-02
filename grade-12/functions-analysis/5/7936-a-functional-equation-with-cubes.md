@@ -5,9 +5,10 @@ grade: 12
 theme: functions-analysis
 difficulty: 5
 duration_min: 45
-tags: [equation fonctionnelle, substitution, fonction affine, identite remarquable]
+tags: [equation-fonctionnelle, substitution, fonction-affine, identites-remarquables]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, test de fin de parcours"

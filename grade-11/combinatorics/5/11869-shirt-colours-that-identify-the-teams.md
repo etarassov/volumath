@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 60
-tags: [algorithme glouton, extremalite, partie entiere, construction]
+tags: [algorithme-glouton, extremalite, partie-entiere, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 5 (pot-pourri)"

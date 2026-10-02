@@ -5,9 +5,10 @@ grade: 12
 theme: functions-analysis
 difficulty: 4
 duration_min: 45
-tags: [suites, recurrence, majoration, binome de newton, suite geometrique, nombre e]
+tags: [suites, recurrence, majoration, binome-de-newton, suite-geometrique, nombre-e]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Euler's number"

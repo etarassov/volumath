@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 50
-tags: [inegalite, moyenne, maximum, minimum, disjonction de cas, extremum]
+tags: [inegalite, moyenne, maximum, minimum, disjonction-de-cas, extremum]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2025"

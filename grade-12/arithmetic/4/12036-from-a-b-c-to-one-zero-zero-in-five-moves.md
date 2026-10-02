@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 50
-tags: [maths-expertes, bezout, pgcd, nombres premiers, premiers entre eux, algorithme]
+tags: [maths-expertes, bezout, pgcd, nombres-premiers, premiers-entre-eux, algorithme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 24 mars 2013"

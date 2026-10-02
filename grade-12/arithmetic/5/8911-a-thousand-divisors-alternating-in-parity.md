@@ -8,6 +8,7 @@ duration_min: 50
 tags: [diviseurs, parite, minoration, puissances-de-deux, nombre-de-chiffres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, Coupe Animath de printemps 2026"

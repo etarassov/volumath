@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [aire, determinant, vecteurs, milieux, parallelogramme, quadrilatere, produit scalaire]
+tags: [aire, determinant, vecteurs, milieu, parallelogramme, quadrilatere, produit-scalaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 1 (géométrie)"

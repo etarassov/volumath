@@ -5,8 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [divisibilite, reste, tiroirs, identites-remarquables]
+tags: [divisibilite, restes, tiroirs, identites-remarquables]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, «Математический кружок (8 класс)», сост. А. Л. Канунников, 2017"

@@ -191,7 +191,6 @@
   "12014",
   "12015",
   "12016",
-  "12017",
   "12018",
   "12019",
   "12020",
@@ -232,7 +231,6 @@
   "12055",
   "12056",
   "12057",
-  "12058",
   "12059",
   "12060",
   "12061",
@@ -480,5 +478,19 @@
   "Doublon à arbitrer, même classe : 12058 (1re, 5 étoiles, test de mai 2014 exercice 2) et 11654 (1re, 5 étoiles, envoi 5 de 2017-2018, groupe A exercice 9, bloc d'un autre agent) sont le même problème (les cercles MEF et NEF ont le même rayon). Aucun fichier supprimé, au coordinateur de choisir.",
   "Vérification finale : vm.py check sans erreur sur les ids 12001 à 12065 (la seule erreur signalée concerne 10052, hors de ce bloc) ; les 65 exercices construits en une fois, 0 avertissement pandoc ; les 65 ids du registre existent sur le disque et inversement ; ids 12066 à 12200 non utilisés."
  ],
- "updated": "2026-10-01"
+ "updated": "2026-10-02",
+ "retired_ids": [
+  {
+   "id": "12058",
+   "survivor": "11654",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : même problème que 11654 (grade-11/geometry/5/11654-two-circumcircles-with-the-same-radius.md), au même niveau. Doublon repéré lors de la relecture qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "12017",
+   "survivor": "10819",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : même problème que 10819 (grade-12/arithmetic/3/10819-when-p-divides-a-to-the-n-minus-one-so-does-p-squared.md), au même niveau. Doublon repéré lors de la relecture qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
+  }
+ ]
 }

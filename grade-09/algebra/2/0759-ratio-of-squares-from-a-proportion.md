@@ -8,6 +8,7 @@ duration_min: 15
 tags: [produit-en-croix, fractions, calcul-litteral]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Problèmes divers », niveau collège - débutants, 9 février 2024"

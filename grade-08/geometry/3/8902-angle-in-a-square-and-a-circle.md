@@ -8,6 +8,7 @@ duration_min: 20
 tags: [carre, cercle, triangle-isocele, somme-des-angles, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, Coupe Animath de printemps 2026"

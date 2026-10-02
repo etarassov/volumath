@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [equation-en-entiers, fraction, encadrement, symetrie, cas-a-traiter]
+tags: [equation-en-entiers, fractions, encadrement, symetrie, cas-a-traiter]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe B"

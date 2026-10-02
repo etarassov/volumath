@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [nombres premiers, divisibilite, fractions, parite, disjonction de cas]
+tags: [nombres-premiers, divisibilite, fractions, parite, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 5 (pot-pourri)"

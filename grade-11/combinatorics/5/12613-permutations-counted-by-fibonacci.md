@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 60
-tags: [permutation, denombrement, fibonacci, suite-recurrente, recurrence, inegalite]
+tags: [permutations, denombrement, fibonacci, suite-recurrente, recurrence, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection des 14 et 21 février 2021"

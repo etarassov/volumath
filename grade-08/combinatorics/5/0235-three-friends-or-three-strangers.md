@@ -5,8 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 5
 duration_min: 35
-tags: [principe-des-tiroirs, disjonction-de-cas, graphes, demonstration]
+tags: [principe-des-tiroirs, disjonction-de-cas, graphe, demonstration]
 adapted_from: null
+see_also: ["11219"]
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей"

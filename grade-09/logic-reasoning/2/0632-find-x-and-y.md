@@ -8,6 +8,7 @@ duration_min: 20
 tags: [ensembles, union, intersection, produit-cartesien, couples]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »"

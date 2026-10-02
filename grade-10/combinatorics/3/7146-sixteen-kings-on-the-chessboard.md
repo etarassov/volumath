@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [echiquier, decoupage en blocs, majoration, construction]
+tags: [echiquier, decoupage-en-blocs, majoration, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2016"

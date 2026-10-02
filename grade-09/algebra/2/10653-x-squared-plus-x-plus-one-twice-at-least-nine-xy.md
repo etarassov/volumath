@@ -1,6 +1,6 @@
 ---
 id: "10653"
-title: "(x² + x + 1)(y² + y + 1) ⩾ 9xy"
+title: "(x² + x + 1)(y² + y + 1) ≥ 9xy"
 grade: 9
 theme: algebra
 difficulty: 2
@@ -8,6 +8,7 @@ duration_min: 15
 tags: [inegalite, carre, produit, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 2 (algèbre)"

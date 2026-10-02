@@ -5,9 +5,10 @@ grade: 12
 theme: probability-statistics
 difficulty: 5
 duration_min: 60
-tags: [probabilite, permutation, cycle, denombrement, comparaison-serie-integrale]
+tags: [probabilite, permutations, cycle, denombrement, comparaison-serie-integrale]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2008"

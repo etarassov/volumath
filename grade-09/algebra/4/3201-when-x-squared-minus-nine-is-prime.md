@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 4
 duration_min: 20
-tags: [nombres premiers, identites remarquables, difference de carres, valeur absolue]
+tags: [nombres-premiers, identites-remarquables, difference-de-carres, valeur-absolue]
 adapted_from: null
 see_also: []
+same_as: ["3409"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Algebra review"

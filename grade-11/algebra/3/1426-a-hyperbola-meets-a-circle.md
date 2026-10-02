@@ -8,6 +8,7 @@ duration_min: 30
 tags: [systeme, somme-et-produit, second-degre, hyperbole]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 1, Bézout's Theorem, Part 1"

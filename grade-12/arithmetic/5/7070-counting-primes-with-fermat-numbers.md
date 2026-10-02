@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 50
-tags: [nombres de fermat, premiers entre eux, recurrence, nombres premiers]
+tags: [nombres-de-fermat, premiers-entre-eux, recurrence, nombres-premiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2012, groupe des débutants"

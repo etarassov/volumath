@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [suite geometrique, rationnel, equation, raisonnement par l absurde]
+tags: [suite-geometrique, rationnels, equation, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2025"

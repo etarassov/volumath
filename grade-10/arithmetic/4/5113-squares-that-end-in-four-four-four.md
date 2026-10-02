@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [carres, chiffres, congruences, derniers-chiffres]
+tags: [carres, chiffres, congruences, dernier-chiffre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), « Place Value Problems », Harold Reiter"

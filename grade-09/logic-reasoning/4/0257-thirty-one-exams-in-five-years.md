@@ -7,6 +7,8 @@ difficulty: 4
 duration_min: 25
 tags: [encadrement, entiers, disjonction-de-cas, suite-croissante]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)"

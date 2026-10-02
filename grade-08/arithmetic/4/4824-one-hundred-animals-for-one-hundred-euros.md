@@ -8,6 +8,7 @@ duration_min: 35
 tags: [equation-a-deux-inconnues, entiers, multiples, recherche-exhaustive]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Group A, Math Relays"

@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [suites, multiples, inegalites, recurrence]
+tags: [suites, multiples, inegalite, recurrence]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 6 janvier 2021"

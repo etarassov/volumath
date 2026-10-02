@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [polygone inscrit, angle inscrit, puissance d un point, rotation, triangles semblables, produit]
+tags: [polygone-inscrit, angle-inscrit, puissance-d-un-point, rotation, triangles-semblables, produit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 5 (pot-pourri)"

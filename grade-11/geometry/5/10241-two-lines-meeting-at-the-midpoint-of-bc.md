@@ -8,6 +8,7 @@ duration_min: 75
 tags: [angles-orientes, orthocentre, hauteur, cercle-circonscrit, cercle-de-diametre, cocyclicite, symetrie-axiale, parallelogramme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 1 (géométrie)"

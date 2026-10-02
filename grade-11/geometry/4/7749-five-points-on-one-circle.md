@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [angle inscrit, orthocentre, centre du cercle circonscrit, centre du cercle inscrit, points cocycliques]
+tags: [angle-inscrit, orthocentre, centre-du-cercle-circonscrit, centre-du-cercle-inscrit, points-cocycliques]
 adapted_from: null
-see_also: []
+see_also: ["10047"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, test de fin de parcours du mardi 26 août"

@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 5
 duration_min: 60
-tags: [equations fonctionnelles, fonctions, monotonie, periodicite, rationnels, raisonnement par l'absurde]
+tags: [equation-fonctionnelle, fonctions, monotonie, periodicite, rationnels, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 5 (pot-pourri)"

@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 30
 tags: [puissances, dernier-chiffre, restes, periodicite, divisibilite]
 adapted_from: null
-see_also: ["0284"]
+see_also: ["0284", "8539"]
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей"

@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 60
-tags: [suites, recurrence, partie-entiere, puissances, inegalites, encadrement]
+tags: [suites, recurrence, partie-entiere, puissances, inegalite, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 6 janvier 2021"

@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [orthocentre, cercle circonscrit, cercle d'euler, produit scalaire, puissance d'un point, vecteurs, perpendiculaires]
+tags: [orthocentre, cercle-circonscrit, cercle-d-euler, produit-scalaire, puissance-d-un-point, vecteurs, perpendiculaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 2 (géométrie)"

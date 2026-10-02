@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [puissances, nombres premiers, decomposition en facteurs premiers, divisibilite, raisonnement par l'absurde, plus petit contre-exemple]
+tags: [puissances, nombres-premiers, decomposition-en-facteurs-premiers, divisibilite, raisonnement-par-l-absurde, plus-petit-contre-exemple]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test du 26 février 2014"

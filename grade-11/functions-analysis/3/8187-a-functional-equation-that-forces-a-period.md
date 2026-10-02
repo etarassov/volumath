@@ -5,9 +5,10 @@ grade: 11
 theme: functions-analysis
 difficulty: 3
 duration_min: 25
-tags: [equation fonctionnelle, periodicite, substitution]
+tags: [equation-fonctionnelle, periodicite, substitution]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, cours de Groupe C"

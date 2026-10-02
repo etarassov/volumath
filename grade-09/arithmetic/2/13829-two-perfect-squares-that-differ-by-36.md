@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 2
 duration_min: 15
-tags: [carre parfait, difference de deux carres, identites remarquables, diviseurs, parite]
+tags: [carre-parfait, difference-de-deux-carres, identites-remarquables, diviseurs, parite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2019, éliminatoires"

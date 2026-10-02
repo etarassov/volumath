@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [restes, divisibilite, principe des tiroirs, maximum, ensembles]
+tags: [restes, divisibilite, principe-des-tiroirs, maximum, ensembles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12 Training, Week 2: Divisibility and Modular Arithmetic"

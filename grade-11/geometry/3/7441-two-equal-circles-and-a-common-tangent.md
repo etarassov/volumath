@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercles, tangente, repere, produit-scalaire, perpendiculaire]
+tags: [cercle, tangente, repere, produit-scalaire, perpendiculaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2011, incontournable : géométrie"

@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [equation diophantienne, nombres premiers, carres, identite remarquable, encadrement, disjonction de cas]
+tags: [equation-diophantienne, nombres-premiers, carres, identites-remarquables, encadrement, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de mars 2017"

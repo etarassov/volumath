@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [equation diophantienne, difference de carres, puissances, nombre premier]
+tags: [equation-diophantienne, difference-de-carres, puissances, nombres-premiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe B"

@@ -8,6 +8,7 @@ duration_min: 25
 tags: [angle-inscrit, quadrilatere-inscrit, symetrie-axiale, paralleles, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 15 mai 2024"

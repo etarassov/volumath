@@ -8,6 +8,7 @@ duration_min: 20
 tags: [diviseurs, multiples, somme, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2010, groupe des débutants"

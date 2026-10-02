@@ -5,9 +5,10 @@ grade: 12
 theme: probability-statistics
 difficulty: 4
 duration_min: 30
-tags: [probabilite, denombrement, evenement contraire, palindrome, union]
+tags: [probabilite, denombrement, evenement-contraire, palindrome, union]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12 Training, Week 4: Combinatorics"

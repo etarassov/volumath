@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 40
-tags: [pgcd, suites, divisibilite, substitution astucieuse, raisonnement par l absurde]
+tags: [pgcd, suites, divisibilite, substitution-astucieuse, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, La Muraille"

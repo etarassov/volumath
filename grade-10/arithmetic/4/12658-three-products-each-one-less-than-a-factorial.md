@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 25
-tags: [factorielles, restes, carres, division-euclidienne, equations]
+tags: [factorielle, restes, carres, division-euclidienne, equation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 18 mai 2022"

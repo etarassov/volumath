@@ -8,6 +8,7 @@ duration_min: 40
 tags: [parite, modulo, encadrement, entiers-consecutifs]
 adapted_from: null
 see_also: []
+same_as: ["12279"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2007"

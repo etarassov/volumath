@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [bissectrice, cercle circonscrit, triangles rectangles, symetrie, pole sud]
+tags: [bissectrice, cercle-circonscrit, triangle-rectangle, symetrie, pole-sud]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2014"

@@ -8,6 +8,7 @@ duration_min: 40
 tags: [inegalite, fractions, symetrie, cas-degalite]
 adapted_from: null
 see_also: ["2817"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School II, Inequalities and convex functions"

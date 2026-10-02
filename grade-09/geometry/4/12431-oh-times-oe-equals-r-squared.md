@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 40
 tags: [cercle, tangente, mediatrice, triangle-rectangle, cosinus]
 adapted_from: null
-see_also: []
+see_also: ["10045"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 9 janvier 2019"

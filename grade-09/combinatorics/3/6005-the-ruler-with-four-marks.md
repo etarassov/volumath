@@ -8,6 +8,7 @@ duration_min: 35
 tags: [denombrement, majoration, construction, mesure]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular, « In Session : Measuring Up, Perfect Rulers » (Chris Bolognese et Raj Shah)"

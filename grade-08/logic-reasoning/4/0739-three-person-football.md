@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 4
 duration_min: 30
-tags: [denombrement, comptage double, parite, alternance]
+tags: [denombrement, comptage-double, parite, alternance]
 adapted_from: null
-see_also: ["0689"]
+see_also: []
+same_as: ["0689"]
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Aires. Préparation Olympiades de Mathématiques de 4ème », 26 janvier 2024"

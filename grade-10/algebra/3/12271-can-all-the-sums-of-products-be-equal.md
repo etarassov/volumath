@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [inegalite, sommes, produits, raisonnement par l'absurde, nombres positifs]
+tags: [inegalite, somme, produit, raisonnement-par-l-absurde, nombres-positifs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de février 2017"

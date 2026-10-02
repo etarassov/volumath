@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 4
 duration_min: 25
-tags: [fractions, divisibilite, carre parfait, entiers]
+tags: [fractions, divisibilite, carre-parfait, entiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de février 2017"

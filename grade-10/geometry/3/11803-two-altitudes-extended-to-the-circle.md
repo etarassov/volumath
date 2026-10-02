@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [angle inscrit, hauteur, cocyclicite, chasse aux angles]
+tags: [angle-inscrit, hauteur, cocyclicite, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 5 (pot-pourri)"

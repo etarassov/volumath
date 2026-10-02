@@ -5,9 +5,10 @@ grade: 10
 theme: logic-reasoning
 difficulty: 4
 duration_min: 45
-tags: [parite, invariant, disjonction de cas, descente]
+tags: [parite, invariant, disjonction-de-cas, descente]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"

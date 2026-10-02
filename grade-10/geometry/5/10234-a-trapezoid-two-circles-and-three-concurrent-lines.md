@@ -8,6 +8,7 @@ duration_min: 45
 tags: [trapeze, droites-concourantes, thales, puissance-d-un-point, angle-inscrit, triangles-semblables, symetrie-axiale, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 1 (géométrie)"

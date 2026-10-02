@@ -8,6 +8,7 @@ duration_min: 30
 tags: [denombrement, recurrence, construction-pas-a-pas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2B, Olympiad Style Problems 1"

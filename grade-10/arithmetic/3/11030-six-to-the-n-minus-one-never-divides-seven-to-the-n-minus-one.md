@@ -8,6 +8,7 @@ duration_min: 25
 tags: [divisibilite, restes, puissances, parite, raisonnement-par-labsurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 3 (arithmétique)"

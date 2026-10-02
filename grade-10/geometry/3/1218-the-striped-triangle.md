@@ -8,6 +8,7 @@ duration_min: 30
 tags: [aire, triangles-semblables, rapport-de-reduction, nombres-impairs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 1, «Fun and Games 2»"

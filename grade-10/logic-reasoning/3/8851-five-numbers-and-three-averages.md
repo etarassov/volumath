@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 25
 tags: [invariant, somme, produit, moyenne, processus]
 adapted_from: null
-see_also: []
+see_also: ["8629"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe A"

@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 20
 tags: [damier, coloriage, parite, tiroirs, demonstration]
 adapted_from: null
-see_also: ["0278"]
+see_also: []
+same_as: ["0278"]
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок, 8 классы, пособие для преподавателей"

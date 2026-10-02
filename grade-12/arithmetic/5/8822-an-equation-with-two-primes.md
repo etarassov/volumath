@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 50
-tags: [nombres premiers, lemme de gauss, divisibilite, encadrement, equation entiere]
+tags: [nombres-premiers, lemme-de-gauss, divisibilite, encadrement, equation-entiere]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe A"

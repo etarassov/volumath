@@ -8,6 +8,7 @@ duration_min: 60
 tags: [hors-programme, angles-orientes, cocyclicite, tangente, parallelogramme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 23 et du 24 février 2022"

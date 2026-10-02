@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [hors-programme, theoreme de pascal, cercles tangents, cercle circonscrit, cercle inscrit, bissectrice, droites concourantes]
+tags: [hors-programme, theoreme-de-pascal, cercles-tangents, cercle-circonscrit, cercle-inscrit, bissectrice, droites-concourantes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 2 (géométrie)"

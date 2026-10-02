@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercle, triangle isocele, bissectrice, mediatrice, centre du cercle inscrit, cocyclicite]
+tags: [cercle, triangle-isocele, bissectrice, mediatrice, centre-du-cercle-inscrit, cocyclicite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 5 (pot-pourri)"

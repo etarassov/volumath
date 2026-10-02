@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 75
-tags: [hexagone, cercle circonscrit, mediatrice, loi des sinus, angle inscrit, aire, cocyclicite, demonstration]
+tags: [hexagone, cercle-circonscrit, mediatrice, loi-des-sinus, angle-inscrit, aire, cocyclicite, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection pour le Romanian Master of Mathematics, novembre 2014"

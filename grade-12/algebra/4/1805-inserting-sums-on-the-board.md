@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 40
 tags: [recurrence, suites, somme, relation-de-recurrence]
 adapted_from: null
-see_also: []
+see_also: ["6011", "6017"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Induction in Combinatorics"

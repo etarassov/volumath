@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 50
-tags: [milieux, medianes, thales, droites-concourantes, angle-droit, cercle-circonscrit]
+tags: [milieu, mediane, thales, droites-concourantes, angle-droit, cercle-circonscrit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, Coupe Animath de printemps 2026"

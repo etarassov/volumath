@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 75
-tags: [maths-expertes, nombres complexes, angles orientes, cercle circonscrit, tangentes, geometrie analytique]
+tags: [maths-expertes, nombres-complexes, angles-orientes, cercle-circonscrit, tangente, geometrie-analytique]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 5 (pot-pourri)"

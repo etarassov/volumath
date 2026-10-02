@@ -8,6 +8,7 @@ duration_min: 60
 tags: [angles-orientes, angle-inscrit, cocyclicite, quadrilatere-inscrit, symetrie-axiale, vecteurs, droites-concourantes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 27 mars 2024"

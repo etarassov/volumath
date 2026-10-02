@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercles concentriques, tangente, angle inscrit, bissectrice, cercle de diametre]
+tags: [cercles-concentriques, tangente, angle-inscrit, bissectrice, cercle-de-diametre]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 5 (pot-pourri)"

@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 75
-tags: [triangle isocele, cercles tangents, tangente, angle inscrit, triangles semblables, vecteurs, droites paralleles]
+tags: [triangle-isocele, cercles-tangents, tangente, angle-inscrit, triangles-semblables, vecteurs, droites-paralleles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 1 (géométrie)"

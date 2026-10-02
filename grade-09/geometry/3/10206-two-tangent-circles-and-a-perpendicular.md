@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercles-tangents, tangente, trapeze, milieux, parallelogramme]
+tags: [cercles-tangents, tangente, trapeze, milieu, parallelogramme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 1 (géométrie)"

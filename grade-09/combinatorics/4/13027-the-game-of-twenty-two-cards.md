@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [jeu, strategie gagnante, chiffre des unites, parite, invariant]
+tags: [jeu, strategie-gagnante, chiffre-des-unites, parite, invariant]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, test de rentrée (Coupe Animath d'automne) du 1er octobre 2014"

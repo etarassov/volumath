@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 45
-tags: [suite, entiers, suite-croissante, nombres-impairs, plus-petit-contre-exemple]
+tags: [suites, entiers, suite-croissante, nombres-impairs, plus-petit-contre-exemple]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 2 (algèbre)"

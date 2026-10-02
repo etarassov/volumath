@@ -1,13 +1,14 @@
 ---
 id: "2207"
-title: "Les huit racines de $z^8 = 1$"
+title: "Les huit racines de z⁸ = 1"
 grade: 12
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [complexes, racines-de-lunite, forme-exponentielle, factorisation]
+tags: [nombres-complexes, racines-de-lunite, forme-exponentielle, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Complex Numbers"

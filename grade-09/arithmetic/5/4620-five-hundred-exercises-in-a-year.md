@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 5
 duration_min: 45
-tags: [tiroirs, sommes partielles, demonstration, entiers]
+tags: [tiroirs, sommes-partielles, demonstration, entiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Beginners Circle, Pigeonhole Principle"

@@ -8,6 +8,7 @@ duration_min: 45
 tags: [denombrement, polygone, diagonales, recurrence, catalan]
 adapted_from: null
 see_also: ["2405", "5202"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Catalan Numbers — Tom Davis"

@@ -7,6 +7,8 @@ difficulty: 3
 duration_min: 30
 tags: [denombrement, pavage, dominos, recurrence]
 adapted_from: null
+see_also: ["7674"]
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, математический кружок, 7 класс, II полугодие, пособие для преподавателей"

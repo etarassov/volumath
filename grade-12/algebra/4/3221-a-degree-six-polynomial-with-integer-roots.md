@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [polynomes, racines, somme et produit, developpement, puissances de deux]
+tags: [polynome, racines, somme-et-produit, developpement, puissances-de-deux]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Number theory review"

@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 25
 tags: [echiquier, coloriage, parite, demonstration]
 adapted_from: null
-see_also: ["0507"]
+see_also: []
+same_as: ["0507"]
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей"

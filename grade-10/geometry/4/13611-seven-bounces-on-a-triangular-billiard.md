@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [billard, triangle equilateral, triangles semblables, angles, droites concourantes, repere]
+tags: [billard, triangle-equilateral, triangles-semblables, angles, droites-concourantes, repere]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2010 (test de sélection du stage olympique de Grésillon, 3 juin 2010)"

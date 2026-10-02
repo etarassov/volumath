@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 3
 duration_min: 20
-tags: [invariant, produit, signes, tableau]
+tags: [invariant, produit, signe, tableau]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Grésillon 2010, groupe des débutants"

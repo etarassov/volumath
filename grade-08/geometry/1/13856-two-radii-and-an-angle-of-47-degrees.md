@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 1
 duration_min: 5
-tags: [cercle, triangle isocele, angles]
+tags: [cercle, triangle-isocele, angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2022, premier tour"

@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [principe des tiroirs, decoupage, diagonale, cercle circonscrit]
+tags: [principe-des-tiroirs, decoupage, diagonales, cercle-circonscrit]
 adapted_from: null
-see_also: []
+see_also: ["7042"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe A"

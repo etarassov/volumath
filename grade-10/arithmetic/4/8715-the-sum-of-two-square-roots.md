@@ -8,6 +8,7 @@ duration_min: 30
 tags: [irrationnel, raisonnement-par-absurde, identites-remarquables, nombres-premiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2024, cours de Groupe A"

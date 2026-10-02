@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 60
-tags: [cartes, grille, disjonction de cas, parite, denombrement, invariant]
+tags: [cartes, grille, disjonction-de-cas, parite, denombrement, invariant]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 5 (pot-pourri)"

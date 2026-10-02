@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 50
-tags: [polynome, racine-entiere, nombre-premier, chiffres, majoration]
+tags: [polynome, racine-entiere, nombres-premiers, chiffres, majoration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, La Muraille"

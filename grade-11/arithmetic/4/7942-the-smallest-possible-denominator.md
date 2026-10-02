@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [fraction irreductible, pgcd, nombres premiers entre eux, congruences]
+tags: [fraction-irreductible, pgcd, nombres-premiers-entre-eux, congruences]
 adapted_from: null
-see_also: ["8141", "7604"]
+see_also: []
+same_as: ["7604", "8141"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, la muraille"

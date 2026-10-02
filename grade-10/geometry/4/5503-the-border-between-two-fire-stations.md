@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 50
-tags: [quadrillage, distance, valeur-absolue, disjonction de cas, mediatrice]
+tags: [quadrillage, distance, valeur-absolue, disjonction-de-cas, mediatrice]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Optimal Locations of Firehouses (Taxi-cab Metric), Joshua M. Sabloff"

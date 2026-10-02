@@ -8,10 +8,11 @@ duration_min: 30
 tags: [nombres-premiers, congruences, petit-theoreme-de-fermat, factorisation, somme-geometrique, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 3 (arithmétique)"
-  reference: "2017-10_ofm-2014-2015-envoi-3.pdf, Exercices du groupe B, exercice 3 ; corrigé 2017-10_ofm-2014-2015-envoi-3-solutions.pdf"
+  reference: "2017-10_ofm-2014-2015-envoi-3.pdf, Exercices du groupe B, exercice 3 ; corrigé 2017-10_ofm-2014-2015-envoi-3-solutions.pdf. Le même problème est l'exercice 7 du test d'entraînement de novembre 2012 (2017-10_ofm-2012-2013-test-novembre.pdf)."
   url: "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-3.pdf"
   original_language: "fr"
   local_copy: "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-3.pdf"

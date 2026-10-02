@@ -8,6 +8,7 @@ duration_min: 45
 tags: [diviseurs, somme-des-diviseurs, puissances-de-deux, decomposition-en-facteurs-premiers, factorisation, parite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 4 (arithmétique)"

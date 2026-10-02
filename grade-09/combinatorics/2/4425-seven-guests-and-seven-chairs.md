@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 2
 duration_min: 20
-tags: [denombrement, permutation, cercle, factorielle]
+tags: [denombrement, permutations, cercle, factorielle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Combinatorics II"

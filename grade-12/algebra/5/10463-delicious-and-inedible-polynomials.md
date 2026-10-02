@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 90
-tags: [polynomes, nombres-complexes, racines, cosinus, maths-expertes]
+tags: [polynome, nombres-complexes, racines, cosinus, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 3 (algèbre)"

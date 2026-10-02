@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [quadrilatere-inscrit, bissectrice, chasse-aux-angles, perpendiculaires, losange, cas-d-egalite]
+tags: [quadrilatere-inscrit, bissectrice, chasse-aux-angles, perpendiculaire, losange, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 1 (géométrie)"

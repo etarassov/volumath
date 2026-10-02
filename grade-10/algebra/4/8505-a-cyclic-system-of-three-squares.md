@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [systeme, factorisation, identite-remarquable, disjonction-de-cas]
+tags: [systeme, factorisation, identites-remarquables, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, Coupe Animath de printemps 2022"

@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [bissectrice, cercle circonscrit, angle au centre, triangles superposables, perpendiculaire, chasse aux angles]
+tags: [bissectrice, cercle-circonscrit, angle-au-centre, triangles-superposables, perpendiculaire, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-21
 source:
   name: "POFM, stage olympique junior de Cachan 2011, groupe des débutants"

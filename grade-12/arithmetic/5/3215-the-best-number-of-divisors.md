@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [diviseurs, decomposition en facteurs premiers, maximum, inegalites, racine cubique]
+tags: [diviseurs, decomposition-en-facteurs-premiers, maximum, inegalite, racine-cubique]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Functions review"

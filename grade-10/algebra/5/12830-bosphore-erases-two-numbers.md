@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 5
 duration_min: 60
-tags: [inegalite, invariant, processus, racines-carrees, puissances-de-deux, identites-remarquables]
+tags: [inegalite, invariant, processus, racine-carree, puissances-de-deux, identites-remarquables]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2023"

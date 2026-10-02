@@ -8,6 +8,7 @@ duration_min: 30
 tags: [equation, factorisation, somme-de-carres, entiers-relatifs, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 4 (arithmétique)"

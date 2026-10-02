@@ -5,9 +5,10 @@ grade: 8
 theme: algebra
 difficulty: 3
 duration_min: 20
-tags: [pourcentage, equation, systeme]
+tags: [pourcentages, equation, systeme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Percentages"

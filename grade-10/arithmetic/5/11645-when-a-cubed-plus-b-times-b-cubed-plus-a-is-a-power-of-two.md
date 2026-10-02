@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [puissances de 2, parite, divisibilite, factorisation, identites remarquables, encadrement]
+tags: [puissances-de-2, parite, divisibilite, factorisation, identites-remarquables, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 5 (pot-pourri)"

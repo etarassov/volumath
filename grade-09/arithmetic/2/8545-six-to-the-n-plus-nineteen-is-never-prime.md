@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 2
 duration_min: 20
-tags: [nombre-premier, chiffre-des-unites, puissances, divisibilite]
+tags: [nombres-premiers, chiffre-des-unites, puissances, divisibilite]
 adapted_from: null
-see_also: ["8430"]
+see_also: []
+same_as: ["8430"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe B"

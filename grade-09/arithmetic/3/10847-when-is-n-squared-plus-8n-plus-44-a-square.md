@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [carre-parfait, identite-remarquable, factorisation, parite, encadrement]
+tags: [carre-parfait, identites-remarquables, factorisation, parite, encadrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 2 (arithmétique)"

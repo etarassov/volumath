@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [puissances, diviseurs, carres parfaits, parite, decomposition en facteurs premiers]
+tags: [puissances, diviseurs, carre-parfait, parite, decomposition-en-facteurs-premiers]
 adapted_from: null
 see_also: ["12240"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de janvier 2016"

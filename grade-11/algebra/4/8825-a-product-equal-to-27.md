@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [inegalite, moyenne arithmetique geometrique, factorisation, changement de variable]
+tags: [inegalite, moyenne-arithmetique-geometrique, factorisation, changement-de-variable]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, entraînement de mi-parcours du Groupe A"

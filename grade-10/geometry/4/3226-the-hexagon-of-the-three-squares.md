@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [aire, triangle equilateral, carre, angles, trigonometrie, decoupage]
+tags: [aire, triangle-equilateral, carre, angles, trigonometrie, decoupage]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Geometry review"

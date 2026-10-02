@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 2
 duration_min: 20
-tags: [mise en equation, equation du premier degre, probleme concret]
+tags: [mise-en-equation, equation-du-premier-degre, probleme-concret]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, Coupe Animath"

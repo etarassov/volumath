@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [produit, decomposition, diviseurs, recherche exhaustive, kenken]
+tags: [produit, decomposition, diviseurs, recherche-exhaustive, kenken]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), KenKen, par Tom Davis"

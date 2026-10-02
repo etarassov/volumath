@@ -8,6 +8,7 @@ duration_min: 60
 tags: [nombres-premiers, raisonnement-par-labsurde, principe-des-tiroirs, puissances-de-deux, divisibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2020-2021 n° 3 (arithmétique)"

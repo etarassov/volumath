@@ -8,6 +8,7 @@ duration_min: 45
 tags: [partition, somme, produit, factorisation, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Saint-Malo 2007 (Olympiades académiques 2004)"

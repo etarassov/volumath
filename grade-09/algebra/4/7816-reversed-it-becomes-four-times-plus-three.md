@@ -8,6 +8,7 @@ duration_min: 40
 tags: [chiffres, mise-en-equation, parite, encadrement]
 adapted_from: null
 see_also: ["5108"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"

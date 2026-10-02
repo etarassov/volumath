@@ -5,9 +5,10 @@ grade: 8
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [proportions, mise-en-equation, cercle]
+tags: [proportion, mise-en-equation, cercle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Problèmes divers. Démonstrations par coloriage »"

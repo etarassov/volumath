@@ -5,9 +5,10 @@ grade: 10
 theme: logic-reasoning
 difficulty: 4
 duration_min: 30
-tags: [invariant, modulo 3, processus, disjonction de cas]
+tags: [invariant, modulo-3, processus, disjonction-de-cas]
 adapted_from: null
 see_also: ["7312"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe A"

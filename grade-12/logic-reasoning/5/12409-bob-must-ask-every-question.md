@@ -8,6 +8,7 @@ duration_min: 60
 tags: [strategie, information, graphe, routes, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 10 janvier 2018"

@@ -1,13 +1,14 @@
 ---
 id: "10674"
-title: "ab/(c − 1) + bc/(a − 1) + ca/(b − 1) ⩾ 12"
+title: "ab/(c − 1) + bc/(a − 1) + ca/(b − 1) ≥ 12"
 grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [inegalite, changement-de-variable, racines-carrees, produit-egal-a-un, cas-d-egalite]
+tags: [inegalite, changement-de-variable, racine-carree, produit-egal-a-un, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 2 (algèbre)"

@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 5
 duration_min: 40
-tags: [divisibilite, restes, chiffres, somme des premiers entiers, factorisation]
+tags: [divisibilite, restes, chiffres, somme-des-premiers-entiers, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Olympiads training, Fermat's Thm"

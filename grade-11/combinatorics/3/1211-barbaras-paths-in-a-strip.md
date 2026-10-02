@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 3
 duration_min: 35
-tags: [denombrement, chemin, bijection, repere, puissance]
+tags: [denombrement, chemins, bijection, repere, puissances]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 1, compétition d'automne 2023"

@@ -5,9 +5,10 @@ grade: 8
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [sommes, ordre, double comptage, equations]
+tags: [somme, ordre, double-comptage, equation]
 adapted_from: null
-see_also: []
+see_also: ["7923"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013"

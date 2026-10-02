@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 3
 duration_min: 20
-tags: [decomposition-en-facteurs-premiers, carre-parfait, cube, puissance]
+tags: [decomposition-en-facteurs-premiers, carre-parfait, cube, puissances]
 adapted_from: null
-see_also: ["8716"]
+see_also: []
+same_as: ["8716"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2021, cours de Groupe A"

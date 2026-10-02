@@ -7,6 +7,8 @@ difficulty: 3
 duration_min: 25
 tags: [nombres-impairs, somme, carre, denombrement, generalisation]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей"

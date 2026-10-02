@@ -8,6 +8,7 @@ duration_min: 20
 tags: [denombrement, permutations, factorielle, symetrie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 2B, Basic Combinatorics and Probability"

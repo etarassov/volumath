@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [factorisation, identite remarquable, polynome, racines cubiques de l unite]
+tags: [factorisation, identites-remarquables, polynome, racines-cubiques-de-l-unite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2017, cours de Groupe B"

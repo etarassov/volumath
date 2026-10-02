@@ -8,6 +8,7 @@ duration_min: 35
 tags: [somme-de-carres, congruences, puissances, parite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 3 (arithmétique)"

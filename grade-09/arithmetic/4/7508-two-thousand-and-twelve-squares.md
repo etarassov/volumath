@@ -8,6 +8,7 @@ duration_min: 35
 tags: [parite, carres, congruences, modulo-4, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2012, La Muraille"

@@ -8,6 +8,7 @@ duration_min: 45
 tags: [vote, condorcet, elimination, duels, comptage, tableau]
 adapted_from: null
 see_also: ["6112"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Can Voting Ever Really Be « Fair »?"

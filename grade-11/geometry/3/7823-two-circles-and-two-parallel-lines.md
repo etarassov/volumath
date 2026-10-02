@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 3
 duration_min: 35
-tags: [angle inscrit, quadrilatere inscriptible, cercles secants, paralleles]
+tags: [angle-inscrit, quadrilatere-inscriptible, cercles-secants, paralleles]
 adapted_from: null
 see_also: []
+same_as: ["7614"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"

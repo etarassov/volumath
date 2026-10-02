@@ -8,6 +8,7 @@ duration_min: 35
 tags: [second-degre, somme-et-produit, expressions-symetriques, fractions]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Quadratic Inequalities"

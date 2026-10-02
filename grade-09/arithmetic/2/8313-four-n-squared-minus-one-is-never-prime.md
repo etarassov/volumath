@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 2
 duration_min: 15
-tags: [nombres-premiers, factorisation, identite-remarquable]
+tags: [nombres-premiers, factorisation, identites-remarquables]
 adapted_from: null
-see_also: []
+see_also: ["8216"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2020, cours du Groupe A"

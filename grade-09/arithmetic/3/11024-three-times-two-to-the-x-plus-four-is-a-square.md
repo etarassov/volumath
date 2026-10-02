@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [equation-diophantienne, puissances-de-deux, factorisation, carres-parfaits, disjonction-de-cas]
+tags: [equation-diophantienne, puissances-de-deux, factorisation, carre-parfait, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 3 (arithmétique)"

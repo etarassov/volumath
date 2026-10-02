@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 3
 duration_min: 20
-tags: [tiroirs, raisonnement par l absurde, somme des premiers entiers]
+tags: [tiroirs, raisonnement-par-l-absurde, somme-des-premiers-entiers]
 adapted_from: null
-see_also: ["8522", "7656"]
+see_also: ["7656"]
+same_as: ["8522"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, Groupe A"

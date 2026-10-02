@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 90
-tags: [hors-programme, cocyclicite, angles-orientes, angle-inscrit, angle-tangentiel, theoreme-de-miquel, fonction]
+tags: [hors-programme, cocyclicite, angles-orientes, angle-inscrit, angle-tangentiel, theoreme-de-miquel, fonctions]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection des 19 et 20 février 2020"

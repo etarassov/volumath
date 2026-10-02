@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 3
 duration_min: 20
-tags: [logique, vrai ou faux, cas, raisonnement par l absurde]
+tags: [logique, vrai-ou-faux, cas, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Beginners 2, Logic Puzzles: Wizards and Hats"

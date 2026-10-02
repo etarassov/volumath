@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [partage, sommes, nombres consecutifs, disjonction de cas, restes, carres, contre-exemple]
+tags: [partage, somme, nombres-consecutifs, disjonction-de-cas, restes, carres, contre-exemple]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de février 2017"

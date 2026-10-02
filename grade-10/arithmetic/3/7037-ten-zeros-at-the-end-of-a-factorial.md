@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [factorielle, valuation, nombres premiers]
+tags: [factorielle, valuation, nombres-premiers]
 adapted_from: null
 see_also: ["4220"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior de Cachan 2012, groupe des débutants"

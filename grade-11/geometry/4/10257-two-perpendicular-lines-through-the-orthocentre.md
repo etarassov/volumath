@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [orthocentre, alignement, milieu, coordonnees, produit-scalaire, perpendiculaires]
+tags: [orthocentre, alignement, milieu, coordonnees, produit-scalaire, perpendiculaire]
 adapted_from: null
-see_also: []
+see_also: ["10060"]
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2022-2023 n° 1 (géométrie)"

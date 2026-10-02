@@ -7,6 +7,8 @@ difficulty: 4
 duration_min: 35
 tags: [jeu, strategie, positions-gagnantes, puissances-de-deux]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015"

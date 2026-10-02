@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 1
 duration_min: 10
-tags: [inegalite, signe d une difference, identites remarquables, cas d egalite]
+tags: [inegalite, signe-d-une-difference, identites-remarquables, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Problèmes issus des envois POFM (problèmes 1-3) », niveau collège - débutants, 12 mai 2023"

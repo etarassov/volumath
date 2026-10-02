@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 50
-tags: [diviseurs communs, divisibilite, denombrement, parite]
+tags: [diviseur-commun, divisibilite, denombrement, parite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023"

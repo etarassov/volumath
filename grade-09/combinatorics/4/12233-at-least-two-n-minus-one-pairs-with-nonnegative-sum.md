@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 35
-tags: [inegalites, rangement, couples, somme nulle, disjonction de cas]
+tags: [inegalite, rangement, couples, somme-nulle, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de décembre 2015"

@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 25
 tags: [carre, triangle-equilateral, triangle-isocele, chasse-aux-angles]
 adapted_from: null
-see_also: []
+see_also: ["7328"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Angles et droites du triangle »"

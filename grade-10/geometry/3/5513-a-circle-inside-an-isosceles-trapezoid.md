@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercle inscrit, tangente, trapeze, perimetre, symetrie]
+tags: [cercle-inscrit, tangente, trapeze, perimetre, symetrie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Visualization in Algebra, Tom Davis"

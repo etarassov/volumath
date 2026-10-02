@@ -8,6 +8,7 @@ duration_min: 30
 tags: [grille, rectangle, tiroirs, maximum, contre-exemple]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, Coupe Animath de printemps 2026"

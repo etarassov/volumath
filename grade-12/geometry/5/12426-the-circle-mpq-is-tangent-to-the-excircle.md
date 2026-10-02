@@ -8,6 +8,7 @@ duration_min: 75
 tags: [cercle-exinscrit, puissance-d-un-point, cercles-tangents, tangente, produit-scalaire, triangles-semblables]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2018"

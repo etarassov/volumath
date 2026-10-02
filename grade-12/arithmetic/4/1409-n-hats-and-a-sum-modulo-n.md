@@ -8,6 +8,7 @@ duration_min: 40
 tags: [congruences, strategie, chapeaux, division-euclidienne]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 1, Hat Problems and the Axiom of Choice"

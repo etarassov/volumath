@@ -8,6 +8,7 @@ duration_min: 45
 tags: [trigonometrie, loi-des-sinus, aire, quadrilatere, formules-daddition]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, A kaleidoscope of geometry problems"

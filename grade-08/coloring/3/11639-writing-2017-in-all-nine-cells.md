@@ -5,9 +5,10 @@ grade: 8
 theme: coloring
 difficulty: 3
 duration_min: 15
-tags: [echiquier, invariant, coloriage, cases voisines, somme]
+tags: [echiquier, invariant, coloriage, cases-voisines, somme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 5 (pot-pourri)"

@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 40
 tags: [denombrement, fibonacci, recurrence, bijection, parite]
 adapted_from: null
-see_also: ["5203", "2019"]
+see_also: ["2019", "5203"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Compositions — Josh Zucker"

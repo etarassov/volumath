@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 30
-tags: [cercles tangents, triangle isocele, thales, rayons]
+tags: [cercles-tangents, triangle-isocele, thales, rayon]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 6 (pot-pourri)"

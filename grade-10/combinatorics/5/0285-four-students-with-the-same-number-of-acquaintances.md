@@ -7,6 +7,8 @@ difficulty: 5
 duration_min: 40
 tags: [principe-des-tiroirs, parite, double-comptage, raisonnement-par-labsurde]
 adapted_from: null
+see_also: ["4602"]
+same_as: []
 created: 2026-09-18
 source:
   name: "Математический кружок (8–9 класс), первое полугодие, сост. Е. А. Асташов, Д. А. Удимов, МГУ, 2015"

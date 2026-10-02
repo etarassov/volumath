@@ -16,7 +16,6 @@
   "7604",
   "7605",
   "7606",
-  "7607",
   "7608",
   "7610",
   "7611",
@@ -48,7 +47,6 @@
   "7643",
   "7645",
   "7646",
-  "7648",
   "7649",
   "7651",
   "7654",
@@ -113,6 +111,18 @@
    "survivor": "0259",
    "date": "2026-09-30",
    "why": "Retiré le 2026-09-30 : même problème que 0259 (grade-10/geometry/4/0259-seven-segments-form-a-triangle.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7607",
+   "survivor": "8215",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : même inégalité que 8215 (grade-10/algebra/3/8215-a-squared-plus-b-squared-plus-a-product.md), qui demande en plus le cas d'égalité, au même niveau. Repéré lors du tri des liens see_also et same_as qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
+  },
+  {
+   "id": "7648",
+   "survivor": "5304",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : c'est le cas n = 2014 de 5304 (grade-10/logic-reasoning/4/5304-diagonals-of-a-convex-polygon.md), au même niveau. Repéré lors du tri des liens see_also et same_as qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
   }
  ],
  "notes": [
@@ -122,7 +132,7 @@
   "Reste a lire pour une seconde passe : chapitre V (troisieme periode) cours et TD de geometrie des groupes A et B, chapitre VI (quatrieme periode) cours d'arithmetique des groupes A et B, et les exercices 69 a 127 de La Muraille. Le reste du document (groupes C et D) est hors portee club.",
   "Taux de recoupement tres eleve avec le reste de la base : sur les 65 exercices ecrits, une quinzaine ont un jumeau ecrit par un autre agent pendant l'import parallele. Tous les fichiers sont conserves conformement a la regle ; la liste des paires figure dans le rapport final."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-02",
  "files": [
   {
    "file": "stage_ete_2013.pdf",

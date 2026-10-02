@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [nombre de diviseurs, suites, nombres premiers, construction, divisibilite]
+tags: [nombre-de-diviseurs, suites, nombres-premiers, construction, divisibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 6 (pot-pourri)"

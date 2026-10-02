@@ -5,8 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 20
-tags: [denombrement, puissances de deux, choix, maximum]
+tags: [denombrement, puissances-de-deux, choix, maximum]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Математический кружок (8–9 класс), второе полугодие, часть II, методические указания. Сост. Е. А. Асташов, Я. А. Верёвкин, О. А. Манжина, Д. А. Удимов, МГУ, 2015"

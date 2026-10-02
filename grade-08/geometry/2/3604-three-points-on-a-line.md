@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 2
 duration_min: 10
-tags: [alignement, distances, disjonction-de-cas, longueurs]
+tags: [alignement, distance, disjonction-de-cas, longueurs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 8 training, Berkeley mini Math Tournament 2025"

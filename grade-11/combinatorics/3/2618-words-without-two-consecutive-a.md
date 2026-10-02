@@ -8,6 +8,7 @@ duration_min: 30
 tags: [denombrement, suite-recurrente, fibonacci, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School I Circle, Introduction to Sequences"

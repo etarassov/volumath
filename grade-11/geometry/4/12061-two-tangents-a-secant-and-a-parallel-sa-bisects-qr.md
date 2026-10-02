@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [cercle, tangentes, secante, milieu, geometrie analytique, equation de cercle, produit scalaire, alignement]
+tags: [cercle, tangente, secante, milieu, geometrie-analytique, equation-de-cercle, produit-scalaire, alignement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de sélection pour la JBMO 2014 (14 mai 2014)"

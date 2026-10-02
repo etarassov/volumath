@@ -5,9 +5,10 @@ grade: 8
 theme: geometry
 difficulty: 2
 duration_min: 15
-tags: [pythagore, espace, pave droit]
+tags: [pythagore, espace, pave-droit]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, Perimeter and Circumference"

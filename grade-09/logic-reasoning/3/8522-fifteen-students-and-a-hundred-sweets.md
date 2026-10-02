@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 20
 tags: [principe-des-tiroirs, raisonnement-par-labsurde, somme, entiers-distincts]
 adapted_from: null
-see_also: ["8628"]
+see_also: []
+same_as: ["8628"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe A"

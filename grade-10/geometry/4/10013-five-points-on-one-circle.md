@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 45
-tags: [cocyclicite, angle inscrit, triangle isocele, cercle circonscrit, mediatrice, symetrie axiale, chasse aux angles]
+tags: [cocyclicite, angle-inscrit, triangle-isocele, cercle-circonscrit, mediatrice, symetrie-axiale, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 6 (géométrie)"

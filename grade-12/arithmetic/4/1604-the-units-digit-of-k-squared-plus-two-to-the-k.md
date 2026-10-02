@@ -8,6 +8,7 @@ duration_min: 25
 tags: [congruences, chiffre-des-unites, puissances, restes-chinois]
 adapted_from: null
 see_also: []
+same_as: ["2806"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2A, Group Competition"

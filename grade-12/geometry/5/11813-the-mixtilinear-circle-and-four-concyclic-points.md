@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 90
-tags: [cercle mixtilineaire, cercles tangents, cocyclicite, angles orientes, similitude, pascal, hors-programme]
+tags: [cercle-mixtilineaire, cercles-tangents, cocyclicite, angles-orientes, similitude, pascal, hors-programme]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2019-2020 n° 5 (pot-pourri)"

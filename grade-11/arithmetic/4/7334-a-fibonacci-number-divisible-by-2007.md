@@ -8,6 +8,7 @@ duration_min: 40
 tags: [fibonacci, principe-des-tiroirs, congruences, periodicite, suite-recurrente]
 adapted_from: null
 see_also: ["2205"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Saint-Malo 2007"

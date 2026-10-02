@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 5
 duration_min: 90
-tags: [bijection, parties, sommes, comparaison, denombrement]
+tags: [bijection, parties, somme, comparaison, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2017-2018 n° 4 (combinatoire)"

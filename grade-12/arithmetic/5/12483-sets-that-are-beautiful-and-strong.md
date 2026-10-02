@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [maths-expertes, polynomes, racines-entieres, principe-des-tiroirs, ecriture-en-base, recurrence-forte, puissances-de-2]
+tags: [maths-expertes, polynome, racine-entiere, principe-des-tiroirs, ecriture-en-base, recurrence-forte, puissances-de-2]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 6 mai 2020"

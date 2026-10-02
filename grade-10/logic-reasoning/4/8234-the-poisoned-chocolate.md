@@ -5,9 +5,10 @@ grade: 10
 theme: logic-reasoning
 difficulty: 4
 duration_min: 45
-tags: [jeu, strategie gagnante, symetrie, vol de strategie]
+tags: [jeu, strategie-gagnante, symetrie, vol-de-strategie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2019, cours de Groupe A"

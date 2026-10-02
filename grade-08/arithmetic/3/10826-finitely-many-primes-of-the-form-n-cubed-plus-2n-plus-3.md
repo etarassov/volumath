@@ -8,6 +8,7 @@ duration_min: 20
 tags: [nombres-premiers, divisibilite, restes, entiers-consecutifs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 1 (arithmétique)"

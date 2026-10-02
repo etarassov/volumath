@@ -8,6 +8,7 @@ duration_min: 20
 tags: [divisibilite, permutations, denombrement, factorielle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), X26 AMC 8, Permutations and Combinations"

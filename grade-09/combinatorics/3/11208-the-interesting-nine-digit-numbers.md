@@ -8,6 +8,7 @@ duration_min: 25
 tags: [denombrement, permutations, chiffres, principe-multiplicatif]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 2 (combinatoire)"

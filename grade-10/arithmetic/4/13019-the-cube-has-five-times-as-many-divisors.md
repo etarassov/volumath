@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [nombre de diviseurs, decomposition en facteurs premiers, equation en entiers]
+tags: [nombre-de-diviseurs, decomposition-en-facteurs-premiers, equation-en-entiers]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Olympiades françaises de mathématiques, épreuve de sélection (Coupe Animath d'automne) du 2 octobre 2013"

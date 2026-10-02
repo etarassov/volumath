@@ -8,6 +8,7 @@ duration_min: 30
 tags: [indicatrice-d-euler, factorielle, nombres-premiers, decomposition-en-facteurs-premiers, construction]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 2 (arithmétique)"

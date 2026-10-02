@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [principe-des-tiroirs, nombre-premier, diviseurs, jeu-a-deux, strategie-gagnante]
+tags: [principe-des-tiroirs, nombres-premiers, diviseurs, jeu-a-deux, strategie-gagnante]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2022, cours de Groupe A"

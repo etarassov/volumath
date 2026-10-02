@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 50
-tags: [carre parfait, partie sans facteur carre, nombres premiers, principe des tiroirs]
+tags: [carre-parfait, partie-sans-facteur-carre, nombres-premiers, principe-des-tiroirs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, cours d'arithmétique du groupe B"

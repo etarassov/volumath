@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [puissances de deux, inegalites, maximum, raisonnement par l absurde]
+tags: [puissances-de-deux, inegalite, maximum, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2023, La Muraille"

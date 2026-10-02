@@ -97,7 +97,6 @@
  "next_document": 6,
  "imported": [
   "10201",
-  "10202",
   "10203",
   "10204",
   "10205",
@@ -378,5 +377,13 @@
   "2024-2025 : 10287 (Seniors 18) garde l'inversion du corrigé (hors programme, Terminale, difficulté 5) ; la solution démontre que le cercle des milieux a pour rayon r/2 par une homothétie de centre le centre de gravité, et traite le cas particulier où un des deux cercles fixes se réduit à un point.",
   "Fin du lot : les 87 exercices 10201 à 10287 ont été reconstruits ensemble sans aucun avertissement de pandoc ; dans chaque PDF le nombre de figures est égal au nombre d'images du fichier et de fichiers SVG. Les paires « même niveau » signalées par vm.py check pour les ids 10244 à 10287 ont été relues (10271, 10247, 10250, 10265, 10275, 10276, 10287 contre les fichiers proposés) : ce sont des problèmes différents."
  ],
- "updated": "2026-10-01"
+ "updated": "2026-10-02",
+ "retired_ids": [
+  {
+   "id": "10202",
+   "survivor": "0887",
+   "date": "2026-10-02",
+   "why": "Retiré le 2026-10-02 : même problème que 0887 (grade-09/geometry/2/0887-concurrent-lines-and-parallels.md), au même niveau. Doublon repéré lors de la relecture qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
+  }
+ ]
 }

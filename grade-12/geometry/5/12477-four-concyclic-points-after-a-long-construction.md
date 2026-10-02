@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 75
-tags: [hors-programme, angles-orientes, cocyclicite, angle-inscrit, triangles-semblables, cercle]
+tags: [hors-programme, angles-orientes, cocyclicite, angle-inscrit, triangles-semblables, cercle, congruences]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 1er avril 2020"

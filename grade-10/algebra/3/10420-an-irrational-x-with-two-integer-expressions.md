@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 3
 duration_min: 25
-tags: [irrationnels, equation-du-second-degre, raisonnement-par-l-absurde]
+tags: [irrationnel, equation-du-second-degre, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 4 (algèbre)"

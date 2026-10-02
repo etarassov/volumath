@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 40
-tags: [angle inscrit, points cocycliques, quadrilatere convexe, chasse aux angles, angle exterieur]
+tags: [angle-inscrit, points-cocycliques, quadrilatere-convexe, chasse-aux-angles, angle-exterieur]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2017-2018 n° 2 (géométrie)"

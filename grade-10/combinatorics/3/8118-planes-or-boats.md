@@ -8,6 +8,7 @@ duration_min: 30
 tags: [recurrence, graphe, connexite]
 adapted_from: null
 see_also: []
+same_as: ["0504"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, cours de Groupe A"

@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 30
 tags: [suite-arithmetique, moyenne, maximum, denombrement]
 adapted_from: null
-see_also: []
+see_also: ["8340"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2, «Random walks»"

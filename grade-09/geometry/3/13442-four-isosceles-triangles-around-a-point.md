@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [triangle isocele, angles, quadrilatere, raisonnement par l absurde]
+tags: [triangle-isocele, angles, quadrilatere, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2024"

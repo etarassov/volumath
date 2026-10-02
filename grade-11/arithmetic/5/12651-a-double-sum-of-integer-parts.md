@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 5
 duration_min: 45
-tags: [partie-entiere, sommes, nombres-premiers, appariement, inegalites]
+tags: [partie-entiere, somme, nombres-premiers, appariement, inegalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 23 et du 24 février 2022"

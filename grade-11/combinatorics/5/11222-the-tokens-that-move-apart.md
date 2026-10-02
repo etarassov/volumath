@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 60
-tags: [processus, invariant, monovariant, somme-des-carres, terminaison]
+tags: [processus, invariant, monovariant, somme-de-carres, terminaison]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2014-2015 n° 1 (combinatoire)"

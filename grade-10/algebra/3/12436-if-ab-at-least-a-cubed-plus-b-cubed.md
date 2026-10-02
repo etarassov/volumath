@@ -8,6 +8,7 @@ duration_min: 25
 tags: [inegalite, factorisation, raisonnement-par-l-absurde, cubes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 26 février 2019"

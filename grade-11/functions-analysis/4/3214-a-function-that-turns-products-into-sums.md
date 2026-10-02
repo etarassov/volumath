@@ -5,9 +5,10 @@ grade: 11
 theme: functions-analysis
 difficulty: 4
 duration_min: 35
-tags: [equation fonctionnelle, nombres premiers, decomposition en facteurs premiers, rationnels]
+tags: [equation-fonctionnelle, nombres-premiers, decomposition-en-facteurs-premiers, rationnels]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Functions review"

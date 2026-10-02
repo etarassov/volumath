@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 2
 duration_min: 15
-tags: [diviseurs, entiers relatifs, denombrement]
+tags: [diviseurs, entiers-relatifs, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2019, éliminatoires"

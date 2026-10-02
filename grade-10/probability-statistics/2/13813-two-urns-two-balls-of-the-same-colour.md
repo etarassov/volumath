@@ -5,9 +5,10 @@ grade: 10
 theme: probability-statistics
 difficulty: 2
 duration_min: 15
-tags: [probabilite, equiprobabilite, denombrement, mise en equation]
+tags: [probabilite, equiprobabilite, denombrement, mise-en-equation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2018, éliminatoires"

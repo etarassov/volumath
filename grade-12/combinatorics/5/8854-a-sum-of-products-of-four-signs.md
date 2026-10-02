@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 5
 duration_min: 40
-tags: [invariant, produit, parite, suite circulaire, signes]
+tags: [invariant, produit, parite, suite-circulaire, signe]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2025, cours de Groupe A"

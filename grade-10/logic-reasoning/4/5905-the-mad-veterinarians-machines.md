@@ -5,9 +5,10 @@ grade: 10
 theme: logic-reasoning
 difficulty: 4
 duration_min: 40
-tags: [invariant, modulo, transformation, demonstration]
+tags: [invariant, modulo, transformations, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), The Mad Veterinarian on Mathematical Safari (Gene Abrams, Colorado Math Circle, 2009)"

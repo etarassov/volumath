@@ -8,6 +8,7 @@ duration_min: 40
 tags: [symetrie-axiale, plus-court-chemin, inegalite-triangulaire, triangle-isocele, trigonometrie]
 adapted_from: null
 see_also: ["0657"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 2, «Geometric Optimization»"

@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 30
-tags: [trinome, racines, somme et produit, entiers, factorisation]
+tags: [trinome, racines, somme-et-produit, entiers, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Functions review"

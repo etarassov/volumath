@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [produit scalaire, orthocentre, cercle inscrit, cercle circonscrit, milieu d'un arc, mediatrice, angle inscrit, alignement]
+tags: [produit-scalaire, orthocentre, cercle-inscrit, cercle-circonscrit, milieu-d-un-arc, mediatrice, angle-inscrit, alignement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test du 12 avril 2014"

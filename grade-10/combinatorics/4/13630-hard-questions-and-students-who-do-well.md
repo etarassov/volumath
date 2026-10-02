@@ -5,9 +5,10 @@ grade: 10
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [double comptage, inegalites, proportions, exemple, raisonnement par l absurde]
+tags: [double-comptage, inegalite, proportion, exemple, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2016 (31 mai 2016)"

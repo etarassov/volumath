@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 25
-tags: [denombrement, principe des tiroirs, combinaisons]
+tags: [denombrement, principe-des-tiroirs, combinaisons]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate, More Graphs and Geometry"

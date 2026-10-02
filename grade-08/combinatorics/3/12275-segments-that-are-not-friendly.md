@@ -8,6 +8,7 @@ duration_min: 25
 tags: [cercle, coloriage, parite, algorithme, segments]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de mars 2017"

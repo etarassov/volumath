@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [puissances, disjonction de cas, second degre, somme des racines]
+tags: [puissances, disjonction-de-cas, second-degre, somme-des-racines]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12, Algebra (ORMC AMC Packet 2)"

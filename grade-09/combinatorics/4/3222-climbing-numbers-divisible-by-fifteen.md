@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [chiffres, divisibilite, criteres de divisibilite, denombrement, sous-ensembles]
+tags: [chiffres, divisibilite, criteres-de-divisibilite, denombrement, sous-ensembles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Math Competitions Training, Number theory review"

@@ -8,6 +8,7 @@ duration_min: 60
 tags: [inegalite, extremum, trigonometrie, suites, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 3 (algèbre)"

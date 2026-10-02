@@ -5,9 +5,10 @@ grade: 10
 theme: coloring
 difficulty: 3
 duration_min: 30
-tags: [coloriage, cercles, regions, parite, demonstration]
+tags: [coloriage, cercle, regions, parite, demonstration]
 adapted_from: null
 see_also: ["4805"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Coloring (Tom Davis)"

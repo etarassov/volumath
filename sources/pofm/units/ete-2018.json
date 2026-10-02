@@ -29,7 +29,6 @@
     "8119",
     "8120",
     "8124",
-    "8126",
     "8128",
     "8129",
     "8130",
@@ -273,6 +272,12 @@
       "survivor": "7668",
       "date": "2026-09-30",
       "why": "Retiré le 2026-09-30 : même problème que 7668 (grade-11/geometry/4/7668-the-shortest-broken-path.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+    },
+    {
+      "id": "8126",
+      "survivor": "13227",
+      "date": "2026-10-02",
+      "why": "Retiré le 2026-10-02 : sa question est entièrement contenue dans 13227 (grade-10/arithmetic/4/13227-a-pretty-list-of-a-hundred-numbers.md), au même niveau, qui demande davantage. Doublon repéré lors de la relecture qui a suivi l'import maths-olympiques.fr. NE JAMAIS RÉATTRIBUER."
     }
   ],
   "notes": [
@@ -285,7 +290,7 @@
     "Les exercices 8180 a 8184 viennent tous du cours « Monovariants et invariants » du Groupe C. Verifications faites par ordinateur : 8180 (la diagonale de 8 cases embrase bien les 64 cases, le perimetre n'a augmente dans aucun des 4000 essais aleatoires, aucun depart a 7 cases n'embrase tout) ; 8182 (l'invariant des colonnes 3 et 6 est bien orthogonal aux 61 coups, codimension 12) ; 8184 (les cinq positions atteignables sont exactement (2,2), (2,4), (3,3), (4,2), (4,4) ; les deux motifs d'appuis a 11 cases sont verifies).",
     "Les exercices 8185 a 8189 viennent du Groupe C (arithmetique « Exercices divers » ex. 3, test final ex. 1 et ex. 4, algebre « Equations fonctionnelles » ex. 5) et du Groupe D (combinatoire, « Geometrie combinatoire » ex. 2). Verifications par ordinateur : 8185 (aucune solution autre que (0,0,0) pour |x|,|y|,|z| <= 40) ; 8186 (n = 6 est bien le plus petit) ; 8188 (le minimum 2n-4 verifie par force brute pour n = 3, 4, 5, 6, et les configurations effacables sont bien au nombre de 2^(2n-1))."
   ],
-  "updated": "2026-09-30",
+  "updated": "2026-10-02",
   "files": [
     {
       "file": "stage_ete_2018.pdf",

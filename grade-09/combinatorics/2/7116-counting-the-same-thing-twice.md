@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 2
 duration_min: 25
-tags: [double comptage, moyenne, denombrement]
+tags: [double-comptage, moyenne, denombrement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique junior 2013-2016 (Cachan), stage 2014"

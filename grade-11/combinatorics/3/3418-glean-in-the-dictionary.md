@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [denombrement, permutations, ordre alphabetique, factorielle]
+tags: [denombrement, permutations, ordre-alphabetique, factorielle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12 Training, Week 4: Combinatorics"

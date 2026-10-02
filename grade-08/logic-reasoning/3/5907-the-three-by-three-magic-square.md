@@ -5,9 +5,10 @@ grade: 8
 theme: logic-reasoning
 difficulty: 3
 duration_min: 30
-tags: [carre-magique, sommes, denombrement, demonstration]
+tags: [carre-magique, somme, denombrement, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), Magic Squares (San Francisco Math Circle)"

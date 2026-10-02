@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [suites, partie entiere, racine carree, parite, minimum, raisonnement par l'absurde]
+tags: [suites, partie-entiere, racine-carree, parite, minimum, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 15 janvier 2014"

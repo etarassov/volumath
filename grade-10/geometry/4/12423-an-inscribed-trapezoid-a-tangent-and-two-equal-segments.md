@@ -8,6 +8,7 @@ duration_min: 45
 tags: [trapeze, cercle, tangente, angle-inscrit, symetrie, cordes-paralleles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de mai 2018"

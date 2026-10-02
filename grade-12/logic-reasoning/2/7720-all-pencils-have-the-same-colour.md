@@ -5,9 +5,10 @@ grade: 12
 theme: logic-reasoning
 difficulty: 2
 duration_min: 20
-tags: [recurrence, heredite, erreur de raisonnement, initialisation]
+tags: [recurrence, heredite, erreur-de-raisonnement, initialisation]
 adapted_from: null
 see_also: []
+same_as: ["8660"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2014, cours de Groupe A"

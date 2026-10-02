@@ -5,13 +5,14 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [factorielle, decomposition en facteurs premiers, diviseurs, cubes]
+tags: [factorielle, decomposition-en-facteurs-premiers, diviseurs, cubes]
 adapted_from: null
-see_also: ["4017"]
+see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 1, Mid-Quarter Competition"
-  reference: "Handout-4070-3775.pdf, problème 11, d'après AMC 10A 2005, problème 15 (corrigé dans Handout-4071-3775.pdf)"
+  reference: "Handout-4070-3775.pdf, problème 11, d'après AMC 10A 2005, problème 15 (corrigé dans Handout-4071-3775.pdf). Le même exercice figure aussi dans Handout-3131-2694.pdf (Intermediate 2A, Week 1 Competition), problème 9, réponse 6."
   url: "https://circles.math.ucla.edu/circles/archive.shtml"
   original_language: "en"
   local_copy: "sources/originals/ucla-lamc/Handout-4070-3775.pdf"

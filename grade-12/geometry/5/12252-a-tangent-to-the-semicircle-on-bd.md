@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [nombres complexes, forme exponentielle, produit scalaire, tangente, triangle rectangle, similitude, maths-expertes]
+tags: [nombres-complexes, forme-exponentielle, produit-scalaire, tangente, triangle-rectangle, similitude, maths-expertes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de mars 2016"

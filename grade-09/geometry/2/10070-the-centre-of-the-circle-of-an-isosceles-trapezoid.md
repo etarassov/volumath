@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 2
 duration_min: 25
-tags: [trapeze, symetrie axiale, mediatrice, cercle circonscrit, angle au centre, points cocycliques]
+tags: [trapeze, symetrie-axiale, mediatrice, cercle-circonscrit, angle-au-centre, points-cocycliques]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 1 (géométrie)"

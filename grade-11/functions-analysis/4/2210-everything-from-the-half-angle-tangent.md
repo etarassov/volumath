@@ -5,9 +5,10 @@ grade: 11
 theme: functions-analysis
 difficulty: 4
 duration_min: 35
-tags: [trigonometrie, duplication, tangente, identites]
+tags: [trigonometrie, duplication, tangente, identite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Trigonometry #1"

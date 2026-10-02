@@ -5,9 +5,10 @@ grade: 8
 theme: combinatorics
 difficulty: 4
 duration_min: 40
-tags: [compter deux fois, majoration, placement de nombres]
+tags: [compter-deux-fois, majoration, placement-de-nombres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Algèbre + Problèmes issus des stages Animath »"

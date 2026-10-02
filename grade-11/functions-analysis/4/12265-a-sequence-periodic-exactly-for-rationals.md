@@ -5,9 +5,10 @@ grade: 11
 theme: functions-analysis
 difficulty: 4
 duration_min: 40
-tags: [suite, nombres rationnels, periodicite, valeur absolue, principe des tiroirs]
+tags: [suites, nombres-rationnels, periodicite, valeur-absolue, principe-des-tiroirs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de janvier 2017"

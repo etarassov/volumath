@@ -5,9 +5,10 @@ grade: 9
 theme: arithmetic
 difficulty: 5
 duration_min: 45
-tags: [tiroirs, restes, multiples, repunits, demonstration]
+tags: [tiroirs, restes, multiples, repunit, demonstration]
 adapted_from: null
-see_also: ["1217"]
+see_also: ["7651"]
+same_as: ["1217"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Beginners Circle, Pigeonhole Principle"

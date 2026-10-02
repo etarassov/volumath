@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 2
 duration_min: 20
-tags: [denombrement, permutations, bloc, complementaire, disposition-circulaire]
+tags: [denombrement, permutations, blocs, complementaire, disposition-circulaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, Combinatorics"

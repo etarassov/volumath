@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [equation fonctionnelle, divisibilite, entiers, encadrement, valeurs particulieres]
+tags: [equation-fonctionnelle, divisibilite, entiers, encadrement, valeurs-particulieres]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-02
 source:
   name: "POFM, test de sélection pour la JBMO et deuxième jour du test pour l'OIM 2014 (14 mai 2014)"

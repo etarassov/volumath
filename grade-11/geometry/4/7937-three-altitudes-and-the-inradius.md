@@ -5,9 +5,10 @@ grade: 11
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [cercle inscrit, aire, hauteur, inegalite, cas d egalite]
+tags: [cercle-inscrit, aire, hauteur, inegalite, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, test de fin de parcours"

@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 15
-tags: [pourcentages, moyenne, proportions]
+tags: [pourcentages, moyenne, proportion]
 adapted_from: null
-see_also: ["3815"]
+see_also: []
+same_as: ["3815"]
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Intermediate 2A, Week 1 Competition"

@@ -5,9 +5,10 @@ grade: 12
 theme: geometry
 difficulty: 5
 duration_min: 75
-tags: [cocyclicite, quadrilatere inscrit, puissance-d-un-point, produit scalaire, projection orthogonale, milieu]
+tags: [cocyclicite, quadrilatere-inscrit, puissance-d-un-point, produit-scalaire, projection-orthogonale, milieu]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 6 (géométrie)"

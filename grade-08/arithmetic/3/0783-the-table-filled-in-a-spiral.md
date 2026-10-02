@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 3
 duration_min: 25
-tags: [carres-parfaits, tableau, regularite, generalisation, diagonale]
+tags: [carre-parfait, tableau, regularite, generalisation, diagonales]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »"

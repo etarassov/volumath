@@ -1,6 +1,6 @@
 ---
 id: "10458"
-title: "(x² + y²)³ ⩾ 32(x³ + y³)(xy − x − y)"
+title: "(x² + y²)³ ≥ 32(x³ + y³)(xy − x − y)"
 grade: 10
 theme: algebra
 difficulty: 5
@@ -8,6 +8,7 @@ duration_min: 50
 tags: [inegalite, somme-et-produit, carres, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 3 (algèbre)"

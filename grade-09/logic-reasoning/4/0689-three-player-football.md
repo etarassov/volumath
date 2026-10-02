@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 35
 tags: [raisonnement, denombrement, parite, jeu]
 adapted_from: null
-see_also: ["0739"]
+see_also: []
+same_as: ["0739"]
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Inégalités. Égalités. Équations et systèmes d'équations », 3 novembre 2023"

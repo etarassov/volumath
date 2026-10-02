@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [nombres premiers, divisibilite, bezout, pgcd, demonstration]
+tags: [nombres-premiers, divisibilite, bezout, pgcd, demonstration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Divisibility and the Euclidean Algorithm"

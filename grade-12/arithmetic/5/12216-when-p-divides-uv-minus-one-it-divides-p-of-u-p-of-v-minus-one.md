@@ -5,9 +5,10 @@ grade: 12
 theme: arithmetic
 difficulty: 5
 duration_min: 60
-tags: [maths-expertes, polynomes, congruences, nombres premiers, inverse modulo p, polynome reciproque, racines d un polynome]
+tags: [maths-expertes, polynome, congruences, nombres-premiers, inverse-modulo-p, polynome-reciproque, racines-d-un-polynome]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection de février 2015 (groupe A et EGMO)"

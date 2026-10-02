@@ -8,6 +8,7 @@ duration_min: 45
 tags: [denombrement, coefficients-binomiaux, coalitions, vote, parties-d-un-ensemble]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Group A, Voting: Power, Procedures, and Problems (Clint Givens)"

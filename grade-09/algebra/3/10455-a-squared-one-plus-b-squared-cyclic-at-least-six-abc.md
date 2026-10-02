@@ -1,6 +1,6 @@
 ---
 id: "10455"
-title: "a²(1 + b²) + b²(1 + c²) + c²(1 + a²) ⩾ 6abc"
+title: "a²(1 + b²) + b²(1 + c²) + c²(1 + a²) ≥ 6abc"
 grade: 9
 theme: algebra
 difficulty: 3
@@ -8,6 +8,7 @@ duration_min: 20
 tags: [inegalite, carres, developpement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2018-2019 n° 3 (algèbre)"

@@ -5,8 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 2
 duration_min: 15
-tags: [divisibilite, multiple, invariant, raisonnement-par-labsurde]
+tags: [divisibilite, multiples, invariant, raisonnement-par-labsurde]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, кружок 7 класса, I полугодие, пособие для преподавателей"

@@ -8,6 +8,7 @@ duration_min: 40
 tags: [coloriage, raisonnement-par-l-absurde, triangle-equilateral, distance]
 adapted_from: null
 see_also: []
+same_as: ["7319"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2018, La Muraille"

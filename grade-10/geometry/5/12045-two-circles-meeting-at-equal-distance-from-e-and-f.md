@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 5
 duration_min: 60
-tags: [cercles, hauteurs, bissectrice, puissance d'un point, triangles semblables, thales, aires, pythagore]
+tags: [cercle, hauteur, bissectrice, puissance-d-un-point, triangles-semblables, thales, aire, pythagore]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 15 janvier 2014"

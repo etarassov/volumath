@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 40
-tags: [cercle inscrit, cercle circonscrit, mediane, angle inscrit, cocyclicite, triangle isocele, chasse aux angles]
+tags: [cercle-inscrit, cercle-circonscrit, mediane, angle-inscrit, cocyclicite, triangle-isocele, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de février 2016, junior"

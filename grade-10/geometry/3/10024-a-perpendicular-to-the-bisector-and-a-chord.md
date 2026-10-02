@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 3
 duration_min: 25
-tags: [bissectrice, symetrie axiale, corde, cercle, vecteurs, distance a une droite]
+tags: [bissectrice, symetrie-axiale, corde, cercle, vecteurs, distance-a-une-droite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 1 (géométrie)"

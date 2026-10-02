@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [equation diophantienne, diviseurs, nombre de diviseurs, decomposition en facteurs premiers, carres parfaits, factorisation]
+tags: [equation-diophantienne, diviseurs, nombre-de-diviseurs, decomposition-en-facteurs-premiers, carre-parfait, factorisation]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de février 2016, junior"

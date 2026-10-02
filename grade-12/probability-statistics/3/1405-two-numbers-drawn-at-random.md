@@ -7,7 +7,8 @@ difficulty: 3
 duration_min: 25
 tags: [loi-uniforme, probabilite-continue, aire, independance]
 adapted_from: null
-see_also: []
+see_also: ["5914"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced 1, Introduction to Probability"

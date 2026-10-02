@@ -5,9 +5,10 @@ grade: 9
 theme: geometry
 difficulty: 3
 duration_min: 20
-tags: [trapeze, triangle-rectangle, milieux, droite des milieux, cercle]
+tags: [trapeze, triangle-rectangle, milieu, droite-des-milieux, cercle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2018, éliminatoires"

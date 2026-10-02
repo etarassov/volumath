@@ -8,6 +8,7 @@ duration_min: 50
 tags: [inegalite, valeur-absolue, sommes-doubles, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2017-2018 n° 3 (algèbre)"

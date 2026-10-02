@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [polynomes, maximum, suites, puissances, iteration]
+tags: [polynome, maximum, suites, puissances, iteration]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2016-2017 n° 2 (algèbre)"

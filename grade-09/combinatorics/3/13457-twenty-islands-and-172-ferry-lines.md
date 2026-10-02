@@ -5,9 +5,10 @@ grade: 9
 theme: combinatorics
 difficulty: 3
 duration_min: 25
-tags: [graphe, denombrement, raisonnement par l absurde, paires]
+tags: [graphe, denombrement, raisonnement-par-l-absurde, paires]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath d'automne 2025"

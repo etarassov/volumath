@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 4
 duration_min: 40
-tags: [inegalites, lemme de titu, moyenne arithmetique et geometrique, fractions]
+tags: [inegalite, lemme-de-titu, moyenne-arithmetique-et-geometrique, fractions]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 5 (pot-pourri)"

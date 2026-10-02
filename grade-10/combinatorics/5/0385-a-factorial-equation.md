@@ -7,6 +7,8 @@ difficulty: 5
 duration_min: 25
 tags: [factorielle, equation, entiers, infini, construction]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Малый мехмат МГУ, пособие для преподавателей (А. А. Аксёнов, А. А. Севастьянов)"

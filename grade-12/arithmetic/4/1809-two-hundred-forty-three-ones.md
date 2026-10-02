@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 40
 tags: [recurrence, divisibilite, ecriture-decimale, puissances-de-trois]
 adapted_from: null
-see_also: []
+see_also: ["1217"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Induction I"

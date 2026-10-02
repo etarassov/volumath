@@ -5,8 +5,10 @@ grade: 9
 theme: functions-analysis
 difficulty: 3
 duration_min: 20
-tags: [fonction, affine, droite, coefficient, equation]
+tags: [fonctions, affine, droites, coefficients, equation]
 adapted_from: null
+see_also: []
+same_as: []
 created: 2026-09-18
 source:
   name: "Математический кружок (7 класс, II полугодие), сост. Е. А. Асташов, Я. А. Верёвкин, А. А. Дейч, С. М. Саулин, А. В. Феклина, МГУ, 2017"

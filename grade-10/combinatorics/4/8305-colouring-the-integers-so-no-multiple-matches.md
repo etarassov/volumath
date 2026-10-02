@@ -8,6 +8,7 @@ duration_min: 40
 tags: [coloriage, divisibilite, minimum, chaine, puissances-de-deux]
 adapted_from: null
 see_also: []
+same_as: ["8571"]
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2020, Coupe Animath de printemps 2020"

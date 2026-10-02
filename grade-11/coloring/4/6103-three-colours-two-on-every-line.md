@@ -7,7 +7,8 @@ difficulty: 4
 duration_min: 40
 tags: [coloriage, plan, droites, construction, disjonction-de-cas]
 adapted_from: null
-see_also: ["6008"]
+see_also: []
+same_as: ["6008"]
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), MTCircular Winter 2012, rubrique « Problem Circle »"

@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 2
 duration_min: 15
-tags: [quotients, substitution, puissances]
+tags: [quotient, substitution, puissances]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12, Week 1: Algebra"

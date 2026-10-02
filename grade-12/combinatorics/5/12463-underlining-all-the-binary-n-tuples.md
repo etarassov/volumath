@@ -8,6 +8,7 @@ duration_min: 75
 tags: [n-uplets, voisins, recurrence, construction, minoration, processus]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 22 janvier 2020"

@@ -8,6 +8,7 @@ duration_min: 25
 tags: [set, denombrement, cartes, cas, unicite]
 adapted_from: null
 see_also: ["5404", "5407"]
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), The Game of SET, Brian Conrey et Brianna Donaldson"

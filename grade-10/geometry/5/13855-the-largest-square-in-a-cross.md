@@ -8,6 +8,7 @@ duration_min: 60
 tags: [carre, optimisation, maximum, coordonnees, trigonometrie]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2022, premier tour"

@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 45
-tags: [exponentielle, logarithme, changement de variable, produit telescopique]
+tags: [exponentielle, logarithme, changement-de-variable, produit-telescopique]
 adapted_from: null
 see_also: ["1802"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), AMC 10/12, Algebra (ORMC AMC Packet 2)"

@@ -8,6 +8,7 @@ duration_min: 15
 tags: [entiers, multiples, parite, equation-a-deux-inconnues]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "MathCircles.org (National Association of Math Circles), « Primes, Divisibility, and Modular Arithmetic », Joshua Zucker, The Teachers' Circle, 2006"

@@ -5,9 +5,10 @@ grade: 8
 theme: algebra
 difficulty: 2
 duration_min: 15
-tags: [equations, mise-en-equation, masses, systeme]
+tags: [equation, mise-en-equation, masse, systeme]
 adapted_from: null
 see_also: []
+same_as: ["3811"]
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »"

@@ -5,9 +5,10 @@ grade: 9
 theme: algebra
 difficulty: 4
 duration_min: 35
-tags: [produit, inegalite, identite-remarquable, carre-positif, optimisation, factorielle]
+tags: [produit, inegalite, identites-remarquables, carre-positif, optimisation, factorielle]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 1er avril 2020"

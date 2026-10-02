@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [sommes, multiples, demonstration, recherche-de-cas, entiers-consecutifs]
+tags: [somme, multiples, demonstration, recherche-de-cas, entiers-consecutifs]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Club de mathématiques de Lyon, feuille « Préparation Olympiades de Mathématiques de 4ème »"

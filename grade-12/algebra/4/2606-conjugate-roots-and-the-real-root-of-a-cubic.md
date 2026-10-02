@@ -8,6 +8,7 @@ duration_min: 35
 tags: [nombres-complexes, conjugue, polynome, degre-trois]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School I Circle, Complex Numbers: a primer"

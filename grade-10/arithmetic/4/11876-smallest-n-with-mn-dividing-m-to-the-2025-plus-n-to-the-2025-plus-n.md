@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 35
-tags: [divisibilite, nombres premiers, decomposition en facteurs premiers, puissances, minimum]
+tags: [divisibilite, nombres-premiers, decomposition-en-facteurs-premiers, puissances, minimum]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 5 (pot-pourri)"

@@ -5,9 +5,10 @@ grade: 10
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [bases de numeration, carres parfaits, construction, infinite]
+tags: [bases-de-numeration, carre-parfait, construction, infinite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2023-2024 n° 5 (pot-pourri)"

@@ -5,9 +5,10 @@ grade: 8
 theme: arithmetic
 difficulty: 2
 duration_min: 15
-tags: [produit telescopique, telescopage, fractions, fraction irreductible]
+tags: [produit-telescopique, telescopage, fractions, fraction-irreductible]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "Coupe Animath de printemps 2022, premier tour"

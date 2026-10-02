@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 4
 duration_min: 30
-tags: [denombrement, combinaisons, bijection, partages]
+tags: [denombrement, combinaisons, bijection, partage]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced, Intro to combinatorics and probability"

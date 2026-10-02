@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 3
 duration_min: 30
-tags: [nombres premiers, fractions egyptiennes, factorisation, diviseurs]
+tags: [nombres-premiers, fractions-egyptiennes, factorisation, diviseurs]
 adapted_from: null
-see_also: []
+see_also: ["7452"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2015"

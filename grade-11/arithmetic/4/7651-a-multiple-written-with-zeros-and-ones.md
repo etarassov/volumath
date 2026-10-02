@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 30
-tags: [principe des tiroirs, congruences, divisibilite, numeration]
+tags: [principe-des-tiroirs, congruences, divisibilite, numeration]
 adapted_from: null
 see_also: ["4617"]
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2013, cours de stratégies de base du groupe A"

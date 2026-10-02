@@ -5,9 +5,10 @@ grade: 10
 theme: geometry
 difficulty: 4
 duration_min: 35
-tags: [quadrilatere inscrit, angle inscrit, points cocycliques, droites paralleles, chasse aux angles]
+tags: [quadrilatere-inscrit, angle-inscrit, points-cocycliques, droites-paralleles, chasse-aux-angles]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2013-2014 n° 5 (géométrie)"

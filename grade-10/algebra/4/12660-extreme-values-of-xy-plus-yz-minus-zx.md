@@ -5,9 +5,10 @@ grade: 10
 theme: algebra
 difficulty: 4
 duration_min: 25
-tags: [inegalites, identites-remarquables, somme-de-carres, minimum, maximum]
+tags: [inegalite, identites-remarquables, somme-de-carres, minimum, maximum]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 18 mai 2022"

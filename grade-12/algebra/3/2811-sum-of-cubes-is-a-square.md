@@ -5,9 +5,10 @@ grade: 12
 theme: algebra
 difficulty: 3
 duration_min: 30
-tags: [recurrence, somme, cubes, identite-remarquable]
+tags: [recurrence, somme, cubes, identites-remarquables]
 adapted_from: null
-see_also: []
+see_also: ["5516"]
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), High School I, Proofs using Induction"

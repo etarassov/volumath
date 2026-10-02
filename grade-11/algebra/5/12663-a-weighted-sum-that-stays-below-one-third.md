@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 5
 duration_min: 45
-tags: [inegalites, sommes, telescopage, identites-remarquables, cubes]
+tags: [inegalite, somme, telescopage, identites-remarquables, cubes]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du 18 mai 2022"

@@ -8,6 +8,7 @@ duration_min: 45
 tags: [rationnels, congruences, puissances, descente-infinie, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2012-2013 n° 3 (arithmétique)"

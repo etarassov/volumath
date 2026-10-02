@@ -5,9 +5,10 @@ grade: 11
 theme: combinatorics
 difficulty: 5
 duration_min: 60
-tags: [principe-des-tiroirs, algorithme-glouton, optimum, inegalites, rangement]
+tags: [principe-des-tiroirs, algorithme-glouton, optimum, inegalite, rangement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Valbonne 2024"

@@ -8,6 +8,7 @@ duration_min: 40
 tags: [nombres-premiers, congruences, divisibilite, pgcd, disjonction-de-cas]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection du 29 novembre 2017"

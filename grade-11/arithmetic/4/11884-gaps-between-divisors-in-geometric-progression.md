@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 40
-tags: [diviseurs, nombres premiers, suite geometrique, puissances, divisibilite]
+tags: [diviseurs, nombres-premiers, suite-geometrique, puissances, divisibilite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2024-2025 n° 5 (pot-pourri)"

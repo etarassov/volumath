@@ -5,9 +5,10 @@ grade: 12
 theme: combinatorics
 difficulty: 5
 duration_min: 75
-tags: [construction, polygone, valeurs intermediaires, ordre, coordonnees]
+tags: [construction, polygone, valeurs-intermediaires, ordre, coordonnees]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2015-2016 n° 4 (combinatoire)"

@@ -1,6 +1,6 @@
 ---
 id: "10625"
-title: "a + b² + b/a ⩾ 3b"
+title: "a + b² + b/a ≥ 3b"
 grade: 10
 theme: algebra
 difficulty: 3
@@ -8,6 +8,7 @@ duration_min: 25
 tags: [inegalite, racine-carree, factorisation, cas-d-egalite]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, envoi d'entraînement 2021-2022 n° 2 (algèbre)"

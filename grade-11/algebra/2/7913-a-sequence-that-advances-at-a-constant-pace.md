@@ -5,9 +5,10 @@ grade: 11
 theme: algebra
 difficulty: 2
 duration_min: 15
-tags: [suite arithmetique, relation de recurrence, raison]
+tags: [suite-arithmetique, relation-de-recurrence, raison]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-20
 source:
   name: "POFM, stage olympique de Montpellier 2016, Coupe Animath"

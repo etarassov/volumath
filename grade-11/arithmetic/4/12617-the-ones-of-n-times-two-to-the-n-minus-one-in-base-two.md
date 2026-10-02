@@ -8,6 +8,7 @@ duration_min: 40
 tags: [base-2, ecriture-binaire, puissances-de-deux, chiffres, complement]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test de sélection des 14 et 21 février 2021"

@@ -8,6 +8,7 @@ duration_min: 40
 tags: [denombrement, permutations, blocs, disposition-circulaire, complementaire]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-09-19
 source:
   name: "Los Angeles Math Circle (UCLA), Advanced Circle, Combinatorics"

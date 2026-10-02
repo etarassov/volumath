@@ -5,9 +5,10 @@ grade: 11
 theme: arithmetic
 difficulty: 4
 duration_min: 45
-tags: [premiers entre eux, nombres premiers, construction, principe des tiroirs, raisonnement par l'absurde]
+tags: [premiers-entre-eux, nombres-premiers, construction, principe-des-tiroirs, raisonnement-par-l-absurde]
 adapted_from: null
 see_also: []
+same_as: []
 created: 2026-10-01
 source:
   name: "POFM, test du stage de mars 2013"
