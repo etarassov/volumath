@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="354" viewBox="0 0 400 354">
+<rect x="0" y="0" width="100%" height="100%" fill="#fff"/>
+<circle cx="173.7" cy="157.0" r="119.4" stroke="#555" stroke-width="1.2" fill="none"/>
+<polygon points="129.8,45.9 63.9,204.0 283.4,204.0" fill="none" stroke="#000" stroke-width="1.4"/>
+<line x1="129.8" y1="45.9" x2="238.9" y2="307.9" stroke="#000" stroke-width="1.4" fill="none"/>
+<line x1="233.6" y1="320.2" x2="317.6" y2="124.1" stroke="#1a5fb4" stroke-width="1.4" fill="none"/>
+<circle cx="129.8" cy="45.9" r="2.2" fill="#000" stroke="none"/>
+<circle cx="63.9" cy="204.0" r="2.2" fill="#000" stroke="none"/>
+<circle cx="283.4" cy="204.0" r="2.2" fill="#000" stroke="none"/>
+<circle cx="195.6" cy="204.0" r="2.2" fill="#000" stroke="none"/>
+<circle cx="238.9" cy="307.9" r="2.2" fill="#000" stroke="none"/>
+<text x="129.8" y="36.9" font-family="Helvetica" font-size="15" font-style="italic" text-anchor="middle" fill="#000">A</text>
+<text x="51.9" y="213.0" font-family="Helvetica" font-size="15" font-style="italic" text-anchor="middle" fill="#000">B</text>
+<text x="296.4" y="203.0" font-family="Helvetica" font-size="15" font-style="italic" text-anchor="middle" fill="#000">C</text>
+<text x="185.6" y="222.0" font-family="Helvetica" font-size="15" font-style="italic" text-anchor="middle" fill="#000">D</text>
+<text x="252.9" y="316.9" font-family="Helvetica" font-size="15" font-style="italic" text-anchor="middle" fill="#000">E</text>
+<text x="325.6" y="121.1" font-family="Helvetica" font-size="15" text-anchor="middle" fill="#000">Δ</text>
+<text x="79.7" y="70.0" font-family="Helvetica" font-size="15" text-anchor="middle" fill="#000">Γ</text>
+</svg>

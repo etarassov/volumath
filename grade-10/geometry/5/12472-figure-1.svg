@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="370" viewBox="0 0 520 370">
+<rect width="520" height="370" fill="#fff"/>
+<line x1="201.2" y1="35.0" x2="40.0" y2="345.0" stroke="#000" stroke-width="1.4"/>
+<line x1="40.0" y1="345.0" x2="474.0" y2="345.0" stroke="#000" stroke-width="1.4"/>
+<line x1="474.0" y1="345.0" x2="201.2" y2="35.0" stroke="#000" stroke-width="1.4"/>
+<line x1="201.2" y1="35.0" x2="201.2" y2="345.0" stroke="#000" stroke-width="0.9" stroke-dasharray="4,3"/>
+<line x1="40.0" y1="345.0" x2="284.6" y2="129.8" stroke="#000" stroke-width="0.9" stroke-dasharray="4,3"/>
+<line x1="474.0" y1="345.0" x2="132.4" y2="167.4" stroke="#000" stroke-width="0.9" stroke-dasharray="4,3"/>
+<line x1="201.2" y1="345.0" x2="132.4" y2="167.4" stroke="#000" stroke-width="1.2"/>
+<line x1="201.2" y1="345.0" x2="284.6" y2="129.8" stroke="#000" stroke-width="1.2"/>
+<circle cx="125.5" cy="293.1" r="51.9" fill="none" stroke="#000" stroke-width="1.1"/>
+<circle cx="309.7" cy="270.7" r="74.3" fill="none" stroke="#000" stroke-width="1.1"/>
+<line x1="57.1" y1="327.9" x2="357.1" y2="190.4" stroke="#000" stroke-width="1.1"/>
+<circle cx="201.2" cy="35.0" r="2.6" fill="#000"/>
+<circle cx="40.0" cy="345.0" r="2.6" fill="#000"/>
+<circle cx="474.0" cy="345.0" r="2.6" fill="#000"/>
+<circle cx="201.2" cy="345.0" r="2.6" fill="#000"/>
+<circle cx="284.6" cy="129.8" r="2.6" fill="#000"/>
+<circle cx="132.4" cy="167.4" r="2.6" fill="#000"/>
+<circle cx="173.8" cy="274.4" r="2.6" fill="#000"/>
+<circle cx="240.4" cy="243.9" r="2.6" fill="#000"/>
+<circle cx="79.7" cy="317.5" r="2.6" fill="#000"/>
+<circle cx="334.5" cy="200.7" r="2.6" fill="#000"/>
+<text x="201.2" y="21.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">A</text>
+<text x="28.0" y="353.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">B</text>
+<text x="486.0" y="353.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="201.2" y="360.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">D</text>
+<text x="297.6" y="123.8" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">E</text>
+<text x="119.4" y="161.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">F</text>
+<text x="161.8" y="274.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">M</text>
+<text x="252.4" y="243.9" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">N</text>
+<text x="79.7" y="304.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">P</text>
+<text x="334.5" y="187.7" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">Q</text>
+<text x="128.6" y="227.2" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">ω<tspan font-size="11" font-style="normal" dy="4">B</tspan></text>
+<text x="394.2" y="322.7" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">ω<tspan font-size="11" font-style="normal" dy="4">C</tspan></text>
+</svg>

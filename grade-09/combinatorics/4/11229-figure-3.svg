@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="330" viewBox="0 0 330 330">
+<rect x="0" y="0" width="330" height="330" fill="#ffffff" stroke="none"/>
+<rect x="15" y="15" width="300" height="240" fill="#c6dbef" stroke="#000000" stroke-width="2"/>
+<text x="165.0" y="135.0" font-family="Helvetica, Arial, sans-serif" font-size="22" text-anchor="middle" dominant-baseline="middle" fill="#000000">R1</text>
+<rect x="15" y="255" width="214" height="60" fill="#c7e9c0" stroke="#000000" stroke-width="2"/>
+<text x="122.0" y="285.0" font-family="Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle" fill="#000000">R2</text>
+<rect x="229" y="255" width="60" height="60" fill="#fdd0a2" stroke="#000000" stroke-width="2"/>
+<text x="259.0" y="285.0" font-family="Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle" fill="#000000">R3</text>
+<rect x="289" y="255" width="26" height="36.0" fill="#f4c7c3" stroke="#000000" stroke-width="2"/>
+<text x="302.0" y="273.0" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="#000000">R4</text>
+<rect x="289" y="291.0" width="26" height="24.0" fill="#9e9e9e" stroke="#000000" stroke-width="2"/>
+</svg>

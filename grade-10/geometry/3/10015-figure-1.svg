@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 407" width="360" height="407">
+  <polygon points="180,28 332,115.8 332,291.3 180,379 28,291.3 28,115.8" fill="none" stroke="#000" stroke-width="1.6"/>
+  <line x1="180" y1="28" x2="332" y2="291.3" fill="none" stroke="#000" stroke-width="1.2"/>
+  <line x1="332" y1="291.3" x2="28" y2="291.3" fill="none" stroke="#000" stroke-width="1.2"/>
+  <line x1="332" y1="115.8" x2="156.5" y2="291.3" fill="none" stroke="#555" stroke-width="1.2" stroke-dasharray="6,4"/>
+  <circle cx="180" cy="28" r="3" fill="#000"/>
+  <circle cx="332" cy="115.8" r="3" fill="#000"/>
+  <circle cx="332" cy="291.3" r="3" fill="#000"/>
+  <circle cx="180" cy="379" r="3" fill="#000"/>
+  <circle cx="28" cy="291.3" r="3" fill="#000"/>
+  <circle cx="28" cy="115.8" r="3" fill="#000"/>
+  <circle cx="267.8" cy="180" r="3" fill="#000"/>
+  <circle cx="156.5" cy="291.3" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="174.9" y="19.9">A</text>
+    <text x="339" y="114.7">B</text>
+    <text x="339" y="304.2">C</text>
+    <text x="174.9" y="399">D</text>
+    <text x="10.8" y="304.2">E</text>
+    <text x="10.8" y="114.7">F</text>
+    <text x="249.1" y="189.6">M</text>
+    <text x="151.4" y="311.2">N</text>
+  </g>
+</svg>

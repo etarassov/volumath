@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="438" height="239" viewBox="0 0 438 239">
+<rect width="438" height="239" fill="#fff"/>
+<polygon points="274.0,30.0 409.0,210.0 109.0,210.0" fill="none" stroke="#000" stroke-width="1.4"/>
+<line x1="274.0" y1="30.0" x2="213.1" y2="210.0" stroke="#000" stroke-width="1.1"/>
+<line x1="231.4" y1="156.0" x2="109.0" y2="210.0" stroke="#000" stroke-width="1.1"/>
+<line x1="409.0" y1="210.0" x2="30.0" y2="94.8" stroke="#000" stroke-width="1.1"/>
+<line x1="213.1" y1="210.0" x2="30.0" y2="94.8" stroke="#000" stroke-width="1.1"/>
+<line x1="109.0" y1="210.0" x2="30.0" y2="94.8" stroke="#000" stroke-width="1.1" stroke-dasharray="5,4"/>
+<circle cx="274.0" cy="30.0" r="2.6" fill="#000"/>
+<circle cx="409.0" cy="210.0" r="2.6" fill="#000"/>
+<circle cx="109.0" cy="210.0" r="2.6" fill="#000"/>
+<circle cx="231.4" cy="156.0" r="2.6" fill="#000"/>
+<circle cx="170.2" cy="183.0" r="2.6" fill="#000"/>
+<circle cx="213.1" cy="210.0" r="2.6" fill="#000"/>
+<circle cx="30.0" cy="94.8" r="2.6" fill="#000"/>
+<text x="274.0" y="16.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">A</text>
+<text x="421.0" y="216.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">B</text>
+<text x="105.0" y="225.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="241.4" y="148.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">P</text>
+<text x="168.2" y="169.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">D</text>
+<text x="217.1" y="224.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">E</text>
+<text x="18.0" y="86.8" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">Q</text>
+</svg>

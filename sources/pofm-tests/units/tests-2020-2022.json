@@ -1,0 +1,420 @@
+{
+ "unit": "tests-2020-2022",
+ "source": "pofm-tests",
+ "title": "Tests de sélection POFM, années 2020 à 2022",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "12601",
+  "12800"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2020-2021",
+   "label": "Test de Novembre",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2020-11_Enonce-Test-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/11/Énoncé-Test-1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2020-11_Corrige-Test-1.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2020/11/Corrigé-Test-1.pdf"
+   }
+  },
+  {
+   "year": "2020-2021",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2021-01_Enonce-Test-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/01/Énoncé-Test-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2021-01_Corrige-Test-2.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2021/01/Corrigé-Test-2.pdf"
+   }
+  },
+  {
+   "year": "2020-2021",
+   "label": "Tests de Février",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2021-12_Enonce-Test-3-2020.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/12/Enoncé-Test-3-2020.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2021-03_Corrige-Test-3-Web.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2021/03/Corrigé-Test-3-Web.pdf"
+   }
+  },
+  {
+   "year": "2020-2021",
+   "label": "Test de Mars",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2021-12_Enonce-Test-4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/12/Énoncé-Test-4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2021-04_Corrige-Test-4-Web.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2021/04/Corrigé-Test-4-Web.pdf"
+   }
+  },
+  {
+   "year": "2020-2021",
+   "label": "Test de Mai",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2021-12_Sujet-test-5-2021.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/12/Sujet-test-5-2021.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2021-05_Corrige-Web-Test-5.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2021/05/Corrigé-Web-Test-5.pdf"
+   }
+  },
+  {
+   "year": "2021-2022",
+   "label": "Test de Novembre",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2021-12_Enonce-Web-Test-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/12/Énoncé-Web-Test-1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2021-12_Corrige-Web-Test-1.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2021/12/Corrigé-Web-Test-1.pdf"
+   }
+  },
+  {
+   "year": "2021-2022",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2022-08_Enonce-Web-Test-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/08/Énoncé-Web-Test-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2022-01_Corrige-Web-Test-2.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2022/01/Corrigé-Web-Test-2.pdf"
+   }
+  },
+  {
+   "year": "2021-2022",
+   "label": "Tests de Février",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2022-08_Enonce-Web-Test-3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/08/Énoncé-Web-Test-3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2022-03_Corrige-Web-Test-3.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2022/03/Corrigé-Web-Test-3.pdf"
+   }
+  },
+  {
+   "year": "2021-2022",
+   "label": "Test de Mars",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2022-07_Enonce-Web-Test-4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/07/Énoncé-Web-Test-4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2022-04_Corrige-Web-Test-4.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2022/04/Corrigé-Web-Test-4.pdf"
+   }
+  },
+  {
+   "year": "2021-2022",
+   "label": "Test de Mai",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2022-07_Enonce-Web-Test-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/07/Énoncé-Web-Test-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2022-06_Corrige-Web-Test-5.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2022/06/Corrigé-Web-Test-5.pdf"
+   }
+  }
+ ],
+ "next_document": 10,
+ "imported": [
+  "12601",
+  "12602",
+  "12603",
+  "12604",
+  "12605",
+  "12606",
+  "12607",
+  "12608",
+  "12609",
+  "12610",
+  "12611",
+  "12612",
+  "12613",
+  "12614",
+  "12615",
+  "12616",
+  "12617",
+  "12618",
+  "12619",
+  "12620",
+  "12621",
+  "12622",
+  "12623",
+  "12624",
+  "12625",
+  "12626",
+  "12627",
+  "12628",
+  "12629",
+  "12630",
+  "12631",
+  "12632",
+  "12633",
+  "12634",
+  "12635",
+  "12636",
+  "12637",
+  "12638",
+  "12639",
+  "12640",
+  "12641",
+  "12642",
+  "12643",
+  "12644",
+  "12645",
+  "12646",
+  "12647",
+  "12648",
+  "12649",
+  "12650",
+  "12651",
+  "12652",
+  "12653",
+  "12654",
+  "12655",
+  "12656",
+  "12657",
+  "12658",
+  "12659",
+  "12660",
+  "12661",
+  "12662",
+  "12663"
+ ],
+ "skipped": [
+  {
+   "where": "2021-01_Enonce-Test-2.pdf, exercice 5 (senior)",
+   "why": "même énoncé, mot pour mot, que l exercice 4 (junior) du même test, importé une seule fois",
+   "existing": "12607"
+  },
+  {
+   "where": "2021-12_Enonce-Test-3-2020.pdf, exercice 8 (EGMO)",
+   "why": "même énoncé, mot pour mot, que l exercice 4 (junior) du même test, importé une seule fois",
+   "existing": "12613"
+  },
+  {
+   "where": "2022-08_Enonce-Web-Test-2.pdf, exercice 5",
+   "why": "identique à l'exercice 4 (même problème posé aux juniors et aux seniors)",
+   "existing": "12640"
+  },
+  {
+   "where": "2022-07_Enonce-Web-Test-4.pdf, exercice 1",
+   "why": "déjà dans la collection au même niveau : même problème (rectangle ABCD, demi-cercle de diamètre [BC], AF = BF), importé depuis le même test par le polycopié de Saint-Cheron 2024",
+   "existing": "7268"
+  },
+  {
+   "where": "2022-07_Enonce-Web-Test-4.pdf, exercice 5",
+   "why": "identique à l'exercice 4 (même problème posé aux juniors et aux seniors)",
+   "existing": "12655"
+  },
+  {
+   "where": "2022-07_Enonce-Web-Test-5.pdf, exercice 5",
+   "why": "identique à l'exercice 4 (même problème posé aux juniors et aux seniors)",
+   "existing": "12661"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "12614",
+   "tool": "congruences modulo un nombre premier, lemme d'Euclide",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12616",
+   "tool": "équation fonctionnelle, limites de suites monotones (programme de Terminale)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12632",
+   "tool": "équation fonctionnelle sur les entiers, valuation p-adique, principe des tiroirs",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12648",
+   "tool": "angles orientés de droites (cocyclicité, angle tangente-corde)",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "12650",
+   "tool": "angles orientés de droites (cocyclicité, angle tangente-corde)",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  }
+ ],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2021-01_Corrige-Test-2.pdf, exercice 7, solution de la partie b), page 16",
+   "what": "coquille : dans le cas x_j = 12, le corrigé écrit « donc x_j = 4 » au lieu de « x_i = 4 ». Le calcul qui suit est juste. Sans effet sur 12609."
+  },
+  {
+   "where": "2021-03_Corrige-Test-3-Web.pdf, exercice 6, solution alternative n° 3, page 20",
+   "what": "les longueurs BD et CD sont échangées dans deux lignes (BD = z et CD = x, et non BD = x et CD = z) ; la contradiction subsiste. Sans effet sur 12615."
+  },
+  {
+   "where": "2021-03_Corrige-Test-3-Web.pdf, exercice 7, page 22",
+   "what": "coquille : f(y) = y + (q − 1)/p au lieu de (y + q − 1)/p ; sans effet, le corrigé traite ensuite toutes les fonctions affines. Sans effet sur 12616."
+  },
+  {
+   "where": "2021-12_Enonce-Test-3-2020.pdf, exercice 10 (EGMO)",
+   "what": "imprécision : l'énoncé dit « un triangle » alors qu'avec un angle droit l'un des deux triangles Q_AQ_BC, Q_ABQ_C est aplati ; « sans angle droit » ajouté dans 12618."
+  },
+  {
+   "where": "2021-04_Corrige-Test-4-Web.pdf, exercice 1, solution alternative n° 3, page 4",
+   "what": "coquille : la dernière égalité donne « a4 − a7 » au lieu de « a1 − a7 » ; la contradiction subsiste. Sans effet sur 12619."
+  },
+  {
+   "where": "2021-04_Corrige-Test-4-Web.pdf, exercice 3",
+   "what": "imprécision : le corrigé suit la figure, où l'angle en A est aigu et E est entre B et A. Selon les angles, E et P peuvent être au-delà de A ; 12621 traite tous les cas."
+  },
+  {
+   "where": "2021-04_Corrige-Test-4-Web.pdf, exercice 5, page 10",
+   "what": "coquille : le développement écrit « by² » au lieu de « by³ » ; sans effet sur la suite. Sans effet sur 12623."
+  },
+  {
+   "where": "2021-05_Corrige-Web-Test-5.pdf, exercice 3",
+   "what": "Dans la partie sur les permutations σπ,τ, le corrigé écrit σX(k) > k au lieu de σπ,τ(k) > k."
+  },
+  {
+   "where": "2021-05_Corrige-Web-Test-5.pdf, exercice 7",
+   "what": "La définition d'un entier joli dit « pour tout entier k ⩽ 1 » au lieu de 1 ⩽ k ⩽ n − 1 (et « k ⩽ d − 1 » plus loin, sans la borne 1 ⩽ k)."
+  },
+  {
+   "where": "2021-12_Corrige-Web-Test-1.pdf, exercice 2, solution alternative",
+   "what": "fautes d'indices : « |σi − σi+1| + |σi+1 − σi+2| = |σi − σi+2| » et « ajoute |σn − σ1| » qui devrait être |σn − σi|. Sans effet sur la réponse 2 042 219 (12634)."
+  },
+  {
+   "where": "2021-12_Corrige-Web-Test-1.pdf, exercice 3, solution alternative",
+   "what": "« il existe un entier I » au lieu d'un ensemble I, et « ≠ a » au lieu de « = a ». La solution principale est juste (12635)."
+  },
+  {
+   "where": "2021-12_Corrige-Web-Test-1.pdf, exercice 4, lemme 4",
+   "what": "le second cas suppose « x ⩾ ℓ et y ⩽ ℓ/2 » au lieu de x ⩽ ℓ/2 et y ⩾ ℓ, et écrit « y − x − x − ε » au lieu de y − x − ε. De plus la symétrie t ↦ −f(−t) est invoquée alors que ε dépend de f ; 12636 choisit un δ symétrique pour que l'argument tienne."
+  },
+  {
+   "where": "2022-08_Enonce-Web-Test-2.pdf, exercice 3",
+   "what": "L'énoncé n'exclut pas AB = AC : dans ce cas D = P et les droites (SD) et (A′P) sont confondues, l'énoncé n'a plus de sens. 12639 ajoute AB ≠ AC, et des angles aigus en B et C pour que D soit sur [BC]."
+  },
+  {
+   "where": "2022-01_Corrige-Web-Test-2.pdf, exercice 3",
+   "what": "« (XA′, XS) = (AA′, AX) » doit se lire (XA′, XS) = (AA′, AS), et « le point I » désigne le point X."
+  },
+  {
+   "where": "2022-01_Corrige-Web-Test-2.pdf, exercice 6",
+   "what": "Un « si » en trop : « En effet, si s_{ℓ+1} + s_ℓ divise ... »."
+  },
+  {
+   "where": "2022-01_Corrige-Web-Test-2.pdf, exercice 7",
+   "what": "« avec 1 ⩽ ℓ ⩽ k » où k n'est pas défini (il faut 2 ⩽ ℓ ⩽ n − 2), et « ce démontre » pour « se démontre »."
+  },
+  {
+   "where": "2022-03_Corrige-Web-Test-3.pdf, exercice 5",
+   "what": "Solution avec un graphe : « dont ils sont eux aussi monochromes » pour « donc ils sont ». Solution alternative : « p divise u ∧ v mais pas u ∧ v » doit se lire « mais pas t ∧ u »."
+  },
+  {
+   "where": "2022-03_Corrige-Web-Test-3.pdf, exercice 6",
+   "what": "« le triangle TDK est isocèle en K » : il est isocèle en T (TD = TK par définition de K). Aussi « sont appartiennent », « Forts de toutes ces relations ..., ensuite que » (verbe manquant) et « Ces relations de parallélisme indique »."
+  },
+  {
+   "where": "2022-03_Corrige-Web-Test-3.pdf, exercice 7",
+   "what": "Question b) : « chaque case rose ou noire se trouve juste au-dessus ou juste à gauche d'une case rose » doit se lire « juste à droite »."
+  },
+  {
+   "where": "2022-03_Corrige-Web-Test-3.pdf, exercice 8",
+   "what": "Solution alternative : la chaîne « (YT, YD) = (YT, YA) = (AY, AX) = (DY, DC) » est fausse au milieu (elle vaudrait seulement si AXY était isocèle en Y). Il faut (YT, YA) = (XY, XA) = (CY, CD), vérifié numériquement ; la conclusion (YT) tangente au cercle CDY reste vraie."
+  },
+  {
+   "where": "2022-03_Corrige-Web-Test-3.pdf, exercice 9",
+   "what": "Première solution : la borne « (k+1)t − 1 » doit se lire « k(t+1) − 1 », et les deux sommes « Σ_{j=0}^{n−1} » doivent aller jusqu'à n. Solution alternative : « j décrit {1, 2, ..., n − 1} » pour « {1, 2, ..., n} ». Commentaire : « de de nombreuses »."
+  },
+  {
+   "where": "2022-08_Enonce-Web-Test-3.pdf, exercice 9",
+   "what": "L'énoncé dit « les entiers n » et la réponse officielle est « n + 1 premier », mais n = 0 vérifie aussi l'égalité (deux membres nuls). 12651 restreint l'énoncé à n ⩾ 1."
+  },
+  {
+   "where": "2022-04_Corrige-Web-Test-4.pdf, exercice 2",
+   "what": "Commentaire : « un sous angle arithmétique », « mais cette n'aboutit » (mot manquant), « quelque soit » pour « quel que soit »."
+  },
+  {
+   "where": "2022-04_Corrige-Web-Test-4.pdf, exercice 4",
+   "what": "Construction : « elle choisit a jetons de couleur m » doit se lire « de couleur n » ; « insère ajoute » ; « parvenir a ses fins »."
+  },
+  {
+   "where": "2022-07_Enonce-Web-Test-4.pdf, exercice 6",
+   "what": "L'énoncé définit une permutation comme une suite σ = (σ₁, …, σ₂₀₂₂), puis l'appelle a₁, …, a₂₀₂₂. Dans le corrigé, le rang bᵢ est défini « pour tout i ⩽ k » alors qu'il ne sert que pour i ⩽ k − 1 ; « Pusique »."
+  },
+  {
+   "where": "2022-04_Corrige-Web-Test-4.pdf, exercice 7",
+   "what": "Dernière étape fausse telle qu'écrite : « soit m tel que m + n ∈ E. Alors λ = a(m+n) divise a(n) + a(m) ». L'hypothèse ne donne cela que si n, m et m + n sont régulièrement espacés. Correction dans 12657 : pour j assez grand, on prend N dans E avec j < N < 2j, n = 2j − N, m = N − j ; λ divise a(n) + a(j) (indice N) et a(n) + a(j+d) (indice N + 2d), donc a(j) = a(j+d). Le corrigé conclut aussi « d-périodique » pour tout n ⩾ 1, ce que l'argument corrigé ne donne qu'à partir d'un certain rang, ce qui suffit. Commentaire : « propriétés arithmétique »."
+  },
+  {
+   "where": "2022-06_Corrige-Web-Test-5.pdf, exercice 1",
+   "what": "Le corrigé écrit « d ≠ 3 », ce qui doit se lire « 3 ne divise pas x! »."
+  },
+  {
+   "where": "2022-06_Corrige-Web-Test-5.pdf, exercice 2",
+   "what": "Deux plaques sont dites de la même famille « si leurs sept premiers chiffres sont différents » : il faut lire « identiques »."
+  },
+  {
+   "where": "2022-06_Corrige-Web-Test-5.pdf, exercice 3",
+   "what": "Coquille mineure : « atteindrait »."
+  },
+  {
+   "where": "2022-06_Corrige-Web-Test-5.pdf, exercice 6",
+   "what": "L'écart entre 3 × (−3)ⁿ et 3 × (−3)ⁿ⁺² est donné comme 8 × 3ⁿ ; il vaut 24 × 3ⁿ = 8 × 3ⁿ⁺¹ (la conclusion n'en dépend pas). « Deux éléments consécutifs » n'est pas précisé (voisins dans l'ordre de la droite). Dans la solution alternative, « la grille de gauche » apparaît deux fois, la seconde pour la grille de droite."
+  },
+  {
+   "where": "2022-06_Corrige-Web-Test-5.pdf, exercice 7",
+   "what": "Solution alternative n° 1 : la dernière ligne « = 1 − (1/3)Σa³ < 1 » doit se lire « = 1/3 − (1/3)Σa³ < 1/3 ». Solution alternative n° 2 : la somme qui définit S(x₁, …, xₖ) va jusqu'à n au lieu de k, et la phrase « S0 = S(x1, ..., xk), était strictement inférieure à 1/3 » est mal formée."
+  }
+ ],
+ "notes": [
+  "12605 (élections de Théo, 3 groupes suffisent) est voisin de 11205 (400 députés, une gifle chacun, commission de 134), même grade 10 : même idée (un élève a reçu au plus une voix), mais 12605 demande plus, puisque 3 groupes donnent une commission d au moins 134 députés. Ce ne sont pas les mêmes questions ; à arbitrer.",
+  "Doc 4 (test de mai 2021) : 7 problèmes importés, 12626 à 12632. 12630 (ex 5, géométrie senior) est démontré en coordonnées car la chasse aux angles du corrigé utilise des angles orientés de droites ; 12632 remplace le petit théorème de Fermat du corrigé par le principe des tiroirs.",
+  "Document 5 (test du 17 novembre 2021) : 4 problèmes, 4 importés (12633 à 12636), aucun doublon trouvé. 12633 est résolu avec des vecteurs à la place des angles orientés du corrigé, pour rester au niveau de la seconde.",
+  "Doc 6 (test du 12 janvier 2022) : 7 problèmes, 6 importés (12637 à 12642), l'exercice 5 est l'exercice 4. 12639 restreint l'énoncé aux triangles avec AB ≠ AC et des angles aigus en B et C, et le résout avec la puissance d'un point au lieu des angles orientés. 12642 remplace le lemme du corrigé (périmètre d'un polygone convexe inclus dans un autre) par un calcul direct de longueurs, et utilise une construction explicite au lieu de l'amande en arcs de cercle.",
+  "Doc 7 (test des 23 et 24 février 2022) : 10 problèmes, 10 importés (12643 à 12652). 12648 et 12650 gardent les angles orientés de droites (cas 3, avec un Rappel), car une solution sans eux serait beaucoup plus longue. Dans 12648, l'énoncé place K sur [DF] ; numériquement, cela n'arrive que dans environ la moitié des configurations valides (K peut être sur ]ED[), et la preuve n'utilise pas cette position. Dans 12650, le point T n'existe pas quand ABCD est un rectangle (tangentes parallèles), ce que la solution signale. 12652 utilise l'exemple de l'énoncé pour n = 2 et la construction du corrigé pour n ⩾ 3.",
+  "Doc 8 (test du 23 mars 2022) : 7 problèmes, 5 importés (12653 à 12657), 2 sautés (ex1 = 7268, même niveau ; ex5 = ex4). 12653 remplace le théorème de Bézout du corrigé par l'algorithme d'Euclide par soustractions sur les « bons décalages ». 12655 ajoute en « Going further » la caractérisation complète (m coloriable si et seulement si le reste de m par n est au plus le quotient), avec une preuve courte, vérifiée par ordinateur pour n = 3 et 4. 12656 remplace la récurrence avec log₂ du corrigé par une chaîne de positions (aucun logarithme), vérifiée par ordinateur sur toutes les permutations pour n ⩽ 8. 12657 est placé en Terminale (suite bornée, valeur prise une infinité de fois) ; la dernière étape du corrigé a été refaite (voir source_errors).",
+  "Doc 9 (test du 18 mai 2022) : 7 problèmes, 6 importés (12658 à 12663), 1 sauté (ex5 = ex4). L'exercice 4 (12661) est le problème G1 de l'ISL 2021 : d'autres unités qui importent la liste ISL ou d'autres stages peuvent avoir le même problème. 12661 est rédigé en 2de avec des angles non orientés et des vérifications de position, au lieu des angles orientés du corrigé, donc sans entrée beyond_programme. 12662 (le chasseur et le lapin) utilise une seule famille de repères 3 × (−3)ᵏ sur chacune des trois directions x, y, x + y (64 couleurs), vérifiée par ordinateur sur 20 000 marches aléatoires en dimension 1. 12663 suit la solution alternative n° 1 du corrigé, corrigée, et a été vérifiée numériquement sur 200 000 tirages."
+ ],
+ "updated": "2026-10-01"
+}

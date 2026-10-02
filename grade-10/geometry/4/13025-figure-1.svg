@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="391" height="391" viewBox="0 0 391 391">
+<rect width="391" height="391" fill="#fff"/>
+<circle cx="195.7" cy="195.7" r="159.3" fill="none" stroke="#000" stroke-width="1.3"/>
+<circle cx="176.7" cy="155.1" r="114.4" fill="none" stroke="#555" stroke-width="1.3"/>
+<polygon points="128.1,51.4 39.7,228.2 351.7,228.2" fill="none" stroke="#000" stroke-width="1.6"/>
+<line x1="128.1" y1="51.4" x2="73.3" y2="297.7" stroke="#000" stroke-width="1.1"/>
+<line x1="128.1" y1="51.4" x2="318.2" y2="297.7" stroke="#000" stroke-width="1.1"/>
+<line x1="73.3" y1="297.7" x2="318.2" y2="297.7" stroke="#000" stroke-width="1.1" stroke-dasharray="5,4"/>
+<line x1="128.1" y1="51.4" x2="212.6" y2="231.8" stroke="#000" stroke-width="1.1" stroke-dasharray="2,3"/>
+<circle cx="128.1" cy="51.4" r="2.5" fill="#000"/>
+<circle cx="39.7" cy="228.2" r="2.5" fill="#000"/>
+<circle cx="351.7" cy="228.2" r="2.5" fill="#000"/>
+<circle cx="88.7" cy="228.2" r="2.5" fill="#000"/>
+<circle cx="264.6" cy="228.2" r="2.5" fill="#000"/>
+<circle cx="73.3" cy="297.7" r="2.5" fill="#000"/>
+<circle cx="318.2" cy="297.7" r="2.5" fill="#000"/>
+<circle cx="195.7" cy="195.7" r="2.5" fill="#000"/>
+<circle cx="176.7" cy="155.1" r="2.5" fill="#000"/>
+<text x="122.1" y="36.4" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">A</text>
+<text x="26.7" y="234.2" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">B</text>
+<text x="364.7" y="234.2" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="67.7" y="218.2" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">M</text>
+<text x="285.6" y="218.2" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">N</text>
+<text x="63.3" y="311.7" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">M'</text>
+<text x="328.2" y="311.7" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">N'</text>
+<text x="211.7" y="195.7" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">O<tspan dy="4" font-size="11">1</tspan></text>
+<text x="192.7" y="155.1" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">O<tspan dy="4" font-size="11">2</tspan></text>
+</svg>

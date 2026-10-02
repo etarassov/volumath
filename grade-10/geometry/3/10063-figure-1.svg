@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 258" width="460" height="258">
+  <path d="M 432 230 A 202 202 0 0 0 28 230" fill="none" stroke="#1f5fa8" stroke-width="1.4"/>
+  <line x1="28" y1="230" x2="432" y2="230" fill="none" stroke="#000" stroke-width="1.4"/>
+  <line x1="28" y1="230" x2="365.2" y2="79.9" fill="none" stroke="#000" stroke-width="1.2"/>
+  <line x1="432" y1="230" x2="135.2" y2="51.6" fill="none" stroke="#000" stroke-width="1.2"/>
+  <line x1="260.1" y1="126.7" x2="260.1" y2="230" fill="none" stroke="#b03a2e" stroke-width="1.4"/>
+  <polyline points="269.1,230 269.1,221 260.1,221" fill="none" stroke="#000" stroke-width="1.1"/>
+  <line x1="260.1" y1="230" x2="365.2" y2="79.9" fill="none" stroke="#555" stroke-width="1.1" stroke-dasharray="5,3"/>
+  <line x1="260.1" y1="230" x2="135.2" y2="51.6" fill="none" stroke="#555" stroke-width="1.1" stroke-dasharray="5,3"/>
+  <circle cx="28" cy="230" r="3" fill="#000"/>
+  <circle cx="432" cy="230" r="3" fill="#000"/>
+  <circle cx="365.2" cy="79.9" r="3" fill="#000"/>
+  <circle cx="135.2" cy="51.6" r="3" fill="#000"/>
+  <circle cx="260.1" cy="126.7" r="3" fill="#000"/>
+  <circle cx="260.1" cy="230" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="8.9" y="235.9">A</text>
+    <text x="440.9" y="235.9">B</text>
+    <text x="370" y="75.9">C</text>
+    <text x="123.1" y="45.5">D</text>
+    <text x="253.7" y="118.7">S</text>
+    <text x="255" y="249.9">T</text>
+  </g>
+</svg>

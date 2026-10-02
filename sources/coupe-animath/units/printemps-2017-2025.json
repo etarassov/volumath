@@ -1,0 +1,946 @@
+{
+ "unit": "printemps-2017-2025",
+ "source": "coupe-animath",
+ "title": "Coupe Animath printemps, 2017 à 2025",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "13801",
+  "14000"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2017",
+   "label": "Coupe printemps 2017",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2017_elim_college.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2017_elim_college.pdf",
+     "role": "collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2017_elim_lycee.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2017_elim_lycee.pdf",
+     "role": "lycéens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2017_elim_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2017_elim_corrige.pdf",
+     "role": "corrigé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2017.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2017.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2017_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2017_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2018",
+   "label": "Coupe printemps 2018",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2018-05_coupe_printemps_2018_elim_college.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/05/coupe_printemps_2018_elim_college.pdf",
+     "role": "collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2018-05_coupe_printemps_2018_elim_lycee-bis.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/05/coupe_printemps_2018_elim_lycee-bis.pdf",
+     "role": "lycéens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2018-06_coupe_printemps_2018_elim_college_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/06/coupe_printemps_2018_elim_college_corrige.pdf",
+     "role": "collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2018-06_coupe_printemps_2018_elim_lycee_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/06/coupe_printemps_2018_elim_lycee_corrige.pdf",
+     "role": "lycéens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2018-06_coupe_printemps_2018.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/06/coupe_printemps_2018.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2018-06_coupe_printemps_2018_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/06/coupe_printemps_2018_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2019",
+   "label": "Coupe printemps 2019",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2019-05_coupe_animath_printemps_2019_sujet_v4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/05/coupe_animath_printemps_2019_sujet_v4.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2019-05_coupe_animath_printemps_2019_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/05/coupe_animath_printemps_2019_corrige.pdf",
+     "role": "Corrigé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2019-06_coupe_animath_printemps_2019_elim.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/06/coupe_animath_printemps_2019_elim.pdf",
+     "role": "Premier tour, avec le corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2020",
+   "label": "Coupe printemps 2020",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/06/Sujet-Coupe-Animath-Printemps-2020.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2022-04_corrige-coupe-printemps-2020.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/04/corrigé-coupe-printemps-2020.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2021",
+   "label": "Coupe printemps 2021",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2021-06_Sujet-coupe-Animath.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/06/Sujet-coupe-Animath.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2021-06_Corrige-coupe-Animath-printemps.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/06/Corrigé-coupe-Animath-printemps.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2022",
+   "label": "Coupe printemps 2022",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2022-09_tour-1-coupe-Animath-printemps-2022.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/tour-1-coupe-Animath-printemps-2022.pdf",
+     "role": "Premier tour"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2022-06_sujet-coupe-Animath-printemps-2022.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/06/sujet-coupe-Animath-printemps-2022.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2022-06_corrige-commente-coupe-Animath-printemps-2022.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/06/corrig%C3%A9-comment%C3%A9-coupe-Animath-printemps-2022.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2023",
+   "label": "Coupe printemps 2023",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2023-06_sujet-Coupe-Animath-Printemps-2023.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/06/sujet-Coupe-Animath-Printemps-2023.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2023-06_corrige-Coupe-Animath-Printemps-2023.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/06/corrige-Coupe-Animath-Printemps-2023.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2024",
+   "label": "Coupe printemps 2024",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2024-06_Sujet-coupe-Animath-printemps-2024.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2024/06/Sujet-coupe-Animath-printemps-2024.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2024-06_corrige-Coupe-Animath-Printemps-2024.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2024/06/corrige-Coupe-Animath-Printemps-2024.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2025",
+   "label": "Coupe printemps 2025",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2025-06_Sujet-coupe-Animath-Printemps-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/06/Sujet-coupe-Animath-Printemps-2025.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2025-06_Corrige-commente-coupe-Animath-Printemps-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/06/Corrige-commente-coupe-Animath-Printemps-2025.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  }
+ ],
+ "next_document": 9,
+ "imported": [
+  "13801",
+  "13802",
+  "13803",
+  "13804",
+  "13805",
+  "13806",
+  "13807",
+  "13808",
+  "13809",
+  "13810",
+  "13811",
+  "13812",
+  "13813",
+  "13814",
+  "13815",
+  "13816",
+  "13817",
+  "13818",
+  "13819",
+  "13820",
+  "13821",
+  "13822",
+  "13823",
+  "13824",
+  "13825",
+  "13826",
+  "13827",
+  "13828",
+  "13829",
+  "13830",
+  "13831",
+  "13832",
+  "13833",
+  "13834",
+  "13835",
+  "13836",
+  "13837",
+  "13838",
+  "13839",
+  "13840",
+  "13841",
+  "13842",
+  "13843",
+  "13844",
+  "13845",
+  "13846",
+  "13847",
+  "13848",
+  "13849",
+  "13850",
+  "13851",
+  "13852",
+  "13853",
+  "13854",
+  "13855",
+  "13856",
+  "13857",
+  "13858",
+  "13859",
+  "13860",
+  "13861",
+  "13862",
+  "13863",
+  "13864",
+  "13865",
+  "13866",
+  "13867",
+  "13868",
+  "13869",
+  "13870",
+  "13871",
+  "13872"
+ ],
+ "skipped": [
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 1 (moyenne d'âge du second groupe)",
+   "why": "déjà dans la base au même grade",
+   "existing": "0681"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 2 (racines carrées qui diffèrent de 1)",
+   "why": "déjà dans la base",
+   "existing": "8002"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 3 (aire de DEF)",
+   "why": "déjà dans la base",
+   "existing": "8003"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 4 (trapèze AB = 3CD = 3DA)",
+   "why": "déjà dans la base",
+   "existing": "8004"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 5 (diviseur de 100! au-dessus de 100)",
+   "why": "déjà dans la base",
+   "existing": "8005"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 6 (a divisible par b et b - 2)",
+   "why": "déjà dans la base",
+   "existing": "8006"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 7 (triangles dans un 200-gone)",
+   "why": "déjà dans la base",
+   "existing": "8007"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 8 (grille 3 x 3 à sommes égales)",
+   "why": "déjà dans la base",
+   "existing": "8008"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 9 et lycée exercice 1 (abcd = 98)",
+   "why": "déjà dans la base",
+   "existing": "8009"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 10 et lycée exercice 2 (carrés d'un damier 10 x 10)",
+   "why": "déjà dans la base",
+   "existing": "8010"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 11 et lycée exercice 3 (Bob et Alice, 10 %)",
+   "why": "déjà dans la base",
+   "existing": "8011"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_college.pdf, exercice 12 et lycée exercice 4 (angles d'un 2017-gone)",
+   "why": "déjà dans la base",
+   "existing": "8012"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_lycee.pdf, exercice 5 (n divisible par 1 à 10)",
+   "why": "déjà dans la base",
+   "existing": "8013"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_lycee.pdf, exercice 6 (couples de parties disjointes)",
+   "why": "déjà dans la base",
+   "existing": "8014"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_lycee.pdf, exercice 7 (anagrammes de AAABBBCDEF)",
+   "why": "déjà dans la base",
+   "existing": "8015"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_lycee.pdf, exercice 8 (a^2 + a + 100 carré)",
+   "why": "déjà dans la base",
+   "existing": "8016"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_lycee.pdf, exercice 9 (16 HN^2)",
+   "why": "déjà dans la base",
+   "existing": "8017"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_lycee.pdf, exercice 10 (trois cercles dans un triangle équilatéral)",
+   "why": "déjà dans la base",
+   "existing": "8018"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017_elim_lycee.pdf, exercice 12 (u_n = 17^n (n + 2))",
+   "why": "déjà dans la base",
+   "existing": "8019"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017.pdf, exercice 1 (trois premiers, m + n + p = 74)",
+   "why": "déjà dans la base",
+   "existing": "8020"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017.pdf, exercice 2 (n + m a un chiffre pair)",
+   "why": "déjà dans la base (aussi 0690, grade 9)",
+   "existing": "8021"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017.pdf, exercice 3 (médiatrices et angle de 60°)",
+   "why": "déjà dans la base",
+   "existing": "8022"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017.pdf, exercice 4 (longueurs 3, 5, 7, 13, 19)",
+   "why": "déjà dans la base",
+   "existing": "8023"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017.pdf, exercice 5 (ajouter le plus grand chiffre)",
+   "why": "déjà dans la base",
+   "existing": "8024"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2017.pdf, exercice 6 (d - 1 divise n - 1)",
+   "why": "déjà dans la base",
+   "existing": "8025"
+  },
+  {
+   "where": "2018-05_coupe_printemps_2018_elim_college.pdf, exercice 4 (angles d'un triangle, le plus grand vaut le triple du plus petit)",
+   "why": "déjà dans la base au même grade",
+   "existing": "0684"
+  },
+  {
+   "where": "2018-05_coupe_printemps_2018_elim_college.pdf, exercice 6 (grains de riz sur un échiquier, au plus 4 par ligne, colonne ou diagonale)",
+   "why": "déjà dans la base",
+   "existing": "7958"
+  },
+  {
+   "where": "2018-05_coupe_printemps_2018_elim_college.pdf, exercice 11 = 2018-05_coupe_printemps_2018_elim_lycee-bis.pdf, exercice 3 (100 droites en position générale)",
+   "why": "déjà dans la base, pour n droites quelconque, au grade 10",
+   "existing": "0328"
+  },
+  {
+   "where": "2018-05_coupe_printemps_2018_elim_lycee-bis.pdf, exercice 6 (partie de {1, ..., 30} sans somme de deux éléments divisible par 5)",
+   "why": "même problème avec d'autres nombres (modulo 7 dans {1, ..., 50}), même méthode",
+   "existing": "3417"
+  },
+  {
+   "where": "2018-05_coupe_printemps_2018_elim_lycee-bis.pdf, exercice 10 (carré de côté 2, tangente au demi-cercle issue de C)",
+   "why": "déjà dans la base au même grade, mot pour mot",
+   "existing": "5417"
+  },
+  {
+   "where": "2018-05_coupe_printemps_2018_elim_lycee-bis.pdf, exercice 11 (remplacer a et b par ab + a + b, de 1 à 100)",
+   "why": "déjà dans la base, pour 1, ..., n",
+   "existing": "7946"
+  },
+  {
+   "where": "2018-06_coupe_printemps_2018.pdf, exercice 1 (sauterelle sur 12 chaises)",
+   "why": "déjà dans la base",
+   "existing": "8101"
+  },
+  {
+   "where": "2018-06_coupe_printemps_2018.pdf, exercice 2 (moyennes des inverses)",
+   "why": "déjà dans la base",
+   "existing": "8102"
+  },
+  {
+   "where": "2018-06_coupe_printemps_2018.pdf, exercice 3 (n = d2² + d3³)",
+   "why": "déjà dans la base",
+   "existing": "8103"
+  },
+  {
+   "where": "2018-06_coupe_printemps_2018.pdf, exercice 4 (a + 2/3 et 1/a − 3/4 entiers)",
+   "why": "déjà dans la base",
+   "existing": "8104"
+  },
+  {
+   "where": "2018-06_coupe_printemps_2018.pdf, exercice 5 (demi-cercle, AB = BC = 1, AD = 3)",
+   "why": "déjà dans la base",
+   "existing": "8105"
+  },
+  {
+   "where": "2018-06_coupe_printemps_2018.pdf, exercice 7 (trapèze avec AB + CD = AD, angle BFC droit)",
+   "why": "déjà dans la base",
+   "existing": "8106"
+  },
+  {
+   "where": "2018-06_coupe_printemps_2018.pdf, exercice 8 (trois barres, trois triangles)",
+   "why": "déjà dans la base",
+   "existing": "8107"
+  },
+  {
+   "where": "2019-06_coupe_animath_printemps_2019_elim.pdf, exercice 5 (10 crayons et 6 classeurs pour 13,60 euros, 3 crayons et 5 classeurs pour 9,20 euros)",
+   "why": "déjà dans la collection, même énoncé, cité d'après la Coupe de printemps 2019",
+   "existing": "0683"
+  },
+  {
+   "where": "2019-06_coupe_animath_printemps_2019_elim.pdf, exercice 17 (x > 0 et x² + 1/x² = 62, que vaut x + 1/x)",
+   "why": "même identité (x + 1/x)² = x² + 2 + 1/x² que 8209, prise dans l'autre sens ; la seule étape en plus est le signe de x + 1/x, trop peu pour une seconde fiche au même niveau",
+   "existing": "8209"
+  },
+  {
+   "where": "2019-05_coupe_animath_printemps_2019_sujet_v4.pdf, finale, exercice 1 (partie entière fois partie fractionnaire)",
+   "why": "déjà importé depuis le polycopié du stage",
+   "existing": "8202"
+  },
+  {
+   "where": "2019-05_coupe_animath_printemps_2019_sujet_v4.pdf, finale, exercice 2 (nombres à huit chiffres divisibles par 360)",
+   "why": "déjà importé depuis le polycopié du stage",
+   "existing": "8201"
+  },
+  {
+   "where": "2019-05_coupe_animath_printemps_2019_sujet_v4.pdf, finale, exercice 3 (quatre aires dans un rectangle)",
+   "why": "déjà importé depuis le polycopié du stage",
+   "existing": "8203"
+  },
+  {
+   "where": "2019-05_coupe_animath_printemps_2019_sujet_v4.pdf, finale, exercice 4 (cinq grenouilles sur une grille 10 × 10)",
+   "why": "déjà importé depuis le polycopié du stage",
+   "existing": "8205"
+  },
+  {
+   "where": "2019-05_coupe_animath_printemps_2019_sujet_v4.pdf, finale, exercice 5 (trois parties entières qui sont des carrés)",
+   "why": "déjà importé depuis le polycopié du stage",
+   "existing": "8207"
+  },
+  {
+   "where": "2019-05_coupe_animath_printemps_2019_sujet_v4.pdf, finale, exercice 6 (perpendiculaire dans un parallélogramme)",
+   "why": "déjà importé depuis le polycopié du stage",
+   "existing": "8204"
+  },
+  {
+   "where": "2019-05_coupe_animath_printemps_2019_sujet_v4.pdf, finale, exercice 7 (ajouter le plus grand diviseur propre)",
+   "why": "déjà importé depuis le polycopié du stage",
+   "existing": "8208"
+  },
+  {
+   "where": "2019-05_coupe_animath_printemps_2019_sujet_v4.pdf, finale, exercice 8 (lignes bleues et colonnes rouges)",
+   "why": "déjà importé depuis le polycopié du stage",
+   "existing": "8206"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice collège 1 (0 − 1 + 2 − 3 + … + 50)",
+   "why": "déjà dans la collection, même calcul, cité d'après la Coupe de printemps 2020",
+   "existing": "0737"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice collège 2 = lycée 9 (mains de 5 cartes avec un carré)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8301"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice collège 3 = lycée 10 (bissectrice et BD = DA dans un triangle isocèle)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8302"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice collège 4 (x² − 2x + 1 à l'écran, 2020e nombre)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8303"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice collège 5 (symétrique du pied de la hauteur, FBC isocèle)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8304"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice collège 6 = lycée 11 (colorier 2 à 8 puis 2 à 31 sans multiple de même couleur)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8305"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice collège 7 (jeu de mathinal, cartes vertes et rouges)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8306"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice collège 8 = lycée 14 (diviseurs décalés de 1)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8307"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice lycée 12 (P ⩽ G ⩽ 2P)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8308"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice lycée 13 (n ⩽ 2s(n))",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8309"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice lycée 15 (carré et triangle équilatéral extérieur, angles BPN et NHC)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8310"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice lycée 16 (deux groupes de somme au plus 70)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8311"
+  },
+  {
+   "where": "2020-06_Sujet-Coupe-Animath-Printemps-2020.pdf, exercice lycée 17 (k cases noires par ligne et par colonne)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8312"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice collège 1 (6! − 5! sur 4!)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8401"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice collège 2 = lycée 9 (cartes rouges et noires, on ajoute 4 noires)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8402"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice collège 3 = lycée 10 (triangle équilatéral ABS dans un carré, angle DSC)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "0660"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice collège 4 = lycée 11 (n multiple de 2020, diviseurs impairs contre pairs)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8403"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice collège 5 (sept paires de 0 à 13, produit des sommes carré)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8404"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice collège 6 (trapèze isocèle, périmètres de AMC et ABME)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8405"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice collège 7 (suite de 0 et de 1, blocs de 200 et de 202)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8406"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice collège 8 (13 puis 9 fourmis sur un cube)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8407"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice lycée 12 (colorier 1 à 2021 en trois couleurs sans voisins pareils)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8408"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice lycée 13 (six mille notes et une moyenne qui monte)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8409"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice lycée 14 (MY + MZ ⩽ XY + XZ, puis PA + PB + PC + PD et 4AB)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8410"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice lycée 15 (plus petit n, réels dans ]−1, 1[)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8411"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice lycée 16 (partition en ensembles équilibrés)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8412"
+  },
+  {
+   "where": "2021-06_Sujet-coupe-Animath.pdf, exercice lycée 17 (8 fourmis sur un cube)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8413"
+  },
+  {
+   "where": "2022-09_tour-1-coupe-Animath-printemps-2022.pdf, sujet junior, exercice 1 (8 − (2 + 5) contre 8 − 2 + 5)",
+   "why": "priorités opératoires, niveau 5e : sous le niveau 4e même à une étoile (CLAUDE.md), problème cassé ou trop simple pour la collection : non importé",
+   "existing": null
+  },
+  {
+   "where": "2022-09_tour-1-coupe-Animath-printemps-2022.pdf, sujet junior, exercice 2 = sujet senior, exercice 1 (quatrième note à partir de la moyenne)",
+   "why": "moyenne de quatre notes, niveau 5e : sous le niveau 4e même à une étoile (CLAUDE.md), problème cassé ou trop simple pour la collection : non importé",
+   "existing": null
+  },
+  {
+   "where": "2022-09_tour-1-coupe-Animath-printemps-2022.pdf, sujet junior, exercice 3 (proportions d'une limonade)",
+   "why": "proportionnalité, niveau 6e : sous le niveau 4e même à une étoile (CLAUDE.md), problème cassé ou trop simple pour la collection : non importé",
+   "existing": null
+  },
+  {
+   "where": "2022-09_tour-1-coupe-Animath-printemps-2022.pdf, sujet junior, exercice 4 (carreaux de 80 cm dans une pièce de 16 m sur 8 m)",
+   "why": "aire d'un rectangle, niveau 6e : sous le niveau 4e même à une étoile (CLAUDE.md), problème cassé ou trop simple pour la collection : non importé",
+   "existing": null
+  },
+  {
+   "where": "2022-09_tour-1-coupe-Animath-printemps-2022.pdf, sujet senior, exercice 2 (pavé 7 × 6 × 5 : arêtes, faces et volume)",
+   "why": "périmètre, aire et volume d'un pavé, niveau 6e : sous le niveau 4e même à une étoile (CLAUDE.md), problème cassé ou trop simple pour la collection : non importé",
+   "existing": null
+  },
+  {
+   "where": "2022-09_tour-1-coupe-Animath-printemps-2022.pdf, sujet junior, exercice 23 (pizza de 12 parts entre 4 personnes, au moins une chacune)",
+   "why": "déjà dans la collection, même question (1001, Terminale, 15 parts) ; placement accepté car la solution passe par les coefficients binomiaux",
+   "existing": "1001"
+  },
+  {
+   "where": "2022-09_tour-1-coupe-Animath-printemps-2022.pdf, sujet senior, exercice 25 (trapèze isocèle, E milieu de [AB], DCE rectangle en E)",
+   "why": "déjà dans la collection, même configuration (13807, importé plus tôt dans cette unité)",
+   "existing": "13807"
+  },
+  {
+   "where": "2022-06_sujet-coupe-Animath-printemps-2022.pdf, exercice 1 (racine de 32 racine de 16 racine de 8 racine de 4)",
+   "why": "déjà dans la collection, le même calcul avec une racine de moins (4008, 3e)",
+   "existing": "4008"
+  },
+  {
+   "where": "2022-06_sujet-coupe-Animath-printemps-2022.pdf, exercice collégien 2 = exercice lycéen 9 (triangle AMC isocèle, AH = HM)",
+   "why": "déjà dans la collection, même problème (8501, 3e ; aussi 0661, 4e)",
+   "existing": "8501"
+  },
+  {
+   "where": "2022-06_sujet-coupe-Animath-printemps-2022.pdf, exercice collégien 3 = exercice lycéen 10 (vingt immeubles autour d'un cercle)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8502"
+  },
+  {
+   "where": "2022-06_sujet-coupe-Animath-printemps-2022.pdf, exercice collégien 4 (BAC + 2 PAQ = 180°)",
+   "why": "déjà dans la collection, même problème (8503, 2de ; aussi 0663, 3e)",
+   "existing": "8503"
+  },
+  {
+   "where": "2022-06_sujet-coupe-Animath-printemps-2022.pdf, exercice collégien 5 = exercice lycéen 11 (dix élèves et les carrés parfaits)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8504"
+  },
+  {
+   "where": "2022-06_sujet-coupe-Animath-printemps-2022.pdf, exercice collégien 6 (système a² + b = c², b² + c = a², c² + a = b²)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8505"
+  },
+  {
+   "where": "2022-06_sujet-coupe-Animath-printemps-2022.pdf, exercice collégien 7 = exercice lycéen 13 (triangle rectangle tricolore)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8506"
+  },
+  {
+   "where": "2022-06_sujet-coupe-Animath-printemps-2022.pdf, exercice lycéen 8 (diamants et cristaux)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8507"
+  },
+  {
+   "where": "2022-06_sujet-coupe-Animath-printemps-2022.pdf, exercice lycéen 12 (deux bissectrices, AFE = EFD)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8508"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice collégien 1 (4⁸ / 8⁴)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8601"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice collégien 2 = exercice lycéen 9 (angle ABC, D milieu de [AB])",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8602"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice collégien 3 (grille 5 × 5, rectangles 2 × 3)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8603"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice collégien 4 (pentagone équilatéral à deux angles droits)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8604"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice collégien 5 (remplacer les 1 par des 3)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8605"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice collégien 6 (couples jolis, s(n) = 2022 ou 2023)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8606"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice collégien 7 = exercice lycéen 13 (grille 10 × 10, au plus une case coloriée en bas à droite)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8607"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice lycéen 8 (n/3 et 3n entre 1 et 1000)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8608"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice lycéen 10 (onze fractions avec les nombres de 1 à 22)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8609"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice lycéen 11 (100 entiers jusqu'à 400, 15 écarts égaux)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8610"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice lycéen 12 (losange, rapport EK/EA)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8611"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice lycéen 14 (somme de n nombres égale au produit des n autres)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8612"
+  },
+  {
+   "where": "2023-06_sujet-Coupe-Animath-Printemps-2023.pdf, exercice lycéen 15 (nombres spéciaux)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8613"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice collégien 1 (trois nombres de somme 96)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8701"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice collégien 2 (bissectrice et corde égale dans un parallélogramme)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8704"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice collégien 3 (entiers consécutifs et multiple de 45)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8705"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice collégien 4 = exercice lycéen 11 (trois couleurs pour les nombres du tableau)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8710"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice collégien 5 (routes en béton et sentiers de terre)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8708"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice collégien 6 (trois quotients égaux)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8707"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice collégien 7 (H centre du cercle inscrit, (BH) bissectrice de GBA)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8712"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice lycéen 8 (fraction avec des puissances de 3)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8702"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice lycéen 9 (deux équations, une identité)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8703"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice lycéen 10 (l'angle BID n'est jamais droit)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8706"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice lycéen 12 (découper 1, 2, ..., p en tranches de même somme)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8711"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice lycéen 13 (cent opérations pour peindre un échiquier)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8709"
+  },
+  {
+   "where": "2024-06_Sujet-coupe-Animath-printemps-2024.pdf, exercice lycéen 15 (un cadeau pour chaque élève)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8713"
+  },
+  {
+   "where": "2025-06_Sujet-coupe-Animath-Printemps-2025.pdf, exercice collégien 2 = exercice lycéen 9 (rectangle ABCD, angles de 30° et 45°, angle PXQ)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8801"
+  },
+  {
+   "where": "2025-06_Sujet-coupe-Animath-Printemps-2025.pdf, exercice collégien 3 (a = 2/(a+b) et b = 2/(3a-b))",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8802"
+  },
+  {
+   "where": "2025-06_Sujet-coupe-Animath-Printemps-2025.pdf, exercice collégien 4 (cinq entiers permutés, le produit des différences est pair)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8803"
+  },
+  {
+   "where": "2025-06_Sujet-coupe-Animath-Printemps-2025.pdf, exercice collégien 5 (parallèles à (BI) et (CI), PY = QX)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8804"
+  },
+  {
+   "where": "2025-06_Sujet-coupe-Animath-Printemps-2025.pdf, exercice collégien 6 (2n+1 points alignés, toutes les distances sont paires)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8805"
+  },
+  {
+   "where": "2025-06_Sujet-coupe-Animath-Printemps-2025.pdf, exercice collégien 7 = exercice lycéen 13 (2025 entiers au tableau, nombre maximal de valeurs différentes)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8806"
+  },
+  {
+   "where": "2025-06_Sujet-coupe-Animath-Printemps-2025.pdf, exercice lycéen 8 (racine de racine 27 fois racine 75 plus racine 3 fois racine 8 fois racine 54)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8811"
+  },
+  {
+   "where": "2025-06_Sujet-coupe-Animath-Printemps-2025.pdf, exercice lycéen 10 (l'ennemi de mon ami est mon ami, 4 amis chacun)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8807"
+  },
+  {
+   "where": "2025-06_Sujet-coupe-Animath-Printemps-2025.pdf, exercice lycéen 11 (triangle isocèle, [PM) bissectrice de NPB)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8808"
+  },
+  {
+   "where": "2025-06_Sujet-coupe-Animath-Printemps-2025.pdf, exercice lycéen 12 (les ensembles des a_i et des a_i + a_(i+1) formés d'entiers consécutifs)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8809"
+  },
+  {
+   "where": "2025-06_Sujet-coupe-Animath-Printemps-2025.pdf, exercice lycéen 14 (réels n-permutants et somme de parties entières)",
+   "why": "déjà dans la collection, même problème",
+   "existing": "8810"
+  }
+ ],
+ "beyond_programme": [],
+ "see_also_added": [],
+ "source_errors": [
+  "2018-05_coupe_printemps_2018_elim_college.pdf, exercice 8 (libraire, 13 livres, 4 en vitrine) : l'énoncé ne dit pas si l'ordre des livres compte ; la réponse officielle 715 suppose qu'il ne compte pas. Précisé dans 13808.",
+  "2022-09_tour-1-coupe-Animath-printemps-2022.pdf, sujet junior, exercice 6 : l'énoncé dit « en dessous d'un carré situé sur la diagonale » sans « juste » ; la réponse officielle 799 suppose que seul le carré situé juste en dessous est colorié (colorier toute la colonne en dessous donnerait 80 200). Précisé dans 13837.",
+  "2022-06_corrige-commente-coupe-Animath-printemps-2022.pdf, solution de l'exercice 15 : trois coquilles sans conséquence (une égalité au lieu d'une inégalité stricte, y_n^q au lieu de y_n^p, « p > q » au lieu de « q > p »). Corrigées dans 13869."
+ ],
+ "notes": [
+  "Document 0 (2017) fini. 13802 est l'exercice 7 lycée de la Coupe du 6 juin 2017, que l'unité ete-2017 avait sauté (« théorie des graphes lourde ») ; il se fait sans théorie des graphes. Paire à arbitrer hors de mon bloc : 0690 (grade 9, d'après la Coupe de printemps 2017, problème 2) et 8021 (grade 10) semblent être le même problème du nombre et de son renversé.",
+  "Document 1 (2018) fini. Les éliminatoires lycée 1, 2, 4 sont les éliminatoires collège 9, 10, 12, importés une seule fois (13809, 13810, 13811). L'exercice 6 de la finale lycée (125 entiers) manquait dans la base, l'unité ete-2018 ne l'avait pas importé : c'est 13817.",
+  "Document 2 (2019) : les 8 exercices de la finale étaient déjà là (8201 à 8208). Du premier tour, 18 exercices sur 20 sont importés (13818 à 13835), 2 sautés (0683, 8209). Le corrigé du premier tour cite pour presque chaque exercice sa source dans les Olympiades mathématiques belges, reprise dans source.reference. Pour le coordinateur : 8209 (racine de 2019) et 8512 (racine de 2020), tous deux en 2de, posent la même question, l'un des deux est de trop. 13822 (les chiffres 1 de 1 à 999) est un proche cousin de 7309 (les zéros de 1 à 2007, 4e, difficulté 4) mais pas la même question. vm.py check signale 13818 et 7105 au même niveau : 7105 retrouve cinq nombres à partir de leurs dix sommes, un problème nettement plus dur ; 13818 est le cas facile à trois nombres, gardé. 13834 : le corrigé passe par l'angle inscrit, la solution importée n'utilise que Pythagore, d'où la 3e.",
+  "Document 3 (2020) : les 17 exercices (13 problèmes distincts, quatre étant communs aux deux épreuves) étaient déjà dans la collection (0737, 8301 à 8312). Rien à importer. Pour le coordinateur : 8571 (3e) et 8305 (2de) sont le même problème des entiers de 2 à 31 ; 8571 pointe vers 8305 par see_also, mais 8305 ne pointe pas vers 8571.",
+  "Document 4 (2021) : les 17 exercices (14 problèmes distincts) étaient déjà dans la collection (0660, 8401 à 8413). Rien à importer.",
+  "Document 5 (2022) : premier tour (25 exercices junior, 25 senior, réponses seules sans solution rédigée) et finale (15 exercices). Importés 13836 à 13867 depuis le premier tour et 13868, 13869 depuis la finale (exercices lycéens 14 et 15, qui manquaient). Problèmes communs aux deux sujets du premier tour importés une fois : S1 = J2, S5 = J10, S9 = J14, S10 = J12, S11 = J15, S13 = J18, S14 = J17, S17 = J20, S18 = J21, S19 = J22. J16 et S16 (deux produits de facteurs qui se simplifient) sont réunis dans 13847, en deux questions. Pour chaque exercice du premier tour, la solution rédigée est la nôtre, vérifiée par le calcul ou par une recherche exhaustive.",
+  "Pour le coordinateur, document 5 : cinq exercices du premier tour (J1, J2 = S1, J3, J4, S2) ne sont pas importés parce qu'ils sont du niveau 5e ou 6e (priorités, moyenne, proportions, aires et volumes du primaire et du début du collège), avec existing à null. J23 (pizza) est sauté au profit de 1001, placé en Terminale avec 15 parts : placement jugé défendable, mais un élève de 4e peut faire la version à 12 parts en listant, donc une version 4e pourrait se justifier plus tard.",
+  "Pour le coordinateur, document 5 : la finale 2022 apparaît deux fois dans la collection pour deux de ses problèmes, sans lien see_also entre les copies : 0661 (4e) et 8501 (3e) sont le même problème 2, 0663 (3e) et 8503 (2de) sont le même problème 4. Niveaux différents, donc les deux copies peuvent rester, mais il faudrait les relier. 4008 (3e, racine de 16 racine de 8 racine de 4) est le problème 1 de la finale avec une racine de moins.",
+  "13855 (le plus grand carré dans la croix, J25) : le premier tour ne donne que la réponse 15 ; la construction et la preuve de maximalité sont rédigées ici, placées en 2de à cinq étoiles. La preuve a été vérifiée numériquement.",
+  "Document 6 (2023) : les 15 exercices (13 problèmes distincts, deux étant communs aux deux épreuves) étaient déjà dans la collection (8601 à 8613, importés depuis le polycopié de Valbonne 2023). Rien à importer.",
+  "Document 7 (2024) : les 15 exercices sont dans la collection (8701 à 8713, importés du poly de Valbonne 2024), sauf la question 2 de l'exercice lycéen 14. 13870 demande plus que 8712 : même figure et même question 1 (exercice collégien 7), plus la question 2 du sujet lycéen, (EF) parallèle à (BH) avec F pied de la hauteur issue de A. 8712 cite l'exercice 14 dans sa référence mais n'en a que la première question. Les deux fichiers sont en 2de, géométrie, difficulté 4 : au coordinateur de choisir lequel garder.",
+  "Document 8 (2025) : 13 problèmes différents (les exercices collégiens 2 et 7 sont repris comme lycéens 9 et 13). Onze étaient déjà dans la collection (8801 à 8811, importés du poly 2025). Importés : 13871 (exercice collégien 1, somme de trois fractions, réponse 3) et 13872 (exercice lycéen 15, espions dans une grille 2025 × 2025, réponse 2000 ; vérifié par recherche exhaustive sur les grilles 4×4, 5×5, 6×6 et 7×7).",
+  "Pour le coordinateur : 8801 place P sur le segment [DA] alors que le sujet 2025 dit la demi-droite [DA). Ce n'est pas tout à fait le même énoncé (P peut sortir du segment quand AD est petit), mais c'est le même problème, donc pas de nouvel import.",
+  "Le corrigé 2025 de l'exercice 15 dit placer 1000 espions « dans la zone bleue de droite », mais sa figure les met à gauche. Les deux placements marchent ; 13872 les met à droite.",
+  "Pour le coordinateur : vm.py check signale 13841 et 13267 (même titre, « Deux chaussettes de couleurs différentes », tous deux en 4e à une étoile). Ce ne sont pas les mêmes nombres (13841 : 56 noires, 63 jaunes, 74 rouges, réponse 75 ; 13267, Coupe d'automne 2019 : 6 bleues et 6 rouges, réponse 7), mais l'idée est la même. 13267 est hors de mon bloc, je n'y ai pas touché : à arbitrer.",
+  "Fin de l'unité : 72 exercices importés (13801 à 13872), 128 problèmes sautés (123 déjà dans la collection, 5 sous le niveau 4e). vm.py check ne signale aucune erreur dans le bloc 13801 à 13872, et les 72 exercices se compilent sans avertissement de pandoc. Les pages avec figure (13811, 13823, 13827, 13855, 13865, 13870, 13872) ont été relues."
+ ],
+ "updated": "2026-10-01",
+ "scope": "gap-filling: most of these papers already reached the collection through the summer camp handouts"
+}

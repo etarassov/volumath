@@ -1,0 +1,584 @@
+{
+ "unit": "tests-2014-2017",
+ "source": "pofm-tests",
+ "title": "Tests de sélection POFM, années 2014 à 2017",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "12201",
+  "12400"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2014-2015",
+   "label": "Test de sélection pour le RMM",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2014-2015-test-rmm.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-test-rmm.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2014-2015-test-rmm-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-test-rmm-corrige.pdf"
+   }
+  },
+  {
+   "year": "2014-2015",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2014-2015-test-janvier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-test-janvier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2014-2015-test-janvier-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-test-janvier-corrige.pdf"
+   }
+  },
+  {
+   "year": "2014-2015",
+   "label": "Test de Février junior",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2014-2015-test-fevrier-junior.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-test-fevrier-junior.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2014-2015-test-fevrier-junior-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-test-fevrier-junior-corrige.pdf"
+   }
+  },
+  {
+   "year": "2014-2015",
+   "label": "Test de Février senior",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2014-2015-test-fevrier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-test-fevrier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2014-2015-test-fevrier-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-test-fevrier-corrige.pdf"
+   }
+  },
+  {
+   "year": "2014-2015",
+   "label": "Test de Mars",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2014-2015-test-mars.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-test-mars.pdf"
+    }
+   ],
+   "corrige": null
+  },
+  {
+   "year": "2014-2015",
+   "label": "Test de Mai : jour 1 et jour 2",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2014-2015-test-mai-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-test-mai-1.pdf"
+    },
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2014-2015-test-mai-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-test-mai-2.pdf"
+    }
+   ],
+   "corrige": null
+  },
+  {
+   "year": "2015-2016",
+   "label": "Test de Décembre",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-decembre.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-decembre.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-decembre-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-decembre-corrige.pdf"
+   }
+  },
+  {
+   "year": "2015-2016",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-janvier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-janvier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-janvier-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-janvier-corrige.pdf"
+   }
+  },
+  {
+   "year": "2015-2016",
+   "label": "Test de Février junior",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-fevrier-junior.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-fevrier-junior.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-fevrier-junior-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-fevrier-junior-corrige.pdf"
+   }
+  },
+  {
+   "year": "2015-2016",
+   "label": "Test de Février senior",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-fevrier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-fevrier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-fevrier-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-fevrier-corrige.pdf"
+   }
+  },
+  {
+   "year": "2015-2016",
+   "label": "Test de Mars",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-mars.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-mars.pdf"
+    }
+   ],
+   "corrige": null
+  },
+  {
+   "year": "2015-2016",
+   "label": "Test de Mai",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2015-2016-test-mai.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-test-mai.pdf"
+    }
+   ],
+   "corrige": null
+  },
+  {
+   "year": "2016-2017",
+   "label": "Test de Novembre",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2016-2017-test-novembre.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-test-novembre.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2016-2017-test-novembre-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-test-novembre-corrige.pdf"
+   }
+  },
+  {
+   "year": "2016-2017",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2016-2017-test-janvier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-test-janvier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2016-2017-test-janvier-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-test-janvier-corrige.pdf"
+   }
+  },
+  {
+   "year": "2016-2017",
+   "label": "Test de Février",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2016-2017-test-fevrier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-test-fevrier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2016-2017-test-fevrier-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-test-fevrier-corrige.pdf"
+   }
+  },
+  {
+   "year": "2016-2017",
+   "label": "Test de Mars",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2016-2017-test-mars.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-test-mars.pdf"
+    }
+   ],
+   "corrige": null
+  },
+  {
+   "year": "2016-2017",
+   "label": "Test de Mai",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2016-2017-test-mai.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-test-mai.pdf"
+    }
+   ],
+   "corrige": null
+  }
+ ],
+ "next_document": 17,
+ "imported": [
+  "12201",
+  "12202",
+  "12203",
+  "12204",
+  "12205",
+  "12206",
+  "12207",
+  "12208",
+  "12209",
+  "12210",
+  "12211",
+  "12212",
+  "12213",
+  "12214",
+  "12215",
+  "12216",
+  "12217",
+  "12218",
+  "12219",
+  "12220",
+  "12221",
+  "12222",
+  "12223",
+  "12224",
+  "12225",
+  "12226",
+  "12227",
+  "12228",
+  "12229",
+  "12230",
+  "12231",
+  "12232",
+  "12233",
+  "12234",
+  "12235",
+  "12236",
+  "12237",
+  "12238",
+  "12239",
+  "12240",
+  "12241",
+  "12242",
+  "12243",
+  "12244",
+  "12245",
+  "12246",
+  "12247",
+  "12248",
+  "12249",
+  "12250",
+  "12251",
+  "12252",
+  "12253",
+  "12254",
+  "12255",
+  "12256",
+  "12257",
+  "12258",
+  "12259",
+  "12260",
+  "12261",
+  "12262",
+  "12263",
+  "12264",
+  "12265",
+  "12266",
+  "12267",
+  "12268",
+  "12269",
+  "12270",
+  "12271",
+  "12272",
+  "12273",
+  "12274",
+  "12275",
+  "12276",
+  "12277",
+  "12278",
+  "12279",
+  "12280",
+  "12281",
+  "12282",
+  "12283",
+  "12284"
+ ],
+ "skipped": [
+  {
+   "where": "2017-10_ofm-2014-2015-test-mai-2.pdf, exercice 8",
+   "why": "reason 2: pas de corrigé publié. Réponse {t}, {0, t}, {-t, t}, {-t, 0, t} confirmée par ordinateur, mais nous n'avons pas obtenu de preuve complète : le cas où A et B contiennent tous deux des nombres des deux signes, et où la progression AB ne contient pas 0, reste ouvert. Nous préférons ne pas publier une solution incomplète."
+  },
+  {
+   "where": "2015-2016 test de février junior, exercice 2",
+   "why": "même problème au même niveau que 12229 (test de mai 2015, JBMO, exercice 5) ; la référence de 12229 mentionne désormais ce test et son corrigé",
+   "existing": "12229"
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-test-mars.pdf, exercice 2",
+   "why": "même problème (deux tangentes, un milieu et une parallèle) déjà présent au même niveau, en 2de, depuis l'envoi 2019-2020 n°1 ; ce placement est défendable",
+   "existing": "10204"
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-test-mai.pdf, exercice 6",
+   "why": "raison 2 : pas de corrigé publié et je n'ai pas trouvé de démonstration complète que je puisse vérifier (problème C6 de la liste courte des OIM 2015, sur les entiers « propres »). J'ai traité les cas où S est fini, où S n'a aucun élément impair, et où S a exactement un élément impair à chaque étape de la descente S = {s0} ∪ 2S', mais le cas d'au moins deux éléments impairs est resté ouvert ; mieux vaut ne pas publier une solution incomplète"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "12203",
+   "tool": "congruences modulo p², développement de (a + kp)^(p-1)",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12210",
+   "tool": "congruences modulo p, inverse modulo p, théorème de Bézout, petit théorème de Fermat",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12216",
+   "tool": "congruences modulo p, inverse modulo p (Bézout ou petit théorème de Fermat), infinité des nombres premiers, un polynôme non nul n'a qu'un nombre fini de racines",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12222",
+   "tool": "équation fonctionnelle (substitutions, sans analyse)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12225",
+   "tool": "petit théorème de Fermat, congruences modulo un nombre premier",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12232",
+   "tool": "petit théorème de Fermat, lemme de Gauss, congruences modulo p² (un cas du lemme de relèvement des exposants démontré dans la solution)",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12204",
+   "tool": "aucun outil hors programme ; inégalité entre sommes de fractions, thème mal couvert par les thèmes actuels",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12229",
+   "tool": "aucun outil hors programme (t + 1/t ≥ 2, et u + v + w ≥ 3 quand uvw = 1, démontrés dans la solution) ; inégalité, thème mal couvert par les thèmes actuels",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12239",
+   "tool": "équation fonctionnelle (substitutions, fonction paire, sans analyse)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12245",
+   "tool": "inégalité (majoration de (2k)! par regroupement de facteurs, somme télescopique)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12249",
+   "tool": "inégalité (changement de variables, raisonnement par l'absurde)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12251",
+   "tool": "théorème de Gauss, lemme d'Euclide (maths expertes)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12252",
+   "tool": "nombres complexes, forme exponentielle, produit scalaire par Re(conj(z) w) (maths expertes)",
+   "suggested_theme": "geometry",
+   "hors_programme": false
+  },
+  {
+   "id": "12254",
+   "tool": "inégalité (changement de variables, x² + y² + z² ⩾ xy + yz + zx)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12257",
+   "tool": "inégalité sur une suite (somme télescopique, récurrence)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12260",
+   "tool": "congruences, lemme d'Euclide, théorème de Gauss (maths expertes)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12261",
+   "tool": "équation fonctionnelle (substitutions, fonction impaire, sans analyse)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12274",
+   "tool": "inégalités (identités remarquables, t + 1/t ≥ 2, inégalité de Nesbitt démontrée)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12277",
+   "tool": "inégalités et plus petite constante (rangement, principe des tiroirs, contre-exemple)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12282",
+   "tool": "inégalité arithmético-géométrique pour trois nombres, démontrée sans dérivée, et étude de signes",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  {
+   "id": "12240",
+   "other": "12237"
+  },
+  {
+   "id": "12269",
+   "other": "8189"
+  },
+  {
+   "id": "12279",
+   "other": "7322"
+  }
+ ],
+ "source_errors": [
+  {
+   "where": "2017-10_ofm-2014-2015-test-rmm-corrige.pdf, problème 3",
+   "what": "coquille : le corrigé écrit {p, q} ∩ K = ∅ au lieu de {q, r} ∩ K = ∅ ; le raisonnement est juste"
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-test-janvier.pdf, exercice 2",
+   "what": "l'énoncé oublie l'hypothèse AC > AB, que le corrigé utilise ; sans elle D peut être au-delà de C et l'égalité devient CD² = BD·DC − AD·DE (vérifié numériquement). L'exercice 12205 ajoute l'hypothèse."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-test-janvier-corrige.pdf, exercice 5",
+   "what": "le cas AB = CD est réglé « par continuité » et le second cas est « laissé au lecteur » ; dans ce second cas le quadrilatère EAXC annoncé circonscriptible n'est pas convexe, l'argument ne s'applique pas tel quel. L'exercice 12208 donne une preuve complète par une autre méthode."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-test-janvier-corrige.pdf, exercice 6",
+   "what": "lacune mineure : le cas où aucun k ne vérifie m_k > α n'est pas traité (la chaîne d'inégalités devient 0 < 0) ; traité à part dans 12209"
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-test-fevrier-corrige.pdf, exercice 4",
+   "what": "réponse finale fausse : le premier terme de rang impair est x₁ = P(2015) = 2015ε + b, pas 2015ε + d (ni « a2015 + d », ni « 2005c + d ») ; la bonne condition est « r = b + εd non nul et r divise 2015 ou 2015 − d ». Contre-exemple au corrigé : P = X + 2, Q = X + 1 (r = 3 divise 2015 + 1 mais aucun terme n'est multiple de 3). Le corrigé oublie aussi r ≠ 0, écrit 2005 pour 2015, et « Si R possède » pour T dans le lemme 2. Réponse correcte vérifiée par ordinateur sur 1922 couples ; publiée corrigée dans 12218"
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-test-mai-1.pdf, exercice 2",
+   "what": "coquille dans l'énoncé : le milieu de [DX] est appelé L, puis la conclusion parle de l'angle BAM ; L et M désignent le même point. L'exercice 12226 l'appelle M partout et ajoute les hypothèses AB ≠ AC et X ≠ A, sans lesquelles l'énoncé n'a pas de sens."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-test-decembre-corrige.pdf, exercice 3",
+   "what": "trois coquilles : u₃ vaut 4 (= 2 + u₁) et non 3 ; u₃ₙ₊₂ vaut uₙ/(1 + uₙ) et non 1 + uₙ/(1 + uₙ) (le corrigé en déduit pourtant 0 < u₃ₙ₊₂ < 1) ; dans le calcul de u₃ₙ₊₃ il faut 4v₃(n + 1) et non 4v₃(n). Le raisonnement est juste ; vérifié par calcul exact des 200000 premiers termes (aucune valeur répétée)."
+  },
+  {
+   "where": "2015-2016 test de janvier, corrigé de l'exercice 5 b",
+   "what": "le cas p = 2 n'est jamais traité (il revient à la question a), le signe du dénominateur n'est pas étudié, et quand m = 2l le corrigé affirme sans justification que les facteurs valent 2p et 2^(n-1), sans écarter la paire {2, 2^(n-1) p} ; la réponse (1,1,2), (2,2,5), (2,3,3) est juste, vérifiée par une recherche exhaustive"
+  },
+  {
+   "where": "2015-2016 test de janvier, corrigé de l'exercice 6",
+   "what": "coquille : IF² = r² − c² au lieu de r² + c²"
+  },
+  {
+   "where": "2015-2016 test de janvier, corrigé des exercices 2 et 3",
+   "what": "exercice 2 : le cas d'un dénominateur négatif n'est pas traité ; exercice 3 : le nombre minimal de ponts (6) est admis sans justification. Coquilles mineures : « pour tout r » au lieu de t dans l'exercice 4, « Ank −1 » dans l'exercice 3"
+  },
+  {
+   "where": "2015-2016 test de février junior, exercice 3 (12243)",
+   "what": "l'énoncé suppose que les deux cercles se recoupent, ce qui est faux quand l'angle en A est droit (ils sont alors tangents en A) ; le corrigé ne traite que le cas où l'angle en A est aigu (T entre A et M) et ne vérifie pas que les deux cercles sont distincts. Hypothèse ajoutée et preuve complétée dans 12243"
+  },
+  {
+   "where": "2016-2017 test de novembre, corrigé de l'exercice 1 (12258)",
+   "what": "la récurrence oublie le cas où les paires restantes utilisent déjà au plus n − k nombres ; la dernière ligne « n − ⌊(n−1)/3⌋ ⩽ n − (n−1)/3 = 2n/3 + 1 » a l'inégalité dans le mauvais sens et l'égalité fausse (n − (n−1)/3 = (2n+1)/3). Solution corrigée dans 12258, avec la borne n − k ⩽ (2n+3)/3"
+  },
+  {
+   "where": "2016-2017 test de novembre, exercice 2 (12259)",
+   "what": "l'énoncé ne précise pas AB ≠ AC ni que A, P, Q ne sont pas alignés (angle en A différent de 60° et de 120°) ; sans ces conditions le point T n'existe pas. Hypothèses ajoutées dans 12259"
+  },
+  {
+   "where": "2016-2017 test de janvier, corrigé de l'exercice 2 (12262)",
+   "what": "la première famille de paires (ab avec a(b+1)) doit se limiter aux nombres dont le chiffre des unités b est impair ; sinon les paires se chevauchent et l'on n'obtient pas 36 paires disjointes. Corrigé dans 12262, réponse 45 vérifiée par ordinateur"
+  },
+  {
+   "where": "2016-2017 test de janvier, corrigé de l'exercice 6 (12266)",
+   "what": "dans la récurrence, l'hypothèse est écrite « 5^(k−1) divise a + 1 » au lieu de « 5^k divise a + 1 », et la conclusion « 5^k » au lieu de « 5^(k+1) ». Corrigé dans 12266"
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-test-fevrier.pdf, exercice 4",
+   "what": "L'énoncé oublie l'hypothèse AB ≠ AC. Pour un triangle isocèle en A, les points O, H, A₁ et A₂ sont tous sur l'axe de symétrie, donc alignés, et la question b) est fausse. L'hypothèse a été ajoutée dans 12270."
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-test-mars.pdf, exercice 1",
+   "what": "L'énoncé demande que B appartienne au segment [AC], ce qui est impossible pour trois points distincts d'un cercle : il faut lire [MC], comme le confirme le reste de l'énoncé. Corrigé dans 12273."
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-test-mars.pdf, exercice 5",
+   "what": "L'énoncé dit « pour tous réels a1, …, a5 » : il faut des réels strictement positifs, sinon certaines fractions n'existent pas (c'est la version du problème A2 de la liste courte des OIM 2016). Corrigé dans 12277."
+  }
+ ],
+ "notes": [
+  "2014-2015 Test de Janvier : 7 exercices, tous importés (12204 à 12210). Groupe B (exercices 1 à 3) en 3e et 2de, exercice commun 4 en 2de, groupe A (5 à 7) en 1re et Terminale.",
+  "2014-2015 Test de Février junior (groupe B et EGMO) : 4 exercices, tous importés (12211 à 12214). Pour l'exercice 4, la puissance d'un point du corrigé est remplacée par un lemme des cordes démontré dans la solution.",
+  "2014-2015 Test de Février senior (groupe A et EGMO) : 4 exercices, tous importés (12215 à 12218). Exercice 3 : la puissance d'un point et l'orthocentre du corrigé sont remplacés par un calcul en repère (produit scalaire, niveau 1re), vérifié numériquement. Exercice 4 : réponse du corrigé fausse, voir source_errors.",
+  "2014-2015 Test de Mars (pas de corrigé) : 6 exercices, tous importés (12219 à 12224), chacun résolu et vérifié par nous. Ex 1 : force brute sur toutes les files jusqu'à 14 personnes. Ex 2 : alignement et toutes les positions relatives vérifiés sur 20000 triangles aléatoires. Ex 3 : aucune autre solution pour n < 3000. Ex 4 : les deux solutions x et |x| testées, les autres pentes rejetées. Ex 5 : la formule (n - 2) 2^n + 1 confirmée par programmation dynamique pour n = 2 à 10 (c'est ISL 2014 N1). Ex 6 : preuve en repère (niveau 1re), parallélisme vérifié sur 20000 triangles ; le point R est l'orthocentre de OBM.",
+  "2014-2015 Test final de mai, jours 1 et 2 (pas de corrigé) : 9 exercices, 8 importés (12225 à 12232), chacun résolu et vérifié par nous ; exercice 8 du jour 2 sauté (voir skipped). Vérifications : jour 1 ex 1, force brute sur les polynômes de petits coefficients ; ex 2, égalité d'angles vérifiée sur 20000 triangles aléatoires ; ex 3, preuve par deux coloriages ; jour 2 ex 4, 1640 triangles, preuve en repère ; ex 5, minimum numérique 17,25 = 69/4 ; ex 6, force brute ; ex 7, preuve par comptage des coins (k = 1 + traits + croix) ; ex 9, force brute pour p ≤ 13 et x, y < 700.",
+  "2015-2016 Test de Décembre : 3 exercices, tous importés (12233 à 12235). Ex 1 en 3e (rangement et disjonction de cas, vérifié sur 20000 tirages aléatoires). Ex 2 : le corrigé (angles orientés, centre du cercle circonscrit) est remplacé par une preuve de niveau 2de avec les cercles de diamètres [BC] et [AH] ; alignement vérifié sur 5000 triangles. Ex 3 en Terminale (récurrence forte) ; proche par l'idée de 6018 (arbre de Calkin et Wilf) mais problème différent, pas de see_also.",
+  "Document 7 (janvier 2016) : 6 exercices importés, 12236 à 12241. 12240 demande plus que 12237 : l'exercice 5 b généralise l'exercice 2 (qui est aussi la question 5 a), d'où un seul énoncé b en 1re et un lien see_also avec 12237 en 3e. 12236 est résolu sans angle inscrit, avec le milieu de l'hypoténuse. 12238 : 144 vérifié par énumération des arbres couvrants. 12204 et 12229 ont reçu après coup leur entrée beyond_programme « inequalities ».",
+  "Document 8 (février 2016 junior) : 12244 (2005 solutions de 1/x + 1/y = 1/n, donc n est un carré) est voisin de 7452 (compter les solutions pour n = 2012^10), même technique mais question différente ; pas de see_also.",
+  "12247 est un cas particulier du théorème de Dirac sur les cycles hamiltoniens ; la solution est élémentaire (retournement d'un bloc), le théorème n'est cité qu'en ouverture",
+  "Document 10 (test de mars 2016, pas de corrigé) : 5 exercices importés, 12248 à 12252, chacun résolu pour cette base et vérifié par ordinateur ; l'exercice 2 est un doublon de 10204. 12251 est le problème N2 et 12252 le problème G3 de la liste courte des OIM 2015. 12248 : l'énoncé ne dit pas si les deux diviseurs peuvent être égaux ; on les autorise (réponse 2, 4, 6, 8, 10, 12, 14, 18, 30) et la variante distincte est en « Pour aller plus loin ».",
+  "Document 11 (test de mai 2016, pas de corrigé) : 5 exercices importés, 12253 à 12257, chacun résolu pour cette base ; 12253 vérifié par ordinateur sur 20 000 listes au hasard, 12255 par recherche exhaustive pour a < 3000, 12256 numériquement sur la figure. 12256 est le problème G1 et 12257 le problème A1 de la liste courte des OIM 2015 ; l'exercice 6 (C6 de la même liste) est sauté faute de démonstration vérifiée. 12256 est placé en 2de car la puissance d'un point y est démontrée en quelques lignes avec Pythagore.",
+  "Document 12 (test de novembre 2016, avec corrigé) : les 3 exercices sont importés, 12258 à 12260. 12258 vérifié par ordinateur sur 3 000 tirages au hasard pour chaque n de 5 à 11, 12259 sur 2 000 triangles au hasard. 12259 est placé en 1re : la solution du corrigé (Ménélaüs, triangles semblables) est remplacée par une solution vectorielle avec le produit scalaire et Al-Kashi. 12260 suit le corrigé (nombres u_r = (a^(2^r) + 1)/2 premiers entre eux deux à deux, puis principe des tiroirs).",
+  "Document 13 (test de janvier 2017, avec corrigé) : les 6 exercices sont importés, 12261 à 12266. Vérifications par ordinateur : 12262 (réponse 45, par recherche exhaustive sur les nombres de 10 à 99), 12264 sur 2 000 triangles au hasard, 12266 (les 1008 premiers des 2016 derniers chiffres de 2^n sont des 9 pour n = 2016 + 2 × 5^2015). 12263 et 12266 sont rédigés sans congruences (factorisation de x^k − y^k, et identité b⁴ − b³ + b² − b + 1 = (b + 1)(b³ − 2b² + 3b − 4) + 5). 12266 est en Terminale pour la récurrence.",
+  "Les signes ⩽ et ⩾ dans un champ title: s'affichent comme une case vide dans le PDF (glyphe absent de la police du titre). Corrigé dans mes fichiers 12254 et 12261 en utilisant ≤ et ≥. Douze autres fichiers, hors de mon bloc, ont le même problème dans leur titre ; je n'y ai pas touché.",
+  "Document 14 (test de février 2017) : les six exercices sont importés (12267 à 12272). Solutions vérifiées par ordinateur : système de 2017 équations (12267), entiers a + b/a − 1/b (12268), cocyclicités de 12270 sur plus de 1 500 triangles aigus et 3 000 triangles avec un angle obtus en B, construction de Clara sur 3 000 répartitions de 1 à 2012 (12272), et recherche exhaustive des répartitions piège de 1 à n pour n ≤ 24 (seul n = 20 en donne). 12270 est placé en 1re et rédigé avec le produit scalaire au lieu des angles inscrits du corrigé ; 12271 garde la preuve élémentaire du corrigé et laisse de côté sa preuve par les polynômes.",
+  "12269 (2017 droites, grade 10) et 8189 (2018 droites, grade 11, autre agent) sont le même problème à deux niveaux différents. J'ai mis see_also: [\"8189\"] dans 12269 ; le coordinateur doit ajouter \"12269\" dans le see_also de 8189, fichier que je n'ai pas le droit de modifier.",
+  "Les notes de vm.py check qui rapprochent 12268 de 1817 et 12271 de 8163 sont de faux positifs : seuls les titres se ressemblent.",
+  "Test de mars 2017 (document 15) : pas de corrigé publié. Les six exercices sont importés (12273 à 12278), avec des solutions rédigées pour cette base et vérifiées par ordinateur : 2 000 figures pour l'exercice 1, 200 000 triplets pour l'exercice 2, 3 000 coloriages pour l'exercice 3, recherche exhaustive pour p < 400 pour l'exercice 4, 20 000 quintuplets pour l'exercice 5, sept triangles pour l'exercice 6.",
+  "12275 (mars 2017, exercice 3) : l'énoncé original demande seulement que les segments ne se croisent pas. Sans l'hypothèse qu'ils n'ont pas d'extrémité commune, il suffit de relier le point noir à n autres points. Cette hypothèse a été ajoutée et signalée dans source.reference.",
+  "12278 (mars 2017, exercice 6, groupe A) est classé en 2de, difficulté 5 : la solution n'utilise que des triangles semblables et des coordonnées dans un repère orthonormé.",
+  "12274 utilise l'inégalité de Nesbitt comme étape, démontrée dans la solution. Ce n'est pas le même problème que 2818 (Nesbitt seule, grade 12) ni 12029, donc pas de see_also.",
+  "Test de mai 2017 (document 16) : aucun corrigé publié. Les six exercices ont été résolus pour cette base, et chaque solution a été vérifiée par ordinateur (recherche exhaustive ou tirages au hasard, détaillés dans source.reference).",
+  "12279 (mai 2017, exercice 1, 4e) est le même problème de cartes que 7322 (2de), avec une question de plus. Les deux sont à des niveaux différents, donc 12279 a see_also [\"7322\"]. Le coordinateur doit ajouter \"12279\" au see_also de 7322, qui est hors de mon bloc.",
+  "12281 (mai 2017, exercice 3) : l'énoncé ajoute que D et E sont distincts de A et de C, sinon la construction n'a pas de sens.",
+  "12282 (mai 2017, exercice 4) : la couche texte du PDF perd les exposants ; l'énoncé a été relu avec tools/pdfsupers.py.",
+  "12283 (mai 2017, exercice 5) est le problème G2 de la liste courte des OIM 2016. Classé en 1re, difficulté 5 : il ne demande que l'angle inscrit, des triangles semblables et des aires.",
+  "12284 (mai 2017, exercice 6, groupe A) est classé en 2de, difficulté 5 : double comptage et parité, avec des rotations du polygone. Aucune copie trouvée dans la base (11459 et 11405 sont des problèmes différents)."
+ ],
+ "updated": "2026-10-02"
+}

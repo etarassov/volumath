@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="497" height="364" viewBox="0 0 497 364">
+<rect width="100%" height="100%" fill="#fff"/>
+<polygon points="53.0,306.0 196.0,42.0 449.0,306.0" fill="none" stroke="#000" stroke-width="1.4"/>
+<circle cx="171.8" cy="129.5" r="90.8" fill="none" stroke="#000" stroke-width="1.2"/>
+<line x1="53.0" y1="306.0" x2="309.2" y2="153.4" stroke="#555" stroke-width="1.0"/>
+<line x1="260.3" y1="109.1" x2="176.3" y2="306.0" stroke="#555" stroke-width="1.0"/>
+<line x1="111.7" y1="197.6" x2="218.3" y2="207.5" stroke="#777" stroke-width="0.9" stroke-dasharray="5,4"/>
+<circle cx="53.0" cy="306.0" r="2.6" fill="#000"/>
+<text x="37.0" y="310.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>A</tspan></text>
+<circle cx="196.0" cy="42.0" r="2.6" fill="#000"/>
+<text x="192.0" y="34.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>B</tspan></text>
+<circle cx="449.0" cy="306.0" r="2.6" fill="#000"/>
+<text x="455.0" y="310.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>C</tspan></text>
+<circle cx="218.3" cy="207.5" r="2.6" fill="#000"/>
+<text x="226.3" y="221.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>I</tspan></text>
+<circle cx="111.7" cy="197.6" r="2.6" fill="#000"/>
+<text x="95.7" y="195.6" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>P</tspan></text>
+<circle cx="260.3" cy="109.1" r="2.6" fill="#000"/>
+<text x="268.3" y="107.1" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>Q</tspan></text>
+<circle cx="176.3" cy="306.0" r="2.6" fill="#000"/>
+<text x="172.3" y="324.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>R</tspan></text>
+<text x="71.7" y="86.0" font-family="Helvetica, Arial, sans-serif" font-size="17" font-style="italic" fill="#000">ω</text>
+</svg>

@@ -1,0 +1,484 @@
+{
+ "unit": "tests-2011-2014",
+ "source": "pofm-tests",
+ "title": "Tests de sélection POFM, années 2011 à 2014",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "12001",
+  "12200"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2011-2012",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2011-2012-test-janvier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2011-2012-test-janvier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2011-2012-test-janvier-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2011-2012-test-janvier-corrige.pdf"
+   }
+  },
+  {
+   "year": "2011-2012",
+   "label": "Test de Mars : jour 1 et jour 2",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2011-2012-test-mars-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2011-2012-test-mars-1.pdf"
+    },
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2011-2012-test-mars-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2011-2012-test-mars-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2011-2012-test-mars-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2011-2012-test-mars-corrige.pdf"
+   }
+  },
+  {
+   "year": "2012-2013",
+   "label": "Test de Novembre",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-novembre.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-novembre.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-novembre-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-novembre-corrige.pdf"
+   }
+  },
+  {
+   "year": "2012-2013",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-janvier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-janvier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-janvier-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-janvier-corrige.pdf"
+   }
+  },
+  {
+   "year": "2012-2013",
+   "label": "Test du stage de Mars",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-stage.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-stage.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-stage-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-stage-corrige.pdf"
+   }
+  },
+  {
+   "year": "2012-2013",
+   "label": "Test de Mars : jour 1 et jour 2",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-mars-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-mars-1.pdf"
+    },
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-mars-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-mars-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-mars-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-mars-corrige.pdf"
+   }
+  },
+  {
+   "year": "2012-2013",
+   "label": "Test de Mai",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2012-2013-test-mai.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-test-mai.pdf"
+    }
+   ],
+   "corrige": null
+  },
+  {
+   "year": "2013-2014",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2013-2014-test-janvier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-test-janvier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2013-2014-test-janvier-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-test-janvier-corrige.pdf"
+   }
+  },
+  {
+   "year": "2013-2014",
+   "label": "Test de Février",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2013-2014-test-fevrier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-test-fevrier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2013-2014-test-fevrier-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-test-fevrier-corrige.pdf"
+   }
+  },
+  {
+   "year": "2013-2014",
+   "label": "Test d’Avril",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2013-2014-test-avril.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-test-avril.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2013-2014-test-avril-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-test-avril-corrige.pdf"
+   }
+  },
+  {
+   "year": "2013-2014",
+   "label": "Test de Mai : jour 1 et jour 2",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2013-2014-test-mai-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-test-mai-1.pdf"
+    },
+    {
+     "file": "sources/originals/pofm-tests/2017-10_ofm-2013-2014-test-mai-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-test-mai-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-10_ofm-2013-2014-test-mai-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-test-mai-corrige.pdf"
+   }
+  }
+ ],
+ "next_document": 11,
+ "imported": [
+  "12001",
+  "12002",
+  "12003",
+  "12004",
+  "12005",
+  "12006",
+  "12007",
+  "12008",
+  "12009",
+  "12010",
+  "12011",
+  "12012",
+  "12013",
+  "12014",
+  "12015",
+  "12016",
+  "12017",
+  "12018",
+  "12019",
+  "12020",
+  "12021",
+  "12022",
+  "12023",
+  "12024",
+  "12025",
+  "12026",
+  "12027",
+  "12028",
+  "12029",
+  "12030",
+  "12031",
+  "12032",
+  "12033",
+  "12034",
+  "12035",
+  "12036",
+  "12037",
+  "12038",
+  "12039",
+  "12040",
+  "12041",
+  "12042",
+  "12043",
+  "12044",
+  "12045",
+  "12046",
+  "12047",
+  "12048",
+  "12049",
+  "12050",
+  "12051",
+  "12052",
+  "12053",
+  "12054",
+  "12055",
+  "12056",
+  "12057",
+  "12058",
+  "12059",
+  "12060",
+  "12061",
+  "12062",
+  "12063",
+  "12064",
+  "12065"
+ ],
+ "skipped": [
+  {
+   "where": "2017-10_ofm-2012-2013-test-mars-1.pdf, exercice 4",
+   "why": "doublon : même problème (la mouche et les araignées) déjà importé à la même classe par un autre agent, depuis la Coupe d'automne 2018 lycée, exercice 7",
+   "existing": "13259"
+  },
+  {
+   "where": "2017-10_ofm-2013-2014-test-avril.pdf, problème 3",
+   "why": "doublon : c'est le problème 3 de l'EGMO 2014 (d(n) ne divise pas d(a² + b²)), déjà importé à la même classe par un autre agent",
+   "existing": "10854"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "12002",
+   "tool": "équation fonctionnelle (aucun outil hors programme, le thème algebra convient mal)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12004",
+   "tool": "congruences, théorème de Gauss",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12007",
+   "tool": "congruences, lemme d'Euclide, formule du binôme (p divise C(p, j))",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12008",
+   "tool": "équation fonctionnelle sur les entiers (construction d'une fonction, aucun outil hors programme)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12015",
+   "tool": "équation fonctionnelle sur Q (équation de Cauchy démontrée dans la solution)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12017",
+   "tool": "congruences, petit théorème de Fermat, binôme modulo p²",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12023",
+   "tool": "inégalité (aucun outil hors programme, minoration directe)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12029",
+   "tool": "inégalité de Cauchy-Schwarz sous la forme Σ a²/u ≥ (Σ a)²/Σ u, démontrée dans la solution",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12033",
+   "tool": "inégalité (aucun outil hors programme, x² + y² ≥ 2xy puis une somme qui vaut exactement 1 quand abc = 1)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12034",
+   "tool": "équation fonctionnelle sur les entiers (aucun outil hors programme, récurrence)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12036",
+   "tool": "théorème de Bézout et lemme d'Euclide (maths expertes)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12037",
+   "tool": "angles orientés de droites et rotations (composée de deux symétries axiales, angle constant entre (XO) et (Xρ(X))), plus des coordonnées pour la question 1",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "12039",
+   "tool": "petit théorème de Fermat (maths expertes), utilisé pour montrer que p divise y + z quand p - 1 n'est pas divisible par 3",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12047",
+   "tool": "théorème de Gauss et lemme d'Euclide (maths expertes), pour passer de x² + y² divise x²(xy - 1) à x² + y² divise xy - 1",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12051",
+   "tool": "inégalité x + y ⩾ 2√(xy) entre moyennes arithmétique et géométrique de deux nombres, démontrée dans la solution par (√x − √y)² ⩾ 0",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12055",
+   "tool": "inégalités triangulaires, inégalité (b + c)² ⩾ 4bc et monotonie d'une fonction affine du paramètre t",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12062",
+   "tool": "développement du carré d'une somme et minoration terme à terme a_i a_j ⩾ a_j²",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12063",
+   "tool": "divisibilité et encadrement (si d divise a et 0 < a < 2d alors a = d)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12064",
+   "tool": "signes alternés sur une liste rangée et descente en enlevant deux termes",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2017-10_ofm-2011-2012-test-janvier-corrige.pdf, exercice 4",
+   "what": "coquille : x^{bc} ≡ (−1)^c y^{bd} au lieu de (−1)^b y^{bd} ; la ligne suivante utilise la bonne valeur, le résultat n'est pas touché"
+  },
+  {
+   "where": "2017-10_ofm-2011-2012-test-mars-corrige.pdf, exercice 5",
+   "what": "coquille : le polynôme solution est écrit deux fois X³ + X² − X − X au lieu de X³ + X² − X − 1 ; la factorisation (X + 1)²(X − 1) donnée à côté est correcte"
+  },
+  {
+   "where": "2017-10_ofm-2011-2012-test-mars-corrige.pdf, exercices 3 et 4",
+   "what": "coquilles sans conséquence : renvois d'équations décalés (« d'après (1) » pour la définition (2) à l'exercice 4, « (5) » pour « (1) » à l'exercice 3), « premiert », et l'exercice 4 annonce « pour tout k ≥ 1 » alors que l'énoncé impose k > 1"
+  },
+  {
+   "where": "2017-10_ofm-2012-2013-test-novembre-corrige.pdf, exercice 2",
+   "what": "l'inégalité qui définit k est écrite à l'envers, et l'intervalle ℓ ∈ [1, k − 1] doit inclure 0 ; la réponse 2 025 079 est juste"
+  },
+  {
+   "where": "2017-10_ofm-2012-2013-test-novembre-corrige.pdf, exercice 5",
+   "what": "coquilles dans le premier cas : une parenthèse mal placée dans l'équation développée, et « a³ = 3 » au lieu de a³ = a ; la conclusion est juste"
+  },
+  {
+   "where": "2017-10_ofm-2012-2013-test-janvier-corrige.pdf, exercice 4",
+   "what": "les inconnues sont mal nommées (droite et gauche échangées par rapport aux équations), et la conclusion dit que le nombre de personnes qui bougent « ne peut pas être égal à 2013 » alors qu'il y a 2013 × 2013 personnes ; la conclusion reste juste car les deux nombres sont impairs"
+  },
+  {
+   "where": "2017-10_ofm-2012-2013-test-mars-corrige.pdf, page de titre",
+   "what": "le corrigé du test de mars porte le titre « Test du mercredi 9 janvier – Corrigé »"
+  },
+  {
+   "where": "2017-10_ofm-2012-2013-test-mars-corrige.pdf, exercice 8, question 1",
+   "what": "raisonnement circulaire : le centre de la similitude qui envoie K sur B et L sur C est le second point commun des cercles ABC et AKL, et le corrigé l'appelle R sans avoir montré que R est sur le cercle ABC, ce qui est justement à démontrer ; 12037 démontre la question 1 par un calcul en coordonnées"
+  },
+  {
+   "where": "2017-10_ofm-2012-2013-test-mars-corrige.pdf, exercice 8, question 2",
+   "what": "la bissectrice intérieure (et non extérieure) est obtenue par un argument de continuité esquissé ; 12037 construit explicitement le centre de la rotation sur la bissectrice intérieure"
+  },
+  {
+   "where": "2017-10_ofm-2013-2014-test-fevrier.pdf, exercice 4",
+   "what": "L'énoncé oublie un cas : si P est le second point où la droite (MM') coupe le cercle C, alors (PP') = (MM'), N = P' et Q = M', et les quatre points M, N, P, Q sont alignés, donc pas cocycliques. L'hypothèse « les droites (MM') et (PP') sont distinctes » est ajoutée dans 12052, et la solution explique pourquoi elle est indispensable."
+  },
+  {
+   "where": "2017-10_ofm-2013-2014-test-mai-corrige.pdf, exercice J1",
+   "what": "les huit dernières paires sont dites commencer à 2009 au lieu de 2007, ce qui laisse 2007 et 2008 non couverts ; le total 59 × 17 + 8 = 1011 reste juste"
+  },
+  {
+   "where": "2017-10_ofm-2013-2014-test-mai-corrige.pdf, exercice J3, solution alternative",
+   "what": "la somme finale est écrite avec le coefficient 2i + 1 au lieu de 2i − 1"
+  },
+  {
+   "where": "2017-10_ofm-2013-2014-test-mai-corrige.pdf, exercice 5",
+   "what": "le coefficient α de x₁ est dit négatif alors qu'il est positif ou nul, ce que la suite du raisonnement utilise"
+  },
+  {
+   "where": "2017-10_ofm-2013-2014-test-mai-corrige.pdf, exercice 6",
+   "what": "« nécessairement s(M) = X » n'est pas justifié : le cercle AMT coupe la médiatrice de [AC] en deux points, et c'est l'hypothèse « X à l'intérieur du triangle » qui exclut l'autre (le point diamétralement opposé à T) ; la preuve est ajoutée dans 12065"
+  }
+ ],
+ "notes": [
+  "2011-2012 Test de Janvier : l'énoncé porte l'en-tête « Janvier 2011 » alors que le corrigé dit 2011-2012 ; les exercices citent les deux.",
+  "12003 : solution réécrite par une symétrie (indépendante de la figure) au lieu de la chasse aux angles du corrigé, qui ne traite que le cas O intérieur à ABCD.",
+  "2011-2012 Test de Mars : les six exercices sont importés (12005 à 12010).",
+  "12009 : solution réécrite avec la somme des carrés des racines, beaucoup plus courte que le calcul de a2 du corrigé ; résultat vérifié par recherche exhaustive (degré ≤ 7, coefficients entre −3 et 3).",
+  "12010 : la chasse aux angles du corrigé dépend de la figure ; solution réécrite au produit scalaire (puissance d'un point et axe radical démontrés dans la solution, cas 1 du brief), vérifiée numériquement sur 11 000 configurations aléatoires. Origine probable : shortlist OIM 2011, G3.",
+  "Novembre 2012 : les huit exercices sont importés (12011 à 12018), aucun doublon trouvé.",
+  "12011 à 12013 (sujet junior) placés en 3e, 12014 et 12016 en 2de : aucun outil de Terminale n'est nécessaire.",
+  "12014 : solution réécrite en coupant le triangle par des droites parallèles à un côté du parallélogramme, au lieu de la suite de déformations du corrigé.",
+  "12016 : placé en 2de, difficulté 5 (argument de bandes de pièces, sans outil de lycée).",
+  "12018 : la chasse aux angles du corrigé dépend de la figure ; solution réécrite au produit scalaire, la position des points étant contrôlée par le signe d'un produit scalaire ; vérifiée numériquement (λμ = −1).",
+  "Janvier 2013 : les huit exercices sont importés (12019 à 12026).",
+  "Sujet junior placé en 4e (12022), 3e (12019) et 2de (12020, 12021) ; 12025 et 12026 (sujet olympique) en 2de, car ils n'utilisent que l'angle inscrit et le principe des tiroirs.",
+  "12021 : c'est une variante du théorème de la corde brisée d'Archimède (C est le milieu de l'arc qui ne contient pas P) ; titre choisi en conséquence, la version d'Archimède est donnée en prolongement et vérifiée numériquement.",
+  "12023 : le corrigé procède par récurrence ; solution réécrite par une minoration directe T ≥ y_j(1 − x_j), vérifiée numériquement.",
+  "12024 : le corrigé s'appuie sur l'inégalité de Bonse ; la solution contient une démonstration élémentaire (décomposition en facteurs premiers seulement). Liste complète des n vérifiée par programme : 3, 4, 6, 8, 12, 18, 24, 30.",
+  "12025 : le corrigé utilise des angles orientés ou les nombres complexes ; solution réécrite avec la symétrie d'axe (BD), qui envoie C sur P. Vérifiée numériquement.",
+  "Doublon probable, même grade, dans le bloc d'un autre agent : 12017 (test de novembre 2012, exercice 7) et 10819 (envoi 2014-2015 n° 3, groupe B, exercice 3) posent le même problème (si p divise aⁿ − 1 alors p² le divise). Les deux fichiers sont gardés ; au coordinateur de choisir.",
+  "Signalé par vm.py check mais vérifié différent : 12013 et 8520 (problèmes distincts sur les nombres premiers entre eux), 12014 et 5515 (parallélogramme contre triangle), 12015 et 8922 ou 8929 (équations fonctionnelles différentes).",
+  "Test du stage de mars 2013 (corrigé intitulé « Test EGMO ») : les quatre exercices sont importés (12027 à 12030), aucun doublon trouvé.",
+  "12027 placé en 1re et 12030 en 2de : seules la décomposition en facteurs premiers et la divisibilité sont utilisées. 12030 : solution réécrite sans congruences, avec le seul fait que tout diviseur commun de 4m + 1 et m² + 3 divise 49 ; solutions vérifiées par programme jusqu'à m = 30 000.",
+  "12028 : le corrigé utilise des angles orientés ou une similitude indirecte ; solution réécrite avec des angles ordinaires, en séparant les deux ordres possibles de C, K, L. Vérifiée sur 1 179 configurations aléatoires. Le prolongement signale que N est toujours sur ω (vérifié numériquement).",
+  "Signalé par vm.py check mais vérifié différent : 12028 et 10203, 12028 et 8920 (autres problèmes de triangle isocèle), 12027 et 12013 ou 0876.",
+  "Document 5 (test de mars 2013, jours 1 et 2) : 7 importés, 12031 à 12037 ; l'exercice 4 est sauté, doublon de 13259 (même classe, autre agent).",
+  "Classes : 12031 en 2de (angles inscrits, triangles égaux ; la rotation du corrigé remplacée) ; 12032 en 2de (diviseurs, nombres premiers) ; 12033 et 12034 en 2de ; 12035 en 1re (suites récurrentes d'ordre 2, contre-exemple a, b = 1 ± √2/2) ; 12036 en Terminale maths expertes (Bézout, n choisi comme produit des facteurs premiers de c qui ne divisent pas b, au lieu du théorème chinois du corrigé) ; 12037 en Terminale, hors programme, 5 étoiles.",
+  "Vérifications : exercice 1 sur 2000 configurations, exercice 2 par recherche exhaustive des suites jusqu'au rang 24, exercice 3 sur 200 000 triplets, exercice 7 par l'algorithme écrit pour tous les triplets de [-25, 25]³ premiers entre eux (au plus 5 opérations), exercice 8 sur 3000 configurations (Q sur la bissectrice à la distance (AB + AD)/(2 cos α), R = (0, (AB − AC)/(2 sin α)) sur le cercle).",
+  "12037 : énoncé précisé (D et E distincts des sommets, sinon P ou les cercles dégénèrent). Le prolongement note que R ne dépend pas de D et E : c'est le milieu de l'arc BAC.",
+  "Signalé par vm.py check mais vérifié différent : 12037 et 0655, 12035 et 0479, 12031 et 0834, 13449 ou 12626 (ressemblance de titres seulement).",
+  "Document 6 (test du 15 mai 2013, sans corrigé) : les 4 exercices sont importés, 12038 à 12041. Comme il n'y a pas de corrigé, chaque solution est rédigée ici et vérifiée par ordinateur : 12038 par recherche exhaustive de cycles sur les lignes d'au plus 4 nombres valant au plus 5 ; 12039 par recherche exhaustive pour tous les nombres premiers p < 120 ; 12040 numériquement sur des triangles acutangles tirés au hasard (parallélisme et les identités IA × II1 = 2r² et O1C² - O1I² = -2r² utilisées dans la preuve) ; 12041 sur toutes les partitions périodiques de période au plus 12.",
+  "Classes : 12038 en 2de (monovariant et récurrence ; c'est aussi ISL 2012 C1) ; 12039 en Terminale avec maths-expertes (Fermat) ; 12040 en 1re à 5 étoiles (Al-Kashi, trigonométrie, triangles semblables ; la puissance d'un point est démontrée dans la solution par Pythagore) ; 12041 en 1re (périodes et division euclidienne, rien hors programme).",
+  "Signalé par vm.py check mais vérifié différent : 12040 et 7614, 12040 et 7823 (ressemblance de titres seulement, ce sont des problèmes de deux cercles sécants).",
+  "Document 7 (test du 15 janvier 2014) : les 7 exercices sont importés, 12042 à 12048. Les exercices 1 à 3 sont ceux du groupe B, le 4 est commun, les 5 à 7 sont ceux du groupe A.",
+  "Classes : 12042 en 3e (tangentes et symétrie axiale) ; 12043 en 3e (dénombrement de paires et construction sur un cercle) ; 12044 en 3e (fractions et construction) ; 12045 en 2de à 5 étoiles (le corrigé passe par Miquel et les angles orientés ; la solution ici n'utilise que des longueurs : puissance d'un point démontrée par Pythagore, triangles semblables justifiés par Thalès, théorème de la bissectrice par les aires) ; 12046 en 2de (minimum et disjonction de cas sur la partie entière) ; 12047 en Terminale avec maths-expertes (Gauss) ; 12048 en 3e (paires complémentaires).",
+  "Vérifications par ordinateur : 12044 pour n ⩽ 4 ; 12045 numériquement sur des triangles acutangles tirés au hasard (ME = MF, M sur [AD], AM × AD = AB × AC cos A) ; 12046 pour tous les premiers termes jusqu'à 1 000 000 ; 12047 pour x, y < 400 ; 12048 sur la version réduite à 4N poids pour N = 2 et 4 (elle est fausse pour N = 1, ce que dit le « Going further »).",
+  "Dans l'exercice 4 (12045), l'hypothèse AB ≠ AC de l'énoncé ne sert pas ; elle est gardée dans l'énoncé et la solution le signale. Ce n'est pas une erreur de la source.",
+  "Signalés par vm.py check mais vérifiés différents : 12044 et 7043, 12047 et 10458, 12047 et 8939, 12046 et 12832 (ressemblance de titres seulement) ; 12045 et 12243 (deux cercles qui se recoupent, mais ce sont deux problèmes différents, la médiane et les centres inscrits pour 12243, la bissectrice et les hauteurs pour 12045). 12046 n'est pas le même problème que 12602 (« Les suites siciliennes », une autre définition de suite sicilienne).",
+  "Document 8 (test du 26 février 2014) : les 6 exercices sont importés, 12049 à 12054. Les exercices 1 et 2 sont ceux du groupe B, les 3 et 4 sont communs, les 5 et 6 sont ceux du groupe A.",
+  "Classes : 12049 en 3e (compléter les carrés, restes modulo 4 expliqués par la parité, trois divisions par 2) ; 12050 en 4e à 4 étoiles (seul le comptage sert, mais il faut combiner la fenêtre glissante, les deux moitiés et le pas de 1) ; 12051 en 2de (x + y ⩾ 2√(xy) et regroupement des fractions 1 et 3, 2 et 4) ; 12052 en 2de (vecteurs, puissance d'un point et sa réciproque démontrées par Pythagore, cas r = r' traité à part par une médiatrice commune ; le corrigé fait une chasse aux angles orientés) ; 12053 en 1re à 5 étoiles (la décomposition en facteurs premiers, vue au collège, suffit : pas besoin du théorème de Gauss) ; 12054 en 1re à 5 étoiles (double comptage et somme de carrés positive ; le corrigé utilise les graphes et l'inégalité de Jensen, la solution ici n'en a pas besoin et donne même la borne plus forte a² ⩽ p n²(n − 1)/2).",
+  "Vérifications par ordinateur : 12049 par recherche exhaustive (exactement les 8 triplets) ; 12050 sur 500 dispositions tirées au hasard ; 12051 sur 200 000 quadruplets tirés au hasard (maximum trouvé 0,9994) ; 12052 sur 20 000 configurations, y compris r = r', et la variante à rayons de sens contraire du « Going further » ; 12053 pour a, b, c < 400 (384 solutions, toutes avec n pair) ; 12054 sur 20 000 assemblées tirées au hasard pour la borne forte, et le maximum de 6 paires pour p = 1 et n = 5 du « Going further ».",
+  "Corrigé de l'exercice 6 : la dernière ligne paraît fausse dans le texte extrait par pdftotext, mais elle est juste sur la page rendue. Ce n'est pas une erreur de la source.",
+  "Signalés par vm.py check mais vérifiés différents : 12049 et 11067, 13809, 11833, 8185 (8185 utilise aussi une descente modulo 4, mais c'est l'équation x² + y² + z² = 2xyz) ; 12051 et 10605, 12033 (d'autres inégalités à fractions). Aucun doublon trouvé avec similar.py ni grep pour les six exercices.",
+  "Avril 2014 (EGMO 2014, premier jour) : problème 1 placé en 2de, 5 étoiles, car tous les outils sont de 2de (inégalité triangulaire, fonction affine, (b - c)² ⩾ 0) ; réponse t entre 2/3 et 2 vérifiée sur 200 000 triangles tirés au hasard, et contre-exemples explicites vérifiés pour t hors de l'intervalle.",
+  "Avril 2014 problème 2 placé en 1re, 5 étoiles : la solution 1 du corrigé utilise l'axe radical, réécrite avec le seul produit scalaire (PB.PD = PO1² - BD²/4), plus l'angle inscrit et Al-Kashi pour le point M. Cas 1 (outil démontré dans la solution), donc pas d'entrée beyond_programme. Alignement et égalités MO1 = MO2, IO1 = IO2, HO1 = HO2 vérifiés numériquement sur 14 641 triangles.",
+  "Avril 2014 problème 3 = 10854 (bloc envois arithmétique), déjà en Terminale : sauté.",
+  "Mai 2014 (deuxième jour OIM et test JBMO) : 9 exercices importés, 12057 à 12065. L'exercice 4 est commun aux deux tests et n'a été importé qu'une fois (12063).",
+  "Mai 2014 exercice 2 (12058, 1re, 5 étoiles) : solution refaite avec la puissance d'un point démontrée par produit scalaire et un repère centré au milieu de [MN] ; l'hypothèse « la plus proche de M » n'est pas nécessaire. Cas 1, pas d'entrée beyond_programme.",
+  "Mai 2014 J2 (12061) refait en géométrie analytique, vérifié sur 20 000 figures ; exercice 6 (12065) rédigé avec la symétrie d'axe la médiatrice de [AT] et le théorème de l'angle inscrit, vérifié numériquement (0 échec quand X et Y sont intérieurs). Cas 1 pour les deux.",
+  "Mai 2014 : aucun doublon trouvé avec similar.py et grep pour les neuf exercices (ISL 2013 C1, N1 et N3 cherchés aussi par leur énoncé).",
+  "Doublon à arbitrer, même classe : 12017 (Terminale, 4 étoiles, test de novembre 2012 exercice 7) et 10819 (Terminale, 3 étoiles, envoi 3 de 2014-2015, groupe B exercice 3, bloc d'un autre agent) sont le même problème (les n tels que p | aⁿ − 1 entraîne p² | aⁿ − 1). Repéré par vm.py check en fin de travail ; aucun fichier supprimé, au coordinateur de choisir.",
+  "Doublon à arbitrer, même classe : 12058 (1re, 5 étoiles, test de mai 2014 exercice 2) et 11654 (1re, 5 étoiles, envoi 5 de 2017-2018, groupe A exercice 9, bloc d'un autre agent) sont le même problème (les cercles MEF et NEF ont le même rayon). Aucun fichier supprimé, au coordinateur de choisir.",
+  "Vérification finale : vm.py check sans erreur sur les ids 12001 à 12065 (la seule erreur signalée concerne 10052, hors de ce bloc) ; les 65 exercices construits en une fois, 0 avertissement pandoc ; les 65 ids du registre existent sur le disque et inversement ; ids 12066 à 12200 non utilisés."
+ ],
+ "updated": "2026-10-01"
+}

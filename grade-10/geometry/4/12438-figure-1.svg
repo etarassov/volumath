@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="310" viewBox="0 0 400 310">
+<rect width="400" height="310" fill="#fff"/>
+<polygon points="262.0,148.0 169.0,272.0 355.0,272.0" fill="none" stroke="#000" stroke-width="1.4"/>
+<line x1="262.0" y1="148.0" x2="206.2" y2="73.6" stroke="#000" stroke-width="1.4"/>
+<line x1="262.0" y1="293.7" x2="262.0" y2="30.2" stroke="#000" stroke-width="1.0" stroke-dasharray="6 4"/>
+<line x1="29.5" y1="148.0" x2="373.6" y2="148.0" stroke="#000" stroke-width="1.0" stroke-dasharray="6 4"/>
+<line x1="22.9" y1="141.9" x2="310.6" y2="195.9" stroke="#000" stroke-width="1.1"/>
+<line x1="169.0" y1="272.0" x2="206.2" y2="73.6" stroke="#000" stroke-width="0.8" stroke-dasharray="2 3"/>
+<circle cx="262.0" cy="148.0" r="2.6" fill="#000"/>
+<circle cx="169.0" cy="272.0" r="2.6" fill="#000"/>
+<circle cx="355.0" cy="272.0" r="2.6" fill="#000"/>
+<circle cx="206.2" cy="73.6" r="2.6" fill="#000"/>
+<circle cx="262.0" cy="186.8" r="2.6" fill="#000"/>
+<circle cx="55.3" cy="148.0" r="2.6" fill="#000"/>
+<text x="272.0" y="137.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">A</text>
+<text x="163.0" y="286.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">B</text>
+<text x="361.0" y="286.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="194.2" y="67.6" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">D</text>
+<text x="274.0" y="194.8" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">E</text>
+<text x="55.3" y="135.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">F</text>
+<text x="272.0" y="34.2" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">d<tspan font-size="11" font-style="normal" dy="4">1</tspan></text>
+<text x="377.6" y="136.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">d<tspan font-size="11" font-style="normal" dy="4">2</tspan></text>
+<text x="322.6" y="197.9" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle">Δ</text>
+</svg>

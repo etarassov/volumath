@@ -1,0 +1,624 @@
+{
+ "unit": "printemps-2009-2016",
+ "source": "coupe-animath",
+ "title": "Coupe Animath printemps, 2009 à 2016",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "13601",
+  "13800"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2009",
+   "label": "Coupe printemps 2009",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2009_3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2009_3.pdf",
+     "role": "collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2009_1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2009_1.pdf",
+     "role": "lycéens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2009_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2009_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2010",
+   "label": "Coupe printemps 2010",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2010_3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2010_3.pdf",
+     "role": "collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2010_2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2010_2.pdf",
+     "role": "secondes"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2010_1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2010_1.pdf",
+     "role": "premières"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2010_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2010_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2011",
+   "label": "Coupe printemps 2011",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2011_3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2011_3.pdf",
+     "role": "collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2011_2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2011_2.pdf",
+     "role": "secondes"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2011_1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2011_1.pdf",
+     "role": "premières"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2011_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2011_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2012",
+   "label": "Coupe printemps 2012",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2012_3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2012_3.pdf",
+     "role": "collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2012_2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2012_2.pdf",
+     "role": "secondes"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2012_1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2012_1.pdf",
+     "role": "premières"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2012_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2012_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2013",
+   "label": "Coupe printemps 2013",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2013_3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2013_3.pdf",
+     "role": "collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2013_2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2013_2.pdf",
+     "role": "secondes"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2013_1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2013_1.pdf",
+     "role": "premières"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2013_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2013_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2014",
+   "label": "Coupe printemps 2014",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2014.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2014.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2014_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2014_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2015",
+   "label": "Coupe printemps 2015",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2015_elim_college.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2015_elim_college.pdf",
+     "role": "collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2015_elim_lycee.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2015_elim_lycee.pdf",
+     "role": "lycéens"
+    },
+    {
+     "file": null,
+     "role": "corrigé",
+     "note": "lien vers un fichier .txt, jamais publié en PDF"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2015.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2015.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2015_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2015_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2016",
+   "label": "Coupe printemps 2016",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2016_elim_college.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2016_elim_college.pdf",
+     "role": "collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2016_elim_lycee.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2016_elim_lycee.pdf",
+     "role": "lycéens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2016_elim_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2016_elim_corrige.pdf",
+     "role": "corrigé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2016.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2016.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_printemps_2016_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_printemps_2016_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  }
+ ],
+ "next_document": 8,
+ "imported": [
+  "13601",
+  "13602",
+  "13603",
+  "13604",
+  "13605",
+  "13606",
+  "13607",
+  "13608",
+  "13609",
+  "13610",
+  "13611",
+  "13612",
+  "13613",
+  "13614",
+  "13615",
+  "13616",
+  "13617",
+  "13618",
+  "13619",
+  "13620",
+  "13621",
+  "13622",
+  "13623",
+  "13624",
+  "13625",
+  "13626",
+  "13627",
+  "13628",
+  "13629",
+  "13630"
+ ],
+ "skipped": [
+  {
+   "where": "2017-09_coupe_printemps_2010_3.pdf, épreuve collège, exercice 3 (aussi exercice 3 des épreuves de seconde et de première)",
+   "why": "déjà dans la collection, venu du polycopié du stage d'été 2010 (x + y + z + xy + yz + zx + xyz = 2009)",
+   "existing": "7424"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2013_3.pdf, épreuve collège, exercice 1",
+   "why": "déjà dans la collection (quatre diviseurs de 2013 de somme 2013), importé depuis le polycopié du stage d'été 2013",
+   "existing": "7601"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2013_3.pdf, épreuve collège, exercice 2 (aussi exercice 2 des secondes)",
+   "why": "déjà dans la collection (carré découpé en neuf carrés de trois couleurs)",
+   "existing": "7602"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2013_3.pdf, épreuve collège, exercice 3 (aussi exercice 3 des secondes et des premières)",
+   "why": "déjà dans la collection (losange, A, K, P alignés), avec K restreint au segment [CD]",
+   "existing": "7603"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2013_3.pdf, épreuve collège, exercice 4 (aussi exercice 4 des secondes et des premières)",
+   "why": "déjà dans la collection (dénominateurs 600 et 700), en 3e ; aussi 8141 en 2de et 7942 en 1re",
+   "existing": "7604"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2013_2.pdf, épreuve de seconde, exercice 5 (aussi exercice 5 des premières)",
+   "why": "déjà dans la collection (coloriage pour le (m, n)-condylure)",
+   "existing": "7605"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2013_1.pdf, épreuve de première, exercice 6",
+   "why": "déjà dans la collection pour la question a) (ouvrir le coffre en six essais) ; la question b) (cinq essais ne suffisent jamais) n'y est qu'esquissée dans « Going further ». Pas réimportée : la preuve complète de b) demande une étude de cas longue (ou le théorème de Hall), et une seconde copie en 2de ferait doublon",
+   "existing": "7606"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2014.pdf, énoncés collège, exercice 1",
+   "why": "déjà dans la collection (petit carré, triangles équilatéraux, grand carré)",
+   "existing": "7701"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2014.pdf, énoncés collège, exercice 2",
+   "why": "déjà dans la collection (ab32 divisible par 99)",
+   "existing": "7702"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2014.pdf, énoncés collège, exercice 3",
+   "why": "déjà dans la collection (deux cercles tangents et tangente commune)",
+   "existing": "7703"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2014.pdf, énoncé commun, exercice 4",
+   "why": "déjà dans la collection (paires dont les sommes sont des nombres premiers différents)",
+   "existing": "7704"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2014.pdf, énoncés lycée, exercice 5",
+   "why": "déjà dans la collection (tournoi, 26 points pour le vainqueur)",
+   "existing": "7705"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2014.pdf, énoncés lycée, exercice 7",
+   "why": "déjà dans la collection (dix entiers croissants, x9·x10 ≤ 2(x1 + ... + x9))",
+   "existing": "7706"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_college.pdf, questionnaire collégiens, exercice 1",
+   "why": "déjà dans la collection (y − x = 1 et y² = x² + 6)",
+   "existing": "0608"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_college.pdf, questionnaire collégiens, exercice 2 et 3",
+   "why": "déjà dans la collection (deux quotients de puissances de 2)",
+   "existing": "7801"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_college.pdf, questionnaire collégiens, exercice 4",
+   "why": "déjà dans la collection (ordonner quatre cartes)",
+   "existing": "0604"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_college.pdf, questionnaire collégiens, exercice 5 (aussi 2017-09_coupe_printemps_2015_elim_lycee.pdf, questionnaire lycéens, exercice 4)",
+   "why": "même question que 3617 (rectangles d'une grille), seules les dimensions changent",
+   "existing": "3617"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_college.pdf, questionnaire collégiens, exercice 6",
+   "why": "déjà dans la collection (langue aayyaa)",
+   "existing": "0607"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_college.pdf, questionnaire collégiens, exercice 7",
+   "why": "déjà dans la collection (plus grand diviseur propre de 2015)",
+   "existing": "7802"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_college.pdf, questionnaire collégiens, exercice 8",
+   "why": "déjà dans la collection (multiples de 45 entre 1200 et 1300)",
+   "existing": "7803"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_college.pdf, questionnaire collégiens, exercice 9",
+   "why": "déjà dans la collection (puissance de 2 dans un produit)",
+   "existing": "7804"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_college.pdf, questionnaire collégiens, exercice 10",
+   "why": "déjà dans la collection (angle OAB du pentagone régulier)",
+   "existing": "0829"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_college.pdf, questionnaire collégiens, exercice 11",
+   "why": "déjà dans la collection (polygone régulier à 120 côtés)",
+   "existing": "0833"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_college.pdf, questionnaire collégiens, exercice 12",
+   "why": "déjà dans la collection (aire de ABMN dans un losange)",
+   "existing": "0838"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_lycee.pdf, questionnaire lycéens, exercice 1",
+   "why": "déjà dans la collection (1/a + 1/b + 1/c)",
+   "existing": "7806"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_lycee.pdf, questionnaire lycéens, exercice 2",
+   "why": "déjà dans la collection (x² − 200x + y² + 10000 = 0)",
+   "existing": "7807"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_lycee.pdf, questionnaire lycéens, exercice 3",
+   "why": "déjà dans la collection ((a + b√2)² = 41 + 24√2)",
+   "existing": "7808"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_lycee.pdf, questionnaire lycéens, exercice 5",
+   "why": "même question que 8007 (triangles dont les sommets sont choisis parmi des points trois à trois non alignés)",
+   "existing": "8007"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_lycee.pdf, questionnaire lycéens, exercice 6",
+   "why": "déjà dans la collection (chaussettes, deux paires)",
+   "existing": "7809"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_lycee.pdf, questionnaire lycéens, exercice 7",
+   "why": "déjà dans la collection (√n de somme des chiffres 9)",
+   "existing": "7810"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_lycee.pdf, questionnaire lycéens, exercice 8",
+   "why": "déjà dans la collection (multiples de 3 terminés par 2)",
+   "existing": "7811"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_lycee.pdf, questionnaire lycéens, exercice 9",
+   "why": "déjà dans la collection (nombres à exactement 7 diviseurs)",
+   "existing": "7812"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_lycee.pdf, questionnaire lycéens, exercice 10",
+   "why": "déjà dans la collection (carré, cercle et triangle équilatéral)",
+   "existing": "7813"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_elim_lycee.pdf, questionnaire lycéens, exercice 12",
+   "why": "déjà dans la collection (hauteur du triangle 156, 65)",
+   "existing": "7814"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015.pdf, énoncés collège, exercice 1",
+   "why": "déjà dans la collection (opérations A, B, C)",
+   "existing": "0612"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015.pdf, énoncés collège, exercice 2",
+   "why": "déjà dans la collection (PA + PB + PC maximal)",
+   "existing": "7815"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015.pdf, énoncés collège, exercice 3",
+   "why": "déjà dans la collection (f(n) = 4n + 3)",
+   "existing": "7816"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015.pdf, énoncés communs, exercice 5",
+   "why": "déjà dans la collection (2015 entiers autour d'un cercle)",
+   "existing": "7817"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015.pdf, énoncés lycée, exercice 8",
+   "why": "déjà dans la collection (pq + 1, pr + 1, qr − p carrés)",
+   "existing": "7818"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 1",
+   "why": "déjà dans la collection (empilement de fractions autour de √6)",
+   "existing": "7911"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 2",
+   "why": "déjà dans la collection (entier caché derrière une racine carrée)",
+   "existing": "7912"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 3",
+   "why": "déjà dans la collection (p et q premiers avec q − p et q + p premiers)",
+   "existing": "7901"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 4",
+   "why": "déjà dans la collection (3n + 1 divisible par 10)",
+   "existing": "7902"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 5",
+   "why": "déjà dans la collection (100 points réguliers sur un cercle)",
+   "existing": "7910"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 6",
+   "why": "déjà dans la collection (n personnes en cercle et n jetons)",
+   "existing": "7903"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 7",
+   "why": "déjà dans la collection (carré et triangle équilatéral sur un même cercle)",
+   "existing": "7904"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 8",
+   "why": "déjà dans la collection (hauteur du triangle 5, 12, 13)",
+   "existing": "7905"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 9 (aussi 2017-09_coupe_printemps_2016_elim_lycee.pdf, questionnaire lycéens, exercice 1)",
+   "why": "déjà dans la collection (deux plantes et leur âge)",
+   "existing": "7906"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 10 (aussi 2017-09_coupe_printemps_2016_elim_lycee.pdf, questionnaire lycéens, exercice 2)",
+   "why": "déjà dans la collection (puissance 17-ième)",
+   "existing": "7907"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 11 (aussi 2017-09_coupe_printemps_2016_elim_lycee.pdf, questionnaire lycéens, exercice 3)",
+   "why": "déjà dans la collection (chemins du pion sous la diagonale)",
+   "existing": "7908"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_college.pdf, questionnaire collégiens, exercice 12 (aussi 2017-09_coupe_printemps_2016_elim_lycee.pdf, questionnaire lycéens, exercice 4)",
+   "why": "déjà dans la collection (angle CED, deux triangles rectangles sur [AB])",
+   "existing": "7909"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_lycee.pdf, questionnaire lycéens, exercice 5",
+   "why": "déjà dans la collection (suite u(n+2) + u(n) = 2u(n+1))",
+   "existing": "7913"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_lycee.pdf, questionnaire lycéens, exercice 6",
+   "why": "déjà dans la collection (polynôme qui annule √2 + √3)",
+   "existing": "7914"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_lycee.pdf, questionnaire lycéens, exercice 7",
+   "why": "déjà dans la collection (produit des diviseurs égal à n²)",
+   "existing": "7915"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_lycee.pdf, questionnaire lycéens, exercice 8",
+   "why": "déjà dans la collection (diviseur commun des a(a + 2)(a + 4))",
+   "existing": "7916"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_lycee.pdf, questionnaire lycéens, exercice 9",
+   "why": "déjà dans la collection (coloriages d'un échiquier 2 × 10)",
+   "existing": "7917"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_lycee.pdf, questionnaire lycéens, exercice 10",
+   "why": "déjà dans la collection (différence qui ne divise jamais la somme)",
+   "existing": "7918"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016.pdf, énoncés collège, exercice 1",
+   "why": "déjà dans la collection (triangle isocèle posé sur un carré, aire commune 99)",
+   "existing": "7919"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016.pdf, énoncés collège, exercice 2",
+   "why": "déjà dans la collection (compteur abc puis cba à 55 km/h)",
+   "existing": "7920"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016.pdf, énoncés collège, exercice 3",
+   "why": "déjà dans la collection (2016 personnes en file indienne, truands et chevaliers)",
+   "existing": "7921"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016.pdf, énoncés communs, exercice 4",
+   "why": "déjà dans la collection (trapèze aux diagonales égales)",
+   "existing": "7922"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016.pdf, énoncés communs, exercice 5",
+   "why": "déjà dans la collection (cinq réels et leurs sommes deux à deux)",
+   "existing": "7923"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016.pdf, énoncés lycée, exercice 6",
+   "why": "déjà dans la collection (polygone à 2016 côtés découpé en 2014 triangles)",
+   "existing": "7924"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016.pdf, énoncés lycée, exercice 7",
+   "why": "déjà dans la collection (18 entiers consécutifs et somme des chiffres)",
+   "existing": "7925"
+  }
+ ],
+ "beyond_programme": [],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2017-09_coupe_printemps_2010_corrige.pdf, exercice 5",
+   "what": "Le corrigé affirme |2√n − ε| ≤ 2√n en a), et la même majoration en b), ce qui est faux quand ε < 0 : pour v = 9 en a), et en b) quand m + v/9 dépasse √n. Il écrit aussi |ε| < (8/9)·10^(−k) « comme 1 ≤ v ≤ 9 », ce qui exige v ≤ 8. Les résultats restent vrais (vérifiés par ordinateur pour n < 2·10^6) ; 13610 refait la preuve avec l'entier m + 1 en a) et un argument d'intégralité sur R = 9m + v en b)."
+  },
+  {
+   "where": "2017-09_coupe_printemps_2010_corrige.pdf, exercice 6",
+   "what": "La question supplémentaire (deux points traversés trois fois) n'est pas corrigée. 13611 la démontre par le calcul en repère, vérifié en arithmétique exacte."
+  },
+  {
+   "where": "2017-09_coupe_printemps_2011_1.pdf, épreuve de première, exercice 4",
+   "what": "une question « c) » est annoncée mais vide ; simple coquille de mise en page, sans conséquence (signalée dans 13615)."
+  },
+  {
+   "where": "2017-09_coupe_printemps_2011_corrige.pdf, exercice 6, solution 2",
+   "what": "le corrigé écrit « donc que q = 100020010001 » alors que c'est N qui vaut 100020010001 (q = N² − 1) ; vérifié en arithmétique exacte. 13616 utilise un exemple plus simple."
+  },
+  {
+   "where": "2017-09_coupe_printemps_2012_corrige.pdf, exercice 2",
+   "what": "le corrigé conclut « le prisonnier sort donc du cercle au bout de la 100ième minute », mais OP100 = 10 : il est alors sur le cercle, et n'en est sorti qu'à la 101e minute (OP101 = √101 > 10). Point mineur, corrigé dans 13618."
+  },
+  {
+   "where": "2017-09_coupe_printemps_2013_corrige.pdf, exercice 6 b)",
+   "what": "dans le deuxième cas, le corrigé écrit « donc a6 n'apparaît pas dans une colonne... » là où il faut lire a7 ; dans le premier cas, il pose x1 = a6 et x2 = α sans vérifier que ces deux chiffres sont différents. Le résultat (6 essais au minimum) reste vrai : chaque chiffre apparaît au plus 5 fois dans le tableau des 5 essais, donc la condition de Hall est vérifiée. Problème non réimporté (voir 7606)."
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_corrige.pdf, exercice 6",
+   "what": "coquille : « n + 1 = m² = 2m » au lieu de « n + 1 = m² + 2m » ; la conclusion est juste (corrigé dans 13626)"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2015_corrige.pdf, exercice 7",
+   "what": "l'inégalité tirée du premier arc est écrite à l'envers : ℓ − k − 1 < b_ℓ − b_k + ℓ − k donne b_k − b_ℓ < 1, et non b_ℓ − b_k < 1 ; « k ⩽ ℓ » devrait être « k < ℓ ». La conclusion |b_ℓ − b_k| < 1 reste vraie (corrigé dans 13627)"
+  },
+  {
+   "where": "2017-09_coupe_printemps_2016_elim_corrige.pdf, lycéens, exercice 12 (et stage_ete_2016.pdf, POFM, page 28)",
+   "what": "la réponse officielle AB = 8124480 correspond à OO′ = 4031 = 2015 + 2016 : les deux cercles sont alors tangents en B, et une seule tangente commune passe par B, contrairement à l'énoncé. Un point situé sur deux tangentes distinctes à un cercle est à l'extérieur de ce cercle, ce qui impose OO′ = 4031k avec k ≥ 2, donc AB ≥ 16 248 960 > 10⁷ : avec la borne de l'énoncé, le problème n'a aucune solution. Corrigé dans 13629, qui demande toutes les valeurs possibles de AB (les 8124480k, k ≥ 2)"
+  }
+ ],
+ "notes": [
+  "2009 : le « test de sélection du stage olympique de Grésillon » du 4 juin 2009 tient lieu de Coupe de printemps ; six problèmes distincts répartis sur trois épreuves (collégiens, seconde, première), chacun importé une fois.",
+  "2010 : « test de sélection du 3 juin 2010 » du stage de Grésillon ; six problèmes distincts sur trois épreuves (collège ex 1 à 4, seconde ex 2 à 5, première ex 3 à 6). Ex 3 déjà présent (7424, venu du polycopié du stage d'été 2010) ; les cinq autres importés une fois chacun (13607 à 13611).",
+  "2011 : « test de sélection du 7 juin 2011 » du stage de Grésillon ; six problèmes sur trois épreuves (collège ex 1 à 4, seconde ex 2 à 5, première ex 3 à 6). L'ex 1 (collège, 7 et 8 convives) et l'ex 5 (lycée, 17 et 18 convives) sont le même problème à deux tailles, le corrigé le dit : importés ensemble dans 13612. Les autres : ex 2 → 13613, ex 3 → 13614, ex 4 → 13615, ex 6 → 13616. Aucun n'était déjà dans la collection.",
+  "2012 : « test de sélection du 5 juin 2012 » du stage de Montpellier ; six problèmes sur trois épreuves (collège ex 1 à 4, seconde ex 2 à 5, première ex 3 à 6). Aucun n'était déjà dans la collection (similar.py et grep). Ex 1 → 13617, ex 2 → 13618, ex 3 → 13619, ex 4 → 13620, ex 5 → 13621, ex 6 → 13622. Pour l'ex 6, le cas obtus est refait dans un repère (formule bc = 2R·AH démontrée par le calcul) au lieu de la loi des sinus du corrigé ; inégalité vérifiée numériquement sur 200 000 triangles. vm.py check signale 13614 et 12014 comme doublons possibles : ce sont deux problèmes différents (hexagone dans le cercle circonscrit / plus grand parallélogramme), faux positif.",
+  "2013 : « test de sélection du 4 juin 2013 » du stage de Montpellier ; six problèmes sur trois épreuves. Les six étaient déjà dans la collection (7601 à 7606, venus du polycopié du stage d'été 2013) : rien d'importé. Pour le coordinateur : 7606 ne traite que la question a) du coffre-fort ; la question b), plus difficile, manque encore en version complète.",
+  "2014 : Coupe Animath du 3 juin 2014, sept exercices (collège 1 à 4, lycée 4 à 7). Six étaient déjà dans la collection (7701 à 7706, venus du polycopié du stage d'été 2014). L'exercice 6 (cercles à égale distance de quatre points) avait été écarté par l'unité pofm/ete-2014 comme trop long ; il est importé ici dans 13623 (2de, difficulté 4), avec l'hypothèse « trois points jamais alignés » qui écarte le seul cas dégénéré, et un exemple explicite à 7 cercles vérifié par le calcul.",
+  "2015 : le premier tour n'a pas de corrigé à lui, mais ses réponses, avec de courtes justifications, sont dans le polycopié POFM stage_ete_2015.pdf, pages 15 et 16. Presque tout le premier tour était déjà dans la base (ClubLyon et pofm/ete-2015). Seul l'exercice 11 des lycéens manquait : pofm/ete-2015 l'avait écarté comme reposant sur l'angle tangentiel, hors programme ; 13624 le résout avec le milieu de l'hypoténuse et une médiatrice, sans cet angle, et la réponse 27 a été vérifiée numériquement.",
+  "2015, épreuve du 2 juin : pofm/ete-2015 avait écarté l'exercice 4 commun et les exercices 6 et 7 du lycée comme « niveau olympiade », ce qui n'est pas une raison d'écarter selon le brief. Ils sont importés : 13625 (4e, 4 étoiles, avec l'hypothèse ajoutée que M, N, P ne sont pas des sommets), 13626 (2de, 4 étoiles) et 13627 (2de, 5 étoiles). Les trois ont été vérifiés en Python (triangles au hasard, force brute jusqu'à 200 000, configurations de points au hasard).",
+  "2016 : premier tour (questionnaires collégiens et lycéens) et épreuve du 31 mai 2016. Le corrigé du premier tour est un simple tableau de réponses sans couche texte, lu sur les pages rendues ; les solutions détaillées sont dans stage_ete_2016.pdf (POFM), pages 26 à 28. Les exercices 9 à 12 des collégiens sont les exercices 1 à 4 des lycéens. Presque tout était déjà dans la base (pofm/ete-2016, 7901 à 7925). Trois problèmes manquaient, que pofm/ete-2016 avait écartés pour des raisons que le brief n'admet pas (« dernier exercice, niveau olympiade ») : lycéens 11 (13628, résolu sans la formule cos 2θ du polycopié), lycéens 12 (13629, énoncé réparé, voir source_errors) et l'exercice 8 de l'épreuve finale (13630). Les trois ont été vérifiés en Python : recherche exhaustive pour 13628, conditions entières et cas tangent pour 13629, force brute sur les petites classes (jusqu'à 4 élèves et 4 questions) pour 13630."
+ ],
+ "updated": "2026-10-01",
+ "scope": "gap-filling: most of these papers already reached the collection through the summer camp handouts"
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="434" height="346" viewBox="0 0 434 346">
+<rect width="434" height="346" fill="#fff"/>
+<circle cx="272.0" cy="195.0" r="110.0" fill="none" stroke="#000" stroke-width="1.2"/>
+<circle cx="171.1" cy="185.2" r="76.9" fill="none" stroke="#555" stroke-width="1.2" stroke-dasharray="5,3"/>
+<line x1="272.0" y1="85.0" x2="184.0" y2="261.0" stroke="#000" stroke-width="1.5"/>
+<line x1="184.0" y1="261.0" x2="360.0" y2="261.0" stroke="#000" stroke-width="1.5"/>
+<line x1="360.0" y1="261.0" x2="272.0" y2="85.0" stroke="#000" stroke-width="1.5"/>
+<line x1="297.4" y1="75.3" x2="85.8" y2="156.5" stroke="#000" stroke-width="1.5"/>
+<line x1="102.7" y1="150.0" x2="239.5" y2="150.0" stroke="#000" stroke-width="1.5"/>
+<circle cx="272.0" cy="85.0" r="2.5" fill="#000"/>
+<circle cx="184.0" cy="261.0" r="2.5" fill="#000"/>
+<circle cx="360.0" cy="261.0" r="2.5" fill="#000"/>
+<circle cx="198.4" cy="113.3" r="2.5" fill="#000"/>
+<circle cx="102.7" cy="150.0" r="2.5" fill="#000"/>
+<circle cx="239.5" cy="150.0" r="2.5" fill="#000"/>
+<text x="282.0" y="73.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">A</text>
+<text x="170.0" y="267.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">B</text>
+<text x="372.0" y="269.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="192.4" y="99.3" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">D</text>
+<text x="90.7" y="140.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">E</text>
+<text x="253.5" y="154.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">F</text>
+</svg>

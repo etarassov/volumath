@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612 360" width="612" height="360" font-family="Helvetica, Arial, sans-serif" font-size="17">
+  <rect x="0" y="0" width="612" height="360" fill="#ffffff"/>
+  <circle cx="72" cy="180" r="54" fill="none" stroke="#000" stroke-width="1.8"/>
+  <circle cx="432" cy="180" r="162" fill="none" stroke="#000" stroke-width="1.8"/>
+  <line x1="20" y1="180" x2="604" y2="180" stroke="#000" stroke-width="1.2"/>
+  <line x1="82.8" y1="120.6" x2="356.4" y2="325.8" stroke="#000" stroke-width="1.6"/>
+  <g fill="#000">
+    <circle cx="72" cy="180" r="3"/>
+    <circle cx="432" cy="180" r="3"/>
+    <circle cx="162" cy="180" r="3"/>
+    <circle cx="104.4" cy="136.8" r="3"/>
+    <circle cx="334.8" cy="309.6" r="3"/>
+  </g>
+  <g fill="#000">
+    <text x="58" y="200">A</text>
+    <text x="438" y="200">B</text>
+    <text x="164" y="172">E</text>
+    <text x="110" y="124">C</text>
+    <text x="314" y="332">D</text>
+    <text x="16" y="126">C<tspan font-size="12" dy="4">1</tspan></text>
+    <text x="560" y="58">C<tspan font-size="12" dy="4">2</tspan></text>
+  </g>
+</svg>

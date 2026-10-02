@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 362 326" width="330" height="297">
+  <circle cx="119.0" cy="201.0" r="93.0" fill="none" stroke="#000" stroke-width="1.3"/>
+  <circle cx="255.9" cy="128.3" r="62.0" fill="none" stroke="#000" stroke-width="1.3"/>
+  <line x1="276.8" y1="299.7" x2="131.3" y2="26.0" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="32.2" y1="108.0" x2="243.0" y2="108.0" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="113.3" y1="190.3" x2="336.5" y2="190.3" fill="none" stroke="#000" stroke-width="0.9"/>
+  <circle cx="119.0" cy="108.0" r="2.3" fill="#000"/>
+  <circle cx="201.1" cy="157.4" r="2.3" fill="#000"/>
+  <circle cx="255.9" cy="190.3" r="2.3" fill="#000"/>
+  <text x="34.6" y="270.2" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#000">Γ<tspan dy="4" font-size="10">1</tspan></text>
+  <text x="322.4" y="165.3" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#000">Γ<tspan dy="4" font-size="10">2</tspan></text>
+  <text x="142.3" y="30.9" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#000">(d)</text>
+  <text x="119.0" y="98.4" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">A</text>
+  <text x="190.1" y="162.3" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">B</text>
+  <text x="255.9" y="209.7" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">C</text>
+</svg>

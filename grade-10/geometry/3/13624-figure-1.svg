@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="462" height="320" viewBox="0 0 462 320" font-family="Helvetica, Arial, sans-serif" font-size="17">
+<rect x="0" y="0" width="462" height="320" fill="#fff"/>
+<polygon points="228.0 81.0 393.0 176.2 63.0 176.2" fill="#dbe8f7" stroke="none"/>
+<circle cx="283.0" cy="176.2" r="110" fill="none" stroke="#000" stroke-width="1.6"/>
+<line x1="35.5" y1="176.2" x2="426.0" y2="176.2" stroke="#000" stroke-width="1.6"/>
+<line x1="43.2" y1="187.7" x2="302.2" y2="38.1" stroke="#c0392b" stroke-width="1.8"/>
+<line x1="228.0" y1="81.0" x2="173.0" y2="176.2" stroke="#000" stroke-width="1.6"/>
+<line x1="228.0" y1="81.0" x2="393.0" y2="176.2" stroke="#000" stroke-width="1.6"/>
+<line x1="283.0" y1="176.2" x2="228.0" y2="81.0" stroke="#1f5fa8" stroke-width="1.5" stroke-dasharray="6 4"/>
+<line x1="228.0" y1="81.0" x2="228.0" y2="176.2" stroke="#555" stroke-width="1.3" stroke-dasharray="2 3"/>
+<polyline points="217.5,87.0 223.6,97.5 234.0,91.5" fill="none" stroke="#000" stroke-width="1.2"/>
+<polyline points="236.8,176.2 236.8,167.4 228.0,167.4" fill="none" stroke="#555" stroke-width="1.1"/>
+<circle cx="228.0" cy="81.0" r="3" fill="#000"/>
+<circle cx="173.0" cy="176.2" r="3" fill="#000"/>
+<circle cx="393.0" cy="176.2" r="3" fill="#000"/>
+<circle cx="63.0" cy="176.2" r="3" fill="#000"/>
+<circle cx="283.0" cy="176.2" r="3" fill="#000"/>
+<circle cx="228.0" cy="176.2" r="3" fill="#000"/>
+<text x="214.0" y="69.0" stroke="#fff" stroke-width="3" paint-order="stroke">A</text>
+<text x="175.0" y="198.2" stroke="#fff" stroke-width="3" paint-order="stroke">B</text>
+<text x="401.0" y="198.2" stroke="#fff" stroke-width="3" paint-order="stroke">C</text>
+<text x="57.0" y="198.2" stroke="#fff" stroke-width="3" paint-order="stroke">D</text>
+<text x="287.0" y="198.2" stroke="#fff" stroke-width="3" paint-order="stroke">O</text>
+<text x="222.0" y="198.2" stroke="#fff" stroke-width="3" paint-order="stroke">H</text>
+</svg>

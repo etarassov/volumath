@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 337 338" width="360" height="361">
+  <circle cx="158.0" cy="158.0" r="132.0" fill="none" stroke="#888" stroke-width="0.9"/>
+  <polygon points="92.0,43.7 73.2,259.1 192.2,285.5 282.0,203.1 242.8,56.9" fill="none" stroke="#000" stroke-width="1.3"/>
+  <line x1="92.0" y1="43.7" x2="192.2" y2="285.5" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="242.8" y1="56.9" x2="73.2" y2="259.1" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="92.0" y1="43.7" x2="282.0" y2="203.1" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="73.2" y1="259.1" x2="282.0" y2="203.1" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="192.2" y1="285.5" x2="311.2" y2="311.9" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="282.0" y1="203.1" x2="311.2" y2="311.9" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="145.5" y1="172.9" x2="311.2" y2="311.9" fill="none" stroke="#1f4fa0" stroke-width="1.3"/>
+  <circle cx="92.0" cy="43.7" r="2.3" fill="#000"/>
+  <circle cx="73.2" cy="259.1" r="2.3" fill="#000"/>
+  <circle cx="192.2" cy="285.5" r="2.3" fill="#000"/>
+  <circle cx="282.0" cy="203.1" r="2.3" fill="#000"/>
+  <circle cx="242.8" cy="56.9" r="2.3" fill="#000"/>
+  <circle cx="145.5" cy="172.9" r="2.3" fill="#000"/>
+  <circle cx="311.2" cy="311.9" r="2.3" fill="#000"/>
+  <text x="83.8" y="37.7" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">A</text>
+  <text x="64.9" y="274.9" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">B</text>
+  <text x="192.2" y="304.9" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">C</text>
+  <text x="293.0" y="208.0" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">D</text>
+  <text x="251.1" y="50.9" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">E</text>
+  <text x="134.5" y="177.8" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">P</text>
+  <text x="319.4" y="327.7" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">Q</text>
+</svg>

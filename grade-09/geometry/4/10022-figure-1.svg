@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 329" width="340" height="329">
+  <polygon points="28,246.6 154.2,28 312,301.3" fill="none" stroke="#000" stroke-width="1.6"/>
+  <line x1="28" y1="246.6" x2="217.3" y2="137.3" fill="none" stroke="#000" stroke-width="1.2"/>
+  <line x1="312" y1="301.3" x2="75.3" y2="164.6" fill="none" stroke="#000" stroke-width="1.2"/>
+  <polyline points="209.5,141.8 214,149.6 221.8,145.1" fill="none" stroke="#000" stroke-width="1.1"/>
+  <polyline points="83.1,169.1 87.6,161.3 79.8,156.8" fill="none" stroke="#000" stroke-width="1.1"/>
+  <circle cx="28" cy="246.6" r="3" fill="#000"/>
+  <circle cx="154.2" cy="28" r="3" fill="#000"/>
+  <circle cx="312" cy="301.3" r="3" fill="#000"/>
+  <circle cx="217.3" cy="137.3" r="3" fill="#000"/>
+  <circle cx="75.3" cy="164.6" r="3" fill="#000"/>
+  <circle cx="122.7" cy="192" r="3" fill="#000"/>
+  <circle cx="185.8" cy="192" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="10.8" y="259.6">A</text>
+    <text x="149.1" y="19.9">B</text>
+    <text x="319" y="314.2">C</text>
+    <text x="225.4" y="138.5">D</text>
+    <text x="56.4" y="168.2">E</text>
+    <text x="115.1" y="211.7">H</text>
+    <text x="187.7" y="185.8">O</text>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 392" width="420" height="392">
+  <circle cx="224.4" cy="196.0" r="170.0" fill="none" stroke="#000" stroke-width="1.3"/>
+  <circle cx="200.6" cy="184.9" r="83.0" fill="none" stroke="#1f4fa0" stroke-width="1.3"/>
+  <path d="M 26.0 31.8 A 154.4 154.4 0 0 0 334.8 31.8" fill="none" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+  <polygon points="180.4,31.8 70.3,267.8 378.5,267.8" fill="none" stroke="#000" stroke-width="1.3"/>
+  <line x1="33.8" y1="143.7" x2="363.3" y2="55.4" fill="none" stroke="#b00" stroke-width="1.3"/>
+  <line x1="180.4" y1="31.8" x2="200.6" y2="184.9" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="200.6" y1="184.9" x2="224.4" y2="366.0" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="224.4" y1="366.0" x2="224.4" y2="26.0" fill="none" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+  <polygon points="224.4,26.0 70.3,267.8 224.4,366.0" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="200.6" y1="184.9" x2="125.4" y2="149.8" fill="none" stroke="#000" stroke-width="0.9"/>
+  <polyline points="129.0,142.1 136.7,145.7 133.1,153.4" fill="none" stroke="#000" stroke-width="0.9"/>
+  <polyline points="74.9,260.7 82.1,265.2 77.5,272.4" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="200.6" y1="184.9" x2="179.1" y2="104.7" fill="none" stroke="#000" stroke-width="0.9"/>
+  <polyline points="181.3,113.0 189.5,110.8 187.3,102.5" fill="none" stroke="#000" stroke-width="0.9"/>
+  <circle cx="180.4" cy="31.8" r="2.3" fill="#000"/>
+  <circle cx="70.3" cy="267.8" r="2.3" fill="#000"/>
+  <circle cx="378.5" cy="267.8" r="2.3" fill="#000"/>
+  <circle cx="200.6" cy="184.9" r="2.3" fill="#000"/>
+  <circle cx="65.7" cy="135.1" r="2.3" fill="#000"/>
+  <circle cx="331.4" cy="63.9" r="2.3" fill="#000"/>
+  <circle cx="224.4" cy="196.0" r="2.3" fill="#000"/>
+  <circle cx="224.4" cy="366.0" r="2.3" fill="#000"/>
+  <circle cx="224.4" cy="26.0" r="2.3" fill="#000"/>
+  <circle cx="125.4" cy="149.8" r="2.3" fill="#000"/>
+  <circle cx="179.1" cy="104.7" r="2.3" fill="#000"/>
+  <text x="68.9" y="105.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#000">Γ</text>
+  <text x="248.2" y="229.8" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#000">ω</text>
+  <text x="180.4" y="22.2" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">A</text>
+  <text x="62.1" y="283.6" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">B</text>
+  <text x="386.7" y="283.6" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">C</text>
+  <text x="211.6" y="186.8" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">I</text>
+  <text x="54.7" y="140.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">P</text>
+  <text x="342.4" y="68.8" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">Q</text>
+  <text x="235.4" y="200.9" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">O</text>
+  <text x="224.4" y="385.4" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">S</text>
+  <text x="224.4" y="16.4" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">S′</text>
+  <text x="114.4" y="154.7" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">F</text>
+  <text x="179.1" y="95.1" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">T</text>
+</svg>

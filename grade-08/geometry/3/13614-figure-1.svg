@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="380" viewBox="0 0 400 380">
+  <polygon points="163.8,54.8 73.1,130.8 78.8,260.0 236.2,325.2 326.9,249.2 321.2,120.0" fill="#e4ecf4" stroke="#3a5a80" stroke-width="1.6"/>
+  <circle cx="200" cy="190" r="140" fill="none" stroke="#000" stroke-width="1.4"/>
+  <line x1="163.8" y1="54.8" x2="236.2" y2="325.2" stroke="#000" stroke-width="1" stroke-dasharray="5,4"/>
+  <line x1="78.8" y1="260.0" x2="321.2" y2="120.0" stroke="#000" stroke-width="1" stroke-dasharray="5,4"/>
+  <line x1="326.9" y1="249.2" x2="73.1" y2="130.8" stroke="#000" stroke-width="1" stroke-dasharray="5,4"/>
+  <polygon points="163.8,54.8 78.8,260.0 326.9,249.2" fill="none" stroke="#000" stroke-width="2.2"/>
+  <circle cx="163.8" cy="54.8" r="3.5" fill="#000"/>
+  <text x="158.6" y="41.5" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle">A</text>
+  <circle cx="78.8" cy="260.0" r="3.5" fill="#000"/>
+  <text x="61.4" y="276.0" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle">B</text>
+  <circle cx="326.9" cy="249.2" r="3.5" fill="#000"/>
+  <text x="345.0" y="263.6" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle">C</text>
+  <circle cx="236.2" cy="325.2" r="3.5" fill="#000"/>
+  <text x="241.4" y="350.5" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle">A′</text>
+  <circle cx="321.2" cy="120.0" r="3.5" fill="#000"/>
+  <text x="338.6" y="116.0" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle">B′</text>
+  <circle cx="73.1" cy="130.8" r="3.5" fill="#000"/>
+  <text x="55.0" y="128.4" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle">C′</text>
+  <circle cx="200" cy="190" r="3" fill="#000"/>
+  <text x="210" y="182" font-family="Helvetica" font-size="16" font-style="italic">O</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="417" height="403" viewBox="0 0 417 403">
+<rect width="100%" height="100%" fill="#fff"/>
+<circle cx="166.2" cy="166.2" r="132.2" fill="none" stroke="#000" stroke-width="1.5"/>
+<circle cx="218.6" cy="214.5" r="154.2" fill="none" stroke="#555" stroke-width="1.2" stroke-dasharray="6,4"/>
+<line x1="294.0" y1="14.8" x2="25.9" y2="306.1" stroke="#777" stroke-width="1.0"/>
+<polygon points="162.7,34.0 43.7,216.0 288.7,216.0" fill="none" stroke="#000" stroke-width="1.6"/>
+<circle cx="162.7" cy="34.0" r="2.6" fill="#000"/>
+<circle cx="43.7" cy="216.0" r="2.6" fill="#000"/>
+<circle cx="288.7" cy="216.0" r="2.6" fill="#000"/>
+<circle cx="192.1" cy="172.6" r="2.6" fill="#000"/>
+<circle cx="249.3" cy="63.4" r="2.6" fill="#000"/>
+<circle cx="70.6" cy="257.5" r="2.6" fill="#000"/>
+<circle cx="145.1" cy="129.4" r="2.6" fill="#000"/>
+<circle cx="166.2" cy="359.5" r="2.6" fill="#000"/>
+<circle cx="292.3" cy="79.0" r="2.6" fill="#000"/>
+<circle cx="96.4" cy="120.5" r="2.6" fill="#000"/>
+<text x="156.7" y="24.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000">A</text>
+<text x="27.7" y="230.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000">B</text>
+<text x="296.7" y="230.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000">C</text>
+<text x="200.1" y="186.6" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000">P</text>
+<text x="129.1" y="125.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000">Q</text>
+<text x="229.3" y="57.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000">X</text>
+<text x="50.6" y="271.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000">Y</text>
+<text x="174.2" y="375.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000">A′</text>
+<text x="300.3" y="73.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000">B′</text>
+<text x="72.4" y="114.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000">C′</text>
+</svg>

@@ -1,0 +1,399 @@
+{
+ "unit": "envois-geometrie-2012-2019",
+ "source": "pofm-envois",
+ "title": "Envois POFM, Géométrie, années 2012 à 2019",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "10001",
+  "10200"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2012-2013",
+   "label": "Envoi 1 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi1-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi1-corrige.pdf"
+   }
+  },
+  {
+   "year": "2012-2013",
+   "label": "Envoi 6 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi6.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi6.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi6-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi6-corrige.pdf"
+   }
+  },
+  {
+   "year": "2013-2014",
+   "label": "Envoi 1 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-1-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-1-solutions.pdf"
+   }
+  },
+  {
+   "year": "2013-2014",
+   "label": "Envoi 5 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-5-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-5-solutions.pdf"
+   }
+  },
+  {
+   "year": "2014-2015",
+   "label": "Envoi 2 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-2-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-2-solutions.pdf"
+   }
+  },
+  {
+   "year": "2015-2016",
+   "label": "Envoi 2 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-2-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi-2-solutions.pdf"
+   }
+  },
+  {
+   "year": "2016-2017",
+   "label": "Envoi 3 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2016-2017-envoi-3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-envoi-3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2016-2017-envoi-3-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-envoi-3-solutions.pdf"
+   }
+  },
+  {
+   "year": "2017-2018",
+   "label": "Envoi 2 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-11_pofm-2017-2018-envoi2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/11/pofm-2017-2018-envoi2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2018-01_pofm-2017-2018-envoi2-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2018/01/pofm-2017-2018-envoi2-corrige.pdf"
+   }
+  },
+  {
+   "year": "2018-2019",
+   "label": "Envoi 1 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2018-10_envoi_1_2018-2019_v3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/10/envoi_1_2018-2019_v3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2018-11_corrige-envoi-1.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2018/11/corrige-envoi-1.pdf"
+   }
+  }
+ ],
+ "next_document": null,
+ "imported": [
+  "10001",
+  "10002",
+  "10003",
+  "10004",
+  "10005",
+  "10006",
+  "10007",
+  "10008",
+  "10009",
+  "10010",
+  "10011",
+  "10012",
+  "10013",
+  "10014",
+  "10015",
+  "10016",
+  "10017",
+  "10018",
+  "10019",
+  "10020",
+  "10021",
+  "10022",
+  "10023",
+  "10024",
+  "10025",
+  "10026",
+  "10027",
+  "10028",
+  "10029",
+  "10030",
+  "10031",
+  "10032",
+  "10033",
+  "10034",
+  "10035",
+  "10036",
+  "10037",
+  "10038",
+  "10039",
+  "10040",
+  "10041",
+  "10042",
+  "10043",
+  "10044",
+  "10045",
+  "10046",
+  "10047",
+  "10048",
+  "10049",
+  "10050",
+  "10051",
+  "10052",
+  "10053",
+  "10054",
+  "10055",
+  "10056",
+  "10057",
+  "10058",
+  "10059",
+  "10060",
+  "10061",
+  "10062",
+  "10063",
+  "10064",
+  "10065",
+  "10066",
+  "10067",
+  "10068",
+  "10069",
+  "10070",
+  "10071",
+  "10072",
+  "10073",
+  "10074",
+  "10075",
+  "10076",
+  "10077",
+  "10078"
+ ],
+ "skipped": [
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-2.pdf, Exercices du groupe B, exercice 5",
+   "why": "Même problème (triangle rectangle en C, deux bissectrices, projetés M et N sur [AB], angle MCN = 45°) déjà dans la collection en 4e.",
+   "existing": "11874"
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-3.pdf, Exercices du groupe B, exercice 1",
+   "why": "Même problème (quadrilatère convexe, centres des cercles circonscrits aux quatre triangles formés avec le point d'intersection des diagonales, parallélogramme) que l'exercice 1 de l'envoi 2014-2015 n° 2, déjà importé au même niveau.",
+   "existing": "10037"
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-3.pdf, Exercices du groupe B, exercice 2",
+   "why": "Même problème (l'orthocentre est le centre du cercle inscrit au triangle des pieds des hauteurs) que l'exercice 2 de l'envoi 2014-2015 n° 2, déjà importé au même niveau.",
+   "existing": "10038"
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-3.pdf, Exercices du groupe B, exercice 3",
+   "why": "Même problème (D et E partagent [AB] d'un triangle équilatéral en trois, somme de deux angles égale à 30°) déjà dans la collection en 3e, le bon niveau.",
+   "existing": "7221"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "10049",
+   "tool": "nombres complexes (cercle unité, pied d'une perpendiculaire sur une corde)",
+   "suggested_theme": "complex-numbers",
+   "hors_programme": false
+  },
+  {
+   "id": "10052",
+   "tool": "théorème de Pascal (géométrie projective)",
+   "suggested_theme": "projective-geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "10060",
+   "tool": "nombres complexes (maths expertes) pour décrire trois triangles directement semblables",
+   "suggested_theme": "complex-numbers",
+   "hors_programme": false
+  },
+  {
+   "id": "10069",
+   "tool": "nombres complexes (application z ↦ k/z)",
+   "suggested_theme": "geometry",
+   "hors_programme": false
+  },
+  {
+   "id": "10077",
+   "tool": "nombres complexes (équations de droites passant par des points du cercle unité), à la place du théorème de Pascal du corrigé",
+   "suggested_theme": "geometry",
+   "hors_programme": false
+  },
+  {
+   "id": "10078",
+   "tool": "nombres complexes (cercle unité, conjugué, équations de droites et de cercles), à la place d'une chasse aux angles avec le théorème de Miquel ; c'est un cas particulier du théorème de Feuerbach",
+   "suggested_theme": "geometry",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  {
+   "id": "10038",
+   "other": "8132"
+  },
+  {
+   "id": "10039",
+   "other": "7142"
+  },
+  {
+   "id": "10045",
+   "other": "12431"
+  },
+  {
+   "id": "10047",
+   "other": "7749"
+  },
+  {
+   "id": "10055",
+   "other": "7703"
+  },
+  {
+   "id": "10060",
+   "other": "10257"
+  },
+  {
+   "id": "10071",
+   "other": "8743"
+  }
+ ],
+ "source_errors": [
+  {
+   "where": "2017-10_ofm-2012-2013-envoi1.pdf, Exercices olympiques, exercice 7",
+   "what": "L'énoncé ne suppose pas BA ≠ BC. Si BA = BC, la parallèle à (AC) passant par I est parallèle à (A'C') et le point P n'existe pas. Hypothèse ajoutée dans 10007."
+  },
+  {
+   "where": "2017-10_ofm-2012-2013-envoi6.pdf, Exercices Juniors, exercice 2",
+   "what": "L'énoncé ne suppose ni que (AB) et (CD) se coupent, ni que M ≠ N ; sans ces hypothèses les trois droites ne sont pas concourantes en général. Hypothèses ajoutées dans 10011."
+  },
+  {
+   "where": "2017-10_ofm-2013-2014-envoi-5.pdf, Exercices communs, exercice 4",
+   "what": "L'énoncé écrit « B2 et B2 » au lieu de « B1 et B2 ». Corrigé dans 10031."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-2.pdf, Exercices du groupe B, exercice 2",
+   "what": "L'énoncé ne suppose pas le triangle acutangle. Si l'angle en A est obtus, le centre du cercle inscrit au triangle orthique est A et H est un centre de cercle exinscrit ; si l'angle en A est droit, le triangle PQR est aplati. Hypothèse ajoutée dans 10038."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-2-solutions.pdf, exercice 1",
+   "what": "Le corrigé écrit « ABCD a ses côtés opposés parallèles » au lieu de O1O2O3O4. Signalé dans la référence de 10037."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi-2-solutions.pdf, exercice 5",
+   "what": "La dernière ligne du corrigé écrit « JH = HM » au lieu de JH = JM, et le corrigé ne discute pas la position du pied H de la hauteur. Signalé dans la référence de 10050."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi-2.pdf, exercice 7",
+   "what": "L'énoncé oublie l'hypothèse AB ≠ AC : si AB = AC, le point de contact F est M et la droite (FM) n'existe pas. Hypothèse ajoutée et signalée dans la référence de 10052."
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-3.pdf, Exercices du groupe A, exercice 7",
+   "what": "L'énoncé oublie un cas : si le triangle est isocèle en A avec un angle de 120° en A, le centre M du cercle circonscrit à HBC est A, et la droite (AM) n'existe pas. Hypothèse ajoutée et signalée dans la référence de 10058."
+  },
+  {
+   "where": "2018-01_pofm-2017-2018-envoi2-corrige.pdf, exercice 1",
+   "what": "la dernière phrase du corrigé conclut « parallèles » au lieu de « perpendiculaires »"
+  },
+  {
+   "where": "2017-11_pofm-2017-2018-envoi2.pdf, exercice 8",
+   "what": "l'énoncé oublie de supposer que l'angle en A n'est pas droit ; sinon les deux tangentes sont parallèles pour tout P et T(P) n'existe pas"
+  },
+  {
+   "where": "2017-11_pofm-2017-2018-envoi2.pdf, exercice 9",
+   "what": "l'énoncé dit seulement que P est sur (AO) ; si P est sur la demi-droite opposée à [AO), on a BAX + YAC = 180° et non BAX = YAC. Ce qui est vrai dans tous les cas : les droites (AX) et (AY) sont symétriques par rapport à la bissectrice"
+  },
+  {
+   "where": "2018-10_envoi_1_2018-2019_v3.pdf, exercice 2",
+   "what": "l'énoncé ne suppose pas que O2 est hors de la droite (AB) ; si O2 est sur (AB), le point C n'existe pas"
+  },
+  {
+   "where": "2018-10_envoi_1_2018-2019_v3.pdf, exercice 3",
+   "what": "l'énoncé oublie les hypothèses qui rendent la figure possible : pas d'angle droit, AB ≠ AC, et (DH) non parallèle à (AC)"
+  },
+  {
+   "where": "2018-11_corrige-envoi-1.pdf, exercice 3",
+   "what": "le corrigé écrit « médiatrice de [AC] » là où il faut lire « médiatrice de [AD] »"
+  },
+  {
+   "where": "2018-11_corrige-envoi-1.pdf, exercice 6",
+   "what": "dans la preuve 1, le paragraphe sur la médiatrice de [AC] écrit M_B, milieu de [AB], là où il faut M_C, milieu de [AC]"
+  },
+  {
+   "where": "2018-11_corrige-envoi-1.pdf, exercice 7",
+   "what": "la preuve 1 (inversion de centre A et de rayon AB) échange les noms des deux cercles : c'est Γ que l'inversion laisse fixe, et c'est ω qui passe par A, B et D ; la preuve 2 confond aussi Γ et ω"
+  },
+  {
+   "where": "2018-10_envoi_1_2018-2019_v3.pdf, exercice 8",
+   "what": "l'énoncé place B et C « sur les droites (AE) et (AD) » : il faut lire (AD) et (AE), comme dans le corrigé et sur sa figure ; « la tangente entre A et (BC) » est ambigu, il faut la tangente la plus proche de A"
+  },
+  {
+   "where": "2018-10_envoi_1_2018-2019_v3.pdf, exercice 9",
+   "what": "l'énoncé oublie deux hypothèses : le triangle ne doit pas avoir d'angle droit (sinon B, O, C sont alignés et le cercle BOC n'existe pas), et il ne doit pas être équilatéral (sinon les deux cercles sont confondus)"
+  }
+ ],
+ "notes": [
+  "Envoi 2012-2013 n° 1 : les 9 exercices importés (10001 à 10009). Aucun doublon trouvé avec similar.py ni grep ; les rapprochements signalés par vm.py check (8503/10001, 7254 et 7072/10003, 8712 et 10209/10007, 0834/10009) ont été lus : ce sont des problèmes différents.",
+  "10009 : le corrigé officiel (inversion, complexes) ne traite pas le cas où Q est au-delà du point de concours M de (AB), (CD), (OP) ; l'énoncé reste vrai dans ce cas (aucune des deux égalités n'est possible), la solution importée le traite.",
+  "Document 1 (2012-2013 envoi 6) : les 9 exercices importés (10010 à 10018). Aucun doublon trouvé avec similar.py ni grep, y compris pour l'exercice 6 (OIM 1982, hexagone régulier, 10015).",
+  "Document 2 (2013-2014 envoi 1) : les 9 exercices importés (10019 à 10027). Aucun doublon trouvé avec similar.py ni grep. 7749 (1re, A, C, O, H, I cocycliques pour un angle de 60°) est proche de 10022 mais demande autre chose. 10022 (exercice commun 4) est placé en 3e, car la solution n'utilise que des distances à des droites et la trigonométrie du triangle rectangle. Précisions ajoutées aux énoncés : l'ordre des points et des diagonales non perpendiculaires dans 10019, le côté où sont construits X et Y dans 10023. Le corrigé de l'exercice 7 (10025) écrit une fois INJM au lieu de INJL, signalé dans la référence.",
+  "Document 3 (2013-2014 envoi 5) : les 9 exercices importés (10028 à 10036). Aucun doublon trouvé avec similar.py ni grep. 7257 (Reim) est proche de 10032 mais demande autre chose. Précisions ajoutées aux énoncés : M et N distincts et strictement entre B et C dans 10030, P hors de (OA) dans 10033, AB ≠ AC dans 10035. Le cercle s'appelle ω dans 10029 pour éviter un conflit de lettres. Les solutions sont refaites sans les outils du corrigé : sans axe radical (10031, 10033), sans pôles et polaires (10034, qui démontre la puissance d'un point dans un rappel, donc sans entrée beyond_programme), sans inversion (10035, dans un repère), sans Ceva trigonométrique (10036). Le corrigé de l'exercice 7 (10034) oublie le cas où la tangente commune en X est parallèle à (BC), c'est-à-dire AB = AC ; il est traité. Dans l'exercice 9 (10036), l'hypothèse « AMB obtus » ne sert pas, signalé dans la référence.",
+  "Paires signalées par vm.py check après le document 3, toutes lues : 10034/11609 (même configuration de trois cercles tangents au cercle inscrit, mais 11609 demande la concourance de (AA'), (BB'), (CC') et l'alignement avec O et I ; problèmes différents, titre de 10034 allongé pour les distinguer), 10006/10012 (deux problèmes différents, tous deux à moi), 10031/12214, 10035/8154, 10013/11848, 10013/11878, 10002/12443, 10029/10204, 10030/12624, 10036/7255, 10036/7524 : problèmes différents, aucun see_also ajouté.",
+  "Document 4 (2014-2015 envoi 2) : 9 exercices importés (10037 à 10045), l'exercice 5 est sauté car c'est 11874 (même problème, même niveau). 10038 et 8132 sont le même résultat (orthocentre = centre du cercle inscrit au triangle orthique) à deux niveaux, liés par see_also. 7142 demande plus que 10039 (hexagone à angles de 120°). 10045 demande plus que 12431 : 12431 ne montre que OY = r²/OP pour la corde des contacts, 10045 demande le point fixe de (AB). Dans 10045, on ajoute Q différent de P, sinon A = B = P. Solutions refaites au niveau de l'élève : 10042 (puissance d'un point démontrée avec le produit scalaire, au lieu des axes radicaux), 10043, 10044 (repère au lieu de l'homothétie et de Ceva trigonométrique), 10045 (repère, somme et produit des racines, au lieu de la droite de Simson).",
+  "Document 5 (2015-2016 envoi 2) : 9 exercices importés (10046 à 10054), aucun sauté. 10047 demande plus que 7749 (7749 ne montre que l'égalité des distances au milieu de l'arc), liés par see_also. Hypothèses implicites ajoutées aux énoncés : 10051 (AB ≠ AC et angle en A non droit), 10052 (AB ≠ AC), 10053 (AB ≠ AC, sinon (GH) est parallèle à (BC)). Méthodes du corrigé remplacées : 10049 (nombres complexes au lieu de la droite de Steiner), 10051 (puissance d'un point et cercle d'Euler démontrés avec des vecteurs, au lieu de l'axe radical), 10053 (repère au lieu des polaires), 10054 (Thalès et un parallélogramme au lieu de la division harmonique, de Mac Laurin et des centres exinscrits). Paires signalées par vm.py check sur le titre, lues et toutes différentes : 0655/10046, 7072/10050, 7087/10050, 7128/10049, 10013/10047, 11848/10047, 12806/10047, 10031/10053, 10228/10053, 10238/10053, 12214/10053, 13449/10053, 8231/10054, 8916/10054, 10212/10054, 10224/10054, 13269/10054.",
+  "Document 6 (2016-2017 envoi 3) : 6 exercices importés (10055 à 10060), les exercices 1, 2 et 3 du groupe B sont sautés car ce sont 10037, 10038 (envoi 2014-2015 n° 2, repris tels quels) et 7221. 7703 demande plus que 10055 (mêmes cercles tangents et tangente commune), liés par see_also. 10060 demande plus que 10257 (théorème de Droz-Farny, dans le bloc d'un autre agent, en 1re) : 10060 est le cas général avec des triangles directement semblables, en Terminale ; liés par see_also depuis 10060 seulement, 10257 n'est pas modifié, au coordinateur d'ajouter le lien retour s'il le souhaite. Hypothèses implicites ajoutées : AB ≠ AC dans 10056, M ≠ A, N ≠ B, P ≠ C dans 10058, triangle sans angle droit et droites non parallèles aux côtés dans 10060 ; l'hypothèse « K à l'intérieur du triangle » de 10059 est retirée car elle est automatique. Les cercles s'appellent Γ et Γ′ dans 10055, car l'original nomme C un cercle et un point. Méthodes du corrigé remplacées : 10056 (vecteurs et déterminant au lieu d'une chasse aux angles qui dépend de la figure), 10058 (relation d'Euler démontrée avec des vecteurs), 10059 (repère), 10060 (repère porté par d1 et d2 et nombres complexes, au lieu des angles orientés et d'une similitude de centre un point du cercle circonscrit). Titres proches lus et différents : 10206, 10209, 12459, 11623, 10222, 7073, 10241.",
+  "Document 7 (2017-2018 envoi 2) : 9 exercices importés, 10061 à 10069, aucun doublon trouvé. Hypothèses ajoutées ou changées : 10063 suppose C ≠ D ; 10064 remplace AB < AC, qui ne sert pas, par « sans angle droit » ; 10068 suppose l'angle en A non droit ; 10069 suppose les triangles DEF et BCP non aplatis et les deux cercles sécants. 10065 remplace les homothéties du corrigé par des vecteurs (grade 10). 10066 conclut avec la corde [A2A3]. 10067 et 10068 sont faits en repère. 10069 remplace l'involution du corrigé par z ↦ k/z (maths expertes) et énonce le résultat pour les droites, l'égalité d'angles n'étant vraie que pour P sur [AO). Pendant ce document, on a aussi corrigé l'écriture des normes dans 10056 et 10058, qui s'affichaient mal.",
+  "Document 8 (2018-2019 envoi 1) : 9 exercices importés, 10070 à 10078, aucun sauté. 10071 (2de) démontre une partie de 8743 (1re, hors de mon bloc : mêmes deux cercles sécants, le cercle qui passe par les deux centres et B) ; lien see_also posé depuis 10071 seulement, 8743 n'est pas modifié, au coordinateur d'ajouter le lien retour s'il le souhaite. Hypothèses ajoutées : 10071 (O2 hors de (AB)), 10072 (pas d'angle droit, AB ≠ AC, (DH) non parallèle à (AC)), 10077 (droites (AD) et (AE) remises dans le bon ordre, tangente la plus proche de A), 10078 (pas d'angle droit, triangle non équilatéral). Méthodes du corrigé remplacées : 10070 (médiatrices), 10071, 10072 et 10075 (repère), 10073 (parallélogramme et symétrie axiale), 10076 (triangles semblables et tangentes parallèles, sans inversion), 10077 (nombres complexes au lieu de Pascal), 10078 (nombres complexes au lieu d'une chasse aux angles avec Miquel). 10074 suit le corrigé. Titres proches lus et différents, dont 12603, 12855 et 10016 pour 10078.",
+  "Fin de l'unité : les 9 documents sont traités. vm.py check ne donne aucune erreur ; les 78 exercices 10001 à 10078 ont été construits, sans avertissement de pandoc, et chaque page avec une figure a été regardée. La liste imported correspond aux fichiers sur le disque. Les ids 10079 à 10200 du bloc ne sont pas utilisés. Le titre de 10074 est devenu « Cinq points sur un cercle, autour de deux cercles sécants », car 10013 portait le même titre pour un autre problème."
+ ],
+ "updated": "2026-10-01"
+}

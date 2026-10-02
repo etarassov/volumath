@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 439" width="440" height="439">
+  <circle cx="183.3" cy="233.2" r="155.3" fill="none" stroke="#000" stroke-width="1.6"/>
+  <circle cx="167.7" cy="321.5" r="89.7" fill="none" stroke="#888" stroke-width="1.2" stroke-dasharray="5,4"/>
+  <circle cx="284.5" cy="155.5" r="127.5" fill="none" stroke="#888" stroke-width="1.2" stroke-dasharray="5,4"/>
+  <line x1="55.6" y1="143.4" x2="325.2" y2="333" fill="none" stroke="#000" stroke-width="1.4"/>
+  <line x1="236.4" y1="379.1" x2="304.6" y2="318.5" fill="none" stroke="#555" stroke-width="1.0"/>
+  <line x1="236.4" y1="379.1" x2="245.6" y2="277" fill="none" stroke="#555" stroke-width="1.0"/>
+  <line x1="83.5" y1="352.1" x2="183.3" y2="233.2" fill="none" stroke="#555" stroke-width="1.0"/>
+  <line x1="83.5" y1="352.1" x2="72.3" y2="155.1" fill="none" stroke="#555" stroke-width="1.0"/>
+  <line x1="333.3" y1="273.4" x2="245.6" y2="277" fill="none" stroke="#555" stroke-width="1.0"/>
+  <line x1="333.3" y1="273.4" x2="304.6" y2="318.5" fill="none" stroke="#555" stroke-width="1.0"/>
+  <line x1="183.3" y1="77.9" x2="72.3" y2="155.1" fill="none" stroke="#555" stroke-width="1.0"/>
+  <line x1="183.3" y1="77.9" x2="183.3" y2="233.2" fill="none" stroke="#555" stroke-width="1.0"/>
+  <circle cx="236.4" cy="379.1" r="3" fill="#000"/>
+  <circle cx="83.5" cy="352.1" r="3" fill="#000"/>
+  <circle cx="183.3" cy="77.9" r="3" fill="#000"/>
+  <circle cx="333.3" cy="273.4" r="3" fill="#000"/>
+  <circle cx="183.3" cy="233.2" r="3" fill="#000"/>
+  <circle cx="245.6" cy="277" r="3" fill="#000"/>
+  <circle cx="304.6" cy="318.5" r="3" fill="#000"/>
+  <circle cx="72.3" cy="155.1" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="238.3" y="397.2">A</text>
+    <text x="71.4" y="370.2">B</text>
+    <text x="175.7" y="70.1">C</text>
+    <text x="342.2" y="279.3">D</text>
+    <text x="191.7" y="235.5">O</text>
+    <text x="246.4" y="270.3">P</text>
+    <text x="313.3" y="322.5">Q</text>
+    <text x="54" y="165.8">R</text>
+  </g>
+</svg>

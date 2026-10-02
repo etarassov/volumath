@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 357" width="420" height="357">
+<rect x="0" y="0" width="420" height="357" fill="#fff"/>
+<circle cx="175.0" cy="175.0" r="144.1" fill="none" stroke="#777" stroke-width="1.3"/>
+<polygon points="245.0,49.0 385.0,301.0 105.0,301.0" fill="none" stroke="#000" stroke-width="1.8"/>
+<line x1="51.4" y1="100.8" x2="385.0" y2="301.0" stroke="#000" stroke-width="1.6"/>
+<line x1="245.0" y1="49.0" x2="245.0" y2="301.0" stroke="#000" stroke-width="1.6"/>
+<line x1="51.4" y1="100.8" x2="105.0" y2="301.0" stroke="#000" stroke-width="1.2"/>
+<line x1="53.2" y1="207.6" x2="286.7" y2="145.1" stroke="#000" stroke-width="1.2" stroke-dasharray="6,4"/>
+<polyline points="254.0,301.0 254.0,292.0 245.0,292.0" fill="none" stroke="#000" stroke-width="1"/>
+<circle cx="245.0" cy="49.0" r="2.8" fill="#000"/>
+<text x="245.0" y="39.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000" text-anchor="middle">A</text>
+<circle cx="385.0" cy="301.0" r="2.8" fill="#000"/>
+<text x="397.0" y="317.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000" text-anchor="middle">B</text>
+<circle cx="105.0" cy="301.0" r="2.8" fill="#000"/>
+<text x="93.0" y="317.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000" text-anchor="middle">C</text>
+<circle cx="175.0" cy="175.0" r="2.8" fill="#000"/>
+<text x="171.0" y="164.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000" text-anchor="middle">D</text>
+<circle cx="51.4" cy="100.8" r="2.8" fill="#000"/>
+<text x="37.4" y="94.8" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000" text-anchor="middle">E</text>
+<circle cx="245.0" cy="301.0" r="2.8" fill="#000"/>
+<text x="245.0" y="321.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000" text-anchor="middle">F</text>
+<circle cx="245.0" cy="217.0" r="2.8" fill="#000"/>
+<text x="232.0" y="234.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000" text-anchor="middle">G</text>
+<circle cx="245.0" cy="156.3" r="2.8" fill="#000"/>
+<text x="232.0" y="150.3" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000" text-anchor="middle">H</text>
+</svg>

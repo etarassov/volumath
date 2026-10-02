@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="309" viewBox="0 0 380 309">
+  <circle cx="126.5" cy="182.1" r="97.6" fill="none" stroke="#555" stroke-width="1.2"/>
+  <circle cx="272.0" cy="198.4" r="79.1" fill="none" stroke="#555" stroke-width="1.2"/>
+  <path d="M 48.2 240.2 L 274.7 119.4" fill="none" stroke="#888" stroke-width="1.0" stroke-dasharray="4 3"/>
+  <path d="M 339.1 240.2 L 173.0 96.2" fill="none" stroke="#888" stroke-width="1.0" stroke-dasharray="4 3"/>
+  <path d="M 263.7 125.3 L 269.6 136.3 L 280.6 130.4" fill="none" stroke="#000" stroke-width="1.0"/>
+  <path d="M 182.4 104.4 L 174.2 113.8 L 164.8 105.6" fill="none" stroke="#000" stroke-width="1.0"/>
+  <path d="M 228.3 32.4 L 48.2 240.2 L 339.1 240.2 Z" fill="none" stroke="#000" stroke-width="1.8"/>
+  <path d="M 215.9 142.8 L 274.7 119.4" fill="none" stroke="#000" stroke-width="1.3"/>
+  <path d="M 215.9 142.8 L 173.0 96.2" fill="none" stroke="#000" stroke-width="1.3"/>
+  <circle cx="228.3" cy="32.4" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="48.2" cy="240.2" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="339.1" cy="240.2" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="204.9" cy="240.2" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="274.7" cy="119.4" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="173.0" cy="96.2" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="215.9" cy="142.8" r="3.0" fill="#000" stroke="none"/>
+  <text x="228.3" y="23.4" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="middle">A</text>
+  <text x="41.2" y="256.2" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="end">B</text>
+  <text x="346.1" y="256.2" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">C</text>
+  <text x="204.9" y="259.2" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="middle">D</text>
+  <text x="282.7" y="117.4" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">E</text>
+  <text x="165.0" y="94.2" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="end">F</text>
+  <text x="222.9" y="160.8" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">M</text>
+</svg>

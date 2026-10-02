@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 424" width="520" height="424">
+  <line x1="42" y1="369" x2="392.7" y2="42" fill="none" stroke="#999" stroke-width="1.0"/>
+  <line x1="333.5" y1="97.2" x2="478" y2="369" fill="none" stroke="#999" stroke-width="1.0"/>
+  <line x1="216.9" y1="205.9" x2="430.3" y2="279.4" fill="none" stroke="#999" stroke-width="1.0"/>
+  <path d="M 483.5 396 A 225.7 225.7 0 0 0 36.5 396" fill="none" stroke="#999" stroke-width="1.0" stroke-dasharray="5,4"/>
+  <polygon points="333.5,97.2 216.9,205.9 430.3,279.4" fill="none" stroke="#000" stroke-width="1.6"/>
+  <circle cx="333.5" cy="214" r="116.8" fill="none" stroke="#1f5fa8" stroke-width="1.6"/>
+  <circle cx="287.7" cy="226.7" r="164.3" fill="none" stroke="#b03a2e" stroke-width="1.6"/>
+  <line x1="28" y1="369" x2="492" y2="369" fill="none" stroke="#b03a2e" stroke-width="1.2"/>
+  <line x1="368.9" y1="383" x2="393.7" y2="28" fill="none" stroke="#b03a2e" stroke-width="1.2"/>
+  <line x1="396.7" y1="85.6" x2="197.7" y2="380.6" fill="none" stroke="#b03a2e" stroke-width="1.2"/>
+  <circle cx="333.5" cy="97.2" r="3" fill="#000"/>
+  <circle cx="216.9" cy="205.9" r="3" fill="#000"/>
+  <circle cx="430.3" cy="279.4" r="3" fill="#000"/>
+  <circle cx="333.5" cy="214" r="3" fill="#000"/>
+  <circle cx="42" cy="369" r="3" fill="#000"/>
+  <circle cx="478" cy="369" r="3" fill="#000"/>
+  <circle cx="377.4" cy="261.1" r="3" fill="#000"/>
+  <circle cx="392.7" cy="42" r="3" fill="#000"/>
+  <circle cx="297" cy="233.5" r="3" fill="#000"/>
+  <circle cx="388.9" cy="97.2" r="3" fill="#000"/>
+  <circle cx="205.5" cy="369" r="3" fill="#000"/>
+  <circle cx="369.8" cy="369" r="3" fill="#000"/>
+  <circle cx="357.9" cy="143.1" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="205.4" y="264.7">Ω</text>
+    <text x="316.2" y="96.2">A</text>
+    <text x="199.7" y="204.8">B</text>
+    <text x="432.2" y="297.4">C</text>
+    <text x="316.2" y="227">O</text>
+    <text x="33.3" y="361">A<tspan font-size="12" dy="5">B</tspan></text>
+    <text x="469.3" y="361">A<tspan font-size="12" dy="5">C</tspan></text>
+    <text x="376.8" y="278.6">B<tspan font-size="12" dy="5">C</tspan></text>
+    <text x="398" y="47.9">B<tspan font-size="12" dy="5">A</tspan></text>
+    <text x="293.1" y="252.6">C<tspan font-size="12" dy="5">B</tspan></text>
+    <text x="385.7" y="91.1">A*</text>
+    <text x="188.3" y="387.1">B*</text>
+    <text x="366.6" y="387.1">C*</text>
+    <text x="327.9" y="147.1">C<tspan font-size="12" dy="5">A</tspan></text>
+  </g>
+</svg>

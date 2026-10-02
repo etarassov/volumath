@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="370" viewBox="0 0 390 370">
+<rect width="390" height="370" fill="#fff"/>
+<line x1="21.8" y1="110.0" x2="382.8" y2="110.0" stroke="#999" stroke-width="1"/>
+<line x1="170.0" y1="360.8" x2="170.0" y2="11.2" stroke="#999" stroke-width="1"/>
+<polygon points="382.8,110.0 374.8,106.0 374.8,114.0" fill="#999"/>
+<polygon points="170.0,11.2 166.0,19.2 174.0,19.2" fill="#999"/>
+<circle cx="189.0" cy="186.0" r="153.2" fill="none" stroke="#888" stroke-width="1.2"/>
+<polygon points="170.0,34.0 56.0,110.0 322.0,110.0" fill="#f3efe2" stroke="#000" stroke-width="1.6"/>
+<line x1="56.0" y1="110.0" x2="189.0" y2="110.0" stroke="#1f5fa8" stroke-width="2.2" stroke-dasharray="6,4"/>
+<line x1="189.0" y1="110.0" x2="246.0" y2="72.0" stroke="#1f5fa8" stroke-width="2.2" stroke-dasharray="6,4"/>
+<line x1="56.0" y1="110.0" x2="246.0" y2="72.0" stroke="#b0262b" stroke-width="2.4"/>
+<line x1="170.0" y1="34.0" x2="170.0" y2="110.0" stroke="#000" stroke-width="1.6"/>
+<polyline points="178.0,110.0 178.0,102.0 170.0,102.0" fill="none" stroke="#000" stroke-width="1"/>
+<circle cx="170.0" cy="34.0" r="3" fill="#000"/>
+<circle cx="56.0" cy="110.0" r="3" fill="#000"/>
+<circle cx="322.0" cy="110.0" r="3" fill="#000"/>
+<circle cx="189.0" cy="186.0" r="3" fill="#000"/>
+<circle cx="170.0" cy="110.0" r="3" fill="#000"/>
+<circle cx="189.0" cy="110.0" r="3" fill="#000"/>
+<circle cx="246.0" cy="72.0" r="3" fill="#000"/>
+<text x="156.0" y="28.0" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">A</text>
+<text x="48.0" y="100.0" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">B</text>
+<text x="332.0" y="100.0" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">C</text>
+<text x="158.0" y="130.0" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">H</text>
+<text x="195.0" y="130.0" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">A′</text>
+<text x="262.0" y="66.0" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">B′</text>
+<text x="203.0" y="192.0" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">O</text>
+<text x="376.8" y="130.0" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">x</text>
+<text x="184.0" y="19.2" font-family="Helvetica" font-size="17" font-style="italic" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">y</text>
+</svg>

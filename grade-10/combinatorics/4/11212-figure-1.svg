@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="330" viewBox="0 0 430 330">
+<rect x="0" y="0" width="430" height="330" fill="#ffffff"/>
+<polygon points="40.0,65.0 40.0,265.0 265.0,215.0 265.0,115.0" fill="none" stroke="#c0392b" stroke-width="1.5" stroke-dasharray="6,4"/>
+<polygon points="390.0,40.0 390.0,290.0 165.0,190.0 165.0,115.0" fill="none" stroke="#2457a6" stroke-width="1.5" stroke-dasharray="6,4"/>
+<circle cx="40.0" cy="65.0" r="6" fill="#c0392b" stroke="#000" stroke-width="1"/>
+<circle cx="40.0" cy="265.0" r="6" fill="#c0392b" stroke="#000" stroke-width="1"/>
+<circle cx="265.0" cy="215.0" r="6" fill="#c0392b" stroke="#000" stroke-width="1"/>
+<circle cx="265.0" cy="115.0" r="6" fill="#c0392b" stroke="#000" stroke-width="1"/>
+<rect x="384.0" y="34.0" width="12" height="12" fill="#2457a6" stroke="#000" stroke-width="1"/>
+<rect x="384.0" y="284.0" width="12" height="12" fill="#2457a6" stroke="#000" stroke-width="1"/>
+<rect x="159.0" y="184.0" width="12" height="12" fill="#2457a6" stroke="#000" stroke-width="1"/>
+<rect x="159.0" y="109.0" width="12" height="12" fill="#2457a6" stroke="#000" stroke-width="1"/>
+<text x="22.0" y="59.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">P</text>
+<text x="22.0" y="281.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">Q</text>
+<text x="269.0" y="237.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">R</text>
+<text x="271.0" y="105.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">S</text>
+<text x="400.0" y="36.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">W</text>
+<text x="400.0" y="304.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">X</text>
+<text x="145.0" y="208.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">Y</text>
+<text x="145.0" y="107.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">Z</text>
+</svg>

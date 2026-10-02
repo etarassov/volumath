@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="130" viewBox="0 0 300 130">
+  <rect x="0" y="0" width="300" height="130" fill="#ffffff"/>
+  <!-- first move: top left, bottom right, top right -->
+  <rect x="30" y="10" width="40" height="40" fill="#bdbdbd" stroke="#000" stroke-width="1.5"/>
+  <rect x="70" y="10" width="40" height="40" fill="#bdbdbd" stroke="#000" stroke-width="1.5"/>
+  <rect x="30" y="50" width="40" height="40" fill="#ffffff" stroke="#000" stroke-width="1.5"/>
+  <rect x="70" y="50" width="40" height="40" fill="#bdbdbd" stroke="#000" stroke-width="1.5"/>
+  <!-- second move: top left, bottom right, bottom left -->
+  <rect x="190" y="10" width="40" height="40" fill="#bdbdbd" stroke="#000" stroke-width="1.5"/>
+  <rect x="230" y="10" width="40" height="40" fill="#ffffff" stroke="#000" stroke-width="1.5"/>
+  <rect x="190" y="50" width="40" height="40" fill="#bdbdbd" stroke="#000" stroke-width="1.5"/>
+  <rect x="230" y="50" width="40" height="40" fill="#bdbdbd" stroke="#000" stroke-width="1.5"/>
+  <text x="70" y="118" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle">coup 1</text>
+  <text x="230" y="118" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle">coup 2</text>
+</svg>

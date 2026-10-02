@@ -1,0 +1,322 @@
+{
+ "unit": "automne-2011-2015",
+ "source": "coupe-animath",
+ "title": "Coupe Animath automne, 2011 à 2015",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "13001",
+  "13200"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2011",
+   "label": "Coupe automne 2011",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2011.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2011.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2011_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2011_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2012",
+   "label": "Coupe automne 2012",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2012.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2012.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2012_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2012_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2013",
+   "label": "Coupe automne 2013",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2013.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2013.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2013_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2013_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2014",
+   "label": "Coupe automne 2014",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2014.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2014.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2014_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2014_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2015",
+   "label": "Coupe automne 2015",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2015_elim_college.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2015_elim_college.pdf",
+     "role": "Premier tour collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2015_elim_college_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2015_elim_college_corrige.pdf",
+     "role": "corrigé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2015_elim_lycee.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2015_elim_lycee.pdf",
+     "role": "Premier tour lycéens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2015_elim_lycee_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2015_elim_lycee_corrige.pdf",
+     "role": "Corrigé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2015.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2015.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2015_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2015_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  }
+ ],
+ "next_document": 5,
+ "imported": [
+  "13001",
+  "13002",
+  "13003",
+  "13004",
+  "13005",
+  "13006",
+  "13007",
+  "13008",
+  "13009",
+  "13010",
+  "13011",
+  "13012",
+  "13013",
+  "13014",
+  "13015",
+  "13016",
+  "13017",
+  "13018",
+  "13019",
+  "13020",
+  "13021",
+  "13022",
+  "13023",
+  "13024",
+  "13025",
+  "13026",
+  "13027",
+  "13028",
+  "13029",
+  "13030",
+  "13031",
+  "13032",
+  "13033",
+  "13034",
+  "13035",
+  "13036",
+  "13037",
+  "13038",
+  "13039",
+  "13040",
+  "13041",
+  "13042",
+  "13043",
+  "13044",
+  "13045",
+  "13046",
+  "13047",
+  "13048",
+  "13049",
+  "13050",
+  "13051",
+  "13052",
+  "13053",
+  "13054",
+  "13055"
+ ],
+ "skipped": [
+  {
+   "where": "2017-09_coupe_automne_2011.pdf, exercice 2",
+   "why": "déjà dans la collection : f(t) = f(f(f(t))) = 0 entraîne f(0)f(1) = 0",
+   "existing": "8151"
+  },
+  {
+   "where": "2017-09_coupe_automne_2011.pdf, exercice 3",
+   "why": "déjà dans la collection (les douze candidats qui annoncent le nombre de mensonges), aussi en 7048 au grade 10",
+   "existing": "7110"
+  },
+  {
+   "where": "2017-09_coupe_automne_2011.pdf, exercice 6",
+   "why": "déjà dans la collection (le bal, principe extrémal), aussi en 7049 au grade 10",
+   "existing": "8738"
+  },
+  {
+   "where": "2017-09_coupe_automne_2011.pdf, exercice 7",
+   "why": "déjà dans la collection : p^n + 144 = m^2",
+   "existing": "8616"
+  },
+  {
+   "where": "2017-09_coupe_automne_2012.pdf, exercice 3 (collège et seconde)",
+   "why": "même problème du ruban de largeur constante sur une face rectangulaire, avec d'autres nombres (face 6 sur 4, AB = 1, BC = 5), déjà importé au même grade depuis la Coupe de printemps 2009",
+   "existing": "13602"
+  },
+  {
+   "where": "2017-09_coupe_automne_2012.pdf, exercice 4 (collège et seconde)",
+   "why": "c'est la question a de l'exercice 11 de la même épreuve, importé une fois avec ses deux questions",
+   "existing": "13007"
+  },
+  {
+   "where": "2017-09_coupe_automne_2012.pdf, exercice 7 (première et terminale)",
+   "why": "même énoncé que l'exercice 5 de la même épreuve",
+   "existing": "13008"
+  },
+  {
+   "where": "2017-09_coupe_automne_2012.pdf, exercice 8 (première et terminale)",
+   "why": "même énoncé que l'exercice 6 de la même épreuve",
+   "existing": "13009"
+  },
+  {
+   "where": "2017-09_coupe_automne_2012.pdf, exercice 12 (première et terminale)",
+   "why": "déjà dans la collection : 5x² + y² + 4 ≥ 4x + 4xy, somme de deux carrés, égalité en (2, 4)",
+   "existing": "8515"
+  },
+  {
+   "where": "2017-09_coupe_automne_2014.pdf, exercice 5",
+   "why": "déjà dans la collection : le réseau routier « catastrophique » à sens uniques (ville sans sortie, ville qui mène directement à toutes les autres, une seule route à retourner), avec 6 villes au lieu de 10 et une question de plus",
+   "existing": "7031"
+  },
+  {
+   "where": "2017-09_coupe_automne_2014.pdf, exercice 6",
+   "why": "déjà dans la collection : le triangle équilatéral et le carré inscrits dans un cercle de périmètre p, un arc au plus p/24",
+   "existing": "7210"
+  },
+  {
+   "where": "2017-09_coupe_automne_2015_elim_college.pdf, exercice 5",
+   "why": "déjà dans la collection au même grade : le nombre de pavages d'une bande 2 × 11 par des dominos (144), cas particulier de 0178",
+   "existing": "0178"
+  },
+  {
+   "where": "2017-09_coupe_automne_2015_elim_lycee.pdf, exercice 4",
+   "why": "même énoncé que l'exercice 5 du questionnaire collégiens (bande 2 × 11, 144), déjà dans la collection",
+   "existing": "0178"
+  },
+  {
+   "where": "2017-09_coupe_automne_2015_elim_lycee.pdf, exercice 7",
+   "why": "même énoncé que l'exercice 8 du questionnaire collégiens, importé une fois en citant les deux questionnaires",
+   "existing": "13034"
+  },
+  {
+   "where": "2017-09_coupe_automne_2015_elim_lycee.pdf, exercice 10",
+   "why": "même énoncé que l'exercice 12 du questionnaire collégiens, importé une fois en citant les deux questionnaires",
+   "existing": "13038"
+  }
+ ],
+ "beyond_programme": [],
+ "see_also_added": [
+  {
+   "id": "13009",
+   "other": "0353",
+   "why": "0353 (grade 9) montre que la somme des angles aux pointes d'une étoile quelconque vaut 180° ; 13009 calcule l'angle d'une étoile régulière"
+  },
+  {
+   "id": "13048",
+   "other": "7131",
+   "why": "même problème (15 personnes, chaque paire exactement une fois dans un groupe de trois, 35 groupes) ; 7131 est au grade 11, 13048 au grade 8"
+  }
+ ],
+ "source_errors": [
+  {
+   "where": "2017-09_coupe_automne_2011_corrige.pdf, exercice 4",
+   "what": "Le corrigé commence par « Soit x > 0 » puis conclut avec f(−2) = 0, ce qui demande x = −1. Il faut prendre x non nul quelconque. Corrigé en 13002."
+  },
+  {
+   "where": "2017-09_coupe_automne_2012_corrige.pdf, exercice 10",
+   "what": "Le corrigé écrit « IAC = 90° + β » au lieu de AIC, puis inverse les deux cas de sin(90° − β) = sin(2β) : 90° − β = 2β donne β = 30°, et non 90°. La réponse 60° reste juste. 13011 refait le calcul."
+  },
+  {
+   "where": "2017-09_coupe_automne_2013_corrige.pdf, exercice 7",
+   "what": "Après 7(y − 2/7)² + 3/7, le corrigé écrit « égalité si et seulement si y = 3/7 » : c'est y = 2/7 (avec x + 2y = 1, donc x = 3/7). Il fait aussi varier y dans [0, 1] au lieu de [0, 1/2]. La réponse a = 3/7 reste juste. 13018 donne l'identité exacte et le cas d'égalité (3, 2, 2)."
+  },
+  {
+   "where": "2017-09_coupe_automne_2015_elim_college.pdf, exercice 7",
+   "what": "L'énoncé demande « le plus petit entier » divisible par 6, 35 et 28 ; sans « strictement positif », la réponse serait 0 (ou il n'y en aurait pas, avec les négatifs). 13033 précise « strictement positif » ; la réponse 420 est celle du corrigé."
+  },
+  {
+   "where": "2017-09_coupe_automne_2015_elim_lycee_corrige.pdf, exercice 10 (= collège 12)",
+   "what": "Le corrigé dit que D est le symétrique de A par rapport à (AB) ; il faut lire (BC). La réponse 119° est juste. Corrigé en 13038."
+  },
+  {
+   "where": "2017-09_coupe_automne_2015_elim_lycee_corrige.pdf, exercice 11",
+   "what": "Le corrigé écrit MB = MA + 99 ; il faut lire MA + 199. La réponse 19701 est juste. Corrigé en 13046."
+  },
+  {
+   "where": "2017-09_coupe_automne_2015_elim_lycee.pdf, exercice 2",
+   "what": "L'énoncé demande la valeur de ac/bd en supposant qu'elle est unique, et le corrigé l'admet sans le démontrer. 13040 le démontre : x n'est pas rationnel, donc toute relation p x² + q x + r = 0 à coefficients entiers est nulle, ce qui force (a, b, c, d) = (16d, −d, −4d, d) et ac/bd = 64."
+  },
+  {
+   "where": "2017-09_coupe_automne_2015_corrige.pdf, exercice 2",
+   "what": "Le corrigé écrit « x = 6 » et « x = 5 » au lieu de z = 6 et z = 5. Les réponses 976 et 985 sont justes. Corrigé en 13049."
+  },
+  {
+   "where": "2017-09_coupe_automne_2015_corrige.pdf, exercice 4",
+   "what": "Le corrigé écrit « f(5) = 5 » là où il faut lire f(n) = 5 pour tout n ⩾ 5. Corrigé en 13051."
+  },
+  {
+   "where": "2017-09_coupe_automne_2015_corrige.pdf, exercice 6",
+   "what": "Le corrigé écrit « 2b = u − 2b − 7 » pour 2b = u − 2a − 7, et « 4b = u − v = 68 » pour 4a = u − v = 68. La réponse 294 est juste. Corrigé en 13053."
+  }
+ ],
+ "notes": [
+  "2011 : l'épreuve d'octobre 2011 est une épreuve de sélection de 4 heures en 8 problèmes, plus difficile que les Coupes à partir de 2015.",
+  "13001 : l'énoncé original autorise aussi E au-delà de A ; le corrigé ne traite que E au-delà de D. Le résultat reste vrai dans les deux cas (vérifié numériquement), l'autre cas est mis en prolongement.",
+  "2012 : 13602 (ruban, Coupe de printemps 2009) appartient au bloc d'un autre agent ; le problème 3 de l'automne 2012 n'a pas été écrit pour cette raison. Si 13602 disparaît, il faut l'importer depuis l'automne 2012.",
+  "13011 utilise la loi des sinus, hors du programme de lycée : elle est démontrée dans la solution par le calcul de l'aire (lemme court), d'où le grade 11.",
+  "2013 : épreuve de sélection de 4 heures en 8 problèmes, sujet commun à toutes les classes. Les 8 problèmes sont importés, aucun doublon trouvé dans la collection (12005 est un autre problème de connaissances).",
+  "13016 : la réponse 97, 98 ou 100 a été vérifiée par recherche exhaustive sur un club de 6 membres (3, 4 ou 6 populaires).",
+  "2014 : « test de rentrée » du 1er octobre 2014, 4 heures, 10 exercices (collégiens 1 à 7, lycéens 4 à 10). 8 importés, 2 déjà présents (7031 et 7210, tous deux au grade 10, où ils ont leur place).",
+  "13025 : le corrigé fait une chasse aux angles (angle BAO1 = 90° − angle ACB, etc.) qui suppose sans le dire que certains angles sont aigus et que les demi-droites sont dans un ordre précis. La solution publiée passe par les seconds points d'intersection M' et N', la symétrie par rapport à la médiatrice de [BC] et Thalès, sans cas de figure ; la chasse aux angles est mise en prolongement. Alignement vérifié numériquement.",
+  "13021 : petite coquille dans le corrigé de l'exercice 2 (« BE = E'F = FC » pour BE' = E'F = FC), sans effet sur la réponse 9/10.",
+  "13027 : la stratégie d'Alcindor (prendre un 2, puis copier la valeur de Benoît) a été vérifiée par recherche exhaustive sur toutes les parties de Benoît et tous les choix libres d'Alcindor : le résultat est toujours 7 contre 6.",
+  "2015 : premier tour (questionnaires collégiens et lycéens de 12 questions, réponses seules) puis épreuve du 7 octobre 2015 (8 exercices : collège 1 à 3, communs 4 et 5, lycée 6 à 8). 32 problèmes, 28 importés, 4 non écrits : le pavage par dominos (collège 5 = lycée 4, déjà en 0178) et deux énoncés communs aux deux questionnaires (collège 8 = lycée 7 en 13034, collège 12 = lycée 10 en 13038).",
+  "2015 : les questionnaires du premier tour ne demandent que la réponse ; chaque fichier ajoute une solution complète, écrite à partir du corrigé quand il en donne une.",
+  "13048 et 7131 : même problème des 15 personnes réparties par groupes de trois. 7131 est au grade 11 alors qu'il s'agit d'un exercice collège de la Coupe ; 13048 est au grade 8 avec see_also vers 7131. Le coordinateur peut vouloir revoir le grade de 7131.",
+  "13049 et 7401 : 7401 (grade 8) utilise le même fait (la somme des six nombres formés avec trois chiffres vaut 222 fois leur somme), mais pose une autre question. Ce n'est pas un doublon, aucun lien ajouté.",
+  "13040 : la question 2 ajoutée demande de démontrer que ac/bd ne prend qu'une valeur, ce que l'énoncé d'origine supposait. La preuve n'utilise que l'irrationalité de x, établie avec la divisibilité (grade 10, quatre étoiles).",
+  "13054 : l'aire de l'octogone (25/54) a été vérifiée par la formule du lacet sur les coordonnées des huit sommets."
+ ],
+ "updated": "2026-10-01"
+}

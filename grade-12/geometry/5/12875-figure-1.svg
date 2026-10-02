@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="448" height="431" viewBox="0 0 448 431">
+<rect width="100%" height="100%" fill="#fff"/>
+<circle cx="224.0" cy="215.5" r="170.0" fill="none" stroke="#777" stroke-width="0.9"/>
+<polygon points="156.0,45.5 292.0,45.5 354.2,324.8 182.0,338.0 60.6,262.4" fill="none" stroke="#000" stroke-width="1.6"/>
+<line x1="224.0" y1="45.5" x2="60.6" y2="262.4" stroke="#444" stroke-width="1.0"/>
+<line x1="224.0" y1="45.5" x2="354.2" y2="324.8" stroke="#444" stroke-width="1.0"/>
+<line x1="156.0" y1="45.5" x2="182.0" y2="338.0" stroke="#444" stroke-width="1.0"/>
+<line x1="292.0" y1="45.5" x2="182.0" y2="338.0" stroke="#444" stroke-width="1.0"/>
+<line x1="60.6" y1="262.4" x2="354.2" y2="324.8" stroke="#444" stroke-width="1.0"/>
+<line x1="182.0" y1="338.0" x2="244.9" y2="301.5" stroke="#666" stroke-width="0.9" stroke-dasharray="4,3"/>
+<line x1="182.0" y1="338.0" x2="145.5" y2="280.4" stroke="#666" stroke-width="0.9" stroke-dasharray="4,3"/>
+<circle cx="156.0" cy="45.5" r="2.6" fill="#000"/>
+<text x="142.0" y="39.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>A</tspan></text>
+<circle cx="292.0" cy="45.5" r="2.6" fill="#000"/>
+<text x="298.0" y="39.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>B</tspan></text>
+<circle cx="224.0" cy="45.5" r="2.6" fill="#000"/>
+<text x="219.0" y="36.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>M</tspan></text>
+<circle cx="354.2" cy="324.8" r="2.6" fill="#000"/>
+<text x="362.2" y="328.8" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>C</tspan></text>
+<circle cx="60.6" cy="262.4" r="2.6" fill="#000"/>
+<text x="44.6" y="266.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>E</tspan></text>
+<circle cx="182.0" cy="338.0" r="2.6" fill="#000"/>
+<text x="178.0" y="356.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>D</tspan></text>
+<circle cx="163.2" cy="126.2" r="2.6" fill="#000"/>
+<text x="146.2" y="128.2" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>K</tspan></text>
+<circle cx="261.6" cy="126.2" r="2.6" fill="#000"/>
+<text x="269.6" y="130.2" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>L</tspan></text>
+<circle cx="244.9" cy="301.5" r="2.6" fill="#000"/>
+<text x="248.9" y="317.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>P</tspan></text>
+<circle cx="145.5" cy="280.4" r="2.6" fill="#000"/>
+<text x="133.5" y="296.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" fill="#000"><tspan>Q</tspan></text>
+</svg>

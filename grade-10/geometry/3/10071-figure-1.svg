@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 288" width="440" height="288">
+  <circle cx="129.6" cy="143.8" r="101.6" fill="none" stroke="#1f5fa8" stroke-width="1.4"/>
+  <circle cx="296.2" cy="143.8" r="115.8" fill="none" stroke="#2e7d32" stroke-width="1.4"/>
+  <circle cx="212.9" cy="129.1" r="84.6" fill="none" stroke="#b03a2e" stroke-width="1.2" stroke-dasharray="6,4"/>
+  <circle cx="203.6" cy="74.3" r="3" fill="#000"/>
+  <circle cx="203.6" cy="213.2" r="3" fill="#000"/>
+  <circle cx="129.6" cy="143.8" r="3" fill="#000"/>
+  <circle cx="296.2" cy="143.8" r="3" fill="#000"/>
+  <circle cx="175.5" cy="53.2" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="10.8" y="189.2">ω₁</text>
+    <text x="408" y="194.1">ω₂</text>
+    <text x="212.5" y="81.5">A</text>
+    <text x="198.5" y="233.2">B</text>
+    <text x="108.6" y="158.7">O₁</text>
+    <text x="296.8" y="158.7">O₂</text>
+    <text x="163.4" y="47">C</text>
+  </g>
+</svg>

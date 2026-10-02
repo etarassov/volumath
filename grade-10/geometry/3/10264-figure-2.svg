@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 335 335" width="320" height="320">
+  <polygon points="167.7,26.0 57.7,257.0 277.7,257.0" fill="none" stroke="#000" stroke-width="1.3"/>
+  <circle cx="167.7" cy="167.7" r="141.7" fill="none" stroke="#888" stroke-width="0.9"/>
+  <line x1="167.7" y1="257.0" x2="167.7" y2="309.4" fill="none" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+  <line x1="277.7" y1="257.0" x2="167.7" y2="309.4" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="206.2" y1="106.8" x2="167.7" y2="106.8" fill="none" stroke="#000" stroke-width="0.9"/>
+  <polyline points="273.4,248.1 264.5,252.3 268.8,261.3" fill="none" stroke="#000" stroke-width="0.9"/>
+  <polyline points="175.9,106.8 175.9,98.5 167.7,98.5" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="167.7" y1="187.5" x2="206.2" y2="106.8" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="206.2" y1="106.8" x2="167.7" y2="167.7" fill="none" stroke="#1f4fa0" stroke-width="1.3"/>
+  <line x1="277.7" y1="257.0" x2="167.7" y2="187.5" fill="none" stroke="#1f4fa0" stroke-width="1.3"/>
+  <line x1="167.7" y1="26.0" x2="167.7" y2="257.0" fill="none" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+  <circle cx="167.7" cy="309.4" r="2.3" fill="#000"/>
+  <circle cx="167.7" cy="106.8" r="2.3" fill="#000"/>
+  <circle cx="167.7" cy="257.0" r="2.3" fill="#000"/>
+  <circle cx="167.7" cy="26.0" r="2.3" fill="#000"/>
+  <circle cx="57.7" cy="257.0" r="2.3" fill="#000"/>
+  <circle cx="277.7" cy="257.0" r="2.3" fill="#000"/>
+  <circle cx="167.7" cy="187.5" r="2.3" fill="#000"/>
+  <circle cx="167.7" cy="167.7" r="2.3" fill="#000"/>
+  <circle cx="206.2" cy="106.8" r="2.3" fill="#000"/>
+  <text x="167.7" y="328.8" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">S</text>
+  <text x="156.7" y="111.7" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">N</text>
+  <text x="159.4" y="272.8" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">M</text>
+  <text x="167.7" y="16.4" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">A</text>
+  <text x="49.4" y="272.8" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">B</text>
+  <text x="285.9" y="272.8" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">C</text>
+  <text x="156.7" y="192.4" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">I</text>
+  <text x="156.7" y="172.6" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">O</text>
+  <text x="217.2" y="111.7" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">D</text>
+</svg>

@@ -1,0 +1,495 @@
+{
+ "unit": "envois-algebre-2012-2019",
+ "source": "pofm-envois",
+ "title": "Envois POFM, Algèbre, années 2012 à 2019",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "10401",
+  "10600"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2012-2013",
+   "label": "Envoi 4 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi4-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi4-corrige.pdf"
+   }
+  },
+  {
+   "year": "2013-2014",
+   "label": "Envoi 3 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-3-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-3-solutions.pdf"
+   }
+  },
+  {
+   "year": "2014-2015",
+   "label": "Envoi 4 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-4-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-4-solutions.pdf"
+   }
+  },
+  {
+   "year": "2015-2016",
+   "label": "Envoi 3 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi-3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-3-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi-3-solutions.pdf"
+   }
+  },
+  {
+   "year": "2016-2017",
+   "label": "Envoi 2 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2016-2017-envoi-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-envoi-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2016-2017-envoi-2-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-envoi-2-solutions.pdf"
+   }
+  },
+  {
+   "year": "2017-2018",
+   "label": "Envoi 3 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-12_pofm-2017-2018-envoi3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/12/pofm-2017-2018-envoi3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2018-01_pofm-2017-2018-envoi3-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2018/01/pofm-2017-2018-envoi3-corrige.pdf"
+   }
+  },
+  {
+   "year": "2018-2019",
+   "label": "Envoi 3 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2018-12_envoi-3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/12/envoi-3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2019-02_envoi-3-cor.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2019/02/envoi-3-cor.pdf"
+   }
+  }
+ ],
+ "next_document": 7,
+ "imported": [
+  "10401",
+  "10402",
+  "10403",
+  "10404",
+  "10405",
+  "10406",
+  "10407",
+  "10408",
+  "10409",
+  "10410",
+  "10411",
+  "10412",
+  "10413",
+  "10414",
+  "10415",
+  "10416",
+  "10417",
+  "10418",
+  "10419",
+  "10420",
+  "10421",
+  "10422",
+  "10423",
+  "10424",
+  "10425",
+  "10426",
+  "10427",
+  "10428",
+  "10429",
+  "10430",
+  "10431",
+  "10432",
+  "10433",
+  "10434",
+  "10435",
+  "10436",
+  "10437",
+  "10438",
+  "10439",
+  "10440",
+  "10441",
+  "10442",
+  "10443",
+  "10444",
+  "10445",
+  "10446",
+  "10447",
+  "10448",
+  "10449",
+  "10450",
+  "10451",
+  "10452",
+  "10453",
+  "10454",
+  "10455",
+  "10456",
+  "10457",
+  "10458",
+  "10459",
+  "10460",
+  "10461",
+  "10462",
+  "10463"
+ ],
+ "skipped": [
+  {
+   "where": "2017-10_ofm-2015-2016-envoi-3.pdf, Exercices du groupe B, exercice 1",
+   "why": "déjà dans la collection : f(x)f(y) − f(xy) = x + y, placé en 1re (difficulté 3), placement défendable",
+   "existing": "8477"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "10404",
+   "tool": "aucun outil hors programme : a³ + b³ + c³ ⩾ 3abc démontré par une identité",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10405",
+   "tool": "inéquation fonctionnelle (aucun outil hors programme, le thème algebra convient mal)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10406",
+   "tool": "aucun outil hors programme : inégalité de la tangente pour 1/u², démontrée par factorisation",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10407",
+   "tool": "équation fonctionnelle (aucun outil hors programme, le thème algebra convient mal)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10408",
+   "tool": "aucun outil hors programme : le lemme a²/p + b²/q ⩾ (a+b)²/(p+q) remplace Cauchy-Schwarz et est démontré",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10409",
+   "tool": "aucun outil hors programme : solution algébrique à la place de la trigonométrie et de la convexité du corrigé",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10410",
+   "tool": "aucun outil hors programme : produit membre à membre d'inégalités entre nombres positifs",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10411",
+   "tool": "aucun outil hors programme : écriture de P à l'aide de P(−1), P(0), P(1) et inégalité triangulaire",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10412",
+   "tool": "aucun outil hors programme : factorisation par √a − 1",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10415",
+   "tool": "aucun outil hors programme : l'inégalité de Cauchy-Schwarz du corrigé est remplacée par une somme de carrés",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10416",
+   "tool": "équation fonctionnelle ; existence d'un rationnel entre deux réels, expliquée dans la solution",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10418",
+   "tool": "formules d'addition du sinus (Terminale), rappelées dans la solution",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10421",
+   "tool": "aucun outil hors programme : l'inégalité arithmético-géométrique du corrigé est remplacée par x + 1/x ⩾ 2, démontrée avec un carré",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10423",
+   "tool": "équation fonctionnelle sur les entiers ; aucun outil hors programme",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10425",
+   "tool": "inégalité arithmético-géométrique, démontrée dans la solution à partir de ln t ⩽ t − 1",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10426",
+   "tool": "équation fonctionnelle ; majoration puis récurrence, aucun outil hors programme",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10427",
+   "tool": "aucun outil hors programme : somme télescopique et encadrement",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10428",
+   "tool": "lemme de Gauss (arithmétique de maths expertes)",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10430",
+   "tool": "aucun outil hors programme : (1 + s)² ⩾ 4s et x ⩾ x² sur [0, 1]",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10431",
+   "tool": "équation fonctionnelle ; aucun outil hors programme",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10432",
+   "tool": "aucun outil hors programme : √(xy) ⩽ (x + y)/2, démontrée avec un carré",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10434",
+   "tool": "inégalité arithmético-géométrique, démontrée dans la solution à partir de ln t ⩽ t − 1",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10436",
+   "tool": "équation fonctionnelle ; densité des rationnels, démontrée dans la solution avec la partie entière",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10437",
+   "tool": "aucun outil hors programme : partie entière et t + 1/t ⩾ 2",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10438",
+   "tool": "aucun outil hors programme : dénombrement de listes au lieu de la formule du binôme",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10439",
+   "tool": "aucun outil hors programme : une suite d'entiers strictement décroissante",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10441",
+   "tool": "équation fonctionnelle ; aucun outil hors programme",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10442",
+   "tool": "e^u ⩾ 1 + u et transformation d'Abel, démontrées dans la solution ; le corrigé utilise Muirhead ou Karamata",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10446",
+   "tool": "aucun outil hors programme : (a + b − c)² ⩾ 0",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10447",
+   "tool": "aucun outil hors programme : valeur absolue et signes",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10448",
+   "tool": "équation fonctionnelle ; aucun outil hors programme",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10450",
+   "tool": "équation fonctionnelle ; aucun outil hors programme",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10451",
+   "tool": "aucun outil hors programme : l'identité u³ + v³ + w³ − 3uvw remplace l'inégalité arithmético-géométrique du corrigé",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10452",
+   "tool": "polynômes de degré quelconque et identification des coefficients ; le développement de (X − 1)^d est démontré par récurrence",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10453",
+   "tool": "aucun outil hors programme : valeur absolue et sommes doubles",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10454",
+   "tool": "injectivité, surjectivité et fonction réciproque, expliquées dans la solution",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10455",
+   "tool": "aucun outil hors programme : u² + v² ⩾ 2uv remplace l'inégalité arithmético-géométrique à trois termes du corrigé",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10456",
+   "tool": "aucun outil hors programme : chaque terme est minoré par un carré, à la place de l'inégalité de Cauchy-Schwarz sous forme de fractions du corrigé",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10458",
+   "tool": "aucun outil hors programme : somme et produit de x et y, factorisations ; remplace l'inégalité arithmético-géométrique pondérée du corrigé",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10459",
+   "tool": "équation fonctionnelle sur les rationnels ; puissances rationnelles a^x = e^(x ln a)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10460",
+   "tool": "aucun outil hors programme : télescopage et minoration par des puissances de 2",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10461",
+   "tool": "aucun outil hors programme : raisonnement par l'absurde, produits comparés facteur par facteur",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10462",
+   "tool": "équation fonctionnelle ; injectivité, et croissances comparées (k qᵏ tend vers 0)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10463",
+   "tool": "nombres complexes (module, argument, racines conjuguées), maths expertes ; le théorème de d'Alembert-Gauss est admis",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2017-10_ofm-2013-2014-envoi-3.pdf, exercice 6 (et son corrigé)",
+   "what": "L'énoncé impose a, b, c strictement positifs, mais la plus petite valeur 2 + √2 n'est atteinte que pour (a, b, c) = (0, √2, 2) à l'ordre près : avec a, b, c > 0 il n'y a pas de minimum, seulement une borne inférieure. Le corrigé écrit aussi « égalité pour a = b = c = 2 » au lieu de √2. Publié (10415) avec a, b, c dans [0, 2]."
+  },
+  {
+   "where": "2017-10_ofm-2013-2014-envoi-3-solutions.pdf, exercice 1",
+   "what": "Coquille sans conséquence : le produit final est recopié « abcbdefgh » au lieu de abcdefgh (10410)."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-4.pdf, exercice 7",
+   "what": "L'énoncé dit n ⩾ 0, mais la racine n-ième n'a pas de sens pour n = 0. Publié (10425) avec n ⩾ 1."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-4.pdf, exercice 9",
+   "what": "L'énoncé demande un encadrement strict pour tout entier n > 0, mais pour n = 1 l'inégalité de droite est une égalité (f(a) = a + a²). Publié (10427) avec n ⩾ 2."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-4-solutions.pdf, exercice 5",
+   "what": "Coquilles dans le corrigé : f(2b + 1 − f(y)) au lieu de f(2b − 1 − f(y)), E_{ab,0} au lieu de E_{0,b}, et le cas a = 0 est mal recopié. La solution publiée (10423) est réécrite entièrement."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi-3-solutions.pdf, exercice 6",
+   "what": "Le corrigé donne les solutions x^a et −x^a « avec a ⩾ 0 », mais a = 0 donne un polynôme constant, que l'énoncé exclut : il faut a ⩾ 1. Publié (10433) avec a ⩾ 1."
+  },
+  {
+   "where": "2018-12_envoi-3.pdf, exercice 2",
+   "what": "L'énoncé prend x₁, …, xₙ ⩾ 0, mais alors un dénominateur xᵢ₊₁ + xᵢ₊₂ peut être nul et la somme n'a pas de sens. Publié (10456) avec des réels strictement positifs."
+  },
+  {
+   "where": "2019-02_envoi-3-cor.pdf, exercice 8",
+   "what": "Coquille sans conséquence : la substitution « x = y f(y)⁻¹ » doit se lire x = (y f(y))⁻¹ (10462)."
+  }
+ ],
+ "notes": [
+  "2012-2013 envoi 4 : les 9 exercices importés. Pour 10406, 10408 et 10409, le corrigé utilise des outils au-delà du programme (inégalité des moyennes à n termes, Cauchy-Schwarz, convexité et trigonométrie) ; les solutions publiées les remplacent par des arguments élémentaires démontrés dans le texte.",
+  "2013-2014 envoi 3 : les 9 exercices importés (10410 à 10418). 10414 remplace la récurrence forte du corrigé par l'examen du premier terme qui dépasserait 400 (la récurrence n'est vue qu'en Terminale) ; 10416 remplace les suites de rationnels et le théorème des gendarmes par un argument direct avec un rationnel bien choisi ; 10417 suit l'« autre solution » du corrigé (limites et dérivée).",
+  "2014-2015 envoi 4 : les 10 exercices importés (10419 à 10428), aucun doublon trouvé. 10422 : le corrigé ne vérifie pas la réciproque pour t = 6/5, elle est faite dans la solution. 10424 : le travail dans Z/10!Z est remplacé par les coefficients binomiaux. 10428 : les valuations p-adiques et les racines complexes du corrigé sont remplacées par le lemme de Gauss et un changement de variable ; le corrigé écrit la réponse w(vx + u)ⁿ après avoir trouvé w(vX − u)ⁿ, c'est la même famille.",
+  "2015-2016 envoi 3 : 8 exercices importés (10429 à 10436), 1 sauté (exercice 1, déjà présent en 8477). 10433 : la solution compare les termes de plus bas degré au lieu de dériver. 10434 : le développement par polynômes symétriques élémentaires du corrigé est remplacé par un raisonnement par l'absurde avec l'inégalité entre moyennes. 10435 : la solution suit l'« autre solution » du corrigé, plus courte.",
+  "2016-2017 envoi 2 : 9 exercices importés (10437 à 10445), aucun sauté, aucun doublon trouvé. 10439 est l'exercice 1 de l'OIM 2014. 10438 : le corrigé utilise la formule du binôme, la solution compte des listes de boules. 10442 : la récurrence forte du corrigé est remplacée par e^u ⩾ 1 + u et une transformation d'Abel, qui n'utilisent pas l'ordre des x_i. 10443 : la solution suit le reste b − ⌊√b⌋², qui diminue en au plus deux étapes, au lieu des deux cas du corrigé. 10445 : la solution montre même |a + b√2 + c√3| > 10^(−20).",
+  "Document 5 (2017-2018 envoi 3) : 9 exercices importés, aucun saut. L'exercice 4 porte sur la fraction r/a_r = k + 1 (pdfsupers.py la déforme en '_{a} ^{r} _{r}' ; vérifié sur la page rendue). 10451 remplace l'inégalité arithmético-géométrique du corrigé par l'identité u³ + v³ + w³ − 3uvw = (u + v + w)·½Σ(u − v)². 10452 suit la solution par les coefficients du corrigé, la factorisation P(0) = P(−1) est laissée en « Going further ». Aucun doublon trouvé avec similar.py ni grep pour les neuf exercices.",
+  "Document 6 (2018-2019 envoi 3) : 9 exercices importés (10455 à 10463), aucun saut, aucun doublon trouvé avec similar.py ni grep. 10461 remplace la récurrence du corrigé par un raisonnement par l'absurde court (si la somme dépasse n(n − 1), chaque xᵢ dépasse n − xᵢ₊₁). 10462 démontre l'injectivité avec une minoration y f(y) ⩾ C et les croissances comparées. 10463 (maths expertes) détaille le choix de l'exposant M pour les racines de module 1 par un argument de tiroirs, que le corrigé laisse allusif. 10458 est classé difficulté 5 en 2de."
+ ],
+ "updated": "2026-10-01"
+}

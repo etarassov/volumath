@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="390" viewBox="0 0 410 390">
+<rect width="410" height="390" fill="#fff"/>
+<circle cx="205.7" cy="206.6" r="152.9" fill="none" stroke="#000" stroke-width="1.4"/>
+<circle cx="170.9" cy="261.4" r="119.5" fill="none" stroke="#000" stroke-width="1.4" stroke-dasharray="6 4"/>
+<polygon points="55.0,232.0 349.0,260.0 237.0,57.0" fill="none" stroke="#000" stroke-width="1.4"/>
+<line x1="340.7" y1="292.9" x2="81.1" y2="95.0" stroke="#000" stroke-width="1.1"/>
+<line x1="246.6" y1="354.0" x2="374.6" y2="185.9" stroke="#000" stroke-width="0.9" stroke-dasharray="3 3"/>
+<circle cx="55.0" cy="232.0" r="2.6" fill="#000"/>
+<circle cx="349.0" cy="260.0" r="2.6" fill="#000"/>
+<circle cx="237.0" cy="57.0" r="2.6" fill="#000"/>
+<circle cx="290.2" cy="254.4" r="2.6" fill="#000"/>
+<circle cx="146.0" cy="144.5" r="2.6" fill="#000"/>
+<circle cx="205.7" cy="206.6" r="2.6" fill="#000"/>
+<circle cx="246.6" cy="354.0" r="2.6" fill="#000"/>
+<circle cx="374.6" cy="185.9" r="2.6" fill="#000"/>
+<text x="42.0" y="234.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">A</text>
+<text x="362.0" y="266.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">B</text>
+<text x="241.0" y="43.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="279.2" y="268.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">E</text>
+<text x="134.0" y="136.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">F</text>
+<text x="215.7" y="198.6" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">O</text>
+<text x="240.6" y="369.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">P</text>
+<text x="386.6" y="179.9" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">Q</text>
+<text x="294.2" y="64.3" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle">Ω</text>
+<text x="69.2" y="350.3" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle">Γ</text>
+</svg>

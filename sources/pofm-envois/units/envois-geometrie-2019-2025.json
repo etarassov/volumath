@@ -1,0 +1,382 @@
+{
+ "unit": "envois-geometrie-2019-2025",
+ "source": "pofm-envois",
+ "title": "Envois POFM, Géométrie, années 2019 à 2025",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "10201",
+  "10400"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2019-2020",
+   "label": "Envoi 1 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2019-10_sujet-envoi-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/10/sujet-envoi-1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2019-12_corrige-commentaire-envoi-1.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2019/12/corrigé-commentaire-envoi-1.pdf"
+   }
+  },
+  {
+   "year": "2020-2021",
+   "label": "Envoi 1 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2020-10_Sujet-envoi-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/10/Sujet-envoi-1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2020-11_corrige-envoi-1.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2020/11/corrigé-envoi-1.pdf"
+   }
+  },
+  {
+   "year": "2021-2022",
+   "label": "Envoi 1 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2021-11_Sujet-envoi-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/11/Sujet-envoi-1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2021-12_corrige-envoi-1.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2021/12/corrigé-envoi-1.pdf"
+   }
+  },
+  {
+   "year": "2022-2023",
+   "label": "Envoi 1 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2022-11_Sujet-envoi-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/11/Sujet-envoi-1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2022-12_corrige-envoi-1.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2022/12/corrigé-envoi-1.pdf"
+   }
+  },
+  {
+   "year": "2023-2024",
+   "label": "Envoi 1 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2023-11_Sujet-envoi-1-2023-2024.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/11/Sujet-envoi-1-2023-2024.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2023-04_Corrige-envoi-1-2023-2024.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2023/04/Corrige-envoi-1-2023-2024.pdf"
+   }
+  },
+  {
+   "year": "2024-2025",
+   "label": "Envoi 1 (Géométrie)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2024-11_Sujet-envoi-1-2024-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2024/11/Sujet-envoi-1-2024-2025.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2025-01_Corrige-envoi-1-2024-2025.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Corrige-envoi-1-2024-2025.pdf"
+   }
+  }
+ ],
+ "next_document": 6,
+ "imported": [
+  "10201",
+  "10202",
+  "10203",
+  "10204",
+  "10205",
+  "10206",
+  "10207",
+  "10208",
+  "10209",
+  "10210",
+  "10211",
+  "10212",
+  "10213",
+  "10214",
+  "10215",
+  "10216",
+  "10217",
+  "10218",
+  "10219",
+  "10220",
+  "10221",
+  "10222",
+  "10223",
+  "10224",
+  "10225",
+  "10226",
+  "10227",
+  "10228",
+  "10229",
+  "10230",
+  "10231",
+  "10232",
+  "10233",
+  "10234",
+  "10235",
+  "10236",
+  "10237",
+  "10238",
+  "10239",
+  "10240",
+  "10241",
+  "10242",
+  "10243",
+  "10244",
+  "10245",
+  "10246",
+  "10247",
+  "10248",
+  "10249",
+  "10250",
+  "10251",
+  "10252",
+  "10253",
+  "10254",
+  "10255",
+  "10256",
+  "10257",
+  "10258",
+  "10259",
+  "10260",
+  "10261",
+  "10262",
+  "10263",
+  "10264",
+  "10265",
+  "10266",
+  "10267",
+  "10268",
+  "10269",
+  "10270",
+  "10271",
+  "10272",
+  "10273",
+  "10274",
+  "10275",
+  "10276",
+  "10277",
+  "10278",
+  "10279",
+  "10280",
+  "10281",
+  "10282",
+  "10283",
+  "10284",
+  "10285",
+  "10286",
+  "10287"
+ ],
+ "skipped": [
+  {
+   "where": "2019-10_sujet-envoi-1.pdf, Exercices Juniors, exercice 1",
+   "why": "doublon : le parallélogramme des milieux (Varignon) est déjà dans la collection au même niveau",
+   "existing": "0359"
+  },
+  {
+   "where": "2019-10_sujet-envoi-1.pdf, Exercices Seniors, exercice 14",
+   "why": "doublon : le centre du carré construit sur un côté est sur la bissectrice, déjà importé au même niveau",
+   "existing": "8913"
+  },
+  {
+   "where": "2020-10_Sujet-envoi-1.pdf, Exercices Juniors, exercice 1",
+   "why": "doublon : déjà dans la collection au même niveau (feuille POFM importée par ClubLyon)",
+   "existing": "0878"
+  },
+  {
+   "where": "2020-10_Sujet-envoi-1.pdf, Exercices Juniors, exercice 2",
+   "why": "doublon : déjà dans la collection au même niveau (feuille POFM importée par ClubLyon)",
+   "existing": "0879"
+  },
+  {
+   "where": "2020-10_Sujet-envoi-1.pdf, Exercices Juniors, exercice 3",
+   "why": "doublon : déjà dans la collection au même niveau (feuille POFM importée par ClubLyon)",
+   "existing": "0895"
+  },
+  {
+   "where": "2021-11_Sujet-envoi-1.pdf, Exercices Juniors, exercice 2",
+   "why": "doublon : déjà dans la collection au même niveau (feuille POFM importée par ClubLyon)",
+   "existing": "0886"
+  },
+  {
+   "where": "2022-11_Sujet-envoi-1.pdf, Exercices Juniors, exercice 5",
+   "why": "doublon : déjà dans la collection au même niveau (2de), importé depuis le test de mai 2015",
+   "existing": "12228"
+  },
+  {
+   "where": "2022-11_Sujet-envoi-1.pdf, Exercices Juniors, exercice 6",
+   "why": "doublon : déjà dans la collection au même niveau (3e)",
+   "existing": "12416"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "10213",
+   "tool": "théorème de Pascal (géométrie projective)",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "10258",
+   "tool": "théorème de Pascal (géométrie projective), cercle mixtilinéaire",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "10287",
+   "tool": "inversion",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  }
+ ],
+ "see_also_added": [
+  {
+   "id": "10215",
+   "other": "1220"
+  }
+ ],
+ "source_errors": [
+  {
+   "where": "2019-10_sujet-envoi-1.pdf, Exercices Juniors, exercice 9",
+   "what": "l'énoncé oublie de supposer le triangle acutangle (sans cette hypothèse le cercle de centre O tangent à (BC) n'est pas dans la bonne position) ; le corrigé reconnaît l'oubli. Hypothèse rétablie dans 10208."
+  },
+  {
+   "where": "2019-12_corrige-commentaire-envoi-1.pdf, exercice 12",
+   "what": "le corrigé écrit que (BE) est tangente au cercle Ω en B, il s'agit du cercle Γ (coquille, la preuve est juste). Voir 10209."
+  },
+  {
+   "where": "2019-10_sujet-envoi-1.pdf, Exercices Seniors, exercice 17",
+   "what": "l'énoncé n'exclut pas AB = AC ; dans ce cas A, I et T sont alignés et le cercle circonscrit à AIT n'existe pas. Hypothèse AB ≠ AC ajoutée dans 10212."
+  },
+  {
+   "where": "2020-10_Sujet-envoi-1.pdf, Exercices Juniors, exercice 6",
+   "what": "le résultat est faux si l'angle en A est obtus ; hypothèse ajoutée dans 10216."
+  },
+  {
+   "where": "2020-10_Sujet-envoi-1.pdf, Exercices Seniors, exercice 10",
+   "what": "l'énoncé suppose implicitement BA ≠ BC (détail mineur), précisé dans 10220."
+  },
+  {
+   "where": "2020-10_Sujet-envoi-1.pdf, Exercices Seniors, exercice 16",
+   "what": "l'énoncé parle des droites (AB) et (AD) ; si un seul des points E, F est de l'autre côté de A, le résultat est faux. Corrigé avec des demi-droites dans 10226."
+  },
+  {
+   "where": "2020-10_Sujet-envoi-1.pdf, Exercices Seniors, exercice 17",
+   "what": "l'énoncé ne dit pas de quel côté de (BC) est le cercle ωA ; avec les cercles du côté du sommet le résultat est faux (vérifié numériquement). On prend le côté opposé, comme sur la figure du corrigé, dans 10227."
+  },
+  {
+   "where": "2021-11_Sujet-envoi-1.pdf, Exercices Juniors, exercice 4 (et Seniors 12)",
+   "what": "l'énoncé n'exclut pas que P soit diamétralement opposé à T ; ce cas est écarté dans 10231."
+  },
+  {
+   "where": "2021-12_corrige-envoi-1.pdf, exercice 6",
+   "what": "le corrigé échange les noms de deux milieux (coquille mineure, la preuve est juste). Voir 10233."
+  },
+  {
+   "where": "2021-12_corrige-envoi-1.pdf, exercice 9",
+   "what": "le corrigé écrit OE = OD au lieu de OE = O′D, et ses déductions sur le parallélogramme et le trapèze ont des trous. Preuve complète dans 10236."
+  },
+  {
+   "where": "2021-11_Sujet-envoi-1.pdf, Exercices Seniors, exercice 16",
+   "what": "l'énoncé oublie AB ≠ AC (sinon Y = A, X = H et les deux droites sont confondues) et l'hypothèse « pas d'angle droit » ; le corrigé applique aussi une chasse aux angles dépendant de la figure au triangle obtusangle HBC. Corrigé dans 10241 avec des angles orientés."
+  },
+  {
+   "where": "2022-11_Sujet-envoi-1.pdf, Exercices Juniors, exercice 8",
+   "what": "l'énoncé oublie AB ≠ AC : pour un triangle isocèle en A les trois droites sont parallèles. Importé en 10249 avec l'hypothèse ajoutée."
+  },
+  {
+   "where": "2022-12_corrige-envoi-1.pdf, exercice 14",
+   "what": "le corrigé écrit « γ et Ω sont tangents » au lieu de γ et ω, et « perpendiculaire à (AC) » au lieu de (AI) (coquilles, la preuve est juste). Voir 10254."
+  },
+  {
+   "where": "2022-11_Sujet-envoi-1.pdf, Exercices Seniors, exercice 15",
+   "what": "l'énoncé prend Y sur la droite (AX) : quand BAX < XAC deux points conviennent et la conclusion est fausse pour celui qui n'est pas sur la demi-droite [AX) ; l'énoncé oublie aussi que l'angle en A doit être aigu ; dans la solution alternative du corrigé, lire YC/YA = AC/AB et non AC/BC. Corrigé dans 10255."
+  },
+  {
+   "where": "2022-12_corrige-envoi-1.pdf, exercice 18",
+   "what": "dans sa dernière étape le corrigé écrit que la droite (YZ) passe par P, il s'agit de (XY) ; dans la preuve de son lemme il écrit « milieu du segment [EF] » au lieu de [DF] (coquilles, la preuve est juste). Voir 10258."
+  },
+  {
+   "where": "2023-11_Sujet-envoi-1-2023-2024.pdf, Exercices Juniors, exercice 4",
+   "what": "l'énoncé oublie l'hypothèse AB ≠ AC, sans laquelle le point S n'est pas défini. Corrigé dans 10262."
+  },
+  {
+   "where": "2023-11_Sujet-envoi-1-2023-2024.pdf, Exercices Juniors, exercice 7 (repris en Seniors 14)",
+   "what": "l'énoncé dit seulement « un triangle » : il faut exclure les angles droits, et la droite (DE) ne recoupe le cercle circonscrit que si l'angle en C est aigu. Corrigé dans 10265."
+  },
+  {
+   "where": "2023-11_Sujet-envoi-1-2023-2024.pdf, Exercices Juniors, exercice 8",
+   "what": "l'énoncé oublie de supposer AB ≠ AC et D distinct de A et de B ; si AB = AC les droites (BK) et (CL) sont confondues et T n'existe pas. Corrigé dans 10266."
+  },
+  {
+   "where": "2023-11_Sujet-envoi-1-2023-2024.pdf, Exercices Juniors, exercice 9",
+   "what": "l'énoncé oublie deux cas dégénérés : D au point de contact du cercle inscrit, et E ou F confondu avec A, où une des droites n'existe pas. Corrigé dans 10267."
+  },
+  {
+   "where": "2024-11_Sujet-envoi-1-2024-2025.pdf, Exercices Juniors, exercice 5",
+   "what": "l'énoncé oublie deux hypothèses : X doit être différent de B, et l'angle ADB doit être aigu. Sans elles, par exemple pour A(0, 0), B(10, 0), D(2, 1), le seul point X de la demi-droite [BD) tel que CX = CB est B lui-même, et la conclusion est fausse. Hypothèses ajoutées dans 10277."
+  },
+  {
+   "where": "2024-11_Sujet-envoi-1-2024-2025.pdf, Exercices Juniors, exercice 8",
+   "what": "l'énoncé suppose implicitement AP ≠ AB et AP ≠ AC ; sinon deux des points sont confondus avec B ou C et la droite n'est pas définie. Hypothèse ajoutée dans 10280."
+  },
+  {
+   "where": "2025-01_Corrige-envoi-1-2024-2025.pdf, exercice 13",
+   "what": "dans la chaîne d'égalités du corrigé, lire EG · EK = EG · EH + x · EG et non EG · EF + x · EG (coquille, la preuve est juste). Voir 10283."
+  },
+  {
+   "where": "2024-11_Sujet-envoi-1-2024-2025.pdf, Exercices Seniors, exercice 17",
+   "what": "l'énoncé affirme que les trois droites sont toujours concourantes, mais elles sont parallèles quand P est sur le cercle qui passe par les pieds des hauteurs. « ou parallèles » ajouté dans 10286."
+  },
+  {
+   "where": "2024-11_Sujet-envoi-1-2024-2025.pdf, Exercices Seniors, exercice 18",
+   "what": "ni l'énoncé ni le corrigé ne signalent le cas particulier où le second cercle fixe se réduit à un point (rayon de l'image de Ω égal à la moitié du rayon de Γ). Phrase ajoutée dans 10287, et cas traité dans la solution."
+  }
+ ],
+ "notes": [
+  "2019-2020 : les exercices Seniors 10, 11 et 13 sont la copie mot pour mot des exercices Juniors 3, 4 et 6 ; importés une seule fois (10202, 10203, 10205).",
+  "2019-2020 : 10211 (Seniors 16) et 10212 (Seniors 17) sont résolus autrement que dans le corrigé (vecteurs et relation d'Euler pour 10211, théorème des cordes pour 10212), ce qui permet de les placer en 1re sans outil hors programme.",
+  "2020-2021 : 10218 utilise une preuve plus simple que le corrigé.",
+  "2020-2021 : 10219 et 10205 utilisent le même lemme (les bissectrices sont perpendiculaires) mais ce sont deux problèmes différents.",
+  "2020-2021 : la preuve de 10220 traite les deux dispositions de la figure.",
+  "2020-2021 : 10223 n'a pas besoin de la similitude du triangle AEF utilisée dans le corrigé ; 10224 démontre le lemme de la symétrie avec des vecteurs.",
+  "2020-2021 : 10225, 10226 et 10228 évitent les similitudes, la loi des sinus et les axes radicaux du corrigé (coordonnées, produit scalaire, aires), ce qui permet de les placer en 1re sans outil hors programme.",
+  "2020-2021 : 10227 remplace le théorème de Céva trigonométrique du corrigé par des triangles semblables et le théorème de Céva démontré avec des aires.",
+  "2021-2022 : les exercices Seniors 11 et 12 sont la copie mot pour mot des exercices Juniors 3 et 4 ; importés une seule fois (10230, 10231).",
+  "2021-2022 : 10230 ajoute une hypothèse d'angles aigus pour fixer la figure ; 10231 utilise des triangles semblables (côté, angle, côté) au lieu de la réciproque de la puissance d'un point.",
+  "2021-2022 : 10233 suit la variante de Thalès du corrigé (3e) ; 10234 traite le cas EF ∥ AD par une symétrie ; 10235 est une preuve directe sans conjugués isogonaux (3e) ; 10236 donne une preuve complète avec la symétrie de centre I ; 10237 utilise la méthode du losange.",
+  "2021-2022 : 10238 et 10242 utilisent la puissance d'un point écrite au produit scalaire (1re), ce qui évite les cas de figure ; 10239 utilise la relation d'Euler et le produit scalaire, sans le cas isocèle séparé ni les axes radicaux du corrigé.",
+  "2021-2022 : 10240 passe par le point de Miquel et 10241 par des angles orientés de droites, au lieu des similitudes du corrigé, ce qui rend le changement de rôle avec le triangle obtusangle HBC valable.",
+  "2021-2022 : 10243 (Seniors 18) remplace l'homothétie et le cercle exinscrit du corrigé par un calcul en coordonnées et des angles orientés ; l'énoncé suppose implicitement AB ≠ AC (sinon P et Q n'existent pas), hypothèse écrite dans 10243.",
+  "Doublon repéré après coup, au même niveau (3e) : 10202 (2019-2020 Juniors 3) est le même problème que 0887 (ClubLyon, Preparation.POFM.pdf, exercice 21). 10202 est gardé selon la consigne ; au coordinateur de n'en garder qu'un. Les autres paires signalées par vm.py check pour les ids 10201 à 10243 ont été relues : ce sont des problèmes différents.",
+  "2022-2023 : Exercices Seniors, exercice 10 est une copie mot pour mot de Juniors 2, importée une seule fois (10245).",
+  "2022-2023 : 10252 (Seniors 12) montre que l'hypothèse « triangle acutangle » de l'énoncé ne sert pas ; 10253 (Seniors 13) écrit l'hypothèse implicite AB ≠ AC.",
+  "2022-2023 : 10256 (Seniors 16) remplace le point de Miquel et la rotation du corrigé par des aires et des bissectrices ; 10257 (Seniors 17, théorème de Droz-Farny) remplace les trois cercles concourants du corrigé par des coordonnées, ce qui le place en 1re.",
+  "2022-2023 : 10258 (Seniors 18) garde le théorème de Pascal du corrigé (hors programme) mais démontre l'alignement de T, Y, V par des points cocycliques au lieu des symédianes, et justifie la disposition des points.",
+  "2023-2024 : les exercices Seniors 10, 12, 13 et 14 sont la copie mot pour mot des exercices Juniors 2, 3, 5 et 7 ; ils sont importés une seule fois (10260, 10261, 10263, 10265), la référence cite les deux numéros.",
+  "2023-2024 : preuves réécrites pour valoir dans toutes les dispositions : 10260 traite les deux cas BC < BA et BC > BA ; 10262 évite la distinction de cas ; 10263 et 10264 passent par des triangles semblables au lieu d'une chasse aux angles sur une seule figure ; 10265 utilise le produit scalaire ; 10266 se passe des axes radicaux ; 10267 utilise des abscisses et le produit scalaire ; 10269 traite les deux positions de N sur la droite (BC).",
+  "2023-2024 : 10270 remplace le théorème de Thalès du corrigé par des vecteurs ; 10271 et 10272 remplacent l'homothétie et la preuve synthétique du corrigé par un calcul en coordonnées, d'où la difficulté 5. 10271 écrit l'hypothèse implicite que (AO) n'est pas parallèle à (BC), sans laquelle le point C2 n'existe pas.",
+  "2024-2025 : les exercices Seniors 11, 12 et 15 sont la copie mot pour mot des exercices Juniors 2, 3 et 9 ; ils sont importés une seule fois (10274, 10275, 10281), la référence cite les deux numéros.",
+  "2024-2025 : preuves réécrites avec des outils du niveau visé : 10273 (symétrie axiale), 10274 (triangles isocèles et angles alternes-internes), 10275 (longueurs), 10276 ((EF) médiatrice de [AI]), 10277 (hypothèses ajoutées), 10278 (coordonnées et produit scalaire au lieu des axes radicaux), 10279 (outils du collège), 10280 (produit scalaire au lieu de l'axe radical), 10281 (preuve complète du lemme de la symédiane), 10284 (un losange, niveau 4e), 10285 (chasse aux angles au lieu de l'inversion de centre J), 10286 (trois symétries axiales au lieu du conjugué isogonal).",
+  "2024-2025 : 10287 (Seniors 18) garde l'inversion du corrigé (hors programme, Terminale, difficulté 5) ; la solution démontre que le cercle des milieux a pour rayon r/2 par une homothétie de centre le centre de gravité, et traite le cas particulier où un des deux cercles fixes se réduit à un point.",
+  "Fin du lot : les 87 exercices 10201 à 10287 ont été reconstruits ensemble sans aucun avertissement de pandoc ; dans chaque PDF le nombre de figures est égal au nombre d'images du fichier et de fichiers SVG. Les paires « même niveau » signalées par vm.py check pour les ids 10244 à 10287 ont été relues (10271, 10247, 10250, 10265, 10275, 10276, 10287 contre les fichiers proposés) : ce sont des problèmes différents."
+ ],
+ "updated": "2026-10-01"
+}

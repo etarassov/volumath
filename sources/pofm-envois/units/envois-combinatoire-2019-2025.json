@@ -1,0 +1,420 @@
+{
+ "unit": "envois-combinatoire-2019-2025",
+ "source": "pofm-envois",
+ "title": "Envois POFM, Combinatoire, années 2019 à 2025",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "11401",
+  "11600"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2019-2020",
+   "label": "Envoi 4 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2020-01_EnvoiCombiFinal.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/01/EnvoiCombiFinal.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2020-03_corrige-commente-envoi-4.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2020/03/corrigé-commenté-envoi-4.pdf"
+   }
+  },
+  {
+   "year": "2020-2021",
+   "label": "Envoi 4 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2021-01_sujet-envoi-4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/01/sujet-envoi-4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2021-03_Corrige-envoi-4.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2021/03/Corrigé-envoi-4.pdf"
+   }
+  },
+  {
+   "year": "2021-2022",
+   "label": "Envoi 4 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2022-02_sujet-envoi-4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/sujet-envoi-4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2022-04_corrige-envoi-4.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2022/04/corrigé-envoi-4.pdf"
+   }
+  },
+  {
+   "year": "2022-2023",
+   "label": "Envoi 4 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2023-02_Sujet-envoi-4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/02/Sujet-envoi-4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2023-03_corrige-envoi-4.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2023/03/corrigé-envoi-4.pdf"
+   }
+  },
+  {
+   "year": "2023-2024",
+   "label": "Envoi 4 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2023-04_Sujet-envoi-4-2023-2024.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/04/Sujet-envoi-4-2023-2024.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2024-03_corrige-envoi-4-2023-2024.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2024/03/corrige-envoi-4-2023-2024.pdf"
+   }
+  },
+  {
+   "year": "2024-2025",
+   "label": "Envoi 4 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2025-03_Sujet-envoi-4-2024-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/03/Sujet-envoi-4-2024-2025.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2025-05_Corrige-envoi-4-2024-2025.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/05/Corrige-envoi-4-2024-2025.pdf"
+   }
+  }
+ ],
+ "next_document": 6,
+ "imported": [
+  "11401",
+  "11402",
+  "11403",
+  "11404",
+  "11405",
+  "11406",
+  "11407",
+  "11408",
+  "11409",
+  "11410",
+  "11411",
+  "11412",
+  "11413",
+  "11414",
+  "11415",
+  "11416",
+  "11417",
+  "11418",
+  "11419",
+  "11420",
+  "11421",
+  "11422",
+  "11423",
+  "11424",
+  "11425",
+  "11426",
+  "11427",
+  "11428",
+  "11429",
+  "11430",
+  "11431",
+  "11432",
+  "11433",
+  "11434",
+  "11435",
+  "11436",
+  "11437",
+  "11438",
+  "11439",
+  "11440",
+  "11441",
+  "11442",
+  "11443",
+  "11444",
+  "11445",
+  "11446",
+  "11447",
+  "11448",
+  "11449",
+  "11450",
+  "11451",
+  "11452",
+  "11453",
+  "11454",
+  "11455",
+  "11456",
+  "11457",
+  "11458",
+  "11459",
+  "11460",
+  "11461",
+  "11462",
+  "11463",
+  "11464",
+  "11465",
+  "11466",
+  "11467",
+  "11468",
+  "11469",
+  "11470",
+  "11471",
+  "11472",
+  "11473",
+  "11474",
+  "11475"
+ ],
+ "skipped": [
+  {
+   "where": "2020-01_EnvoiCombiFinal.pdf, exercice 1",
+   "why": "déjà dans la collection : tours qui ne se menacent pas sur un échiquier, la version de 0154 (8 tours) demande au moins autant",
+   "existing": "0154"
+  },
+  {
+   "where": "2020-01_EnvoiCombiFinal.pdf, exercice 2",
+   "why": "déjà dans la collection : effacer deux nombres de 1 à 2020 et écrire leur somme ou leur différence, même invariant de parité",
+   "existing": "7408"
+  },
+  {
+   "where": "2020-01_EnvoiCombiFinal.pdf, exercice 3",
+   "why": "déjà dans la collection : football à trois joueurs (0689 en 3e est le même problème aussi)",
+   "existing": "0739"
+  },
+  {
+   "where": "2020-01_EnvoiCombiFinal.pdf, exercice 7",
+   "why": "déjà dans la collection : n chapeaux de n couleurs (1409 en Terminale est le même problème aussi)",
+   "existing": "8648"
+  },
+  {
+   "where": "2020-01_EnvoiCombiFinal.pdf, exercice 10",
+   "why": "même texte que l'exercice 4 du même envoi, importé une seule fois comme 11401"
+  },
+  {
+   "where": "2020-01_EnvoiCombiFinal.pdf, exercice 11",
+   "why": "déjà dans la collection : 2019 personnes autour d'une table tournante, deux noms finissent par coïncider",
+   "existing": "8868"
+  },
+  {
+   "where": "2020-01_EnvoiCombiFinal.pdf, exercice 12",
+   "why": "même texte que l'exercice 5 du même envoi, importé une seule fois comme 11402"
+  },
+  {
+   "where": "2020-01_EnvoiCombiFinal.pdf, exercice 13",
+   "why": "déjà dans la collection : 2N cartes prises à un bout ou à l'autre",
+   "existing": "8646"
+  },
+  {
+   "where": "2021-01_sujet-envoi-4.pdf, exercice 2",
+   "why": "déjà dans la collection : 50 pièces en ligne, on retourne deux voisines, peut-on avoir 25 faces blanches (la référence de 0708 cite cet envoi)",
+   "existing": "0708"
+  },
+  {
+   "where": "2021-01_sujet-envoi-4.pdf, exercice 3",
+   "why": "déjà dans la collection : 42 élèves en file, chacun a plus de cailloux que son voisin de droite",
+   "existing": "8667"
+  },
+  {
+   "where": "2021-01_sujet-envoi-4.pdf, exercice 10",
+   "why": "déjà dans la collection : répartir des objets identiques entre plusieurs personnes, même méthode des barres et des étoiles (7133 en 1re est proche aussi)",
+   "existing": "1001"
+  },
+  {
+   "where": "2021-01_sujet-envoi-4.pdf, exercice 11",
+   "why": "même texte que l'exercice 4 du même envoi, importé une seule fois comme 11412"
+  },
+  {
+   "where": "2021-01_sujet-envoi-4.pdf, exercice 13",
+   "why": "même texte que l'exercice 6 du même envoi, importé une seule fois comme 11414"
+  },
+  {
+   "where": "2021-01_sujet-envoi-4.pdf, exercice 14",
+   "why": "même texte que l'exercice 7 du même envoi, importé une seule fois comme 11415"
+  },
+  {
+   "where": "2021-01_sujet-envoi-4.pdf, exercice 16",
+   "why": "même texte que l'exercice 9 du même envoi, importé une seule fois comme 11417"
+  },
+  {
+   "where": "2022-02_sujet-envoi-4.pdf, exercice 2",
+   "why": "déjà dans la collection : 33 carottes, le fermier en enlève 1 et en plante 7, le lapin en mange 4, même invariant modulo 3",
+   "existing": "0707"
+  },
+  {
+   "where": "2022-02_sujet-envoi-4.pdf, exercice 10",
+   "why": "même texte que l'exercice 4 du même envoi, importé une seule fois comme 11424"
+  },
+  {
+   "where": "2022-02_sujet-envoi-4.pdf, exercice 11",
+   "why": "déjà dans la collection : 2n pièces en cercle, une seule noire, deux sortes de retournements, peut-on tout retourner",
+   "existing": "8582"
+  },
+  {
+   "where": "2022-02_sujet-envoi-4.pdf, exercice 12",
+   "why": "déjà dans la collection : somme des inverses des produits de toutes les parties non vides de {1, ..., n}, qui vaut n",
+   "existing": "7522"
+  },
+  {
+   "where": "2022-02_sujet-envoi-4.pdf, exercice 13",
+   "why": "même texte que l'exercice 7 du même envoi, importé une seule fois comme 11427"
+  },
+  {
+   "where": "2023-02_Sujet-envoi-4.pdf, exercice 1",
+   "why": "déjà dans la collection : six paniers de poires, de pêches et de pommes, même énoncé et même raisonnement",
+   "existing": "0715"
+  },
+  {
+   "where": "2023-02_Sujet-envoi-4.pdf, exercice 3",
+   "why": "déjà dans la collection : découper un carré en n carrés, pour quels n est-ce possible",
+   "existing": "7952"
+  },
+  {
+   "where": "2023-02_Sujet-envoi-4.pdf, exercice 5",
+   "why": "déjà dans la collection en 2de : jeu sur l'échiquier 8 × 8, empêcher un carré 2 × 2 tout rouge",
+   "existing": "8645"
+  },
+  {
+   "where": "2023-04_Sujet-envoi-4-2023-2024.pdf, Exercices Juniors, exercice 1",
+   "why": "déjà dans la collection en 4e : jeu de la course à une cible, où chacun avance de 1 ou 2 (ici des lettres de l'alphabet), positions perdantes de 3 en 3 ; même idée que 0877 (allumettes) et 8876 (course à 56)",
+   "existing": "0877"
+  },
+  {
+   "where": "2023-04_Sujet-envoi-4-2023-2024.pdf, Exercices Juniors, exercice 2",
+   "why": "déjà dans la collection en 4e : découper des morceaux de papier et chercher un invariant modulo 3 (ici 7 morceaux, puis 4, 7 ou 10, et 2021 impossible)",
+   "existing": "7213"
+  },
+  {
+   "where": "2023-04_Sujet-envoi-4-2023-2024.pdf, Exercices Seniors, exercice 10",
+   "why": "reprise mot pour mot de l'exercice 2 des Juniors",
+   "existing": "7213"
+  },
+  {
+   "where": "2023-04_Sujet-envoi-4-2023-2024.pdf, Exercices Seniors, exercice 11",
+   "why": "reprise mot pour mot de l'exercice 3 des Juniors, importé en 11450",
+   "existing": "11450"
+  },
+  {
+   "where": "2023-04_Sujet-envoi-4-2023-2024.pdf, Exercices Seniors, exercice 14",
+   "why": "reprise mot pour mot de l'exercice 8 des Juniors, importé en 11455",
+   "existing": "11455"
+  },
+  {
+   "where": "2025-03_Sujet-envoi-4-2024-2025.pdf, Exercices Juniors, exercice 3",
+   "why": "même problème déjà présent au même niveau (3e), avec la même réponse",
+   "existing": "8942"
+  },
+  {
+   "where": "2025-03_Sujet-envoi-4-2024-2025.pdf, Exercices Seniors, exercice 10",
+   "why": "reprise mot pour mot de l'exercice 1 des Juniors, importé en 11463",
+   "existing": "11463"
+  },
+  {
+   "where": "2025-03_Sujet-envoi-4-2024-2025.pdf, Exercices Seniors, exercice 11",
+   "why": "reprise mot pour mot de l'exercice 4 des Juniors, importé en 11465",
+   "existing": "11465"
+  },
+  {
+   "where": "2025-03_Sujet-envoi-4-2024-2025.pdf, Exercices Seniors, exercice 12",
+   "why": "reprise mot pour mot de l'exercice 6 des Juniors, importé en 11467",
+   "existing": "11467"
+  },
+  {
+   "where": "2025-03_Sujet-envoi-4-2024-2025.pdf, Exercices Seniors, exercice 16",
+   "why": "reprise mot pour mot de l'exercice 9 des Juniors, importé en 11470",
+   "existing": "11470"
+  }
+ ],
+ "beyond_programme": [],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2020-03_corrige-commente-envoi-4.pdf, solution des exercices 5 et 12",
+   "what": "la grille à 7 colonnes donnée en exemple est fausse : les lignes 1 et 7 ont la même lettre dans deux colonnes, de même pour les lignes 2 et 8. 11402 donne une grille corrigée (lignes décalées de façon cyclique)."
+  },
+  {
+   "where": "2021-01_sujet-envoi-4.pdf, exercice 5",
+   "what": "l'énoncé partage l'« ensemble » des écarts |xi - xj| ; il faut compter chaque écart autant de fois qu'il apparaît, sinon c'est faux (0, 1, 2 donne l'ensemble {1, 2}). 11413 le précise."
+  },
+  {
+   "where": "2021-01_sujet-envoi-4.pdf, exercice 15",
+   "what": "l'énoncé du sujet oublie que le graphe est non vide, sans quoi la conclusion est fausse ; le corrigé l'ajoute. 11419 le précise."
+  },
+  {
+   "where": "2022-04_corrige-envoi-4.pdf, solution de l'exercice 9",
+   "what": "le corrigé écrit b² − b + 5 ⩽ 0 au lieu de b² − b + 6 ⩽ 0 (et E = 3b au lieu de E ⩽ 3b) ; la conclusion reste juste. 11429 donne le calcul corrigé."
+  },
+  {
+   "where": "2022-02_sujet-envoi-4.pdf, exercice 14",
+   "what": "l'énoncé ne suppose pas n ⩾ 2 ; pour n = 1 il n'y a qu'un rectangle et l'énoncé est faux. 11430 suppose n ⩾ 2."
+  },
+  {
+   "where": "2023-02_Sujet-envoi-4.pdf, exercice 2",
+   "what": "l'énoncé ne dit pas que les 10 bateaux sont en mer à un même moment, ce que le commentaire des correcteurs demande d'ajouter ; 11435 le précise."
+  },
+  {
+   "where": "2023-02_Sujet-envoi-4.pdf, exercice 9",
+   "what": "l'énoncé ne donne pas le signe des nombres ; le corrigé suppose sans le dire qu'ils sont strictement positifs. 11440 le suppose et traite les autres signes dans « Pour aller plus loin »."
+  },
+  {
+   "where": "2023-03_corrige-envoi-4.pdf, solution de l'exercice 12",
+   "what": "le corrigé affirme « si n ⩽ 2, la réponse est n », ce qui est faux pour n = 1 : il reste 0 et 1, donc 2 nombres. 11443 donne la bonne réponse (2 si n est une puissance de 2, 3 sinon, pour n ⩾ 1)."
+  },
+  {
+   "where": "2023-02_Sujet-envoi-4.pdf, exercice 15",
+   "what": "l'énoncé laisse sous-entendu que les murs sont en nombre fini, qu'il y en a au moins un et que (0, 0) n'est sur aucun mur ; 11446 le dit."
+  },
+  {
+   "where": "2023-03_corrige-envoi-4.pdf, solution de l'exercice 17",
+   "what": "le corrigé écrit 4n − dext(a) + dext(b) au lieu de 4n − (dext(a) + dext(b)) ; la conclusion reste juste. 11448 donne le calcul corrigé."
+  },
+  {
+   "where": "2023-03_corrige-envoi-4.pdf, solution de l'exercice 18",
+   "what": "le corrigé écrit « en remplaçant un motif RR par un motif RES » au lieu de ES ; la conclusion reste juste. 11449 donne le tableau complet des effets."
+  },
+  {
+   "where": "2024-03_corrige-envoi-4-2023-2024.pdf, solution de l'exercice 8 (et 14)",
+   "what": "le corrigé caractérise les positions gagnantes mais n'écrit jamais la liste finale des configurations demandée ; 11455 la donne : (50, 50), (33, 67), (67, 33), (5, 95), (95, 5)."
+  },
+  {
+   "where": "2024-03_corrige-envoi-4-2023-2024.pdf, solution de l'exercice 9",
+   "what": "dans le cas |W| > 0, le corrigé applique son lemme sans vérifier son hypothèse (k, ℓ < 2m) ; 11456 refait la majoration par cas."
+  },
+  {
+   "where": "2024-03_corrige-envoi-4-2023-2024.pdf, solution de l'exercice 12",
+   "what": "la minoration écrit « de taille inférieure à k − 1 » au lieu de « au plus k − 1 », et le décompte de la construction (bornes ⌊(k+1)/2⌋ et ⌊k/2⌋ − 1) n'est pas justifié ; 11457 refait le décompte avec des droites tangentes à un cercle."
+  },
+  {
+   "where": "2024-03_corrige-envoi-4-2023-2024.pdf, solution de l'exercice 15",
+   "what": "le corrigé affirme que dans chacune de ses deux suites exactement un sommet sur deux est colorié, ce qui ne découle pas de ce qui précède ; 11459 refait la fin de la preuve par paires symétriques."
+  },
+  {
+   "where": "2024-03_corrige-envoi-4-2023-2024.pdf, solution de l'exercice 16",
+   "what": "la chaîne d'inégalités mélange ⩽ et ⩾, et la ligne de la construction écrit ⩽ là où il faut une égalité ; la réponse 2(N² − N + 1) reste juste. 11460 donne une preuve plus directe de la majoration."
+  },
+  {
+   "where": "2023-04_Sujet-envoi-4-2023-2024.pdf, exercice 18",
+   "what": "l'énoncé oublie n ⩾ 2 : pour un seul cercle, S est vide et |S| ⩾ n est faux. 11462 ajoute l'hypothèse."
+  },
+  {
+   "where": "2025-05_Corrige-envoi-4-2024-2025.pdf, solution de l'exercice 17",
+   "what": "la construction mélange les notations B_i et E_i, et une ligne de la récurrence écrit k + 1 − (j − 1) = k + 2 − (j − 1) en oubliant le dernier saut ; la réponse (k+1)(k+2)/2 reste juste. 11474 refait la majoration avec des blocs et deux règles de saut."
+  }
+ ],
+ "notes": [
+  "2019-2020 : les exercices 4 et 10, et 5 et 12, sont mot pour mot les mêmes (Juniors et Seniors) ; chacun est importé une seule fois (11401, 11402).",
+  "2020-2021 : les exercices 4 et 11, 6 et 13, 7 et 14, 9 et 16 sont mot pour mot les mêmes ; chacun est importé une seule fois (11412, 11414, 11415, 11417). 11416 (Metropolis) utilise le coloriage en deux couleurs des régions découpées par des droites, qui existe seul en 1824 (1re) et 4805 (Terminale) ; c'est un autre problème, placé en 2de.",
+  "2021-2022 : les exercices 4 et 10, et 7 et 13, sont mot pour mot les mêmes ; chacun est importé une seule fois (11424, 11427). 11428 (trois chiffres égaux à la suite sur un polygone, pour 2019, 2020 et 2021 sommets) demande plus que 8744 (2de), qui ne traite que le cas pair ; les deux sont en 2de, à arbitrer.",
+  "2021-2022 : 11432 traite la question 1 pour tout n ⩾ 8 (n pair, ou n impair ⩾ 9), ce que l'énoncé appelle « n assez grand ». 11434 (2021 élèves sans trio d'amis, k = 808) est différent de 8668 et 7078 (théorème de Mantel) : ici l'imparité de 2021 force une ronde impaire, d'où 2n/5.",
+  "2022-2023 : aucun texte n'est répété entre Juniors et Seniors dans cet envoi. Réécritures : les bandits armés de l'exercice 11 deviennent des pistolets à eau (11442), le graphe et ses culs-de-sac de l'exercice 14 deviennent des villes et des routes fragiles (11445), le graphe de l'exercice 17 devient des enfants et des bonbons (11448). 11444 (dominos et diagonales) fait en entier l'étude des cas que le corrigé laisse au lecteur, vérifiée par un programme. 11437 remplace l'inégalité de Cauchy-Schwarz par une preuve directe.",
+  "2023-2024 : les exercices 10, 11 et 14 des Seniors reprennent mot pour mot les exercices 2, 3 et 8 des Juniors, importés une seule fois. 11455 (deux piles, retirer au plus la moitié d'une pile) est un autre problème que les versions à une seule pile 8642 et 0327 (2de) : il faut ici combiner les deux piles. 11454 (pavage par dominos sans ligne de faille, réponse 6) contient comme simple lemme l'argument de parité de 8925 (3e) ; problèmes différents. Vérifications par ordinateur : 11454 (6 pavages 5 × 6 sans faille), 11459 (dans un 13-gone, 5 sommets coloriés forcent déjà un triangle isocèle, et 4 ne suffisent pas), 11460 (formule 2N² − 2N + 2 vérifiée pour N = 2 à 5). 11462 cite les quatre cercles de Johnson comme cas d'égalité.",
+  "2024-2025 : les exercices 10, 11, 12 et 16 des Seniors reprennent mot pour mot les exercices 1, 4, 6 et 9 des Juniors, importés une seule fois (11463, 11465, 11467, 11470) ; l'exercice 3 (Juniors) est 8942. Les réponses de 11469 (2^{nm} − 1), 11471, 11472 (n − 2 ou n − 3, vérifié jusqu'à n = 9), 11474 ((k+1)(k+2)/2) et 11475 (n impair) ont été vérifiées par ordinateur sur les petits cas. Pour 11475, le corrigé laisse implicite le champignon de la case centrale quand n ≡ 1 (mod 4), mais sa figure pour n = 9 le montre ; 11475 le dit."
+ ],
+ "updated": "2026-10-01"
+}

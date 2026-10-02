@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="340" viewBox="0 0 340 340">
+  <circle cx="170.0" cy="170.0" r="137.3" fill="none" stroke="#000" stroke-width="1.4"/>
+  <circle cx="137.9" cy="139.7" r="96.5" fill="none" stroke="#777" stroke-width="1.0" stroke-dasharray="4,3"/>
+  <path d="M 105.8 48.7 L 46.9 230.7 L 293.1 230.7 Z" fill="none" stroke="#000" stroke-width="1.6"/>
+  <path d="M 105.8 48.7 L 196.1 304.8" fill="none" stroke="#000" stroke-width="1.0"/>
+  <circle cx="105.8" cy="48.7" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="46.9" cy="230.7" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="293.1" cy="230.7" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="170.0" cy="170.0" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="105.8" cy="170.1" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="170.0" cy="230.7" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="196.1" cy="304.8" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="45.1" cy="112.9" r="3.0" fill="#000" stroke="none"/>
+  <text x="105.8" y="40.7" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="middle">A</text>
+  <text x="38.9" y="234.7" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="end">B</text>
+  <text x="301.1" y="234.7" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">C</text>
+  <text x="177.0" y="165.0" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">O</text>
+  <text x="97.8" y="168.1" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="end">H</text>
+  <text x="174.0" y="246.7" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">M</text>
+  <text x="200.1" y="322.8" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">N</text>
+  <text x="37.1" y="108.9" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="end">P</text>
+</svg>

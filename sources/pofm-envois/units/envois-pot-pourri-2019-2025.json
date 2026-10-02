@@ -1,0 +1,509 @@
+{
+ "unit": "envois-pot-pourri-2019-2025",
+ "source": "pofm-envois",
+ "title": "Envois POFM, Pot-pourri, années 2019 à 2025",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "11801",
+  "12000"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2019-2020",
+   "label": "Envoi 5 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2020-02_sujet-envoi-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/02/sujet-envoi-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2020-04_corrige-commente-envoi-5.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2020/04/corrig%C3%A9-comment%C3%A9-envoi-5.pdf"
+   }
+  },
+  {
+   "year": "2020-2021",
+   "label": "Envoi 5 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2021-02_sujet-envoi-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/02/sujet-envoi-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2021-04_corrige-envoi-5.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2021/04/corrigé-envoi-5.pdf"
+   }
+  },
+  {
+   "year": "2021-2022",
+   "label": "Envoi 5 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2022-03_sujet-envoi-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/03/sujet-envoi-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2022-05_corrige-envoi-5.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2022/05/corrigé-envoi-5.pdf"
+   }
+  },
+  {
+   "year": "2022-2023",
+   "label": "Envoi 5 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2023-03_Sujet-envoi-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/03/Sujet-envoi-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2023-07_corrige-envoi-5.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2023/07/corrige-envoi-5.pdf"
+   }
+  },
+  {
+   "year": "2023-2024",
+   "label": "Envoi 5 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2024-03_sujet-envoi-5-2023-2024.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2024/03/sujet-envoi-5-2023-2024.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2024-04_Corrige-envoi-5-2023-2024.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2024/04/Corrige-envoi-5-2023-2024.pdf"
+   }
+  },
+  {
+   "year": "2024-2025",
+   "label": "Envoi 5 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2025-04_Sujet-envoi-5-2024-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/04/Sujet-envoi-5-2024-2025.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2025-06_Corrige-envoi-5-2024-2025.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/06/Corrige-envoi-5-2024-2025.pdf"
+   }
+  }
+ ],
+ "next_document": 6,
+ "imported": [
+  "11801",
+  "11802",
+  "11803",
+  "11804",
+  "11805",
+  "11806",
+  "11807",
+  "11808",
+  "11809",
+  "11810",
+  "11811",
+  "11812",
+  "11813",
+  "11814",
+  "11815",
+  "11816",
+  "11817",
+  "11818",
+  "11819",
+  "11820",
+  "11821",
+  "11822",
+  "11823",
+  "11824",
+  "11825",
+  "11826",
+  "11827",
+  "11828",
+  "11829",
+  "11830",
+  "11831",
+  "11832",
+  "11833",
+  "11834",
+  "11835",
+  "11836",
+  "11837",
+  "11838",
+  "11839",
+  "11840",
+  "11841",
+  "11842",
+  "11843",
+  "11844",
+  "11845",
+  "11846",
+  "11847",
+  "11848",
+  "11849",
+  "11850",
+  "11851",
+  "11852",
+  "11853",
+  "11854",
+  "11855",
+  "11856",
+  "11857",
+  "11858",
+  "11859",
+  "11860",
+  "11861",
+  "11862",
+  "11863",
+  "11864",
+  "11865",
+  "11866",
+  "11867",
+  "11868",
+  "11869",
+  "11870",
+  "11871",
+  "11872",
+  "11873",
+  "11874",
+  "11875",
+  "11876",
+  "11877",
+  "11878",
+  "11879",
+  "11880",
+  "11881",
+  "11882",
+  "11883",
+  "11884",
+  "11885",
+  "11886"
+ ],
+ "skipped": [
+  {
+   "where": "2020-02_sujet-envoi-5.pdf, Exercices Juniors, exercice 2",
+   "why": "même problème (cinq points cocycliques, angle de 60°) déjà importé à la même classe",
+   "existing": "7749"
+  },
+  {
+   "where": "2020-02_sujet-envoi-5.pdf, Exercices Juniors, exercice 5",
+   "why": "même problème (échiquier blanc rendu noir par échanges de couleurs) déjà importé à la même classe",
+   "existing": "8240"
+  },
+  {
+   "where": "2020-02_sujet-envoi-5.pdf, Exercices Seniors, exercice 11",
+   "why": "même équation fonctionnelle déjà importée en Terminale",
+   "existing": "8929"
+  },
+  {
+   "where": "2020-02_sujet-envoi-5.pdf, Exercices Seniors, exercice 14",
+   "why": "copie mot pour mot de l'exercice 7 du même envoi (exercice commun aux deux groupes), importé une seule fois",
+   "existing": "11805"
+  },
+  {
+   "where": "2021-02_sujet-envoi-5.pdf, Exercices Juniors, exercice 4",
+   "why": "même équation x² − 2·y! = 2021 déjà importée",
+   "existing": "8434"
+  },
+  {
+   "where": "2021-02_sujet-envoi-5.pdf, Exercices Seniors, exercice 10",
+   "why": "copie mot pour mot de l'exercice 1 du même envoi, importé une seule fois",
+   "existing": "11815"
+  },
+  {
+   "where": "2021-02_sujet-envoi-5.pdf, Exercices Seniors, exercice 14",
+   "why": "même problème (polynôme dont les coefficients sont les chiffres d'un nombre premier) déjà importé en Terminale",
+   "existing": "8167"
+  },
+  {
+   "where": "2022-03_sujet-envoi-5.pdf, Exercices Juniors, exercice 3",
+   "why": "même problème (deux cercles sécants, cinq points D, O1, B, O2, C cocycliques) déjà importé en 1re",
+   "existing": "8743"
+  },
+  {
+   "where": "2022-03_sujet-envoi-5.pdf, Exercices Seniors, exercice 10",
+   "why": "copie mot pour mot de l'exercice 2 du même envoi, importé une seule fois",
+   "existing": "11831"
+  },
+  {
+   "where": "2022-03_sujet-envoi-5.pdf, Exercices Seniors, exercice 12",
+   "why": "copie mot pour mot de l'exercice 3 du même envoi, problème déjà présent",
+   "existing": "8743"
+  },
+  {
+   "where": "2022-03_sujet-envoi-5.pdf, Exercices Seniors, exercice 14",
+   "why": "copie mot pour mot de l'exercice 8 du même envoi, importé une seule fois",
+   "existing": "11836"
+  },
+  {
+   "where": "2023-03_Sujet-envoi-5.pdf, Exercices Juniors, exercice 8",
+   "why": "même problème (x + y + z = 2, xy + yz + zx = 1, maximum de x − y) déjà importé en 1re ; placement défendable",
+   "existing": "8536"
+  },
+  {
+   "where": "2023-03_Sujet-envoi-5.pdf, Exercices Seniors, exercice 10",
+   "why": "copie mot pour mot de l'exercice 1 du même envoi, importé une seule fois",
+   "existing": "11844"
+  },
+  {
+   "where": "2023-03_Sujet-envoi-5.pdf, Exercices Seniors, exercice 11",
+   "why": "même problème et même méthode (colorier des entiers pour qu'un diviseur et son multiple soient de couleurs différentes, chaînes de puissances de 2) déjà importé en 2de avec les entiers de 2 à 31, et en 3e en 8571 ; ici les entiers de 1 à 2023, réponse 11",
+   "existing": "8305"
+  },
+  {
+   "where": "2023-03_Sujet-envoi-5.pdf, Exercices Seniors, exercice 12",
+   "why": "copie mot pour mot de l'exercice 5 du même envoi, importé une seule fois",
+   "existing": "11848"
+  },
+  {
+   "where": "2023-03_Sujet-envoi-5.pdf, Exercices Seniors, exercice 14",
+   "why": "copie mot pour mot de l'exercice 6 du même envoi, importé une seule fois",
+   "existing": "11849"
+  },
+  {
+   "where": "2024-03_sujet-envoi-5-2023-2024.pdf, Exercices Seniors, exercice 10",
+   "why": "copie mot pour mot de l'exercice 1 du même envoi, importé une seule fois",
+   "existing": "11857"
+  },
+  {
+   "where": "2024-03_sujet-envoi-5-2023-2024.pdf, Exercices Seniors, exercice 11",
+   "why": "copie mot pour mot de l'exercice 2 du même envoi, importé une seule fois",
+   "existing": "11858"
+  },
+  {
+   "where": "2024-03_sujet-envoi-5-2023-2024.pdf, Exercices Seniors, exercice 13",
+   "why": "copie mot pour mot de l'exercice 5 du même envoi, importé une seule fois",
+   "existing": "11861"
+  },
+  {
+   "where": "2025-04_Sujet-envoi-5-2024-2025.pdf, Exercices Seniors, exercice 12",
+   "why": "copie mot pour mot de l'exercice 6 du même envoi, importé une seule fois",
+   "existing": "11877"
+  },
+  {
+   "where": "2025-04_Sujet-envoi-5-2024-2025.pdf, Exercices Seniors, exercice 14",
+   "why": "copie mot pour mot de l'exercice 8 du même envoi, importé une seule fois",
+   "existing": "11879"
+  },
+  {
+   "where": "2025-04_Sujet-envoi-5-2024-2025.pdf, Exercices Seniors, exercice 15",
+   "why": "copie mot pour mot de l'exercice 9 du même envoi, importé une seule fois",
+   "existing": "11880"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "11812",
+   "tool": "polynômes de degré quelconque, ordre de multiplicité d'une racine (lemme prouvé dans la solution)",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "11813",
+   "tool": "angles orientés de droites, théorème de Pascal, similitudes directes (centre de similitude de deux cercles)",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "11814",
+   "tool": "graphes (connexité, degré) et méthode probabiliste",
+   "suggested_theme": "graph-theory",
+   "hors_programme": false
+  },
+  {
+   "id": "11821",
+   "tool": "inégalités (méthode de la tangente)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11826",
+   "tool": "congruences modulo p³, inverses modulo p (Bézout, Gauss), formule du binôme pour des polynômes",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11829",
+   "tool": "racines de l'unité, irréductibilité des polynômes cyclotomiques (admise), transformée de Fourier discrète, restes chinois",
+   "suggested_theme": "algebra",
+   "hors_programme": true
+  },
+  {
+   "id": "11831",
+   "tool": "inégalités (regroupement de termes deux à deux)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11837",
+   "tool": "inégalités (majoration d'un carré par une corde)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11841",
+   "tool": "angles orientés de droites, puissance d'un point",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "11843",
+   "tool": "graphes (orientations transitives), ordres totaux",
+   "suggested_theme": "graph-theory",
+   "hors_programme": false
+  },
+  {
+   "id": "11846",
+   "tool": "inégalités (moyenne arithmétique et géométrique de deux nombres)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11852",
+   "tool": "inégalités (x(1 − x) ⩽ 1/4), polynômes scindés",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11853",
+   "tool": "théorème de Bézout (maths expertes)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11860",
+   "tool": "inégalités (moyenne arithmétique et géométrique de deux nombres)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11862",
+   "tool": "inégalités (lemme de Titu, moyenne arithmétique et géométrique de trois nombres, démontrés dans la solution)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11868",
+   "tool": "inégalités (moyenne arithmétique et géométrique de deux nombres)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11872",
+   "tool": "inégalités (moyenne arithmétique et géométrique de deux nombres)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11879",
+   "tool": "inégalités (encadrement d'une somme pondérée, cas d'égalité)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11882",
+   "tool": "équations fonctionnelles sur les entiers",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  {
+   "id": "11822",
+   "other": "8543"
+  },
+  {
+   "id": "11832",
+   "other": "7740"
+  }
+ ],
+ "source_errors": [
+  {
+   "where": "2021-04_corrige-envoi-5.pdf, exercice 15",
+   "what": "la récurrence sur a divise par a modulo p³, ce qui n'est pas valable quand p divise a (lacune de preuve, le résultat reste vrai) ; 11826 donne une autre preuve, valable dans tous les cas"
+  },
+  {
+   "where": "2022-05_corrige-envoi-5.pdf, exercice 11",
+   "what": "la liste finale contient a = 3 (pour lequel a − 3 = 0 ne divise pas 24) et oublie a = 7 ; la bonne liste a 16 valeurs, donnée en 11838"
+  },
+  {
+   "where": "2022-05_corrige-envoi-5.pdf, exercice 7",
+   "what": "pour n pair, le corrigé affirme qu'une couleur couvre au moins (n+1)/2 cordes, alors qu'on ne peut garantir que n/2 (3 cordes pour n = 6, qui peuvent être disjointes), donc l'argument des tiroirs ne marche pas ; pour n = 7, les clous (a+b)/2, (a+c)/2, (b+c)/2 proposés ne donnent pas les couleurs a, b, c (il faut (a+b−c)/2, etc.). 11835 donne une preuve correcte des deux points"
+  },
+  {
+   "where": "2023-03_Sujet-envoi-5.pdf, exercices 5 et 12",
+   "what": "l'énoncé place Q sur la demi-droite [BA) avec AQ = DP, et R sur [CD) avec DR = AP : sur chaque demi-droite il peut y avoir deux tels points (l'un au-delà de A, l'autre entre B et A quand DP < AB), et avec le second la conclusion (PE) ⊥ (QR) est fausse. 11848 précise que Q est au-delà de A et R au-delà de D, ce que suppose le corrigé"
+  },
+  {
+   "where": "2023-07_corrige-envoi-5.pdf, exercice 16",
+   "what": "dans le calcul de s_{p−1}(k) − s_{p−1}(k+3), la ligne intermédiaire porte un signe faux, et la phrase de conclusion (« sp−1 vaut 1 modulo p et p est de la forme 3k + 1, p − 1 si… ») est mal recopiée ; la réponse finale est juste et vérifiée numériquement en 11854"
+  },
+  {
+   "where": "2024-03_sujet-envoi-5-2023-2024.pdf, exercices 1 et 10 (même énoncé)",
+   "what": "l'hypothèse AB ≠ AC manque : si AB = AC, le cercle AEF est tangent intérieurement à Ω en A et le point X n'existe pas ; ajoutée en 11857"
+  },
+  {
+   "where": "2024-03_sujet-envoi-5-2023-2024.pdf, exercice 18",
+   "what": "l'hypothèse AB ≠ AC manque : si AB = AC, les deux tangentes sont parallèles et R n'existe pas ; ajoutée en 11871"
+  },
+  {
+   "where": "2024-04_Corrige-envoi-5-2023-2024.pdf, exercice 9",
+   "what": "le corrigé dit que la somme alternée change de ±2 à chaque mouvement et raisonne modulo 4 ; elle change en fait de ±4 et l'argument doit se faire modulo 8. 11865 utilise un autre invariant, vérifié par recherche exhaustive sur les petits cas"
+  },
+  {
+   "where": "2024-04_Corrige-envoi-5-2023-2024.pdf, exercice 14",
+   "what": "coquille : « ABJ = CBJ = 90° − ABC/2 » doit se lire « ABE = CBJ = 90° − ABC/2 » (l'angle ABJ vaut 90° + ABC/2)"
+  },
+  {
+   "where": "2025-04_Sujet-envoi-5-2024-2025.pdf, exercice 16",
+   "what": "coquille dans la définition d'une suite géométrique : « u_{i+1} = q u_k » doit se lire « u_{i+1} = q u_i » ; corrigé dans 11884"
+  },
+  {
+   "where": "2025-04_Sujet-envoi-5-2024-2025.pdf, Exercices Seniors, exercice 10",
+   "what": "l'énoncé ne demande pas P ≠ A ; pour P = A on a S = T = A et la perpendicularité n'a pas de sens. Hypothèse ajoutée dans 11881"
+  },
+  {
+   "where": "2025-06_Corrige-envoi-5-2024-2025.pdf, exercice 18",
+   "what": "la dernière phrase dit « la seule possibilité lorsque n est pair » alors que tout le raisonnement porte sur n impair"
+  },
+  {
+   "where": "2025-06_Corrige-envoi-5-2024-2025.pdf, exercice 17",
+   "what": "coquille : « le cercle circonscrit au n-gone » pour le 2n-gone ; et dans l'énoncé, « au'il » pour « qu'il »"
+  }
+ ],
+ "notes": [
+  "2019-2020 : les exercices 7 et 14 sont identiques (exercice commun Juniors et Seniors) ; importé une fois en 11805.",
+  "2019-2020 : 11813 ajoute l'hypothèse AB ≠ AC à l'énoncé, sans laquelle le point T n'est pas défini (le cercle de diamètre [AS] est alors tangent à Ω en A).",
+  "2019-2020 : petites coquilles du corrigé, sans effet sur les conclusions (exercice 6 écrit 3^x − 1 pour 3^k + 1 ; exercice 18 dit « minimum » pour maximum ; exercice 15 manipule des bornes p ⩾ 10, p ⩾ 5 un peu vagues). Non comptées comme erreurs de source.",
+  "2020-2021 : les exercices 1 et 10 sont identiques ; importé une fois en 11815.",
+  "2020-2021 : coquille du corrigé de l'exercice 14 (α = 10 − p écrit à la place de p − 10), sans effet ; problème déjà présent en 8167.",
+  "2020-2021 : 8434 (x² − 2·y! = 2021) est en 1re alors que la solution n'utilise que des restes modulo 3 ; il pourrait descendre en 3e ou 2de. Non modifié (hors de mon bloc).",
+  "2020-2021 : 11822 (16 nombres au plus 100, deux différences égales) est voisin de 8543, même technique, version plus difficile ; liés par see_also.",
+  "2020-2021 : 11828 et 11829 suivent une autre preuve que le corrigé (repère et vecteurs pour 11828, transformée de Fourier discrète au lieu de Bézout pour les polynômes en 11829).",
+  "2021-2022 : trois exercices sont communs aux deux groupes et apparaissent deux fois (2 = 10, 3 = 12, 8 = 14) ; chacun est importé ou ignoré une seule fois.",
+  "2021-2022 : 11832 (onze entiers, signes, multiple de 2021) est la version 2021 de 7740 (année 2014), qui est en 1re difficulté 4, ce qui paraît élevé pour un principe des tiroirs ; liés par see_also depuis 11832, le lien retour sur 7740 est à ajouter par le coordinateur.",
+  "2021-2022 : petites coquilles du corrigé, sans effet sur les conclusions (exercice 6 : x² + 2y + 1 pour x² + 2y − 1 et « 15 ∤ 24 » pour 15 ∤ 18 ; exercice 17 : x_{2n+1} écrit pour x_{2n−1} et P_{2n−1} pour P_{n−1}). Non comptées comme erreurs de source.",
+  "2021-2022 : énoncés précisés sans changer le problème : 11842 suppose les termes positifs ou nuls (sinon |x_i − x_{i−1}| = a_i est impossible), 11843 demande des numéros entiers strictement positifs (avec 0 ou des négatifs la divisibilité ne marche plus), 11835 prend n ⩾ 3.",
+  "2021-2022 : 11841 et 11843 suivent une autre preuve que le corrigé (11841 : angles orientés pour ne pas dépendre de la figure, le calcul d'angles du corrigé dépend de la disposition des points et des essais numériques en montrent plusieurs ; 11843 : deux ordres totaux construits directement, plus court que la construction du corrigé).",
+  "2022-2023 : trois exercices sont communs aux deux groupes et apparaissent deux fois (1 = 10, 5 = 12, 6 = 14) ; chacun est importé une seule fois (11844, 11848, 11849).",
+  "2022-2023 : l'exercice 11 (Seniors, entiers de 1 à 2023, réponse 11) est une variante de 8305 (2de) et 8571 (3e), même méthode ; non importé.",
+  "2022-2023 : 11851 (exercice 9) ajoute l'hypothèse « l'angle en A n'est pas droit », sans laquelle les deux droites réfléchies sont parallèles ; sa preuve (symétrie par rapport à (CI)) diffère de celle du corrigé.",
+  "2022-2023 : petites coquilles du corrigé, sans effet sur les conclusions (exercice 1 : « 4 = z! … car 2! < 3 < 3! » ; exercice 7 : modulo 9 et parité de m mal écrits pour k = 3). Non comptées comme erreurs de source.",
+  "2022-2023 : 11849 (bloc de 1000 entiers consécutifs contenant exactement 5 premiers) utilise comme étape les suites d'entiers composés consécutifs de 8243 et 5009, mais pose une autre question ; pas un doublon.",
+  "2022-2023 : 11855 (exercice 17) suit une autre preuve que le corrigé, avec les polynômes N(x^m − x^k)^2 + 1, la dérivée en un minimum et le théorème des valeurs intermédiaires ; elle évite les exposants réels du corrigé. L'injectivité de l'énoncé est inutile, comme le dit le corrigé.",
+  "2022-2023 : 11856 (exercice 18) est en Terminale difficulté 5 sans étiquette hors-programme : toutes les propriétés utilisées (angle inscrit, côté = 2R sin, bissectrice extérieure, tangentes communes de deux cercles sécants) sont démontrées dans la solution. Positions des points vérifiées numériquement sur 3000 quadrilatères. 11854 (exercice 16) est en 1re difficulté 5 : seuls le dénombrement, une récurrence et le lemme des rotations (démontré) servent.",
+  "2023-2024 : les exercices Seniors 10, 11 et 13 sont des copies des exercices 1, 2 et 5 ; chacun est importé une seule fois (11857, 11858, 11861).",
+  "2023-2024 : 11865 (exercice 9) n'utilise pas l'invariant du corrigé, qui contient une erreur de module, mais Δ = (pommes dans les coupes impaires) − (poires dans les coupes impaires). 11867 (exercice 14) remplace la somme des angles autour de K du corrigé, qui dépend de la figure, par deux similitudes de centres B et C et un calcul de directions. 11866 (exercice 12, suite définie par une partie entière) est classé en functions-analysis, 1re.",
+  "2023-2024 : 11869 (exercice 16) lit « une autre équipe » comme « une autre équipe de S », seule lecture qui rend l'énoncé cohérent avec la réponse ⌈n/t⌉ du corrigé ; la référence le signale.",
+  "2023-2024 : 11871 (exercice 18) est en Terminale difficulté 5 sans étiquette hors-programme : la puissance d'un point et les relations du triangle rectangle sont démontrées dans la solution. Les positions relatives (P entre A et J et entre A1 et X, X du côté de B, O et R de part et d'autre de (AJ)) sont justifiées par des calculs d'angles et vérifiées numériquement sur 19991 triangles.",
+  "2024-2025 : les exercices 12, 14 et 15 des Seniors recopient les exercices 6, 8 et 9 des Juniors ; chacun est importé une seule fois (11877, 11879, 11880), la référence le signale.",
+  "2024-2025 : plusieurs solutions s'écartent du corrigé pour rester au niveau visé ou couvrir tous les cas : 11872 (moyenne de deux nombres au lieu de quatre), 11874 (triangles isocèles au lieu de quadrilatères inscriptibles), 11878 (calcul des arcs au lieu d'Al-Kashi), 11880 (couches et tiroirs au lieu d'une récurrence), 11881 (repère et produit scalaire, le corrigé ne traite qu'une configuration), 11883 (justifie la position de P₁, que le corrigé ne justifie pas), 11885 (puissance du point P au lieu de racines carrées), 11886 (les coupures entre couleurs traversent toute la grille, ce qui range les cas plus simplement que le corrigé).",
+  "2024-2025 : vérifications par ordinateur : 11875 (jeu de la tondeuse, m, n ⩽ 14), 11879 (k = 67), 11880 (contre-exemple à 2024 rectangles), 11884 (puissances de nombres premiers jusqu'à 20 000), 11886 (toutes les dispositions pour n de 1 à 6 : lignes forcément unicolores exactement pour n impair). 11883 et 11885 vérifiés numériquement sur des figures aléatoires.",
+  "2024-2025 : 11875 (jeu à deux joueurs sur un tableau) est classé en logic-reasoning, comme les autres jeux de la base, plutôt qu'en combinatorics."
+ ],
+ "updated": "2026-10-01"
+}

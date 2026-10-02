@@ -1,0 +1,33 @@
+{
+ "id": "pofm-envois",
+ "name": "POFM, envois d'entraînement par correspondance (Animath)",
+ "url": "https://maths-olympiques.fr/?page_id=71",
+ "original_language": "fr",
+ "added": "2026-10-01",
+ "brief": "sources/maths-olympiques-brief.md",
+ "files": "files.tsv lists every local copy with the URL it was downloaded from",
+ "local_copy": "sources/originals/pofm-envois/",
+ "what_it_is": [
+  "The problem sets mailed to students of the French olympiad preparation (POFM) during the",
+  "school year, five or six per year, each on one theme: géométrie, algèbre, arithmétique,",
+  "combinatoire, or a mixed pot-pourri. One statement file and one corrigé per mailing.",
+  "From 2019-2020 on, each mailing has three parts: Exercices Juniors, Exercices communs and",
+  "Exercices Seniors, about 18 problems. Before that, about 8 problems, often split the same way."
+ ],
+ "level": {
+  "junior": "'Le groupe junior est constitué des élèves nés en 2010 ou après' (2024-2025), so juniors are collège students, at most 3e.",
+  "senior": "Lycée students preparing for the international olympiads.",
+  "comment": "Students are selected by the Coupe Animath d'automne, so even the junior problems are olympiad training, not school exercises."
+ },
+ "scale": {
+  "school_years": "2012-2013 to 2024-2025",
+  "mailings": 68,
+  "pdf_files": 136,
+  "problems_estimate": 790
+ },
+ "how_it_was_enumerated": [
+  "The page at ?page_id=71 was fetched once on 2026-09-30. Its table gives, per school year, the",
+  "theme of each mailing with its statement and corrigé links. All 136 PDFs were downloaded.",
+  "The 2018-2019 pot-pourri corrigé is hosted at igm.univ-mlv.fr, its local copy starts with juge_."
+ ]
+}

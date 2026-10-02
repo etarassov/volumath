@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 353 441" width="353" height="441">
+  <circle cx="176.5" cy="176.5" r="150.5" fill="none" stroke="#000" stroke-width="1.3"/>
+  <circle cx="176.5" cy="264.2" r="150.5" fill="none" stroke="#888" stroke-width="0.9"/>
+  <polygon points="104.5,44.3 32.5,220.3 320.5,220.3" fill="none" stroke="#000" stroke-width="1.3"/>
+  <line x1="104.5" y1="44.3" x2="104.5" y2="220.3" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="32.5" y1="220.3" x2="147.4" y2="79.3" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="320.5" y1="220.3" x2="73.8" y2="119.4" fill="none" stroke="#000" stroke-width="0.9"/>
+  <polygon points="104.5,88.2 104.5,44.3 176.5,220.3 176.5,264.2" fill="none" stroke="#1f4fa0" stroke-width="1.3"/>
+  <line x1="104.5" y1="132.0" x2="248.5" y2="308.7" fill="none" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+  <line x1="104.5" y1="44.3" x2="248.5" y2="308.7" fill="none" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+  <line x1="32.5" y1="220.3" x2="248.5" y2="308.7" fill="none" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+  <line x1="320.5" y1="220.3" x2="248.5" y2="308.7" fill="none" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+  <circle cx="104.5" cy="44.3" r="2.3" fill="#000"/>
+  <circle cx="32.5" cy="220.3" r="2.3" fill="#000"/>
+  <circle cx="320.5" cy="220.3" r="2.3" fill="#000"/>
+  <circle cx="104.5" cy="132.0" r="2.3" fill="#000"/>
+  <circle cx="176.5" cy="176.5" r="2.3" fill="#000"/>
+  <circle cx="176.5" cy="220.3" r="2.3" fill="#000"/>
+  <circle cx="104.5" cy="88.2" r="2.3" fill="#000"/>
+  <circle cx="176.5" cy="264.2" r="2.3" fill="#000"/>
+  <circle cx="248.5" cy="308.7" r="2.3" fill="#000"/>
+  <text x="104.5" y="34.7" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">A</text>
+  <text x="21.5" y="225.2" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">B</text>
+  <text x="331.5" y="225.2" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">C</text>
+  <text x="93.5" y="136.9" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">H</text>
+  <text x="187.5" y="181.4" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">O</text>
+  <text x="176.5" y="239.7" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">M</text>
+  <text x="93.5" y="93.1" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">O1</text>
+  <text x="187.5" y="269.1" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">O2</text>
+  <text x="248.5" y="328.1" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">A'</text>
+</svg>

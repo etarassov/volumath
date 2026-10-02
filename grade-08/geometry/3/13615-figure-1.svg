@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="270" viewBox="0 0 580 270">
+  <polygon points="20.0,223.0 86.0,223.0 86.0,25.0 20.0,25.0" fill="#f3e6c8" stroke="none"/>
+  <polygon points="86.0,124.0 218.0,124.0 218.0,25.0 86.0,25.0" fill="#dbe8d4" stroke="none"/>
+  <polygon points="86.0,223.0 218.0,223.0 218.0,124.0 86.0,124.0" fill="#d4e2ee" stroke="none"/>
+  <rect x="20.0" y="25.0" width="198.0" height="198.0" fill="none" stroke="#000" stroke-width="1.4"/>
+  <line x1="86.0" y1="223.0" x2="86.0" y2="25.0" stroke="#a02020" stroke-width="3"/>
+  <line x1="86.0" y1="124.0" x2="218.0" y2="124.0" stroke="#a02020" stroke-width="3"/>
+  <text x="53.0" y="17.0" font-family="Helvetica" font-size="12" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">11 m</text>
+  <text x="152.0" y="17.0" font-family="Helvetica" font-size="12" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">22 m</text>
+  <text x="226.0" y="79.5" font-family="Helvetica" font-size="12" text-anchor="start" stroke="#fff" stroke-width="3" paint-order="stroke">16,5 m</text>
+  <text x="226.0" y="178.5" font-family="Helvetica" font-size="12" text-anchor="start" stroke="#fff" stroke-width="3" paint-order="stroke">16,5 m</text>
+  <text x="152.0" y="118.0" font-family="Helvetica" font-size="12" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">22 m</text>
+  <text x="81.0" y="65.0" font-family="Helvetica" font-size="12" text-anchor="end" stroke="#fff" stroke-width="3" paint-order="stroke">33 m</text>
+  <text x="119.0" y="245.0" font-family="Helvetica" font-size="13" text-anchor="middle">Avec 55 m de clôture</text>
+  <polygon points="320.0,223.0 374.0,223.0 398.0,124.0 374.0,25.0 320.0,25.0" fill="#f3e6c8" stroke="none"/>
+  <polygon points="374.0,25.0 518.0,25.0 518.0,124.0 398.0,124.0" fill="#dbe8d4" stroke="none"/>
+  <polygon points="398.0,124.0 518.0,124.0 518.0,223.0 374.0,223.0" fill="#d4e2ee" stroke="none"/>
+  <rect x="320.0" y="25.0" width="198.0" height="198.0" fill="none" stroke="#000" stroke-width="1.4"/>
+  <line x1="374.0" y1="223.0" x2="398.0" y2="124.0" stroke="#a02020" stroke-width="3"/>
+  <line x1="398.0" y1="124.0" x2="374.0" y2="25.0" stroke="#a02020" stroke-width="3"/>
+  <line x1="398.0" y1="124.0" x2="518.0" y2="124.0" stroke="#a02020" stroke-width="3"/>
+  <line x1="374.0" y1="124.0" x2="398.0" y2="124.0" stroke="#000" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="374.0" y1="223.0" x2="374.0" y2="25.0" stroke="#000" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="347.0" y="17.0" font-family="Helvetica" font-size="12" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">9 m</text>
+  <text x="446.0" y="17.0" font-family="Helvetica" font-size="12" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">24 m</text>
+  <text x="526.0" y="79.5" font-family="Helvetica" font-size="12" text-anchor="start" stroke="#fff" stroke-width="3" paint-order="stroke">16,5 m</text>
+  <text x="526.0" y="178.5" font-family="Helvetica" font-size="12" text-anchor="start" stroke="#fff" stroke-width="3" paint-order="stroke">16,5 m</text>
+  <text x="458.0" y="118.0" font-family="Helvetica" font-size="12" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">20 m</text>
+  <text x="384.0" y="142.0" font-family="Helvetica" font-size="12" text-anchor="middle" stroke="#fff" stroke-width="3" paint-order="stroke">4 m</text>
+  <text x="419.0" y="245.0" font-family="Helvetica" font-size="13" text-anchor="middle">Avec moins de 54 m de clôture</text>
+</svg>

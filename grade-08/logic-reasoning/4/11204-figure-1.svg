@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180">
+<rect x="0" y="0" width="480" height="180" fill="#ffffff"/>
+<rect x="55" y="30" width="90" height="90" fill="none" stroke="#000" stroke-width="1.5"/>
+<circle cx="55" cy="30" r="16" fill="#ffffff" stroke="#000" stroke-width="1.5"/>
+<text x="55" y="36" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">H</text>
+<circle cx="145" cy="30" r="16" fill="#ffffff" stroke="#000" stroke-width="1.5"/>
+<text x="145" y="36" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">H</text>
+<circle cx="145" cy="120" r="16" fill="#d8d8d8" stroke="#000" stroke-width="1.5"/>
+<text x="145" y="126" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">B</text>
+<circle cx="55" cy="120" r="16" fill="#ffffff" stroke="#000" stroke-width="1.5"/>
+<text x="55" y="126" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">H</text>
+<text x="100.0" y="165" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">situation A</text>
+<rect x="210" y="30" width="90" height="90" fill="none" stroke="#000" stroke-width="1.5"/>
+<circle cx="210" cy="30" r="16" fill="#ffffff" stroke="#000" stroke-width="1.5"/>
+<text x="210" y="36" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">H</text>
+<circle cx="300" cy="30" r="16" fill="#ffffff" stroke="#000" stroke-width="1.5"/>
+<text x="300" y="36" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">H</text>
+<circle cx="300" cy="120" r="16" fill="#d8d8d8" stroke="#000" stroke-width="1.5"/>
+<text x="300" y="126" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">B</text>
+<circle cx="210" cy="120" r="16" fill="#d8d8d8" stroke="#000" stroke-width="1.5"/>
+<text x="210" y="126" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">B</text>
+<text x="255.0" y="165" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">situation B</text>
+<rect x="365" y="30" width="90" height="90" fill="none" stroke="#000" stroke-width="1.5"/>
+<circle cx="365" cy="30" r="16" fill="#ffffff" stroke="#000" stroke-width="1.5"/>
+<text x="365" y="36" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">H</text>
+<circle cx="455" cy="30" r="16" fill="#d8d8d8" stroke="#000" stroke-width="1.5"/>
+<text x="455" y="36" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">B</text>
+<circle cx="455" cy="120" r="16" fill="#ffffff" stroke="#000" stroke-width="1.5"/>
+<text x="455" y="126" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">H</text>
+<circle cx="365" cy="120" r="16" fill="#d8d8d8" stroke="#000" stroke-width="1.5"/>
+<text x="365" y="126" font-family="Helvetica, Arial, sans-serif" font-size="17" text-anchor="middle" fill="#000">B</text>
+<text x="410.0" y="165" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">situation C</text>
+</svg>

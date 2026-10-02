@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" viewBox="0 0 480 350">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <rect x="50.0" y="52.0" width="320.0" height="240.0" fill="#eef3ee" stroke="#000" stroke-width="2"/>
+  <circle cx="50.0" cy="292.0" r="6" fill="#000"/>
+  <circle cx="370.0" cy="292.0" r="6" fill="#000"/>
+  <circle cx="370.0" cy="52.0" r="6" fill="#000"/>
+  <circle cx="50.0" cy="52.0" r="6" fill="#000"/>
+  <text x="36.0" y="308.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">A</text>
+  <text x="384.0" y="308.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">B</text>
+  <text x="384.0" y="46.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">C</text>
+  <text x="36.0" y="46.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">D</text>
+  <line x1="50.0" y1="292.0" x2="242.0" y2="52.0" stroke="#000" stroke-width="1.6" marker-end="url(#a)"/>
+  <line x1="242.0" y1="52.0" x2="299.6" y2="124.0" stroke="#000" stroke-width="1.6" stroke-dasharray="6,4" marker-end="url(#a)"/>
+  <path d="M225.8,72.3 A26,26 0 0,1 216.0,52.0" fill="none" stroke="#000" stroke-width="1"/>
+  <path d="M268.0,52.0 A26,26 0 0,1 258.2,72.3" fill="none" stroke="#000" stroke-width="1"/>
+  <path d="M223.3,75.4 A30,30 0 0,1 212.0,52.0" fill="none" stroke="#000" stroke-width="1"/>
+  <path d="M272.0,52.0 A30,30 0 0,1 260.7,75.4" fill="none" stroke="#000" stroke-width="1"/>
+  <text x="242.0" y="42.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">P</text>
+  <line x1="50.0" y1="318.0" x2="370.0" y2="318.0" stroke="#000" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+  <text x="210.0" y="336.0" font-family="Helvetica" font-size="13" text-anchor="middle">200 cm</text>
+  <line x1="400.0" y1="292.0" x2="400.0" y2="52.0" stroke="#000" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+  <text x="408.0" y="177.0" font-family="Helvetica" font-size="13" text-anchor="start">150 cm</text>
+  <line x1="50.0" y1="22.0" x2="242.0" y2="22.0" stroke="#000" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+  <text x="146.0" y="15.0" font-family="Helvetica" font-size="13" text-anchor="middle">120 cm</text>
+  <line x1="242.0" y1="22.0" x2="370.0" y2="22.0" stroke="#000" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+  <text x="306.0" y="15.0" font-family="Helvetica" font-size="13" text-anchor="middle">80 cm</text>
+</svg>

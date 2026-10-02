@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" width="360" height="260">
+  <polygon points="161,28 28,231.8 332,231.8" fill="none" stroke="#000" stroke-width="1.6"/>
+  <line x1="28" y1="231.8" x2="246.5" y2="129.9" fill="none" stroke="#000" stroke-width="1.2"/>
+  <line x1="332" y1="231.8" x2="98.9" y2="123.1" fill="none" stroke="#000" stroke-width="1.2"/>
+  <line x1="161" y1="28" x2="161" y2="231.8" fill="none" stroke="#000" stroke-width="1.0" stroke-dasharray="5,4"/>
+  <polyline points="161,222.8 170,222.8 170,231.8" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 308.4 220.8 A 26 26 0 0 0 306 231.8" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 312.7 208.8 A 30 30 0 0 0 304.8 219.1" fill="none" stroke="#000" stroke-width="1.1"/>
+  <circle cx="161" cy="28" r="3" fill="#000"/>
+  <circle cx="28" cy="231.8" r="3" fill="#000"/>
+  <circle cx="332" cy="231.8" r="3" fill="#000"/>
+  <circle cx="246.5" cy="129.9" r="3" fill="#000"/>
+  <circle cx="98.9" cy="123.1" r="3" fill="#000"/>
+  <circle cx="180" cy="160.9" r="3" fill="#000"/>
+  <circle cx="161" cy="231.8" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="155.9" y="19.9">A</text>
+    <text x="10.8" y="244.7">B</text>
+    <text x="339" y="244.7">C</text>
+    <text x="253.5" y="128.8">M</text>
+    <text x="81.7" y="122.1">D</text>
+    <text x="173.7" y="152.9">J</text>
+    <text x="155.9" y="251.7">H</text>
+  </g>
+</svg>

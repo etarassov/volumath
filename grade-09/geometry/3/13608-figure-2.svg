@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="320" viewBox="0 0 430 320">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <rect x="50.0" y="52.0" width="320.0" height="240.0" fill="#eef3ee" stroke="#000" stroke-width="2"/>
+  <circle cx="50.0" cy="292.0" r="6" fill="#000"/>
+  <circle cx="370.0" cy="292.0" r="6" fill="#000"/>
+  <circle cx="370.0" cy="52.0" r="6" fill="#000"/>
+  <circle cx="50.0" cy="52.0" r="6" fill="#000"/>
+  <text x="36.0" y="308.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">A</text>
+  <text x="384.0" y="308.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">B</text>
+  <text x="384.0" y="46.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">C</text>
+  <text x="36.0" y="46.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">D</text>
+  <line x1="50.0" y1="292.0" x2="242.0" y2="52.0" stroke="#000" stroke-width="1.6"/>
+  <line x1="141.0" y1="178.2" x2="148.5" y2="168.9" stroke="#000" stroke-width="1.6" marker-end="url(#a)"/>
+  <line x1="242.0" y1="52.0" x2="370.0" y2="212.0" stroke="#000" stroke-width="1.6"/>
+  <line x1="301.0" y1="125.8" x2="308.5" y2="135.1" stroke="#000" stroke-width="1.6" marker-end="url(#a)"/>
+  <line x1="370.0" y1="212.0" x2="306.0" y2="292.0" stroke="#000" stroke-width="1.6"/>
+  <line x1="343.0" y1="245.8" x2="335.5" y2="255.1" stroke="#000" stroke-width="1.6" marker-end="url(#a)"/>
+  <line x1="306.0" y1="292.0" x2="114.0" y2="52.0" stroke="#000" stroke-width="1.6"/>
+  <line x1="215.0" y1="178.2" x2="207.5" y2="168.9" stroke="#000" stroke-width="1.6" marker-end="url(#a)"/>
+  <line x1="114.0" y1="52.0" x2="50.0" y2="132.0" stroke="#000" stroke-width="1.6"/>
+  <line x1="87.0" y1="85.8" x2="79.5" y2="95.1" stroke="#000" stroke-width="1.6" marker-end="url(#a)"/>
+  <line x1="50.0" y1="132.0" x2="178.0" y2="292.0" stroke="#000" stroke-width="1.6"/>
+  <line x1="109.0" y1="205.8" x2="116.5" y2="215.1" stroke="#000" stroke-width="1.6" marker-end="url(#a)"/>
+  <line x1="178.0" y1="292.0" x2="370.0" y2="52.0" stroke="#000" stroke-width="1.6"/>
+  <line x1="269.0" y1="178.2" x2="276.5" y2="168.9" stroke="#000" stroke-width="1.6" marker-end="url(#a)"/>
+  <circle cx="242.0" cy="52.0" r="3" fill="#000"/>
+  <text x="242.0" y="40.0" font-family="Helvetica" font-size="15" font-style="italic" text-anchor="middle">P<tspan font-size="11" font-style="normal" dy="4">1</tspan></text>
+  <circle cx="370.0" cy="212.0" r="3" fill="#000"/>
+  <text x="386.0" y="217.0" font-family="Helvetica" font-size="15" font-style="italic" text-anchor="middle">P<tspan font-size="11" font-style="normal" dy="4">2</tspan></text>
+  <circle cx="306.0" cy="292.0" r="3" fill="#000"/>
+  <text x="306.0" y="314.0" font-family="Helvetica" font-size="15" font-style="italic" text-anchor="middle">P<tspan font-size="11" font-style="normal" dy="4">3</tspan></text>
+  <circle cx="114.0" cy="52.0" r="3" fill="#000"/>
+  <text x="114.0" y="40.0" font-family="Helvetica" font-size="15" font-style="italic" text-anchor="middle">P<tspan font-size="11" font-style="normal" dy="4">4</tspan></text>
+  <circle cx="50.0" cy="132.0" r="3" fill="#000"/>
+  <text x="34.0" y="137.0" font-family="Helvetica" font-size="15" font-style="italic" text-anchor="middle">P<tspan font-size="11" font-style="normal" dy="4">5</tspan></text>
+  <circle cx="178.0" cy="292.0" r="3" fill="#000"/>
+  <text x="178.0" y="314.0" font-family="Helvetica" font-size="15" font-style="italic" text-anchor="middle">P<tspan font-size="11" font-style="normal" dy="4">6</tspan></text>
+</svg>

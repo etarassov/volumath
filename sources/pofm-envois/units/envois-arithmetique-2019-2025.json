@@ -1,0 +1,538 @@
+{
+ "unit": "envois-arithmetique-2019-2025",
+ "source": "pofm-envois",
+ "title": "Envois POFM, Arithmétique, années 2019 à 2025",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "11001",
+  "11200"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2019-2020",
+   "label": "Envoi 3 (Arithmétique)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2020-01_sujet-envoi-3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/01/sujet-envoi-3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2020-02_corrige-commente-envoi-3.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2020/02/corrigé-commenté-envoi-3.pdf"
+   }
+  },
+  {
+   "year": "2020-2021",
+   "label": "Envoi 3 (Arithmétique)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2020-12_Sujet-envoi-3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/12/Sujet-envoi-3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2021-02_Corrige-envoi-3.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2021/02/Corrigé-envoi-3.pdf"
+   }
+  },
+  {
+   "year": "2021-2022",
+   "label": "Envoi 3 (Arithmétique)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2022-01_sujet-envoi-3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/01/sujet-envoi-3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2022-02_corrige-envoi-3.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/corrigé-envoi-3.pdf"
+   }
+  },
+  {
+   "year": "2022-2023",
+   "label": "Envoi 3 (Arithmétique)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2023-01_Sujet-envoi-3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Sujet-envoi-3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2023-03_corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2023/03/corrigé.pdf"
+   }
+  },
+  {
+   "year": "2023-2024",
+   "label": "Envoi 3 (Arithmétique)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2024-01_Sujet-envoi-3-2023-2024.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2024/01/Sujet-envoi-3-2023-2024.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2024-02_Corrige-envoi-arithmetique-2023-2024.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2024/02/Corrige-envoi-arithmetique-2023-2024.pdf"
+   }
+  },
+  {
+   "year": "2024-2025",
+   "label": "Envoi 3 (Arithmétique)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2025-01_Sujet-envoi-3-2024-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Sujet-envoi-3-2024-2025.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2025-03_Corrige-envoi-3-2024-2025.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/03/Corrige-envoi-3-2024-2025.pdf"
+   }
+  }
+ ],
+ "next_document": 6,
+ "imported": [
+  "11001",
+  "11002",
+  "11003",
+  "11004",
+  "11005",
+  "11006",
+  "11007",
+  "11008",
+  "11009",
+  "11010",
+  "11011",
+  "11012",
+  "11013",
+  "11014",
+  "11015",
+  "11016",
+  "11017",
+  "11018",
+  "11019",
+  "11020",
+  "11021",
+  "11022",
+  "11023",
+  "11024",
+  "11025",
+  "11026",
+  "11027",
+  "11028",
+  "11029",
+  "11030",
+  "11031",
+  "11032",
+  "11033",
+  "11034",
+  "11035",
+  "11036",
+  "11037",
+  "11038",
+  "11039",
+  "11040",
+  "11041",
+  "11042",
+  "11043",
+  "11044",
+  "11045",
+  "11046",
+  "11047",
+  "11048",
+  "11049",
+  "11050",
+  "11051",
+  "11052",
+  "11053",
+  "11054",
+  "11055",
+  "11056",
+  "11057",
+  "11058",
+  "11059",
+  "11060",
+  "11061",
+  "11062",
+  "11063",
+  "11064",
+  "11065",
+  "11066",
+  "11067",
+  "11068",
+  "11069",
+  "11070",
+  "11071",
+  "11072",
+  "11073",
+  "11074",
+  "11075",
+  "11076",
+  "11077",
+  "11078",
+  "11079",
+  "11080"
+ ],
+ "skipped": [
+  {
+   "where": "2020-01_sujet-envoi-3.pdf, exercice 1",
+   "why": "p, p + 2, p + 4 tous premiers : déjà dans la collection en 4e (et une seconde fois en 3e, 8649)",
+   "existing": "0876"
+  },
+  {
+   "where": "2020-01_sujet-envoi-3.pdf, exercice 2",
+   "why": "n + p puissance de n : déjà importé depuis la feuille lyonnaise qui reprend cet envoi",
+   "existing": "0893"
+  },
+  {
+   "where": "2020-01_sujet-envoi-3.pdf, exercice 3",
+   "why": "23 allumettes, retirer de 1 à 4 : même énoncé déjà présent",
+   "existing": "0877"
+  },
+  {
+   "where": "2020-01_sujet-envoi-3.pdf, exercice 5",
+   "why": "p²(p³ − 1) = q(q + 1) : déjà présent (placé en Terminale, 5 étoiles, ce qui est haut pour un exercice junior mais défendable)",
+   "existing": "8822"
+  },
+  {
+   "where": "2020-01_sujet-envoi-3.pdf, exercice 10",
+   "why": "trois premiers dont les trois écarts sont premiers : déjà présent en 2de",
+   "existing": "8820"
+  },
+  {
+   "where": "2020-01_sujet-envoi-3.pdf, exercice 12",
+   "why": "même énoncé que l'exercice 4 du même envoi (a! + b! = 2ⁿ), importé une fois",
+   "existing": "11001"
+  },
+  {
+   "where": "2020-01_sujet-envoi-3.pdf, exercice 14",
+   "why": "même énoncé que l'exercice 9 du même envoi (a⁵b + 3 et ab⁵ + 3 cubes), importé une fois",
+   "existing": "11005"
+  },
+  {
+   "where": "2020-12_Sujet-envoi-3.pdf, exercice 1",
+   "why": "n divise 2ⁿ, alors 2ⁿ/n est une puissance de 2 : déjà importé depuis la feuille lyonnaise qui reprend cet envoi",
+   "existing": "0883"
+  },
+  {
+   "where": "2020-12_Sujet-envoi-3.pdf, exercice 2",
+   "why": "x² − 4y² = 3 : déjà présent en 3e",
+   "existing": "0882"
+  },
+  {
+   "where": "2020-12_Sujet-envoi-3.pdf, exercice 3",
+   "why": "100 billes portant des carrés, différence multiple de 7 : déjà présent en 3e",
+   "existing": "0884"
+  },
+  {
+   "where": "2020-12_Sujet-envoi-3.pdf, exercice 6",
+   "why": "1005ˣ + 2011ʸ = 1006ᶻ : déjà présent (1re, 5 étoiles, venu de La Muraille de Valbonne 2023)",
+   "existing": "8676"
+  },
+  {
+   "where": "2020-12_Sujet-envoi-3.pdf, exercice 10",
+   "why": "n divise a − b, alors n² divise aⁿ − bⁿ : déjà présent en Terminale",
+   "existing": "8576"
+  },
+  {
+   "where": "2020-12_Sujet-envoi-3.pdf, exercice 12",
+   "why": "même énoncé que l'exercice 7 du même envoi (produit qui divise la somme puissance n − 2), importé une fois",
+   "existing": "11014"
+  },
+  {
+   "where": "2020-12_Sujet-envoi-3.pdf, exercice 14",
+   "why": "même énoncé que l'exercice 9 du même envoi ((m³ + n)(n³ + m) = p³), importé une fois",
+   "existing": "11016"
+  },
+  {
+   "where": "2022-01_sujet-envoi-3.pdf, exercice 1",
+   "why": "n³ − 7n est divisible par 6 : déjà dans la collection",
+   "existing": "0881"
+  },
+  {
+   "where": "2022-01_sujet-envoi-3.pdf, exercice 2",
+   "why": "7 divise a² + b² + c², alors 7 divise a⁴ + b⁴ + c⁴ : déjà dans la collection",
+   "existing": "0894"
+  },
+  {
+   "where": "2022-01_sujet-envoi-3.pdf, exercice 10",
+   "why": "même énoncé que l'exercice 3 du même envoi (aᵇ divise bᶜ, alors a² divise bc), importé une fois",
+   "existing": "11023"
+  },
+  {
+   "where": "2023-01_Sujet-envoi-3.pdf, exercice 10",
+   "why": "même énoncé que l'exercice 2 du même envoi (m!n! carré parfait), importé une fois",
+   "existing": "11039"
+  },
+  {
+   "where": "2023-01_Sujet-envoi-3.pdf, exercice 11",
+   "why": "même énoncé que l'exercice 4 du même envoi (21 divise 2^(2^n) + 2^n + 1), importé une fois",
+   "existing": "11041"
+  },
+  {
+   "where": "2023-01_Sujet-envoi-3.pdf, exercice 13",
+   "why": "même énoncé que l'exercice 6 du même envoi (p⁵ + p³ + 2 = q² − q), importé une fois",
+   "existing": "11043"
+  },
+  {
+   "where": "2024-01_Sujet-envoi-3-2023-2024.pdf, exercice 3",
+   "why": "même problème (a² − n! = 2019, mêmes restes modulo 4) déjà dans la collection, en 2de 4 étoiles, niveau défendable",
+   "existing": "8222"
+  },
+  {
+   "where": "2024-01_Sujet-envoi-3-2023-2024.pdf, exercice 10",
+   "why": "même énoncé que l'exercice 1 du même envoi, importé une fois",
+   "existing": "11053"
+  },
+  {
+   "where": "2024-01_Sujet-envoi-3-2023-2024.pdf, exercice 11",
+   "why": "même énoncé que l'exercice 2 du même envoi, importé une fois",
+   "existing": "11054"
+  },
+  {
+   "where": "2024-01_Sujet-envoi-3-2023-2024.pdf, exercice 12",
+   "why": "même énoncé que l'exercice 5 du même envoi, importé une fois",
+   "existing": "11056"
+  },
+  {
+   "where": "2024-01_Sujet-envoi-3-2023-2024.pdf, exercice 13",
+   "why": "même énoncé que l'exercice 6 du même envoi, importé une fois",
+   "existing": "11057"
+  },
+  {
+   "where": "2024-01_Sujet-envoi-3-2023-2024.pdf, exercice 14",
+   "why": "même énoncé que l'exercice 7 du même envoi (OIM 1985, problème 2), importé une fois",
+   "existing": "11058"
+  },
+  {
+   "where": "2025-01_Sujet-envoi-3-2024-2025.pdf, exercice 10",
+   "why": "même énoncé que l'exercice 2 du même envoi (plus grand d qui divise a⁷ − a), importé une fois",
+   "existing": "11066"
+  },
+  {
+   "where": "2025-01_Sujet-envoi-3-2024-2025.pdf, exercice 11",
+   "why": "même énoncé que l'exercice 3 du même envoi (x! + y² + 1 = z!), importé une fois",
+   "existing": "11067"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "11008",
+   "tool": "petit théorème de Fermat, ordre de 2 modulo N (démontré), remontée modulo q^a (démontrée)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11009",
+   "tool": "congruences modulo p, nombre de racines d'un polynôme modulo p (lemme démontré), binôme de Newton",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11010",
+   "tool": "congruences modulo p, lemme d'Euclide",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11011",
+   "tool": "théorème chinois (démontré par Bézout), petit théorème de Fermat, racines d'un polynôme modulo p (à la place de la racine primitive du corrigé)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11028",
+   "tool": "théorème de Bézout",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11036",
+   "tool": "théorème de Bézout, théorème chinois (démontré avec Bézout)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11052",
+   "tool": "lemme LTE (relèvement des exposants), petit théorème de Fermat",
+   "suggested_theme": "arithmetic",
+   "hors_programme": true
+  },
+  {
+   "id": "11061",
+   "tool": "division euclidienne des polynômes par un polynôme unitaire",
+   "suggested_theme": "polynomials",
+   "hors_programme": true
+  },
+  {
+   "id": "11064",
+   "tool": "petit théorème de Fermat, congruences, inverse modulo un nombre premier",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11070",
+   "tool": "petit théorème de Fermat, congruences modulo p",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11076",
+   "tool": "ordre de 2 modulo p (démontré dans la solution), petit théorème de Fermat, congruences",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11078",
+   "tool": "congruences modulo p, existence d'un reste qui n'est pas un carré modulo p (démontrée), inverse modulo p par Bézout",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "11079",
+   "tool": "congruences modulo 2^n, coefficients binomiaux, dénombrement des restes",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "11080",
+   "tool": "ordre modulo p (démontré dans la solution), petit théorème de Fermat, inverse modulo p par Bézout",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2020-02_corrige-commente-envoi-3.pdf, exercice 5",
+   "what": "la preuve oublie le cas p = 2, k = 2 (q = 7) : elle affirme p > 2 sans justification. La conclusion (aucune solution) reste vraie car 4 × 7 = 28 ≠ 56. Exercice non importé (doublon de 8822, qui traite ce cas)."
+  },
+  {
+   "where": "2020-02_corrige-commente-envoi-3.pdf, exercice 6",
+   "what": "le couple solution est écrit une fois « (3, 2) » au lieu de (m, n) = (2, 3) ; la réponse finale est juste"
+  },
+  {
+   "where": "2020-02_corrige-commente-envoi-3.pdf, exercice 18",
+   "what": "l'énoncé recopié dans le corrigé fait parcourir à x l'intervalle {0, …, n − 1}, alors que le sujet dit x ∈ N* et que la solution du corrigé utilise de grands x ; 11011 suit le sujet"
+  },
+  {
+   "where": "2021-02_Corrige-envoi-3.pdf, exercice 5",
+   "what": "la première solution déduit de |ab| ⩽ n que |a| ⩽ n et |b| ⩽ n, ce qui ne marche pas quand a ou b est nul (le piège même que signale le commentaire des correcteurs). La conclusion reste vraie ; 11013 suit la solution alternative, qui n'a pas ce défaut."
+  },
+  {
+   "where": "2021-02_Corrige-envoi-3.pdf, exercice 8",
+   "what": "la première solution pose « m = 3k, n = 3ℓ » mais utilise ensuite 2^k et 3^ℓ, ce qui échange m et n, et annonce « le couple (3, 6) » alors que l'énoncé demande (m, n) = (6, 3). La solution alternative donne bien (6, 3)."
+  },
+  {
+   "where": "2021-02_Corrige-envoi-3.pdf, exercice 9",
+   "what": "le corrigé suppose m > n « sans perte de généralité » puis conclut que la seule solution est (2, 1, 3) ; il oublie le triplet symétrique (1, 2, 3), qui convient aussi. 11016 donne les deux."
+  },
+  {
+   "where": "2021-02_Corrige-envoi-3.pdf, exercice 13",
+   "what": "« des paires disjointes d'entiers (a, b) avec les entiers de 1 à 2010 » : il faut lire 2020"
+  },
+  {
+   "where": "2021-02_Corrige-envoi-3.pdf, exercice 17",
+   "what": "la récurrence mélange les notations N_k et n_k et conclut « N = n_2019 » alors que le rang pour 2020 termes est N_2020 (décalage d'un indice, sans effet sur l'existence)"
+  },
+  {
+   "where": "2022-02_corrige-envoi-3.pdf, exercice 15",
+   "what": "la formule n_k = n^k m + (n^{k+1} − 1)/(n − 1) est décalée d'un rang (elle donne m + 1 pour k = 0 au lieu de m), et la conclusion parle de n_{ω−1} − 1 là où il faut n_ω. Exemple : m = 3, n = 2, n_1 = 7 n'est pas multiple de 3 mais n_2 = 15 l'est. La conclusion de l'exercice reste vraie ; 11034 donne une preuve corrigée."
+  },
+  {
+   "where": "2022-02_corrige-envoi-3.pdf, exercice 17",
+   "what": "la dernière phrase dit « l'un des a_i − a est non nul » alors qu'il faut « nul »."
+  },
+  {
+   "where": "2023-03_corrige.pdf, exercices 4 et 11",
+   "what": "dans le calcul modulo 7, le corrigé écrit « 2^n ≡ −1 − 2 ≡ 4 (mod 3) » au lieu de (mod 7)."
+  },
+  {
+   "where": "2023-03_corrige.pdf, exercices 6 et 13",
+   "what": "le corrigé écrit « pgcd(q − 1, q + 2) » au lieu de pgcd(q − 2, q + 1)."
+  },
+  {
+   "where": "2023-03_corrige.pdf, exercice 8",
+   "what": "le corrigé oublie le cas où les deux facteurs 1532^d − 1517^e et 1532^d + 1517^e valent 1 et 15^b (il ne traite que 3^b et 5^b), et il écrit « 3³ + 5³ ≡ 5 (mod 16) » alors que 152 a pour reste 8. La réponse (1, 1, 1) est juste ; 11045 traite les deux cas."
+  },
+  {
+   "where": "2023-03_corrige.pdf, exercice 12",
+   "what": "le corrigé écrit « 4m² + n + 1 > 4m² » au lieu de 4m² + 4n + 1 > 4m²."
+  },
+  {
+   "where": "2023-01_Sujet-envoi-3.pdf, exercice 18",
+   "what": "énoncé : « premiers entre dans leur ensemble » au lieu de « premiers entre eux dans leur ensemble »."
+  },
+  {
+   "where": "2024-02_Corrige-envoi-arithmetique-2023-2024.pdf, exercices 1 et 10",
+   "what": "le corrigé écrit « tout carré d'un nombre non divisible par 4 » au lieu de « non divisible par 3 »."
+  },
+  {
+   "where": "2024-02_Corrige-envoi-arithmetique-2023-2024.pdf, exercice 3",
+   "what": "le corrigé écrit « 2023+3!+2029 » au lieu de 2023 + 3! = 2029."
+  },
+  {
+   "where": "2024-02_Corrige-envoi-arithmetique-2023-2024.pdf, exercices 6 et 13",
+   "what": "le corrigé écrit « il est pair » (à propos de p) au lieu de « p + 1 est pair »."
+  },
+  {
+   "where": "2024-01_Sujet-envoi-3-2023-2024.pdf, exercices 7 et 14",
+   "what": "la seconde règle autorise i = n alors que n n'est pas colorié, et le corrigé parle de « la couleur de n » ; il écrit aussi n − ℓj au lieu de n − ℓk. 11058 limite la règle à i ⩽ n − 1."
+  },
+  {
+   "where": "2024-02_Corrige-envoi-arithmetique-2023-2024.pdf, exercice 8",
+   "what": "le corrigé dit que le produit a^(2^m) − 1 contient « m termes tous pairs » alors qu'il en contient m + 1 (sans conséquence sur la réponse)."
+  },
+  {
+   "where": "2024-02_Corrige-envoi-arithmetique-2023-2024.pdf, exercice 9",
+   "what": "corrigé très bref : le troisième cas est seulement ramené à l'équation du cas x = 1, et le commentaire écrit 7z + 5t avec les lettres échangées. La réponse (3, 1, 2, 2) est juste."
+  },
+  {
+   "where": "2024-01_Sujet-envoi-3-2023-2024.pdf, exercice 17",
+   "what": "S est pris dans N, donc contient 0 quand b divise a, et 0 n'est pas un produit d'irréductibles : l'énoncé est faux tel quel. 11063 se limite aux x ⩾ 1. Le corrigé annonce aussi k entre 2 et ω alors que k = ω + 1 est possible."
+  },
+  {
+   "where": "2024-02_Corrige-envoi-arithmetique-2023-2024.pdf, exercice 18",
+   "what": "plusieurs coquilles : « (mod q − 1) » pour (mod q) dans l'usage de Fermat, un inverse « modulo p_{k+1} − 1 » au lieu de modulo p_{k+1}, « 1 ⩽ i ⩽ p_k − 1 » au lieu de p_{k+1} − 1, et « ≡ N (mod p_{k+1}) » au lieu de ≡ 1."
+  },
+  {
+   "where": "2025-03_Corrige-envoi-3-2024-2025.pdf, exercices 2 et 10",
+   "what": "le corrigé écrit « la décomposition en facteurs premiers de 1266 » au lieu de 126 (simple coquille)."
+  },
+  {
+   "where": "2025-03_Corrige-envoi-3-2024-2025.pdf, exercice 6",
+   "what": "le corrigé écrit que le produit est congru à (−1)² x₁² x₂² ; avec yᵢ = p − xᵢ on a xᵢ − yᵢ ≡ 2xᵢ, donc le produit est congru à 4 x₁² x₂². La conclusion ne change pas (4^((p−1)/2) ≡ 1). Noté dans 11070."
+  },
+  {
+   "where": "2025-03_Corrige-envoi-3-2024-2025.pdf, exercice 9",
+   "what": "le carré manque dans « m² + an + b = (m + c) », la majoration est écrite « m² + 2bam + a²b · b = (m + ab)² », et « 1 < c » doit se lire 1 ⩽ c. Noté dans 11073, qui a sa propre fin de preuve."
+  },
+  {
+   "where": "2025-03_Corrige-envoi-3-2024-2025.pdf, exercice 18",
+   "what": "dans le lemme, le corrigé pose t = i − j puis remplace c^(j−i) par c^t (erreur de signe sans conséquence, le lemme étant symétrique en t et −t) ; il majore aussi la somme des e_t par 2(p − 2) alors qu'il n'y a que p − 3 valeurs de t, ce qui reste juste. Noté dans 11080."
+  }
+ ],
+ "notes": [
+  "2019-2020 : pas de partie « Exercices communs » ; exercices 1 à 9 juniors, 10 à 18 seniors. Les exercices 12 et 14 répètent les exercices 4 et 9.",
+  "8822 (p²(p³ − 1) = q(q + 1)) est en Terminale 5 étoiles ; c'est un exercice junior de l'envoi 2019-2020, il tiendrait en 2de 4 étoiles. À l'arbitre de décider s'il faut le déplacer.",
+  "2020-2021 : pas de partie « Exercices communs » ; exercices 1 à 9 juniors, 10 à 18 seniors. Les exercices 12 et 14 répètent les exercices 7 et 9.",
+  "8676 (1005ˣ + 2011ʸ = 1006ᶻ) est en 1re 5 étoiles ; c'est un exercice junior de l'envoi 2020-2021 (exercice 6) qui se résout par des restes modulo 1006 et 4, il tiendrait en 2de 4 étoiles. À l'arbitre de décider s'il faut le déplacer.",
+  "2020-2021 : aucune entrée beyond_programme. 11016, 11019, 11021 et 11022 ont été rédigés sans congruences (restes, décomposition en facteurs premiers, récurrence, factorisation de x^k − y^k).",
+  "2021-2022 : pas de partie « Exercices communs » ; exercices 1 à 9 juniors, 10 à 18 seniors. L'exercice 10 répète l'exercice 3.",
+  "2021-2022 : 11026 (ex. 6), 11027 (ex. 7), 11029 (ex. 9) et 11035 (ex. 16) sont rédigés sans congruences, sans inverses modulo p et sans le théorème de Gauss (restes, lemme d'Euclide, exposants des facteurs premiers). 11036 (ex. 17) remplace la réciprocité quadratique et le théorème de Dirichlet du corrigé par un argument à la manière d'Euclide ; 11037 (ex. 18) remplace l'indicatrice d'Euler par le principe des tiroirs. 11033 (ex. 14) est écrit pour n ⩾ 2, le cas n = 1 n'ayant qu'un seul diviseur.",
+  "2022-2023 : pas de partie « Exercices communs » ; exercices 1 à 9 juniors, 10 à 18 seniors. Les exercices 10, 11 et 13 répètent les exercices 2, 4 et 6.",
+  "2022-2023 : pdfsupers.py lit 2^{2n} dans les exercices 4 et 11, alors que le PDF rendu (et le corrigé) montrent bien 2^{2^n}. L'énoncé 17 demande a_m^m | a_n^n (la puissance n sur a_n disparaît à l'extraction).",
+  "2022-2023 : 11041, 11043, 11044, 11045 et 11046 (2de) sont rédigés avec des restes, sans congruences ; 11046 remplace le petit théorème de Fermat du corrigé par un argument des tiroirs. 11050 utilise l'ordre croissant (signalé par les correcteurs) au lieu de la racine primitive et du lemme LTE du corrigé. 11049 et 11051 n'utilisent que les exposants des facteurs premiers et les restes.",
+  "2023-2024 : exercices 1 à 9 juniors, 10 à 18 seniors, pas de partie commune. Les exercices 10 à 14 répètent les exercices 1, 2, 5, 6 et 7. L'exercice 7 (= 14) est le problème 2 des OIM 1985.",
+  "2023-2024 : 11054 à 11060 sont rédigés avec des restes, sans congruences. 11058 remplace les congruences du corrigé par une notation de reste et un lemme de Gauss démontré par les exposants. 11062 et 11063 remplacent l'indicatrice d'Euler et le théorème chinois par le principe des tiroirs et les décompositions en facteurs premiers. 11059 n'utilise pas le lemme LTE (une factorisation suffit).",
+  "2023-2024, pour le coordinateur : 11061 (suite de polynômes P_{n+1} − P_n = Q) est rangé en algebra, mais il vient d'un envoi d'arithmétique.",
+  "2024-2025 : exercices 1 à 9 juniors, 10 à 18 seniors, pas de partie commune. Les exercices 10 et 11 répètent les exercices 2 et 3.",
+  "2024-2025 : 11066 remplace le petit théorème de Fermat du corrigé par une factorisation et un tableau de restes ; 11073 et 11074 ont des preuves réécrites (calcul direct pour 11073, PGCD au lieu de la fraction irréductible pour 11074). 11075 et 11077 restent sans congruences.",
+  "2024-2025, pour le coordinateur : 11078 (équation fonctionnelle f(a)f(a + b) − ab carré) est rangé en algebra, et 11079 (polynômes entiers sur les nombres descendants) aussi, comme le veut la règle du brief, alors qu'ils viennent d'un envoi d'arithmétique. Les deux reposent surtout sur de l'arithmétique modulaire."
+ ],
+ "updated": "2026-10-01"
+}

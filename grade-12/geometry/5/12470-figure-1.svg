@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="365" viewBox="0 0 520 365">
+<rect width="520" height="365" fill="#fff"/>
+<line x1="90.0" y1="285.0" x2="420.0" y2="285.0" stroke="#000" stroke-width="1.4"/>
+<line x1="420.0" y1="285.0" x2="211.0" y2="54.0" stroke="#000" stroke-width="1.4"/>
+<line x1="211.0" y1="54.0" x2="90.0" y2="285.0" stroke="#000" stroke-width="1.4"/>
+<circle cx="180.8" cy="258.9" r="94.4" fill="none" stroke="#000" stroke-width="1.1"/>
+<circle cx="345.8" cy="257.7" r="79.1" fill="none" stroke="#000" stroke-width="1.1"/>
+<circle cx="240.4" cy="143.0" r="93.7" fill="none" stroke="#000" stroke-width="1.1"/>
+<circle cx="90.0" cy="285.0" r="2.6" fill="#000"/>
+<circle cx="420.0" cy="285.0" r="2.6" fill="#000"/>
+<circle cx="211.0" cy="54.0" r="2.6" fill="#000"/>
+<circle cx="325.9" cy="181.1" r="2.6" fill="#000"/>
+<circle cx="150.5" cy="169.5" r="2.6" fill="#000"/>
+<circle cx="271.5" cy="285.0" r="2.6" fill="#000"/>
+<circle cx="271.1" cy="231.5" r="2.6" fill="#000"/>
+<text x="78.0" y="295.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">X</text>
+<text x="432.0" y="295.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">Y</text>
+<text x="211.0" y="40.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">Z</text>
+<text x="275.5" y="301.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">F</text>
+<text x="339.9" y="177.1" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">D</text>
+<text x="136.5" y="167.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">E</text>
+<text x="281.1" y="221.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle" dominant-baseline="middle">M</text>
+<text x="95.9" y="335.8" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="middle">g(X)</text>
+<text x="425.0" y="319.0" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="middle">g(Y)</text>
+<text x="289.1" y="47.2" font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="middle">g(Z)</text>
+</svg>

@@ -1,0 +1,794 @@
+{
+ "unit": "envois-algebre-2019-2025",
+ "source": "pofm-envois",
+ "title": "Envois POFM, Algèbre, années 2019 à 2025",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "10601",
+  "10800"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2019-2020",
+   "label": "Envoi 2 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2019-11_sujet-envoi-2-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/11/sujet-envoi-2-1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2020-01_corrige-commente-envoi-2.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2020/01/corrigé-commenté-envoi-2.pdf"
+   }
+  },
+  {
+   "year": "2020-2021",
+   "label": "Envoi 2 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2020-11_Sujet-envoi-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/11/Sujet-envoi-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2021-01_Corrige-envoi-2.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2021/01/Corrigé-envoi-2.pdf"
+   }
+  },
+  {
+   "year": "2021-2022",
+   "label": "Envoi 2 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2021-12_Sujet-envoi-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/12/Sujet-envoi-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2022-01_corrige-envoi-2.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2022/01/corrigé-envoi-2.pdf"
+   }
+  },
+  {
+   "year": "2022-2023",
+   "label": "Envoi 2 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2022-12_Sujet-envoi-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/12/Sujet-envoi-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2023-01_corrige-envoi-2.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/corrigé-envoi-2.pdf"
+   }
+  },
+  {
+   "year": "2023-2024",
+   "label": "Envoi 2 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2023-12_Sujet-envoi-2-2023-2024.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/12/Sujet-envoi-2-2023-2024.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2024-01_Corrige-envoi-algebre-2023-2024.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2024/01/Corrige-envoi-algebre-2023-2024.pdf"
+   }
+  },
+  {
+   "year": "2024-2025",
+   "label": "Envoi 2 (Algèbre)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2024-12_Sujet-envoi-2-2024-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2024/12/Sujet-envoi-2-2024-2025.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2025-01_Corrige-envoi-2-2024-2025.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Corrige-envoi-2-2024-2025.pdf"
+   }
+  }
+ ],
+ "next_document": 6,
+ "imported": [
+  "10601",
+  "10602",
+  "10603",
+  "10604",
+  "10605",
+  "10606",
+  "10607",
+  "10608",
+  "10609",
+  "10610",
+  "10611",
+  "10612",
+  "10613",
+  "10614",
+  "10615",
+  "10616",
+  "10617",
+  "10618",
+  "10619",
+  "10620",
+  "10621",
+  "10622",
+  "10623",
+  "10624",
+  "10625",
+  "10626",
+  "10627",
+  "10628",
+  "10629",
+  "10630",
+  "10631",
+  "10632",
+  "10633",
+  "10634",
+  "10635",
+  "10636",
+  "10637",
+  "10638",
+  "10639",
+  "10640",
+  "10641",
+  "10642",
+  "10643",
+  "10644",
+  "10645",
+  "10646",
+  "10647",
+  "10648",
+  "10649",
+  "10650",
+  "10651",
+  "10652",
+  "10653",
+  "10654",
+  "10655",
+  "10656",
+  "10657",
+  "10658",
+  "10659",
+  "10660",
+  "10661",
+  "10662",
+  "10663",
+  "10664",
+  "10665",
+  "10666",
+  "10667",
+  "10668",
+  "10669",
+  "10670",
+  "10671",
+  "10672",
+  "10673",
+  "10674",
+  "10675",
+  "10676",
+  "10677",
+  "10678",
+  "10679",
+  "10680",
+  "10681",
+  "10682",
+  "10683",
+  "10684",
+  "10685"
+ ],
+ "skipped": [
+  {
+   "where": "2019-11_sujet-envoi-2-1.pdf, exercice 1",
+   "why": "déjà dans la collection en 3e (même énoncé, repris par le club de Lyon depuis cet envoi)",
+   "existing": "0880"
+  },
+  {
+   "where": "2019-11_sujet-envoi-2-1.pdf, exercice 2",
+   "why": "déjà dans la collection en 2de (même énoncé, repris par le club de Lyon depuis cet envoi)",
+   "existing": "0889"
+  },
+  {
+   "where": "2019-11_sujet-envoi-2-1.pdf, exercice 3",
+   "why": "déjà dans la collection en 2de (même énoncé, repris par le club de Lyon depuis cet envoi)",
+   "existing": "0890"
+  },
+  {
+   "where": "2019-11_sujet-envoi-2-1.pdf, exercices 4 et 10 (le même problème posé deux fois)",
+   "why": "déjà dans la collection en 1re (même équation fonctionnelle, venue du stage de Valbonne 2021)",
+   "existing": "8477"
+  },
+  {
+   "where": "2019-11_sujet-envoi-2-1.pdf, exercice 12",
+   "why": "déjà dans la collection en Terminale (même énoncé, venu du stage de Valbonne 2026)",
+   "existing": "8931"
+  },
+  {
+   "where": "2020-11_Sujet-envoi-2.pdf, exercice 1",
+   "why": "déjà dans la collection en 2de (même inégalité, reprise par le club de Lyon depuis cet envoi)",
+   "existing": "0888"
+  },
+  {
+   "where": "2020-11_Sujet-envoi-2.pdf, exercice 3",
+   "why": "déjà dans la collection en 2de (même énoncé, repris par le club de Lyon depuis cet envoi)",
+   "existing": "0891"
+  },
+  {
+   "where": "2020-11_Sujet-envoi-2.pdf, exercice 4",
+   "why": "déjà dans la collection en 2de (même égalité sous condition)",
+   "existing": "7026"
+  },
+  {
+   "where": "2020-11_Sujet-envoi-2.pdf, exercice 10",
+   "why": "déjà dans la collection en 1re (même équation fonctionnelle, venue du stage de Valbonne 2019, groupe B)",
+   "existing": "8259"
+  },
+  {
+   "where": "2020-11_Sujet-envoi-2.pdf, exercice 14",
+   "why": "même énoncé que l'exercice 8 du même envoi, importé une seule fois",
+   "existing": "10616"
+  },
+  {
+   "where": "2021-12_Sujet-envoi-2.pdf, exercice 2 (Juniors), repris en exercice 10 (Seniors)",
+   "why": "déjà dans la collection en 3e (même énoncé sur trois sommes consécutives, repris par le club de Lyon)",
+   "existing": "0885"
+  },
+  {
+   "where": "2021-12_Sujet-envoi-2.pdf, exercice 3",
+   "why": "déjà dans la collection en 2de (même énoncé, repris par le club de Lyon)",
+   "existing": "0892"
+  },
+  {
+   "where": "2021-12_Sujet-envoi-2.pdf, exercice 4",
+   "why": "déjà dans la collection en 3e (même inégalité 2(a − 1)(b − 1) ⩾ 0, importée par une autre unité depuis l'envoi pot-pourri 2012-2013 n° 5, Juniors exercice 2) ; voir la note sur 11602",
+   "existing": "11602"
+  },
+  {
+   "where": "2021-12_Sujet-envoi-2.pdf, exercice 12",
+   "why": "même énoncé que l'exercice 5 du même envoi, importé une seule fois",
+   "existing": "10626"
+  },
+  {
+   "where": "2021-12_Sujet-envoi-2.pdf, exercice 14",
+   "why": "même énoncé que l'exercice 7 du même envoi, importé une seule fois",
+   "existing": "10628"
+  },
+  {
+   "where": "2022-12_Sujet-envoi-2.pdf, exercice 11 (Seniors)",
+   "why": "même énoncé que l'exercice 4 (Juniors) du même envoi, importé une seule fois",
+   "existing": "10640"
+  },
+  {
+   "where": "2022-12_Sujet-envoi-2.pdf, exercice 16 (Seniors)",
+   "why": "même énoncé que l'exercice 9 (Juniors) du même envoi, importé une seule fois",
+   "existing": "10645"
+  },
+  {
+   "where": "2023-12_Sujet-envoi-2-2023-2024.pdf, exercice 10 (Seniors)",
+   "why": "même énoncé que l'exercice 2 (Juniors) du même envoi, importé une seule fois",
+   "existing": "10654"
+  },
+  {
+   "where": "2023-12_Sujet-envoi-2-2023-2024.pdf, exercice 15 (Seniors)",
+   "why": "même énoncé que l'exercice 9 (Juniors) du même envoi, importé une seule fois",
+   "existing": "10661"
+  },
+  {
+   "where": "2024-12_Sujet-envoi-2-2024-2025.pdf, exercice 14 (Seniors)",
+   "why": "même énoncé que l'exercice 7 (Juniors) du même envoi, importé une seule fois",
+   "existing": "10675"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "10602",
+   "tool": "inégalité, moyenne arithmétique et géométrique de deux nombres",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10603",
+   "tool": "inégalité, moyenne arithmétique et géométrique de deux nombres",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10605",
+   "tool": "inégalité, somme cyclique",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10606",
+   "tool": "inégalité avec des valeurs absolues",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10608",
+   "tool": "équation fonctionnelle, bijection",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10609",
+   "tool": "polynômes à coefficients ±1, numération binaire",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10610",
+   "tool": "équation fonctionnelle",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10611",
+   "tool": "arithmétique des polynômes : divisibilité, polynômes premiers entre eux, lemme de Gauss",
+   "suggested_theme": "polynomials",
+   "hors_programme": true
+  },
+  {
+   "id": "10612",
+   "tool": "inégalité, t + 1/t ⩾ 2",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10613",
+   "tool": "inégalité, moyenne arithmétique et géométrique de deux nombres",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10614",
+   "tool": "suite sous une contrainte d'inégalité, argument du maximum",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10617",
+   "tool": "inégalité cyclique avec majoration terme à terme",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10621",
+   "tool": "inégalité, moyenne arithmétique et géométrique de deux nombres",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10620",
+   "tool": "équation fonctionnelle",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10623",
+   "tool": "équation fonctionnelle, image et points fixes",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10622",
+   "tool": "polynômes, jeu sur les coefficients",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10624",
+   "tool": "polynômes, rationalité des coefficients (deux lemmes démontrés dans la solution)",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10625",
+   "tool": "inégalité, carré positif et factorisation",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10626",
+   "tool": "inégalité, cas d'égalité de (i − y)² ⩾ 0",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10628",
+   "tool": "inégalité, logarithme et produit des quotients",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10629",
+   "tool": "inégalité, t + 1/t ⩾ 2 sur une double somme",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10630",
+   "tool": "inégalité, écart à l'égalité dans une somme de produits",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10631",
+   "tool": "inégalité, somme cyclique de produits",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10634",
+   "tool": "inégalité avec parties entières, 2xy ⩽ x² + y²",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10632",
+   "tool": "équation fonctionnelle sur les entiers",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10635",
+   "tool": "équation fonctionnelle de Cauchy restreinte, sur les entiers",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10633",
+   "tool": "polynômes, degrés et racines",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10636",
+   "tool": "polynômes sans racine réelle, dérivée en un minimum",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10637",
+   "tool": "inégalité, développement et carrés positifs",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10640",
+   "tool": "inégalité, factorisation (x − n)(x − 1) ⩾ 0",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10642",
+   "tool": "inégalité, 2bc ⩽ b² + c² et somme D + 2G = 3",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10643",
+   "tool": "inégalité, t + 1/t ⩾ 2 réglé sur le cas d'égalité",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10645",
+   "tool": "inégalité, majorations par sommes télescopiques de carrés",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10648",
+   "tool": "inégalité (Σy)² ⩽ nΣy², démontrée par l'écart à la moyenne",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10650",
+   "tool": "équation fonctionnelle sur N* avec composées itérées",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10651",
+   "tool": "équation fonctionnelle sur R, injectivité, imparité, additivité",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10649",
+   "tool": "polynômes de degré 3 et leurs racines",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10652",
+   "tool": "polynômes, nombre de racines réelles, dérivée et valeurs intermédiaires",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10653",
+   "tool": "inégalité, x² + x + 1 ⩾ 3x par (x − 1)² ⩾ 0",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10655",
+   "tool": "inégalité, lemme p³ + q³ + r³ ⩾ 3pqr démontré par une identité",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10656",
+   "tool": "inégalité, lemme p + q + r ⩾ 3 quand pqr = 1, démontré sur place",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10657",
+   "tool": "inégalité, a(1 − a) ⩽ 1/4 et choix du plus petit terme",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10658",
+   "tool": "inégalité, majoration t³ + t² + t ⩽ (3/2)(t⁴ + 1) puis lemme pqr = 1",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10659",
+   "tool": "inégalité stricte, moyenne arithmétique et géométrique pour quatre nombres démontrée par deux applications du cas de deux nombres",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10660",
+   "tool": "inégalité, 4UV ⩽ (U + V)² et signe de (k − 1)(k − n)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10663",
+   "tool": "minoration d'une suite par récurrence",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10667",
+   "tool": "inégalité sur une suite circulaire, découpage en blocs",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10664",
+   "tool": "équation fonctionnelle, substitutions et parité",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10666",
+   "tool": "équation fonctionnelle, injectivité et substitutions",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "10665",
+   "tool": "polynômes à coefficients entiers, racines et congruences modulo 3 (maths expertes)",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10668",
+   "tool": "division euclidienne dans Q[X], polynômes égaux en une infinité de points, a^d | b^d équivaut à a | b",
+   "suggested_theme": "polynomials",
+   "hors_programme": true
+  },
+  {
+   "id": "10669",
+   "tool": "inégalité, x + y ⩾ 2√(xy) démontrée par (√x − √y)² ⩾ 0",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10670",
+   "tool": "inégalité, (u + v + w)² ⩽ 3(u² + v² + w²) démontrée par une somme de carrés, à la place de Cauchy-Schwarz",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10671",
+   "tool": "inégalité, rangement des nombres et carré d'une somme",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10674",
+   "tool": "inégalité, x + y ⩾ 2√(xy) puis lemme p + q + r ⩾ 3 quand pqr = 1, démontrés sur place",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10675",
+   "tool": "inégalité stricte, changement de variables puis √(y² + z²) majoré par une moyenne",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10676",
+   "tool": "inégalité, passage aux inverses puis lemme pqr = 1, à la place du réordonnement",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10677",
+   "tool": "inégalité arithmético-géométrique pour n nombres, appliquée deux fois, et puissances à exposant réel",
+   "suggested_theme": "inequalities",
+   "hors_programme": true
+  },
+  {
+   "id": "10678",
+   "tool": "inégalité, 3(u² + v² + w²) ⩾ (u + v + w)² et 1/√(xy) ⩾ 2/(x + y), démontrées sur place",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10679",
+   "tool": "inégalité sur une suite, principe du maximum",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10684",
+   "tool": "minimum d'une somme, lemme pqr = 1 et tangente à une fonction convexe (programme de Terminale), à la place de Jensen",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "10682",
+   "tool": "polynôme à coefficients entiers, principe des tiroirs et minoration d'un coefficient binomial",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10683",
+   "tool": "relations entre coefficients et racines d'un polynôme de degré 3 (maths expertes), discriminant, lemme pqr = 1",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "10685",
+   "tool": "équation fonctionnelle avec un polynôme, injectivité, monotonie, puis identité sur les rationnels et densité des rationnels expliquée sur place",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2020-01_corrige-commente-envoi-2.pdf, exercice 12",
+   "what": "La solution commence par « Supposons P non constant » et ne traite jamais le cas des polynômes constants (seul P = 0 convient, et il est bien dans la réponse cX avec c ⩾ 0). Lacune sans conséquence sur la réponse ; problème non importé car déjà présent (8931)."
+  },
+  {
+   "where": "2020-01_corrige-commente-envoi-2.pdf, exercice 16",
+   "what": "L'ordre des d-uplets est décrit « en partant de la droite » alors que l'exemple pour d = 3 et le calcul de la différence supposent l'inverse ; on ne montre aussi que la borne supérieure du saut, ce qui suffit mais n'est pas dit. Solution réécrite (10609) avec des 0 et des 1 et un comptage binaire explicite."
+  },
+  {
+   "where": "2020-01_corrige-commente-envoi-2.pdf, exercice 17",
+   "what": "Coquille : f(x − z) au lieu de f(x − z − 1) après la substitution y = z + 1. Corrigé dans 10610."
+  },
+  {
+   "where": "2021-01_Corrige-envoi-2.pdf, exercice 2",
+   "what": "Coquille : (1 + 1 + 1)³ au lieu de (1 + 1 + 1)² dans l'inégalité de Cauchy-Schwarz. Sans conséquence ; 10612 utilise une autre méthode."
+  },
+  {
+   "where": "2021-01_Corrige-envoi-2.pdf, exercice 9",
+   "what": "Coquilles : c²a au lieu de c²b, et b + c + 2b au lieu de b + c + 2a. Corrigé dans 10617."
+  },
+  {
+   "where": "2021-01_Corrige-envoi-2.pdf, exercice 18",
+   "what": "L'exemple d'ensemble magnifique, A = {1, somme de i X^(2019−i) pour i de 1 à 2019}, n'a que 2019 termes ; il en faut 2020. Corrigé dans 10624 avec la somme de i X^(2020−i) pour i de 1 à 2020."
+  },
+  {
+   "where": "2021-01_Corrige-envoi-2.pdf, exercice 15",
+   "what": "Coquille : √(a1/a2) au lieu de √(x1/x2). Sans conséquence."
+  },
+  {
+   "where": "2022-01_corrige-envoi-2.pdf, exercice 6",
+   "what": "Le corrigé résout mal a_n = (n + 3)² : il écrit 81 + 63 + 1 = 144 (c'est 145) et conclut n = 1 et n = 9. Les bonnes valeurs sont n = 1 et n = 8 (a_8 = 121). Corrigé dans 10627."
+  },
+  {
+   "where": "2022-01_corrige-envoi-2.pdf, exercice 13",
+   "what": "Coquille : f(4(k + 1) − 1) au lieu de f(4(k + 1) − 4). Sans conséquence."
+  },
+  {
+   "where": "2022-01_corrige-envoi-2.pdf, exercice 15",
+   "what": "La dernière ligne de la seconde solution est mal recopiée (« p1² − 4 − 2(p2 + p2) »). La première solution est juste ; 10633 suit un chemin plus direct."
+  },
+  {
+   "where": "2022-01_corrige-envoi-2.pdf, exercice 16",
+   "what": "Dans le cas n impair, l'exemple utilise x_{k+2}, ..., x_{2k} (seulement 2k nombres) et un facteur (2k − 1)k au lieu de 2k × k ; il trouve k(k + 2) au lieu de k(k + 1). La réponse finale ⌊n²/4⌋ est juste. Corrigé dans 10634."
+  },
+  {
+   "where": "2022-01_corrige-envoi-2.pdf, exercice 18",
+   "what": "Le calcul de P'(−1) est mal recopié, mais le résultat d(a − 1) est juste. Réécrit dans 10636."
+  },
+  {
+   "where": "2023-01_corrige-envoi-2.pdf, exercice 6",
+   "what": "Coquille : le corrigé écrit G + 2·D là où son calcul donne D + 2G = 3. Sans conséquence."
+  },
+  {
+   "where": "2023-01_corrige-envoi-2.pdf, exercice 13",
+   "what": "Coquille, deux fois : (x2 + x3)³ au lieu de (x2 + x3)². Sans conséquence."
+  },
+  {
+   "where": "2022-12_Sujet-envoi-2.pdf et corrigé, exercice 15",
+   "what": "Coquille « pù » pour « où » dans la définition de la composée. Sans conséquence."
+  },
+  {
+   "where": "2024-01_Corrige-envoi-algebre-2023-2024.pdf, exercice 13",
+   "what": "Coquille : le corrigé écrit f(a − b) là où sa substitution donne f(b − a) ; sans conséquence sur la suite."
+  },
+  {
+   "where": "2024-01_Corrige-envoi-algebre-2023-2024.pdf, exercice 17",
+   "what": "Le corrigé multiplie une inégalité par C − 1 sans traiter le cas C < 1, où ce nombre est négatif ; l'affichage de sa somme répète le même terme. Solution réécrite avec un lemme sur les blocs qui couvre tous les cas."
+  },
+  {
+   "where": "2024-01_Corrige-envoi-algebre-2023-2024.pdf, exercice 18",
+   "what": "Le corrigé écrit |g(k)| = |ĝ(Ck)| pour tout k, alors que ce n'est établi que pour les k où f(C) ne s'annule pas en kC ; il saute aussi l'équivalence entre a^n | b^n et a | b dans la réciproque. Trous comblés dans 10668."
+  },
+  {
+   "where": "2023-12_Sujet-envoi-2-2023-2024.pdf, exercice 15",
+   "what": "Coquille d'énoncé : « ls suite » pour « la suite »."
+  },
+  {
+   "where": "2025-01_Corrige-envoi-2-2024-2025.pdf, exercices 7 et 14",
+   "what": "Le changement de variables a = y/x, b = z/y, c = x/z ne mène pas à l'inégalité écrite ensuite, qui contient des coquilles. Le bon choix est a = z/y, b = y/x, c = x/z (corrigé dans 10675)."
+  },
+  {
+   "where": "2025-01_Corrige-envoi-2-2024-2025.pdf, exercice 12",
+   "what": "Coquille dans l'initialisation : « z1 − z − 2 + z3 » pour z1 − z2 + z3."
+  },
+  {
+   "where": "2025-01_Corrige-envoi-2-2024-2025.pdf, exercice 13",
+   "what": "Preuve d'unicité fausse : le corrigé écarte a(2n+1) = 4n, a(2n+2) = 4n + 4 en disant que cela contredit a(2n+3) + a(2n+4) = 8n + 12, alors que 4n + 5 et 4n + 7 conviennent (par exemple 1, 3, 5, 7, 9, 11, 12, 16, 17, 19 vérifie E(1) à E(5)). La réponse a(n) = 2n − 1 est juste ; 10681 la démontre avec un lemme d'écart a(k+1) − a(k) ⩾ 2."
+  },
+  {
+   "where": "2025-01_Corrige-envoi-2-2024-2025.pdf, exercice 15",
+   "what": "Le corrigé écrit « degré d » et « degré d + 1 » pour k et k + 1, et suppose que P tend vers plus l'infini, donc que son coefficient dominant est positif. 10682 majore |P| et choisit N explicitement."
+  },
+  {
+   "where": "2025-01_Corrige-envoi-2-2024-2025.pdf, exercice 17",
+   "what": "La fonction x ↦ x^(−k) est dite « concave » : elle est convexe sur ]0, +∞[. L'affichage écrit aussi a + b^(−k) + c^(−k) pour a^(−k) + b^(−k) + c^(−k)."
+  },
+  {
+   "where": "2025-01_Corrige-envoi-2-2024-2025.pdf, exercice 18",
+   "what": "Réponse fausse : le corrigé conclut f(x) = ax, qui ne vérifie l'équation que si a = 1. Sa propre formule f(x) = a⁻¹((x + 1)^α − 1) avec α = 1 donne f(x) = x/a. Les solutions sont P = aX et f(x) = x/a avec a > 0 (10685)."
+  }
+ ],
+ "notes": [
+  "2019-2020 : pas de partie « communs » ; les exercices 4/10 et 8/15 sont posés deux fois à l'identique, importés une seule fois (8/15 = 10604).",
+  "beyond_programme : j'y range aussi, avec hors_programme false, chaque inégalité (suggested_theme inequalities), chaque équation fonctionnelle (functional-equations) et chaque problème centré sur les polynômes (polynomials), comme le brief le demande pour les problèmes qui vont mal dans les huit thèmes actuels.",
+  "2020-2021 : pas de partie « communs » (Juniors 1 à 9, Seniors 10 à 18) ; l'exercice 14 est identique à l'exercice 8 (importé une fois, 10616).",
+  "2020-2021, exercice 16 (10622) : la stratégie par paires est écrite directement au lieu de l'argument du corrigé ; exercice 17 (10623) : la dernière étape utilise a = b = x, plus simple que le choix du corrigé.",
+  "2021-2022 : Juniors 1 à 9, Seniors 10 à 18, pas de partie « communs ». Trois énoncés sont donnés deux fois : exercice 10 = exercice 2, exercice 12 = exercice 5, exercice 14 = exercice 7.",
+  "2021-2022, exercice 4 et 11602 (unité pot-pourri 2012-2019) : même problème au même niveau. 11602 est énoncé pour des entiers strictement positifs, l'envoi 2021 pour des réels ⩾ 1 ; la preuve 2(a − 1)(b − 1) ⩾ 0 est identique. Je n'ai pas importé l'exercice 4. Le coordinateur peut élargir 11602 aux réels ⩾ 1.",
+  "2021-2022 : méthodes du corrigé remplacées. 10625 (carré positif au lieu de la moyenne de trois nombres), 10628 (logarithme au lieu de l'inégalité entre moyennes à n termes), 10629 (t + 1/t ⩾ 2 au lieu de Cauchy-Schwarz), 10630 (fin plus directe), 10633 (sans PGCD de polynômes), 10636 (somme de produits positifs au lieu de l'inégalité arithmético-géométrique pondérée).",
+  "2022-2023 : Juniors 1 à 9, Seniors 10 à 18, pas de partie « communs ». Deux énoncés sont donnés deux fois : exercice 11 = exercice 4, exercice 16 = exercice 9.",
+  "2022-2023 : méthodes du corrigé remplacées. 10637 (développement au lieu de l'inégalité arithmético-géométrique), 10645 (sommes télescopiques de carrés au lieu des doubles sommes), 10648 (lemme démontré par l'écart à la moyenne au lieu de Cauchy-Schwarz), 10651 (fin par f(t) = −2t et le signe de f, sans l'équation de Cauchy ni la monotonie), 10652 (majoration explicite au lieu de « pour c assez grand »).",
+  "2023-2024 : Juniors 1 à 9, Seniors 10 à 18. Exercice 10 = exercice 2, exercice 15 = exercice 9, importés une seule fois.",
+  "2023-2024, méthodes remplacées pour rester au niveau du lycée : 10655 (lemme des cubes au lieu de l'IAG), 10656 (lemme pqr = 1 au lieu du réordonnement), 10658 (majoration puis lemme au lieu de l'IAG), 10659 (IAG à deux nombres appliquée deux fois), 10660 (4UV ⩽ (U + V)² au lieu de l'IAG pondérée), 10663 (première variante du corrigé), 10667 (lemme des blocs réécrit), 10668 (trous du corrigé comblés).",
+  "2024-2025 : Juniors 1 à 9, Seniors 10 à 18, pas de partie commune. Exercice 14 = exercice 7, importé une seule fois (10675).",
+  "10675 demande plus que 10432 (grade 10, autre bloc) : après le changement de variables a = z/y, b = y/x, c = x/z, c'est la même inégalité que 10432, avec x² à la place de a. Les deux fichiers sont en Seconde ; au coordinateur de trancher.",
+  "2024-2025, méthodes remplacées pour rester au niveau du lycée : 10669 et 10674 (x + y ⩾ 2√(xy) au lieu de l'IAG), 10670 et 10678 (somme de carrés au lieu de Cauchy-Schwarz), 10676 (inverses et lemme pqr = 1 au lieu du réordonnement), 10680 (plus petit contre-exemple au lieu d'une récurrence forte), 10681 (preuve d'unicité corrigée), 10682 (N choisi explicitement), 10684 (tangente au lieu de Jensen), 10685 (sans l'équation de Cauchy multiplicative, réponse corrigée).",
+  "Unité terminée : 85 exercices importés (10601 à 10685, ids 10686 à 10800 inutilisés), 20 énoncés écartés. Les 85 fiches ont été reconstruites à la fin sans avertissement pandoc et sans LaTeX brut dans les PDF. Le titre de 10641 a été changé pour ne plus être identique à celui de 10601 (deux systèmes différents)."
+ ],
+ "updated": "2026-10-01"
+}

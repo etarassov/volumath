@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 380" width="500" height="380">
+<rect x="0" y="0" width="500" height="380" fill="#fff"/>
+<line x1="64.0" y1="4.0" x2="436.0" y2="376.0" stroke="#777" stroke-width="1.2"/>
+<polygon points="40.0,340.0 400.0,340.0 460.0,40.0 100.0,40.0" fill="none" stroke="#000" stroke-width="2"/>
+<line x1="180.0" y1="240.0" x2="154.2" y2="94.2" stroke="#000" stroke-width="1.2" stroke-dasharray="6,4"/>
+<line x1="154.2" y1="94.2" x2="460.0" y2="40.0" stroke="#000" stroke-width="1.2" stroke-dasharray="6,4"/>
+<line x1="180.0" y1="240.0" x2="365.8" y2="305.8" stroke="#000" stroke-width="1.2" stroke-dasharray="6,4"/>
+<line x1="365.8" y1="305.8" x2="460.0" y2="40.0" stroke="#000" stroke-width="1.2" stroke-dasharray="6,4"/>
+<polyline points="155.9,104.0 165.8,102.3 164.0,92.4" fill="none" stroke="#000" stroke-width="1"/>
+<polyline points="356.4,302.5 359.7,293.1 369.2,296.4" fill="none" stroke="#000" stroke-width="1"/>
+<circle cx="180.0" cy="240.0" r="3.5" fill="#000"/>
+<circle cx="154.2" cy="94.2" r="3.5" fill="#000"/>
+<circle cx="365.8" cy="305.8" r="3.5" fill="#000"/>
+<text x="18.0" y="358.0" font-family="Helvetica, Arial, sans-serif" font-size="20" font-style="italic" fill="#000">A</text>
+<text x="404.0" y="362.0" font-family="Helvetica, Arial, sans-serif" font-size="20" font-style="italic" fill="#000">B</text>
+<text x="468.0" y="34.0" font-family="Helvetica, Arial, sans-serif" font-size="20" font-style="italic" fill="#000">C</text>
+<text x="88.0" y="30.0" font-family="Helvetica, Arial, sans-serif" font-size="20" font-style="italic" fill="#000">D</text>
+<text x="156.0" y="248.0" font-family="Helvetica, Arial, sans-serif" font-size="20" font-style="italic" fill="#000">G</text>
+<text x="130.2" y="92.2" font-family="Helvetica, Arial, sans-serif" font-size="20" font-style="italic" fill="#000">P</text>
+<text x="377.8" y="313.8" font-family="Helvetica, Arial, sans-serif" font-size="20" font-style="italic" fill="#000">Q</text>
+</svg>

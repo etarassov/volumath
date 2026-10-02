@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 223" width="400" height="223">
+  <circle cx="111.4" cy="111.4" r="83.4" fill="none" stroke="#000" stroke-width="1.4"/>
+  <line x1="111.4" y1="111.4" x2="372" y2="111.4" fill="none" stroke="#000" stroke-width="1.2"/>
+  <line x1="111.4" y1="111.4" x2="133" y2="30.8" fill="none" stroke="#000" stroke-width="1.2"/>
+  <line x1="372" y1="111.4" x2="133" y2="30.8" fill="none" stroke="#000" stroke-width="1.4"/>
+  <line x1="111.4" y1="111.4" x2="218.8" y2="29" fill="none" stroke="#555" stroke-width="1.0" stroke-dasharray="5,4"/>
+  <path d="M 137.4 111.4 A 26 26 0 0 0 132 95.6" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 135.2 93.1 A 30 30 0 0 0 119.2 82.4" fill="none" stroke="#000" stroke-width="1.1"/>
+  <circle cx="111.4" cy="111.4" r="3" fill="#000"/>
+  <circle cx="372" cy="111.4" r="3" fill="#000"/>
+  <circle cx="133" cy="30.8" r="3" fill="#000"/>
+  <circle cx="190.9" cy="50.4" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="96.4" y="127.2">O</text>
+    <text x="379" y="124.3">A</text>
+    <text x="122" y="24.1">P</text>
+    <text x="192.8" y="44.2">M</text>
+  </g>
+</svg>

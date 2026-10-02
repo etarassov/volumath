@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="354" viewBox="0 0 460 354">
+<rect x="0" y="0" width="460" height="354" fill="#fff"/>
+<polygon points="60.0,324.4 400.0,324.4 230.0,30.0" stroke="#000" stroke-width="1.8" fill="#f2f2f2"/>
+<line x1="60.0" y1="324.4" x2="315.0" y2="177.2" stroke="#000" stroke-width="1.4" fill="none" stroke-dasharray="5,4"/>
+<line x1="276.8" y1="111.0" x2="91.9" y2="217.7" stroke="#000" stroke-width="1.4" fill="none" />
+<line x1="276.8" y1="111.0" x2="276.8" y2="324.4" stroke="#000" stroke-width="1.4" fill="none" />
+<line x1="276.8" y1="324.4" x2="91.9" y2="217.7" stroke="#000" stroke-width="1.4" fill="none" />
+<polyline points="270.8,100.7 260.5,106.6 266.4,116.9" stroke="#000" stroke-width="1" fill="none"/>
+<polyline points="288.6,324.4 288.6,312.5 276.8,312.5" stroke="#000" stroke-width="1" fill="none"/>
+<polyline points="120.1,220.3 130.4,226.2 124.5,236.5" stroke="#000" stroke-width="1" fill="none"/>
+<circle cx="60.0" cy="324.4" r="2.6" fill="#000"/>
+<circle cx="400.0" cy="324.4" r="2.6" fill="#000"/>
+<circle cx="230.0" cy="30.0" r="2.6" fill="#000"/>
+<circle cx="136.5" cy="191.9" r="2.6" fill="#000"/>
+<circle cx="276.8" cy="111.0" r="2.6" fill="#000"/>
+<circle cx="276.8" cy="324.4" r="2.6" fill="#000"/>
+<circle cx="114.2" cy="230.6" r="2.6" fill="#000"/>
+<circle cx="91.9" cy="217.7" r="2.6" fill="#000"/>
+<circle cx="315.0" cy="177.2" r="2.6" fill="#000"/>
+<text x="44.0" y="338.4" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">A</text>
+<text x="406.0" y="338.4" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">B</text>
+<text x="225.0" y="22.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">C</text>
+<text x="118.5" y="189.9" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">D</text>
+<text x="284.8" y="109.0" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">F</text>
+<text x="271.8" y="344.4" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">K</text>
+<text x="97.2" y="238.6" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">E</text>
+<text x="74.9" y="213.7" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">P</text>
+<text x="323.0" y="181.2" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000">L</text>
+</svg>

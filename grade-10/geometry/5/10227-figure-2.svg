@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 373 373" width="373" height="373">
+  <circle cx="186.6" cy="186.6" r="160.6" fill="none" stroke="#000" stroke-width="1.3"/>
+  <circle cx="161.1" cy="282.9" r="60.9" fill="none" stroke="#1f4fa0" stroke-width="1.3"/>
+  <circle cx="317.7" cy="124.3" r="15.4" fill="none" stroke="#1f4fa0" stroke-width="1.3"/>
+  <circle cx="107.5" cy="106.2" r="47.8" fill="none" stroke="#1f4fa0" stroke-width="1.3"/>
+  <polygon points="267.8,48.0 30.0,222.0 343.2,222.0" fill="none" stroke="#000" stroke-width="1.3"/>
+  <line x1="267.8" y1="48.0" x2="161.1" y2="222.0" fill="none" stroke="#888" stroke-width="0.9"/>
+  <line x1="30.0" y1="222.0" x2="303.5" y2="130.5" fill="none" stroke="#888" stroke-width="0.9"/>
+  <line x1="343.2" y1="222.0" x2="135.7" y2="144.7" fill="none" stroke="#888" stroke-width="0.9"/>
+  <line x1="267.8" y1="48.0" x2="145.5" y2="341.8" fill="none" stroke="#b00" stroke-width="1.3"/>
+  <line x1="30.0" y1="222.0" x2="331.6" y2="117.7" fill="none" stroke="#b00" stroke-width="1.3"/>
+  <line x1="343.2" y1="222.0" x2="73.9" y2="72.1" fill="none" stroke="#b00" stroke-width="1.3"/>
+  <line x1="145.5" y1="341.8" x2="186.6" y2="26.0" fill="none" stroke="#555" stroke-width="1" stroke-dasharray="5 3"/>
+  <circle cx="186.6" cy="26.0" r="2.3" fill="#000"/>
+  <circle cx="267.8" cy="48.0" r="2.3" fill="#000"/>
+  <circle cx="30.0" cy="222.0" r="2.3" fill="#000"/>
+  <circle cx="343.2" cy="222.0" r="2.3" fill="#000"/>
+  <circle cx="161.1" cy="222.0" r="2.3" fill="#000"/>
+  <circle cx="303.5" cy="130.5" r="2.3" fill="#000"/>
+  <circle cx="135.7" cy="144.7" r="2.3" fill="#000"/>
+  <circle cx="145.5" cy="341.8" r="2.3" fill="#000"/>
+  <circle cx="331.6" cy="117.7" r="2.3" fill="#000"/>
+  <circle cx="73.9" cy="72.1" r="2.3" fill="#000"/>
+  <text x="186.6" y="16.4" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">N<tspan font-size="10" dy="4">A</tspan></text>
+  <text x="267.8" y="38.4" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">A</text>
+  <text x="19.0" y="222.9" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">B</text>
+  <text x="354.2" y="222.9" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">C</text>
+  <text x="154.8" y="237.8" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">A'</text>
+  <text x="296.5" y="149.9" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">B'</text>
+  <text x="127.4" y="138.7" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">C'</text>
+  <text x="145.5" y="361.2" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">P<tspan font-size="10" dy="4">A</tspan></text>
+  <text x="339.9" y="111.7" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">P<tspan font-size="10" dy="4">B</tspan></text>
+  <text x="65.7" y="66.1" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">P<tspan font-size="10" dy="4">C</tspan></text>
+  <text x="30.0" y="259.3" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#000">Γ</text>
+</svg>

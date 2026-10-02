@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="282" viewBox="0 0 430 282">
+  <circle cx="141.1" cy="141.1" r="95.3" fill="none" stroke="#000" stroke-width="1.4"/>
+  <path d="M 379.4 126.8 L 151.5 43.4" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 379.4 126.8 L 163.1 236.9" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 379.4 126.8 L 39.8 91.1" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 184.4 226.1 L 81.2 215.2" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 81.2 215.2 L 173.9 51.6" fill="none" stroke="#555" stroke-width="1.0" stroke-dasharray="6,4"/>
+  <circle cx="173.9" cy="51.6" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="184.4" cy="226.1" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="379.4" cy="126.8" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="58.8" cy="93.1" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="231.7" cy="111.3" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="81.2" cy="215.2" r="3.0" fill="#000" stroke="none"/>
+  <circle cx="141.1" cy="141.1" r="3.0" fill="#000" stroke="none"/>
+  <text x="175.9" y="41.6" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">A</text>
+  <text x="186.4" y="244.1" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">B</text>
+  <text x="387.4" y="130.8" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">P</text>
+  <text x="50.8" y="87.1" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="end">Q</text>
+  <text x="233.7" y="102.3" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">R</text>
+  <text x="75.2" y="231.2" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="end">S</text>
+  <text x="148.1" y="156.1" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="start">O</text>
+  <text x="61.3" y="63.3" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000" text-anchor="end">C</text>
+</svg>

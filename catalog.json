@@ -2699,37 +2699,6 @@
     ]
   },
   {
-    "id": "7216",
-    "title": "La multiplication est-elle juste ?",
-    "grade": 8,
-    "theme": "arithmetic",
-    "difficulty": 2,
-    "duration_min": 15,
-    "tags": [
-      "divisibilite",
-      "somme des chiffres",
-      "preuve par neuf",
-      "multiple de 3"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2017",
-      "reference": "Poly-CJ-17.pdf, « Débutants », jeudi 26 matin (Yohann d'Anello), invariants, exercice 7",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-CJ-17.pdf"
-    },
-    "path": "grade-08/arithmetic/2/7216-the-wrong-multiplication.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7303",
     "title": "La somme des chiffres de 10²⁰⁰⁸ − 2008",
     "grade": 8,
@@ -5097,38 +5066,6 @@
     ]
   },
   {
-    "id": "0711",
-    "title": "Une seule case noire sur l'échiquier ?",
-    "grade": 8,
-    "theme": "coloring",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "coloriage",
-      "echiquier",
-      "invariant",
-      "parite",
-      "impossibilite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-19",
-    "source": {
-      "name": "Club de mathématiques de Lyon, feuille « Combinatoire », niveau collège - débutants",
-      "reference": "Combinatoire.Invariants.pdf, exercice 30",
-      "url": "",
-      "original_language": "fr",
-      "local_copy": "sources/originals/clublyon/Combinatoire.Invariants.pdf"
-    },
-    "path": "grade-08/coloring/3/0711-a-single-black-cell-on-the-chessboard.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "0712",
     "title": "Autant de cases blanches que de noires",
     "grade": 8,
@@ -5343,37 +5280,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2016.pdf"
     },
     "path": "grade-08/coloring/3/7930-six-birds-around-six-trees.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8134",
-    "title": "Traverser tout le damier d'un coin à l'autre",
-    "grade": 8,
-    "theme": "coloring",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "damier",
-      "parite",
-      "coloriage",
-      "parcours"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2018, entraînement final du Groupe A",
-      "reference": "stage_ete_2018.pdf, Groupe A, « Exercices d'entraînement – Entraînement final », exercice 2",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
-    },
-    "path": "grade-08/coloring/3/8134-crossing-the-whole-board-corner-to-corner.md",
     "sections": [
       "Going further",
       "Hints",
@@ -7020,7 +6926,9 @@
       "plan"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "4616"
+    ],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Montpellier 2014, cours de Groupe A",
@@ -8005,37 +7913,6 @@
       "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
     },
     "path": "grade-08/geometry/2/0630-where-the-bisectors-meet.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "0631",
-    "title": "Deux reports dans un triangle isocèle",
-    "grade": 8,
-    "theme": "geometry",
-    "difficulty": 2,
-    "duration_min": 20,
-    "tags": [
-      "angles",
-      "triangle-isocele",
-      "calcul-dangles",
-      "angles-plats"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-19",
-    "source": {
-      "name": "Club de mathématiques de Lyon, feuille « Ensembles. Géométrie »",
-      "reference": "Ensembles.Geometry.pdf, 22 septembre 2023, problème P 52, section « Angles », USA 1977",
-      "url": "",
-      "original_language": "fr",
-      "local_copy": "sources/originals/clublyon/Ensembles.Geometry.pdf"
-    },
-    "path": "grade-08/geometry/2/0631-two-lengths-carried-over.md",
     "sections": [
       "Going further",
       "Hints",
@@ -9430,39 +9307,6 @@
     ]
   },
   {
-    "id": "4604",
-    "title": "Deux points de même couleur à un mètre",
-    "grade": 8,
-    "theme": "geometry",
-    "difficulty": 3,
-    "duration_min": 15,
-    "tags": [
-      "tiroirs",
-      "couleurs",
-      "triangle equilateral",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "4616"
-    ],
-    "created": "2026-09-19",
-    "source": {
-      "name": "Los Angeles Math Circle (UCLA), Beginners Circle, Pigeonhole Principle",
-      "reference": "Handout-582-703.pdf, problème 9 (réponse dans Handout-583-703.pdf)",
-      "url": "https://circles.math.ucla.edu/circles/archive.shtml",
-      "original_language": "en",
-      "local_copy": "sources/originals/ucla-lamc/Handout-582-703.pdf"
-    },
-    "path": "grade-08/geometry/3/4604-two-points-of-the-same-colour-one-metre-apart.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "4611",
     "title": "La bissectrice intérieure et la bissectrice extérieure",
     "grade": 8,
@@ -9861,36 +9705,6 @@
       "local_copy": "sources/originals/clublyon/Angles.2.pdf"
     },
     "path": "grade-08/logic-reasoning/1/0653-seven-hundred-thirty-three-pupils.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7101",
-    "title": "Seize élèves et trois exercices",
-    "grade": 8,
-    "theme": "logic-reasoning",
-    "difficulty": 1,
-    "duration_min": 10,
-    "tags": [
-      "tiroirs",
-      "denombrement",
-      "raisonnement-par-l-absurde"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior 2013-2016 (Cachan), stage 2016",
-      "reference": "stage_junior_2016.pdf, « Débutants : stratégies de base », vendredi après-midi (Colin Davalo), exercice 1",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2016.pdf"
-    },
-    "path": "grade-08/logic-reasoning/1/7101-sixteen-students-three-problems.md",
     "sections": [
       "Going further",
       "Hints",
@@ -11519,36 +11333,6 @@
     ]
   },
   {
-    "id": "7002",
-    "title": "Six oiseaux sur un hexagone",
-    "grade": 8,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "invariant",
-      "parite",
-      "hexagone"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2011, groupe des débutants",
-      "reference": "stage_junior_2011.pdf, « Stratégies de base », cours (François Lo Jacomo), exercice 5",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2011.pdf"
-    },
-    "path": "grade-08/logic-reasoning/3/7002-six-birds-on-a-hexagon.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7003",
     "title": "2, 3, 4 au tableau",
     "grade": 8,
@@ -11639,67 +11423,6 @@
     ]
   },
   {
-    "id": "7006",
-    "title": "Des mots qui se transforment",
-    "grade": 8,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "invariant",
-      "mots",
-      "transformation"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2011, groupe des débutants",
-      "reference": "stage_junior_2011.pdf, « Stratégies de base », TD (Igor Kortchemski), exercice 1",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2011.pdf"
-    },
-    "path": "grade-08/logic-reasoning/3/7006-words-that-transform.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7106",
-    "title": "Six oiseaux sur un hexagone",
-    "grade": 8,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "invariant",
-      "parite",
-      "coloriage",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013",
-      "reference": "stage_junior_2013.pdf, « Débutants : stratégies de base », mercredi et jeudi matin (François Lo Jacomo), exercice 9",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2013.pdf"
-    },
-    "path": "grade-08/logic-reasoning/3/7106-six-birds-on-a-hexagon.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7107",
     "title": "Trois tas de pièces",
     "grade": 8,
@@ -11723,37 +11446,6 @@
       "local_copy": "sources/originals/pofm/stage_junior_2013.pdf"
     },
     "path": "grade-08/logic-reasoning/3/7107-three-piles-of-coins.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7108",
-    "title": "Seize ampoules et huit interrupteurs",
-    "grade": 8,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "invariant",
-      "parite",
-      "tableau",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013",
-      "reference": "stage_junior_2013.pdf, « Débutants : stratégies de base », mercredi et jeudi matin (François Lo Jacomo), exercice 8",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2013.pdf"
-    },
-    "path": "grade-08/logic-reasoning/3/7108-sixteen-lamps-and-eight-switches.md",
     "sections": [
       "Going further",
       "Hints",
@@ -12011,41 +11703,6 @@
     ]
   },
   {
-    "id": "7407",
-    "title": "Six oiseaux sur un hexagone",
-    "grade": 8,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "invariant",
-      "parite",
-      "hexagone",
-      "impossibilite"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7002",
-      "7106",
-      "7233"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Grésillon 2010, groupe des débutants",
-      "reference": "stage_ete_2010.pdf, « Groupe des Débutants », exercices vus en cours de stratégies de base, exercice 10 (repris en 2011, premier TD, exercice 9)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2010.pdf"
-    },
-    "path": "grade-08/logic-reasoning/3/7407-six-birds-on-a-hexagon.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7501",
     "title": "Le loup, les cochons et les lièvres",
     "grade": 8,
@@ -12226,37 +11883,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
     },
     "path": "grade-08/logic-reasoning/3/7713-sixteen-lamps-and-eight-switches.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8343",
-    "title": "33 nombres en 11 groupes de trois",
-    "grade": 8,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "parite",
-      "invariant",
-      "somme",
-      "impossibilite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2020, cours du Groupe B",
-      "reference": "Polycopie-Valbonne-2020-v2.pdf, Groupe B, « Pavages, coloriages et invariants » (Aline), exercice 4",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Polycopie-Valbonne-2020-v2.pdf"
-    },
-    "path": "grade-08/logic-reasoning/3/8343-thirty-three-numbers-in-eleven-triples.md",
     "sections": [
       "Going further",
       "Hints",
@@ -15511,39 +15137,6 @@
     ]
   },
   {
-    "id": "8584",
-    "title": "Deux mille vingt-trois nombres et une différence",
-    "grade": 9,
-    "theme": "arithmetic",
-    "difficulty": 2,
-    "duration_min": 15,
-    "tags": [
-      "principe-des-tiroirs",
-      "divisibilite",
-      "reste",
-      "division-euclidienne"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "4601"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe A",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre III, « Principe des tiroirs » (Vincent) du Groupe A, exercice 4",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-09/arithmetic/2/8584-two-thousand-and-twentythree-numbers-and-a-difference.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8622",
     "title": "Le produit de trois différences est toujours pair",
     "grade": 9,
@@ -15590,7 +15183,9 @@
       "divisibilite"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "4601"
+    ],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2023, Groupe A",
@@ -17049,36 +16644,6 @@
     ]
   },
   {
-    "id": "7238",
-    "title": "Quand n − 1 divise n² + 2",
-    "grade": 9,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "divisibilite",
-      "diviseurs",
-      "combinaison"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2018",
-      "reference": "Poly_final_CJ18.pdf, « Première journée », schibboleth des groupes, arithmétique, exercice 5",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_final_CJ18.pdf"
-    },
-    "path": "grade-09/arithmetic/3/7238-n-minus-one-divides-n-squared-plus-two.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7313",
     "title": "Égal à la moyenne de ses permutations",
     "grade": 9,
@@ -17132,39 +16697,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2011.pdf"
     },
     "path": "grade-09/arithmetic/3/7410-when-4p-plus-1-and-7p-minus-4-are-prime.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7412",
-    "title": "Dix sommes deux à deux consécutives",
-    "grade": 9,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "parite",
-      "somme",
-      "absurde",
-      "denombrement"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7009"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Grésillon 2011, La Muraille",
-      "reference": "stage_ete_2011.pdf, « La Muraille », exercice 29 (résolu par Lucas Perotin, Timothée Schoen et Augustin Bariant)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2011.pdf"
-    },
-    "path": "grade-09/arithmetic/3/7412-ten-consecutive-pairwise-sums.md",
     "sections": [
       "Going further",
       "Hints",
@@ -18042,8 +17574,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "0876",
-      "8819"
+      "0876"
     ],
     "created": "2026-09-20",
     "source": {
@@ -18240,37 +17771,6 @@
       "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
     },
     "path": "grade-09/arithmetic/3/8814-one-third-is-not-a-decimal.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8819",
-    "title": "p, p + 2 et p + 4 tous premiers",
-    "grade": 9,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "nombres premiers",
-      "divisibilite par 3",
-      "disjonction de cas",
-      "restes"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Arithmétique : Nombres premiers » (Anatole et Martin), exercice 18, p. 58",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-09/arithmetic/3/8819-three-primes-two-apart.md",
     "sections": [
       "Going further",
       "Hints",
@@ -19440,8 +18940,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "8462",
-      "7626"
+      "8462"
     ],
     "created": "2026-09-20",
     "source": {
@@ -20343,36 +19842,6 @@
       "local_copy": "sources/originals/mmmf-msu/Kan2018.pdf"
     },
     "path": "grade-09/coloring/4/0510-fifteen-horizontal-and-seventeen-vertical-dominoes.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7008",
-    "title": "Paver un triangle avec des sphinx",
-    "grade": 9,
-    "theme": "coloring",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "pavage",
-      "parite",
-      "triangle equilateral"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2012, groupe des débutants",
-      "reference": "stage_junior_2012.pdf, combinatoire après-midi (François Lo Jacomo), exercice 8 ; déjà posé en 2011 (stage_junior_2011.pdf, « Stratégies de base », cours, exercice 7, où les nombres 15 et 21 sont intervertis)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2012.pdf"
-    },
-    "path": "grade-09/coloring/4/7008-paving-with-sphinxes.md",
     "sections": [
       "Going further",
       "Hints",
@@ -21995,69 +21464,6 @@
     ]
   },
   {
-    "id": "8459",
-    "title": "Forcer une différence de 2",
-    "grade": 9,
-    "theme": "combinatorics",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "principe des tiroirs",
-      "construction",
-      "chaines",
-      "extremum"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "8550"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe B",
-      "reference": "Poly-2021-Valbonne.pdf, Groupe B, « Principe des tiroirs » (Angela Xue), exercice 3",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
-    },
-    "path": "grade-09/combinatorics/3/8459-forcing-a-difference-of-two.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8550",
-    "title": "Combien de nombres pour forcer une différence de 2 ?",
-    "grade": 9,
-    "theme": "combinatorics",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "principe-des-tiroirs",
-      "minimum",
-      "contre-exemple",
-      "difference"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe B",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Principe des tiroirs et de l'extremum » (Angela) du Groupe B, exercice 3",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-09/combinatorics/3/8550-how-many-numbers-to-force-a-difference-of-two.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8626",
     "title": "Huit sommes pour sept valeurs possibles",
     "grade": 9,
@@ -22112,37 +21518,6 @@
       "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
     },
     "path": "grade-09/combinatorics/3/8828-five-points-in-a-triangle.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8829",
-    "title": "Huit sommes dans un tableau 3 × 3",
-    "grade": 9,
-    "theme": "combinatorics",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "principe des tiroirs",
-      "sommes",
-      "tableau",
-      "denombrement"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Combinatoire : Principe des tiroirs » (Emilhan), exercice 4, p. 110",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-09/combinatorics/3/8829-eight-sums-in-a-three-by-three-table.md",
     "sections": [
       "Going further",
       "Hints",
@@ -22496,39 +21871,6 @@
     ]
   },
   {
-    "id": "7516",
-    "title": "Filles et garçons en cercle",
-    "grade": 9,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "double-comptage",
-      "cercle",
-      "voisins",
-      "paires"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7618"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2012, La Muraille",
-      "reference": "stage_ete_2012.pdf, chapitre V « La Muraille », exercice 2. La Muraille ne donne pas de solution pour cet exercice : la solution ci-dessous a été rédigée pour ce recueil.",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2012.pdf"
-    },
-    "path": "grade-09/combinatorics/4/7516-girls-and-boys-in-a-circle.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7755",
     "title": "Filles et garçons côte à côte",
     "grade": 9,
@@ -22542,7 +21884,9 @@
       "invariant"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "7618"
+    ],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Montpellier 2014, la muraille",
@@ -22727,7 +22071,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "8843"
+      "8305"
     ],
     "created": "2026-09-20",
     "source": {
@@ -23238,37 +22582,6 @@
       "local_copy": "sources/originals/pofm/stage_junior_2014.pdf"
     },
     "path": "grade-09/geometry/2/7112-four-angles-and-the-fifth.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7115",
-    "title": "Le cercle inscrit du triangle 3-4-5",
-    "grade": 9,
-    "theme": "geometry",
-    "difficulty": 2,
-    "duration_min": 20,
-    "tags": [
-      "cercle inscrit",
-      "aire",
-      "triangle rectangle",
-      "pythagore"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013",
-      "reference": "stage_junior_2013.pdf, « Exercices d'échauffement », exercice 8",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2013.pdf"
-    },
-    "path": "grade-09/geometry/2/7115-the-incircle-of-the-three-four-five-triangle.md",
     "sections": [
       "Going further",
       "Hints",
@@ -24820,36 +24133,6 @@
       "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
     },
     "path": "grade-09/geometry/3/8525-a-diagonal-cut-into-three.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8535",
-    "title": "Cinq points dans un triangle équilatéral",
-    "grade": 9,
-    "theme": "geometry",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "principe-des-tiroirs",
-      "triangle-equilateral",
-      "distance",
-      "milieux"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe A",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre III, « Révisions » (Isaline) du Groupe A, exercice 9",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-09/geometry/3/8535-five-points-in-an-equilateral-triangle.md",
     "sections": [
       "Hints",
       "Solution",
@@ -26454,7 +25737,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "0711"
+      "7007"
     ],
     "created": "2026-09-20",
     "source": {
@@ -26691,37 +25974,6 @@
     ]
   },
   {
-    "id": "7240",
-    "title": "De 1 à 33 en onze groupes de trois",
-    "grade": 9,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "parite",
-      "invariant",
-      "somme",
-      "impossibilite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2018",
-      "reference": "Poly_final_CJ18.pdf, « Débutants », jeudi 25 matin (Vincent Jugé), invariants, exercice 12",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_final_CJ18.pdf"
-    },
-    "path": "grade-09/logic-reasoning/3/7240-thirty-three-numbers-in-eleven-triples.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7311",
     "title": "La dernière boule du sac",
     "grade": 9,
@@ -26776,37 +26028,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2011.pdf"
     },
     "path": "grade-09/logic-reasoning/3/7414-the-rooks-game.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7415",
-    "title": "Les pièces sur la table rectangulaire",
-    "grade": 9,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "jeu",
-      "strategie",
-      "symetrie",
-      "geometrie"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Grésillon 2011, La Muraille",
-      "reference": "stage_ete_2011.pdf, « La Muraille », exercice 26 (résolu par Xavier Poulot-Cazajous)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2011.pdf"
-    },
-    "path": "grade-09/logic-reasoning/3/7415-coins-on-a-rectangular-table.md",
     "sections": [
       "Going further",
       "Hints",
@@ -26877,37 +26098,6 @@
     ]
   },
   {
-    "id": "7419",
-    "title": "Des mots qui ne perdent jamais leurs x",
-    "grade": 9,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "invariant",
-      "mots",
-      "transformation",
-      "impossibilite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Grésillon 2011, incontournable : stratégies de base",
-      "reference": "stage_ete_2011.pdf, « Première période », incontournable stratégies de base, premier TD, exercice 2",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2011.pdf"
-    },
-    "path": "grade-09/logic-reasoning/3/7419-words-that-never-lose-their-x.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7514",
     "title": "Le plus petit des plus grands",
     "grade": 9,
@@ -26932,37 +26122,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2012.pdf"
     },
     "path": "grade-09/logic-reasoning/3/7514-the-smallest-of-the-largest.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7644",
-    "title": "Les caméléons de l'île",
-    "grade": 9,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "invariant",
-      "modulo 3",
-      "couleurs",
-      "differences"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2013, cours de stratégies de base du groupe A",
-      "reference": "stage_ete_2013.pdf, chapitre II, groupe A, « Cours de stratégies de base » (Pierre Bertin), exercice 12 ; variante avec d'autres effectifs au groupe B, exercice 7",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2013.pdf"
-    },
-    "path": "grade-09/logic-reasoning/3/7644-the-chameleons-of-the-island.md",
     "sections": [
       "Going further",
       "Hints",
@@ -27105,7 +26264,6 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "7108",
       "7713"
     ],
     "created": "2026-09-20",
@@ -27198,7 +26356,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "0711"
+      "7007"
     ],
     "created": "2026-09-20",
     "source": {
@@ -27367,36 +26525,6 @@
       "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
     },
     "path": "grade-09/logic-reasoning/3/8558-seven-friends-and-a-hundred-mushrooms.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8561",
-    "title": "Deux nombres de même parité, deux moyennes",
-    "grade": 9,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "invariant",
-      "somme",
-      "moyenne",
-      "divisibilite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe B",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Pavages, Coloriages et Invariants » (Arthur) du Groupe B, exercice 1",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-09/logic-reasoning/3/8561-two-numbers-of-the-same-parity-two-averages.md",
     "sections": [
       "Hints",
       "Solution",
@@ -27616,37 +26744,6 @@
       "local_copy": "sources/originals/pofm/poly_valbonne_2024.pdf"
     },
     "path": "grade-09/logic-reasoning/3/8745-two-bowls-of-rice.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8846",
-    "title": "Des pièces et des tas",
-    "grade": 9,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "invariant",
-      "parite",
-      "processus",
-      "raisonnement par labsurde"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Combinatoire : Invariants et coloriage » (Lilas et Paul A), exercice 2, p. 123",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-09/logic-reasoning/3/8846-coins-and-piles.md",
     "sections": [
       "Going further",
       "Hints",
@@ -28347,7 +27444,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "4604"
+      "7716"
     ],
     "created": "2026-09-19",
     "source": {
@@ -28493,37 +27590,6 @@
     ]
   },
   {
-    "id": "7217",
-    "title": "Les trente-quatre caméléons",
-    "grade": 9,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "invariant",
-      "modulo",
-      "couleurs",
-      "difference"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2017",
-      "reference": "Poly-CJ-17.pdf, « Débutants », jeudi 26 matin (Yohann d'Anello), invariants, exercice 8 (repris dans Poly_final_CJ18.pdf, jeudi 25 matin, Vincent Jugé, exercice 13)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-CJ-17.pdf"
-    },
-    "path": "grade-09/logic-reasoning/4/7217-the-thirty-four-chameleons.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7312",
     "title": "Les caméléons de l'île déserte",
     "grade": 9,
@@ -28538,8 +27604,6 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "7644",
-      "8121",
       "8852"
     ],
     "created": "2026-09-20",
@@ -28865,37 +27929,6 @@
     ]
   },
   {
-    "id": "8527",
-    "title": "Trente-quatre caméléons",
-    "grade": 9,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "invariant",
-      "congruences",
-      "modulo-trois",
-      "construction"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe A",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre III, « Invariants » (Xavier) du Groupe A, exercice 4",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-09/logic-reasoning/4/8527-thirty-four-chameleons.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "0456",
     "title": "Le carré plié puis coupé",
     "grade": 9,
@@ -29035,7 +28068,6 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "7950",
       "8146"
     ],
     "created": "2026-09-20",
@@ -30007,36 +29039,6 @@
     ]
   },
   {
-    "id": "7025",
-    "title": "Une hypothèse qui donne les cubes",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "identite remarquable",
-      "calcul algebrique",
-      "fractions"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2010",
-      "reference": "stage_junior_2010.pdf, vendredi 29 octobre, test d'algèbre, exercice 1",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2010.pdf"
-    },
-    "path": "grade-10/algebra/3/7025-a-hypothesis-that-gives-the-cubes.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7028",
     "title": "Une somme de quatre-vingt-dix-neuf fractions",
     "grade": 10,
@@ -30089,37 +29091,6 @@
       "local_copy": "sources/originals/pofm/stage_junior_2009.pdf"
     },
     "path": "grade-10/algebra/3/7029-absolute-value-three-product-minus-ten.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7236",
-    "title": "Quatre nombres de somme 4",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "inegalite",
-      "factorisation",
-      "carre positif",
-      "produit et somme"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2018",
-      "reference": "Poly_final_CJ18.pdf, « Première journée », exercices d'échauffement, exercice 2",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_final_CJ18.pdf"
-    },
-    "path": "grade-10/algebra/3/7236-abcd-sum-four.md",
     "sections": [
       "Going further",
       "Hints",
@@ -30398,37 +29369,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2013.pdf"
     },
     "path": "grade-10/algebra/3/7607-an-inequality-hiding-a-square.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7626",
-    "title": "Des 4 et des 8 qui font un carré",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "nombres repunits",
-      "somme geometrique",
-      "carre parfait",
-      "puissances de dix"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2013, La Muraille",
-      "reference": "stage_ete_2013.pdf, chapitre X « La Muraille », exercice 32 (solution chapitre XI, résolue par Morine Delhelle, Julie Devaux et Julie Lauquin)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2013.pdf"
-    },
-    "path": "grade-10/algebra/3/7626-fours-and-eights-make-a-square.md",
     "sections": [
       "Going further",
       "Hints",
@@ -30771,35 +29711,6 @@
     ]
   },
   {
-    "id": "8109",
-    "title": "D'une somme de fractions à une somme de cubes",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "identite-remarquable",
-      "fractions",
-      "calcul-litteral"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2018, cours de Groupe A",
-      "reference": "stage_ete_2018.pdf, Groupe A, « Algèbre – Calculs algébriques », exercice 2",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
-    },
-    "path": "grade-10/algebra/3/8109-from-a-sum-of-fractions-to-a-sum-of-cubes.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8110",
     "title": "Trois valeurs absolues contre trois autres",
     "grade": 10,
@@ -30851,35 +29762,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
     },
     "path": "grade-10/algebra/3/8114-three-fractions-from-a-triangle.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8115",
-    "title": "4a³(a − b) contre a⁴ − b⁴",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "inegalite",
-      "factorisation",
-      "puissances"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2018, cours de Groupe A",
-      "reference": "stage_ete_2018.pdf, Groupe A, « Algèbre – Calculs algébriques », exercice 11",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
-    },
-    "path": "grade-10/algebra/3/8115-four-times-a-cube-against-a-difference-of-fourth-powers.md",
     "sections": [
       "Hints",
       "Solution",
@@ -30993,9 +29875,7 @@
       "identites remarquables"
     ],
     "adapted_from": null,
-    "see_also": [
-      "8115"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2019, cours de Groupe A",
@@ -31234,36 +30114,6 @@
     ]
   },
   {
-    "id": "8514",
-    "title": "Une condition cachée sur a³ + b³",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "identite-remarquable",
-      "factorisation",
-      "fractions"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe A",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre III, « Inégalités 2 » (Théo), exercice 9",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-10/algebra/3/8514-a-hidden-condition-on-a-cubed-plus-b-cubed.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8515",
     "title": "Une inégalité qui cache deux carrés",
     "grade": 10,
@@ -31345,38 +30195,6 @@
       "local_copy": "sources/originals/pofm/valbonne-2023.pdf"
     },
     "path": "grade-10/algebra/3/8614-four-fractions-in-a-ring.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8631",
-    "title": "Cinq nombres et leurs moyennes prises trois par trois",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "invariant",
-      "somme",
-      "produit",
-      "moyenne geometrique",
-      "divisibilite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2023, Groupe A",
-      "reference": "valbonne-2023.pdf, Groupe A, « Invariants/coloriages » (Gaëtan & Vincent), exercice 4",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/12/valbonne-2023.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/valbonne-2023.pdf"
-    },
-    "path": "grade-10/algebra/3/8631-five-numbers-and-their-three-way-averages.md",
     "sections": [
       "Going further",
       "Hints",
@@ -31656,38 +30474,6 @@
       "local_copy": "sources/originals/ucla-lamc/Handout-4789-4966.pdf"
     },
     "path": "grade-10/algebra/4/3204-the-one-metre-border.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "3206",
-    "title": "Une équation qui cache un produit",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "equation",
-      "entiers",
-      "factorisation",
-      "diviseurs",
-      "carres"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-19",
-    "source": {
-      "name": "Los Angeles Math Circle (UCLA), Math Competitions Training, Algebra review",
-      "reference": "Handout-4789-4966.pdf, section 2.2, exercice 8, d'après AIME 1987, problème 5 (réponse dans Handout-4792-4966.pdf)",
-      "url": "https://circles.math.ucla.edu/circles/archive.shtml",
-      "original_language": "en",
-      "local_copy": "sources/originals/ucla-lamc/Handout-4789-4966.pdf"
-    },
-    "path": "grade-10/algebra/4/3206-an-equation-that-hides-a-product.md",
     "sections": [
       "Going further",
       "Hints",
@@ -32106,37 +30892,6 @@
     ]
   },
   {
-    "id": "7860",
-    "title": "Une règle qui rend tous les nombres positifs",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 4,
-    "duration_min": 25,
-    "tags": [
-      "inegalite",
-      "raisonnement-par-labsurde",
-      "somme",
-      "decoupage"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2015, La Muraille",
-      "reference": "stage_ete_2015.pdf, « La Muraille », exercice 2 (résolu par Étienne Massart et Arthur Léonard)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2015.pdf"
-    },
-    "path": "grade-10/algebra/4/7860-a-rule-that-forces-every-number-to-be-positive.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8113",
     "title": "Quand 4n² + kn + 9 est-il toujours un carré ?",
     "grade": 10,
@@ -32160,36 +30915,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
     },
     "path": "grade-10/algebra/4/8113-when-is-this-always-a-perfect-square.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8143",
-    "title": "Remplacer a et b par ab + a + b",
-    "grade": 10,
-    "theme": "algebra",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "invariant",
-      "factorisation",
-      "factorielle",
-      "produit"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2018, La Muraille",
-      "reference": "stage_ete_2018.pdf, chapitre VIII « La Muraille », exercices de niveau 1, exercice 9 (deux étoiles). La Muraille ne donne que les énoncés, sans solution : la solution ci-dessous a été rédigée pour ce recueil.",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
-    },
-    "path": "grade-10/algebra/4/8143-replacing-two-numbers-by-ab-plus-a-plus-b.md",
     "sections": [
       "Hints",
       "Solution",
@@ -33207,7 +31932,9 @@
       "puissances de deux"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "8432"
+    ],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique junior de Cachan 2011, groupe des débutants",
@@ -33583,9 +32310,7 @@
       "croissance"
     ],
     "adapted_from": null,
-    "see_also": [
-      "0357"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Grésillon 2011, La Muraille",
@@ -33915,39 +32640,6 @@
     ]
   },
   {
-    "id": "7859",
-    "title": "3a² = b² + 1 n'a pas de solution",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "congruences",
-      "carres",
-      "reste",
-      "impossibilite"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "8326",
-      "8429"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2015",
-      "reference": "stage_ete_2015.pdf, quatrième période, groupe A « arithmétique », lundi 24 matin (Julien Portier), exercice 2",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2015.pdf"
-    },
-    "path": "grade-10/arithmetic/3/7859-three-a-squared-equals-b-squared-plus-one.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7863",
     "title": "2015 n'est pas une somme de trois cubes",
     "grade": 10,
@@ -34002,36 +32694,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2016.pdf"
     },
     "path": "grade-10/arithmetic/3/7907-a-power-of-two-that-is-a-seventeenth-power.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7932",
-    "title": "b² − 8 est une puissance de 3",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "congruences",
-      "carres",
-      "restes modulo 3",
-      "puissances"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2016, test de fin de parcours",
-      "reference": "stage_ete_2016.pdf, test de fin de parcours du mercredi 24 août, Groupe A, exercice 2 (énoncé p. 211, solution p. 212)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2016.pdf"
-    },
-    "path": "grade-10/arithmetic/3/7932-b-squared-minus-eight-is-a-power-of-three.md",
     "sections": [
       "Hints",
       "Solution",
@@ -34176,9 +32838,7 @@
       "verification"
     ],
     "adapted_from": null,
-    "see_also": [
-      "8540"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2019, entraînement de Groupe A",
@@ -34302,10 +32962,7 @@
       "modulo"
     ],
     "adapted_from": null,
-    "see_also": [
-      "7859",
-      "8429"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2020, cours du Groupe A",
@@ -34377,74 +33034,6 @@
       "local_copy": "sources/originals/pofm/Polycopie-Valbonne-2020-v2.pdf"
     },
     "path": "grade-10/arithmetic/3/8331-n-plus-one-divides-two-n-squared-plus-five-n.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8428",
-    "title": "Une somme de deux carrés qui n'existe pas",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "carres",
-      "reste",
-      "division-euclidienne",
-      "somme-de-deux-carres"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "8727"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe A",
-      "reference": "Poly-2021-Valbonne.pdf, Groupe A, « Modulos & factorisation » (Théo Lenoir et Angela Xue), exercice 4",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
-    },
-    "path": "grade-10/arithmetic/3/8428-a-sum-of-two-squares-that-does-not-exist.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8429",
-    "title": "3a² = b² + 1 n'a pas de solution",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 15,
-    "tags": [
-      "carres",
-      "reste",
-      "division-euclidienne",
-      "equation-en-entiers"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7859",
-      "8326",
-      "8661"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe A",
-      "reference": "Poly-2021-Valbonne.pdf, Groupe A, « Modulos & factorisation » (Théo Lenoir et Angela Xue), exercice 6",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
-    },
-    "path": "grade-10/arithmetic/3/8429-three-a-squared-equals-b-squared-plus-one.md",
     "sections": [
       "Going further",
       "Hints",
@@ -34594,8 +33183,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "7509",
-      "7626"
+      "7509"
     ],
     "created": "2026-09-20",
     "source": {
@@ -34768,35 +33356,6 @@
     ]
   },
   {
-    "id": "8540",
-    "title": "n + 2 divise n³ + 3n + 29",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "divisibilite",
-      "diviseurs",
-      "polynome"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe A",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre III, « Révisions » (Isaline) du Groupe A, exercice 17",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-10/arithmetic/3/8540-n-plus-two-divides-n-cubed-plus-three-n-plus-twentynine.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8569",
     "title": "n + 1 nombres parmi les 2n premiers",
     "grade": 10,
@@ -34874,9 +33433,7 @@
       "puissances"
     ],
     "adapted_from": null,
-    "see_also": [
-      "8728"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2023, Groupe A",
@@ -34948,41 +33505,6 @@
       "local_copy": "sources/originals/pofm/valbonne-2023.pdf"
     },
     "path": "grade-10/arithmetic/3/8654-two-equations-with-no-solution.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8661",
-    "title": "3a² = b² + 1 n'a pas de solution",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 20,
-    "tags": [
-      "equation diophantienne",
-      "congruences",
-      "carres",
-      "modulo trois"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7859",
-      "8326",
-      "8429"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2023, Groupe A",
-      "reference": "valbonne-2023.pdf, Groupe A, cours « Équations diophantiennes et factorisations » (Théo & Gaspard D.), exercice 3",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/12/valbonne-2023.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/valbonne-2023.pdf"
-    },
-    "path": "grade-10/arithmetic/3/8661-three-a-squared-equals-b-squared-plus-one.md",
     "sections": [
       "Going further",
       "Hints",
@@ -35563,9 +34085,7 @@
       "disjonction de cas"
     ],
     "adapted_from": null,
-    "see_also": [
-      "3206"
-    ],
+    "see_also": [],
     "created": "2026-09-19",
     "source": {
       "name": "Los Angeles Math Circle (UCLA), AMC 10/12, Week 1: Algebra",
@@ -36174,68 +34694,6 @@
     ]
   },
   {
-    "id": "7153",
-    "title": "Un multiple qui ne s'écrit qu'avec des zéros et des uns",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "tiroirs",
-      "congruences",
-      "divisibilite",
-      "numeration"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013",
-      "reference": "stage_junior_2013.pdf, « Débutants : stratégies de base », mercredi et jeudi matin (François Lo Jacomo), exercice 3",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2013.pdf"
-    },
-    "path": "grade-10/arithmetic/4/7153-a-multiple-written-with-zeros-and-ones.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7249",
-    "title": "Parmi n + 1 nombres, l'un divise l'autre",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "tiroirs",
-      "divisibilite",
-      "puissances de deux",
-      "partie impaire"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2021",
-      "reference": "Polycopie-mini.pdf, groupe A, « Combinatoire : principe des tiroirs », exercice 8",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Polycopie-mini.pdf"
-    },
-    "path": "grade-10/arithmetic/4/7249-one-divides-another.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7322",
     "title": "Cent cartes et trois additions fausses",
     "grade": 10,
@@ -36321,39 +34779,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2008.pdf"
     },
     "path": "grade-10/arithmetic/4/7325-n-factorial-is-never-divisible-by-two-to-the-n.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7431",
-    "title": "Quand 2ⁿ + 3 et 2ⁿ + 1 sont des carrés parfaits",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "carres",
-      "puissances-de-deux",
-      "congruences",
-      "factorisation"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "8432"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Grésillon 2010, groupe des débutants",
-      "reference": "stage_ete_2010.pdf, « Groupe des Débutants », TD d'arithmétique, exercice 9, repris au test d'arithmétique, exercice 2",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2010.pdf"
-    },
-    "path": "grade-10/arithmetic/4/7431-when-two-to-the-n-plus-three-is-a-square.md",
     "sections": [
       "Going further",
       "Hints",
@@ -36575,39 +35000,6 @@
     "path": "grade-10/arithmetic/4/7759-two-square-roots-adding-up.md",
     "sections": [
       "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7847",
-    "title": "Un multiple écrit uniquement avec des 1 et des 0",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "principe des tiroirs",
-      "restes",
-      "divisibilite",
-      "ecriture decimale"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7718",
-      "8551"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2015",
-      "reference": "stage_ete_2015.pdf, première période, groupe A « stratégies de base », mercredi 19 matin (Clara Ding), exercice 11",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2015.pdf"
-    },
-    "path": "grade-10/arithmetic/4/7847-a-multiple-written-with-ones-and-zeros.md",
-    "sections": [
       "Hints",
       "Solution",
       "Statement"
@@ -37073,37 +35465,6 @@
     ]
   },
   {
-    "id": "8329",
-    "title": "Quels entiers sont une différence de deux carrés ?",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "carres",
-      "parite",
-      "identite-remarquable",
-      "construction"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2020, cours du Groupe A",
-      "reference": "Polycopie-Valbonne-2020-v2.pdf, Groupe A, « Modulo et factorisation » (Émile), exercice 12",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Polycopie-Valbonne-2020-v2.pdf"
-    },
-    "path": "grade-10/arithmetic/4/8329-which-numbers-are-a-difference-of-two-squares.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8431",
     "title": "Une suite où chaque terme en divise un autre",
     "grade": 10,
@@ -37444,39 +35805,6 @@
     ]
   },
   {
-    "id": "8551",
-    "title": "Un multiple de n qui ne s'écrit qu'avec des 0 et des 1",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "principe-des-tiroirs",
-      "divisibilite",
-      "ecriture-decimale",
-      "reste"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "1217"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe B",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Principe des tiroirs et de l'extremum » (Angela) du Groupe B, exercice 4",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-10/arithmetic/4/8551-a-multiple-of-n-written-with-zeros-and-ones.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8578",
     "title": "n³ + n − 2, une puissance de 2",
     "grade": 10,
@@ -37644,9 +35972,7 @@
       "construction"
     ],
     "adapted_from": null,
-    "see_also": [
-      "8329"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2023, Groupe A",
@@ -37780,37 +36106,6 @@
       "local_copy": "sources/originals/pofm/poly_valbonne_2024.pdf"
     },
     "path": "grade-10/arithmetic/4/8715-the-sum-of-two-square-roots.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8728",
-    "title": "Le chiffre des unités d'une tour de puissances",
-    "grade": 10,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "chiffre-des-unites",
-      "cycles",
-      "modulo-10",
-      "puissances"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2024, cours de Groupe A",
-      "reference": "poly_valbonne_2024.pdf, Groupe A, « TD de modulos » (Théo et Thomas), exercice 2",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2024/09/poly_valbonne_2024.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/poly_valbonne_2024.pdf"
-    },
-    "path": "grade-10/arithmetic/4/8728-the-units-digit-of-a-tower-of-powers.md",
     "sections": [
       "Going further",
       "Hints",
@@ -39111,36 +37406,6 @@
     ]
   },
   {
-    "id": "7041",
-    "title": "Cinquante et un points dans un carré",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "principe des tiroirs",
-      "geometrie",
-      "decoupage"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2011, groupe des débutants",
-      "reference": "stage_junior_2011.pdf, « Stratégies de base », principe des tiroirs, exercice 2",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2011.pdf"
-    },
-    "path": "grade-10/combinatorics/3/7041-fifty-one-points-in-a-square.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7044",
     "title": "Noircir des cases de proche en proche",
     "grade": 10,
@@ -39482,37 +37747,6 @@
     ]
   },
   {
-    "id": "8474",
-    "title": "La moitié des problèmes, la moitié des élèves",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "double comptage",
-      "moyenne",
-      "principe des tiroirs",
-      "inegalite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe C",
-      "reference": "Poly-2021-Valbonne.pdf, Groupe C, « Double comptage » (Arthur Léonard), exercice 1",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
-    },
-    "path": "grade-10/combinatorics/3/8474-half-the-problems-half-the-solvers.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8673",
     "title": "Compter les triangles",
     "grade": 10,
@@ -39567,100 +37801,6 @@
       "local_copy": "sources/originals/pofm/poly_valbonne_2024.pdf"
     },
     "path": "grade-10/combinatorics/3/8733-a-difference-written-four-times.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8831",
-    "title": "Trois points sur un même demi-cercle",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "principe des tiroirs",
-      "cercle",
-      "sphere",
-      "diametre"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Combinatoire : Principe des tiroirs » (Emilhan), exercice 8, p. 110",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-10/combinatorics/3/8831-three-points-on-a-half-circle.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8842",
-    "title": "Le dernier du tournoi a marqué 5 points",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "tournoi",
-      "denombrement",
-      "minimum",
-      "construction"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Combinatoire : Principe de l'extremum » (Théo et Noam), exercice 14, p. 117",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-10/combinatorics/3/8842-the-last-player-scored-five.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8843",
-    "title": "Colorier les nombres de 2 à 31",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "coloriage",
-      "divisibilite",
-      "minimum",
-      "construction",
-      "puissances de deux"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Combinatoire : Principe de l'extremum » (Théo et Noam), exercice 15, p. 117",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-10/combinatorics/3/8843-colouring-the-numbers-from-2-to-31.md",
     "sections": [
       "Going further",
       "Hints",
@@ -39961,9 +38101,7 @@
       "polygone regulier"
     ],
     "adapted_from": null,
-    "see_also": [
-      "4018"
-    ],
+    "see_also": [],
     "created": "2026-09-19",
     "source": {
       "name": "Los Angeles Math Circle (UCLA), Intermediate 1, Mid-Quarter Competition",
@@ -40346,7 +38484,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "7041"
+      "7717"
     ],
     "created": "2026-09-20",
     "source": {
@@ -40357,68 +38495,6 @@
       "local_copy": "sources/originals/pofm/stage_junior_2011.pdf"
     },
     "path": "grade-10/combinatorics/4/7042-six-points-in-a-rectangle.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7045",
-    "title": "Le jeton qui doit atteindre H8",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "jeu",
-      "strategie gagnante",
-      "positions perdantes",
-      "echiquier"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2011, groupe des avancés",
-      "reference": "stage_junior_2011.pdf, « Combinatoire », TD stratégies, exercice 5",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2011.pdf"
-    },
-    "path": "grade-10/combinatorics/4/7045-the-token-that-must-reach-h8.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7046",
-    "title": "Ne jamais laisser un seul jeton",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "jeu",
-      "strategie gagnante",
-      "positions perdantes",
-      "puissances de deux"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2011, groupe des avancés",
-      "reference": "stage_junior_2011.pdf, « Combinatoire », TD stratégies, exercice 6",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2011.pdf"
-    },
-    "path": "grade-10/combinatorics/4/7046-never-leave-a-single-token.md",
     "sections": [
       "Going further",
       "Hints",
@@ -40489,99 +38565,6 @@
     ]
   },
   {
-    "id": "7154",
-    "title": "Relier les rouges aux bleus sans croisement",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "extremum",
-      "inegalite triangulaire",
-      "geometrie combinatoire",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior 2013-2016 (Cachan), stage 2016",
-      "reference": "stage_junior_2016.pdf, « Avancés : combinatoire », l'après-midi (Pierre Bornsztein), exercice 4",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2016.pdf"
-    },
-    "path": "grade-10/combinatorics/4/7154-joining-the-reds-to-the-blues.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7212",
-    "title": "Cinquante et un points dans un carré de côté 1",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "tiroirs",
-      "decoupage",
-      "distance",
-      "disque"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2017",
-      "reference": "Poly-CJ-17.pdf, « Débutants », mardi 24 matin (Cindy Hua), principe des tiroirs, exercice 13 (le même exercice figure dans Poly_final_CJ18.pdf, mercredi 24 après-midi, Colin Davalo, exercice 3)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-CJ-17.pdf"
-    },
-    "path": "grade-10/combinatorics/4/7212-fifty-one-points-in-a-unit-square.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7241",
-    "title": "Six points dans un rectangle 4 sur 3",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "tiroirs",
-      "decoupage",
-      "distance",
-      "diametre"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2018",
-      "reference": "Poly_final_CJ18.pdf, « Débutants », mercredi 24 après-midi (Colin Davalo), principe des tiroirs, exercice 4 ; repris en 2024 dans Poly_StCheron_2024.pdf, groupe A, principe des tiroirs (Ysaline), exercice 13",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_final_CJ18.pdf"
-    },
-    "path": "grade-10/combinatorics/4/7241-six-points-in-a-4-by-3-rectangle.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7258",
     "title": "Vingt-cinq élèves, et l'un a douze amis",
     "grade": 10,
@@ -40636,37 +38619,6 @@
       "local_copy": "sources/originals/pofm/Poly_StCheron_2024.pdf"
     },
     "path": "grade-10/combinatorics/4/7263-nine-points-in-a-triangle-of-area-one.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7264",
-    "title": "Une différence écrite quatre fois",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 25,
-    "tags": [
-      "tiroirs",
-      "differences",
-      "denombrement",
-      "paires"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Saint-Chéron 2024",
-      "reference": "Poly_StCheron_2024.pdf, groupe A, « Principe des tiroirs », exercice 11",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_StCheron_2024.pdf"
-    },
-    "path": "grade-10/combinatorics/4/7264-a-difference-written-four-times.md",
     "sections": [
       "Going further",
       "Hints",
@@ -40987,69 +38939,6 @@
     ]
   },
   {
-    "id": "7848",
-    "title": "51 points dans un carré de côté 1",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "principe des tiroirs",
-      "decoupage",
-      "cercle",
-      "diagonale"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7212",
-      "7717"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2015",
-      "reference": "stage_ete_2015.pdf, première période, groupe A « stratégies de base », mercredi 19 matin (Clara Ding), exercice 6",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2015.pdf"
-    },
-    "path": "grade-10/combinatorics/4/7848-fifty-one-points-in-a-unit-square.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7849",
-    "title": "Dix nombres à deux chiffres et deux sommes égales",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "principe des tiroirs",
-      "sous-ensembles",
-      "sommes",
-      "denombrement"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2015",
-      "reference": "stage_ete_2015.pdf, première période, groupe A « stratégies de base », mercredi 19 matin (Clara Ding), exercice 7",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2015.pdf"
-    },
-    "path": "grade-10/combinatorics/4/7849-ten-two-digit-numbers-and-two-equal-sums.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7917",
     "title": "Colorier un échiquier 2 par 10 sans deux bleus côte à côte",
     "grade": 10,
@@ -41081,98 +38970,6 @@
     ]
   },
   {
-    "id": "7948",
-    "title": "Cent un points dans un carré",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "principe des tiroirs",
-      "aire",
-      "decoupage",
-      "triangle"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2016, la muraille",
-      "reference": "stage_ete_2016.pdf, « La muraille », exercice 16, niveau 1 (énoncé p. 281 ; le polycopié ne donne pas de solution pour cet exercice)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2016.pdf"
-    },
-    "path": "grade-10/combinatorics/4/7948-one-hundred-and-one-points-in-a-square.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8039",
-    "title": "Uniquement les chiffres 0, 1, 2 et 6",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "denombrement",
-      "bijection",
-      "base quatre",
-      "numeration",
-      "chiffres"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2017",
-      "reference": "stage_ete_2017.pdf, « La muraille », exercice 33 (une étoile), résolu par Thomas Soulignac et Auguste de Lambilly",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2017.pdf"
-    },
-    "path": "grade-10/combinatorics/4/8039-only-the-digits-zero-one-two-and-six.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8122",
-    "title": "Le bal et les quatre danseurs",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "principe-de-l-extremum",
-      "raisonnement-par-l-absurde",
-      "graphe"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2018, cours de Groupe A",
-      "reference": "stage_ete_2018.pdf, Groupe A, « Combinatoire – Principe de l'extremum », exercice 1",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
-    },
-    "path": "grade-10/combinatorics/4/8122-the-ball-and-the-four-dancers.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8124",
     "title": "Des rubis et des saphirs pour des lutins jaloux",
     "grade": 10,
@@ -41196,65 +38993,6 @@
     },
     "path": "grade-10/combinatorics/4/8124-rubies-and-sapphires-for-jealous-elves.md",
     "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8125",
-    "title": "Les pistolets à eau",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "principe-de-l-extremum",
-      "recurrence",
-      "distances"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2018, cours de Groupe A",
-      "reference": "stage_ete_2018.pdf, Groupe A, « Combinatoire – Principe de l'extremum », exercice 7",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
-    },
-    "path": "grade-10/combinatorics/4/8125-the-water-pistols.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8127",
-    "title": "Partager la Chambre des Lords",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "principe-de-l-extremum",
-      "graphe",
-      "coloriage-en-deux-groupes"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2018, cours de Groupe A",
-      "reference": "stage_ete_2018.pdf, Groupe A, « Combinatoire – Principe de l'extremum », exercice 10",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
-    },
-    "path": "grade-10/combinatorics/4/8127-splitting-the-house-of-lords.md",
-    "sections": [
-      "Going further",
       "Hints",
       "Solution",
       "Statement"
@@ -41491,7 +39229,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "4604"
+      "7716"
     ],
     "created": "2026-09-20",
     "source": {
@@ -42215,37 +39953,6 @@
     },
     "path": "grade-10/combinatorics/5/5207-two-pieces-that-do-not-attack.md",
     "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7211",
-    "title": "Dix nombres et deux paquets de même somme",
-    "grade": 10,
-    "theme": "combinatorics",
-    "difficulty": 5,
-    "duration_min": 40,
-    "tags": [
-      "tiroirs",
-      "sous-ensembles",
-      "sommes",
-      "denombrement"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2017",
-      "reference": "Poly-CJ-17.pdf, « Débutants », mardi 24 matin (Cindy Hua), principe des tiroirs, exercice 9",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-CJ-17.pdf"
-    },
-    "path": "grade-10/combinatorics/5/7211-two-subsets-with-the-same-sum.md",
-    "sections": [
-      "Going further",
       "Hints",
       "Solution",
       "Statement"
@@ -43578,68 +41285,6 @@
     ]
   },
   {
-    "id": "7227",
-    "title": "Deux cercles sécants et deux droites parallèles",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "cocyclicite",
-      "angle inscrit",
-      "paralleles",
-      "deux cercles"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2017",
-      "reference": "Poly-CJ-17.pdf, « Débutants », mardi 24 après-midi (Héloïse Gachet), exercice 4 ; repris dans Poly_final_CJ18.pdf, mardi 23 matin (Linda Gutsche), exercice 6",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-CJ-17.pdf"
-    },
-    "path": "grade-10/geometry/3/7227-two-circles-and-two-parallels.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7230",
-    "title": "Un point sur la diagonale d'un parallélogramme",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "parallelogramme",
-      "aire",
-      "projete orthogonal",
-      "rapport de longueurs"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2017",
-      "reference": "Poly-CJ-17.pdf, « Dernier jour : test final », Débutants, exercice 4 ; le même exercice revient en 2024 dans Poly_StCheron_2024.pdf, groupe A, triangles semblables (Vincent), exercice 6",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-CJ-17.pdf"
-    },
-    "path": "grade-10/geometry/3/7230-the-parallelogram-and-two-distances.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7257",
     "title": "Deux parallèles et un cercle",
     "grade": 10,
@@ -44246,9 +41891,7 @@
       "diametre"
     ],
     "adapted_from": null,
-    "see_also": [
-      "8831"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2023, Groupe A",
@@ -44343,6 +41986,9 @@
     ],
     "adapted_from": null,
     "created": "2026-09-18",
+    "see_also": [
+      "7427"
+    ],
     "source": {
       "name": "Малый мехмат МГУ, математический кружок 8–9 класс, первое полугодие (Е. А. Асташов, Д. А. Удимов)",
       "reference": "AU.pdf, листок 2, задача 8",
@@ -44351,36 +41997,6 @@
       "local_copy": "sources/originals/mmmf-msu/AU.pdf"
     },
     "path": "grade-10/geometry/4/0259-seven-segments-form-a-triangle.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "0357",
-    "title": "Dix segments, un triangle caché",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "inegalite-triangulaire",
-      "raisonnement-par-labsurde",
-      "fibonacci",
-      "minoration"
-    ],
-    "adapted_from": null,
-    "created": "2026-09-18",
-    "source": {
-      "name": "Малый мехмат МГУ, математический кружок 8–9 класс, второе полугодие, часть II, пособие для преподавателей",
-      "reference": "AU2.pdf, листок 2, задача 8",
-      "url": "https://mmmf.msu.ru/for_schools/",
-      "original_language": "ru",
-      "local_copy": "sources/originals/mmmf-msu/AU2.pdf"
-    },
-    "path": "grade-10/geometry/4/0357-ten-segments-and-a-hidden-triangle.md",
     "sections": [
       "Going further",
       "Hints",
@@ -45258,37 +42874,6 @@
     ]
   },
   {
-    "id": "7219",
-    "title": "Trois fourmis et l'aire qui ne change pas",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "invariant",
-      "aire",
-      "triangle",
-      "droites paralleles"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2017",
-      "reference": "Poly-CJ-17.pdf, « Dernier jour : test final », Avancés, exercice 4",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-CJ-17.pdf"
-    },
-    "path": "grade-10/geometry/4/7219-three-ants-and-the-unchanging-area.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7255",
     "title": "Le rectangle et le triangle isocèle caché",
     "grade": 10,
@@ -45593,7 +43178,9 @@
       "droites paralleles"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "7823"
+    ],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Montpellier 2013, test de fin de parcours",
@@ -45687,7 +43274,9 @@
       "raisonnement par l absurde"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "8834"
+    ],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Montpellier 2014, cours de Groupe A",
@@ -45799,36 +43388,6 @@
     ]
   },
   {
-    "id": "7840",
-    "title": "Chaque point est le milieu de deux autres",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "principe de l extremum",
-      "milieu",
-      "distance maximale",
-      "raisonnement par l absurde"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2015",
-      "reference": "stage_ete_2015.pdf, première période, groupe A « stratégies de base », mardi 18 matin (Arsène Pierrot), exercice 6",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2015.pdf"
-    },
-    "path": "grade-10/geometry/4/7840-every-point-is-a-midpoint.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7943",
     "title": "Un point à l'intérieur d'un triangle équilatéral",
     "grade": 10,
@@ -45884,42 +43443,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2017.pdf"
     },
     "path": "grade-10/geometry/4/8018-three-circles-in-an-equilateral-triangle.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8026",
-    "title": "Deux cercles sécants et deux droites parallèles",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "cercle",
-      "quadrilatere inscriptible",
-      "angle inscrit",
-      "paralleles",
-      "demonstration"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7227",
-      "7614",
-      "7823"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2017",
-      "reference": "stage_ete_2017.pdf, évaluation initiale, exercice 4",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2017.pdf"
-    },
-    "path": "grade-10/geometry/4/8026-two-circles-and-two-parallel-lines.md",
     "sections": [
       "Going further",
       "Hints",
@@ -46300,70 +43823,6 @@
     },
     "path": "grade-10/geometry/4/8547-two-perpendicular-lines-in-a-square.md",
     "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8559",
-    "title": "Relier 2n points sans croisement",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "principe-de-lextremum",
-      "minimum",
-      "inegalite-triangulaire",
-      "segments"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe B",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Principe des tiroirs et de l'extremum » (Angela) du Groupe B, exercice 14",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-10/geometry/4/8559-joining-2n-points-without-crossings.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8575",
-    "title": "Chaque point est le milieu de deux autres",
-    "grade": 10,
-    "theme": "geometry",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "principe-de-lextremum",
-      "milieu",
-      "raisonnement-par-labsurde",
-      "coordonnees"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7232",
-      "8834"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe A",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre III, « Principe du maximum et optimisation » (Hannah) du Groupe A, exercice sur les milieux",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-10/geometry/4/8575-every-point-is-the-midpoint-of-two-others.md",
-    "sections": [
-      "Going further",
       "Hints",
       "Solution",
       "Statement"
@@ -46865,9 +44324,7 @@
       "droite-reelle"
     ],
     "adapted_from": null,
-    "see_also": [
-      "7627"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Montpellier 2012, La Muraille",
@@ -46877,37 +44334,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2012.pdf"
     },
     "path": "grade-10/logic-reasoning/3/7517-segments-that-meet-two-by-two.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7627",
-    "title": "Des segments qui se rencontrent deux à deux",
-    "grade": 10,
-    "theme": "logic-reasoning",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "principe extremal",
-      "segments",
-      "intersection",
-      "raisonnement"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2013, La Muraille",
-      "reference": "stage_ete_2013.pdf, chapitre X « La Muraille », exercice 12 (deux étoiles ; solution chapitre XI, résolue par Louis Charnavel)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2013.pdf"
-    },
-    "path": "grade-10/logic-reasoning/3/7627-segments-with-a-common-point.md",
     "sections": [
       "Going further",
       "Hints",
@@ -47788,68 +45214,6 @@
     ]
   },
   {
-    "id": "7231",
-    "title": "Chaque maire visite la ville la plus proche",
-    "grade": 10,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "extremum",
-      "distances",
-      "comptage",
-      "absurde"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2017",
-      "reference": "Poly-CJ-17.pdf, « Avancés », mercredi 25 matin (Vincent Jugé), principe de l'extremum, exercice 10",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-CJ-17.pdf"
-    },
-    "path": "grade-10/logic-reasoning/4/7231-the-mayors-visit-the-nearest-town.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7253",
-    "title": "Deux faces avec le même nombre d'arêtes",
-    "grade": 10,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 25,
-    "tags": [
-      "tiroirs",
-      "polyedre",
-      "extremum",
-      "geometrie dans l'espace"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2021",
-      "reference": "Polycopie-mini.pdf, groupe A, « Combinatoire : principe des tiroirs », exercice 20",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Polycopie-mini.pdf"
-    },
-    "path": "grade-10/logic-reasoning/4/7253-two-faces-with-the-same-number-of-edges.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7261",
     "title": "Deux tas de 2010 jetons",
     "grade": 10,
@@ -48040,38 +45404,6 @@
     ]
   },
   {
-    "id": "7650",
-    "title": "Sept bâtons entre 1 et 12 centimètres",
-    "grade": 10,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "principe des tiroirs",
-      "inegalite triangulaire",
-      "suite de fibonacci"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "0357"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2013, cours de stratégies de base du groupe A",
-      "reference": "stage_ete_2013.pdf, chapitre II, groupe A, « Cours de stratégies de base : principe des tiroirs, invariants » (Pierre Bertin), exercice sur les bâtons",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2013.pdf"
-    },
-    "path": "grade-10/logic-reasoning/4/7650-seven-sticks.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7817",
     "title": "Deux voisins à retirer sur un cercle de 2015 nombres",
     "grade": 10,
@@ -48095,36 +45427,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2015.pdf"
     },
     "path": "grade-10/logic-reasoning/4/7817-two-neighbours-on-a-circle-of-2015.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7828",
-    "title": "Quelqu'un reste toujours sec",
-    "grade": 10,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "recurrence",
-      "principe de l extremum",
-      "denombrement",
-      "tirs"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2015",
-      "reference": "stage_ete_2015.pdf, test de mi-parcours du vendredi 21 août, groupe B, exercice 3",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2015.pdf"
-    },
-    "path": "grade-10/logic-reasoning/4/7828-someone-always-stays-dry.md",
     "sections": [
       "Hints",
       "Solution",
@@ -48220,69 +45522,6 @@
     "path": "grade-10/logic-reasoning/4/8040-the-grid-of-lamps-and-its-switches.md",
     "sections": [
       "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8121",
-    "title": "Les caméléons de l'île",
-    "grade": 10,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "invariant",
-      "congruences",
-      "raisonnement-par-l-absurde"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7644"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2018, cours de Groupe A",
-      "reference": "stage_ete_2018.pdf, Groupe A, « Combinatoire – Invariants », exercice 13",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
-    },
-    "path": "grade-10/logic-reasoning/4/8121-the-chameleons-of-the-island.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8123",
-    "title": "Chaque point est le milieu de deux autres",
-    "grade": 10,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "principe-de-l-extremum",
-      "raisonnement-par-l-absurde",
-      "coordonnees"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7232"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2018, cours de Groupe A",
-      "reference": "stage_ete_2018.pdf, Groupe A, « Combinatoire – Principe de l'extremum », exercice 3",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
-    },
-    "path": "grade-10/logic-reasoning/4/8123-every-point-is-a-midpoint.md",
-    "sections": [
       "Hints",
       "Solution",
       "Statement"
@@ -48425,9 +45664,7 @@
       "minimum"
     ],
     "adapted_from": null,
-    "see_also": [
-      "8127"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2019, cours de Groupe A",
@@ -48508,36 +45745,6 @@
     ]
   },
   {
-    "id": "8555",
-    "title": "La liste qui contient tout le monde",
-    "grade": 10,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "principe-de-lextremum",
-      "tournoi",
-      "raisonnement-par-labsurde",
-      "maximum"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe B",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Principe des tiroirs et de l'extremum » (Angela) du Groupe B, exercice 13",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-10/logic-reasoning/4/8555-the-list-that-contains-everyone.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8640",
     "title": "Les trente-quatre lutins de l'île",
     "grade": 10,
@@ -48582,9 +45789,7 @@
       "echiquier"
     ],
     "adapted_from": null,
-    "see_also": [
-      "7045"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2023, Groupe A",
@@ -48803,7 +46008,9 @@
       "disjonction de cas"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "7312"
+    ],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
@@ -49098,39 +46305,6 @@
       "local_copy": "sources/originals/ucla-lamc/Handout-5091-5540.pdf"
     },
     "path": "grade-10/probability-statistics/4/3621-the-third-cell-inside-the-rectangle.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "4018",
-    "title": "Un triangle dans l'octogone",
-    "grade": 10,
-    "theme": "probability-statistics",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "probabilite",
-      "denombrement",
-      "polygone-regulier",
-      "evenement-contraire"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "3824"
-    ],
-    "created": "2026-09-19",
-    "source": {
-      "name": "Los Angeles Math Circle (UCLA), Intermediate 2A, Week 1 Competition",
-      "reference": "Handout-3131-2694.pdf, problème 15 (réponse 5/7 dans le barème en fin de fichier)",
-      "url": "https://circles.math.ucla.edu/circles/archive.shtml",
-      "original_language": "en",
-      "local_copy": "sources/originals/ucla-lamc/Handout-3131-2694.pdf"
-    },
-    "path": "grade-10/probability-statistics/4/4018-a-triangle-in-the-octagon.md",
     "sections": [
       "Going further",
       "Hints",
@@ -50127,67 +47301,6 @@
     ]
   },
   {
-    "id": "7137",
-    "title": "Deux puissance n dépasse n au carré",
-    "grade": 11,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "recurrence",
-      "inegalites",
-      "puissances"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior 2013-2016 (Cachan), stage 2015",
-      "reference": "stage_junior_2015.pdf, « Vendredi : test final », débutants, exercice 1 (la solution imprimée écrit « supposons $2^n \\\\geqslant n+1$ » là où il faut lire $2^n \\\\geqslant n^2$)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2015.pdf"
-    },
-    "path": "grade-11/algebra/3/7137-two-to-the-n-beats-n-squared.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7144",
-    "title": "x plus un sur x reste entier",
-    "grade": 11,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "recurrence forte",
-      "identites",
-      "puissances",
-      "entiers"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior 2013-2016 (Cachan), stage 2013",
-      "reference": "stage_junior_2013.pdf, « Débutants : stratégies de base », mercredi après-midi (Pierre Bertin), exercice 7",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2013.pdf"
-    },
-    "path": "grade-11/algebra/3/7144-x-plus-one-over-x-stays-an-integer.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7148",
     "title": "Une équation qui se replie sur elle-même",
     "grade": 11,
@@ -50304,37 +47417,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
     },
     "path": "grade-11/algebra/3/7710-three-quadratics-and-a-balanced-sum.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7733",
-    "title": "Deux suites qui n'atteignent jamais (7 ; 2)",
-    "grade": 11,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "invariant",
-      "suites",
-      "somme de carres",
-      "identite remarquable"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2014, cours de Groupe B",
-      "reference": "stage_ete_2014.pdf, « Groupe B : logique et stratégies de base », mardi 19 après-midi (Arsène Pierrot), exercice 2",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
-    },
-    "path": "grade-11/algebra/3/7733-a-pair-of-sequences-that-never-lands-there.md",
     "sections": [
       "Going further",
       "Hints",
@@ -50557,37 +47639,6 @@
     ]
   },
   {
-    "id": "7947",
-    "title": "Une triple composition qui s'annule",
-    "grade": 11,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "second degre",
-      "composition de fonctions",
-      "racines",
-      "factorisation"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2016, la muraille",
-      "reference": "stage_ete_2016.pdf, « La muraille », exercice 11, niveau 1 (énoncé p. 280 ; le polycopié ne donne pas de solution pour cet exercice)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2016.pdf"
-    },
-    "path": "grade-11/algebra/3/7947-a-triple-composition-that-vanishes.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7957",
     "title": "Une pile de fractions sans fin",
     "grade": 11,
@@ -50724,8 +47775,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "7609",
-      "7721"
+      "7076"
     ],
     "created": "2026-09-20",
     "source": {
@@ -51043,36 +48093,6 @@
       "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
     },
     "path": "grade-11/algebra/3/8537-a-cubed-plus-b-cubed-plus-a-plus-b.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8583",
-    "title": "Deux puissances qui ne descendent jamais sous 2ⁿ⁺¹",
-    "grade": 11,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 25,
-    "tags": [
-      "inegalites",
-      "inegalite-arithmetico-geometrique",
-      "puissances",
-      "fractions"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe B",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Inégalités » du Groupe B, exercice d'application de l'inégalité arithmético-géométrique",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-11/algebra/3/8583-two-powers-never-below-two-to-the-n-plus-one.md",
     "sections": [
       "Hints",
       "Solution",
@@ -51761,36 +48781,6 @@
     ]
   },
   {
-    "id": "7061",
-    "title": "Deux parenthèses à la puissance n",
-    "grade": 11,
-    "theme": "algebra",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "inegalite",
-      "moyennes",
-      "puissances"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2010",
-      "reference": "stage_junior_2010.pdf, jeudi 28 octobre (algèbre), cours et exercices de l'après-midi (Pierre Bornsztein), exercice 2",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_junior_2010.pdf"
-    },
-    "path": "grade-11/algebra/4/7061-two-brackets-raised-to-the-power-n.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7081",
     "title": "Une équation de degré 3 résolue dans les rationnels",
     "grade": 11,
@@ -51978,37 +48968,6 @@
     ]
   },
   {
-    "id": "7744",
-    "title": "On efface a et b, on écrit a + b + ab",
-    "grade": 11,
-    "theme": "algebra",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "invariant",
-      "produit telescopique",
-      "fractions",
-      "factorisation"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2014, cours de Groupe B",
-      "reference": "stage_ete_2014.pdf, « Groupe B : logique et stratégies de base », mercredi 20 après-midi (Margaret Bilu), exercice 13",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
-    },
-    "path": "grade-11/algebra/4/7744-a-plus-b-plus-ab.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7825",
     "title": "n! est au plus la moyenne élevée à la puissance n",
     "grade": 11,
@@ -52063,37 +49022,6 @@
     },
     "path": "grade-11/algebra/4/7844-n-ones-and-a-decreasing-quantity.md",
     "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7931",
-    "title": "La factorielle et la puissance",
-    "grade": 11,
-    "theme": "algebra",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "factorielle",
-      "inegalite",
-      "appariement",
-      "identite remarquable"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2016, test de mi-parcours",
-      "reference": "stage_ete_2016.pdf, test de mi-parcours du samedi 20 août, Groupe B, exercice 3 (énoncé p. 109, solution p. 109). Le polycopié conclut par l'inégalité arithmético-géométrique à n termes ; la preuve donnée ici n'utilise qu'une identité remarquable.",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2016.pdf"
-    },
-    "path": "grade-11/algebra/4/7931-factorial-versus-a-power.md",
-    "sections": [
-      "Going further",
       "Hints",
       "Solution",
       "Statement"
@@ -52254,38 +49182,6 @@
     ]
   },
   {
-    "id": "8217",
-    "title": "Une somme de deux puissances qui ne descend pas sous 2ⁿ⁺¹",
-    "grade": 11,
-    "theme": "algebra",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "inegalites",
-      "moyenne arithmetico-geometrique",
-      "puissances"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "8583"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2019, cours de Groupe A",
-      "reference": "PolycopieV1-1.pdf, chapitre III « Groupe A », première partie, « TD manipulations algébriques, récurrence » (Yohann D'Anello), exercice 13",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/08/PolycopieV1-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/PolycopieV1-1.pdf"
-    },
-    "path": "grade-11/algebra/4/8217-two-nth-powers-that-add-up.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8340",
     "title": "Chaque nombre est la moyenne de ses quatre voisins",
     "grade": 11,
@@ -52301,7 +49197,6 @@
     "adapted_from": null,
     "see_also": [
       "1210",
-      "7726",
       "8836"
     ],
     "created": "2026-09-20",
@@ -52334,9 +49229,7 @@
       "cas-degalite"
     ],
     "adapted_from": null,
-    "see_also": [
-      "8517"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe A",
@@ -52368,9 +49261,7 @@
       "cas-degalite"
     ],
     "adapted_from": null,
-    "see_also": [
-      "8217"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe B",
@@ -52380,37 +49271,6 @@
       "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
     },
     "path": "grade-11/algebra/4/8440-two-nth-powers-and-a-product-of-at-least-four.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8517",
-    "title": "Le plus petit a² + b² + c² + d² possible",
-    "grade": 11,
-    "theme": "algebra",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "inegalite",
-      "minimum",
-      "somme-de-carres",
-      "contrainte-lineaire"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe A",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre III, « Inégalités 1 » (Auguste), exercice 5",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-11/algebra/4/8517-the-smallest-sum-of-four-squares.md",
     "sections": [
       "Going further",
       "Hints",
@@ -53341,37 +50201,6 @@
       "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
     },
     "path": "grade-11/arithmetic/3/8435-a-monstrous-expression-that-collapses.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8815",
-    "title": "La somme de deux racines carrées",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "irrationnel",
-      "racine carree",
-      "raisonnement par labsurde",
-      "nombres premiers"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Algèbre : Découverte » (Melvil), exercice 7, p. 49",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-11/arithmetic/3/8815-the-sum-of-two-square-roots.md",
     "sections": [
       "Going further",
       "Hints",
@@ -54519,36 +51348,6 @@
     ]
   },
   {
-    "id": "7951",
-    "title": "n⁴ + 4ⁿ est-il premier ?",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "nombres premiers",
-      "factorisation",
-      "identite de sophie germain",
-      "parite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2016, la muraille",
-      "reference": "stage_ete_2016.pdf, « La muraille », exercice 20, niveau 1, deux étoiles (énoncé p. 281 ; le polycopié ne donne pas de solution pour cet exercice)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2016.pdf"
-    },
-    "path": "grade-11/arithmetic/4/7951-n-to-the-fourth-plus-four-to-the-n.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8025",
     "title": "Chaque diviseur diminué de 1",
     "grade": 11,
@@ -55063,8 +51862,7 @@
     "adapted_from": null,
     "see_also": [
       "8323",
-      "5014",
-      "8816"
+      "5014"
     ],
     "created": "2026-09-20",
     "source": {
@@ -55145,37 +51943,6 @@
     ]
   },
   {
-    "id": "8426",
-    "title": "Quand x² divise une somme, il en divise une plus petite",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 25,
-    "tags": [
-      "divisibilite",
-      "factorisation",
-      "quotient",
-      "raisonnement-par-etapes"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe A",
-      "reference": "Poly-2021-Valbonne.pdf, Groupe A, « Nombres premiers » (Vladimir Ivanov), exercice 23",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
-    },
-    "path": "grade-11/arithmetic/4/8426-x-squared-divides-a-sum.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8432",
     "title": "Quand 2ⁿ + 3 et 2ⁿ + 1 sont-ils des carrés ?",
     "grade": 11,
@@ -55190,7 +51957,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "7431"
+      "7034"
     ],
     "created": "2026-09-20",
     "source": {
@@ -55201,38 +51968,6 @@
       "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
     },
     "path": "grade-11/arithmetic/4/8432-two-to-the-n-plus-three-and-plus-one.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8433",
-    "title": "Trois carrés plus un, égal à une puissance de 2",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "congruence",
-      "carres",
-      "puissance-de-deux",
-      "equation-en-entiers",
-      "petits-cas"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe A",
-      "reference": "Poly-2021-Valbonne.pdf, Groupe A, « Modulos & factorisation » (Théo Lenoir et Angela Xue), exercice 10",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
-    },
-    "path": "grade-11/arithmetic/4/8433-three-squares-plus-one-equals-a-power-of-two.md",
     "sections": [
       "Going further",
       "Hints",
@@ -55431,36 +52166,6 @@
     ]
   },
   {
-    "id": "8546",
-    "title": "p puissance n plus 144 est un carré",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "nombre-premier",
-      "carre-parfait",
-      "factorisation",
-      "diviseurs"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe B",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Entraînement de fin de parcours » du Groupe B, exercice 3",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-11/arithmetic/4/8546-p-to-the-n-plus-one-hundred-forty-four-is-a-square.md",
-    "sections": [
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8616",
     "title": "144 plus une puissance de nombre premier qui donne un carré",
     "grade": 11,
@@ -55537,9 +52242,7 @@
       "etude de cas"
     ],
     "adapted_from": null,
-    "see_also": [
-      "8433"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2023, Groupe A",
@@ -55674,69 +52377,6 @@
       "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
     },
     "path": "grade-11/arithmetic/4/8805-all-the-distances-are-even.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8816",
-    "title": "Quand aⁿ − 1 est premier",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "nombres premiers",
-      "factorisation",
-      "contraposee",
-      "divisibilite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Arithmétique : Nombres premiers » (Anatole et Martin), exercice 3, p. 52",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-11/arithmetic/4/8816-when-a-power-minus-one-is-prime.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8817",
-    "title": "Quand n⁴ + 4ⁿ est-il premier ?",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "nombres premiers",
-      "factorisation",
-      "identite de sophie germain",
-      "parite",
-      "disjonction de cas"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Arithmétique : Nombres premiers » (Anatole et Martin), exercice 4, p. 52",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-11/arithmetic/4/8817-n-to-the-fourth-plus-four-to-the-n.md",
     "sections": [
       "Going further",
       "Hints",
@@ -56310,38 +52950,6 @@
     ]
   },
   {
-    "id": "8463",
-    "title": "Pour quels nombres premiers l'équation a-t-elle une solution ?",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 5,
-    "duration_min": 45,
-    "tags": [
-      "equation diophantienne",
-      "factorisation",
-      "nombre premier",
-      "diviseurs",
-      "disjonction de cas"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2021, la Muraille",
-      "reference": "Poly-2021-Valbonne.pdf, Muraille, exercice 26 (résolu par Arthur Tézé)",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
-    },
-    "path": "grade-11/arithmetic/5/8463-which-primes-allow-a-solution.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8467",
     "title": "3ᵃ = 2ᵇ + 1",
     "grade": 11,
@@ -56398,36 +53006,6 @@
     "path": "grade-11/arithmetic/5/8468-x-squared-plus-y-squared-equals-seven-z-squared.md",
     "sections": [
       "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8554",
-    "title": "Cinq entiers consécutifs ne font jamais un carré",
-    "grade": 11,
-    "theme": "arithmetic",
-    "difficulty": 5,
-    "duration_min": 50,
-    "tags": [
-      "carre-parfait",
-      "principe-des-tiroirs",
-      "partie-sans-facteur-carre",
-      "nombres-premiers"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe B",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Arithmétique » du Groupe B, exercice sur les produits d'entiers consécutifs",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-11/arithmetic/5/8554-five-consecutive-integers-never-a-square.md",
-    "sections": [
       "Hints",
       "Solution",
       "Statement"
@@ -58240,37 +54818,6 @@
     ]
   },
   {
-    "id": "8252",
-    "title": "Empiler des cubes avec une règle",
-    "grade": 11,
-    "theme": "combinatorics",
-    "difficulty": 4,
-    "duration_min": 45,
-    "tags": [
-      "denombrement",
-      "recurrence",
-      "bijection",
-      "empilement"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2019, cours de Groupe B",
-      "reference": "PolycopieV1-1.pdf, chapitre IV « Groupe B », entraînement de mi-parcours, exercice 2. Le polycopié annonce 3^(n−1) × 2 empilements, ce qui contredit son propre cas de base (6 empilements pour n = 3) : le compte correct est 2 × 3^(n−2).",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/PolycopieV1-1.pdf"
-    },
-    "path": "grade-11/combinatorics/4/8252-stacking-cubes-with-a-rule.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8272",
     "title": "La moitié des étoiles derrière le nuage",
     "grade": 11,
@@ -58348,8 +54895,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "8840",
-      "8559"
+      "8840"
     ],
     "created": "2026-09-20",
     "source": {
@@ -58934,39 +55480,6 @@
     ]
   },
   {
-    "id": "7950",
-    "title": "Vingt enfants et leurs grands-pères",
-    "grade": 11,
-    "theme": "combinatorics",
-    "difficulty": 5,
-    "duration_min": 45,
-    "tags": [
-      "principe des tiroirs",
-      "ensembles",
-      "intersection",
-      "disjonction de cas"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "7321"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2016, la muraille",
-      "reference": "stage_ete_2016.pdf, « La muraille », exercice 19, niveau 1 (énoncé p. 281 ; le polycopié ne donne pas de solution pour cet exercice)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2016.pdf"
-    },
-    "path": "grade-11/combinatorics/5/7950-twenty-children-and-their-grandfathers.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8041",
     "title": "Mille personnes et une rotation",
     "grade": 11,
@@ -59286,39 +55799,6 @@
     ]
   },
   {
-    "id": "8475",
-    "title": "Combien de triangles d'aire 1 ?",
-    "grade": 11,
-    "theme": "combinatorics",
-    "difficulty": 5,
-    "duration_min": 40,
-    "tags": [
-      "double comptage",
-      "geometrie combinatoire",
-      "aire",
-      "droites paralleles"
-    ],
-    "adapted_from": null,
-    "see_also": [
-      "8870"
-    ],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe C",
-      "reference": "Poly-2021-Valbonne.pdf, Groupe C, « Double comptage » (Arthur Léonard), exercice 2, signalé « Iran 2010 »",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
-    },
-    "path": "grade-11/combinatorics/5/8475-how-many-triangles-of-area-one.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8668",
     "title": "Trop de segments forcent un triangle",
     "grade": 11,
@@ -59405,68 +55885,6 @@
       "local_copy": "sources/originals/pofm/poly_valbonne_2024.pdf"
     },
     "path": "grade-11/combinatorics/5/8746-fifty-piles-and-who-decides.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8833",
-    "title": "Un disque qui attrape un tiers des points",
-    "grade": 11,
-    "theme": "combinatorics",
-    "difficulty": 5,
-    "duration_min": 45,
-    "tags": [
-      "principe des tiroirs",
-      "distance",
-      "disjonction de cas",
-      "recouvrement"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Combinatoire : Principe des tiroirs » (Emilhan), exercice 11, p. 111",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-11/combinatorics/5/8833-a-disc-that-catches-a-third-of-the-points.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8845",
-    "title": "Quelqu'un a exactement un ami",
-    "grade": 11,
-    "theme": "combinatorics",
-    "difficulty": 5,
-    "duration_min": 35,
-    "tags": [
-      "principe de lextremum",
-      "amities",
-      "nombre damis",
-      "principe des tiroirs"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Combinatoire : Principe de l'extremum » (Théo et Noam), exercice 11, p. 116",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-11/combinatorics/5/8845-someone-has-exactly-one-friend.md",
     "sections": [
       "Going further",
       "Hints",
@@ -60597,37 +57015,6 @@
     ]
   },
   {
-    "id": "8131",
-    "title": "Le centre du cercle circonscrit et l'orthocentre, vus du sommet A",
-    "grade": 11,
-    "theme": "geometry",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "orthocentre",
-      "cercle-circonscrit",
-      "angle-au-centre",
-      "triangle-isocele"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2018, cours de Groupe A",
-      "reference": "stage_ete_2018.pdf, Groupe A, « Géométrie – Points remarquables », exercice 4",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
-    },
-    "path": "grade-11/geometry/3/8131-circumcentre-and-orthocentre-seen-from-a.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8173",
     "title": "Le pied de la hauteur, le centre de gravité et le cercle",
     "grade": 11,
@@ -61358,38 +57745,6 @@
     ]
   },
   {
-    "id": "7270",
-    "title": "Le milieu du côté et une tangente inattendue",
-    "grade": 11,
-    "theme": "geometry",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "hauteurs",
-      "orthocentre",
-      "cercle de diametre",
-      "tangente",
-      "chasse aux angles"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Saint-Chéron 2024",
-      "reference": "Poly_StCheron_2024.pdf, groupe A, « Puissance d'un point », exercice 7 ; le polycopié note les pieds des hauteurs HB et HC, ils sont appelés E et F ici",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_StCheron_2024.pdf"
-    },
-    "path": "grade-11/geometry/4/7270-a-midpoint-and-a-tangent-line.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7338",
     "title": "Le point sur l'arc",
     "grade": 11,
@@ -61510,37 +57865,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2010.pdf"
     },
     "path": "grade-11/geometry/4/7440-an-equilateral-triangle-on-three-parallel-lines.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7442",
-    "title": "Trois distances dans un triangle équilatéral",
-    "grade": 11,
-    "theme": "geometry",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "triangle-equilateral",
-      "angle-inscrit",
-      "triangles-semblables",
-      "cercle-circonscrit"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Grésillon 2011, incontournable : géométrie",
-      "reference": "stage_ete_2011.pdf, « Troisième période », incontournable géométrie, premier TD, exercice 7",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2011.pdf"
-    },
-    "path": "grade-11/geometry/4/7442-three-distances-in-an-equilateral-triangle.md",
     "sections": [
       "Going further",
       "Hints",
@@ -61832,37 +58156,6 @@
     ]
   },
   {
-    "id": "8155",
-    "title": "Le chemin le plus court avec un angle de 60°",
-    "grade": 11,
-    "theme": "geometry",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "symetrie-axiale",
-      "minimum",
-      "ligne-brisee",
-      "angle"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2018, La Muraille",
-      "reference": "stage_ete_2018.pdf, chapitre VIII « La Muraille », exercices de niveau 2, exercice 48 (cinq étoiles). La Muraille ne donne que les énoncés, sans solution : la solution ci-dessous a été rédigée pour ce recueil.",
-      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf"
-    },
-    "path": "grade-11/geometry/4/8155-shortest-path-with-a-sixty-degree-angle.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8226",
     "title": "Deux produits égaux autour de l'orthocentre",
     "grade": 11,
@@ -61938,9 +58231,7 @@
       "triangle isocele"
     ],
     "adapted_from": null,
-    "see_also": [
-      "8131"
-    ],
+    "see_also": [],
     "created": "2026-09-20",
     "source": {
       "name": "POFM, stage olympique de Valbonne 2019, cours de Groupe B",
@@ -62043,37 +58334,6 @@
       "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
     },
     "path": "grade-11/geometry/4/8834-every-point-is-a-midpoint.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8837",
-    "title": "Un triangle vide de tout autre point",
-    "grade": 11,
-    "theme": "geometry",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "principe de lextremum",
-      "aire minimale",
-      "alignement",
-      "raisonnement par labsurde"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2025, cours de Groupe A",
-      "reference": "Poly-2025-compresse.pdf, Groupe A, « Combinatoire : Principe de l'extremum » (Théo et Noam), exercice 6, p. 115",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf"
-    },
-    "path": "grade-11/geometry/4/8837-a-triangle-with-nothing-on-its-sides.md",
     "sections": [
       "Going further",
       "Hints",
@@ -62400,38 +58660,6 @@
     ]
   },
   {
-    "id": "7232",
-    "title": "Chaque point est le milieu de deux autres",
-    "grade": 11,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "extremum",
-      "absurde",
-      "ensemble infini",
-      "milieu",
-      "distance maximale"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique junior de Cachan 2017",
-      "reference": "Poly-CJ-17.pdf, « Avancés », mercredi 25 matin (Vincent Jugé), principe de l'extremum, exercice 6",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-CJ-17.pdf"
-    },
-    "path": "grade-11/logic-reasoning/4/7232-every-point-is-a-midpoint.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7649",
     "title": "Les bateaux sur la rivière",
     "grade": 11,
@@ -62454,37 +58682,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2013.pdf"
     },
     "path": "grade-11/logic-reasoning/4/7649-the-boats-on-the-river.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7726",
-    "title": "Chaque nombre est la moyenne de ses quatre voisins",
-    "grade": 11,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "principe de l extremum",
-      "minimum",
-      "moyenne",
-      "quadrillage"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2014, cours de Groupe A",
-      "reference": "stage_ete_2014.pdf, « Groupe A : stratégies de base », mercredi 20 matin (Joon Kwon), exercice 2",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
-    },
-    "path": "grade-11/logic-reasoning/4/7726-every-value-is-the-average-of-its-four-neighbours.md",
     "sections": [
       "Going further",
       "Hints",
@@ -62578,69 +58775,6 @@
       "local_copy": "sources/originals/pofm/Polycopie-Valbonne-2020-v2.pdf"
     },
     "path": "grade-11/logic-reasoning/4/8337-bob-erases-three-numbers.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8448",
-    "title": "Chaque nombre remplacé par son nombre d'apparitions",
-    "grade": 11,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "monovariant",
-      "suite croissante",
-      "bornee",
-      "processus",
-      "comptage"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2021, cours de Groupe B",
-      "reference": "Poly-2021-Valbonne.pdf, Groupe B, « Invariants, Monovariants, Pavages et Coloriages » (Savinien Kreczman), exercice 12",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/02/Poly-2021-Valbonne.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly-2021-Valbonne.pdf"
-    },
-    "path": "grade-11/logic-reasoning/4/8448-counting-how-often-each-number-appears.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8557",
-    "title": "Chacun en connaît exactement trois",
-    "grade": 11,
-    "theme": "logic-reasoning",
-    "difficulty": 4,
-    "duration_min": 40,
-    "tags": [
-      "principe-de-lextremum",
-      "minimum",
-      "graphe",
-      "partition"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe B",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Principe des tiroirs et de l'extremum » (Angela) du Groupe B, exercice 16",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-11/logic-reasoning/4/8557-everyone-knows-exactly-three-others.md",
     "sections": [
       "Going further",
       "Hints",
@@ -62987,37 +59121,6 @@
       "local_copy": "sources/originals/pofm/PolycopieV1-1.pdf"
     },
     "path": "grade-11/logic-reasoning/5/8254-flipping-the-k-th-coin.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "8556",
-    "title": "Le même nombre d'amis, aucun ami commun",
-    "grade": 11,
-    "theme": "logic-reasoning",
-    "difficulty": 5,
-    "duration_min": 45,
-    "tags": [
-      "principe-de-lextremum",
-      "graphe",
-      "maximum",
-      "amitie"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe B",
-      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre IV, « Principe des tiroirs et de l'extremum » (Angela) du Groupe B, exercice 15 (l'énoncé du polycopié omet l'hypothèse qu'au moins une amitié existe, sans laquelle la conclusion est fausse)",
-      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
-    },
-    "path": "grade-11/logic-reasoning/5/8556-same-number-of-friends-no-common-friend.md",
     "sections": [
       "Going further",
       "Hints",
@@ -64375,68 +60478,6 @@
     ]
   },
   {
-    "id": "7609",
-    "title": "Si x + 1/x est entier, xⁿ + 1/xⁿ aussi",
-    "grade": 12,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "recurrence forte",
-      "entiers",
-      "identite remarquable",
-      "suites"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2013, test de mi-parcours",
-      "reference": "stage_ete_2013.pdf, chapitre IV « Test de mi-parcours », groupe B, exercice 3",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2013.pdf"
-    },
-    "path": "grade-12/algebra/3/7609-powers-of-x-plus-one-over-x.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7721",
-    "title": "Si x + 1/x est entier, xⁿ + 1/xⁿ aussi",
-    "grade": 12,
-    "theme": "algebra",
-    "difficulty": 3,
-    "duration_min": 30,
-    "tags": [
-      "recurrence double",
-      "identite remarquable",
-      "entiers",
-      "suites"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2014, cours de Groupe A",
-      "reference": "stage_ete_2014.pdf, « Groupe A : stratégies de base », mardi 19 après-midi (Cécile Gachet), exercice 4",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
-    },
-    "path": "grade-12/algebra/3/7721-x-plus-one-over-x-stays-an-integer.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "8168",
     "title": "Une équation fonctionnelle qui cache une translation",
     "grade": 12,
@@ -65045,7 +61086,7 @@
     ],
     "adapted_from": null,
     "see_also": [
-      "7061"
+      "8440"
     ],
     "created": "2026-09-20",
     "source": {
@@ -65241,37 +61282,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
     },
     "path": "grade-12/algebra/4/7723-a-tower-of-nested-square-roots.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7822",
-    "title": "(1 + a)(2 + b) ≥ 6",
-    "grade": 12,
-    "theme": "algebra",
-    "difficulty": 4,
-    "duration_min": 35,
-    "tags": [
-      "inegalite",
-      "moyenne arithmetico geometrique",
-      "factorisation",
-      "cas d egalite"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Valbonne 2015",
-      "reference": "stage_ete_2015.pdf, « Coupe Animath et évaluation initiale », évaluation initiale, section algèbre (inégalité arithmético-géométrique)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2015.pdf"
-    },
-    "path": "grade-12/algebra/4/7822-one-plus-a-times-two-plus-b.md",
     "sections": [
       "Going further",
       "Hints",
@@ -67377,37 +63387,6 @@
     ]
   },
   {
-    "id": "7944",
-    "title": "Élever une congruence à la puissance p",
-    "grade": 12,
-    "theme": "arithmetic",
-    "difficulty": 4,
-    "duration_min": 30,
-    "tags": [
-      "congruences",
-      "binome de newton",
-      "nombres premiers",
-      "coefficient binomial"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2016, la muraille",
-      "reference": "stage_ete_2016.pdf, « La muraille », exercice 4, niveau 1 (énoncé p. 280 ; le polycopié ne donne pas de solution pour cet exercice)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2016.pdf"
-    },
-    "path": "grade-12/arithmetic/4/7944-raising-a-congruence-to-the-power-p.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
     "id": "7953",
     "title": "Une tour d'exposants modulo 11",
     "grade": 12,
@@ -68374,68 +64353,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
     },
     "path": "grade-12/arithmetic/5/7722-the-harmonic-sum-is-never-an-integer.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7737",
-    "title": "Le produit de cinq entiers consécutifs n'est jamais un carré",
-    "grade": 12,
-    "theme": "arithmetic",
-    "difficulty": 5,
-    "duration_min": 60,
-    "tags": [
-      "nombres premiers",
-      "carre parfait",
-      "principe des tiroirs",
-      "valuation"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2014, cours de Groupe B",
-      "reference": "stage_ete_2014.pdf, « Groupe B : logique et stratégies de base », mercredi 20 matin (Alix Deleporte), exercice 8 (le document laisse plusieurs étapes en exercice et omet le cas n = 0)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
-    },
-    "path": "grade-12/arithmetic/5/7737-five-consecutive-integers-never-a-square.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7738",
-    "title": "On en enlève un, le reste se partage en deux",
-    "grade": 12,
-    "theme": "arithmetic",
-    "difficulty": 5,
-    "duration_min": 60,
-    "tags": [
-      "parite",
-      "descente infinie",
-      "invariant",
-      "partage"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2014, cours de Groupe B",
-      "reference": "stage_ete_2014.pdf, « Groupe B : logique et stratégies de base », mercredi 20 matin (Alix Deleporte), exercice 10",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
-    },
-    "path": "grade-12/arithmetic/5/7738-remove-any-one-and-split-in-two.md",
     "sections": [
       "Going further",
       "Hints",
@@ -70107,37 +66024,6 @@
       "local_copy": "sources/originals/pofm/stage_ete_2013.pdf"
     },
     "path": "grade-12/combinatorics/5/7638-six-swimmers-with-ties-allowed.md",
-    "sections": [
-      "Going further",
-      "Hints",
-      "Solution",
-      "Statement"
-    ]
-  },
-  {
-    "id": "7724",
-    "title": "Assez de segments pour forcer un triangle",
-    "grade": 12,
-    "theme": "combinatorics",
-    "difficulty": 5,
-    "duration_min": 50,
-    "tags": [
-      "recurrence",
-      "graphe",
-      "triangle",
-      "comptage"
-    ],
-    "adapted_from": null,
-    "see_also": [],
-    "created": "2026-09-20",
-    "source": {
-      "name": "POFM, stage olympique de Montpellier 2014, cours de Groupe A",
-      "reference": "stage_ete_2014.pdf, « Groupe A : stratégies de base », mardi 19 après-midi (Cécile Gachet), exercice 6 (numérotation des solutions décalée d'un rang dans le document)",
-      "url": "http://maths-olympiques.fr/?page_id=43",
-      "original_language": "fr",
-      "local_copy": "sources/originals/pofm/stage_ete_2014.pdf"
-    },
-    "path": "grade-12/combinatorics/5/7724-two-n-points-and-a-triangle.md",
     "sections": [
       "Going further",
       "Hints",

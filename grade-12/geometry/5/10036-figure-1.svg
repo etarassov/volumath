@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 297" width="340" height="297">
+  <polygon points="170,28 28,269.1 312,269.1" fill="none" stroke="#000" stroke-width="1.5"/>
+  <line x1="170" y1="28" x2="170" y2="269.1" fill="none" stroke="#000" stroke-width="1.0"/>
+  <polyline points="170,261.1 178,261.1 178,269.1" fill="none" stroke="#000" stroke-width="1.1"/>
+  <line x1="28" y1="269.1" x2="204.5" y2="177.2" fill="none" stroke="#444" stroke-width="1.0"/>
+  <line x1="312" y1="269.1" x2="170" y2="147.7" fill="none" stroke="#444" stroke-width="1.0"/>
+  <line x1="170" y1="28" x2="224.1" y2="261.7" fill="none" stroke="#444" stroke-width="1.0"/>
+  <line x1="170" y1="195.1" x2="90.4" y2="163.1" fill="none" stroke="#000" stroke-width="1.4"/>
+  <line x1="170" y1="195.1" x2="224.1" y2="261.7" fill="none" stroke="#000" stroke-width="1.4"/>
+  <line x1="90.4" y1="163.1" x2="224.1" y2="261.7" fill="none" stroke="#000" stroke-width="1.4" stroke-dasharray="5,4"/>
+  <path d="M 151.5 187.7 A 20 20 0 0 0 152.3 204.4" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 170 167.7 A 20 20 0 0 0 185.2 160.7" fill="none" stroke="#000" stroke-width="1.1"/>
+  <circle cx="170" cy="28" r="3" fill="#000"/>
+  <circle cx="28" cy="269.1" r="3" fill="#000"/>
+  <circle cx="312" cy="269.1" r="3" fill="#000"/>
+  <circle cx="170" cy="269.1" r="3" fill="#000"/>
+  <circle cx="204.5" cy="177.2" r="3" fill="#000"/>
+  <circle cx="170" cy="147.7" r="3" fill="#000"/>
+  <circle cx="170" cy="195.1" r="3" fill="#000"/>
+  <circle cx="90.4" cy="163.1" r="3" fill="#000"/>
+  <circle cx="224.1" cy="261.7" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="164.9" y="19.9">A</text>
+    <text x="9.7" y="279.8">B</text>
+    <text x="320.1" y="279.8">C</text>
+    <text x="164.9" y="289">D</text>
+    <text x="212.6" y="178.3">M</text>
+    <text x="152.8" y="146.6">P</text>
+    <text x="178.4" y="204.7">Q</text>
+    <text x="72.2" y="164.2">S</text>
+    <text x="232.9" y="266.5">R</text>
+  </g>
+</svg>

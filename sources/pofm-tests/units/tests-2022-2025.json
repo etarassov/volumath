@@ -1,0 +1,482 @@
+{
+ "unit": "tests-2022-2025",
+ "source": "pofm-tests",
+ "title": "Tests de sélection POFM, années 2022 à 2025",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "12801",
+  "13000"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2022-2023",
+   "label": "Test de Novembre",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2023-01_Enonce-Web-Test-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Énoncé-Web-Test-1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2023-01_Corrige-Web-Test-1.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Corrigé-Web-Test-1.pdf"
+   }
+  },
+  {
+   "year": "2022-2023",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2023-01_Enonce-Web-Test-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Énoncé-Web-Test-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2023-01_Corrige-Web-Test-2.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2023/01/Corrigé-Web-Test-2.pdf"
+   }
+  },
+  {
+   "year": "2022-2023",
+   "label": "Tests de Février",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2023-09_Enonce-Test-3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2023-09_Corrige-Test-3.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Corrige-Test-3.pdf"
+   }
+  },
+  {
+   "year": "2022-2023",
+   "label": "Test d’Avril",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2023-09_Enonce-Test-4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2023-09_Corrige-Test-4.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Corrige-Test-4.pdf"
+   }
+  },
+  {
+   "year": "2022-2023",
+   "label": "Test de Mai",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2023-09_Enonce-Test-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Enonce-Test-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2023-09_Corrige-Test-5.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2023/09/Corrige-Test-5.pdf"
+   }
+  },
+  {
+   "year": "2023-2024",
+   "label": "Test de Novembre",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2025-01_Enonce-Test-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2025-01_Corrige-Test-1.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Corrige-Test-1.pdf"
+   }
+  },
+  {
+   "year": "2023-2024",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2025-01_Enonce-Test-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2025-01_Corrige-Test-2.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Corrige-Test-2.pdf"
+   }
+  },
+  {
+   "year": "2023-2024",
+   "label": "Tests de Février",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2025-01_Enonce-Test-3.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-3.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2025-01_Corrige-Test-3.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Corrige-Test-3.pdf"
+   }
+  },
+  {
+   "year": "2023-2024",
+   "label": "Test d’Avril",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2025-01_Enonce-Test-4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2025-01_Corrige-Test-4.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Corrige-Test-4.pdf"
+   }
+  },
+  {
+   "year": "2023-2024",
+   "label": "Test de Mai",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2025-01_Enonce-Test-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Enonce-Test-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2025-01_Corrige-Test-5.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/01/Corrige-Test-5.pdf"
+   }
+  },
+  {
+   "year": "2024-2025",
+   "label": "Test de Novembre",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2025-10_Sujet-Test-1-2024-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-1-2024-2025.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2025-10_Corrige-Test-1-2024-2025.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Corrige-Test-1-2024-2025.pdf"
+   }
+  },
+  {
+   "year": "2024-2025",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2025-10_Sujet-Test-2-2024-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-2-2024-2025.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2025-10_Corrige-Test-2-2024-2025.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Corrige-Test-2-2024-2025.pdf"
+   }
+  },
+  {
+   "year": "2024-2025",
+   "label": "Tests de Février",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2025-10_Sujet-Test-3-2024-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-3-2024-2025.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2025-10_Corrige-Test-3-2024-2025.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Corrige-Test-3-2024-2025.pdf"
+   }
+  },
+  {
+   "year": "2024-2025",
+   "label": "Test d’Avril",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2025-10_Sujet-Test-4-2024-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-4-2024-2025.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2025-10_Corrige-Test-4-2024-2025.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Corrige-Test-4-2024-2025.pdf"
+   }
+  },
+  {
+   "year": "2024-2025",
+   "label": "Test de Mai",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2025-10_Sujet-Test-5-2024-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-Test-5-2024-2025.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2025-10_Corrige-Test-5-2024-2025.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Corrige-Test-5-2024-2025.pdf"
+   }
+  }
+ ],
+ "next_document": 15,
+ "imported": [
+  "12801",
+  "12802",
+  "12803",
+  "12804",
+  "12805",
+  "12806",
+  "12807",
+  "12808",
+  "12809",
+  "12810",
+  "12811",
+  "12812",
+  "12813",
+  "12814",
+  "12815",
+  "12816",
+  "12817",
+  "12818",
+  "12819",
+  "12820",
+  "12821",
+  "12822",
+  "12823",
+  "12824",
+  "12825",
+  "12826",
+  "12827",
+  "12828",
+  "12829",
+  "12830",
+  "12831",
+  "12832",
+  "12833",
+  "12834",
+  "12835",
+  "12836",
+  "12837",
+  "12838",
+  "12839",
+  "12840",
+  "12841",
+  "12842",
+  "12843",
+  "12844",
+  "12845",
+  "12846",
+  "12847",
+  "12848",
+  "12849",
+  "12850",
+  "12851",
+  "12852",
+  "12853",
+  "12854",
+  "12855",
+  "12856",
+  "12857",
+  "12858",
+  "12859",
+  "12860",
+  "12861",
+  "12862",
+  "12863",
+  "12864",
+  "12865",
+  "12866",
+  "12867",
+  "12868",
+  "12869",
+  "12870",
+  "12871",
+  "12872",
+  "12873",
+  "12874",
+  "12875",
+  "12876",
+  "12877",
+  "12878",
+  "12879",
+  "12880",
+  "12881",
+  "12882",
+  "12883",
+  "12884",
+  "12885",
+  "12886",
+  "12887",
+  "12888",
+  "12889",
+  "12890",
+  "12891",
+  "12892",
+  "12893",
+  "12894",
+  "12895",
+  "12896",
+  "12897",
+  "12898",
+  "12899"
+ ],
+ "skipped": [],
+ "beyond_programme": [
+  {
+   "id": "12804",
+   "tool": "aucun outil hors programme : inégalité, suite géométrique, 2^x sous sa corde sur [1, 2]",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12807",
+   "tool": "aucun outil hors programme : inégalités (t + 1/t ⩾ 2, (√u − √v)² ⩾ 0) démontrées dans la solution",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12809",
+   "tool": "aucun outil hors programme : équation fonctionnelle, partie entière, divisibilité",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12815",
+   "tool": "inégalité sur une suite, sans outil hors programme",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12821",
+   "tool": "inégalité algébrique, sans outil hors programme",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12832",
+   "tool": "lemme de Gauss et congruences modulo d (maths expertes)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12833",
+   "tool": "conjugué isogonal (droite de Simson admise), puissance d'un point et axe radical (démontrés en rappel), inversion (image d'un cercle admise)",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "12836",
+   "tool": "inégalité fonctionnelle, sans outil hors programme",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12841",
+   "tool": "aucun outil hors programme : inégalités, partie entière, valeur absolue",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12845",
+   "tool": "aucun outil hors programme : inégalité, a/b + b/a ⩾ 2",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12854",
+   "tool": "aucun outil hors programme : inégalité, le plus petit des nombres u, 2024/v et 1/u + v est au plus 45",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12863",
+   "tool": "aucun outil hors programme : inégalité, homogénéisation et (a + b)(a − b)² ⩾ 0 (le corrigé utilise l'inégalité de Muirhead)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12865",
+   "tool": "aucun outil hors programme : inéquation fonctionnelle, itérées de f ∘ f (le corrigé passe à la limite dans une suite décroissante, la solution l'évite avec un argument de moyenne)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12878",
+   "tool": "aucun outil hors programme : inégalité, factorisation et somme de carrés",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12889",
+   "tool": "aucun outil hors programme : inégalité, somme et produit, (a − b)² ⩾ 0 (le corrigé utilise l'inégalité des moyennes)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12891",
+   "tool": "aucun outil hors programme : équation fonctionnelle sur les entiers, récurrence et unicité de l'écriture en base 2",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12892",
+   "tool": "lemme de Gauss et PGCD (maths expertes)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12893",
+   "tool": "aucun outil hors programme : inégalité, mise sous forme d'un carré",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12895",
+   "tool": "petit théorème de Fermat (maths expertes) ; le théorème d'Euler et le lemme LTE du corrigé sont remplacés par un calcul de cubes",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2023-01_Corrige-Web-Test-2.pdf, exercice 1",
+   "what": "le corrigé écrit (a, 2013 − a) et 0 ⩽ a ⩽ 2013 au lieu de (a, 2023 − a) et 0 ⩽ a ⩽ 2023"
+  },
+  "2023-09_Corrige-Test-3.pdf, exercice 5 : le corrigé conclut que a_n ⩽ 1 pour tout n ⩾ 2 ; c'est faux (la suite a_1 = 100, a_2 = 2, puis a_n = 1/2 vérifie l'hypothèse), car la preuve utilise un terme b_0 qui n'existe pas quand m = 1. Le résultat demandé (n = 2023) reste vrai, la preuve marche pour n ⩾ 3 (12815).",
+  "2023-09_Corrige-Test-4.pdf, exercice 7 : coquilles sans conséquence. Dans le cas n = 4, le corrigé écrit « a4 − a2 = (a4 − a3) = (a3 − a2) » au lieu de « + », et « enfin a3 − a1 = λ6 » au lieu de a4 − a1. Dans la solution alternative n° 1, la liste « m − n + 1, …, m − n » doit s'arrêter à m − 1, et la borne cℓ ⩽ n − 1 peut être remplacée par n − 2. Les résultats sont justes (12826).",
+  "2023-09_Corrige-Test-5.pdf, exercice 1 : erreur de configuration. Le corrigé écrit BCD = 180° − DAB, alors que BCD = DAB : les points D et E sont du même côté de (AB), et D est entre A et E (vérifié numériquement). La version importée donne le bon argument (12827).",
+  "2025-01_Corrige-Test-1.pdf, exercice 2 : faute de frappe dans la première solution. La somme qui donne l'angle X1BX2 écrit « + ABD » au lieu de « + ADB » (la ligne précédente donne bien X2BF = BDA). Sans conséquence sur le résultat (12835).",
+  "2025-01_Corrige-Test-3.pdf, exercice 3 : dans la seconde moitié de la preuve, le corrigé écrit x et y à la place de a et b. Coquille sans conséquence (12846).",
+  "2025-01_Corrige-Test-3.pdf, exercice 4 : I et J échangés. De HB × HK = HA × HJ, le corrigé déduit que A, B, I, K sont cocycliques, alors que ce sont A, B, J, K. Coquille sans conséquence (12847).",
+  "2025-01_Corrige-Test-3.pdf, exercice 5 : le corrigé compare des aires sans vérifier que B et E sont de part et d'autre de (AO). C'est un trou dans l'argument, pas une erreur ; la version importée utilise le déterminant, qui garde le signe (12848).",
+  "2025-01_Corrige-Test-3.pdf, exercice 8 : le corrigé écrit « les autres réverbères » pour « les autres interrupteurs ». Coquille sans conséquence (12851).",
+  "2025-01_Corrige-Test-4.pdf, exercice 5 : dans la construction, le corrigé écrit p_k = k × n!, qui est en fait p_(k−1) ; la bonne valeur est p_k = (k + 1) × n!. Coquille sans conséquence sur la réponse n! (12858).",
+  "2025-01_Corrige-Test-4.pdf, exercice 6 : la première variante de la solution échange les noms des points Y et Z. Coquille (12859).",
+  "2025-01_Corrige-Test-4.pdf, exercice 7 : la majoration démontrée par récurrence, s_i ⩽ i(k − i)/2 + i⌊ℓ/k⌋ + max(0, ℓ mod k − (k − i)), est fausse quand k est pair. Pour k = 4, avec la stratégie du corrigé, après 3 jours les coffrets peuvent contenir 2, 1, 0 et 0 bijoux, alors que la borne pour le plus rempli vaut 1,5. L'erreur est dans le cas d'égalité c_i = c_(i+1). La conclusion B = k(k + 1)/2 + 1 reste vraie. La solution publiée (12860) utilise la majoration s_i ⩽ i(k − i) + i⌊ℓ/k⌋ + max(0, ℓ mod k − (k − i)), vérifiée par simulation pour k ⩽ 8, et obtient B = 2k.",
+  "2025-01_Corrige-Test-5.pdf, exercices 4 et 5 (le même problème) : le corrigé numérote les lignes de bas en haut et colorie la case de la colonne c et de la ligne ℓ selon le reste de c + ℓ modulo 3. Avec cette numérotation, un coup retourne les pièces en haut à gauche et en bas à droite, qui ont alors la même couleur : l'affirmation « chaque coup retourne une pièce de chaque couleur » est fausse. Il faut colorier selon c − ℓ, ou numéroter les lignes de haut en bas. La conclusion (3 divise m ou n) reste vraie. La solution publiée (12864) numérote les lignes de haut en bas.",
+  "2025-01_Corrige-Test-5.pdf, exercice 1 : le corrigé ne traite que la figure où Y est entre D et C. Le cas où C est entre D et Y existe aussi (environ une figure sur dix en tirant les points au hasard). La solution publiée (12861) traite les deux cas.",
+  "2025-10_Corrige-Test-2-2024-2025.pdf, exercice 7 (12876) : la note du corrigé compte comme séparée toute paire de cordes non croisées dont l'une relie deux frères assis face à face. Avec cette convention le lemme 1 (s ≤ f) est faux : pour n = 3 et la disposition 1, 2, 2, 1, 3, 3 on trouve s = 2, f = 1, donc c + 2s = 4 > 3. La réponse n(n − 1)/2 reste juste (vérifiée par parcours exhaustif jusqu'à n = 4). La solution publiée choisit un seul arc pour deux frères face à face, ce qui répare la preuve ; elle a été vérifiée par ordinateur sur toutes les dispositions jusqu'à n = 6. Le corrigé écrit aussi 2c + s au lieu de c + 2s.",
+  "2025-10_Corrige-Test-4-2024-2025.pdf, exercice 7 (12892), solution alternative n° 1 : elle fixe T > 0 tel que f0^(T) = d0/A^T < 1. C'est impossible quand A = 1, ce qui arrive par exemple pour a0 = 1 (alors A divise a0, donc A = 1), car d0 ⩾ 1. La majoration doit commencer à j = 1, où A + B ⩾ 2 ; c'est ce que fait la solution publiée. La première solution du corrigé n'a pas ce défaut.",
+  "2025-10_Corrige-Test-5-2024-2025.pdf, exercice 6 (12898) : la réponse du corrigé est fausse. Elle annonce les N de la forme 2^(2k+1) et (2ℓ + 1)·2^(2k) avec k, ℓ ⩾ 0 ; avec ℓ = 0, cette liste contient N = 1, 4, 16, … qui sont perdants pour Aline (pour N = 1, elle efface forcément le dernier nombre). La bonne réponse : N = 2^v m avec m impair, Aline gagne si et seulement si (m = 1 et v impair) ou (m ⩾ 3 et v pair), vérifiée par ordinateur pour N ⩽ 18. Dans le même corrigé, « {1, …, 2ⁿ} est gagnant si et seulement si n est pair » doit se lire « impair », et l'initialisation du lemme 3 dit l'ensemble vide perdant alors qu'il a été déclaré gagnant (le lemme ne vaut que pour un ensemble non vide)."
+ ],
+ "notes": [
+  "2023-01 Test 2 : l'exercice 4 junior et l'exercice 5 senior ont le même énoncé, importé une seule fois (12808).",
+  "2023-09 Test 3 (février 2023) : l'exercice 4 junior et l'exercice 8 EGMO ont le même énoncé, importé une seule fois (12814).",
+  "2023-09 Test 4 (avril 2023), exercice 3 : le commentaire des correcteurs signale une erreur dans l'énoncé posé le jour de l'épreuve, sans dire laquelle. L'énoncé publié est démontrable et a été importé tel quel (12822).",
+  "2023-09 Test 5 (mai 2023) : un seul énoncé numéroté de 1 à 7, exercices 1 à 4 pour les juniors et 5 à 7 pour les seniors. Les sept exercices sont importés, 12827 à 12833.",
+  "2025-01 Test 1 (22 novembre 2023) : test senior seul, 4 exercices, tous importés (12834 à 12837). Exercice 2 : la position des points change selon que F est du côté de A et B ou du côté de C et D (vérifié numériquement), d'où la solution en angles orientés de droites, comme la variante du corrigé, présentés comme un court lemme (cas 1 du brief).",
+  "2025-01 Test 2 (janvier 2024) : 7 exercices, 1 à 4 pour les juniors et 5 à 7 pour les seniors. L'exercice 4 junior et l'exercice 5 senior ont le même énoncé, importé une seule fois (12841). L'exercice 3 (12840) est rédigé en angles orientés, démontrés dans la solution (cas 1) ; l'hypothèse de la tangente n'y sert pas. L'exercice 7 (12843) est résolu sans homothétie ni inversion, avec des vecteurs, des triangles semblables et des angles orientés (cas 1).",
+  "2025-01 Test 3 (21 et 22 février 2024) : test junior (exercices 1 à 4), test senior (exercices 5 à 7) et test EGMO (exercices 8 à 10), tous importés (12844 à 12853), aucun doublon trouvé. Les exercices 4 (12847) et 10 (12853) sont rédigés en angles orientés de droites, avec la puissance d'un point, l'axe radical, l'angle entre tangente et corde et le lemme du pôle Sud démontrés dans la solution (cas 1). L'exercice 5 (12848) utilise le déterminant de 2de. L'exercice 7 (12850) n'utilise que le théorème des valeurs intermédiaires et deux lemmes sur les polynômes démontrés dans la solution (cas 1).",
+  "2025-01 Test 4 (27 mars 2024) : test junior (exercices 1 à 4) et test senior (exercices 5 à 7), tous importés (12854 à 12860), aucun doublon trouvé. L'exercice 1 (12854) est classé à 3 étoiles en 2de, pas 2. L'exercice 6 (12859) est rédigé en angles orientés de droites, outil démontré dans la solution (cas 1). Pour l'exercice 7 (12860), la simulation donne un écart maximal réel de 2⌊k/2⌋ avec la stratégie du coffret le moins rempli.",
+  "2025-01 Test 5 (15 mai 2024) : test junior (exercices 1 à 4) et test senior (exercices 5 à 7). L'exercice 4 junior et l'exercice 5 senior sont le même problème, importé une seule fois (12864). Tous les autres sont importés (12861 à 12866), aucun doublon trouvé. Exercice 3 (12863) : l'inégalité de Muirhead du corrigé est remplacée par un calcul de 2de. Exercice 6 (12865) : placé en 1re (manipulation de f ∘ f et de suites), sans passage à la limite. Exercice 7 (12866) : placé en 2de à 5 étoiles, le seul outil est « un nombre premier qui divise un produit divise un facteur », justifié par la décomposition en facteurs premiers (cas 1) ; la réponse est vérifiée par force brute pour s < 30.",
+  "2025-10 Test 1 2024-2025 (20 novembre 2024, test senior seulement, 4 exercices) : tous importés (12867 à 12870), aucun doublon trouvé (les plus proches, 10038 et 8132, portent sur d'autres propriétés du triangle orthique). Exercice 2 (12868) : la fin de la solution remplace la bijection décroissante du corrigé par un comptage direct qui donne a₂ = 3a₁. Exercice 3 (12869) : le lemme est démontré en séparant les intervalles, sans inégalité des moyennes ni dérivée. Exercice 4 (12870) : la construction du corrigé a été vérifiée par ordinateur jusqu'à 32 × 32 ; dans le corrigé, la somme du quart en bas à gauche est écrite avec − 2^(k−1) au lieu de + 2^(k−1), simple faute de frappe sans conséquence.",
+  "2025-10 Test 2 2024-2025 (15 janvier 2025, test junior 4 exercices et test senior 4 exercices) : 6 problèmes importés (12871 à 12876), car l'exercice 4 junior est l'exercice 5 senior, importé une seule fois (12874, niveau 2de). Aucun doublon trouvé ; 8048 (somme des parties entières, OIM 1968) est seulement lié à 12874 et cité dans Pour aller plus loin. Petites coquilles du corrigé, sans effet sur les réponses : exercice 2, « 2³ divise m » au lieu de m² − 1 ; exercice 3, 7⁶⁷³ × 4 au lieu de 7⁶⁷⁴ × 4. Exercice 6 (12875) : chaque égalité d'angles et chaque position lue sur la figure a été vérifiée sur 3375 pentagones tirés au hasard ; la fin remplace Thalès et les axes radicaux par un calcul vectoriel.",
+  "2025-10 Test 3 2024-2025 (19 et 20 février 2025, test junior exercices 1 à 4, test senior exercices 5 à 7, test EGMO exercices 8 à 10) : les 10 exercices sont importés (12877 à 12886), aucun doublon trouvé avec similar.py ni grep. Exercice 2 (12878) : dans le corrigé, le deuxième terme de l'inégalité simplifiée garde par erreur un carré, simple coquille. Exercice 3 (12879) : preuve par les coordonnées, valable pour toutes les figures ; la preuve du corrigé (triangles semblables, angle inscrit) passe dans Pour aller plus loin. Exercice 7 (12883) : le corrigé conclut par une somme d'angles lue sur sa figure, or l'ordre des demi-droites change selon la figure (six ordres différents observés sur des figures tirées au hasard) ; la solution publiée conclut par la symétrie par rapport à la bissectrice de l'angle KAI, qui ne dépend pas de l'ordre, et chaque étape a été vérifiée numériquement sur 3000 figures. Exercice 10 (12886) : jeu classé en logic-reasoning, grade 11 (signe du trinôme, somme et produit des racines).",
+  "2025-10 Test 4 2024-2025 (2 avril 2025, test junior exercices 1 à 4, test senior exercices 5 à 7) : 6 fiches pour 7 exercices (12887 à 12892), car l'exercice 4 du test junior et l'exercice 5 du test senior sont le même problème, importé une seule fois (12890). Aucun doublon trouvé avec similar.py ni grep. Exercice 1 (12887) : même solution, avec des restes au lieu des congruences. Exercice 2 (12888) : dans le corrigé, les paires (4k, 4k + 2) pour 0 ⩽ k ⩽ 505 contiennent 0 et oublient 2024, il faut lire (4k + 2, 4k + 4) ; résultat vérifié par ordinateur sur de petits analogues. Exercice 3 (12889) : on montre W = (s² − p)²/8 au lieu d'utiliser l'inégalité des moyennes. Exercices 4 et 5 (12890) : on justifie en plus le sens des vecteurs AF et DE, que le corrigé lit sur la figure ; le résultat a été vérifié numériquement sur 15204 configurations, et les deux questions de Going further sur 5000. Exercice 6 (12891) : construction plus simple pour deux valeurs (avec le quotient par 2, vérifiée par ordinateur) ; dans la formule (⋆) du corrigé, la somme doit s'arrêter à e(n − 1, 1) et non à e(1, n). Exercice 7 (12892) : dans la formule de f(j) du corrigé, les exposants sont décalés d'un rang (lire A^(−k0)(A + B)^(k0 − k1)...) ; il manque aussi N dans « pour tout i ⩾ . ».",
+  "2025-10 Test 5 2024-2025 (14 mai 2025, test junior exercices 1 à 4, test senior exercices 5 à 7) : 7 fiches pour 7 exercices (12893 à 12899). Aucun doublon trouvé avec similar.py ni grep. Exercice 1 (12893) : première solution du corrigé. Exercice 2 (12894) : on construit le point F' sur la parallèle à (AB) pour ne pas lire les positions sur la figure ; vérifié numériquement sur 6000 valeurs de l'angle. Exercice 3 (12895) : le théorème d'Euler est remplacé par un lemme sur les cubes (x ≡ ±1 mod 3^k donne x³ ≡ ±1 mod 3^(k+1)) ; recherche par ordinateur des couples de premiers inférieurs à 60 : seul (2, 3). Exercice 4 (12896) : même solution. Exercice 5 (12897) : première solution, avec un lemme sur les diviseurs impairs au lieu du lemme de Gauss ; le corrigé écrit « un diviseur de n + 1 » pour « un diviseur de n ». Exercice 6 (12898) : réponse du corrigé fausse, voir source_errors ; on garde ses trois lemmes, avec des preuves par plus petit contre-exemple. Exercice 7 (12899) : deuxième solution du corrigé, sans l'inégalité des moyennes (mise en Going further)."
+ ],
+ "updated": "2026-10-01"
+}

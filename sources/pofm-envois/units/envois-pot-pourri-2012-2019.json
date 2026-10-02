@@ -1,0 +1,379 @@
+{
+ "unit": "envois-pot-pourri-2012-2019",
+ "source": "pofm-envois",
+ "title": "Envois POFM, Pot-pourri, années 2012 à 2019",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "11601",
+  "11800"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2012-2013",
+   "label": "Envoi 5 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi5-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi5-corrige.pdf"
+   }
+  },
+  {
+   "year": "2013-2014",
+   "label": "Envoi 6 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-6.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-6.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-6-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-6-solutions.pdf"
+   }
+  },
+  {
+   "year": "2014-2015",
+   "label": "Envoi 6 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-6.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-6.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-6-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-6-solutions.pdf"
+   }
+  },
+  {
+   "year": "2015-2016",
+   "label": "Envoi 5 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-5-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi-5-solutions.pdf"
+   }
+  },
+  {
+   "year": "2016-2017",
+   "label": "Envoi 5 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2016-2017-envoi-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-envoi-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2016-2017-envoi-5-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-envoi-5-solutions.pdf"
+   }
+  },
+  {
+   "year": "2017-2018",
+   "label": "Envoi 5 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2018-02_pofm-2017-2018-envoi5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/02/pofm-2017-2018-envoi5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2018-06_pofm_2017-2018-envoi5-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2018/06/pofm_2017-2018-envoi5-corrige.pdf"
+   }
+  },
+  {
+   "year": "2018-2019",
+   "label": "Envoi 5 (Pot-pourri)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2019-02_envoi-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/02/envoi-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/juge_Corrige-Envoi-5-2019.pdf",
+    "url": "http://igm.univ-mlv.fr/~juge/pofm/doc/Corrig%c3%a9-Envoi-5-2019.pdf"
+   }
+  }
+ ],
+ "next_document": 7,
+ "imported": [
+  "11601",
+  "11602",
+  "11603",
+  "11604",
+  "11605",
+  "11606",
+  "11607",
+  "11608",
+  "11609",
+  "11610",
+  "11611",
+  "11612",
+  "11613",
+  "11614",
+  "11615",
+  "11616",
+  "11617",
+  "11618",
+  "11619",
+  "11620",
+  "11621",
+  "11622",
+  "11623",
+  "11624",
+  "11625",
+  "11626",
+  "11627",
+  "11628",
+  "11629",
+  "11630",
+  "11631",
+  "11632",
+  "11633",
+  "11634",
+  "11635",
+  "11636",
+  "11637",
+  "11638",
+  "11639",
+  "11640",
+  "11641",
+  "11642",
+  "11643",
+  "11644",
+  "11645",
+  "11646",
+  "11647",
+  "11648",
+  "11649",
+  "11650",
+  "11651",
+  "11652",
+  "11653",
+  "11654",
+  "11655",
+  "11656",
+  "11657",
+  "11658"
+ ],
+ "skipped": [
+  {
+   "where": "2018-02_pofm-2017-2018-envoi5.pdf, exercice 1",
+   "why": "doublon : trouver les entiers x, y ⩾ 1 tels que 1/x + 1/y = 1/2017. 7856 traite la même équation pour un nombre premier p quelconque (exactement trois solutions), ce qui contient le cas p = 2017 avec la même méthode.",
+   "existing": "7856"
+  },
+  {
+   "where": "2018-02_pofm-2017-2018-envoi5.pdf, exercice 3",
+   "why": "doublon, même énoncé à la même grade : triangle équilatéral ABC, P sur le cercle circonscrit, les parallèles aux côtés passant par P donnent M, N, Q alignés.",
+   "existing": "11845"
+  },
+  {
+   "where": "2018-02_pofm-2017-2018-envoi5.pdf, exercice 5",
+   "why": "doublon : même problème (deux tangentes issues de P, cercle PBK recoupant le cercle en T, P′ symétrique de P par rapport à A, montrer que PBT = P′KA). 11836 le donne avec K sur le segment [AB], ce qui est la bonne version (voir source_errors).",
+   "existing": "11836"
+  },
+  {
+   "where": "2019-02_envoi-5.pdf, exercice 1",
+   "why": "doublon à la même grade : tableau 3 × 3 rempli de 0, on ajoute 1 ou −1 à deux cases voisines, peut-on obtenir 2 partout. 11639 (envoi 2016-2017, même méthode du damier) demande d'obtenir 2017 partout. Voir aussi 7734 (grade 9), proche.",
+   "existing": "11639"
+  },
+  {
+   "where": "2019-02_envoi-5.pdf, exercice 2",
+   "why": "doublon, même énoncé : m² + n = k² + k entraîne m ⩽ n.",
+   "existing": "11047"
+  },
+  {
+   "where": "2019-02_envoi-5.pdf, exercice 4",
+   "why": "doublon, même énoncé : triangle isocèle en A, D sur (BC) avec (AD) ⊥ (AB), E projeté de D sur (AC), H milieu de [BC], montrer que AHE est isocèle en H (AH = HE).",
+   "existing": "12236"
+  },
+  {
+   "where": "2019-02_envoi-5.pdf, exercice 6",
+   "why": "doublon : 3^a − 5^b = c². 7671 (grade 12) pose la même équation en entiers naturels, ce qui contient notre cas en entiers strictement positifs.",
+   "existing": "7671"
+  },
+  {
+   "where": "2019-02_envoi-5.pdf, exercice 8",
+   "why": "doublon, même énoncé à la même grade : trapèze, deux cercles tangents à trois côtés, les deux secondes tangentes issues de A et de C sont parallèles.",
+   "existing": "12208"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "11602",
+   "tool": "aucun outil hors programme : inégalité sur des entiers, prouvée pour deux facteurs puis assemblée",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11609",
+   "tool": "puissance d'un point, axe radical, homothétie de deux cercles tangents",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "11624",
+   "tool": "petit théorème de Fermat, congruences, inverse modulo p",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11629",
+   "tool": "aucun outil hors programme : minoration de chaque terme par une fonction affine, démontrée par factorisation",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11630",
+   "tool": "théorème des quatre carrés de Lagrange, congruences modulo 8",
+   "suggested_theme": "arithmetic",
+   "hors_programme": true
+  },
+  {
+   "id": "11636",
+   "tool": "nombres complexes : argument d'un quotient, angles orientés",
+   "suggested_theme": "geometry",
+   "hors_programme": false
+  },
+  {
+   "id": "11637",
+   "tool": "PGCD et PPCM : pgcd × ppcm = produit, pgcd(x, y − z) = pgcd(x, z) quand x divise y",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "11642",
+   "tool": "aucun outil hors programme : inégalité x² + y² + z² ⩾ xy + yz + zx appliquée deux fois, à la place de l'inégalité arithmético-géométrique du corrigé",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "11643",
+   "tool": "aucun outil hors programme : équation fonctionnelle résolue par substitutions, monotonie et encadrement par des rationnels",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "11646",
+   "tool": "maths expertes : un polynôme non nul de degré d a au plus d racines ; factorisation de u^i − v^i par u − v",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "11653",
+   "tool": "aucun outil hors programme : équation fonctionnelle résolue par substitutions, étude du signe et itération de f(f(y)) = 2f(y)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "11656",
+   "tool": "aucun outil hors programme : inégalité sur n réels, obtenue en sommant les produits (M − x_i)(x_i − m) ⩾ 0",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2017-10_ofm-2012-2013-envoi5-corrige.pdf, exercice 8",
+   "what": "la formule n_k = (p − 1)(n_1 + 2)⋯(n_(k−1) + 2) oublie le facteur p + 1 : il faut p² − 1 au début. Corrigé dans 11608."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-6.pdf, exercice 5",
+   "what": "b) est faux quand [AB] est un diamètre de Γ : les tangentes en A et B sont alors parallèles et il n'y a pas de point fixe (toutes les droites (CD) sont perpendiculaires à (AB)). Hypothèse « [AB] n'est pas un diamètre » ajoutée dans 11623."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi-5-solutions.pdf, exercice 2",
+   "what": "le corrigé écrit « 4 des neuf autres groupes », il faut lire « 4 des treize autres groupes ». Corrigé dans 11632."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi-5-solutions.pdf, exercice 4",
+   "what": "deux coquilles : le facteur de n² doit être w₁ + w₂ − w₃ − w₄, et le polynôme doit être X² − bX + a et non X² − aX + b. 11634 utilise une autre preuve."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi-5-solutions.pdf, exercice 5",
+   "what": "le corrigé écrit que aₙ n'est pas de la forme bᵢ₊₁ − bᵢ, il faut lire a₁. Corrigé dans 11635."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi-5-solutions.pdf, exercice 8",
+   "what": "le corrigé écrit aₙ₋ᵢ = 2^(−2^i) alors qu'il vient de trouver aₙ₋₁ = 1/2 : il faut lire 2^(−2^(i−1)). La conclusion reste vraie. Corrigé dans 11638."
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-5-solutions.pdf, exercice 5",
+   "what": "le corrigé écrit « + x » à un endroit où il faut lire « + a ». La conclusion ne change pas. Corrigé dans 11643, qui suit une autre preuve."
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-5.pdf, exercice 9",
+   "what": "l'énoncé est faux quand (AD) et (BC) sont perpendiculaires : P = Q est alors le point d'intersection de (AD) et (BC), (DP) = (AD) et (CQ) = (BC) sont toujours perpendiculaires, mais les cercles ne sont en général pas tangents (contre-exemple A(0;0), B(4;0), C(3;1), D(1;1) : Γ1 de centre (0;1), Γ2 de centre (4;1), tous deux de rayon 1). Le corrigé suppose sans le dire que les triangles APD et BCQ ne sont pas aplatis. Hypothèse ajoutée dans 11647, contre-exemple en « Pour aller plus loin »."
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-5-solutions.pdf, exercice 10",
+   "what": "dans la construction, le corrigé écrit deux fois « on enlève … aux deux de gauche » ; la seconde fois il faut lire « aux deux de droite ». Il écrit aussi « ce n'est possible » pour « ce n'est pas possible ». Corrigé dans 11648."
+  },
+  {
+   "where": "2018-06_pofm_2017-2018-envoi5-corrige.pdf, exercice 4",
+   "what": "le corrigé prend un pas d = 4 + √(4√3 − 3) ≈ 5,982 entre deux motifs, mais écrit ensuite 100d ≈ 596,4 (avec ce d on trouve environ 598,2). Avec ce pas, le 601e disque placé dans le coin en bas à droite chevauche un disque du dernier motif (distance des centres environ 1,82 < 2). Le bon pas, serré, est 2 + 2√(4√3 − 3) ≈ 5,964. Construction refaite et vérifiée par ordinateur dans 11650."
+  },
+  {
+   "where": "2018-02_pofm-2017-2018-envoi5.pdf, exercice 5",
+   "what": "l'énoncé dit « K quelconque sur (AB) ». Si K est sur la droite (AB) au-delà de A, les deux angles ne sont plus égaux mais supplémentaires (exemple : rayon 1, OP = 2, AK ≈ 1,13 donne 100,1° contre 79,9°). Ce qui reste vrai dans tous les cas, c'est que (KP′) est parallèle à (AT). Il faut K sur le segment [AB], comme dans 11836. Problème non importé (doublon de 11836)."
+  },
+  {
+   "where": "2018-06_pofm_2017-2018-envoi5-corrige.pdf, exercice 8",
+   "what": "deux coquilles : le corrigé conclut f(−1) = 2, il faut lire f(−1) = −2 (sa propre réponse f(x) = 2x pour x < 0 le confirme), et il écrit « si x > 0, f(x)/x ≠ 0 » là où il faut lire « f(x)/x ⩽ 0 ». La réponse finale est juste. Signalé dans source.reference de 11653."
+  },
+  {
+   "where": "2018-06_pofm_2017-2018-envoi5-corrige.pdf, exercice 9",
+   "what": "le corrigé écrit « AMNF et BMNE sont des trapèzes dont les quatre sommets sont cocycliques », il faut lire AMNE (sur Γ1) et BMNF (sur Γ2), et plus loin « MNP » pour MNF. La preuve repose aussi sur la figure (angles non orientés). Preuve refaite sans dépendre de la figure dans 11654."
+  },
+  {
+   "where": "juge_Corrige-Envoi-5-2019.pdf, exercice 1",
+   "what": "« I n'est modifié lors de l'accomplissement d'une étape » : il manque « pas ». Exercice sauté (doublon de 11639)."
+  },
+  {
+   "where": "juge_Corrige-Envoi-5-2019.pdf, exercice 5",
+   "what": "le corrigé écrit « x_i² ⩾ 1/√(n(n−1)) » ; il faut x_i² ⩾ 1/(n(n−1)), c'est-à-dire x_i ⩾ 1/√(n(n−1)). Signalé dans 11656, qui donne une autre preuve."
+  },
+  {
+   "where": "juge_Corrige-Envoi-5-2019.pdf, exercice 7",
+   "what": "le corrigé pose m = min(a₁, a₂, a₃) et affirme que le plus petit indice i tel que a_i < m donne un terme plus petit que tous les précédents, ce qui oublie a₀. L'argument reste juste en ne comparant qu'aux indices 1 à i − 1. 11657 prend m = min(a₀, a₁, a₂)."
+  },
+  {
+   "where": "juge_Corrige-Envoi-5-2019.pdf, exercice 9",
+   "what": "coquilles : β(a₂, …, a_n) pour β(a₂, …, a_k), la fonction auxiliaire appelée tantôt f′ tantôt g, et un signe = manquant dans « f(α′, b₂, …, b_k)g(b₂, …, b_k) ». La preuve elle-même est juste ; rédigée proprement dans 11658."
+  },
+  {
+   "where": "2019-02_envoi-5.pdf",
+   "what": "l'en-tête du sujet et du corrigé porte « Envoi 4 : pot-pourri », alors que le fichier et la liste de l'unité parlent de l'envoi 5. Noté dans source.reference de 11655 à 11658."
+  }
+ ],
+ "notes": [
+  "2012-2013 envoi 5 : les 9 exercices importés (11601 à 11609). Aucun doublon trouvé avec similar.py et grep.",
+  "11606 (exercice 6) : l'énoncé demande n ≥ 10 alors que le résultat est vrai dès n ≥ 3 ; ce n'est pas une erreur, la remarque est dans Going further.",
+  "11604 et 11609 : solutions réécrites (vecteurs pour 11604 ; preuves complètes de MA B² = MA A1 · MA XA et du fait que l'homothétie n'est pas une translation pour 11609).",
+  "Document 1 (2013-2014 envoi 6, titré « Envoi no. 5 » dans l'énoncé) : les 9 exercices importés (11610 à 11618), aucun doublon trouvé. 11612 et 11617 sont prouvés en coordonnées (le corrigé fait une chasse aux angles). 11614 est fait sans congruences (algorithme d'Euclide sur les exposants), donc en 1re et non en maths expertes. 7059 (PGCD de a^m − 1 et a^n − 1) est voisin de 11614 mais ce n'est pas le même problème.",
+  "Document 2 (envoi 6 de 2014-2015) : 12 exercices, 12 importés (11619 à 11630), aucun doublon trouvé avec similar.py ni grep. 11627 suit la première solution du corrigé (symétrie et triangle équilatéral), la preuve trigonométrique est en « Pour aller plus loin » avec une preuve de sin 2x = 2 sin x cos x. 11628 évite les racines cubiques en travaillant sur les cubes.",
+  "Document 3 (2015-2016 envoi 5) : 8 exercices, 8 importés (11631 à 11638), aucun doublon trouvé avec similar.py ni grep. 11633 est prouvé avec le produit scalaire (le corrigé passe par l'axe radical), 11636 avec les coordonnées et les nombres complexes (le corrigé est synthétique, son plan est résumé en « Pour aller plus loin »). 11637 : la borne a₃ + 4 de l'énoncé n'est jamais atteinte, la vraie borne est a₃ + 3 (prouvé en « Pour aller plus loin », vérifié par ordinateur pour a₁, a₂, a₃ ≤ 39). 11638 : l'ensemble puissant à 4 éléments est unique, c'est {1, 1/2, 1/4, 1/16}.",
+  "Document 4 (2016-2017 envoi 5) : 10 exercices, 10 importés (11639 à 11648), aucun doublon trouvé avec similar.py ni grep. 7734 (grade 9, coloring, ajouter le même nombre à deux cases voisines d'un 3 × 3) est voisin de 11639 et de 11648, mais ce n'est pas le même problème, pas de see_also. Preuves différentes du corrigé : 11640 (projections et Pythagore), 11642 (x² + y² + z² ⩾ xy + yz + zx au lieu de l'inégalité arithmético-géométrique), 11644 (coordonnées, le corrigé introduit un point auxiliaire F), 11647 (puissance d'un point avec le produit scalaire, puis coordonnées ; le corrigé est synthétique), 11648 (« paquets » de cases au lieu des composantes connexes d'un graphe). 11647 : énoncé corrigé, voir source_errors.",
+  "Document 5 (2017-2018 envoi 5) : 9 exercices, 6 importés (11649 à 11654), 3 sautés comme doublons. Exercice 1 → 7856 (grade 11, arithmetic, 3, cas d'un premier p quelconque) ; à voir par le coordinateur : 7856 n'utilise que la factorisation (x − p)(y − p) = p² et irait aussi bien en grade 10. Exercice 3 → 11845 (fichier d'un autre agent, envoi 2022-2023). Exercice 5 → 11836 (fichier d'un autre agent, envoi 2021-2022, version correcte avec K sur le segment). Pour le coordinateur, sur 11836 : la preuve suit la figure ; un argument rigoureux existe (P est hors de Γ et K à l'intérieur, donc B et T séparent P et K sur le cercle PBK, qui est donc un quadrilatère convexe PBKT ; T est du côté de P par rapport à (AB), donc dans le triangle PAB). Preuves différentes du corrigé : 11651 (comparaison des nombres n/2ⁿ), 11652 (même plan, détaillé), 11654 (coordonnées et puissance d'un point : E et F sont les symétriques de A et B par rapport à la droite des centres, donc NEF est l'image de MAB ; le corrigé fait une chasse aux angles sur la figure). 11649 : le décompte final, très bref dans le corrigé, est détaillé ; un calcul par ordinateur des petites largeurs est en « Pour aller plus loin ». 11650 : construction corrigée, voir source_errors.",
+  "Document 6 (2018-2019 envoi 5, titré « Envoi 4 : pot-pourri » dans le PDF) : 9 exercices, 4 importés (11655 à 11658), 5 sautés comme doublons. Exercice 1 → 11639 (mon fichier, envoi 2016-2017, 2017 au lieu de 2 ; 7734 en grade 9 est proche). Exercice 2 → 11047 (arithmétique 2019-2025). Exercice 4 → 12236 (test de janvier 2016). Exercice 6 → 7671 (stage 2013, version en entiers naturels). Exercice 8 → 12208 (test de janvier 2015).",
+  "Preuves différentes du corrigé dans le document 6 : 11655 passe par les coordonnées (Ω, le cercle de diamètre [CM] et ω ont des équations g − ℓ = 0, g = 0 et g + sℓ = 0) au lieu de la chasse aux angles, et montre au passage que K ne dépend pas de A ; 11656 somme les produits (M − x_i)(x_i − m) ⩾ 0 au lieu de Cauchy-Schwarz ; 11657 corrige le choix du minorant ; 11658 suit la récurrence du corrigé et ajoute le contre-exemple de la fonction majorité pour n = 2, k = 3, vérifié par ordinateur.",
+  "Doublon probable à la même grade (1re), à arbitrer par le coordinateur : 11654 (envoi pot-pourri, groupe des Seniors) et 12058 (bloc d'un autre agent) sont le même problème (deux cercles sécants en M et N, tangente commune AB, C et D symétriques de A et B par rapport à M, les cercles MEF et NEF ont le même rayon). 12058 n'existait pas encore quand 11654 a été écrit ; je garde mon fichier, comme le demande la règle des imports parallèles.",
+  "Paires signalées par vm.py check à la même grade et relues : 11609 et 10034 utilisent les mêmes trois cercles tangents au cercle inscrit mais posent deux questions différentes (concours de AA′, BB′, CC′ et alignement K, O, I, contre concours de PX, QY, RZ) ; on peut les relier par see_also, je ne l'ai pas fait car 10034 est hors de mon bloc. Les autres paires signalées (11611/0131, 11609/12448, 11609/12853, 11640/12855, 11647/10044, 11615/1616, 11615/7542, 11619/8420, 11631/7901, 11656/10406, 11629/1817, 11643 avec 8259, 8477, 10405, 10448, 12222, 12836, 11654 avec 11462 et 7441) sont des problèmes différents qui ont seulement des titres proches.",
+  "Fin du travail : les 58 exercices 11601 à 11658 ont été construits un par un sans avertissement de pandoc ; le registre imported correspond exactement aux fichiers du bloc ; les 8 fichiers cités dans skipped existent toujours."
+ ],
+ "updated": "2026-10-01"
+}

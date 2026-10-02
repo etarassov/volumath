@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 384" width="400" height="384">
+<rect x="0" y="0" width="400" height="384" fill="#fff"/>
+<polygon points="200,40.0 50,339.4 350,339.4" fill="none" stroke="#000" stroke-width="1.6"/>
+<polygon points="131.9,175.8 264.8,169.3 202.4,339.4" fill="none" stroke="#000" stroke-width="1.6"/>
+<text x="200" y="33.0" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">A</text>
+<text x="36" y="350.4" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">B</text>
+<text x="364" y="350.4" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">C</text>
+<text x="117.9" y="180.8" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">D</text>
+<text x="278.8" y="174.3" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">E</text>
+<text x="202.4" y="364.4" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">F</text>
+<text x="165.4" y="159.0" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">52°</text>
+<text x="267.1" y="214.2" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">64°</text>
+<text x="179.0" y="329.0" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#000">?</text>
+</svg>

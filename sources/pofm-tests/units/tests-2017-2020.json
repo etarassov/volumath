@@ -1,0 +1,652 @@
+{
+ "unit": "tests-2017-2020",
+ "source": "pofm-tests",
+ "title": "Tests de sélection POFM, années 2017 à 2020",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "12401",
+  "12600"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2017-2018",
+   "label": "Test de Novembre",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2017-12_pofm-2017-2018-test-novembre.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/12/pofm-2017-2018-test-novembre.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2017-12_pofm-2017-2018-test-novembre-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/12/pofm-2017-2018-test-novembre-corrige.pdf"
+   }
+  },
+  {
+   "year": "2017-2018",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2018-01_pofm-2017-2018-test-janvier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/01/pofm-2017-2018-test-janvier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2018-01_pofm-2017-2018-test-janvier-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2018/01/pofm-2017-2018-test-janvier-corrige.pdf"
+   }
+  },
+  {
+   "year": "2017-2018",
+   "label": "Test de Février junior",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2018-02_pofm-2017-2018-test-fevrier-junior.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/02/pofm-2017-2018-test-fevrier-junior.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2018-02_pofm-2017-2018-test-fevrier-junior-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2018/02/pofm-2017-2018-test-fevrier-junior-corrige.pdf"
+   }
+  },
+  {
+   "year": "2017-2018",
+   "label": "Test de Février senior",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2018-02_pofm-2017-2018-test-fevrier-senior.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/02/pofm-2017-2018-test-fevrier-senior.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2018-02_pofm-2017-2018-test-fevrier-senior-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2018/02/pofm-2017-2018-test-fevrier-senior-corrige.pdf"
+   }
+  },
+  {
+   "year": "2017-2018",
+   "label": "Test de Mars",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/juge_Enonce-03-2018.pdf",
+     "url": "http://igm.univ-mlv.fr/~juge/pofm/doc/%c3%89nonc%c3%a9-03-2018.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/juge_Corrige-03-2018.pdf",
+    "url": "http://igm.univ-mlv.fr/~juge/pofm/doc/Corrig%c3%a9-03-2018.pdf"
+   }
+  },
+  {
+   "year": "2017-2018",
+   "label": "Test de Mai",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2018-08_pofm-2017-2018-test-mai.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/08/pofm-2017-2018-test-mai.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2018-08_pofm-2017-2018-test-mai-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2018/08/pofm-2017-2018-test-mai-corrige.pdf"
+   }
+  },
+  {
+   "year": "2018-2019",
+   "label": "Test de Novembre",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2018-12_Test_RMM_28_novembre_enonce.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/12/Test_RMM_28_novembre_enonce.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2018-12_Test_RMM_28_novembre_corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2018/12/Test_RMM_28_novembre_corrige.pdf"
+   }
+  },
+  {
+   "year": "2018-2019",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2019-01_Test-09-01.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/01/Test-09-01.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2019-01_Test-09-01-Corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2019/01/Test-09-01-Corrigé.pdf"
+   }
+  },
+  {
+   "year": "2018-2019",
+   "label": "Test de Février junior",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2019-03_Test-26-02.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/03/Test-26-02.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2019-03_Test-26-02-Corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2019/03/Test-26-02-Corrige.pdf"
+   }
+  },
+  {
+   "year": "2018-2019",
+   "label": "Test de Février senior",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2019-03_Test-27-02.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/03/Test-27-02.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2019-03_Test-27-02-Corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2019/03/Test-27-02-Corrige.pdf"
+   }
+  },
+  {
+   "year": "2018-2019",
+   "label": "Test de Mars",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2019-04_Test-20-03-web.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/04/Test-20-03-web.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2019-04_Test-20-03-Corrige-web.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2019/04/Test-20-03-Corrigé-web.pdf"
+   }
+  },
+  {
+   "year": "2018-2019",
+   "label": "Test de Mai",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2019-11_Test-15-05.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/11/Test-15-05.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2019-11_Test-15-05-Corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2019/11/Test-15-05-Corrigé.pdf"
+   }
+  },
+  {
+   "year": "2019-2020",
+   "label": "Test de Novembre",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2019-12_sujet-test-novembre.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/12/sujet-test-novembre.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2019-12_corrige-test-novembre.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2019/12/corrigé-test-novembre.pdf"
+   }
+  },
+  {
+   "year": "2019-2020",
+   "label": "Test de Janvier",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2020-01_sujet-test-janvier.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/01/sujet-test-janvier.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2020-01_corrige-test-janvier.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2020/01/corrigé-test-janvier.pdf"
+   }
+  },
+  {
+   "year": "2019-2020",
+   "label": "Tests de Février",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2020-11_Enonce-Test-Fevrier-2020.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/11/Enonce-Test-Fevrier-2020.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2020-03_Correction-Web.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2020/03/Correction-Web.pdf"
+   }
+  },
+  {
+   "year": "2019-2020",
+   "label": "Test d’Avril",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2020-11_Enonce-Test-Avril-2020.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/11/Enonce-Test-Avril-2020.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2020-04_Corrige-Web.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2020/04/Corrigé-Web.pdf"
+   }
+  },
+  {
+   "year": "2019-2020",
+   "label": "Test de Mai",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-tests/2020-11_Enonce-Test-Mai-2020.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/11/Enonce-Test-Mai-2020.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-tests/2020-05_Corrige-Web-05-2020.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2020/05/Corrigé-Web-05-2020.pdf"
+   }
+  }
+ ],
+ "next_document": 17,
+ "imported": [
+  "12401",
+  "12402",
+  "12403",
+  "12404",
+  "12405",
+  "12406",
+  "12407",
+  "12408",
+  "12409",
+  "12410",
+  "12411",
+  "12412",
+  "12413",
+  "12414",
+  "12415",
+  "12416",
+  "12417",
+  "12418",
+  "12419",
+  "12420",
+  "12421",
+  "12422",
+  "12423",
+  "12424",
+  "12425",
+  "12426",
+  "12427",
+  "12428",
+  "12429",
+  "12430",
+  "12431",
+  "12432",
+  "12433",
+  "12434",
+  "12435",
+  "12436",
+  "12437",
+  "12438",
+  "12439",
+  "12440",
+  "12441",
+  "12442",
+  "12443",
+  "12444",
+  "12445",
+  "12446",
+  "12447",
+  "12448",
+  "12449",
+  "12450",
+  "12451",
+  "12452",
+  "12453",
+  "12454",
+  "12455",
+  "12456",
+  "12457",
+  "12458",
+  "12459",
+  "12460",
+  "12461",
+  "12462",
+  "12463",
+  "12464",
+  "12465",
+  "12466",
+  "12467",
+  "12468",
+  "12469",
+  "12470",
+  "12471",
+  "12472",
+  "12473",
+  "12474",
+  "12475",
+  "12476",
+  "12477",
+  "12478",
+  "12479",
+  "12480",
+  "12481",
+  "12482",
+  "12483",
+  "12484"
+ ],
+ "skipped": [
+  {
+   "document": "2018-02_pofm-2017-2018-test-fevrier-junior.pdf",
+   "problem": "exercice 1",
+   "reason": "déjà dans la collection à son niveau : nombre de triangles formés par n droites en position générale",
+   "existing_id": "8470"
+  },
+  {
+   "document": "2018-02_pofm-2017-2018-test-fevrier-junior.pdf",
+   "problem": "exercice 4",
+   "reason": "déjà dans la collection à son niveau : somme des 1/P(A) sur les sous-ensembles non vides de {1, ..., n}",
+   "existing_id": "7522"
+  },
+  {
+   "document": "juge_Enonce-03-2018.pdf",
+   "problem": "exercice 3",
+   "reason": "déjà dans la collection : 2^k + 3^l carré parfait, 11804 (grade 10) traite même le cas des exposants nuls ; le même problème est aussi en 8927 (grade 12)",
+   "existing_id": "11804"
+  },
+  {
+   "document": "2020-01_sujet-test-janvier.pdf",
+   "problem": "exercice 1",
+   "reason": "déjà dans la collection à son niveau : jeu où l'on mange un nombre de bonbons premier avec la taille du tas, 8618 (grade 9)",
+   "existing_id": "8618"
+  },
+  {
+   "document": "2020-11_Enonce-Test-Avril-2020.pdf",
+   "problem": "exercice 1",
+   "reason": "déjà dans la collection à son niveau : même énoncé que 8431 (Poly-2021-Valbonne), en 2de",
+   "existing_id": "8431"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "12405",
+   "tool": "aucun outil hors programme : inégalité produit de moyennes, factorisation (a - 1)(b - 1) et récurrence",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12412",
+   "tool": "aucun outil hors programme : la majoration de chaque racine par (t + c²)/(2c) remplace Cauchy-Schwarz du corrigé",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12414",
+   "tool": "équation fonctionnelle sur Q (aucun outil hors programme, le thème algebra convient mal)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12417",
+   "tool": "aucun outil hors programme : factorisation et x²y² ⩽ (xy³ + x³y)/2 à la place de Cauchy-Schwarz",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12418",
+   "tool": "congruences modulo un entier et lemme de Gauss",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12429",
+   "tool": "congruences modulo un nombre premier, Bézout, Gauss, inverse modulo p, comptage des carrés modulo p",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12433",
+   "tool": "aucun outil hors programme : deux substitutions et un argument de divisibilité",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12435",
+   "tool": "angles orientés de droites (angle inscrit et angle au centre)",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "12436",
+   "tool": "aucun outil hors programme : factorisation de a³ + b³ et raisonnement par l'absurde",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12441",
+   "tool": "aucun outil hors programme : injectivité, f(f(y)) = y, puis une fonction croissante involutive est l'identité (au lieu de l'équation de Cauchy du corrigé)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12442",
+   "tool": "congruences, petit théorème de Fermat, Bézout (lemme sur PGCD des exposants démontré dans la solution)",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12444",
+   "tool": "aucun outil hors programme : droite tangente et carrés positifs (au lieu du réordonnement et de la convexité du corrigé)",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12447",
+   "tool": "congruences, petit théorème de Fermat, valuation p-adique (lemme du type LTE démontré dans la solution)",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12448",
+   "tool": "angles orientés de droites, angle tangente-corde, réciproque de la droite de Simson (rappelés en tête de solution)",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "12452",
+   "tool": "aucun outil hors programme : écarts entre valeurs consécutives et puissances de 2",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12454",
+   "tool": "congruences modulo un nombre premier, lemme de Gauss, principe des tiroirs ; l'indicatrice d'Euler est définie dans l'énoncé et ses propriétés sont démontrées",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12455",
+   "tool": "théorème de Jordan pour les polygones (sens de parcours d'une ligne fermée), admis dans un rappel en tête de solution",
+   "suggested_theme": "combinatorics",
+   "hors_programme": true
+  },
+  {
+   "id": "12456",
+   "tool": "angles orientés de droites, critère de cocyclicité et angle tangente-corde, rappelés en tête de solution",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "12458",
+   "tool": "polynômes : un polynôme non nul de degré n a au plus n racines, degré et coefficient dominant d'une composée",
+   "suggested_theme": "polynomials",
+   "hors_programme": false
+  },
+  {
+   "id": "12460",
+   "tool": "aucun outil hors programme : propriété fonctionnelle sur des sommes de valeurs, contre-exemple explicite",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12462",
+   "tool": "aucun outil hors programme : substitutions et injectivité partielle",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12467",
+   "tool": "aucun outil hors programme : deux factorisations et des carrés positifs",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12469",
+   "tool": "congruences modulo un nombre premier, lemme d'Euclide (maths expertes)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12470",
+   "tool": "angles orientés de droites, théorème de Miquel, angle tangentiel",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "12473",
+   "tool": "congruences, petit théorème de Fermat, plus petit exposant ω tel que 2^ω ≡ 1 modulo 503 (maths expertes)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12474",
+   "tool": "aucun outil hors programme : identité (x+y)² = (x−y)² + 4xy à la place de l'inégalité arithmético-géométrique",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12477",
+   "tool": "angles orientés de droites (chasse aux angles modulo 180°)",
+   "suggested_theme": "geometry",
+   "hors_programme": true
+  },
+  {
+   "id": "12478",
+   "tool": "lemme de Gauss et infinité des nombres premiers (maths expertes)",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  },
+  {
+   "id": "12479",
+   "tool": "aucun outil hors programme : somme des trois nombres et factorisation (x − 1)(y − 1) pour le cas d'égalité",
+   "suggested_theme": "inequalities",
+   "hors_programme": false
+  },
+  {
+   "id": "12481",
+   "tool": "congruences modulo 4, 5 et 9 (maths expertes)",
+   "suggested_theme": "modular-arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12483",
+   "tool": "division euclidienne et écriture en base n (démontrée dans la solution), principe des tiroirs, polynômes de degré quelconque (maths expertes)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  },
+  {
+   "id": "12484",
+   "tool": "aucun outil hors programme : exposant de 2 dans un entier, ensembles finis, min et max",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2018-02_pofm-2017-2018-test-fevrier-junior-corrige.pdf, exercice 3",
+   "what": "le corrigé ne vérifie pas que les carrés sont non nuls et n utilise jamais n >= p ; dans le second cas il faut l >= 2 (contre-exemple sans l hypothèse : p = 5, n = 3). Complété dans 12411."
+  },
+  {
+   "where": "juge_Corrige-03-2018.pdf, exercice 2",
+   "what": "coquilles : angle BDC écrit 130° au lieu de 120°, et conclusion BD ⩾ BC au lieu de BD ⩽ BC ; sans effet sur le résultat"
+  },
+  {
+   "where": "juge_Corrige-03-2018.pdf, exercice 4",
+   "what": "dans la factorisation de S1 − S2, le facteur est écrit d² + bd + d² − c² − ac − a² au lieu de b² + bd + d² − c² − ac − a²"
+  },
+  {
+   "where": "2018-08_pofm-2017-2018-test-mai-corrige.pdf, exercice 2",
+   "what": "dans le cas m = 2, le corrigé écrit 2 + n! = 2^(n−1) au lieu de 2 + n! = 2^n ; corrigé dans 12422"
+  },
+  {
+   "where": "2018-08_pofm-2017-2018-test-mai-corrige.pdf, exercice 5",
+   "what": "dans le contre-exemple pour n = ab composé (a1 = 0, les autres égaux à a), le cas i = 1 est mal traité : la somme des b premiers termes vaut a(b − 1), pas ab ; il faut utiliser a1 = 0 lui-même ; complété dans 12425"
+  },
+  {
+   "where": "2019-01_Test-09-01-Corrige.pdf, exercice 3, question 2",
+   "what": "la réponse finale autorise k ⩾ k′, mais k = k′ donne n = 2^k − 1, où f(n) = n et non n + 1 ; la bonne condition est k > k′ (vérifié par force brute jusqu'à n = 14) ; le raisonnement de la question 2 a aussi des trous ; solution refaite en entier dans 12432"
+  },
+  {
+   "where": "2019-01_Test-09-01-Corrige.pdf, exercice 1",
+   "what": "coquille dans le calcul final de x et y ; les bonnes formules sont x = 11(6B² − 5A²) et y = 11(6A² − 5B²) ; corrigé dans 12430"
+  },
+  {
+   "where": "2019-04_Test-20-03-Corrige-web.pdf, exercice 1",
+   "what": "La chasse aux angles du corrigé ne vaut que lorsque P est entre A et le point d'intersection des diagonales (et Q entre B et ce point). Dans l'autre configuration, l'angle PQD vaut 180° moins l'angle PCD et l'argument ne marche plus. Solution réécrite avec des triangles semblables, valable dans tous les cas (12443)."
+  },
+  {
+   "where": "2019-11_Test-15-05.pdf, corrigé de l'exercice 1, note finale",
+   "what": "La note écrit s₂ₙ là où il faut lire sₙ (12449)."
+  },
+  {
+   "where": "2019-11_Test-15-05.pdf, corrigé de l'exercice 6",
+   "what": "Le corrigé affirme que φ(n) est pair pour tout n ≥ 2, alors que φ(2) = 1 ; il faut lire n ≥ 3 (le calcul qui suit utilise d'ailleurs φ(2) = 1). Sans effet sur la preuve (12454)."
+  },
+  {
+   "where": "2019-11_Test-15-05.pdf, corrigé de l'exercice 7",
+   "what": "Le corrigé inverse les mots horaire et anti-horaire : en passant par le coin en bas à droite, le trajet tourne dans le sens anti-horaire, et dans le sens horaire en passant par le coin en haut à gauche. La contradiction reste la même (12455)."
+  },
+  {
+   "where": "2019-12_corrige-test-novembre.pdf, corrigé de l'exercice 1",
+   "what": "Le corrigé écrit « A est le milieu de l'arc BC » au lieu de D, et « AE = EF » au lieu de AE = AF. La fin utilise « AC = |x ± y| » avec des longueurs x et y qui ne sont jamais définies (il s'agit de AJ = AK et de BJ = CK). La solution publiée définit ces longueurs et justifie le choix des signes (12456)."
+  },
+  {
+   "where": "2020-03_Correction-Web.pdf, corrigé de l'exercice 5",
+   "what": "Le corrigé conclut avec ℓ_{2m} ⩾ m, ce qui ne garantit pas que m apparaisse dans la suite. Il faut ℓ_n > m, obtenu avec n = 2m + 1. La solution publiée fait ce choix (12468)."
+  },
+  {
+   "where": "2020-05_Corrige-Web-05-2020.pdf, remarque après la solution de l'exercice 6",
+   "what": "La remarque appelle « nombres de Fermat » les entiers 2^p − 1, qui sont les nombres de Mersenne. La remarque n'est pas reprise dans l'exercice publié (12483), la solution n'est pas touchée."
+  }
+ ],
+ "notes": [
+  "12410 : la tangente ne sert qu'à garantir l'existence de P et Q, le parallélisme vaut pour toute droite passant par A ; solution en repère au lieu de la chasse aux angles du corrigé.",
+  "12413 : le corrigé prouve (BR) // (PC) par Ceva ou la division harmonique ; réécrit avec deux homothéties et l'angle inscrit en rappel. Les deux cas (angles égaux ou supplémentaires) se produisent, d'où le sinus.",
+  "12419 : la condition nécessaire du corrigé (passage à la limite avec λ grand) est remplacée par la première ligne 0, 1, ..., 8, x et un argument de polynôme du second degré à trois racines, entièrement vérifiable en 1re.",
+  "12420 : la similitude du corrigé est remplacée par une réduction de Thalès (parallèle à (BC) par H) puis un calcul en repère ; centre = milieu de [B'C'], vérifié numériquement sur 3000 triangles. 12416 est la réciproque de 7949 (grade 12, on y trouve l'angle de 100° à partir de BC = AD + BD) : ce n'est pas le même problème, aucun see_also ajouté.",
+  "8927 (grade 12) et 11804 (grade 10) sont le même problème 2^x + 3^y = z², déjà présents avant cette unité : paire à des niveaux différents, à relier par see_also si le coordinateur le souhaite.",
+  "Mai 2018 : 12423 (groupe B) placé en 2de avec angles inscrits et angle tangente-corde rappelés, solution par mesures d'arcs et symétrie ; 12425 et 12426 sans outil hors programme (restes, tiroirs ; puissance d'un point démontrée dans la solution de 12426, cas 1 du brief).",
+  "12428 (16 points, nov. 2018 ex. 2): le corrigé officiel ne traite pas les cas où deux lignes ou deux colonnes sont parallèles et justifie la réciproque de son lemme en une phrase; la solution publiée traite les trois cas. Énoncé vérifié numériquement sur 113 configurations aléatoires.",
+  "12429 (nov. 2018 ex. 3): le corrigé utilise le théorème chinois, le lemme de Hensel et une racine primitive; la solution publiée n'utilise que Bézout, Gauss et le comptage des carrés modulo p (cas 2, maths expertes). Énoncé vérifié par force brute pour n de 2 à 44.",
+  "12427 (nov. 2018 ex. 1) et 12409 sont des problèmes de graphes rédigés sans vocabulaire de graphe.",
+  "Les signes ⩾ et ⩽ (U+2A7E, U+2A7D) dans le champ title ne s'affichent pas dans la police du titre du PDF (une boîte vide à la place). Corrigé dans 12417 et 12436 en ≥ et ≤. Fichiers d'autres blocs touchés, non modifiés : 10405 10455 10458 10625 10637 10640 10653 10669 10674 11846 8537 8538 ",
+  "Mars 2019 : 12448 (cercles tangents, ex. 6) réécrit sans homothétie de centre T : relation vectorielle IP_A = IA'' + IE_A/2 au produit scalaire, réciproque de Simson aux angles orientés, puis calcul des centres et rayons ; vérifié numériquement sur 6 configurations aléatoires (tangences intérieure et extérieure). L'énoncé de l'ex. 3 dit a > b, le corrigé a >= b : sans effet.",
+  "Mai 2019 : 12449 à 12452 (Junior), 12453 à 12455 (Senior). 12453 (triangle équilatéral, ex. 5) placé en 2de : la preuve du corrigé (cercles tangents puis Ptolémée) est remplacée par une symétrie axiale qui fabrique un deuxième triangle équilatéral, puis les angles inscrits ; construction vérifiée numériquement. 12454 (indicatrice d'Euler, ex. 6) : théorème d'Euler remplacé par le principe des tiroirs et le lemme de Gauss. 12455 (léopard, ex. 7) : construction générale écrite et vérifiée par programme pour n = 1 à 6, figure pour n = 2 ; la borne utilise le théorème de Jordan admis (cas 3).",
+  "Novembre 2019 (Senior) : 12456 à 12458. 12456 (ex. 1) : J et K sont les projetés de D sur (AB) et (AC), démontré avec des angles orientés (cas 3), puis conclusion vectorielle ; vérifié numériquement sur 6 configurations, figure sans J ni K pour ne pas donner l'idée. 12457 (ex. 2) : configuration à 24 cases du corrigé vérifiée par programme ; placé en 2de, difficulté 5, aucun outil hors programme. 12458 (ex. 3) : polynômes (cas 2, maths expertes) ; l'étape des coefficients dominants est refaite par un argument de parité sur le cycle de longueur 2019.",
+  "Janvier 2020 : ex. 1 sauté (8618) ; 12459 (ex. 2, grade 11) : puissance d'un point démontrée avec le produit scalaire, ce qui évite les angles orientés et toute disjonction de cas ; vérifié numériquement sur 6 configurations. 10220 (grade 10) traite seulement le premier lemme (E sur ω1) de ce problème : ce n'est pas un doublon, mais les deux fichiers sont proches. 12460 (ex. 3). 12461 : les exercices 4 et 5 du sujet sont le même problème (Junior et Senior), importé une seule fois ; construction vérifiée par programme. 12462 (ex. 6). 12463 (ex. 7) : minoration par la solution alternative n° 1 (récurrence de n − 2 à n) ; valeur minimale 1 + ⌈n/2⌉ vérifiée par force brute pour n = 1 à 6. Petite coquille du corrigé de l'ex. 3 : « f(x1) + ... + f(xk) » pour f(x1) + ... + f(xn).",
+  "Février 2020 : 12464 à 12473, les dix exercices. 12464 (ex. 1) placé en 1re : puissance d'un point démontrée avec le produit scalaire, au lieu de la chasse aux angles orientés du corrigé. 12465 (ex. 2) en 2de. 12466 (ex. 3) en 3e : constructions décrites avec une table ronde au lieu des congruences. 12467 (ex. 4) en 2de, inégalité réécrite avec deux factorisations. 12468 (ex. 5) : erreur du corrigé corrigée, voir source_errors. 12469 (ex. 6) : maths expertes. 12470 (ex. 7) : cas 3 (angles orientés, Miquel) ; le corrigé ignore le cas où deux des droites sont tangentes au cercle de Miquel, traité dans la solution. 12471 (ex. 8) et 12472 (ex. 9) placés en 2de ; dans le dernier cas du corrigé de l'ex. 8, x_k est écrit pour x_{k-1}, simple coquille. 12472 : rayons des cercles inscrits exprimés avec tan(α/2), figure vérifiée numériquement (MP − NQ ≈ 1e-16). 12473 (ex. 10) : le corrigé utilise les carrés modulo 503 ; solution réécrite avec le seul petit théorème de Fermat et l'ordre de 2 ; arrêt en au plus 250 opérations, vérifié par programme pour les 502 départs.",
+  "Document 15 (avril 2020) : les exercices 4 (Junior) et 5 (Senior) sont le même énoncé, importé une seule fois en 12476.",
+  "12474 : il existe deux partitions optimales (le corrigé n'en donne qu'une) ; les deux sont dans « Pour aller plus loin ».",
+  "12475 : solution réécrite en coordonnées (niveau 2de) à la place de la chasse aux angles orientés du corrigé.",
+  "12477 : cas 3 (angles de droites, comme le corrigé). Le point D sur le cercle BCQ, admis par le corrigé, est démontré à partir de l'énoncé. Vérifié numériquement : (QF) est parallèle à (AP) et P, Q, E sont alignés, ce qui donne une fin plus courte avec Thalès et la puissance du point C ; laissé en « Pour aller plus loin ».",
+  "12478 : solution alternative n° 1 du corrigé (lemme de Gauss), plus accessible que la solution principale qui utilise le théorème chinois.",
+  "Document 16 (test de mai 2020) : l'exercice 4 (Junior) et l'exercice 5 (Senior) sont le même énoncé, importé une seule fois (12482).",
+  "12480 : jeu de Clara et Edwige, placé en 3e (exposants de 2 et de 5, parité). La stratégie de copie du corrigé est laissée en « Pour aller plus loin ».",
+  "12481 : solution alternative n° 2 du corrigé (congruences modulo 5, 4 et 9), plus courte que la solution principale par le lemme de Gauss, qui est laissée en « Pour aller plus loin ».",
+  "12482 : le corrigé fait une chasse aux angles de droites (cas 3). Solution réécrite entièrement en coordonnées, niveau 1re : on montre que les deux tangentes passent par le symétrique de A par rapport à la médiatrice de [FG]. Le calcul ne dépend pas de l'ordre des points. Vérifié numériquement sur la figure.",
+  "12483 : le corrigé obtient un multiple de n de la forme 2^a − 2^b avec l'indicatrice d'Euler ; remplacé par le principe des tiroirs sur 2^1, ..., 2^(n+1). L'écriture en base n est démontrée dans la solution.",
+  "12484 : exposant de 2 noté e(x), avec e(0) = +∞ ; la propriété des sommes est énoncée séparément pour les entiers non nuls, car e(0 + 0) = e(0) ne vérifie pas l'inégalité stricte."
+ ],
+ "updated": "2026-10-01"
+}

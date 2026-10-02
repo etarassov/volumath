@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 262" width="340" height="262">
+  <polygon points="61,233.9 272.4,233.9 312,165.3 232.7,28 113.9,28 28,176.7" fill="none" stroke="#000" stroke-width="1.6"/>
+  <path d="M 77 233.9 A 16 16 0 0 0 53 220.1" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 280.4 220.1 A 16 16 0 0 0 256.4 233.9" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 304 151.4 A 16 16 0 0 0 304 179.1" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 216.7 28 A 16 16 0 0 0 240.7 41.9" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 105.9 41.9 A 16 16 0 0 0 129.9 28" fill="none" stroke="#000" stroke-width="1.1"/>
+  <path d="M 36 190.6 A 16 16 0 0 0 36 162.9" fill="none" stroke="#000" stroke-width="1.1"/>
+  <circle cx="61" cy="233.9" r="3" fill="#000"/>
+  <circle cx="272.4" cy="233.9" r="3" fill="#000"/>
+  <circle cx="312" cy="165.3" r="3" fill="#000"/>
+  <circle cx="232.7" cy="28" r="3" fill="#000"/>
+  <circle cx="113.9" cy="28" r="3" fill="#000"/>
+  <circle cx="28" cy="176.7" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="59.3" y="210.4">120°</text>
+    <text x="236.7" y="210.4">120°</text>
+    <text x="259.3" y="171.2">120°</text>
+    <text x="197" y="63.4">120°</text>
+    <text x="112.2" y="63.4">120°</text>
+    <text x="43.3" y="182.7">120°</text>
+    <text x="48.9" y="252">A</text>
+    <text x="274.3" y="252">B</text>
+    <text x="320.9" y="171.2">C</text>
+    <text x="234.6" y="21.8">D</text>
+    <text x="101.8" y="21.8">E</text>
+    <text x="8.9" y="182.7">F</text>
+  </g>
+</svg>

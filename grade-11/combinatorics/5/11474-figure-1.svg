@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="245" viewBox="0 0 440 245">
+<rect x="0" y="0" width="440" height="245" fill="#ffffff"/>
+<rect x="30" y="50" width="28" height="130" fill="#f3c79a" stroke="#000" stroke-width="1"/>
+<text x="44.0" y="198" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">10</text>
+<rect x="68" y="89" width="28" height="91" fill="#a9c8e8" stroke="#000" stroke-width="1"/>
+<text x="82.0" y="198" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">7</text>
+<rect x="106" y="102" width="28" height="78" fill="#a9c8e8" stroke="#000" stroke-width="1"/>
+<text x="120.0" y="198" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">6</text>
+<rect x="144" y="115" width="28" height="65" fill="#a9c8e8" stroke="#000" stroke-width="1"/>
+<text x="158.0" y="198" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">5</text>
+<rect x="182" y="167" width="28" height="13" fill="#d9d9d9" stroke="#000" stroke-width="1"/>
+<text x="196.0" y="198" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">1</text>
+<rect x="220" y="154" width="28" height="26" fill="#d9d9d9" stroke="#000" stroke-width="1"/>
+<text x="234.0" y="198" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">2</text>
+<rect x="258" y="141" width="28" height="39" fill="#d9d9d9" stroke="#000" stroke-width="1"/>
+<text x="272.0" y="198" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">3</text>
+<rect x="296" y="128" width="28" height="52" fill="#d9d9d9" stroke="#000" stroke-width="1"/>
+<text x="310.0" y="198" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">4</text>
+<rect x="334" y="76" width="28" height="104" fill="#b7dfb0" stroke="#000" stroke-width="1"/>
+<text x="348.0" y="198" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">8</text>
+<rect x="372" y="63" width="28" height="117" fill="#b7dfb0" stroke="#000" stroke-width="1"/>
+<text x="386.0" y="198" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">9</text>
+<line x1="18" y1="180" x2="412" y2="180" stroke="#000" stroke-width="1.5"/>
+<line x1="32" y1="208" x2="56" y2="208" stroke="#000" stroke-width="1.2"/>
+<line x1="32" y1="204" x2="32" y2="208" stroke="#000" stroke-width="1.2"/>
+<line x1="56" y1="204" x2="56" y2="208" stroke="#000" stroke-width="1.2"/>
+<text x="44.0" y="228" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle">G<tspan font-size="11" dy="4">3</tspan></text>
+<line x1="70" y1="208" x2="170" y2="208" stroke="#000" stroke-width="1.2"/>
+<line x1="70" y1="204" x2="70" y2="208" stroke="#000" stroke-width="1.2"/>
+<line x1="170" y1="204" x2="170" y2="208" stroke="#000" stroke-width="1.2"/>
+<text x="120.0" y="228" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle">G<tspan font-size="11" dy="4">1</tspan></text>
+<line x1="184" y1="208" x2="322" y2="208" stroke="#000" stroke-width="1.2"/>
+<line x1="184" y1="204" x2="184" y2="208" stroke="#000" stroke-width="1.2"/>
+<line x1="322" y1="204" x2="322" y2="208" stroke="#000" stroke-width="1.2"/>
+<text x="253.0" y="228" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle">G<tspan font-size="11" dy="4">0</tspan></text>
+<line x1="336" y1="208" x2="398" y2="208" stroke="#000" stroke-width="1.2"/>
+<line x1="336" y1="204" x2="336" y2="208" stroke="#000" stroke-width="1.2"/>
+<line x1="398" y1="204" x2="398" y2="208" stroke="#000" stroke-width="1.2"/>
+<text x="367.0" y="228" font-family="Helvetica, Arial, sans-serif" font-size="15" font-style="italic" text-anchor="middle">G<tspan font-size="11" dy="4">2</tspan></text>
+</svg>

@@ -1,0 +1,354 @@
+{
+  "unit": "envois-arithmetique-2012-2019",
+  "source": "pofm-envois",
+  "title": "Envois POFM, Arithmétique, années 2012 à 2019",
+  "brief": "sources/maths-olympiques-brief.md",
+  "id_block": [
+    "10801",
+    "11000"
+  ],
+  "status": "done",
+  "documents": [
+    {
+      "year": "2012-2013",
+      "label": "Envoi 3 (Arithmétique)",
+      "statement": [
+        {
+          "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi3.pdf",
+          "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi3.pdf"
+        }
+      ],
+      "corrige": {
+        "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi3-corrige.pdf",
+        "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi3-corrige.pdf"
+      }
+    },
+    {
+      "year": "2013-2014",
+      "label": "Envoi 4 (Arithmétique)",
+      "statement": [
+        {
+          "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-4.pdf",
+          "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-4.pdf"
+        }
+      ],
+      "corrige": {
+        "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-4-solutions.pdf",
+        "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-4-solutions.pdf"
+      }
+    },
+    {
+      "year": "2014-2015",
+      "label": "Envoi 3 (Arithmétique)",
+      "statement": [
+        {
+          "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-3.pdf",
+          "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-3.pdf"
+        }
+      ],
+      "corrige": {
+        "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-3-solutions.pdf",
+        "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-3-solutions.pdf"
+      }
+    },
+    {
+      "year": "2015-2016",
+      "label": "Envoi 1 (Arithmétique)",
+      "statement": [
+        {
+          "file": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-1.pdf",
+          "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi-1.pdf"
+        }
+      ],
+      "corrige": {
+        "file": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-1-solutions.pdf",
+        "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi-1-solutions.pdf"
+      }
+    },
+    {
+      "year": "2016-2017",
+      "label": "Envoi 1 (Arithmétique)",
+      "statement": [
+        {
+          "file": "sources/originals/pofm-envois/2017-10_ofm-2016-2017-envoi-1.pdf",
+          "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-envoi-1.pdf"
+        }
+      ],
+      "corrige": {
+        "file": "sources/originals/pofm-envois/2017-10_ofm-2016-2017-envoi-1-solutions.pdf",
+        "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-envoi-1-solutions.pdf"
+      }
+    },
+    {
+      "year": "2017-2018",
+      "label": "Envoi 1 (Arithmétique)",
+      "statement": [
+        {
+          "file": "sources/originals/pofm-envois/2017-10_pofm-2017-2018-envoi1-1.pdf",
+          "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/pofm-2017-2018-envoi1-1.pdf"
+        }
+      ],
+      "corrige": {
+        "file": "sources/originals/pofm-envois/2017-11_pofm-2017-2018-envoi1-corrige.pdf",
+        "url": "https://maths-olympiques.fr/wp-content/uploads/2017/11/pofm-2017-2018-envoi1-corrige.pdf"
+      }
+    },
+    {
+      "year": "2018-2019",
+      "label": "Envoi 2 (Arithmétique)",
+      "statement": [
+        {
+          "file": "sources/originals/pofm-envois/2018-11_envoi-2.pdf",
+          "url": "https://maths-olympiques.fr/wp-content/uploads/2018/11/envoi-2.pdf"
+        }
+      ],
+      "corrige": {
+        "file": "sources/originals/pofm-envois/2018-12_corrige-envoi-2.pdf",
+        "url": "https://maths-olympiques.fr/wp-content/uploads/2018/12/corrige-envoi-2.pdf"
+      }
+    }
+  ],
+  "next_document": 7,
+  "imported": [
+    "10801",
+    "10802",
+    "10803",
+    "10804",
+    "10805",
+    "10806",
+    "10807",
+    "10808",
+    "10809",
+    "10810",
+    "10811",
+    "10812",
+    "10813",
+    "10814",
+    "10815",
+    "10816",
+    "10817",
+    "10818",
+    "10819",
+    "10820",
+    "10821",
+    "10822",
+    "10823",
+    "10824",
+    "10825",
+    "10826",
+    "10827",
+    "10828",
+    "10829",
+    "10830",
+    "10831",
+    "10832",
+    "10833",
+    "10834",
+    "10835",
+    "10836",
+    "10837",
+    "10838",
+    "10839",
+    "10840",
+    "10841",
+    "10842",
+    "10843",
+    "10844",
+    "10845",
+    "10846",
+    "10847",
+    "10848",
+    "10849",
+    "10850",
+    "10851",
+    "10852",
+    "10853",
+    "10854"
+  ],
+  "skipped": [
+    {
+      "where": "2017-10_ofm-2012-2013-envoi3.pdf, Exercices Juniors, exercice 3",
+      "why": "Doublon : un terme de la suite de Fibonacci multiple de 1000 est le même problème (même méthode des tiroirs sur les couples de restes) que 7334, multiple de 2007, déjà en 1re.",
+      "existing": "7334"
+    },
+    {
+      "where": "2017-10_ofm-2013-2014-envoi-4.pdf, Exercices du groupe B, exercice 1",
+      "why": "Doublon : compter les couples (a, b) avec 1/a + 1/b = 1/2014 est la même question, avec la même méthode ((a − N)(b − N) = N², puis nombre de diviseurs de N²), que 7452 (1/x + 1/y = 1/2012¹⁰), placé en 1re, ce qui est défendable.",
+      "existing": "7452"
+    },
+    {
+      "where": "2017-10_ofm-2013-2014-envoi-4.pdf, Exercices communs, exercice 4",
+      "why": "Doublon mot pour mot : « 1 + m(m + n) divise (n + 1)(m + n) − 1 » est déjà 7935 (stage de Montpellier 2016), en Terminale, placement défendable puisque la preuve utilise le lemme de Gauss.",
+      "existing": "7935"
+    },
+    {
+      "where": "2017-10_ofm-2016-2017-envoi-1.pdf, Exercices du groupe B, exercice 2",
+      "why": "variante, au même niveau (3e), de 10810 (2ⁿ + 12ⁿ + 2014ⁿ, même première étape modulo 3) ; ajoutée comme question 3 de « Going further » de 10810 plutôt qu'en exercice séparé",
+      "existing": "10810"
+    },
+    {
+      "where": "2017-10_pofm-2017-2018-envoi1-1.pdf, Exercices du groupe B, exercice 1",
+      "why": "Doublon : la cellule qui se divise en 42 ou 44 est déjà 7012 (stage junior 2011), en 3e, avec 1993 cellules au lieu de 2017 ; même équation, même encadrement de a + b et même argument de parité.",
+      "existing": "7012"
+    },
+    {
+      "where": "2017-10_pofm-2017-2018-envoi1-1.pdf, Exercices du groupe B, exercice 2",
+      "why": "Doublon : les lampes et interrupteurs sont le problème des casiers, déjà 4816 en 3e (les casiers ouverts sont ceux des carrés parfaits).",
+      "existing": "4816"
+    },
+    {
+      "where": "2017-10_pofm-2017-2018-envoi1-1.pdf, Exercices du groupe B, exercice 3",
+      "why": "Doublon mot pour mot : les dix sommes deux à deux de cinq entiers ne sont jamais consécutives, déjà 7009 en 3e.",
+      "existing": "7009"
+    },
+    {
+      "where": "2017-10_pofm-2017-2018-envoi1-1.pdf, Exercices communs, exercice 4",
+      "why": "Doublon : le problème de Josèphe avec un condamné sur deux, formule J(2^a + b) = 2b + 1, est déjà 1004, en Terminale, placement défendable puisque la preuve est une récurrence.",
+      "existing": "1004"
+    },
+    {
+      "where": "2017-10_pofm-2017-2018-envoi1-1.pdf, Exercices du groupe A, exercice 7",
+      "why": "Doublon : y² = x⁵ − 4 est l'équation x⁵ = y² + 4, déjà 8037 en Terminale (même argument modulo 11). Le cas des entiers négatifs ajouté ici est immédiat (x⁵ − 4 < 0).",
+      "existing": "8037"
+    },
+    {
+      "where": "2017-10_pofm-2017-2018-envoi1-1.pdf, Exercices du groupe A, exercice 9",
+      "why": "Doublon : P(n − 1) < P(n) < P(n + 1) pour une infinité de n est, décalé d'un cran, le problème P(n) < P(n + 1) < P(n + 2) de 11608 (envoi 2012-2013 n° 5, écrit par un autre agent), en Terminale aussi.",
+      "existing": "11608"
+    }
+  ],
+  "beyond_programme": [
+    {
+      "id": "10808",
+      "tool": "petit théorème de Fermat, Bézout, Gauss (congruences modulo un premier)",
+      "suggested_theme": "modular-arithmetic",
+      "hors_programme": false
+    },
+    {
+      "id": "10813",
+      "tool": "petit théorème de Fermat et théorème de Bézout (le corrigé utilise l'ordre multiplicatif, évité ici)",
+      "suggested_theme": "modular-arithmetic",
+      "hors_programme": false
+    },
+    {
+      "id": "10815",
+      "tool": "paramétrage des triplets pythagoriciens primitifs (démontré dans la solution avec le PGCD et la décomposition en facteurs premiers), descente infinie, congruences modulo 8",
+      "suggested_theme": "modular-arithmetic",
+      "hors_programme": false
+    },
+    {
+      "id": "10819",
+      "tool": "petit théorème de Fermat",
+      "suggested_theme": "modular-arithmetic",
+      "hors_programme": false
+    },
+    {
+      "id": "10832",
+      "tool": "petit théorème de Fermat et théorème de Bézout ; le corrigé utilise un élément d'ordre p − 1 (racine primitive) et le lemme chinois, remplacés par le lemme « un polynôme de degré d a au plus d racines modulo p », démontré dans la solution",
+      "suggested_theme": "modular-arithmetic",
+      "hors_programme": false
+    }
+  ],
+  "see_also_added": [
+    {
+      "id": "10802",
+      "other": "10806"
+    },
+    {
+      "id": "10806",
+      "other": "10802"
+    },
+    {
+      "id": "10803",
+      "other": "10807"
+    },
+    {
+      "id": "10807",
+      "other": "10803"
+    },
+    {
+      "id": "10849",
+      "other": "7864"
+    }
+  ],
+  "source_errors": [
+    {
+      "where": "2017-10_ofm-2012-2013-envoi3-corrige.pdf, exercice 9",
+      "what": "La preuve écrit « comme q < p » alors que le facteur premier q peut valoir p ; ce cas (qui force p = 5) est oublié. Lacune comblée dans 10808."
+    },
+    {
+      "where": "2017-10_ofm-2012-2013-envoi3-corrige.pdf, exercice 7",
+      "what": "L'existence du coloriage est seulement affirmée (« se démontre de la même façon ») ; 10806 donne une construction complète et vérifie les règles."
+    },
+    {
+      "where": "2017-10_ofm-2013-2014-envoi-4-solutions.pdf, exercice 7",
+      "what": "Le corrigé conclut que seule l'identité convient. Or f(0) n'apparaît jamais (il est toujours multiplié par 0) : toute fonction avec f(k) = k pour k ⩾ 1 et f(0) quelconque convient. Le corrigé écrit aussi f(p) = pa² puis traite seulement a ⩾ 2, en oubliant a = 0, qui s'exclut par F(p, p) = 2p². Corrigé dans 10814."
+    },
+    {
+      "where": "2017-10_ofm-2014-2015-envoi-3-solutions.pdf, exercice 9",
+      "what": "le corrigé suppose a ⩾ 8 puis conclut « pas de solution a ⩾ 9 » (simple coquille, sans conséquence sur le résultat)"
+    },
+    {
+      "where": "2017-10_ofm-2015-2016-envoi-1-solutions.pdf, exercice 4",
+      "what": "la conclusion donne le triplet (7, 6, 2) au lieu de (7, 5, 2) ; 6 n'est pas premier, et le calcul du corrigé donne bien q = 5"
+    },
+    {
+      "where": "2017-10_ofm-2016-2017-envoi-1-solutions.pdf, exercice 9",
+      "what": "la solution n'est pas terminée : après avoir choisi n = 3^(m−1) p, le corrigé laisse la divisibilité de 2^(2ⁿ+1) + 1 par n en suspens (« Recherche en cours ») ; preuve complétée dans 10842"
+    },
+    {
+      "where": "2017-10_ofm-2016-2017-envoi-1-solutions.pdf, exercice 8",
+      "what": "« n³ = 2 × (d(n)/2)³ » au lieu de n = 2 × (d(n)/2)³, et l'affirmation d(2³ᵏ⁺¹)³ / 2³ᵏ⁺¹ < 1 pour k > 2 est fausse pour k = 3 (1331/1024) ; la réponse 2, 128, 2000 reste juste"
+    },
+    {
+      "where": "2017-10_ofm-2016-2017-envoi-1-solutions.pdf, exercice 2",
+      "what": "l'argument modulo 3 utilise 12ⁿ ≡ 0, faux pour n = 0 (12⁰ = 1) ; le cas n = 0 (nombre 3) n'est pas traité, sans changer la réponse n = 1"
+    },
+    {
+      "where": "2018-12_corrige-envoi-2.pdf, exercice 3",
+      "what": "le corrigé recopie l'énoncé sans l'hypothèse n > 6, qu'il utilise pourtant à la dernière ligne ; sans elle l'énoncé est faux, car 6 = 2 × 3 est parfait et l'exposant de 2 vaut 1"
+    },
+    {
+      "where": "2018-12_corrige-envoi-2.pdf, exercice 4",
+      "what": "le corrigé recopie l'énoncé avec « n entier strictement positif » au lieu de n ⩾ 3 ; l'énoncé ainsi recopié est faux pour n = 2"
+    },
+    {
+      "where": "2018-12_corrige-envoi-2.pdf, exercice 6",
+      "what": "le corrigé recopie l'énoncé sans le mot « impairs », qui est pourtant ce qui fait marcher la récurrence"
+    },
+    {
+      "where": "2018-12_corrige-envoi-2.pdf, exercice 8",
+      "what": "« Soit u entier tel que uq1 soit entier » au lieu de uq0 : c'est r0 qui doit être entier pour lancer la récurrence"
+    },
+    {
+      "where": "2018-12_corrige-envoi-2.pdf, exercice 9",
+      "what": "« a² + b² ⩾ 5^(q−1) » au lieu de 5^(p−1) dans le cas q ⩾ 5, et « la gauche fait 1 modulo 4 » alors que a0² + b0² vaut 2 modulo 4 (a0 et b0 impairs) ; la suite du raisonnement utilise bien 2"
+    }
+  ],
+  "notes": [
+    "Envoi 2012-2013 n° 3 : les exercices 2 et 7 (couleur de 2012/2013, puis existence et unicité du coloriage) sont importés tous les deux, liés par see_also. Même chose pour 4 et 8 (x(x+2) = y(y+1), puis le cas général x(x+k) = y(y+1)).",
+    "Envoi 2013-2014 n° 4 : 7 exercices importés sur 9 (10810 à 10816), 2 doublons sautés (7452 et 7935).",
+    "Envoi 2014-2015 n° 3 : 9 exercices importés sur 9 (10817 à 10825). Aucun doublon trouvé.",
+    "10817 (2ⁿ/n puissance de 2 ⇒ n puissance de 2) est le sens facile d'une idée proche de 0883 (grade 9, plus difficile) ; pas un doublon, pas de see_also.",
+    "Exercices 5 (10821) et 9 (10825) de l'envoi 2014-2015 n° 3 : le théorème d'Euler et l'ordre multiplicatif du corrigé sont remplacés par des tables de restes calculées à la main, ce qui garde 10821 en 1re ; 10825 reste en Terminale pour la difficulté, sans tag maths-expertes.",
+    "Ajustement de présentation : les fractions en ligne \\dfrac sortent minuscules en Typst ; remplacées par une barre oblique ou une ligne centrée dans 10815, 10817, 10823, 10824.",
+    "Envoi 2015-2016 n° 1 : 9 exercices sur 9 importés (10826 à 10834), aucun doublon trouvé (similar.py et grep sur 1806, y^{15}, 4pqr, n^3 + 2n + 3).",
+    "10829 (envoi 2015-2016 n° 1, ex. 4) : le dernier cas du corrigé est réécrit avec une astuce sur la somme, plus courte.",
+    "10831 (envoi 2015-2016 n° 1, ex. 6) : une recherche par ordinateur ne trouve aucune solution avec x > 1 pour les petits y ; l'énoncé est peut-être vide, mais l'exercice (montrer que 5 divise x) reste valable.",
+    "10834 (envoi 2015-2016 n° 1, ex. 9) : les deux cas du corrigé (t + 1 puissance ou non) sont réunis en une seule construction n = (1 + t(t + 1)²)^r, vérifiée à l'ordinateur pour t de 1 à 29.",
+    "Envoi 2016-2017 n° 1 : 8 exercices importés sur 9 (10835 à 10842), l'exercice 2 est une variante de 10810 et a été ajouté en « Going further » de 10810.",
+    "Envoi 2016-2017 n° 1, ex. 9 : pdfsupers.py lit l'exposant imbriqué 2^(2ⁿ+1) comme 2^(2n+1) ; la page rendue en image confirme 2^(2ⁿ+1). L'exercice sous la forme 2^(2n+1) est un autre problème (plus petites solutions 129 et 2537).",
+    "10842 : la preuve évite le lemme LTE et le petit théorème de Fermat (restes de p modulo 6), donc pas d'entrée beyond_programme.",
+    "10840 : la décomposition du corrigé est remplacée par l'opérateur Δf(x) = f(x + 1) − f(x), plus court ; les coefficients binomiaux sont au programme de Terminale.",
+    "Envoi 2017-2018 n° 1 : 3 importés (10843 à 10845), 6 doublons sautés.",
+    "10844 demande plus que 7325, tous deux en 2de : 7325 montre seulement que 2ⁿ ne divise jamais n! (le cas d'égalité n'y est qu'une remarque, sans la réciproque) ; 10844 demande l'équivalence « 2ⁿ⁻¹ divise n! si et seulement si n est une puissance de 2 ».",
+    "10845 : le comptage du corrigé (proportion de puissances majorée avec log₂ N) est remplacé par un comptage des puissances jusqu'à 4^j, sans logarithme.",
+    "Envoi 2018-2019 n° 2 : 9 importés (10846 à 10854), aucun doublon trouvé.",
+    "10849 (4e, n nombres différents dont chacun divise la somme, construction 1, 2, 3, 6, 12, ...) est proche de 7864 (3e, sept tels nombres de somme minimale 48) sans être le même problème : 7864 demande en plus la minimalité. Liés par see_also, le lien retour dans 7864 est à ajouter par le coordinateur.",
+    "10850 : l'indicatrice d'Euler est définie dans l'énoncé par la formule m(1 − 1/p1)...(1 − 1/pk), donc pas d'entrée beyond_programme.",
+    "10852 : le corrigé utilise une racine primitive modulo p² ; remplacée par la factorisation u^(p−1) − v^(p−1) = (u − v)S avec S ≡ (p − 1)a^(p−2) mod p, qui montre qu'il y a au plus un x mauvais par classe modulo p dans [1, p²]. Pas de tag maths-expertes.",
+    "10853 : la fin du corrigé (p minimal) est remplacée par l'argument « g(v) = F(v)/K est une bijection de l'ensemble fini des valeurs » ; on obtient même la périodicité dès le premier terme.",
+    "Unité terminée : 7 documents, 54 importés (10801 à 10854), 10 doublons sautés. Les ids 10855 à 11000 du bloc restent inutilisés."
+  ],
+  "updated": "2026-10-01"
+}

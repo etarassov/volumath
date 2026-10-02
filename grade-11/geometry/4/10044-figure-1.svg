@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360">
+  <circle cx="180" cy="180" r="152" fill="none" stroke="#000" stroke-width="1.4"/>
+  <circle cx="129.6" cy="88.5" r="47.6" fill="none" stroke="#000" stroke-width="1.2"/>
+  <line x1="34.5" y1="136.1" x2="325.5" y2="136.1" fill="none" stroke="#000" stroke-width="1.4"/>
+  <line x1="106.7" y1="46.9" x2="129.6" y2="136.1" fill="none" stroke="#000" stroke-width="1.0" stroke-dasharray="5,4"/>
+  <circle cx="34.5" cy="136.1" r="3" fill="#000"/>
+  <circle cx="325.5" cy="136.1" r="3" fill="#000"/>
+  <circle cx="129.6" cy="136.1" r="3" fill="#000"/>
+  <circle cx="129.6" cy="88.5" r="3" fill="#000"/>
+  <circle cx="106.7" cy="46.9" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="16.2" y="146.8">A</text>
+    <text x="333.6" y="146.8">B</text>
+    <text x="124.5" y="156.1">T</text>
+    <text x="138.3" y="96.9">O</text>
+    <text x="99.1" y="39">S</text>
+    <text x="184" y="66.6">ω<tspan font-size="12" dy="5">1</tspan></text>
+    <text x="318.4" y="300.7">ω<tspan font-size="12" dy="5">2</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+{
+ "id": "pofm-tests",
+ "name": "POFM, tests de sélection des équipes de France (Animath)",
+ "url": "https://maths-olympiques.fr/?page_id=479",
+ "original_language": "fr",
+ "added": "2026-10-01",
+ "brief": "sources/maths-olympiques-brief.md",
+ "files": "files.tsv lists every local copy with the URL it was downloaded from",
+ "local_copy": "sources/originals/pofm-tests/",
+ "what_it_is": [
+  "The tests that select the French teams for the international competitions (IMO, EGMO, RMM,",
+  "Balkans, JBMO), five or six a year. Some years have separate junior and senior tests in",
+  "February. Most tests have a corrigé; seven tests (eight files) from 2012-2013 to 2016-2017 do not."
+ ],
+ "level": {
+  "senior": "IMO team selection, 4 hours, usually 3 or 4 problems. Expect most of it at Terminale, four or five stars, and some beyond the programme.",
+  "junior": "Junior tests select for the JBMO and are for collège and seconde students."
+ },
+ "scale": {
+  "school_years": "2011-2012 to 2024-2025",
+  "tests": 70,
+  "pdf_files": 137,
+  "problems_estimate": 360
+ },
+ "no_corrige": [
+  "2012-2013 test de mai",
+  "2014-2015 test de mars",
+  "2014-2015 test de mai (jour 1 et jour 2)",
+  "2015-2016 test de mars",
+  "2015-2016 test de mai",
+  "2016-2017 test de mars",
+  "2016-2017 test de mai"
+ ],
+ "how_it_was_enumerated": [
+  "The page at ?page_id=479 was fetched once on 2026-09-30 and every PDF link downloaded, 137 files.",
+  "The March 2018 test is hosted at igm.univ-mlv.fr, its local copies start with juge_."
+ ]
+}

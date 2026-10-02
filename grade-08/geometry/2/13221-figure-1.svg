@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="210" viewBox="0 0 360 210">
+  <rect x="0" y="0" width="360" height="210" fill="#ffffff"/>
+  <g fill="none" stroke="#000" stroke-width="1.5" stroke-linejoin="round">
+    <line x1="90" y1="150" x2="330" y2="150"/>
+    <line x1="330" y1="150" x2="210" y2="30"/>
+    <line x1="210" y1="30" x2="90" y2="150"/>
+    <line x1="210" y1="30" x2="90" y2="30"/>
+    <line x1="90" y1="30" x2="90" y2="150"/>
+    <line x1="90" y1="30" x2="30" y2="90"/>
+    <line x1="30" y1="90" x2="90" y2="150"/>
+    <line x1="30" y1="90" x2="30" y2="150"/>
+    <line x1="30" y1="150" x2="90" y2="150"/>
+    <line x1="30" y1="150" x2="60" y2="180"/>
+    <line x1="60" y1="180" x2="90" y2="150"/>
+  </g>
+  <g fill="none" stroke="#000" stroke-width="1">
+    <polyline points="215.66,35.66 210,41.31 204.34,35.66"/>
+    <polyline points="98,30 98,38 90,38"/>
+    <polyline points="35.66,84.34 41.31,90 35.66,95.66"/>
+    <polyline points="30,142 38,142 38,150"/>
+    <polyline points="54.34,174.34 60,168.69 65.66,174.34"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#000">
+    <text x="94" y="168">O</text>
+    <text x="336" y="155">A</text>
+    <text x="205" y="22">B</text>
+    <text x="80" y="22">C</text>
+    <text x="14" y="95">D</text>
+    <text x="14" y="160">E</text>
+    <text x="55" y="198">F</text>
+  </g>
+  <g fill="#000">
+    <circle cx="90" cy="150" r="2.2"/>
+    <circle cx="330" cy="150" r="2.2"/>
+    <circle cx="210" cy="30" r="2.2"/>
+    <circle cx="90" cy="30" r="2.2"/>
+    <circle cx="30" cy="90" r="2.2"/>
+    <circle cx="30" cy="150" r="2.2"/>
+    <circle cx="60" cy="180" r="2.2"/>
+  </g>
+</svg>

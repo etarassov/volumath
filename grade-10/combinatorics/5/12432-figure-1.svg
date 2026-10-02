@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="215" viewBox="0 0 310 215">
+<rect width="310" height="215" fill="#fff"/>
+<rect x="20.0" y="136.0" width="34.0" height="34.0" fill="#f2f2f2" stroke="#000" stroke-width="1.4"/>
+<rect x="54.0" y="136.0" width="34.0" height="34.0" fill="#f2f2f2" stroke="#000" stroke-width="1.4"/>
+<rect x="54.0" y="102.0" width="34.0" height="34.0" fill="#f2f2f2" stroke="#000" stroke-width="1.4"/>
+<rect x="218.0" y="102.0" width="68.0" height="68.0" fill="#f2f2f2" stroke="#000" stroke-width="1.4"/>
+<rect x="150.0" y="136.0" width="34.0" height="34.0" fill="#f2f2f2" stroke="#000" stroke-width="1.4"/>
+<rect x="184.0" y="136.0" width="34.0" height="34.0" fill="#f2f2f2" stroke="#000" stroke-width="1.4"/>
+<rect x="184.0" y="102.0" width="34.0" height="34.0" fill="#f2f2f2" stroke="#000" stroke-width="1.4"/>
+<rect x="218.0" y="68.0" width="34.0" height="34.0" fill="#f2f2f2" stroke="#000" stroke-width="1.4"/>
+<rect x="252.0" y="68.0" width="34.0" height="34.0" fill="#f2f2f2" stroke="#000" stroke-width="1.4"/>
+<rect x="252.0" y="34.0" width="34.0" height="34.0" fill="#f2f2f2" stroke="#000" stroke-width="1.4"/>
+<text x="54.0" y="195.0" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle">n = 2 : 3 pierres</text>
+<text x="218.0" y="195.0" font-family="Helvetica, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle">n = 4 : 7 pierres</text>
+</svg>

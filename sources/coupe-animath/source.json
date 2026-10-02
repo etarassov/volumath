@@ -1,0 +1,41 @@
+{
+ "id": "coupe-animath",
+ "name": "Coupe Animath (automne et printemps), sujets et corrigés",
+ "url": "https://maths-olympiques.fr/?page_id=69",
+ "original_language": "fr",
+ "added": "2026-10-01",
+ "brief": "sources/maths-olympiques-brief.md",
+ "files": "files.tsv lists every local copy with the URL it was downloaded from",
+ "local_copy": "sources/originals/coupe-animath/",
+ "what_it_is": [
+  "The Coupe Animath contest, twice a year. The autumn round selects students for the POFM, the",
+  "spring round selects them for the summer camp. Since about 2015 there is first an online",
+  "round of short-answer problems (premier tour), then a timed paper: 3 hours for collège, 4 for",
+  "lycée, usually 7 problems for collège and 8 for lycée. From 2009 to 2013 the spring Coupe",
+  "had separate papers for collégiens, secondes and premières."
+ ],
+ "level": {
+  "comment": "The most accessible material on the site: written for any interested collège or lycée student, not only for selected ones."
+ },
+ "overlap": "The summer camp handouts (source pofm) reprint the spring Coupe of their year, so about 190 Coupe problems, mostly spring 2015 to 2026, are already in the collection. The spring units are gap-filling.",
+ "scale": {
+  "autumn": "2011 to 2025",
+  "spring": "2009 to 2025",
+  "pdf_files": 96,
+  "problems_estimate": 450
+ },
+ "image_only_files": [
+  "2017-09_coupe_printemps_2016_elim_corrige.pdf",
+  "2017-09_coupe_printemps_2017_elim_corrige.pdf",
+  "2017-10_coupe_automne_2017_elim_college.pdf",
+  "2017-10_coupe_automne_2017_elim_lycee.pdf",
+  "2018-06_coupe_printemps_2018_elim_college_corrige.pdf",
+  "2018-06_coupe_printemps_2018_elim_lycee_corrige.pdf"
+ ],
+ "how_it_was_enumerated": [
+  "The page at ?page_id=69 was fetched once on 2026-09-30 and every PDF link downloaded, 96 files."
+ ],
+ "not_imported": {
+  "coupe_printemps_2015_elim_corrige.txt": "The page links the spring 2015 first-round corrigé as a .txt file. It was not downloaded; that round has to be solved from the statements."
+ }
+}

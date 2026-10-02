@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 354 315" width="354" height="315">
+  <line x1="177.2" y1="115.0" x2="177.2" y2="285.0" stroke="#000000" stroke-width="1.5"/>
+  <line x1="177.2" y1="285.0" x2="30.0" y2="200.0" stroke="#000000" stroke-width="1.5"/>
+  <line x1="30.0" y1="200.0" x2="177.2" y2="115.0" stroke="#000000" stroke-width="1.5"/>
+  <line x1="177.2" y1="285.0" x2="324.4" y2="200.0" stroke="#000000" stroke-width="1.5"/>
+  <line x1="324.4" y1="200.0" x2="177.2" y2="115.0" stroke="#000000" stroke-width="1.5"/>
+  <line x1="30.0" y1="200.0" x2="30.0" y2="30.0" stroke="#000000" stroke-width="1.5"/>
+  <line x1="30.0" y1="30.0" x2="177.2" y2="115.0" stroke="#000000" stroke-width="1.5"/>
+  <line x1="324.4" y1="200.0" x2="324.4" y2="30.0" stroke="#000000" stroke-width="1.5"/>
+  <line x1="324.4" y1="30.0" x2="177.2" y2="115.0" stroke="#000000" stroke-width="1.5"/>
+  <line x1="177.2" y1="285.0" x2="30.0" y2="30.0" stroke="#555555" stroke-width="1.2"/>
+  <line x1="177.2" y1="285.0" x2="324.4" y2="30.0" stroke="#555555" stroke-width="1.2"/>
+  <circle cx="177.2" cy="285.0" r="3" fill="#000000"/>
+  <circle cx="177.2" cy="115.0" r="3" fill="#000000"/>
+  <circle cx="30.0" cy="200.0" r="3" fill="#000000"/>
+  <circle cx="324.4" cy="200.0" r="3" fill="#000000"/>
+  <circle cx="30.0" cy="30.0" r="3" fill="#000000"/>
+  <circle cx="324.4" cy="30.0" r="3" fill="#000000"/>
+  <circle cx="115.0" cy="177.2" r="3" fill="#000000"/>
+  <circle cx="262.2" cy="137.8" r="3" fill="#000000"/>
+  <text x="173.2" y="305.0" font-family="Helvetica, Arial, sans-serif" font-size="14">A</text>
+  <text x="173.2" y="106.0" font-family="Helvetica, Arial, sans-serif" font-size="14">O</text>
+  <text x="14.0" y="206.0" font-family="Helvetica, Arial, sans-serif" font-size="14">B</text>
+  <text x="331.4" y="206.0" font-family="Helvetica, Arial, sans-serif" font-size="14">C</text>
+  <text x="16.0" y="24.0" font-family="Helvetica, Arial, sans-serif" font-size="14">D</text>
+  <text x="329.4" y="24.0" font-family="Helvetica, Arial, sans-serif" font-size="14">E</text>
+  <text x="99.0" y="179.2" font-family="Helvetica, Arial, sans-serif" font-size="14">P</text>
+  <text x="269.2" y="141.8" font-family="Helvetica, Arial, sans-serif" font-size="14">Q</text>
+</svg>
+

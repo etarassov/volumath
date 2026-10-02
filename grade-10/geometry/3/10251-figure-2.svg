@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 334 285" width="334" height="285">
+  <polygon points="196.6,26.0 306.0,205.3 26.0,205.3" fill="none" stroke="#000" stroke-width="1.3"/>
+  <line x1="196.6" y1="26.0" x2="166.0" y2="205.3" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="306.0" y1="205.3" x2="111.3" y2="115.6" fill="none" stroke="#000" stroke-width="0.9"/>
+  <line x1="26.0" y1="205.3" x2="251.3" y2="115.6" fill="none" stroke="#000" stroke-width="0.9"/>
+  <circle cx="236.0" cy="186.5" r="72.5" fill="none" stroke="#b00" stroke-width="1.3"/>
+  <line x1="251.3" y1="115.6" x2="166.0" y2="205.3" fill="none" stroke="#1f4fa0" stroke-width="1.3"/>
+  <circle cx="196.6" cy="26.0" r="2.3" fill="#000"/>
+  <circle cx="306.0" cy="205.3" r="2.3" fill="#000"/>
+  <circle cx="26.0" cy="205.3" r="2.3" fill="#000"/>
+  <circle cx="166.0" cy="205.3" r="2.3" fill="#000"/>
+  <circle cx="111.3" cy="115.6" r="2.3" fill="#000"/>
+  <circle cx="251.3" cy="115.6" r="2.3" fill="#000"/>
+  <circle cx="176.2" cy="145.5" r="2.3" fill="#000"/>
+  <text x="196.6" y="16.4" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">A</text>
+  <text x="314.2" y="221.0" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">B</text>
+  <text x="17.8" y="221.0" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">C</text>
+  <text x="166.0" y="224.7" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">L</text>
+  <text x="103.1" y="109.7" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">M</text>
+  <text x="259.6" y="109.7" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">N</text>
+  <text x="163.2" y="150.4" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#000">G</text>
+</svg>

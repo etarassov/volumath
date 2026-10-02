@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="300" viewBox="0 0 340 300">
+<rect x="0" y="0" width="340" height="300" fill="#ffffff"/>
+<polygon points="115.0,54.7 225.0,54.7 280.0,150.0 225.0,245.3 115.0,245.3 60.0,150.0" fill="none" stroke="#bbbbbb" stroke-width="1" stroke-dasharray="4,4"/>
+<line x1="115.0" y1="54.7" x2="225.0" y2="245.3" stroke="#d62728" stroke-width="1" stroke-dasharray="2,4"/>
+<line x1="225.0" y1="54.7" x2="115.0" y2="245.3" stroke="#1f5fa8" stroke-width="1" stroke-dasharray="2,4"/>
+<line x1="280.0" y1="150.0" x2="60.0" y2="150.0" stroke="#2ca02c" stroke-width="1" stroke-dasharray="2,4"/>
+<circle cx="108.0" cy="50.7" r="5" fill="#d62728" stroke="#000000" stroke-width="0.8"/>
+<circle cx="122.0" cy="51.7" r="5" fill="#d62728" stroke="#000000" stroke-width="0.8"/>
+<circle cx="115.0" cy="62.7" r="5" fill="#d62728" stroke="#000000" stroke-width="0.8"/>
+<circle cx="218.0" cy="50.7" r="5" fill="#1f5fa8" stroke="#000000" stroke-width="0.8"/>
+<circle cx="232.0" cy="51.7" r="5" fill="#1f5fa8" stroke="#000000" stroke-width="0.8"/>
+<circle cx="225.0" cy="62.7" r="5" fill="#1f5fa8" stroke="#000000" stroke-width="0.8"/>
+<circle cx="274.0" cy="147.0" r="5" fill="#2ca02c" stroke="#000000" stroke-width="0.8"/>
+<circle cx="286.0" cy="154.0" r="5" fill="#2ca02c" stroke="#000000" stroke-width="0.8"/>
+<circle cx="219.0" cy="242.3" r="5" fill="#d62728" stroke="#000000" stroke-width="0.8"/>
+<circle cx="231.0" cy="249.3" r="5" fill="#d62728" stroke="#000000" stroke-width="0.8"/>
+<circle cx="109.0" cy="242.3" r="5" fill="#1f5fa8" stroke="#000000" stroke-width="0.8"/>
+<circle cx="121.0" cy="249.3" r="5" fill="#1f5fa8" stroke="#000000" stroke-width="0.8"/>
+<circle cx="54.0" cy="147.0" r="5" fill="#2ca02c" stroke="#000000" stroke-width="0.8"/>
+<circle cx="66.0" cy="154.0" r="5" fill="#2ca02c" stroke="#000000" stroke-width="0.8"/>
+</svg>

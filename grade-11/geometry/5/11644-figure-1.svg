@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="448" height="346" viewBox="0 0 448 346">
+<rect width="448" height="346" fill="#ffffff"/>
+<circle cx="273.0" cy="168.0" r="143.5" fill="none" stroke="#2a8a3a" stroke-width="1.4"/>
+<circle cx="121.3" cy="223.0" r="104.3" fill="none" stroke="#1f5fbf" stroke-width="1.4"/>
+<line x1="63.0" y1="136.5" x2="413.0" y2="136.5" stroke="#777" stroke-width="1.2"/>
+<line x1="273.0" y1="24.5" x2="273.0" y2="311.5" stroke="#777" stroke-width="1.2"/>
+<line x1="287.0" y1="104.4" x2="191.7" y2="322.5" stroke="#1f5fbf" stroke-width="1.1" stroke-dasharray="5 4"/>
+<line x1="284.3" y1="10.9" x2="114.9" y2="214.2" stroke="#c0392b" stroke-width="1.5"/>
+<polygon points="63.0 136.5 273.0 24.5 413.0 136.5 273.0 311.5" fill="none" stroke="#000" stroke-width="1.7"/>
+<polyline points="284.2 136.5 284.2 125.3 273.0 125.3" fill="none" stroke="#555" stroke-width="1"/>
+<circle cx="63.0" cy="136.5" r="3" fill="#000"/>
+<circle cx="273.0" cy="24.5" r="3" fill="#000"/>
+<circle cx="413.0" cy="136.5" r="3" fill="#000"/>
+<circle cx="273.0" cy="311.5" r="3" fill="#000"/>
+<circle cx="273.0" cy="136.5" r="3" fill="#000"/>
+<circle cx="216.9" cy="264.8" r="3" fill="#000"/>
+<circle cx="131.9" cy="193.9" r="3" fill="#000"/>
+<circle cx="179.7" cy="136.5" r="3" fill="#000"/>
+<text x="43.0" y="130.5" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">A</text>
+<text x="279.0" y="18.5" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">B</text>
+<text x="421.0" y="130.5" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">C</text>
+<text x="281.0" y="325.5" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">D</text>
+<text x="279.0" y="154.5" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">E</text>
+<text x="224.9" y="274.8" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">P</text>
+<text x="109.9" y="193.9" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">Q</text>
+<text x="175.7" y="127.5" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">R</text>
+</svg>

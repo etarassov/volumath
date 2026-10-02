@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+  <path d="M 112.6 274.3 L 207.4 274.3 L 274.3 207.4 L 179.6 207.4 Z" fill="#cfdcf0" stroke="#000" stroke-width="1.2"/>
+  <path d="M 179.6 112.6 L 274.3 112.6 L 207.4 45.7 L 112.6 45.7 Z" fill="#cfdcf0" stroke="#000" stroke-width="1.2"/>
+  <path d="M 179.6 207.4 L 274.3 207.4 L 274.3 112.6 L 179.6 112.6 Z" fill="#c9b3d6" stroke="#000" stroke-width="1.2"/>
+  <path d="M 112.6 274.3 L 179.6 207.4 L 179.6 112.6 L 112.6 179.6 Z" fill="#f3d3c8" stroke="#000" stroke-width="1.2"/>
+  <path d="M 112.6 274.3 L 112.6 179.6 L 45.7 112.6 L 45.7 207.4 Z" fill="#f3d3c8" stroke="#000" stroke-width="1.2"/>
+  <path d="M 112.6 179.6 L 179.6 112.6 L 112.6 45.7 L 45.7 112.6 Z" fill="#ffffff" stroke="#000" stroke-width="1.2"/>
+  <path d="M 112.6 274.3 L 207.4 274.3 L 274.3 207.4 L 274.3 112.6 L 207.4 45.7 L 112.6 45.7 L 45.7 112.6 L 45.7 207.4 Z" fill="none" stroke="#000" stroke-width="2.0"/>
+  <text x="100.5" y="294.2" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000">A</text>
+  <text x="111.5" y="298.2" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#000">1</text>
+  <text x="207.5" y="294.2" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000">A</text>
+  <text x="218.5" y="298.2" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#000">2</text>
+  <text x="283.2" y="218.5" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000">A</text>
+  <text x="294.2" y="222.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#000">3</text>
+  <text x="283.2" y="111.5" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000">A</text>
+  <text x="294.2" y="115.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#000">4</text>
+  <text x="207.5" y="35.8" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000">A</text>
+  <text x="218.5" y="39.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#000">5</text>
+  <text x="100.5" y="35.8" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000">A</text>
+  <text x="111.5" y="39.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#000">6</text>
+  <text x="24.8" y="111.5" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000">A</text>
+  <text x="35.8" y="115.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#000">7</text>
+  <text x="24.8" y="218.5" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000">A</text>
+  <text x="35.8" y="222.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#000">8</text>
+</svg>

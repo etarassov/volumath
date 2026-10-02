@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="522" height="381" viewBox="0 0 522 381">
+<rect x="0" y="0" width="522" height="381" fill="#ffffff"/>
+<polygon points="236.4,164.8 148.4,340.8 40.0,176.5" fill="#eeeeee" stroke="#888888" stroke-width="1.2"/>
+<polygon points="236.4,164.8 423.4,340.8 482.3,90.8" fill="#eeeeee" stroke="#888888" stroke-width="1.2"/>
+<polygon points="236.4,164.8 148.4,340.8 423.4,340.8" fill="none" stroke="#000000" stroke-width="1.8"/>
+<line x1="40.0" y1="176.5" x2="482.3" y2="90.8" stroke="#000000" stroke-width="1.2"/>
+<polygon points="141.6,227.4 423.4,340.8 380.7,40.0" fill="none" stroke="#1f5fbf" stroke-width="1.4" stroke-dasharray="6,4"/>
+<line x1="261.2" y1="133.7" x2="423.4" y2="340.8" stroke="#1f5fbf" stroke-width="1.6"/>
+<line x1="40.0" y1="176.5" x2="141.6" y2="227.4" stroke="#c0392b" stroke-width="1.2"/>
+<line x1="482.3" y1="90.8" x2="380.7" y2="40.0" stroke="#c0392b" stroke-width="1.2"/>
+<circle cx="141.6" cy="227.4" r="3" fill="#000000"/>
+<circle cx="261.2" cy="133.7" r="3" fill="#000000"/>
+<circle cx="380.7" cy="40.0" r="3" fill="#000000"/>
+<text x="236.4" y="155.8" font-family="Helvetica" font-size="17" text-anchor="middle" fill="#000000">A</text>
+<text x="134.4" y="355.8" font-family="Helvetica" font-size="17" text-anchor="middle" fill="#000000">B</text>
+<text x="437.4" y="355.8" font-family="Helvetica" font-size="17" text-anchor="middle" fill="#000000">C</text>
+<text x="26.0" y="187.5" font-family="Helvetica" font-size="17" text-anchor="middle" fill="#000000">E</text>
+<text x="494.3" y="89.8" font-family="Helvetica" font-size="17" text-anchor="middle" fill="#000000">F</text>
+<text x="127.6" y="238.4" font-family="Helvetica" font-size="17" text-anchor="middle" fill="#000000">G</text>
+<text x="261.2" y="126.7" font-family="Helvetica" font-size="17" text-anchor="middle" fill="#000000">K</text>
+<text x="392.7" y="37.0" font-family="Helvetica" font-size="17" text-anchor="middle" fill="#000000">G<tspan dx="1">′</tspan></text>
+</svg>

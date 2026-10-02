@@ -1,0 +1,291 @@
+{
+ "unit": "automne-2021-2025",
+ "source": "coupe-animath",
+ "title": "Coupe Animath automne, 2021 à 2025",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "13401",
+  "13600"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2021",
+   "label": "Coupe automne 2021",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2021-10_Sujet.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/10/Sujet.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2021-10_sujetcommentairecorrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2021/10/sujetcommentairecorrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2022",
+   "label": "Coupe automne 2022",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2022-10_sujet-Coupe-Animath-Automne-2022.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/10/sujet-Coupe-Animath-Automne-2022.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2022-10_corrige-commente-Coupe-Animath-Automne-2022.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2022/10/corrigé-commenté-Coupe-Animath-Automne-2022.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2023",
+   "label": "Coupe automne 2023",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2023-10_Sujet-coupe-Animath-automne-2023.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/10/Sujet-coupe-Animath-automne-2023.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2023-10_Corrige-coupe-Animath-automne-2023.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2023/10/Corrige-coupe-Animath-automne-2023.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2024",
+   "label": "Coupe automne 2024",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2024-10_Sujet-coupe-Animath-Automne-2024.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2024/10/Sujet-coupe-Animath-Automne-2024.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2024-10_Corrige-commente-Coupe-Animath-Automne-2024.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2024/10/Corrige-commente-Coupe-Animath-Automne-2024.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2025",
+   "label": "Coupe automne 2025",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2025-10_Sujet-coupe-Animath-Automne-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Sujet-coupe-Animath-Automne-2025.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2025-10_Corrige-commente-Coupe-Animath-Automne-2025.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2025/10/Corrige-commente-Coupe-Animath-Automne-2025.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  }
+ ],
+ "next_document": 5,
+ "imported": [
+  "13401",
+  "13402",
+  "13403",
+  "13404",
+  "13405",
+  "13406",
+  "13407",
+  "13408",
+  "13409",
+  "13410",
+  "13411",
+  "13412",
+  "13413",
+  "13414",
+  "13415",
+  "13416",
+  "13417",
+  "13418",
+  "13419",
+  "13420",
+  "13421",
+  "13422",
+  "13423",
+  "13424",
+  "13425",
+  "13426",
+  "13427",
+  "13428",
+  "13429",
+  "13430",
+  "13431",
+  "13432",
+  "13433",
+  "13434",
+  "13435",
+  "13436",
+  "13437",
+  "13438",
+  "13439",
+  "13440",
+  "13441",
+  "13442",
+  "13443",
+  "13444",
+  "13445",
+  "13446",
+  "13447",
+  "13448",
+  "13449",
+  "13450",
+  "13451",
+  "13452",
+  "13453",
+  "13454",
+  "13455",
+  "13456",
+  "13457",
+  "13458",
+  "13459",
+  "13460"
+ ],
+ "skipped": [
+  {
+   "where": "2021-10_Sujet.pdf, épreuve collège, exercice 7 (Maena et les lignes de 2021 nombres)",
+   "why": "déjà dans la collection : même problème avec 2018 nombres, venu du polycopié de Valbonne 2025",
+   "existing": "8865"
+  },
+  {
+   "where": "2021-10_Sujet.pdf, épreuve lycée, exercice 9",
+   "why": "même énoncé que l'exercice 2 de l'épreuve collège, importé une seule fois",
+   "existing": "13402"
+  },
+  {
+   "where": "2021-10_Sujet.pdf, épreuve lycée, exercice 10",
+   "why": "même énoncé que l'exercice 3 de l'épreuve collège, importé une seule fois",
+   "existing": "13403"
+  },
+  {
+   "where": "2021-10_Sujet.pdf, épreuve lycée, exercice 11",
+   "why": "même énoncé que l'exercice 5 de l'épreuve collège, importé une seule fois",
+   "existing": "13405"
+  },
+  {
+   "where": "2022-10_sujet-Coupe-Animath-Automne-2022.pdf, épreuve collège, exercice 4",
+   "why": "déjà dans la collection : même problème (rectangle, deux angles égaux) venu du stage junior 2010, après changement des noms des points",
+   "existing": "7022"
+  },
+  {
+   "where": "2022-10_sujet-Coupe-Animath-Automne-2022.pdf, épreuve lycée, exercice 9",
+   "why": "même énoncé que l'exercice 2 de l'épreuve collège, importé une seule fois",
+   "existing": "13413"
+  },
+  {
+   "where": "2022-10_sujet-Coupe-Animath-Automne-2022.pdf, épreuve lycée, exercice 10",
+   "why": "même énoncé que l'exercice 3 de l'épreuve collège, importé une seule fois",
+   "existing": "13414"
+  },
+  {
+   "where": "2022-10_sujet-Coupe-Animath-Automne-2022.pdf, épreuve lycée, exercice 12",
+   "why": "même énoncé que l'exercice 5 de l'épreuve collège, importé une seule fois",
+   "existing": "13415"
+  },
+  {
+   "where": "2023-10_Sujet-coupe-Animath-automne-2023.pdf, épreuve lycée, exercice 9",
+   "why": "même énoncé que l'exercice 2 de l'épreuve collège, importé une seule fois",
+   "existing": "13424"
+  },
+  {
+   "where": "2023-10_Sujet-coupe-Animath-automne-2023.pdf, épreuve lycée, exercice 10",
+   "why": "même énoncé que l'exercice 3 de l'épreuve collège, importé une seule fois",
+   "existing": "13425"
+  },
+  {
+   "where": "2023-10_Sujet-coupe-Animath-automne-2023.pdf, épreuve lycée, exercice 11",
+   "why": "même énoncé que l'exercice 4 de l'épreuve collège, importé une seule fois",
+   "existing": "13426"
+  },
+  {
+   "where": "2023-10_Sujet-coupe-Animath-automne-2023.pdf, épreuve lycée, exercice 12",
+   "why": "même énoncé que l'exercice 6 de l'épreuve collège, importé une seule fois",
+   "existing": "13428"
+  },
+  {
+   "where": "2023-10_Sujet-coupe-Animath-automne-2023.pdf, épreuve lycée, exercice 13",
+   "why": "même énoncé que l'exercice 7 de l'épreuve collège, importé une seule fois",
+   "existing": "13429"
+  },
+  {
+   "where": "2024-10_Sujet-coupe-Animath-Automne-2024.pdf, épreuve lycée, exercice 11",
+   "why": "même énoncé que l'exercice 5 de l'épreuve collège, importé une seule fois",
+   "existing": "13437"
+  },
+  {
+   "where": "2025-10_Sujet-coupe-Animath-Automne-2025.pdf, épreuve lycée, exercice 13",
+   "why": "même énoncé que l'exercice 7 de l'épreuve collège, importé une seule fois",
+   "existing": "13453"
+  }
+ ],
+ "beyond_programme": [],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2021-10_sujetcommentairecorrige.pdf, exercice 15 b), p. 25",
+   "what": "les ensembles M5 et M6 sont écrits avec les coordonnées inversées : tels quels, ils recouvrent M1 à M4 au lieu du carré restant (la figure est juste). Le découpage est refait dans 13411."
+  },
+  {
+   "where": "2021-10_Sujet.pdf, exercice 12",
+   "what": "l'énoncé autorise le triangle équilatéral, pour lequel S = C, T = A et le point D n'est pas défini. 13408 l'exclut et traite les deux cas angle ABC > 60° et < 60°."
+  },
+  {
+   "where": "2023-10_Corrige-coupe-Animath-automne-2023.pdf, exercice 15 (lycée), p. 29",
+   "what": "la construction écrite place deux jetons sur les lignes i ⩽ 10 seulement. Telle quelle, les cases des lignes 11 à 30 et des colonnes 21 à 30 n'ont aucun jeton dans leur ligne ni dans leur colonne, et la deuxième règle n'est pas respectée. Il faut aller jusqu'à i ⩽ 15, comme le montre la figure de gauche du corrigé pour 12 × 12 (ou compléter par des paires verticales, comme la figure de droite). 13432 donne la construction juste et la vérifie."
+  },
+  {
+   "where": "2023-10_Corrige-coupe-Animath-automne-2023.pdf, exercices 7 (collège) et 13 (lycée), synthèse",
+   "what": "coquille mineure : « en prenant a = −1, on obtient A = {−3, −1, 1, 3} ». Avec les notations du corrigé, c'est a = −3 et r = 2. 13429 vérifie l'exemple directement."
+  },
+  {
+   "where": "2024-10_Corrige-commente-Coupe-Animath-Automne-2024.pdf, exercice 6 (collège), solution alternative n° 1, p. 12",
+   "what": "coquille : « 360° − 60° − 60° − 60° = 150° ». Le terme du milieu est l'angle droit du carré, il faut lire 360° − 60° − 90° − 60° = 150° (la solution alternative n° 2 l'écrit correctement). Le résultat est juste."
+  },
+  {
+   "where": "2025-10_Corrige-commente-Coupe-Animath-Automne-2025.pdf, exercice 3 (collège)",
+   "what": "coquille : « [PF] est un diamètre du cercle circonscrit à PDF », il faut lire [PD]. Le raisonnement est juste."
+  },
+  {
+   "where": "2025-10_Corrige-commente-Coupe-Animath-Automne-2025.pdf, exercice 6 (collège)",
+   "what": "coquille : le second point est défini comme « le pied de la hauteur issue de D », il faut lire « issue de E ». Le raisonnement est juste."
+  },
+  {
+   "where": "2025-10_Corrige-commente-Coupe-Animath-Automne-2025.pdf, exercices 7 (collège) et 13 (lycée)",
+   "what": "coquille : « a le nombre de lignes de somme s, et b le nombre de lignes de somme s » ; pour b, il faut lire « colonnes ». Le raisonnement est juste."
+  }
+ ],
+ "notes": [
+  "Coupe automne 2021, exercice 7 (collège) est le même problème que 8865, rangé en 1re à cinq étoiles. Le problème ne demande que des outils de collège : le coordinateur voudra peut-être le descendre en 3e ou 2de. Je l'ai sauté sans créer de copie.",
+  "Coupe automne 2022, exercice 4 (collège) est le même problème que 7022 (rectangle et deux angles égaux, stage junior 2010, rangé en 2de), après changement des noms des points. Sauté. C'est un problème de l'épreuve collège : 7022 serait peut-être mieux en 4e ou 3e, au coordinateur de décider.",
+  "Coupe automne 2022, exercice 15 (lycée) : l'énoncé recopié dans le corrigé dit « n impair », le sujet dit « n strictement positif », et la solution du corrigé traite les deux parités. 13422 suit le sujet. Le corrigé a aussi deux petites coquilles à cet endroit (« cycle de taille paire » pour impaire, « k+1 réels » pour k+2). Pas compté comme erreur de source, la réponse est juste.",
+  "Coupe automne 2022, exercice 14 (lycée) : la dernière étape du corrigé utilise alpha ⩽ 1, beta ⩽ 1 et des sommes partielles ⩽ 1 sans le dire. 13421 démontre ces étapes.",
+  "13418 (2022, exercice 8, racines emboîtées avec des sommes 7 + et 1 +) est signalé par check comme proche de 4008 (racines emboîtées avec des produits 16, 8, 4). Ce sont deux problèmes différents, les deux sont gardés.",
+  "Coupe automne 2023, exercices 4 (collège) et 11 (lycée), corrigé : « les deux voisins du nain possédant le plus de pépites ont tous les deux 3 pépites de plus que M » veut dire les deux voisins de M. Simple coquille, la preuve est juste. 13426 la rédige proprement.",
+  "check signale 0803 (graines autour d'une table ronde) et 13426 (vingt nains autour d'une table ronde) comme le même problème : c'est une fausse alerte, seuls les mots « table ronde » sont communs. Les deux sont gardés.",
+  "Pour 2023, aucun problème n'était déjà dans la collection. 3021 et 5106 (nombre de chiffres de 2ⁿ et 5ⁿ) sont proches de 13428 mais posent une autre question.",
+  "Coupe automne 2024, exercice 2 (collège) : c'est un cas particulier de 0226 (4e, « Deux bissectrices perpendiculaires », avec AOB + COD = 180°). Ce n'est pas le même énoncé, les deux sont gardés sans lien see_also car ils sont au même niveau mais 13434 ne demande que le cas de deux angles voisins.",
+  "Coupe automne 2024, exercices 6 (collège) et 12 (lycée) : même figure (carré et deux triangles équilatéraux extérieurs sur [AB] et [DA]) et même étape clé (le triangle formé avec C est équilatéral), mais questions différentes : GH = GC pour 13438 (3e), rapport NM/NC = 1/2 pour 13443 (2de). Les deux sont gardés.",
+  "check signale 7237 (3e, carré, triangle équilatéral intérieur et alignement de D, E, F) et 13438 comme le même problème : fausse alerte, la figure est voisine mais la question n'a rien à voir. De même 13442 et 13406 (deux exercices différents de triangles isocèles), et 13419 et 13445 (deux exercices différents de nombres autour d'un cercle).",
+  "13445 : la construction avec 49 nombres strictement positifs n'est pas celle du corrigé ; elle est vérifiée par ordinateur et dans la solution, case par case.",
+  "Coupe automne 2025 : les exercices 7 (collège) et 13 (lycée) ont le même énoncé, importé une seule fois comme 13453 (3e, cinq étoiles). La solution de 13453 passe par les quotients x / L et x / C, plus courte que le regroupement du corrigé.",
+  "13447 (4e, deux triangles isocèles et l'angle AOC) ressemble à 13856 (4e, Coupe de printemps, un triangle isocèle et 47°) : ce sont deux problèmes différents, les deux sont gardés.",
+  "13454 (3e, racines carrées et fractions emboîtées) a le même style que 13418 (3e, neuf racines emboîtées, automne 2022) mais pas le même calcul : les deux sont gardés.",
+  "Le prénom Hadriel des exercices 4 et 10 est remplacé par Hadrien (13450 et 13456).",
+  "13455 (lunules d'Hippocrate) et 13459 (triangle DYZ isocèle) viennent de l'épreuve lycée, mais n'utilisent que des outils de collège : ils sont classés en 4e et en 3e.",
+  "Vérification finale : check signale aussi, au même niveau, 13413 et 13447, 0834 et 13449, 12626 et 13449, 10223 et 13442, 13870 et 13408, 4008 et 13454, et à des niveaux différents 13452 et 10025 (même titre « Deux parallélogrammes de même aire »), 13447 et 10023, 13459 et 7138, 13460 et 8585, ainsi que 13449, 13424, 13440 et 13417 avec des exercices d'autres sources. J'ai lu les énoncés : ce sont toutes des fausses alertes, seuls les titres se ressemblent. Aucun see_also n'a été ajouté.",
+  "Les 60 exercices du bloc 13401 à 13460 ont été construits sans aucun avertissement de pandoc, et les 22 pages qui portent une figure ont été regardées. Les ids 13461 à 13600 ne sont pas utilisés."
+ ],
+ "updated": "2026-10-01"
+}

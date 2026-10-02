@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="370" viewBox="0 0 420 370">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#000"/>
+    </marker>
+  </defs>
+  <polygon points="50.0,330.0 370.0,330.0 210.0,52.9" fill="#eef3ee" stroke="#000" stroke-width="2"/>
+  <text x="36.0" y="338.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">V</text>
+  <text x="384.0" y="338.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">U</text>
+  <text x="210.0" y="40.9" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">W</text>
+  <text x="116.0" y="191.4" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">X</text>
+  <text x="178.0" y="352.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">Y</text>
+  <text x="264.0" y="122.2" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">Z</text>
+  <line x1="130.0" y1="191.4" x2="178.0" y2="330.0" stroke="#000" stroke-width="1.6" marker-end="url(#a)"/>
+  <line x1="178.0" y1="330.0" x2="250.0" y2="122.2" stroke="#000" stroke-width="1.6" marker-end="url(#a)"/>
+  <path d="M168.2,301.7 A30,30 0 0,0 148.0,330.0" fill="none" stroke="#000" stroke-width="1.2"/>
+  <path d="M208.0,330.0 A30,30 0 0,0 187.8,301.7" fill="none" stroke="#000" stroke-width="1.2"/>
+  <path d="M78.0,330.0 A28,28 0 0,0 64.0,305.8" fill="none" stroke="#000" stroke-width="1.2"/>
+  <path d="M356.0,305.8 A28,28 0 0,0 342.0,330.0" fill="none" stroke="#000" stroke-width="1.2"/>
+  <text x="142.2" y="309.5" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">β</text>
+  <text x="213.8" y="309.5" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle">β</text>
+  <text x="88.1" y="313.0" font-family="Helvetica" font-size="13" font-style="normal" text-anchor="middle">60°</text>
+  <text x="331.9" y="313.0" font-family="Helvetica" font-size="13" font-style="normal" text-anchor="middle">60°</text>
+</svg>

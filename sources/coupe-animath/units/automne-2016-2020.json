@@ -1,0 +1,303 @@
+{
+ "unit": "automne-2016-2020",
+ "source": "coupe-animath",
+ "title": "Coupe Animath automne, 2016 à 2020",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "13201",
+  "13400"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2016",
+   "label": "Coupe automne 2016",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2016_elim.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2016_elim.pdf",
+     "role": "Premier tour +"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2016_elim_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2016_elim_corrige.pdf",
+     "role": "corrigé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2016.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2016.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-09_coupe_automne_2016_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/09/coupe_automne_2016_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2017",
+   "label": "Coupe automne 2017",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2017-10_coupe_automne_2017_elim.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/coupe_automne_2017_elim.pdf",
+     "role": "Premier tour"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-10_coupe_automne_2017_elim_college.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/coupe_automne_2017_elim_college.pdf",
+     "role": "collégiens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-10_coupe_automne_2017_elim_lycee.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/coupe_automne_2017_elim_lycee.pdf",
+     "role": "lycéens"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-10_coupe_automne_2017.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/coupe_automne_2017.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2017-10_coupe_automne_2017_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/coupe_automne_2017_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2018",
+   "label": "Coupe automne 2018",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2018-10_coupe_automne_2018_sujet.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/10/coupe_automne_2018_sujet.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2018-10_coupe_automne_2018_corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/10/coupe_automne_2018_corrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2019",
+   "label": "Coupe automne 2019",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2019-10_coupe_animath_automne_2019_sujet.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/10/coupe_animath_automne_2019_sujet.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2019-10_Corrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/10/Corrigé.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  },
+  {
+   "year": "2020",
+   "label": "Coupe automne 2020",
+   "files": [
+    {
+     "file": "sources/originals/coupe-animath/2020-10_Sujet.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/10/Sujet.pdf",
+     "role": "Énoncé"
+    },
+    {
+     "file": "sources/originals/coupe-animath/2020-10_sujetcommentairecorrige.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2020/10/sujetcommentairecorrige.pdf",
+     "role": "Corrigé"
+    }
+   ]
+  }
+ ],
+ "next_document": 5,
+ "imported": [
+  "13201",
+  "13202",
+  "13203",
+  "13204",
+  "13205",
+  "13206",
+  "13207",
+  "13208",
+  "13209",
+  "13210",
+  "13211",
+  "13212",
+  "13213",
+  "13214",
+  "13215",
+  "13216",
+  "13217",
+  "13218",
+  "13219",
+  "13220",
+  "13221",
+  "13222",
+  "13223",
+  "13224",
+  "13225",
+  "13226",
+  "13227",
+  "13228",
+  "13229",
+  "13230",
+  "13231",
+  "13232",
+  "13233",
+  "13234",
+  "13235",
+  "13236",
+  "13237",
+  "13238",
+  "13239",
+  "13240",
+  "13241",
+  "13242",
+  "13243",
+  "13244",
+  "13245",
+  "13246",
+  "13247",
+  "13248",
+  "13249",
+  "13250",
+  "13251",
+  "13252",
+  "13253",
+  "13254",
+  "13255",
+  "13256",
+  "13257",
+  "13258",
+  "13259",
+  "13260",
+  "13261",
+  "13262",
+  "13263",
+  "13264",
+  "13265",
+  "13266",
+  "13267",
+  "13268",
+  "13269",
+  "13270",
+  "13271",
+  "13272",
+  "13273",
+  "13274",
+  "13275",
+  "13276",
+  "13277",
+  "13278",
+  "13279",
+  "13280",
+  "13281",
+  "13282",
+  "13283"
+ ],
+ "skipped": [
+  {
+   "where": "2017-09_coupe_automne_2016_elim.pdf, exercices communs, exercice 11",
+   "why": "Même problème (colorier les faces d'un cube avec six couleurs, réponse 30) déjà dans la collection en 1re.",
+   "existing": "7660"
+  },
+  {
+   "where": "2017-10_coupe_automne_2017_elim.pdf, exercices collégiens, exercice 7",
+   "why": "Même problème (le plus grand angle d'un triangle vaut un multiple du plus petit, à quelques degrés près) déjà dans la collection en 4e, avec d'autres nombres.",
+   "existing": "0684"
+  },
+  {
+   "where": "2017-10_coupe_automne_2017.pdf, énoncés collège, exercice 3",
+   "why": "Le foot à trois (Amandine, Bobby, Charles) est déjà dans la collection en 4e, repris du club de Lyon, et aussi en 3e.",
+   "existing": "0739"
+  },
+  {
+   "where": "2018-10_coupe_automne_2018_sujet.pdf, énoncés collège, exercice 1",
+   "why": "Les 2018 pièces dans des boîtes et des maisons sont déjà dans la collection en 4e, reprises du club de Lyon avec le même énoncé.",
+   "existing": "0740"
+  },
+  {
+   "where": "2019-10_coupe_animath_automne_2019_sujet.pdf, exercices collégiens, exercice 1",
+   "why": "Compter les entiers impairs de 1 à 2019 (réponse 1010) : sous le niveau de la 4e, même à une étoile.",
+   "existing": null
+  },
+  {
+   "where": "2019-10_coupe_animath_automne_2019_sujet.pdf, exercices collégiens, exercice 8 (aussi exercice 13 des lycéens)",
+   "why": "Le nombre à 300 chiffres 1 et des zéros qui serait un carré est déjà dans la collection en 3e et en 2de.",
+   "existing": "8656, 8726"
+  },
+  {
+   "where": "2020-10_Sujet.pdf, exercices collégiens, exercice 1",
+   "why": "Même problème au même niveau (produit télescopique 3/2 × 4/3 × ... × 30/29 = 15), déjà importé depuis ClubLyon « d'après Coupe Animath d'Automne 2020, P1 ».",
+   "existing": "0738"
+  },
+  {
+   "where": "2020-10_Sujet.pdf, exercices collégiens, exercice 5",
+   "why": "Même problème (dans un trapèze, les triangles ADE et BCE formés par les diagonales ont la même aire). 0539 le place en 3e, difficulté 3, ce qui est défendable pour ce problème de collège : pas de deuxième copie.",
+   "existing": "0539"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "13260",
+   "tool": "inéquation fonctionnelle",
+   "suggested_theme": "functional-equations",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [],
+ "source_errors": [
+  {
+   "where": "2017-09_coupe_automne_2016_elim.pdf, exercice 20",
+   "what": "L'énoncé demande l'aire « d'un carré dont chacune des trois droites contient un sommet » : il y a trois carrés possibles (aires 1130, 2105 et 2897), le corrigé ne donne que 1130. L'exercice 13219 précise la position des sommets et donne les deux autres cas dans « Pour aller plus loin »."
+  },
+  {
+   "where": "2017-09_coupe_automne_2016_elim.pdf, exercice 3",
+   "what": "L'énoncé parle d'« un nombre a » sans dire que a est entier, alors que la réponse attendue (a = 31) le suppose. 13203 le précise."
+  },
+  {
+   "where": "2017-10_coupe_automne_2017_corrige.pdf, exercice 6",
+   "what": "Le corrigé écrit « zx = 15 = 5 × 31 » au lieu de zx = 155 ; la suite du calcul utilise bien 155. Sans conséquence, 13251 donne le bon calcul."
+  },
+  {
+   "where": "2018-10_coupe_automne_2018_sujet.pdf, exercice 8",
+   "what": "La fonction est définie sur les réels non nuls, mais (y + z)/2 est nul quand z = −y, et f n'y est pas définie. 13260 se place sur les réels strictement positifs ; la réponse (f constante égale à a) ne change pas."
+  },
+  {
+   "where": "2019-10_coupe_animath_automne_2019_sujet.pdf, exercice 15",
+   "what": "Si le triangle est rectangle en B ou en C (ce qui est compatible avec AF = FC), le quadrilatère EHFO est aplati : E = O et H = F, ou E = H = C et F = O. 13269 suppose le triangle sans angle droit."
+  },
+  {
+   "where": "2020-10_sujetcommentairecorrige.pdf, exercice 13",
+   "what": "Le développement est écrit x² = ⌊x⌋² + 2⌊x⌋·x + ⟨x⟩² au lieu de ⌊x⌋² + 2⌊x⌋⟨x⟩ + ⟨x⟩², et k = ⌊x⌋ est appelé « le plus petit entier inférieur ou égal à x » au lieu du plus grand. La réponse 91 est juste ; 13279 rédige le calcul correctement."
+  }
+ ],
+ "notes": [
+  "13227 demande plus que 8126 (même grade, 2de) : 8126 demande de montrer qu'au moins 93 des cent entiers valent 1, 13227 demande le minimum exact, 95.",
+  "13211 (2016 éliminatoires, exercice 12) : l'énoncé original ne dit pas comment le carré est placé dans le losange ; on admet qu'il a le même centre et des côtés parallèles aux diagonales, et « Pour aller plus loin » esquisse pourquoi.",
+  "13221 : l'énoncé original ne dit pas où sont les angles droits, seule la figure le montre ; on l'écrit dans l'énoncé.",
+  "Premier tour 2017 : seules les grilles de réponses existent (pas de corrigé rédigé), toutes les solutions de 13228 à 13246 sont rédigées par nous et vérifiées contre ces grilles.",
+  "13238 et 13246 (premier tour 2017, exercices 12 et 20) : l'original demande un entier codé (a = 84, m = 8068) ; on demande directement la valeur exacte, et l'entier codé est rappelé dans « Pour aller plus loin ». 13235 (exercice 9) : on fait d'abord exprimer x, parce que le quotient demandé n'a de sens que si l'écriture de x est unique, ce que « Pour aller plus loin » explique.",
+  "13241 est proche de 7916 (diviseur commun de a(a + 2)(a + 4), en 3e) : même idée, question différente (cinq facteurs, réponse 15 au lieu de 3).",
+  "Le foot à trois (2017, exercice 3) est déjà deux fois dans la collection : 0739 (4e) et 0689 (3e), tous deux repris du club de Lyon. Pas de nouvelle copie.",
+  "13257 (2018, exercice 5) : le corrigé utilise le théorème de l'angle inscrit ; la solution construit un triangle équilatéral et reste au niveau 3e. Pas de figure, une figure exacte donnerait l'angle.",
+  "13259 (2018, exercice 7, mouche et araignées) : la solution reprend l'idée du corrigé, mais l'étape 2 du plan et la phase « diagonale » du pavé y sont rédigées trop vite ; on donne des règles explicites et des comptages qui se vérifient.",
+  "2019 : les exercices 2 et 9, 4 et 11, 6 et 12, 8 et 13 sont communs aux deux parties ; chacun est importé une seule fois (13261, 13263, 13265, et 8 sauté).",
+  "13267 (2019, exercice 10, chaussettes) est très facile, gardé en 4e à une étoile ; il ressemble à 8255 (4e, deux chaussettes identiques parmi 2019 paires) mais la question est différente.",
+  "13262 (2019, exercice 3, triangle isocèle avec un angle de 60°) et 0654 (4e, club de Lyon, même question avec 35°) : même exercice au même grade, vu après l'écriture. Avec 60°, les trois cas donnent le même triangle équilatéral, ce qui en fait une suite naturelle de 0654 plutôt qu'un nouveau problème. Rien n'a été supprimé ; au coordinateur de garder les deux ou de retirer 13262.",
+  "2020 : les exercices 2, 3 et 4 des collégiens sont aussi les exercices 9, 10 et 11 des lycéens ; importés une seule fois (13272, 13273, 13274).",
+  "2020, corrigé : plusieurs coquilles sans effet sur les réponses. Exercice 8, l'ensemble est dit inclus dans {1, ..., 2019, 2020} au lieu de {1, ..., 200}. Exercice 15, les noms des pieds de hauteurs (I, J) et un rapport |AMD|/|AND| = |AMD|/|ABD| sont mélangés. Exercice 16, seules les « solutions alternatives » 1 et 2 sont imprimées, la solution principale à laquelle elles renvoient manque.",
+  "13275 : la partie Going further donne une disposition de 13 cailloux qu'on ne peut pas recouvrir, avec une preuve courte ; le corrigé affirme seulement que l'énoncé devient faux avec 13. Disposition vérifiée par ordinateur sur les 70 choix de colonnes.",
+  "13283 : le corrigé construit les points sur une droite puis les « bouge un peu » pour rendre les distances différentes, ce qui est difficile à rendre rigoureux au lycée. 13283 donne des écarts entiers explicites (1000 − i pour i ≤ 28, puis 1500) et prouve que toutes les distances sont différentes par les restes modulo 1000. Construction vérifiée par ordinateur.",
+  "13280 (exercice 14 des lycéens) est placé en 3e : seuls les diviseurs d'une puissance d'un nombre premier et la parité servent. 13278 (exercice 12 des lycéens) est aussi placé en 3e.",
+  "13267 (automne 2019, 6 bleues et 6 rouges, réponse 7) et 13841 (printemps 2022, autre agent, 56, 63 et 74 chaussettes, réponse 75) posent la même question à des nombres près, au même niveau (4e). vm.py check les signale. Rien n'a été supprimé : le coordinateur choisit.",
+  "Fin du lot : vm.py check ne signale aucune erreur dans 13201 à 13283 ; les 83 exercices ont été construits sans avertissement de pandoc ; la liste imported correspond exactement aux fichiers sur le disque (13201 à 13283, sans trou)."
+ ],
+ "updated": "2026-10-01"
+}

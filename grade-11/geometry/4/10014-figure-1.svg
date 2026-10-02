@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 238" width="420" height="238">
+  <path d="M 392 210 A 182 182 0 0 0 28 210" fill="none" stroke="#777" stroke-width="1.4"/>
+  <line x1="28" y1="210" x2="392" y2="210" fill="none" stroke="#777" stroke-width="1.2" stroke-dasharray="5,4"/>
+  <line x1="29.8" y1="184.7" x2="70.6" y2="93" fill="none" stroke="#000" stroke-width="1.6"/>
+  <line x1="70.6" y1="93" x2="194.1" y2="28.7" fill="none" stroke="#000" stroke-width="1.6"/>
+  <line x1="194.1" y1="28.7" x2="322.1" y2="66.6" fill="none" stroke="#000" stroke-width="1.6"/>
+  <line x1="322.1" y1="66.6" x2="383.1" y2="153.8" fill="none" stroke="#000" stroke-width="1.6"/>
+  <circle cx="210" cy="210" r="3" fill="#000"/>
+  <circle cx="29.8" cy="184.7" r="3" fill="#000"/>
+  <circle cx="70.6" cy="93" r="3" fill="#000"/>
+  <circle cx="194.1" cy="28.7" r="3" fill="#000"/>
+  <circle cx="322.1" cy="66.6" r="3" fill="#000"/>
+  <circle cx="383.1" cy="153.8" r="3" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#000">
+    <text x="204.9" y="229.9">O</text>
+    <text x="10.8" y="188.7">A</text>
+    <text x="54.8" y="90">B</text>
+    <text x="187.8" y="20.7">C</text>
+    <text x="325.6" y="61.5">D</text>
+    <text x="391.3" y="155.4">E</text>
+  </g>
+</svg>

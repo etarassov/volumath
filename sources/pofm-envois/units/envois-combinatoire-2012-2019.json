@@ -1,0 +1,441 @@
+{
+ "unit": "envois-combinatoire-2012-2019",
+ "source": "pofm-envois",
+ "title": "Envois POFM, Combinatoire, années 2012 à 2019",
+ "brief": "sources/maths-olympiques-brief.md",
+ "id_block": [
+  "11201",
+  "11400"
+ ],
+ "status": "done",
+ "documents": [
+  {
+   "year": "2012-2013",
+   "label": "Envoi 2 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2012-2013-envoi2-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2012-2013-envoi2-corrige.pdf"
+   }
+  },
+  {
+   "year": "2013-2014",
+   "label": "Envoi 2 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-2.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-2.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2013-2014-envoi-2-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2013-2014-envoi-2-solutions.pdf"
+   }
+  },
+  {
+   "year": "2014-2015",
+   "label": "Envoi 1 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-1.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-1.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-1-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-1-solutions.pdf"
+   }
+  },
+  {
+   "year": "2014-2015",
+   "label": "Envoi 5 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-5.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-5.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2014-2015-envoi-5-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2014-2015-envoi-5-solutions.pdf"
+   }
+  },
+  {
+   "year": "2015-2016",
+   "label": "Envoi 4 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2015-2016-envoi-4-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2015-2016-envoi-4-solutions.pdf"
+   }
+  },
+  {
+   "year": "2016-2017",
+   "label": "Envoi 4 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2017-10_ofm-2016-2017-envoi-4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-envoi-4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2017-10_ofm-2016-2017-envoi-4-solutions.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2017/10/ofm-2016-2017-envoi-4-solutions.pdf"
+   }
+  },
+  {
+   "year": "2017-2018",
+   "label": "Envoi 4 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2018-01_pofm-2017-2018-envoi4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2018/01/pofm-2017-2018-envoi4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2018-02_pofm-2017-2018-envoi4-corrige.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2018/02/pofm-2017-2018-envoi4-corrige.pdf"
+   }
+  },
+  {
+   "year": "2018-2019",
+   "label": "Envoi 4 (Combinatoire)",
+   "statement": [
+    {
+     "file": "sources/originals/pofm-envois/2019-01_envoi-4.pdf",
+     "url": "https://maths-olympiques.fr/wp-content/uploads/2019/01/envoi-4.pdf"
+    }
+   ],
+   "corrige": {
+    "file": "sources/originals/pofm-envois/2019-02_envoi-4-corr-def.pdf",
+    "url": "https://maths-olympiques.fr/wp-content/uploads/2019/02/envoi-4-corr-def.pdf"
+   }
+  }
+ ],
+ "next_document": 8,
+ "imported": [
+  "11201",
+  "11202",
+  "11203",
+  "11204",
+  "11205",
+  "11206",
+  "11207",
+  "11208",
+  "11209",
+  "11210",
+  "11211",
+  "11212",
+  "11213",
+  "11214",
+  "11215",
+  "11216",
+  "11217",
+  "11218",
+  "11219",
+  "11220",
+  "11221",
+  "11222",
+  "11223",
+  "11224",
+  "11225",
+  "11226",
+  "11227",
+  "11228",
+  "11229",
+  "11230",
+  "11231",
+  "11232",
+  "11233",
+  "11234",
+  "11235",
+  "11236",
+  "11237",
+  "11238",
+  "11239",
+  "11240",
+  "11241",
+  "11242",
+  "11243",
+  "11244",
+  "11245",
+  "11246",
+  "11247",
+  "11248",
+  "11249",
+  "11250",
+  "11251",
+  "11252",
+  "11253",
+  "11254",
+  "11255",
+  "11256",
+  "11257",
+  "11258",
+  "11259",
+  "11260",
+  "11261"
+ ],
+ "skipped": [
+  {
+   "where": "2017-10_ofm-2012-2013-envoi2.pdf, exercice 1 (arêtes du cube numérotées de 1 à 12)",
+   "why": "déjà dans la collection au même niveau (4e) ; 0713 cite d'ailleurs cet envoi",
+   "existing": "0713"
+  },
+  {
+   "where": "2017-10_ofm-2012-2013-envoi2.pdf, exercice 6 (trois sauterelles, sauts parallèles à la droite des deux autres)",
+   "why": "déjà dans la collection en 2de, invariant de l'aire, même départ et même arrivée",
+   "existing": "8533"
+  },
+  {
+   "where": "2017-10_ofm-2013-2014-envoi-2.pdf, exercice 2 (n villes, chaque paire reliée par route ou par train : un des deux modes relie tout)",
+   "why": "déjà dans la collection : 0504 (3e, tapis volant ou balai) est le même problème ; 8118 (2de, avions ou bateaux) aussi",
+   "existing": "0504"
+  },
+  {
+   "where": "2017-10_ofm-2013-2014-envoi-2.pdf, exercice 4 (tout polyèdre a deux faces avec le même nombre de sommets)",
+   "why": "déjà dans la collection en 2de, même énoncé (nombre de côtés des faces), même preuve par les tiroirs",
+   "existing": "7846"
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-5.pdf, exercice 3 (Jules, Jim et 10 autres paires de colocataires, 21 réponses différentes : combien de mains Jim a-t-il serrées ?)",
+   "why": "déjà dans la collection : 5221 est le même problème des poignées de main (problème de Halmos), avec 5 couples au lieu de 11 paires ; même raisonnement. À noter pour le coordinateur : 5221 semble classé haut (1re, difficulté 5)",
+   "existing": "5221"
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi4.pdf, exercice 2 (treize entiers entre 1 et 37, quatre d'entre eux dont deux ont la même somme que les deux autres)",
+   "why": "déjà dans la collection : 8543 est le même problème avec 12 entiers entre 1 et 30, même raisonnement (une même différence apparaît trois fois, et deux des trois paires sont disjointes)",
+   "existing": "8543"
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi4.pdf, exercice 4 (bouteilles et seaux)",
+   "why": "déjà dans la collection : 8658 est le même exercice, sa référence cite déjà l'envoi 4 de 2015-2016",
+   "existing": "8658"
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi4.pdf, exercice 5 (colorier 1 à 2016 en deux couleurs sans que deux nombres de même couleur aient pour somme une puissance de 2)",
+   "why": "déjà dans la collection : 11404 (bloc d'un autre agent) est le même problème avec 2020 au lieu de 2016, même arbre des puissances de 2. Non écrit ici, rien n'a été supprimé",
+   "existing": "11404"
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi4.pdf, exercice 6 (signes + et − sur un n-gone, on change trois sommets consécutifs : pour quels n peut-on toujours tout mettre à +)",
+   "why": "déjà dans la collection : 8043 est le même problème (lampes en cercle, trois voisines à la fois), même réponse (3 ne divise pas n), même invariant et même astuce pour changer une seule lampe",
+   "existing": "8043"
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-4.pdf, exercice 2 (pour quels n peut-on paver un échiquier n × n avec des tétraminos en T)",
+   "why": "déjà dans la collection : 8731 est le même problème (réponse : n multiple de 4)",
+   "existing": "8731"
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-4.pdf, exercice 3 (m parties de {1, …, n} qui se rencontrent deux à deux, montrer m ⩽ 2^(n−1))",
+   "why": "déjà dans la collection : 8572 est le même problème (photos qui ont toujours quelqu'un en commun, maximum 2^(n−1))",
+   "existing": "8572"
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-4.pdf, exercice 5 (ranger 1, 1, 2, 2, …, 50, 50 avec k nombres entre les deux k)",
+   "why": "déjà dans la collection : 7220 est exactement le même problème",
+   "existing": "7220"
+  },
+  {
+   "where": "2019-01_envoi-4.pdf, exercice 1 (échiquier 8 × 8 rempli de 0, 1 et −1, les 18 sommes des lignes, colonnes et grandes diagonales peuvent-elles être toutes différentes ?)",
+   "why": "déjà dans la collection : 0714 (4e) est exactement le même problème",
+   "existing": "0714"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "11206",
+   "tool": "graphe orienté, circuit eulérien (le lemme d'Euler est démontré dans la solution)",
+   "suggested_theme": "graph-theory",
+   "hors_programme": false
+  },
+  {
+   "id": "11236",
+   "tool": "graphes, arbres (le nombre d'arêtes d'un arbre est démontré dans la solution)",
+   "suggested_theme": "graph-theory",
+   "hors_programme": false
+  },
+  {
+   "id": "11250",
+   "tool": "graphes orientés, degré entrant et degré sortant (maths expertes)",
+   "suggested_theme": "graph-theory",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  {
+   "id": "11202",
+   "other": "8678"
+  },
+  {
+   "id": "11206",
+   "other": "1021"
+  },
+  {
+   "id": "11219",
+   "other": "0235"
+  },
+  {
+   "id": "11223",
+   "other": "7118"
+  },
+  {
+   "id": "11253",
+   "other": "11427"
+  }
+ ],
+ "source_errors": [
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-1-solutions.pdf, exercice 4",
+   "what": "Dans le cas où −2n − 1 n'est pas pris, le corrigé écrit « au moins n éléments de A » et découpe A = {1, …, 2n − 1} en n − 1 paires {k, 2n − k}. Le compte donne n + 1 éléments de A, et A est fait de n − 1 paires plus le nombre n seul : avec seulement n éléments, le principe des tiroirs ne conclut pas. 11218 donne une preuve réorganisée."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-1-solutions.pdf, exercice 6",
+   "what": "« de 4 pour les Ci » au lieu de « de 4 pour les Di » (coquille)."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-1-solutions.pdf, exercice 7",
+   "what": "Le corrigé dit que chaque point ajouté à la triangulation crée « au moins 2 (voire 3) » triangles. Un point sur un côté de l'enveloppe n'en crée qu'un de plus, et un point n'en crée jamais 3 de plus. Le cas fautif suppose trois points alignés, qui donnent déjà un triangle d'aire 0, donc la preuve se répare en l'excluant au départ (fait dans 11221)."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-1-solutions.pdf, exercice 9",
+   "what": "Pas une erreur, une lacune : le corrigé dit seulement que les huit cases de la couronne sont dans la figure « par des considérations de symétrie et de convexité ». La vérification complète est écrite dans 11223 et a été contrôlée par ordinateur pour tous les a ≥ b ≥ 1 avec a² + b² ≤ 2014²."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-1-solutions.pdf, exercice 10",
+   "what": "En recopiant l'énoncé, le corrigé écrit la borne inférieure 1/(n² + 1) au lieu de 1/(2n² + 1). L'envoi et la preuve du corrigé donnent bien 1/(2n² + 1). Vérifié par ordinateur pour n ≤ 5 : le nombre maximal de voisines est 1, 4, 10, 20, 32, plus que n² dès n = 2, donc la borne 1/(n² + 1) ne se démontrerait pas ainsi."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-5-solutions.pdf, exercice 3",
+   "what": "Le corrigé conclut « Jules a serré 10 mains » alors que la question porte sur Jim. Les deux ont bien serré 10 mains (A10 est Jim dans le corrigé), mais la phrase répond à une autre question."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-5-solutions.pdf, exercice 4",
+   "what": "Coquilles : la deuxième minoration appelle g le nombre de régions au lieu de f, et écrit (2q) pour 2q. Le raisonnement est juste (11227)."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-5-solutions.pdf, exercice 7",
+   "what": "Dans le b), les groupes doivent être comptés modulo 2k + 1 et non « modulo k ». Dans le a), l'inégalité stricte S1/m > n(n − 1)/(2n) est fausse quand tous les scores sont égaux ; il faut une inégalité large, qui suffit. Le détail des retouches du b) est confus, mais le nombre total de parties anormales, 3k⁴/2 − k³/2 − k², est juste. Vérifié par ordinateur : 235 600 parties anormales sur 335 790 pour k = 20 (70,16 %), et seulement 69,9 % pour k = 19 (11230)."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-5-solutions.pdf, exercice 8",
+   "what": "Coquille : « x + a » au lieu de « n + a » dans la première étape (11231)."
+  },
+  {
+   "where": "2017-10_ofm-2014-2015-envoi-5-solutions.pdf, exercice 9",
+   "what": "Coquilles : la formule f) décale les indices (« 5y5 », « x1 + … + x5 » au lieu de y1 + 2y2 + 3y3 + 4y4 et x0 + … + x4) ; « f(1, 1) = 1 et f(1, 1) = 5 » pour dire que L1 ne peut pas contenir que des 1 ; « il n'y a donc pas de 4 sur L3 » à la fin du cas L2 ; « par utilisation de c) » au lieu de f). Le dernier pas (« on tombe assez rapidement sur les deux seuls tableaux ») n'est pas détaillé ; 11232 détaille tous les cas. Les deux tableaux sont justes : vérifié par recherche exhaustive (exactement 2 tableaux cohérents en 5 × 5, aucun pour 1 × 1 à 4 × 4)."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi-4-solutions.pdf, exercice 1",
+   "what": "Le texte parle du carré 2 × 2 « en haut à droite » alors que la figure et le raisonnement le placent en haut à gauche. Corrigé dans 11233."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi-4-solutions.pdf, exercice 3",
+   "what": "Dans la définition de u3, « le second, qui est plus grand que le troisième » au lieu de « plus petit » ; coquille « popssibles ». La réponse 272 est juste (vérifiée). Corrigé dans 11234."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi-4-solutions.pdf, exercice 7",
+   "what": "« |T| = (|C| − 1)/2 » au lieu de |C|/2 − 1 (la valeur 2m² − 1 est juste). Le corrigé admet aussi que l'arbre est connexe et que couper le circuit revient à couper une arête de l'arbre ; 11236 démontre ces deux points. Le résultat est vérifié par ordinateur sur tous les circuits 4 × 4 et des circuits 6 × 6 au hasard."
+  },
+  {
+   "where": "2017-10_ofm-2015-2016-envoi4.pdf, exercice 9",
+   "what": "L'énoncé envoyé aux élèves oublie l'hypothèse « les a_i sont deux à deux distincts, de même que les b_i », et il est alors faux : pour n = 4 avec tous les a_i et b_i égaux à 1, aucun octogone simple ne convient. Le corrigé rétablit l'hypothèse et donne ce contre-exemple. 11237 publie l'énoncé corrigé, avec une preuve rédigée à neuf."
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-4-solutions.pdf, exercice 9",
+   "what": "Le corrigé écrit {a ∈ A_m | a + b_{m+1} ∈ A} ⊂ {a ∈ A | a > b_{m+1}}, ce qui est faux : ces a sont plus petits que b_{m+1}, le plus grand élément de A_m. C'est l'application a ↦ a + b_{m+1}, sans répétition, qui envoie ce premier ensemble dans le second, et la majoration du nombre d'éléments reste vraie. 11243 rédige l'argument correct."
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-4-solutions.pdf, exercice 7",
+   "what": "Le corrigé écrit « plus grand que 2n » là où il faut « au moins 2n » ; sans conséquence. L'énoncé ne dit pas que le fabricant travaille indéfiniment ni qu'une année compte 365 jours ; 11241 le précise."
+  },
+  {
+   "where": "2017-10_ofm-2016-2017-envoi-4.pdf, exercice 3",
+   "what": "L'énoncé écrit « pour tout 1 ⩽ i, j ⩽ n » au lieu de « 1 ⩽ i, j ⩽ m ». Exercice non importé (doublon de 8572)."
+  },
+  {
+   "where": "2018-02_pofm-2017-2018-envoi4-corrige.pdf, exercice 9",
+   "what": "Le corrigé affirme que f(φ(A)) ⩽ f(A) + 1 pour toute partie A ayant au moins deux éléments. C'est faux pour les parties à deux éléments : φ({a, b}) = {1, …, a} ∪ {b + 2, …, n + 2}, donc f(φ(A)) = f(A) + 2. Il faut ajouter n(n − 1)/2 à la majoration, qui devient G(n) ⩽ F(n) + n(n + 1)/2 − e_n, et la preuve donne alors m = 12 au lieu de 10. La conclusion reste vraie (F(n) > G(n) dès n = 8, vérifié par ordinateur jusqu'à n = 18). Corrigé dans 11252."
+  },
+  {
+   "where": "2018-01_pofm-2017-2018-envoi4.pdf, exercice 1",
+   "what": "« toute une diagonale » est ambigu. Le corrigé suppose qu'il s'agit des deux grandes diagonales : si les petites diagonales (dont les coins, de longueur 1) étaient permises, le premier tableau deviendrait possible (5 coups, vérifié par ordinateur) et l'argument de parité du corrigé tomberait. 11245 précise l'énoncé."
+  },
+  {
+   "where": "2018-01_pofm-2017-2018-envoi4.pdf, exercice 7",
+   "what": "L'énoncé ne dit pas qu'il y a au plus une arête d'un sommet vers un autre, ce que la preuve utilise : avec des arêtes multiples, une simple file de sommets donne V_n = n + 1. 11250 précise l'énoncé."
+  },
+  {
+   "where": "2019-02_envoi-4-corr-def.pdf, exercice 3",
+   "what": "Le corrigé termine le cas d'au plus 42 grandes équipes en comparant le nombre de matchs à (2019 − |A|) × 42, qui dépasse 42 × 1977 quand |A| < 42 : ce cas n'est pas démontré. 11255 le traite (2M ⩽ q(2061 − q) avec q = g + 42 ⩽ 83, donc M ⩽ 82 087)."
+  },
+  {
+   "where": "2019-02_envoi-4-corr-def.pdf, exercice 4",
+   "what": "Le corrigé recopie l'énoncé avec n ⩽ 2 au lieu de n ⩾ 2 pour la longueur des chaînes, et sa première étape est confuse. 11256 reformule avec « reliés » et suit l'idée finale du corrigé, compter groupe par groupe."
+  },
+  {
+   "where": "2019-02_envoi-4-corr-def.pdf, exercice 5",
+   "what": "Le corrigé dit qu'après le premier coup de Bob dans un tour « les positions restent inchangées », alors que Bob peut encore retourner d'autres pièces. Sans conséquence : ces retournements ne font qu'augmenter la somme pondérée. 11257 le dit explicitement."
+  },
+  {
+   "where": "2019-02_envoi-4-corr-def.pdf, exercice 7",
+   "what": "Le contre-exemple du corrigé (un point d'abscisse 2, les autres aux abscisses 2^i pour 2 ⩽ i ⩽ n, barycentre annoncé 2^(n+1)/n) est faux : la somme vaut 2^(n+1) − 2, et pour n = 6 la moyenne vaut 126/6 = 21, un entier, donc il n'y a pas de contradiction. 11259 prend n − 1 points d'abscisse 0 et un point d'abscisse 1."
+  },
+  {
+   "where": "2019-02_envoi-4-corr-def.pdf, exercice 9",
+   "what": "Le corrigé recopie la définition avec « le nombre de fois que i apparaît à la colonne j », ce qui contredit son propre exemple ; l'énoncé dit « à la ligne j », qui est la bonne lecture (vérifiée sur l'exemple). Il écrit aussi x_i > 1 au lieu de x_i ⩾ 1, et ses derniers calculs ont des coquilles. 11261 refait la preuve avec le seuil 17 et obtient n ⩽ 178."
+  }
+ ],
+ "notes": [
+  "11202 (cent fractions de numérateur 1, 4e) et 8678 (n fractions, 1re, cas général avec récurrence) : même idée, cas particulier n = 100 posé aux juniors, construction directe sans récurrence. Lien see_also.",
+  "11206 (digicode à 4 chiffres, suite de de Bruijn décimale, Terminale) et 1021 (serrure binaire à 3 chiffres, 2de) : même idée, paramètres très différents ; 1021 se fait à la main, 11206 demande le lemme d'Euler. Lien see_also, à confirmer par le coordinateur.",
+  "Exercice 6 de l'envoi 2012-2013 : 8533 et 8943 (tous deux en 2de) sont déjà le même problème ; signalé au cas où la paire ne serait pas encore arbitrée.",
+  "Exercice 2 de l'envoi 2013-2014 : 0504 (3e) et 8118 (2de) sont le même problème (deux moyens de transport, l'un des deux relie toutes les villes), à deux niveaux différents et sans lien see_also entre eux. Signalé pour que le coordinateur ajoute le lien.",
+  "11210 (cavaliers 5 x 5) : le maximum 16 et l'unicité de la disposition ont été vérifiés par recherche exhaustive sur ordinateur.",
+  "11212 (points rouges et bleus) : l'exemple à 8 points du corrigé n'est qu'une figure ; l'exemple publié est redessiné avec des coordonnées entières et vérifié par ordinateur (aucun alignement, un seul point de l'autre couleur dans chacun des 8 triangles).",
+  "11216 (1008 entiers parmi 1..2014, PGCD, 3e) : la question 1 utilise la même idée que 8520 (3e, 1012 nombres parmi 1..2022 en contiennent deux premiers entre eux), mais l'énoncé est différent (PGCD qui divise un troisième nombre, et question 2). Gardé, pas de see_also.",
+  "11217 (six chiffres, quatre pairs, multiple de 5, 3e) : proche de 0705 (4e, quatre chiffres pair/impair imposés), mais plus difficile (disjonction de cas, places des chiffres impairs). Gardé, pas de lien. Réponse 40625 vérifiée par ordinateur.",
+  "11221 demande plus que 7646 (2de, 201 points dans un carré de côté 10, aire au plus 1/2) et que 8145 (2de, 101 points, aire au plus 1) : ici 121 points suffisent pour l'aire 1/2, ce qui demande l'enveloppe convexe et une triangulation au lieu d'un simple découpage. Les trois sont en 2de ; au coordinateur d'arbitrer. Voir aussi 7532 (1re, n points dans un carré de côté 1, aire au plus 1/(n − 2)), même technique de triangulation.",
+  "11219 (six points, plus court côté de l'un = plus long côté d'un autre, 2de) : version senior de l'idée de 0235 (4e, trois amis ou trois inconnus). Lien see_also.",
+  "11223 (un seul −1 dans le disque de rayon 2014, 2de) : version senior de 7118 (3e, tableau 4 × 4 de signes, même couronne de huit cases). Lien see_also.",
+  "11222 (jetons m → m − 1, m + 1) : le lemme du corrigé et la terminaison ont été testés par simulation aléatoire ; la situation finale unique (Pour aller plus loin) a été vérifiée par recherche exhaustive pour les petits cas.",
+  "11224 : les deux bornes et la densité des n + 1 familles ont été vérifiées par ordinateur pour n ≤ 5 ; l'égalité des tailles des familles (nombres de Catalan) pour n ≤ 9.",
+  "11225 (6 sommets, 12 arêtes) : la formule d'Euler est admise dans l'énoncé, comme dans 5710 ; le polyèdre est dit convexe. Proche de 5612 et 5611 mais pas le même énoncé.",
+  "11226 (7 élèves, 12 épreuves) : nouvelle preuve gloutonne par groupes, sans graphe ; le corrigé passe par un arbre.",
+  "11229 (échiquier 2015 × 2015 privé d'un coin 2 × 2, pièces en L) : voisin de 2007 et 0160 (pavages par triominos) mais différent. Le 5 × 5 privé de son coin 2 × 2 n'est pas pavable (vérifié par ordinateur), d'où la région 5 × 11 du corrigé, découpée ici en 5 × 9 plus 3 × 2 ; le pavage de la figure 4 a été vérifié case par case.",
+  "11230 (parties anormales) et 11232 (tableaux cohérents) : résultats vérifiés par ordinateur, voir source_errors. 11231 suit le corrigé.",
+  "Envoi 2014-2015 n° 5 : 9 exercices, 8 importés (11225 à 11232), 1 sauté (exercice 3, doublon de 5221).",
+  "Envoi 2015-2016 n° 4 : 9 exercices, 5 importés (11233 à 11237), 4 sautés comme doublons (exercices 2, 4, 5 et 6 : 8543, 8658, 11404, 8043).",
+  "11235 (ensemble saturé de rectangles) : les minima 4, 6, 7, 9 pour n = 1 à 4 sont vérifiés par recherche exhaustive, et la construction en 2n + 1 est vérifiée saturée pour n = 3 à 9. Le corrigé ne fait qu'esquisser le cas n = 2, rédigé en entier ici.",
+  "À noter pour le coordinateur : 11822 (bloc d'un autre agent, grade 9) est une variante proche de 8543 et de l'exercice 2 de l'envoi 2015-2016 n° 4 (16 nombres jusqu'à 100 au lieu de 12 jusqu'à 30) ; à vérifier si c'est un doublon de 8543.",
+  "Envoi 2016-2017 n° 4 : 10 exercices, 7 importés (11238 à 11244), 3 sautés comme doublons (exercices 2, 3 et 5 : 8731, 8572, 7220).",
+  "11241 (fabricant de jouets, tout n, 725 jouets par an) utilise la même astuce des sommes partielles que 7736 (grade 10, 21 parties en 42 jours) et 4620 (grade 9, 100 exercices en un an), mais ce n'est pas le même problème : ici n est quelconque et il faut regarder n années. Pas de see_also.",
+  "Vérifications par ordinateur pour l'envoi 2016-2017 n° 4 : 12 et 576 carrés latins (11239) ; nombre de f avec f ∘ f constante pour n = 2 à 6 égal à la formule (11240) ; l'algorithme glouton de 11243 essayé sur 3000 ensembles au hasard ; la procédure de 11244 simulée pour n = 2 à 9 (sur les cases jusqu'à une borne finie), valide, avec 2^(n−1) − 1 étapes. Le contre-exemple de la partie « Going further » de 11242 (k = 2, n = 3) est vérifié par recherche exhaustive.",
+  "Envoi 2017-2018 n° 4 (document 6) : 9 exercices, 9 importés (11245 à 11253).",
+  "11245 (4e, trois tableaux 4 × 4, grandes diagonales seulement) est voisin de 7118 (3e, tableau de signes, toutes les diagonales, un seul −) et de 11223 : même famille d'invariants, mais pas le même problème. Pas de see_also. La partie « Going further » de 11245 reprend la couronne de huit cases de 7118.",
+  "11249 (1024 entiers parmi 2048) est de la même famille que 7436 (2de, six entiers parmi onze), mais ce n'est pas le même problème. Pas de see_also.",
+  "11247 (forcer un triangle acutangle, réponse n ⩾ 13) est voisin de 7427 et de 0259 (triangles non acutangles et nombres de Fibonacci), sans être le même problème. Pas de see_also.",
+  "Pour le coordinateur : 11253 (3e, exercice 5 de l'envoi 2017-2018 n° 4, « doubler une ligne, retrancher 1 à une colonne ») est voisin de 11427 (2de, bloc d'un autre agent, « multiplier une ligne par n, retrancher n à une colonne », réponse n = 2). Ce n'est pas le même énoncé (retrancher 1 ou retrancher 2) et les niveaux diffèrent, donc 11253 a see_also [\"11427\"]. Il reste à ajouter le lien retour \"11253\" dans le see_also de 11427, que je n'ai pas touché.",
+  "Vérifications par ordinateur pour l'envoi 2017-2018 n° 4 : les trois tableaux de 11245 (recherche exhaustive des coups, avec grandes diagonales et avec toutes les diagonales) ; 25 920 grilles pour 11246 (et 108 864 avec égalité, toutes valeurs) ; 11248 pour 3 et 5 éléments ; chaque étape de 11252 (f(T(A)) = g(A) + 1, φ bijective, comparaisons de f(φ(A)) et f(A), majoration finale) pour n = 1 à 14, et F, G jusqu'à n = 18.",
+  "Envoi 2018-2019 n° 4 (document 7) : 9 exercices, 8 importés (11254 à 11261), 1 sauté comme doublon (exercice 1 : 0714).",
+  "11258 (2de, chapeaux en cercle, réponse n impair) est voisin de 8868 (2de, table tournante à 12 places, au moins deux cartons justes) : même décor de rotations, mais pas le même énoncé ni le même argument (8868 est un principe des tiroirs, 11258 une somme modulo n). Pas de see_also.",
+  "11259 (2de, n grégaire si et seulement si n est une puissance de 2) utilise le même invariant que 7824 (3e, le canard qui remplace deux nombres par deux copies de leur moyenne), mais ce n'est pas le même problème. Pas de see_also.",
+  "11261 (1re, pas de grand tableau auto-descriptif) porte sur la même définition que 11232 (2de, mon bloc, trouver tous les tableaux 5 × 5 auto-descriptifs), mais la question est différente. Pas de see_also.",
+  "Pour le coordinateur : vm.py check signale « 11238 and 13427 sit at the same grade and look like the same problem ». C'est une fausse alerte : 11238 est un coloriage des six segments entre quatre points, 13427 est une question d'alignement avec quatre triangles équilatéraux. Les deux fichiers sont à garder.",
+  "Vérifications par ordinateur pour l'envoi 2018-2019 n° 4 : aucun pavage par dominos sans carré 2 × 2 d'un rectangle m × n avec m, n ⩾ 2 jusqu'à 8 × 8 (11254) ; la stratégie d'Alice gagne pour n de 2 à 10, et la partie la plus longue dure exactement 2^(n−2) × n + 1 tours (11257) ; un placement des chapeaux existe si et seulement si n est impair, pour n jusqu'à 9 (11258) ; la construction de 11260 colorie tout le carré pour k jusqu'à 12 avec ⌊(k + 1)²/4⌋ cases ; l'exemple de 11261 est bien auto-descriptif avec la lecture « ligne j ».",
+  "Pour le coordinateur : vm.py check signale deux autres paires « at the same grade » avec mon bloc, qui sont aussi de fausses alertes : 11211 (2de, répartir 1, …, n en deux groupes, somme de l'un = produit de l'autre) et 8126 (2de, 100 entiers de somme égale au produit, au moins 93 valent 1) ; 11221 (2de, (n + 1)² points dans un carré de côté n, triangle d'aire au plus 1/2) et 7717 (2de, 51 points dans un carré de côté 1, cercle de rayon 1/7). Les autres notes « possible duplicate » qui touchent mon bloc (11202, 11208, 11211, 11217, 11218, 11221, 11246) ont été regardées : ce ne sont pas les mêmes problèmes, sauf 11202/8678 (déjà liés) et 11253/11427 (lien retour à ajouter dans 11427).",
+  "Fin du lot : vm.py check ne signale aucune erreur dans les fichiers 11201 à 11261 ; les 61 exercices ont été construits ensemble sans aucun avertissement de pandoc ; les 61 ids de imported existent sur le disque, un fichier chacun, et aucun autre fichier n'est dans le bloc. Ids 11262 à 11400 non utilisés."
+ ],
+ "updated": "2026-10-01"
+}

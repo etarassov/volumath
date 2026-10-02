@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="316" height="568" viewBox="0 0 316 568">
+<rect width="316" height="568" fill="#fff"/>
+<polygon points="78.0,430.9 238.0,430.9 78.0,54.0" fill="none" stroke="#000" stroke-width="1.5"/>
+<line x1="158.0" y1="242.5" x2="78.0" y2="276.4" stroke="#000" stroke-width="1.2"/>
+<line x1="158.0" y1="174.6" x2="158.0" y2="546.3" stroke="#000" stroke-width="1.2"/>
+<line x1="78.0" y1="276.4" x2="238.0" y2="430.9" stroke="#000" stroke-width="1.2"/>
+<line x1="246.0" y1="422.7" x2="146.0" y2="526.2" stroke="#000" stroke-width="1.2"/>
+<line x1="78.0" y1="430.9" x2="158.0" y2="242.5" stroke="#555" stroke-width="1.2" stroke-dasharray="5,3"/>
+<line x1="78.0" y1="430.9" x2="158.0" y2="513.8" stroke="#555" stroke-width="1.2" stroke-dasharray="5,3"/>
+<polyline points="90.0,430.9 90.0,418.9 78.0,418.9" fill="none" stroke="#000" stroke-width="1"/>
+<circle cx="78.0" cy="430.9" r="2.5" fill="#000"/>
+<circle cx="238.0" cy="430.9" r="2.5" fill="#000"/>
+<circle cx="78.0" cy="54.0" r="2.5" fill="#000"/>
+<circle cx="158.0" cy="242.5" r="2.5" fill="#000"/>
+<circle cx="78.0" cy="276.4" r="2.5" fill="#000"/>
+<circle cx="158.0" cy="513.8" r="2.5" fill="#000"/>
+<text x="66.0" y="438.9" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">A</text>
+<text x="250.0" y="440.9" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">B</text>
+<text x="66.0" y="50.0" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="172.0" y="238.5" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">M</text>
+<text x="65.0" y="276.4" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">D</text>
+<text x="172.0" y="517.8" font-family="Helvetica" font-size="16" font-style="italic" text-anchor="middle" dominant-baseline="middle">E</text>
+</svg>
