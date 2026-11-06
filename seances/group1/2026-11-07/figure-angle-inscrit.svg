@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 230" width="300" height="230">
+  <circle cx="150" cy="115" r="90" fill="none" stroke="#000" stroke-width="1.3"/>
+  <line x1="60" y1="115" x2="240" y2="115" stroke="#000" stroke-width="1.3"/>
+  <line x1="60" y1="115" x2="195" y2="37.06" stroke="#000" stroke-width="1.3"/>
+  <line x1="150" y1="115" x2="195" y2="37.06" stroke="#000" stroke-width="1.3" stroke-dasharray="5,3"/>
+  <path d="M 85 115 A 25 25 0 0 0 81.65 102.5" fill="none" stroke="#1a4f8a" stroke-width="1.5"/>
+  <path d="M 175.95 48.06 A 22 22 0 0 0 184 56.11" fill="none" stroke="#1a4f8a" stroke-width="1.5"/>
+  <path d="M 172 115 A 22 22 0 0 0 161 95.95" fill="none" stroke="#b03030" stroke-width="1.5"/>
+  <circle cx="60" cy="115" r="2.2" fill="#000"/>
+  <circle cx="240" cy="115" r="2.2" fill="#000"/>
+  <circle cx="195" cy="37.06" r="2.2" fill="#000"/>
+  <circle cx="150" cy="115" r="2.2" fill="#000"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="14">
+    <text x="44" y="120">M</text>
+    <text x="246" y="120">B</text>
+    <text x="198" y="30">A</text>
+    <text x="144" y="133">O</text>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="13" font-style="italic" fill="#1a4f8a">
+    <text x="91" y="110">x</text>
+    <text x="160" y="70">x</text>
+  </g>
+  <text x="177" y="104" font-family="Helvetica, Arial, sans-serif" font-size="13" font-style="italic" fill="#b03030">2x</text>
+</svg>
