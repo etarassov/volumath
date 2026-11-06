@@ -10,6 +10,7 @@ Commands:
   tags    count the tags in use, so a new file reuses one instead of inventing a spelling
   build   render one exercise per PDF (statement, hints, solution)
   sheet   build a student handout and a teacher document from a selection
+  seance  build the two PDFs of a club session from its seance.md
 
 Every exercise is one Markdown file with YAML front matter. Structural words
 (front matter keys, section headings) are English so scripts can rely on them.
@@ -402,10 +403,155 @@ def doc_sheet(exos, kind, title, subtitle):
     return "\n".join(out)
 
 
-def compile_typst(source, pdf_path):
+# --------------------------------------------------------------------------
+# Sessions. A session folder holds a seance.md: front matter with the blocks
+# and their exercise ids, then one "## Block <n>" section of teaching notes per
+# block. The notes go into the teacher document only. See seances/README.md.
+# --------------------------------------------------------------------------
+
+SEANCE_FILE = "seance.md"
+
+
+def load_seance(folder):
+    """Return (meta, notes by block number, overview notes, blocks of Exercise)."""
+    path = folder / SEANCE_FILE
+    if not path.exists():
+        sys.exit("no %s in %s" % (SEANCE_FILE, folder))
+    meta, body = parse_front_matter(path.read_text(encoding="utf-8"))
+    sections = split_sections(body)
+    by_id = {e.id: e for e in all_exercises()}
+    blocks, problems = [], []
+    # Blocks are a map keyed 1, 2, 3... (the front matter reader cannot read a list of maps).
+    raw = meta.get("blocks") or {}
+    if not isinstance(raw, dict):
+        sys.exit("%s: 'blocks' must be a map keyed 1, 2, 3..." % path.relative_to(ROOT))
+    keys = list(raw)
+    if keys != [str(k) for k in range(1, len(keys) + 1)]:
+        problems.append("blocks must be numbered 1, 2, 3... in order, got %s" % ", ".join(keys))
+    for n, block in enumerate(raw.values(), start=1):
+        if not isinstance(block, dict) or not block.get("title"):
+            problems.append("block %d has no title" % n)
+            continue
+        exos = []
+        for exo_id in block.get("exercises") or []:
+            exo_id = str(exo_id).strip()
+            if exo_id not in by_id:
+                problems.append("block %d: no exercise with id %s" % (n, exo_id))
+            else:
+                exos.append(by_id[exo_id])
+        blocks.append((block["title"], exos))
+    if not blocks:
+        problems.append("front matter lists no blocks")
+    seen = [e.id for _, exos in blocks for e in exos]
+    for exo_id in sorted({i for i in seen if seen.count(i) > 1}):
+        problems.append("exercise %s appears twice" % exo_id)
+    for name in sections:
+        m = re.match(r"^Block (\d+)$", name)
+        if name != "Overview" and not (m and 1 <= int(m.group(1)) <= len(blocks)):
+            problems.append("unexpected section '## %s' (use '## Overview' or '## Block <n>')" % name)
+    if problems:
+        sys.exit("%s:\n  %s" % (path.relative_to(ROOT), "\n  ".join(problems)))
+    notes = {int(k.split()[1]): v for k, v in sections.items() if k.startswith("Block ")}
+    return meta, notes, sections.get("Overview", ""), blocks
+
+
+IMAGE_LINE_RE = re.compile(r"^!\[(.*)\]\(([^)\s]+)\)\s*$")
+LIST_ITEM_RE = re.compile(r"^(\s*)([-*+]|\d+[.)])\s")
+
+
+def statement_floated(markdown, source_dir):
+    """Typst for a statement whose figures float to the right, text wrapping on the left.
+
+    Figures standing alone on their line are taken out and shown at the top right, at most
+    half the text width, without caption. The rest is cut into paragraphs, so the layout can
+    put as many as fit beside the figures and run the others full width underneath.
+    """
+    figures, kept = [], []
+    for line in markdown.split("\n"):
+        m = IMAGE_LINE_RE.match(line.strip())
+        if m:
+            target = m.group(2)
+            if not target.startswith(("/", "http://", "https://")):
+                target = "/%s/%s" % (source_dir.relative_to(ROOT).as_posix(), target)
+            figures.append((target, m.group(1)))
+        else:
+            kept.append(line)
+    if not figures:
+        return md_to_typst(markdown, source_dir)
+    chunks = [c.strip("\n") for c in re.split(r"\n[ \t]*\n", "\n".join(kept)) if c.strip()]
+    paragraphs = []
+    for chunk in chunks:
+        # Items of one list stay together, or the numbering would restart at 1.
+        if paragraphs and LIST_ITEM_RE.match(chunk) and LIST_ITEM_RE.match(paragraphs[-1]):
+            paragraphs[-1] += "\n\n" + chunk
+        else:
+            paragraphs.append(chunk)
+    body = ", ".join("[\n%s\n]" % md_to_typst(c, source_dir) for c in paragraphs)
+    return "#float-figures((%s,), (%s,), (%s,))\n" % (
+        ", ".join(tq(t) for t, _ in figures), ", ".join(tq(a) for _, a in figures), body)
+
+
+def doc_seance(meta, notes, overview, blocks, kind, here):
+    """kind 'students': statements only, no notes, no durations.
+    kind 'teacher': overview, then per block the notes and every exercise in full."""
+    title = str(meta.get("title") or "Séance")
+    bits = [str(meta[k]) for k in ("group", "date") if meta.get(k)]
+    if kind == "teacher":
+        title += " : notes pour l'animateur"
+    out = [typst_head(), "#doc-title(%s, %s)\n" % (tq(title), tq(" · ".join(bits)))]
+    if kind == "teacher":
+        rows = []
+        n = 0
+        for b, (block_title, exos) in enumerate(blocks, start=1):
+            for exo in exos:
+                n += 1
+                rows.append("(%s)" % ", ".join(tq(x) for x in (
+                    n, b, exo.id, GRADE_LABELS.get(exo.grade, exo.grade), exo.title)))
+        out.append("#seance-overview(%s, (%s,))\n" % (
+            "(%s,)" % ", ".join(tq(t) for t, _ in blocks), ", ".join(rows)))
+        if overview.strip():
+            out.append(md_to_typst(overview, here))
+    n = 0
+    for b, (block_title, exos) in enumerate(blocks, start=1):
+        # The students' sheet runs on from one part to the next, to save paper. There the
+        # part title goes inside its first exercise's block, so it never ends a page alone.
+        part_title = "#block-title(%d, %s, new-page: %s)\n" % (
+            b, tq(block_title), "true" if kind == "teacher" else "false")
+        if kind == "teacher":
+            out.append(part_title)
+        if kind == "teacher" and notes.get(b, "").strip():
+            out.append("#teacher-notes[\n%s\n]\n" % md_to_typst(notes[b], here))
+        for k, exo in enumerate(exos):
+            n += 1
+            src = exo.path.parent
+            statement = exo.sections.get("Statement", "")
+            if kind == "students":
+                if k > 0:
+                    out.append("#separator-tight()\n")
+                # Compact heading (no metadata line, no rule), figures floated to the right.
+                out.append("#block(breakable: false, width: 100%%)[\n%s#exo-item-compact(numero: %d, title: %s, difficulty: %d)\n%s\n]\n" % (
+                    part_title if k == 0 else "", n, tq(exo.title), int(exo.difficulty or 1),
+                    statement_floated(statement, src)))
+                continue
+            out.append("#separator()\n")
+            # Heading and statement stay on one page, so a heading never ends a page alone.
+            out.append("#block(breakable: false, width: 100%%)[\n#exo-item(numero: %d, meta: %s, title: %s, difficulty: %d)\n%s\n]\n" % (
+                n, tq(exo.label(with_duration=False)), tq(exo.title), int(exo.difficulty or 1),
+                md_to_typst(statement, src)))
+            out.append("#v(6pt)\n")
+            if exo.sections.get("Hints"):
+                out.append(part("Hints", exo.sections["Hints"], src))
+                out.append("#v(6pt)\n")
+            out.append(part("Solution", exo.sections.get("Solution", ""), src))
+    return "\n".join(out)
+
+
+def compile_typst(source, pdf_path, typ_path=None):
+    """Write the Typst source (next to the PDF unless typ_path says otherwise) and compile it."""
     need("typst")
     pdf_path.parent.mkdir(parents=True, exist_ok=True)
-    typ_path = pdf_path.with_suffix(".typ")
+    typ_path = typ_path or pdf_path.with_suffix(".typ")
+    typ_path.parent.mkdir(parents=True, exist_ok=True)
     typ_path.write_text(source, encoding="utf-8")
     done = subprocess.run(
         ["typst", "compile", "--root", str(ROOT), str(typ_path), str(pdf_path)],
@@ -755,6 +901,23 @@ def cmd_sheet(args):
     print(teacher.relative_to(ROOT))
 
 
+def cmd_seance(args):
+    need("pandoc")
+    folder = Path(args.folder).resolve()
+    meta, notes, overview, blocks = load_seance(folder)
+    rel = folder.relative_to(ROOT)
+    typ_dir = ROOT / "build" / "seances" / rel.as_posix().replace("/", "-")
+    made = []
+    for kind, name in (("students", "eleves"), ("teacher", "prof")):
+        pdf = folder / (name + ".pdf")
+        compile_typst(doc_seance(meta, notes, overview, blocks, kind, folder), pdf,
+                      typ_dir / (name + ".typ"))
+        made.append(pdf)
+    print("%d block(s), %d exercise(s)" % (len(blocks), sum(len(e) for _, e in blocks)))
+    for pdf in made:
+        print(pdf.relative_to(ROOT))
+
+
 def cmd_tags(args):
     counts = {}
     for exo in select(args):
@@ -815,6 +978,10 @@ def main():
     p.add_argument("--title")
     add_filters(p)
     p.set_defaults(func=cmd_sheet)
+
+    p = subs.add_parser("seance", help="build the student and teacher PDFs of a session folder")
+    p.add_argument("folder", help="folder holding seance.md, e.g. seances/group1/2026-11-07")
+    p.set_defaults(func=cmd_seance)
 
     args = parser.parse_args()
     sys.exit(args.func(args) or 0)

@@ -180,6 +180,7 @@ python3 tools/vm.py tags  [--grade 8] [--theme algebra]   # tags in use, most us
 python3 tools/vm.py index                     # rebuild catalog.json and INDEX.md
 python3 tools/vm.py build --ids 0001 0002     # one PDF per exercise: statement, hints, solution
 python3 tools/vm.py sheet --out seance-01 --grade 8 --theme arithmetic --title "Séance 1"
+python3 tools/vm.py seance seances/group1/2026-11-07   # a planned session, see seances/README.md
 python3 scripts/stats.py                      # counts by source, grade, theme, difficulty
 ```
 
