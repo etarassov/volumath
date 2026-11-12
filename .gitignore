@@ -223,3 +223,10 @@ __marimo__/
 # Downloaded source material: large, and owned by its authors. Every exercise
 # cites its source, so the database stays complete without these files.
 /sources/originals/
+# Files the operating system or an editor leaves behind.
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+*.swp
+*~
