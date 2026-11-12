@@ -136,7 +136,8 @@ stars in Terminale are both "needs an idea", for very different students. Never 
 against the whole database.
 
 1. Direct application of the course, a single step.
-2. Two or three steps, every tool comes from that grade's own course.
+2. Two or three steps, every tool comes from that grade's own course, or is explained in the
+   solution in a few lines.
 3. Needs an idea, not just a technique. The student has to see something.
 4. Several ideas combined, or cases to separate, or a result to prove rather than compute.
 5. Competition level for that grade.
@@ -146,7 +147,8 @@ against the whole database.
 1. Read the problem in the source, and its official solution when the source has one.
 2. Decide the French grade from the mathematics actually needed, not from the grade printed
    in the source. School systems do not line up, and a circle problem for Russian grade 6
-   often belongs in a French 4e club.
+   often belongs in a French 4e club. Choose the lowest grade where every tool the solution
+   needs is already known. A hard problem stays at that grade with more stars.
 3. Decide the difficulty with the scale above, relative to that grade.
 4. Translate the statement into natural French. Do not translate word for word. Use the names
    and notation a French student expects, for example $\mathrm{PGCD}$, not `НОД` or `gcd`.
