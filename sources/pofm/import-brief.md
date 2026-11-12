@@ -1,159 +1,348 @@
-# Importing the POFM polycopiés de stage
+# Importing the POFM camp handouts (maths-olympiques.fr, page 43)
 
-Read `/Users/etar/volumath/CLAUDE.md` first. It is the contract. This file covers only what
-is different about this source, and it is different in ways that matter.
+Read `/Users/etar/volumath/CLAUDE.md` first. It is the contract. This file covers only what is
+different about this source. Two rules here are new, and both matter more than anything else
+in this file:
+
+1. **You take every exercise on your pages.** There are only two reasons to skip one.
+2. **The grade is the lowest grade where every tool of the solution is already known.** The
+   camp group, the stars and the age of the students say nothing about the grade.
+
+This brief replaces the one used for the first pass of this source in September 2026. That
+pass chose a few problems from each handout and skipped the rest. Its agents also placed
+problems a grade too high: when 28 of their files were reviewed, every one moved down a grade.
 
 ## What you are reading
 
-The handouts of the French olympiad training camps, run by Animath. Your unit file lists the
-documents you own, already on disk in `sources/originals/pofm/`. **Never fetch anything from
+The handouts (*polycopiés*) of the French olympiad training camps run by Animath: the summer
+camps (Grésillon, Montpellier, Valbonne and others, 2007 to 2026), the junior camps (2009 to
+2024) and one February camp (2016). They are in French. Each one is a whole camp: the Coupe
+Animath papers with solutions, the first-day tests, the notes of every lecture with their
+exercises, grouped by level, then the end-of-camp tests, and in most summer camps a long list
+of problems called *La Muraille*.
+
+The documents are already on disk in `sources/originals/pofm/`. **Never fetch anything from
 the network.**
 
-Each polycopié is one camp, and each is self-contained: a table of contents, the Coupe
-Animath contest papers with their solutions, an évaluation initiale, then the full notes of
-every lecture, grouped by level and by topic, then the final tests. Lectures are signed by
-their author.
+Being in French removes the translation step, and with it a safety net: there is no moment
+where you must re-read a statement in order to render it, so a misread passes straight
+through to the page. Read every statement twice, the way a child would read it.
 
-## The two things that make this source different
+## Your unit: some pages, a worksheet, an id block
 
-**It is already in French.** Nothing needs translating. That removes the biggest cost of
-every earlier import, and it removes a safety net with it: there is no moment where you are
-forced to re-read the problem in order to render it. A misread now passes straight through to
-the page. So read each statement twice, and read it as a child would.
+Your unit file is `sources/pofm/units/<unit>.json`. It gives you:
 
-**Almost every exercise has a worked solution.** Your job is not to solve. It is to choose,
-and then to rewrite. Which means the real risk here is not a wrong answer, it is publishing
-an olympiad solution unchanged, at olympiad register, and calling it a club exercise.
+- `documents`: one handout (sometimes two or three small ones), each with a list of page
+  ranges. **You own every exercise whose statement starts on those pages.** Its solution may
+  be printed later, outside your pages: read it there. Pages are PDF page numbers (the number
+  `pdftotext -f` and `pdftoppm -f` expect), not the numbers printed at the bottom of the page.
+- `worksheet`: a text file made by a script. It has one line for each "Exercice N" heading the
+  script found on your pages, with the opening of the statement and a status:
+  - **YOURS**: take it. "look at ids" lists collection files whose text looks a bit similar.
+    That is a reason to open them, never proof of anything. You still run the duplicate checks
+    below.
+  - **DONE as 8542**: that exercise is already in the collection, imported from a page 43
+    handout during the first pass. Open the file and check it really is the same problem. If
+    it is, leave it alone, even if you would have written it differently. If its grade looks
+    wrong to you under the rule below, record that in `regrade_suggestions` and move on.
+    Never edit it: it is outside your id block.
+  - **NOT YOURS: p43-ete2019-1 owns it**: the same text is printed in another handout, and the
+    unit named there takes it. Read both statements. If they really are the same problem,
+    leave it. If they differ (other numbers that change the answer, an extra question, a
+    different hypothesis), it is yours: import it and record it in `not_yours_but_different`.
+  The worksheet is a help, not the truth. The script misses some headings, catches some lines
+  that are not exercises, and misreads some section names. The PDF decides.
+- `old_units`: the unit files of the first pass for your handout. Their `notes` and
+  `source_errors` can save you time. **Ignore their `skipped` lists**: the reasons there are out
+  of date, and many name ids that have since been removed.
+- `id_block`: 200 ids, more than you need. Use them in order, starting with the first.
+- `solutions_printed`: a script's guess at whether your pages have printed solutions. "few"
+  or "none" usually means La Muraille. Trust the PDF over the guess.
+
+## Take every exercise
+
+The owner wants the whole of these handouts in the collection. There are exactly two reasons
+to skip an exercise:
+
+1. **It is already in the collection at the grade where it belongs.** Same mathematical
+   question, even with other wording, names, or numbers that change nothing. See
+   "Duplicates" below.
+2. **It is broken and cannot be fixed.** Data missing that you cannot restore from the
+   solution, a page you cannot read even rendered at 300 dpi, a false claim that cannot be
+   repaired into a true problem worth asking, or, for an exercise without a printed solution,
+   a problem you could not solve with certainty.
+
+Nothing else is a reason. Not "too hard": that is what five stars is for. Not "beyond the
+programme": that has its own rule below. Not "too long", not "a bit dull". CLAUDE.md's rule
+about problems below 4e still holds, but it almost never applies here.
+
+What counts as an exercise: everything headed *Exercice*, every problem of a test, a Coupe
+paper or La Muraille. The examples, theorems and proofs inside the lecture notes are course
+material, not exercises: leave them, unless the worksheet lists one as an exercise and it
+really is a self-contained problem.
+
+An exercise with several parts stays one exercise. When the same exercise appears twice on
+your own pages (a test reprints a course exercise), import it once and say so in `notes`.
+
+Two exercises of the handout become one file only when the second builds directly on the
+result of the first, so that it makes no sense on its own. Otherwise make two files and link
+them with `see_also`. Say in `source.reference` which exercises the file covers.
+
+## Duplicates
+
+The collection holds about 3600 exercises, 1124 of them from the first pass of this source.
+The olympiad canon is small and reprints itself: the same classic is in a Moscow handout, a
+Lyon handout and three camp handouts. So before you write each exercise, search:
+
+```sh
+python3 sources/originals/_coordinator/similar.py --grade 9 "le texte de l'énoncé"
+python3 sources/originals/_coordinator/similar.py "le texte de l'énoncé"     # all grades
+```
+
+It reads the collection fresh each time, so it also sees what other agents wrote a minute
+ago. It finds the same wording well and a different wording badly, so also grep for the
+distinctive numbers and words of the problem, for example `grep -rl "2023" grade-*` or
+`grep -rli "caméléon" grade-*`, and read what you find.
+
+- **Same problem, same grade**: skip it, and give the existing id in the skip.
+- **Same problem, another grade**: work out the grade with the rule below. If the existing
+  copy already sits at that grade, skip yours. If the existing copy sits higher than the rule
+  says, do not import a second copy: skip yours and record the existing file in
+  `regrade_suggestions`. Import a second copy only when both grades are genuinely right, for
+  example a lower grade with a guided solution and a higher one with the general case. Then
+  put the other id in your file's `same_as`, and record the pair in `same_as_added`.
+- **A related problem, not the same one** (one is a step towards the other, a converse, the
+  same idea on another question): import yours, put the other id in `see_also`, and record
+  the pair in `see_also_added`.
+- **Your version asks more** than the one in the collection (an extra part, the general case):
+  import yours and write the pair in `notes`, for example "14023 demande plus que 0712". The
+  coordinator decides which to keep.
+
+Never edit a file outside your id block, not even to add the link back. The coordinator writes
+the other half of every `same_as` and `see_also` pair after the round.
 
 ## Rewriting, which is the actual work
 
-A POFM solution is written by a camp lecturer for a selected student. It compresses, it
-assumes, and it often answers a slightly different question than the one a club leader needs
-answered. CLAUDE.md is binding here: **write the solution at the level of the target student,
-show the steps, state the conclusion plainly.**
+A solution in these handouts is written by a camp lecturer for a selected student. It
+compresses and it assumes. CLAUDE.md is binding: **write the solution at the level of the
+target student, show the steps, state the conclusion plainly.**
 
-Concretely, for nearly every problem you take:
+For nearly every exercise:
 
-- Restate the problem in ordinary French. Olympiad phrasing ("Soit $n \geqslant 1$ un entier.
-  Montrer que...") is fine at 1re and Terminale and wrong at 4e. Give it a setting if that
-  helps and costs nothing.
+- Restate the problem in ordinary French. Olympiad phrasing ("Soit $n \geq 1$ un entier.
+  Montrer que...") is fine at 1re and Terminale and wrong at 4e.
 - Redo the solution in full sentences. Where the source writes "on conclut aisément", write
   the conclusion.
 - Write hints. The source has none. This is where most of your value is.
-- If the source's solution uses a tool the target student has not met, redo it with what they
-  have, or move the exercise up a grade, or skip it.
+- When a solution uses a tool the student has not met, follow the rule below: explain it in a
+  few lines, or redo the solution another way.
 
-A copied statement plus a copied solution is not an import. It is a transcription, and it
-will read as one.
+A copied statement plus a copied solution is not an import. It is a transcription.
 
-## Level
+## Deciding the grade
 
-The printed level markers are **one notch harder than they sound**. Summer camps select 80
-students from 642 candidates; junior camps select too. The junior *Débutants* geometry course
-opens with oriented angles of lines and the Chasles relation. Treat "Débutants" as "strong
-3e or 2de", "Groupe A" as "strong 2de or 1re", and Groupes B, C and D as lycée and beyond.
+**Choose the lowest grade where every tool the solution needs is already known.** Then choose
+the difficulty, relative to that grade, with CLAUDE.md's scale.
 
-CLAUDE.md is what decides in the end: **the grade comes from the mathematics actually
-needed**, not from the label in the document.
+That is the whole rule. In particular:
 
-**On problems above the French lycée programme.** You may take one, at Terminale five stars,
-**if and only if you can rewrite the solution using tools a Terminale student has met**. If
-the solution genuinely needs a notion outside the programme, skip it, and record what it
-needed. Do not import it with a warning attached: a club leader cannot run an exercise whose
-solution they would have to teach a new theory for.
+- **The group in the handout says nothing about the grade.** Groupe A, Groupe D, Débutants,
+  Avancés, Muraille level 3: none of these is a grade. A Groupe D problem whose solution uses
+  only collège tools goes to 4e or 3e, at four or five stars.
+- **Hard is not a reason to go up a grade.** Difficulty 4 and 5 are for hard problems. Five
+  stars at 3e means "competition level for a 3e student", and this source has a lot of it.
+- **When you hesitate between two grades, choose the lower one**, and explain in the solution
+  whatever the student might not have seen. Earlier agents went one grade too high far more
+  often than too low.
 
-Difficulty stays relative to the grade of the folder. Five stars at 4e and five stars at
-Terminale are both "competition level for that student", and this source will offer you a
-great deal of both.
+Write one line per exercise in `grade_reasons` in your unit file: which tools the solution
+needs, and why that makes this the lowest grade. For example
+`"14012": "factorisation a^2-b^2 et parité, connues en 3e ; pas plus bas car l'identité est vue en 3e"`.
+If you cannot write that line, you have not decided the grade yet.
 
-## Where to aim
+A rough guide to what a student knows by the **end** of each grade. It is not a programme
+document. When you are unsure whether a tool is known at a grade, use the lower grade and
+explain the tool in a few lines (case 1 below).
 
-There is no cap on this import. Take everything that is genuinely good for the club. But the
-volume is enormous, roughly 13000 problems against 1071 in the whole collection, so
-selection is the whole game.
+| By the end of | Known |
+|---|---|
+| 4e (grade 8) | fractions, relative numbers, powers with whole exponents, expanding and simple factoring, first-degree equations, Pythagoras, the cosine in a right triangle, Thalès in nested triangles, angle sum of a triangle, parallel lines and angles, parallelograms, areas, proportions and percentages, divisors, multiples, primes, parity |
+| 3e (grade 9) | identities such as $(a+b)^2$ and $a^2-b^2$, equations of the form "product = 0", Thalès in every configuration and its converse, similar triangles, sine and tangent in the right triangle, linear and affine functions, simple probability, prime factorisation |
+| 2de (grade 10) | vectors and coordinates, equations of lines, systems of two equations, square and inverse functions, inequalities and intervals, absolute value, square roots, $\sqrt 2$ irrational, sets |
+| 1re (grade 11) | second degree and its discriminant, derivatives, arithmetic and geometric sequences, scalar product, sine and cosine on the circle, the exponential, conditional probability |
+| Terminale (grade 12) | proof by induction, limits, continuity, logarithm, integrals, convexity, permutations and binomial coefficients, binomial law; with the *maths expertes* option: congruences, Bézout, Gauss, Fermat's little theorem, complex numbers, matrices, graphs |
 
-- The **Coupe Animath eliminatoires** inside each summer polycopié are the most accessible
-  material in the source and the most self-contained. Start there.
-- The **évaluation initiale** and the camp tests are calibrated to what students know on
-  arrival, so they sit lower than the courses around them.
-- Inside a course, the **first exercises** of a lecture are the warm-ups. They are often
-  exactly right for a club, while the last ones are IMO shortlist.
-- The collection is thinnest at **one star (53 exercises)** and **five stars (67)**. This
-  source has almost nothing at one star and a great deal at five. Take the five-star material
-  where you can rewrite it, and do not force anything into one star.
+### Tools above the student's programme
 
-## Overlap, which is a real risk here
+Olympiad solutions use many results that are not taught at school. Each one falls into one of
+three cases.
 
-The collection already holds 1071 exercises, including 200 from a Moscow circle and 199 from
-a Lyon club. The French and Russian olympiad canons overlap heavily, so the classics in these
-polycopiés are often already in the base.
+1. **A short lemma.** Not taught at that grade, but you can prove or explain it for the
+   student in a few lines with what they know: the inscribed angle theorem, the power of a
+   point from similar triangles, the angle bisector theorem, the inequality between the
+   arithmetic and geometric mean of two numbers, congruences explained as remainders, the
+   pigeonhole principle, a step-by-step argument instead of a formal induction, a count of
+   pairs as $\frac{n(n-1)}{2}$. Explain it inside the solution and **keep the low grade**.
+   Rate the difficulty as if the student had that explanation: explaining a tool is not by
+   itself a reason for more stars. The
+   collection already does this, for example congruences explained as remainders in more than
+   80 exercises from 4e to 2de. This is the most common case by far.
+2. **The *maths expertes* option of Terminale**: congruences used as a theory, Bézout, Gauss,
+   Fermat's little theorem, complex numbers, matrices, graphs. Count these as known at
+   Terminale. Put the problem at grade 12 with its normal difficulty, add the tag
+   `maths-expertes`, and record it in `beyond_programme` with `"hors_programme": false`. Use
+   this case only when case 1 does not work: a congruence argument that a 3e student can
+   follow as "the remainders" belongs in case 1.
+3. **A real theory beyond Terminale**: inversion, projective geometry, barycentric coordinates
+   as a method, generating functions, quadratic reciprocity, group theory, linear algebra
+   beyond 2 by 2, series, and anything a club leader would have to teach for an hour first.
+   Then:
+   - the problem goes to **grade 12, difficulty 5**, in the closest theme,
+   - add the tag `hors-programme`,
+   - the solution **opens with a short paragraph `**Rappel.**`** that explains the tool in
+     plain words, enough for a strong Terminale student to follow. It does not need to prove
+     it,
+   - record it in `beyond_programme` with `"hors_programme": true`.
 
-- **Search the database by statement before you write, not by topic.** `python3 tools/vm.py
-  list --grade 9 --theme arithmetic` and a grep over `grade-*/` are your tools.
-- Year-to-year reprinting inside POFM runs 3 to 16 percent, so another agent reading a
-  different year may well meet the same problem. The duplicate rule below applies.
+   If you can rewrite the solution without the theory, do that instead and grade it normally.
+   Many lecture exercises are there to practise a theory (an inversion lecture, a
+   projective-geometry lecture): check whether the problem has a plain solution before you
+   reach for case 3.
+
+`beyond_programme` in your unit file is a list of objects:
+
+```json
+{"id": "14034", "tool": "inversion", "hors_programme": true}
+```
+
+## Choosing the theme and the tags
+
+The themes are `arithmetic`, `algebra`, `geometry`, `functions-analysis`,
+`probability-statistics`, `combinatorics`, `logic-reasoning`, `coloring`. The lecture title is
+a hint, not an answer. Inequalities, polynomials and functional equations without calculus go
+to `algebra`. Games and strategies go to `logic-reasoning`. Counting, pigeonhole and
+combinatorial geometry go to `combinatorics`. `coloring` is only for problems where the
+colouring **is** the idea (CLAUDE.md explains).
+
+Topics that would deserve a theme of their own are tags instead. Run `python3 tools/vm.py tags`
+before writing tags, and reuse the spelling with the most uses: `inegalite`,
+`equation-fonctionnelle`, `polynome`, `congruences`, `graphe`, `principe-des-tiroirs`,
+`invariant`, `recurrence`, `chasse-aux-angles`, `angle-inscrit`, `puissance-d-un-point`. Some
+topics have two spellings in use today. Take the more common one and never invent a third.
+
+## Exercises without a printed solution
+
+La Muraille prints statements only, and a few lectures and tests leave some exercises
+unsolved. Import these too, with your own solution, under a strict rule: **only if you solve
+it yourself and check the solution.** Check every case, test small values, and when there is
+a numerical answer, confirm it a second way (a short Python check in your scratchpad is
+good). If you cannot reach certainty, skip it under reason 2 and say what you tried.
+
+List every id whose solution you wrote without a printed one in `no_printed_solution`. A
+second agent will re-solve each of them before the round is committed, so write these
+solutions so that every step can be checked. A wrong solution in the collection is worse than
+a missing problem.
 
 ## Metadata
 
 ```yaml
+created: 2026-10-25
 source:
-  name: "POFM, stage olympique de Valbonne 2017, cours de Groupe A"
-  reference: "stage_ete_2017.pdf, « Groupe A : logique/stratégies de base », jeudi 17 matin (Antoine Martin), exercice 4"
-  url: "http://maths-olympiques.fr/?page_id=43"
+  name: "POFM, stage olympique de Valbonne 2023, Groupe B"
+  reference: "valbonne-2023.pdf, chapitre « Groupe B », première partie, « Inégalités » (Mathieu Barré), exercice 7"
+  url: "https://maths-olympiques.fr/wp-content/uploads/2023/12/valbonne-2023.pdf"
   original_language: "fr"
-  local_copy: "sources/originals/pofm/stage_ete_2017.pdf"
+  local_copy: "sources/originals/pofm/valbonne-2023.pdf"
 ```
 
-Name the lecturer and the session in `reference` when the document names them; these are
-signed lectures and the attribution is part of the citation. When a problem is itself a
-competition problem and the polycopié says so (IMO, JBMO, Coupe Animath, a national
-olympiad), say that in `reference` too.
-
-Since the source is French, `original_language` is `"fr"` and there is no translation step to
-record. Do still say in `reference` exactly where in the document it came from: these are
-hundreds of pages long and "stage_ete_2014.pdf" alone is useless to a future reader.
+- `name`: the camp as its title page names it: place and year, and the group or the part
+  (Coupe Animath, test de fin de parcours, La Muraille). The place changes over the years
+  (Grésillon, Montpellier, Valbonne, Cachan, Saint-Chéron and others): read the title page.
+- `reference`: the file name, then enough to find the exercise again in a document of several
+  hundred pages: chapter, part, lecture title, the lecturer and the session when the handout
+  names them, and the exercise number. These lectures are signed, and the name is part of the
+  citation. When the handout says the problem comes from a competition (IMO, a shortlist, a
+  national olympiad, the Coupe of some year), add that. When you correct an error in the
+  source, say so here too, as CLAUDE.md asks.
+- `url`: the direct link to the PDF, from your unit file. Older files use the page URL
+  `?page_id=43`; do not copy that.
+- `created`: the day you write the file.
 
 ## Reading these PDFs
 
-They are LaTeX-produced and the text layer is good, but:
+They are produced with LaTeX and the text layer is mostly good. Read one or two pages at a
+time with `pdftotext -layout -f <p> -l <p> <file> -`, never a whole handout: they run to 800
+pages and your context is not unlimited.
 
-- **Check every exponent.** `pdftotext` flattens powers, so `2^n` reads as `2n`. Run
-  `python3 tools/pdfsupers.py <file> <page>` before trusting one. It needs `pypdf` and
-  `fonttools`, both in `requirements.txt`.
-- Geometry figures are drawn in TikZ and do not survive text extraction at all. If a problem
-  depends on its figure, render the page with `pdftoppm -r 150 -png -f <p> -l <p> <file> out`
-  and look at it, then redraw the figure as SVG next to your exercise.
-- Accented characters and maths symbols sometimes extract oddly (`÷` for an angle mark, `6=`
-  for `≠`). When a statement reads as broken, re-render the page before concluding the
-  problem is broken.
+- **Check every exponent** with `.venv/bin/python3 tools/pdfsupers.py <file> <page>`.
+  `pdftotext` flattens powers, so `2^n` reads as `2n` and `7^(7^7)` as `777`.
+- **Some symbols come out wrong**: `÷` stands for the angle mark over letters, `6=` for `≠`,
+  and `⩾` can lose its slant. Check inequality signs on the rendered page.
+- **Geometry figures are drawn in TikZ** and vanish from the text. A page whose text is empty
+  or much shorter than its neighbours needs rendering:
+  `pdftoppm -r 150 -png -f <p> -l <p> <file> <scratchpad>/<unit>-p<p>`. When the problem depends
+  on its figure, redraw it as SVG next to your exercise, following CLAUDE.md: colours as
+  attributes on shapes, Helvetica for any label with a digit, no `√` in a label, square brackets
+  in the description in pairs, and a figure that does not give the answer away.
+- When a digit or a sign makes a problem look broken, render the page at 300 dpi before you
+  decide the problem is broken.
+- `stage_ete_2012.pdf` has an erratum, `stage_ete_2012_errata.pdf`. If your unit covers 2012,
+  read it first.
 
 ## Rules that came out of the earlier imports
 
 Not optional. Each one cost real work.
 
 - **Never delete a finished exercise because it duplicates one from another agent's block,
-  not even your own file.** Two agents once noticed the same pair at the same moment, each
-  deleted its own copy trusting the other to survive, and the problem vanished. Keep your
-  file, add `see_also` if the two sit at different grades, and report the pair in your final
-  message. The coordinator arbitrates after everyone has stopped. Skipping a duplicate you
-  have not yet written is still fine.
-- **Never touch a file outside your id block**, and never call `vm.py new` without `--id`.
-- **Scratch files must carry your unit name**, e.g. `ete-2017-check.py`. The scratchpad is
-  shared and generic names get overwritten mid-run.
-- **Build what you write and look at the page.** `vm.py check` validates metadata; it does
-  not compile anything. `vm.py build` now prints pandoc's warnings: never build past one.
+  not even your own file.** Twice now, two agents noticed the same pair at the same moment,
+  each deleted its own copy trusting the other to survive, and the problem vanished from the
+  collection. Keep your file, write the pair in `notes`, and let the coordinator decide after
+  everyone has stopped. Skipping a duplicate you have not written yet is fine.
+- **Never touch a file outside your id block**, and always pass `--id` to `vm.py new`.
+- **Scratch files go in your session scratchpad and carry your unit name**, for example
+  `p43-ete2023-2-check.py`. Other agents share the folder, and generic names get overwritten.
+- **Build what you write and look at the page.** `vm.py check` validates metadata; it compiles
+  nothing. Build with `python3 tools/vm.py build --ids <id>`. It prints pandoc's warnings:
+  never build past one. Read CLAUDE.md's table "What survives the trip to Typst" before your
+  first formula.
+- **The title is plain text**, never LaTeX: `"11ⁿ − 4ⁿ est un multiple de 7"`.
 - **The source can be wrong.** Earlier runs found around twenty genuine errors in published
-  circle handouts. These polycopiés are carefully edited and there is even a published
-  erratum for 2012, but a printed solution is still a check on your reasoning, not the
-  reasoning. Verify before you publish.
+  handouts, including in this source. A printed solution is a check on your reasoning, not the
+  reasoning. When it is wrong, publish the right version and record it in `source_errors` as
+  `{"where": "...", "what": "..."}`.
+
+## Your unit file, kept up to date
+
+Update it **every 10 exercises or so**, not only at the end. If you stop without warning, the
+next agent starts from it.
+
+- `status`: `in_progress` while you work, `done` only when every page is finished. If you stop
+  early, leave `in_progress`, set `next_page`, and write in `notes` which exercise of that page
+  comes next. An honest `in_progress` is far more useful than a `done` that is not true.
+- `imported`: the ids you wrote, as strings, in order.
+- `grade_reasons`: `{"14012": "one line"}`, one entry per imported id. See "Deciding the grade".
+- `no_printed_solution`: ids whose solution you wrote with no printed solution to compare.
+- `skipped`: objects `{"where": "valbonne-2023.pdf p.152, exercice 5", "why": "...",
+  "existing": "0712"}`. `existing` only when the reason is a duplicate.
+- `regrade_suggestions`: `{"id": "8542", "from": 10, "to": 9, "why": "..."}` for existing files
+  whose grade looks wrong under the rule above. Do not move them yourself.
+- `same_as_added` and `see_also_added`: `{"id": "14023", "other": "0712"}`.
+- `not_yours_but_different`: `{"where": "...", "listed_owner": "p43-ete2019-1", "id": "14031"}`.
+- `beyond_programme`, `source_errors`, `notes`: as described above.
+- `next_page`: the first page you have not finished, or `""` when done.
+- `updated`: the date.
 
 ## Finishing
 
-- **Update your unit file as you go**, not only at the end. Set `status` to `done` only when
-  you have genuinely finished your documents; otherwise leave `in_progress` with `next_file`
-  pointing where to resume. With documents this long, an honest `in_progress` is the expected
-  outcome and is far more useful than a `done` that is not true.
-- Record every skip with a reason. When you skip something good because it is out of range or
-  already in the base, say which and name the existing id.
-- Run `python3 tools/vm.py check` and build every exercise you wrote before you stop. Errors
-  on other agents' half-written files are expected and are not yours to fix.
+Before you stop:
+
+1. Run `python3 tools/vm.py check`. Errors in other agents' half-written files are not yours.
+2. Build **every** exercise you wrote, not a sample, and look at every page with a figure.
+3. Make sure every id in `imported` exists as a file, and every file in your block is listed.
+4. Make sure every imported id has a line in `grade_reasons`.
+
+Your final message, in plain English, gives: how many exercises you imported and skipped; how
+many were already DONE or NOT YOURS; the duplicate pairs you suspect, with ids; your
+`regrade_suggestions`; the source errors you found; your `beyond_programme` entries; and
+anything the coordinator should look at, including anything in this brief that was unclear or
+wrong.

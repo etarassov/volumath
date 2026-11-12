@@ -1,0 +1,49 @@
+{
+  "unit": "p43-ete2026-6",
+  "source": "pofm",
+  "title": "POFM, Poly-Valbonne-2026 Groupe D",
+  "wave": 2,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "Poly-Valbonne-2026.pdf",
+      "local_copy": "sources/originals/pofm/Poly-Valbonne-2026.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2026/09/Poly-Valbonne-2026.pdf",
+      "pages": [
+        [
+          491,
+          587
+        ]
+      ],
+      "chapters": [
+        "Groupe D"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-ete2026-6.txt",
+  "old_units": [
+    "ete-2026"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 102,
+  "work_estimate": 94,
+  "id_block": [
+    "34601",
+    "34800"
+  ],
+  "status": "pending",
+  "imported": [],
+  "grade_reasons": {},
+  "no_printed_solution": [],
+  "skipped": [],
+  "regrade_suggestions": [],
+  "same_as_added": [],
+  "see_also_added": [],
+  "not_yours_but_different": [],
+  "beyond_programme": [],
+  "source_errors": [],
+  "notes": [],
+  "next_page": "",
+  "updated": ""
+}

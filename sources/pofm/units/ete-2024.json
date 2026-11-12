@@ -6,7 +6,17 @@
   "8701",
   "8800"
  ],
- "status": "in_progress",
+ "status": "closed",
+ "superseded_by": [
+  "p43-ete2024-1",
+  "p43-ete2024-2",
+  "p43-ete2024-3",
+  "p43-ete2024-4",
+  "p43-ete2024-5",
+  "p43-ete2024-6",
+  "p43-ete2024-7",
+  "p43-ete2024-8"
+ ],
  "files_total": 1,
  "next_file": 0,
  "imported": [
@@ -172,9 +182,10 @@
   "Coquilles de source, exercice 8739 : la correction ecrit que les cases de la diagonale sont 'comprises dans deux croix' (c'est une seule) et annonce 3993 valeurs au lieu de 4049 ; l'argument reste juste.",
   "Doublon suspecte impliquant mon bloc, a arbitrer par le coordinateur : 8714 (le mien, grade 9, difficulte 2) et 8814 (grade 9, difficulte 3) sont le meme probleme, '1/3 n'est pas un nombre decimal'. Rien n'a ete supprime.",
   "Doublons reperes entre d'autres blocs, signales sans rien toucher : 7045 et 8641 (jeton de C1 a H8), 7046 et 8642 (au plus la moitie des jetons), 7044 et 8644 (noircir une case voisine).",
-  "Reprendre au second passage par : entrainement de mi-parcours du Groupe B exercices 2 et 4, puis les entrainements du Groupe A (pages 89 et 151), puis les cours de geometrie du Groupe A laisses de cote, puis les premiers exercices de chaque cours de Groupe B."
+  "Reprendre au second passage par : entrainement de mi-parcours du Groupe B exercices 2 et 4, puis les entrainements du Groupe A (pages 89 et 151), puis les cours de geometrie du Groupe A laisses de cote, puis les premiers exercices de chaque cours de Groupe B.",
+  "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
  ],
- "updated": "2026-10-02",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "poly_valbonne_2024.pdf",

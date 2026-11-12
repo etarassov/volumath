@@ -6,7 +6,16 @@
   "7301",
   "7400"
  ],
- "status": "in_progress",
+ "status": "closed",
+ "superseded_by": [
+  "p43-ete2007-1",
+  "p43-ete2007-2",
+  "p43-ete2007-3",
+  "p43-ete2008-1",
+  "p43-ete2008-2",
+  "p43-ete2008-3",
+  "p43-junior2009-junior2010-fev2016"
+ ],
  "files_total": 3,
  "next_file": 2,
  "imported": [
@@ -86,9 +95,10 @@
   "Doublons signales concernant mes fichiers, cross-lies avec see_also depuis mes fichiers seulement: 7305 -> 8142; 7312 -> 7644, 8121, 8852 (quatre copies des cameleons, dont 7644 au meme grade 9 que la mienne); 7319 -> 8148; 7321 -> 7950, 8146; 7328 -> 0660 (meme configuration carre + triangle equilateral, questions differentes); 7334 -> 2205.",
   "Titres changes pour eviter la confusion avec des exercices d'autres blocs portant le meme titre: 7317 (etait 'Deux equations sans aucune solution', comme 8654), 7328 (etait 'Le triangle equilateral cache dans le carre', comme 0660), 7340 (voisin de 7862 dans le meme dossier).",
   "stage_fev_2016.pdf lu en entier: document tres au-dessus du niveau club (valuations p-adiques, Muirhead, Holder, theoreme de Hall, droite de Simson, Sylvester-Gallai). Un seul exercice retenu, 7338. Deux candidats laisses pour une seconde passe: Combinatoire groupe A (Pierre) exercice 2 (les k realisables pour n droites: k = 0, 1, n-1, n; preuve = Sylvester-Gallai par la distance minimale, Terminale 5 etoiles) et exercice 4 (n droites en position generale determinent au moins n-2 regions triangulaires).",
-  "A reprendre en seconde passe dans stage_ete_2007.pdf et stage_ete_2008.pdf: la muraille, les colles de geometrie du groupe C, les TPE du groupe C non encore depouilles, et la longue liste de geometrie de la seconde mi-temps 2008 (exercices 19 a 30)."
+  "A reprendre en seconde passe dans stage_ete_2007.pdf et stage_ete_2008.pdf: la muraille, les colles de geometrie du groupe C, les TPE du groupe C non encore depouilles, et la longue liste de geometrie de la seconde mi-temps 2008 (exercices 19 a 30).",
+  "Ferm\u00e9 le 2026-10-25 sans \u00eatre fini. Le reste de ce polycopi\u00e9 est repris par les unit\u00e9s list\u00e9es dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse o\u00f9 tous les outils sont connus). La liste skipped ci-dessus est p\u00e9rim\u00e9e : ces unit\u00e9s reprennent toutes les pages, y compris les exercices saut\u00e9s ici."
  ],
- "updated": "2026-09-20",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "stage_ete_2007.pdf",

@@ -1,0 +1,664 @@
+{
+  "unit": "p43-junior2014",
+  "source": "pofm",
+  "title": "POFM, stage_junior_2014 II. Exercices d’échauffement, III. Lundi : Test initial, IV. DÉBUTANTS, V. AVANCÉS",
+  "wave": 1,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "stage_junior_2014.pdf",
+      "local_copy": "sources/originals/pofm/stage_junior_2014.pdf",
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_junior_2014.pdf",
+      "pages": [
+        [
+          1,
+          90
+        ]
+      ],
+      "chapters": [
+        "II. Exercices d’échauffement",
+        "III. Lundi : Test initial",
+        "IV. DÉBUTANTS",
+        "V. AVANCÉS",
+        "VI. Vendredi : Test final"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-junior2014.txt",
+  "old_units": [
+    "junior-2013-2016"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 109,
+  "work_estimate": 67,
+  "id_block": [
+    "17801",
+    "18000"
+  ],
+  "status": "done",
+  "imported": [
+    "17801",
+    "17802",
+    "17803",
+    "17804",
+    "17805",
+    "17806",
+    "17807",
+    "17808",
+    "17809",
+    "17810",
+    "17811",
+    "17812",
+    "17813",
+    "17814",
+    "17815",
+    "17816",
+    "17817",
+    "17818",
+    "17819",
+    "17820",
+    "17821",
+    "17822",
+    "17823",
+    "17824",
+    "17825",
+    "17826",
+    "17827",
+    "17828",
+    "17829",
+    "17830",
+    "17831",
+    "17832",
+    "17833",
+    "17834",
+    "17835",
+    "17836",
+    "17837",
+    "17838"
+  ],
+  "grade_reasons": {
+    "17801": "racines carrées, produit √a·√b et identité (p+q)(p−q) = p²−q² : racines carrées et équations de ce type relèvent de la 2de, pas plus bas",
+    "17802": "théorème de l'angle inscrit expliqué en lemme dans la solution, triangles isocèles et médiatrice de 4e ; rien d'autre n'est nécessaire",
+    "17803": "angle inscrit expliqué en lemme, cercle de diamètre et triangle rectangle (4e), somme des angles du triangle",
+    "17804": "vecteurs, relation de Chasles et milieu en vecteurs : programme de 2de",
+    "17805": "construction par rotation (vue au cycle 4, expliquée dans la solution) et triangle isocèle d'angle 60° ; il faut voir l'image d'une droite par rotation, d'où la 3e plutôt que la 4e",
+    "17806": "cas d'égalité des triangles, symétrie axiale et somme des angles, tous connus en 4e ; les rotations de la solution source sont remplacées",
+    "17807": "angle inscrit expliqué en lemme, angle extérieur d'un triangle, triangle isocèle : 4e",
+    "17808": "triangle rectangle inscrit dans un cercle de diamètre l'hypoténuse, tangente perpendiculaire au rayon, triangles isocèles : 4e",
+    "17809": "cosinus dans le triangle rectangle et triangles semblables, Thalès et sa réciproque, cercle inscrit : 3e",
+    "17810": "angle inscrit et angle au centre expliqués en lemme, médiatrice, somme des angles : 4e",
+    "17811": "angle inscrit expliqué en lemme, angles correspondants et parallèles : outils de 4e ; trouver le point fixe est l'idée, d'où 4 étoiles",
+    "17812": "triangles semblables (3e) et aires multipliées par k² dans un agrandissement ; l'angle inscrit est expliqué en lemme",
+    "17813": "cercle de diamètre et triangle rectangle (4e), angle inscrit expliqué en lemme, angles correspondants",
+    "17814": "parallélogramme et diagonales, médiatrice d'une corde, concours des hauteurs : tout est connu en 4e",
+    "17815": "calcul littéral et mise en facteur (4e) ; la récurrence est expliquée comme un raisonnement de proche en proche",
+    "17816": "développement et mise en facteur (4e) ; récurrence expliquée de proche en proche",
+    "17817": "puissances d'exposant entier, produit a^m·a = a^(m+1), mise en facteur et équation du premier degré : 4e",
+    "17818": "puissances de 2, produit de facteurs et comparaison d'entiers : 4e ; récurrence expliquée de proche en proche",
+    "17819": "multiplier une inégalité par un nombre positif et manipuler des inégalités avec un réel x : inégalités vues en 2de",
+    "17820": "division euclidienne connue depuis l'école, cas à distinguer sur le reste : 4e ; récurrence expliquée de proche en proche",
+    "17821": "relier deux voisins de couleurs différentes puis recommencer : raisonnement de proche en proche, convexité ; rien au-delà de la 4e",
+    "17822": "Thalès dans les deux configurations (triangle et papillon) et triangles semblables : 3e ; l'homothétie de la solution publiée est remplacée par Thalès",
+    "17823": "cas d'égalité des triangles, triangle équilatéral, somme des angles : 4e ; la difficulté est de trouver le triangle équilatéral auxiliaire",
+    "17824": "symétrie axiale, translation (glisser la figure) et théorème des milieux : 4e",
+    "17825": "cercle de diamètre, tangente perpendiculaire au rayon, médiane d'un triangle rectangle, triangles isocèles : 4e ; pas besoin de l'angle inscrit",
+    "17826": "cercle de diamètre, angle extérieur d'un triangle isocèle, demi-triangle équilatéral, Pythagore et sa réciproque, aires : 4e ; la solution publiée utilise Al-Kashi et la puissance d'un point, évités ici",
+    "17827": "cas d'égalité des triangles et aire d'un triangle : 4e",
+    "17828": "principe multiplicatif, choisir 3 cartes parmi 4 et 2 parmi 4 par une liste : 4e, sans coefficient binomial",
+    "17829": "compter les côtés des faces de deux façons, formule d'Euler admise dans l'énoncé : 4e",
+    "17830": "compter des couples puis des triplets de deux façons, calcul littéral simple : 4e",
+    "17831": "somme des angles d'un triangle et double comptage des côtés : 4e",
+    "17832": "coefficient binomial défini dans l'énoncé comme un nombre de groupes, double comptage : 4e (cas 1 de la consigne)",
+    "17833": "principe multiplicatif pour n!, expliqué (n choix, puis n − 1, ...), double comptage des couples : 4e",
+    "17834": "double comptage de triplets et (x − y)² ≥ 0 obtenu par double distributivité : 4e, d'où 5 étoiles",
+    "17835": "décomposition en facteurs premiers et parité des exposants : 3e ; principe des tiroirs",
+    "17836": "principe des tiroirs (version infinie) et raisonnement de proche en proche, aucun outil de cours : 4e",
+    "17837": "Pythagore, x² ≤ x pour 0 ≤ x ≤ 1, longueurs sur un axe et principe des tiroirs : 4e",
+    "17838": "stratégie par symétrie centrale, aucun outil de cours : 4e"
+  },
+  "no_printed_solution": [],
+  "skipped": [
+    {
+      "where": "stage_junior_2014.pdf p.13, exercice 5 (échauffement)",
+      "why": "même problème (ab+bc+cd+da ≤ 4 quand a+b+c+d = 4) déjà présent",
+      "existing": "7024"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.19, exercice 1 (test initial)",
+      "why": "même problème (le pentagone, angle de 130°) déjà importé du même stage ; la feuille le marquait YOURS",
+      "existing": "7112"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.24, exercice 1 (Débutants, géométrie)",
+      "why": "même problème avec d'autres lettres (parallélogramme, point P intérieur, somme d'angles 180°)",
+      "existing": "7616"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.32, exercice 2 (Débutants, cours de translations)",
+      "why": "même problème (le pont sur la rivière)",
+      "existing": "1219"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.46, exercice 6 (Débutants, combinatoire)",
+      "why": "même problème (un multiple de n écrit avec des 0 et des 1) ; aussi imprimé dans stage_ete_2010.pdf p.17, exercice 1, deuxième partie",
+      "existing": "7718"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.49, exercice 3 (Débutants, récurrence)",
+      "why": "même problème (somme des cubes)",
+      "existing": "2811"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.49, exercice 4 (Débutants, récurrence)",
+      "why": "même problème (somme des n premiers impairs)",
+      "existing": "0158"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.49, exercice 5 (Débutants, récurrence)",
+      "why": "même problème (somme des inverses des carrés ≤ 2 − 1/n) ; c'est aussi la partie c de 0615",
+      "existing": "8722"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.49, exercice 7 (Débutants, récurrence)",
+      "why": "même problème (x + 1/x entier implique xⁿ + 1/xⁿ entier)",
+      "existing": "8210"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.50, exercice 11 (Débutants, récurrence)",
+      "why": "même problème (régions formées par n cercles coloriées en deux couleurs)",
+      "existing": "7077"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.52, exercice 2 (Débutants, cours de Budzinski)",
+      "why": "même problème (n points rouges et n points bleus reliés sans croisement)",
+      "existing": "7051"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.53, exercice 3 (Débutants, cours de Budzinski)",
+      "why": "même problème (nombre de régions découpées par n droites)",
+      "existing": "0328"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.53, exercice 4 (Débutants, cours de Budzinski)",
+      "why": "même problème (les pistolets à eau, nombre impair de personnes) ; 7624 et 8838 sont deux copies non reliées du même problème",
+      "existing": "7624"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.57, exercice 2 (Avancés, géométrie)",
+      "why": "même problème",
+      "existing": "13223"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.66, exercice 8 (Avancés, cours de Vincent Jugé, JBMO 2002 problème 2)",
+      "why": "même problème (PA + PB = 2PD, la corde brisée)",
+      "existing": "12021"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.67, exercice 1 (Avancés, double comptage, Jean-Louis Tu)",
+      "why": "même problème et même méthode (les 32 cartes)",
+      "existing": "0604"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.68, exercice 3 (Avancés, double comptage)",
+      "why": "même problème : c'est la première question de 7116 (le restaurant) ; la feuille le marquait YOURS",
+      "existing": "7116"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.70, exercice 12 (Avancés, double comptage)",
+      "why": "même problème",
+      "existing": "3014"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.70, exercice 1 (Avancés, principe des tiroirs, Margaret Bilu)",
+      "why": "même problème (le chat et la peinture), déjà importé de la p.44 du même stage",
+      "existing": "7716"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.70, exercice 2 (Avancés, principe des tiroirs)",
+      "why": "même problème (six personnes, trois qui se connaissent ou trois qui ne se connaissent pas)",
+      "existing": "0235"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.71, exercice 3 (Avancés, principe des tiroirs)",
+      "why": "même idée et même question avec 10 entiers au lieu de 11 ; rien de nouveau pour l'élève",
+      "existing": "8832"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.71, exercice 6 (Avancés, principe des tiroirs)",
+      "why": "première partie : NOT YOURS (stage_ete_2010.pdf p.17) ; deuxième partie : 8534 demande plus (des entiers consécutifs)",
+      "existing": "8534"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.72, exercice 11 (Avancés, principe des tiroirs)",
+      "why": "même problème (Erdős–Szekeres, suite de 101 entiers)",
+      "existing": "8864"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.83, exercice 1 (test final)",
+      "why": "même problème (somme télescopique), c'est une partie de 0615",
+      "existing": "0615"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.84, exercice 5 (test final)",
+      "why": "même problème",
+      "existing": "7443"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.39, exercice 6 (Débutants, angle inscrit, non traité en cours)",
+      "why": "question ouverte « comparer l'angle avec l'angle entre les deux cercles » : la notion d'angle de deux cercles n'est pas définie dans le cours, la réponse dépend de la figure et la solution imprimée tient en une ligne ; le résultat est résumé dans la partie « Going further » de 17810"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.71, exercice 8 (Avancés, principe des tiroirs)",
+      "why": "8471 demande plus (un rectangle de même couleur déjà dans une grille 3 × 7) ; la version du plan entier en découle directement",
+      "existing": "8471"
+    },
+    {
+      "where": "stage_junior_2014.pdf p.83, exercice 3 (test final, exercices communs)",
+      "why": "même problème (bissectrices prolongées jusqu'au cercle, (AD) ⊥ (EF))",
+      "existing": "10276"
+    }
+  ],
+  "regrade_suggestions": [
+    {
+      "id": "7024",
+      "from": 10,
+      "to": 9,
+      "why": "ab+bc+cd+da = (a+c)(b+d) puis (x+y)² ≥ 4xy : identités de 3e ; 7151 (grade 11) est le même problème à une autre année"
+    },
+    {
+      "id": "7112",
+      "from": 9,
+      "to": 8,
+      "why": "somme des angles d'un polygone et triangles isocèles, rien de 3e"
+    },
+    {
+      "id": "7616",
+      "from": 11,
+      "to": 9,
+      "why": "translation du point P (ou parallélogramme auxiliaire) et angle inscrit expliqué en lemme ; rien de 1re"
+    },
+    {
+      "id": "1219",
+      "from": 10,
+      "to": 8,
+      "why": "inégalité triangulaire après avoir déplacé le pont ; pas besoin des vecteurs, un parallélogramme suffit"
+    },
+    {
+      "id": "7718",
+      "from": 10,
+      "to": 8,
+      "why": "principe des tiroirs sur les restes de 1, 11, 111, ... ; restes connus en 4e"
+    },
+    {
+      "id": "2811",
+      "from": 12,
+      "to": 9,
+      "why": "une démonstration de proche en proche avec (a+b)² suffit, pas besoin de la récurrence de Terminale"
+    },
+    {
+      "id": "8722",
+      "from": 11,
+      "to": 9,
+      "why": "1/k² < 1/(k−1) − 1/k et somme télescopique ; 0615 fait déjà la même chose au grade 9"
+    },
+    {
+      "id": "8210",
+      "from": 11,
+      "to": 9,
+      "why": "(x + 1/x)(xⁿ + 1/xⁿ) = ... et raisonnement de proche en proche ; identités de 3e"
+    },
+    {
+      "id": "7077",
+      "from": 11,
+      "to": 8,
+      "why": "coloriage et raisonnement de proche en proche (on ajoute un cercle et on inverse les couleurs à l'intérieur)"
+    },
+    {
+      "id": "7051",
+      "from": 10,
+      "to": 8,
+      "why": "choisir la façon de relier de longueur totale minimale et l'inégalité triangulaire"
+    },
+    {
+      "id": "0328",
+      "from": 10,
+      "to": 8,
+      "why": "on ajoute les droites une à une et on compte les régions coupées, somme 1 + 2 + ... + n"
+    },
+    {
+      "id": "7624",
+      "from": 10,
+      "to": 8,
+      "why": "plus courte distance et principe des tiroirs, raisonnement de proche en proche ; 8838 (grade 11) est le même problème, non relié"
+    },
+    {
+      "id": "13223",
+      "from": 9,
+      "to": 8,
+      "why": "chasse aux angles seulement"
+    },
+    {
+      "id": "12021",
+      "from": 10,
+      "to": 8,
+      "why": "angle inscrit expliqué en lemme (sa solution le fait déjà), triangles égaux et Pythagore"
+    },
+    {
+      "id": "3014",
+      "from": 11,
+      "to": 9,
+      "why": "double comptage et calcul de base ; rien de 1re"
+    },
+    {
+      "id": "8832",
+      "from": 11,
+      "to": 9,
+      "why": "principe des tiroirs sur les sous-ensembles et les restes"
+    },
+    {
+      "id": "8534",
+      "from": 10,
+      "to": 8,
+      "why": "principe des tiroirs et restes"
+    },
+    {
+      "id": "8864",
+      "from": 12,
+      "to": 9,
+      "why": "Erdős–Szekeres par le principe des tiroirs, aucune notion de Terminale"
+    },
+    {
+      "id": "7443",
+      "from": 12,
+      "to": 9,
+      "why": "rien de Terminale dans la solution"
+    },
+    {
+      "id": "7142",
+      "from": 11,
+      "to": 8,
+      "why": "triangles équilatéraux et triangles égaux"
+    },
+    {
+      "id": "7743",
+      "from": 10,
+      "to": 8,
+      "why": "principe des tiroirs"
+    },
+    {
+      "id": "7258",
+      "from": 10,
+      "to": 8,
+      "why": "principe des tiroirs ; 7742 (grade 11) est le même problème, il faudrait en retirer un"
+    },
+    {
+      "id": "7742",
+      "from": 11,
+      "to": 8,
+      "why": "même problème que 7258"
+    },
+    {
+      "id": "7047",
+      "from": 10,
+      "to": 8,
+      "why": "argument du vol de stratégie, aucun outil de 2de"
+    },
+    {
+      "id": "7150",
+      "from": 11,
+      "to": 9,
+      "why": "le nombre de façons de choisir 3 objets parmi 9 se compte par 9 × 8 × 7 / 6"
+    },
+    {
+      "id": "7021",
+      "from": 10,
+      "to": 9,
+      "why": "tombe sur 7120, même problème"
+    },
+    {
+      "id": "8858",
+      "from": 11,
+      "to": 8,
+      "why": "tangente et bissectrice dans un triangle : angle entre tangente et corde (à expliquer comme l'angle inscrit) puis chasse aux angles ; aucun outil de 1re"
+    },
+    {
+      "id": "7440",
+      "from": 11,
+      "to": 9,
+      "why": "triangle équilatéral sur trois droites parallèles : construction par rotation de 60°, vue au cycle 4"
+    },
+    {
+      "id": "8321",
+      "from": 10,
+      "to": 8,
+      "why": "1 + 3 + ... + 3^2020 : multiplier par 3 et soustraire, avec les puissances de 4e"
+    },
+    {
+      "id": "8218",
+      "from": 11,
+      "to": 8,
+      "why": "2^n ≥ n se montre de proche en proche (doubler un entier positif l'augmente d'au moins 1) : rien au-delà de la 4e"
+    },
+    {
+      "id": "8916",
+      "from": 11,
+      "to": 8,
+      "why": "même configuration que 17825 (pieds des hauteurs, tangentes au cercle de diamètre) : se fait avec des triangles isocèles et la médiane du triangle rectangle, rien au-delà de la 4e"
+    },
+    {
+      "id": "7147",
+      "from": 11,
+      "to": 9,
+      "why": "médiane d'un triangle rectangle et alignement par Thalès (l'homothétie de la solution se remplace par Thalès) : 3e au plus"
+    },
+    {
+      "id": "7130",
+      "from": 11,
+      "to": 8,
+      "why": "double comptage de triplets (deux plats, un élève) avec des nombres : c'est l'exercice 8 de Tu (17830), rien au-delà de la 4e"
+    },
+    {
+      "id": "8471",
+      "from": 10,
+      "to": 8,
+      "why": "principe des tiroirs sur les colonnes, 3 × 2 étiquettes : rien de 2de"
+    },
+    {
+      "id": "10276",
+      "from": 10,
+      "to": 8,
+      "why": "angle inscrit rappelé comme lemme, angle extérieur et médiatrice : outils de 4e (cas 1 de la consigne)"
+    }
+  ],
+  "same_as_added": [
+    {
+      "id": "17828",
+      "other": "2409"
+    },
+    {
+      "id": "17832",
+      "other": "2404"
+    }
+  ],
+  "see_also_added": [
+    {
+      "id": "17805",
+      "other": "7440"
+    },
+    {
+      "id": "17808",
+      "other": "8858"
+    },
+    {
+      "id": "17809",
+      "other": "10038"
+    },
+    {
+      "id": "17809",
+      "other": "8132"
+    },
+    {
+      "id": "17811",
+      "other": "7257"
+    },
+    {
+      "id": "17815",
+      "other": "1801"
+    },
+    {
+      "id": "17817",
+      "other": "8321"
+    },
+    {
+      "id": "17818",
+      "other": "8218"
+    },
+    {
+      "id": "17823",
+      "other": "7524"
+    },
+    {
+      "id": "17825",
+      "other": "8916"
+    },
+    {
+      "id": "17828",
+      "other": "8301"
+    },
+    {
+      "id": "17829",
+      "other": "5612"
+    },
+    {
+      "id": "17829",
+      "other": "11225"
+    },
+    {
+      "id": "17830",
+      "other": "8867"
+    },
+    {
+      "id": "17830",
+      "other": "7130"
+    },
+    {
+      "id": "17833",
+      "other": "4019"
+    },
+    {
+      "id": "17833",
+      "other": "1201"
+    },
+    {
+      "id": "17835",
+      "other": "11401"
+    },
+    {
+      "id": "17807",
+      "other": "10276"
+    },
+    {
+      "id": "17821",
+      "other": "7051"
+    }
+  ],
+  "not_yours_but_different": [
+    {
+      "where": "stage_junior_2014.pdf p.69, exercice 8 (double comptage)",
+      "listed_owner": "p43-junior2014 (exercice 7, p.69)",
+      "id": "17830"
+    }
+  ],
+  "beyond_programme": [],
+  "source_errors": [
+    {
+      "where": "p.12-13, exercice 6 b) d'échauffement",
+      "what": "la solution ne garde que la racine positive 25/24 ; l'équation a aussi une racine négative, environ −1,739 (17801 limite la question aux x positifs et le signale)"
+    },
+    {
+      "where": "p.25, Débutants, solution de l'exercice 2",
+      "what": "la solution écrit (AQ) là où il faut (EQ)"
+    },
+    {
+      "where": "p.26, Débutants, géométrie, énoncé de l'exercice 3",
+      "what": "les deux points d'intersection sont appelés F tous les deux ; le premier devrait s'appeler E (la conclusion parle de [EF])"
+    },
+    {
+      "where": "p.43, Débutants, solution de l'exercice 9",
+      "what": "la solution conclut « (C'A') est parallèle à (AB) » au lieu de (BD)"
+    },
+    {
+      "where": "p.49, Débutants, énoncé de l'exercice 6",
+      "what": "la condition x ≠ 1 manque dans l'énoncé (la solution l'ajoute)"
+    },
+    {
+      "where": "p.51, Débutants, solution de l'exercice 10",
+      "what": "la propriété P(a) est écrite avec 0 ≤ r ≤ b au lieu de 0 ≤ r < b"
+    },
+    {
+      "where": "p.58, Avancés, énoncé de l'exercice 4",
+      "what": "l'énoncé demande l'alignement de « M, D et I » alors que le point défini est J, centre du cercle exinscrit ; la figure de la solution (p.59) appelle aussi ce centre I"
+    },
+    {
+      "where": "p.61, Avancés (Vincent Jugé), solution de l'exercice 1",
+      "what": "« le triangle ABC est donc équilatéral » au lieu de ABE, et « BCD » au lieu de BDC dans la dernière ligne"
+    },
+    {
+      "where": "p.63, Avancés (Vincent Jugé), solution de l'exercice 4",
+      "what": "texte en partie illisible : phrases coupées et mélangées (« notons que Il s'ensuit que »), et l'argument qui conclut P = O est difficile à suivre ; solution réécrite avec le milieu de [CH]"
+    },
+    {
+      "where": "p.64, Avancés (Vincent Jugé), solution de l'exercice 6",
+      "what": "« inscriptible, dans un cercle C de rayon [AC] » au lieu de « de diamètre [AC] »"
+    },
+    {
+      "where": "p.13 et p.17, exercice d'échauffement 7 (déjà importé, 7122)",
+      "what": "la solution écrit NP/CP = AM/SC et « par hypothèse AM = MN » au lieu de AN/SC et AN = NM (N est le milieu de [AM]), puis SQ = ½AB au lieu de CQ = ½AB"
+    },
+    {
+      "where": "p.57, Avancés, énoncé de l'exercice 3",
+      "what": "« Γ touche [BC] en I, et Γ touche [BC] en J » : le second cercle doit être Γ_A, le cercle exinscrit"
+    },
+    {
+      "where": "p.71, Avancés (Margaret Bilu), énoncé de l'exercice 6.1",
+      "what": "« il y en a toujours deux divisibles par n » : il manque « dont la différence est » (la solution le montre bien)"
+    },
+    {
+      "where": "p.73, Avancés (Margaret Bilu), solution de l'exercice 7",
+      "what": "i varie dans {0, …, 17} au lieu de {0, …, 16}, et le chiffre 0, qui n'a pas de décomposition en facteurs premiers, n'est pas traité (cas immédiat)"
+    },
+    {
+      "where": "p.73, Avancés (Margaret Bilu), seconde solution de l'exercice 8",
+      "what": "« parmi les 5 droites verticales » au lieu de « horizontales »"
+    },
+    {
+      "where": "p.74, Avancés (Margaret Bilu), solution de l'exercice 10",
+      "what": "« quitte à faire une rotation » : il suffit d'échanger les deux axes (une rotation changerait le repère) ; le fait que des projections disjointes laissent des trous n'est pas dit"
+    },
+    {
+      "where": "p.72 et p.74, Avancés (Margaret Bilu), exercice 11",
+      "what": "l'énoncé dit « effacer 90 ... les 10 restants » alors que 101 − 90 = 11 et que la solution montre 11 ; la solution imprime « 102 < 101 » pour 10² = 100 < 101"
+    }
+  ],
+  "notes": [
+    "17805 demande plus que 7440 (trois droites quelconques contre trois droites parallèles)",
+    "17809 demande plus que 10038 et 8132 (les angles du triangle orthique, plus la question du parallélisme)",
+    "7258 et 7742 semblent être le même problème (même stage, deux fichiers), ainsi que 7624 et 8838 : à vérifier",
+    "5904 demande plus que 7077",
+    "17817 demande plus que 8321 (formule générale, 8321 est le cas x = 3)",
+    "17818 demande plus que 8218 (2^n > n, plus n! > 2^n)",
+    "17814 inclut la partie utile du théorème 17 du cours (définition de l'anticentre, p.41) pour que l'exercice 10 se suffise à lui-même",
+    "17829 réunit les exercices 5 et 6 de Tu (p.68-69), même méthode avec deux nombres de faces",
+    "17830 réunit les exercices 7 et 8 de Tu (p.69) ; la feuille marquait l'exercice 8 NOT YOURS comme copie de l'exercice 7, mais ce sont deux questions différentes",
+    "17825 et 8916 reposent sur le même fait (les tangentes au cercle de diamètre [AB] aux pieds des hauteurs se coupent au milieu de [CH]) mais posent des questions différentes : liés par see_also, à revoir si l'on veut les traiter comme un même problème",
+    "17823 n'est pas une copie de 7524 (triangle d'angle 100°, autre question), mais c'est la même idée du triangle équilatéral auxiliaire : see_also",
+    "8840 (grade 10) et 8341 (grade 11) semblent être le même problème (relier des points sans croisement) : à vérifier",
+    "7945 (grade 9) et 8142 (grade 10) semblent être le même problème (sept nombres de somme cent) : à vérifier",
+    "7509 (grade 9) et 8462 (grade 10) semblent être le même problème (des 4, des 8 et un carré parfait) : à vérifier",
+    "les tags coefficients-binomiaux et coefficient-binomial veulent dire la même chose",
+    "17807 et 10276 : même configuration (bissectrices prolongées jusqu'au cercle circonscrit) ; le « Going further » de 17807 énonce le résultat de 10276"
+  ],
+  "next_page": "",
+  "updated": "2026-10-25"
+}

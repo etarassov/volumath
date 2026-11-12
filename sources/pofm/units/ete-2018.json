@@ -6,7 +6,15 @@
     "8101",
     "8200"
   ],
-  "status": "in_progress",
+  "status": "closed",
+  "superseded_by": [
+    "p43-ete2018-1",
+    "p43-ete2018-2",
+    "p43-ete2018-3",
+    "p43-ete2018-4",
+    "p43-ete2018-5",
+    "p43-ete2018-6"
+  ],
   "files_total": 1,
   "next_file": "stage_ete_2018.pdf : reprendre au chapitre V Groupe C, section 4 « Geometrie » (cours sur l'angle inscrit et le pole sud, transformations, milieux et parallelogrammes), puis chapitre VI Groupe D section 3 « Combinatoire », cours « Geometrie combinatoire », exercices 3 a 11. Le reste du Groupe D est de niveau liste courte IMO et n'a rien donne.",
   "imported": [
@@ -288,9 +296,10 @@
     "Renvois croises poses : 8152 -> 0835, 8177 -> 0184.",
     "Reste a lire : Groupe B p.141-168 (fin de la geometrie, Thue-Morse, les deux tests), Groupe C p.169-270 sauf la combinatoire section 1 (theorie des jeux) et section 2 (monovariants et invariants), toutes deux entierement depouillees ; Groupe D p.271-380 ; Soirees p.404-406 (conference « Angles, coins et caracteristique d'Euler »).",
     "Les exercices 8180 a 8184 viennent tous du cours « Monovariants et invariants » du Groupe C. Verifications faites par ordinateur : 8180 (la diagonale de 8 cases embrase bien les 64 cases, le perimetre n'a augmente dans aucun des 4000 essais aleatoires, aucun depart a 7 cases n'embrase tout) ; 8182 (l'invariant des colonnes 3 et 6 est bien orthogonal aux 61 coups, codimension 12) ; 8184 (les cinq positions atteignables sont exactement (2,2), (2,4), (3,3), (4,2), (4,4) ; les deux motifs d'appuis a 11 cases sont verifies).",
-    "Les exercices 8185 a 8189 viennent du Groupe C (arithmetique « Exercices divers » ex. 3, test final ex. 1 et ex. 4, algebre « Equations fonctionnelles » ex. 5) et du Groupe D (combinatoire, « Geometrie combinatoire » ex. 2). Verifications par ordinateur : 8185 (aucune solution autre que (0,0,0) pour |x|,|y|,|z| <= 40) ; 8186 (n = 6 est bien le plus petit) ; 8188 (le minimum 2n-4 verifie par force brute pour n = 3, 4, 5, 6, et les configurations effacables sont bien au nombre de 2^(2n-1))."
+    "Les exercices 8185 a 8189 viennent du Groupe C (arithmetique « Exercices divers » ex. 3, test final ex. 1 et ex. 4, algebre « Equations fonctionnelles » ex. 5) et du Groupe D (combinatoire, « Geometrie combinatoire » ex. 2). Verifications par ordinateur : 8185 (aucune solution autre que (0,0,0) pour |x|,|y|,|z| <= 40) ; 8186 (n = 6 est bien le plus petit) ; 8188 (le minimum 2n-4 verifie par force brute pour n = 3, 4, 5, 6, et les configurations effacables sont bien au nombre de 2^(2n-1)).",
+    "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
   ],
-  "updated": "2026-10-02",
+  "updated": "2026-10-25",
   "files": [
     {
       "file": "stage_ete_2018.pdf",

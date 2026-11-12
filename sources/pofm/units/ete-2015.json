@@ -6,7 +6,14 @@
   "7801",
   "7900"
  ],
- "status": "in_progress",
+ "status": "closed",
+ "superseded_by": [
+  "p43-ete2015-1",
+  "p43-ete2015-2",
+  "p43-ete2015-3",
+  "p43-ete2015-4",
+  "p43-ete2015-5"
+ ],
  "files_total": 1,
  "next_file": 0,
  "imported": [
@@ -176,9 +183,10 @@
   "7848 : Retiré le 2026-09-30 : même problème que 7717 (grade-10/combinatorics/4/7717-fifty-one-points-in-a-unit-square.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER.",
   "7849 : Retiré le 2026-09-30 : même problème que 8256 (grade-10/combinatorics/4/8256-two-groups-with-the-same-sum.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER.",
   "7859 : Retiré le 2026-09-30 : même problème que 8326 (grade-10/arithmetic/3/8326-three-a-squared-equals-b-squared-plus-one.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER.",
-  "7860 : Retiré le 2026-09-30 : même problème que 8128 (grade-10/algebra/3/8128-two-n-plus-one-numbers-all-positive.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER."
+  "7860 : Retiré le 2026-09-30 : même problème que 8128 (grade-10/algebra/3/8128-two-n-plus-one-numbers-all-positive.md), au même niveau. Doublon repéré lors de l'arbitrage des doublons qui a suivi l'import POFM. NE JAMAIS RÉATTRIBUER.",
+  "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "stage_ete_2015.pdf",

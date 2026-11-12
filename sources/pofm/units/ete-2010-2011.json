@@ -6,7 +6,15 @@
   "7401",
   "7500"
  ],
- "status": "in_progress",
+ "status": "closed",
+ "superseded_by": [
+  "p43-ete2010-1",
+  "p43-ete2010-2",
+  "p43-ete2011-1",
+  "p43-ete2011-2",
+  "p43-ete2011-3",
+  "p43-ete2011-4"
+ ],
  "files_total": 2,
  "next_file": 1,
  "imported": [
@@ -117,9 +125,10 @@
   "Deux doublons reperes dans la base, hors de mon bloc, signales sans y toucher : 8131 et 8231 sont le meme probleme (angle OAB = angle HAC, tous deux grade 11 geometrie) ; 8736 et 8837 portent le meme titre 'A triangle with nothing on its sides' (tous deux grade 11 geometrie 4).",
   "Faux positif du verificateur : 'vm.py check' signale 8712 et 7438 comme doublon possible sur le titre ; ce sont deux problemes differents, aucun lien a poser.",
   "Reprise : dans stage_ete_2011.pdf, second TD de geometrie, les exercices 4 (droite de Simson), 5 (angle JIK droit) et 7 (theoreme de Napoleon) sont selectionnes et non ecrits. Dans stage_ete_2010.pdf, le TD de geometrie (exercices 2, 3, 6, 7) et le test de geometrie (exercices 1 et 2) restent a traiter, ainsi que tous les cours de groupe B, C et D des deux annees.",
-  "Le stage d'ete 2009 manque a l'archive (lien mort), il n'y a donc rien a chercher entre 2008 et 2010."
+  "Le stage d'ete 2009 manque a l'archive (lien mort), il n'y a donc rien a chercher entre 2008 et 2010.",
+  "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "stage_ete_2010.pdf",

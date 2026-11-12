@@ -1,0 +1,53 @@
+{
+  "unit": "p43-junior2015",
+  "source": "pofm",
+  "title": "POFM, stage_junior_2015 II. Exercices d’échauffement, III. Lundi : Test initial, IV. Débutants, V. AVANCÉS",
+  "wave": 1,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "stage_junior_2015.pdf",
+      "local_copy": "sources/originals/pofm/stage_junior_2015.pdf",
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_junior_2015.pdf",
+      "pages": [
+        [
+          1,
+          89
+        ]
+      ],
+      "chapters": [
+        "II. Exercices d’échauffement",
+        "III. Lundi : Test initial",
+        "IV. Débutants",
+        "V. AVANCÉS",
+        "VI. Vendredi : Test final"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-junior2015.txt",
+  "old_units": [
+    "junior-2013-2016"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 128,
+  "work_estimate": 104,
+  "id_block": [
+    "18401",
+    "18600"
+  ],
+  "status": "pending",
+  "imported": [],
+  "grade_reasons": {},
+  "no_printed_solution": [],
+  "skipped": [],
+  "regrade_suggestions": [],
+  "same_as_added": [],
+  "see_also_added": [],
+  "not_yours_but_different": [],
+  "beyond_programme": [],
+  "source_errors": [],
+  "notes": [],
+  "next_page": "",
+  "updated": ""
+}

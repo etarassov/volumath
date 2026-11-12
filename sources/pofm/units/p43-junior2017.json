@@ -1,0 +1,52 @@
+{
+  "unit": "p43-junior2017",
+  "source": "pofm",
+  "title": "POFM, Poly-CJ-17 II. Première journée, III. Débutants, IV. Avancés, V. Dernier jour : test final",
+  "wave": 1,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "Poly-CJ-17.pdf",
+      "local_copy": "sources/originals/pofm/Poly-CJ-17.pdf",
+      "url": "http://igm.univ-mlv.fr/~juge/pofm/doc/Poly-CJ-17.pdf",
+      "pages": [
+        [
+          1,
+          95
+        ]
+      ],
+      "chapters": [
+        "II. Première journée",
+        "III. Débutants",
+        "IV. Avancés",
+        "V. Dernier jour : test final"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-junior2017.txt",
+  "old_units": [
+    "junior-2017-2024"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 161,
+  "work_estimate": 118,
+  "id_block": [
+    "19001",
+    "19200"
+  ],
+  "status": "pending",
+  "imported": [],
+  "grade_reasons": {},
+  "no_printed_solution": [],
+  "skipped": [],
+  "regrade_suggestions": [],
+  "same_as_added": [],
+  "see_also_added": [],
+  "not_yours_but_different": [],
+  "beyond_programme": [],
+  "source_errors": [],
+  "notes": [],
+  "next_page": "",
+  "updated": ""
+}

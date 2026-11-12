@@ -39,7 +39,9 @@ A unit file looks like this:
 }
 ```
 
-`status` is one of `pending`, `in_progress`, `done`, `blocked`. `id_block` is the range of
+`status` is one of `pending`, `in_progress`, `done`, `blocked`, `closed`. `closed` means the
+unit stopped before the end and handed its remaining work to the units named in its
+`superseded_by` list. `id_block` is the range of
 exercise numbers reserved for that unit, so parallel writers never collide.
 
 See the current state with:

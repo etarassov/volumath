@@ -1,0 +1,87 @@
+{
+  "unit": "p43-junior2009-junior2010-fev2016",
+  "source": "pofm",
+  "title": "POFM, stage_junior_2009 V. EXPRESSIONS ALGÉBRIQUES, VI. EQUATIONS FONCTIONNELLES, VIII. Partie entière et valeur, VIII. PARTIE ENTIÈRE ET VALEUR ABSOLUE; sta",
+  "wave": 1,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "stage_junior_2009.pdf",
+      "local_copy": "sources/originals/pofm/stage_junior_2009.pdf",
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_junior_2009.pdf",
+      "pages": [
+        [
+          1,
+          55
+        ]
+      ],
+      "chapters": [
+        "V. EXPRESSIONS ALGÉBRIQUES",
+        "VI. EQUATIONS FONCTIONNELLES",
+        "VIII. Partie entière et valeur",
+        "VIII. PARTIE ENTIÈRE ET VALEUR ABSOLUE"
+      ]
+    },
+    {
+      "file": "stage_junior_2010.pdf",
+      "local_copy": "sources/originals/pofm/stage_junior_2010.pdf",
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_junior_2010.pdf",
+      "pages": [
+        [
+          1,
+          56
+        ]
+      ],
+      "chapters": [
+        "B. DÉROULEMENT DU STAGE",
+        "C. LUNDI 25 OCTOBRE (GÉOMÉTRIE)",
+        "D. MARDI 26 OCTOBRE (GÉOMÉTRIE)",
+        "E. MERCREDI 27 OCTOBRE (GÉOMÉTRIE)",
+        "F. JEUDI 28 OCTOBRE (ALGÈBRE)"
+      ]
+    },
+    {
+      "file": "stage_fev_2016.pdf",
+      "local_copy": "sources/originals/pofm/stage_fev_2016.pdf",
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_fev_2016.pdf",
+      "pages": [
+        [
+          1,
+          52
+        ]
+      ],
+      "chapters": [
+        "DÉROULEMENT DU STAGE",
+        "COURS DU GROUPE A (AVANCÉS)",
+        "COURS DU GROUPE B (DÉBUTANTS)"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-junior2009-junior2010-fev2016.txt",
+  "old_units": [
+    "ete-2007-2008",
+    "junior-2009-2012"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 159,
+  "work_estimate": 128,
+  "id_block": [
+    "15201",
+    "15400"
+  ],
+  "status": "pending",
+  "imported": [],
+  "grade_reasons": {},
+  "no_printed_solution": [],
+  "skipped": [],
+  "regrade_suggestions": [],
+  "same_as_added": [],
+  "see_also_added": [],
+  "not_yours_but_different": [],
+  "beyond_programme": [],
+  "source_errors": [],
+  "notes": [],
+  "next_page": "",
+  "updated": ""
+}

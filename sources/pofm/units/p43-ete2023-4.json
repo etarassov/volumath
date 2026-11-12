@@ -1,0 +1,50 @@
+{
+  "unit": "p43-ete2023-4",
+  "source": "pofm",
+  "title": "POFM, valbonne-2023 Groupe C, Groupe D",
+  "wave": 2,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "valbonne-2023.pdf",
+      "local_copy": "sources/originals/pofm/valbonne-2023.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/12/valbonne-2023.pdf",
+      "pages": [
+        [
+          310,
+          399
+        ]
+      ],
+      "chapters": [
+        "Groupe C",
+        "Groupe D"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-ete2023-4.txt",
+  "old_units": [
+    "ete-2023"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 135,
+  "work_estimate": 94,
+  "id_block": [
+    "31601",
+    "31800"
+  ],
+  "status": "pending",
+  "imported": [],
+  "grade_reasons": {},
+  "no_printed_solution": [],
+  "skipped": [],
+  "regrade_suggestions": [],
+  "same_as_added": [],
+  "see_also_added": [],
+  "not_yours_but_different": [],
+  "beyond_programme": [],
+  "source_errors": [],
+  "notes": [],
+  "next_page": "",
+  "updated": ""
+}

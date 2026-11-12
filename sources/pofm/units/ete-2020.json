@@ -6,7 +6,13 @@
     "8301",
     "8400"
   ],
-  "status": "in_progress",
+  "status": "closed",
+  "superseded_by": [
+    "p43-ete2020-1",
+    "p43-ete2020-2",
+    "p43-ete2020-3",
+    "p43-ete2020-4"
+  ],
   "files_total": 1,
   "next_file": "Polycopie-Valbonne-2020-v2.pdf",
   "imported": [
@@ -154,9 +160,10 @@
   "notes": [
     "Coupe Animath de printemps 2020 (p. 15-38) depouillee entierement : 17 enonces, 4 doublons internes college/lycee, 12 importes, 1 saute.",
     "Le corrige publie de l'exercice 17 decrit une construction qui contredit sa propre figure ; la figure est juste, le texte non. Construction verifiee et reecrite dans 8312.",
-    "8344, 8345 : écrits par cette unité (Polycopie-Valbonne-2020-v2.pdf, Groupe A, entraînement de mi-parcours, exercices 3 et 1) mais jamais inscrits ici. Ajoutés le 2026-09-30 lors de la vérification des registres."
+    "8344, 8345 : écrits par cette unité (Polycopie-Valbonne-2020-v2.pdf, Groupe A, entraînement de mi-parcours, exercices 3 et 1) mais jamais inscrits ici. Ajoutés le 2026-09-30 lors de la vérification des registres.",
+    "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
   ],
-  "updated": "2026-10-02",
+  "updated": "2026-10-25",
   "files": [
     {
       "file": "Polycopie-Valbonne-2020-v2.pdf",

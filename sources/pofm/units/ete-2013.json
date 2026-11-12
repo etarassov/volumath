@@ -6,7 +6,14 @@
   "7601",
   "7700"
  ],
- "status": "in_progress",
+ "status": "closed",
+ "superseded_by": [
+  "p43-ete2013-1",
+  "p43-ete2013-2",
+  "p43-ete2013-3",
+  "p43-ete2013-4",
+  "p43-ete2013-5"
+ ],
  "files_total": 1,
  "next_file": 0,
  "imported": [
@@ -130,9 +137,10 @@
   "Le polycopie 2013 ne contient pas de Coupe Animath ; l'equivalent accessible est le test de selection du 4 juin 2013.",
   "Deux erreurs de source confirmees et corrigees dans les fichiers concernes : (1) le TD d'algebre du groupe A (chap. III) annonce 32 coloriages d'un cube a six couleurs, la bonne reponse est 720/24 = 30 -> voir 7660 ; (2) le corrige de la Muraille ex. 57 donne a = 10^1111111111127, l'exposant correct est 1111111111126 -> voir 7673. Deux coquilles typographiques signalees en passant : test de fin de parcours groupe A ex. 4, 16z^2 et 4z^2 pour 16z^3 et 4z^3 (voir 7615) ; corrige Muraille ex. 52, A_1 et A_n pour A_0 et A_{n-1} (voir 7670).",
   "Reste a lire pour une seconde passe : chapitre V (troisieme periode) cours et TD de geometrie des groupes A et B, chapitre VI (quatrieme periode) cours d'arithmetique des groupes A et B, et les exercices 69 a 127 de La Muraille. Le reste du document (groupes C et D) est hors portee club.",
-  "Taux de recoupement tres eleve avec le reste de la base : sur les 65 exercices ecrits, une quinzaine ont un jumeau ecrit par un autre agent pendant l'import parallele. Tous les fichiers sont conserves conformement a la regle ; la liste des paires figure dans le rapport final."
+  "Taux de recoupement tres eleve avec le reste de la base : sur les 65 exercices ecrits, une quinzaine ont un jumeau ecrit par un autre agent pendant l'import parallele. Tous les fichiers sont conserves conformement a la regle ; la liste des paires figure dans le rapport final.",
+  "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
  ],
- "updated": "2026-10-02",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "stage_ete_2013.pdf",

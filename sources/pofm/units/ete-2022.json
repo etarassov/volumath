@@ -6,7 +6,14 @@
   "8501",
   "8600"
  ],
- "status": "in_progress",
+ "status": "closed",
+ "superseded_by": [
+  "p43-ete2022-1",
+  "p43-ete2022-2",
+  "p43-ete2022-3",
+  "p43-ete2022-4",
+  "p43-ete2022-5"
+ ],
  "files_total": 1,
  "next_file": 0,
  "imported": [
@@ -606,9 +613,10 @@
   "Enonce du polycopie precise dans 8557 : la conclusion correcte est « au plus une personne de son groupe », le raisonnement de minimisation ne donne pas « exactement une ».",
   "Enonce du polycopie precise dans 8559 : l'hypothese « trois points jamais alignes » est necessaire pour que l'inegalite triangulaire soit stricte.",
   "Doublons a arbitrer par le coordinateur, aucun fichier n'a ete supprime : 8512 / 8209 (meme dossier, meme titre), 8540 / 8220 (meme dossier), 8527 / 7217 (meme dossier), 8580 / 8630 (meme dossier), 8535 / 7229 et 8828 (meme niveau), 8551 / 1217, 7718 et 7847 (meme dossier).",
-  "Liens see_also poses depuis mes fichiers : 8512->8209, 8522->8628, 8539->0554, 8545->8430, 8551->1217, 8569->5220, 8571->8843, 8575->7232 et 8834, 8584->4601."
+  "Liens see_also poses depuis mes fichiers : 8512->8209, 8522->8628, 8539->0554, 8545->8430, 8551->1217, 8569->5220, 8571->8843, 8575->7232 et 8834, 8584->4601.",
+  "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
  ],
- "updated": "2026-10-02",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "Poly_Valbonne_2022-Corrigé-1.pdf",

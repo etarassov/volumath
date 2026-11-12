@@ -1,0 +1,54 @@
+{
+  "unit": "p43-ete2011-2",
+  "source": "pofm",
+  "title": "POFM, stage_ete_2011 III. PREMIÈRE PÉRIODE, IV. SECONDE PÉRIODE",
+  "wave": 2,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "stage_ete_2011.pdf",
+      "local_copy": "sources/originals/pofm/stage_ete_2011.pdf",
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_ete_2011.pdf",
+      "pages": [
+        [
+          31,
+          62
+        ],
+        [
+          69,
+          88
+        ]
+      ],
+      "chapters": [
+        "III. PREMIÈRE PÉRIODE",
+        "IV. SECONDE PÉRIODE"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-ete2011-2.txt",
+  "old_units": [
+    "ete-2010-2011"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 84,
+  "work_estimate": 66,
+  "id_block": [
+    "24601",
+    "24800"
+  ],
+  "status": "pending",
+  "imported": [],
+  "grade_reasons": {},
+  "no_printed_solution": [],
+  "skipped": [],
+  "regrade_suggestions": [],
+  "same_as_added": [],
+  "see_also_added": [],
+  "not_yours_but_different": [],
+  "beyond_programme": [],
+  "source_errors": [],
+  "notes": [],
+  "next_page": "",
+  "updated": ""
+}

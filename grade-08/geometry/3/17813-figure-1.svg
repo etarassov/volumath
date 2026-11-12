@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 378 328" width="378" height="328">
+  <circle cx="164.0" cy="164.0" r="120" fill="none" stroke="#000000" stroke-width="1.3"/>
+  <polygon points="126.9,49.9 83.7,253.2 253.2,244.3 281.4,188.9" fill="none" stroke="#000000" stroke-width="1.4"/>
+  <line x1="281.4" y1="188.9" x2="334.8" y2="84.0" stroke="#000000" stroke-width="1.4"/>
+  <line x1="126.9" y1="49.9" x2="346.5" y2="96.5" stroke="#555555" stroke-width="1.1"/>
+  <line x1="253.2" y1="244.3" x2="79.3" y2="155.7" stroke="#555555" stroke-width="1.1"/>
+  <polyline points="125.1,58.5 133.7,60.3 135.5,51.7" fill="none" stroke="#000000" stroke-width="1"/>
+  <polyline points="257.2,236.5 249.3,232.5 245.3,240.3" fill="none" stroke="#000000" stroke-width="1"/>
+  <circle cx="126.9" cy="49.9" r="3" fill="#000000"/>
+  <text x="120.9" y="39.9" font-family="Helvetica, Arial, sans-serif" font-size="14">A</text>
+  <circle cx="83.7" cy="253.2" r="3" fill="#000000"/>
+  <text x="67.7" y="263.2" font-family="Helvetica, Arial, sans-serif" font-size="14">B</text>
+  <circle cx="253.2" cy="244.3" r="3" fill="#000000"/>
+  <text x="249.2" y="262.3" font-family="Helvetica, Arial, sans-serif" font-size="14">C</text>
+  <circle cx="281.4" cy="188.9" r="3" fill="#000000"/>
+  <text x="289.4" y="192.9" font-family="Helvetica, Arial, sans-serif" font-size="14">D</text>
+  <circle cx="330.2" cy="93.1" r="3" fill="#000000"/>
+  <text x="338.2" y="89.1" font-family="Helvetica, Arial, sans-serif" font-size="14">A′</text>
+  <circle cx="102.0" cy="167.3" r="3" fill="#000000"/>
+  <text x="78.0" y="183.3" font-family="Helvetica, Arial, sans-serif" font-size="14">C′</text>
+</svg>

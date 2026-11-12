@@ -1,0 +1,50 @@
+{
+  "unit": "p43-ete2025-1",
+  "source": "pofm",
+  "title": "POFM, Poly-2025-compresse Coupe Animath de printemps 2025, Groupe A",
+  "wave": 1,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "Poly-2025-compresse.pdf",
+      "local_copy": "sources/originals/pofm/Poly-2025-compresse.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2025/09/Poly-2025-compresse.pdf",
+      "pages": [
+        [
+          1,
+          123
+        ]
+      ],
+      "chapters": [
+        "Coupe Animath de printemps 2025",
+        "Groupe A"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-ete2025-1.txt",
+  "old_units": [
+    "ete-2025"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 167,
+  "work_estimate": 90,
+  "id_block": [
+    "23201",
+    "23400"
+  ],
+  "status": "pending",
+  "imported": [],
+  "grade_reasons": {},
+  "no_printed_solution": [],
+  "skipped": [],
+  "regrade_suggestions": [],
+  "same_as_added": [],
+  "see_also_added": [],
+  "not_yours_but_different": [],
+  "beyond_programme": [],
+  "source_errors": [],
+  "notes": [],
+  "next_page": "",
+  "updated": ""
+}

@@ -6,7 +6,14 @@
   "8401",
   "8500"
  ],
- "status": "in_progress",
+ "status": "closed",
+ "superseded_by": [
+  "p43-ete2021-1",
+  "p43-ete2021-2",
+  "p43-ete2021-3",
+  "p43-ete2021-4",
+  "p43-ete2021-5"
+ ],
  "files_total": 1,
  "next_file": 0,
  "imported": [
@@ -227,9 +234,10 @@
   "Groupe C : entrainement de mi-parcours p. 216-217 (8472), entrainement de fin de parcours p. 249-251 (8473), Double comptage p. 188-193 (8474-8476). Groupe B, Equations fonctionnelles p. 100-112 : les exercices marques (F) et (F-M) ont donne 8477-8479.",
   "ERREURS DE SOURCE trouvees : (a) Equations diophantiennes ex. 9, le corrige conclut n=2 et ecrit '5^2+4=9' : faux, la bonne reponse est n=1, publiee dans 8465 ; (b) Muraille ex. 23 demande la valeur minimale alors que le corrige calcule le maximum 1/2, le minimum vaut -1/2, les deux sont dans 8461 ; (c) Equations diophantiennes ex. 12, la preuve modulo 11 est invalide ; (d) Invariants ex. 16 enonce 'exactement un ami dans son groupe', ce qui est faux (K_{3,3} est un contre-exemple), la version correcte 'au plus un' est deja dans la base sous 8557.",
   "Doublons reperes avec d'autres blocs (NE PAS supprimer, cross-links poses) : 8414/8537, 8417/8517, 8425/8716, 8428/8727, 8430/8545, 8432/7431, 8449/8858 (grades differents), 8462/7509 et 8462/7626 ; MEME DOSSIER, a arbitrer par le coordinateur : 8440/8217 (grade-11/algebra/4), 8459/8550 (grade-09/combinatorics/3), 8429/7859/8326/8661 (grade-10/arithmetic/3), 8475/8870 (grade-11/combinatorics/5).",
-  "Reste a depouiller : Groupe B geometrie p. 80-99 (pages TikZ sans couche de texte, necessite pdftoppm), Equations fonctionnelles p. 100-112 exercices (M) et (D), TD Configurations p. 113-115, Groupe C p. 194-248 et 252-270, Groupe D p. 271-388, Muraille niveaux 2 et 3 (p. 395-426). Ids encore libres dans le bloc : 8480-8500."
+  "Reste a depouiller : Groupe B geometrie p. 80-99 (pages TikZ sans couche de texte, necessite pdftoppm), Equations fonctionnelles p. 100-112 exercices (M) et (D), TD Configurations p. 113-115, Groupe C p. 194-248 et 252-270, Groupe D p. 271-388, Muraille niveaux 2 et 3 (p. 395-426). Ids encore libres dans le bloc : 8480-8500.",
+  "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "Poly-2021-Valbonne.pdf",

@@ -6,7 +6,12 @@
   "8001",
   "8100"
  ],
- "status": "in_progress",
+ "status": "closed",
+ "superseded_by": [
+  "p43-ete2017-1",
+  "p43-ete2017-2",
+  "p43-ete2017-3"
+ ],
  "files_total": 1,
  "next_file": 0,
  "imported": [
@@ -187,9 +192,10 @@
   "Erreur de source repérée : « la muraille » exercice 99, le coloriage proposé (diagonales i + j prises deux par deux modulo 2017) ne convient pas. Au bord, la case de la première colonne dont la diagonale vaut s+1 a au-dessus d'elle une case de diagonale s et, tout à droite de sa ligne, une autre case de diagonale s : c'est exactement la configuration interdite. Vérifié par ordinateur pour n = 5, 7, 9, 11, 13. La borne inférieure du corrigé reste juste (et se resserre : toute classe de couleur a au plus 2n − 1 cases, d'où N >= 1009). Une recherche locale trouve bien des coloriages valides à (n+1)/2 couleurs pour n = 3, 5 et 7, donc la réponse 1009 est très probablement correcte, mais je n'ai pas de construction explicite : exercice écarté.",
   "Erreur de source repérée : « la muraille » exercice 107 demande de montrer que, pour un nombre parfait, l'exposant du plus petit facteur premier est pair. C'est faux pour n = 6 = 2 × 3, où cet exposant vaut 1. Exercice écarté.",
   "Le corrigé de « la muraille » exercice 46 (solution d'élève) contient deux coquilles de recopie, « les droites (CD) et (CD) sont confondues » et « DAD » pour « DAP ». La construction est juste ; elle est réécrite proprement dans 8045, et la réponse 100° est vérifiée par le calcul.",
-  "Reste à explorer pour une seconde passe : les cours des groupes C et D (p. 62 à 102 et p. 154 à 226), dont je n'ai lu que les premiers exercices de chaque leçon, et les tests finaux des groupes C et D. Tout le reste du document a été parcouru."
+  "Reste à explorer pour une seconde passe : les cours des groupes C et D (p. 62 à 102 et p. 154 à 226), dont je n'ai lu que les premiers exercices de chaque leçon, et les tests finaux des groupes C et D. Tout le reste du document a été parcouru.",
+  "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "stage_ete_2017.pdf",

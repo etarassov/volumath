@@ -6,7 +6,13 @@
   "7901",
   "8000"
  ],
- "status": "in_progress",
+ "status": "closed",
+ "superseded_by": [
+  "p43-ete2016-1",
+  "p43-ete2016-2",
+  "p43-ete2016-3",
+  "p43-ete2016-4"
+ ],
  "files_total": 1,
  "next_file": 0,
  "imported": [
@@ -491,9 +497,10 @@
   "Reprise d'une deuxieme passe : la muraille niveaux 2 a 5 a partir de la page 283, puis les exercices d'ouverture des cours de Groupe B (p.114 et suivantes). Les Groupes C et D sont de la liste courte IMO et ne sont pas du materiel de club.",
   "Le bloc d'ids 7959-8000 reste libre pour une deuxieme passe sur ce meme document.",
   "Erreurs du polycopie relevees et corrigees dans les fichiers concernes, chacune signalee dans source.reference : 7903 (le nombre imprime 2008 doit etre 1008), 7933, 7938 (les deux reponses sont interverties), 7940 (deux erreurs de calcul), et la muraille exercice 35 dont la figure montre quatre cycles disjoints, ce qui contredit l'affirmation imprimee (exercice non importe).",
-  "Doublons inter-blocs reperes, rien supprime : 7950 = 7321 (niveaux 1re / 3e, croise par see_also), 7929 = 7820 (1re / 3e), 7942 = 8141 et proche de 7604 (1re / 2de / 3e), 7930 = 7233 et 7714 (4e coloring / 4e logic-reasoning / 3e coloring). Les collisions signalees par vm.py entre 7923 et 8631, et entre 7904 et 7813, sont de faux positifs : ce sont des problemes differents."
+  "Doublons inter-blocs reperes, rien supprime : 7950 = 7321 (niveaux 1re / 3e, croise par see_also), 7929 = 7820 (1re / 3e), 7942 = 8141 et proche de 7604 (1re / 2de / 3e), 7930 = 7233 et 7714 (4e coloring / 4e logic-reasoning / 3e coloring). Les collisions signalees par vm.py entre 7923 et 8631, et entre 7904 et 7813, sont de faux positifs : ce sont des problemes differents.",
+  "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "stage_ete_2016.pdf",

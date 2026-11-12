@@ -1,0 +1,1132 @@
+{
+  "unit": "p43-ete2023-2",
+  "source": "pofm",
+  "title": "POFM, valbonne-2023 Groupe B",
+  "wave": 1,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "valbonne-2023.pdf",
+      "local_copy": "sources/originals/pofm/valbonne-2023.pdf",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2023/12/valbonne-2023.pdf",
+      "pages": [
+        [
+          165,
+          248
+        ]
+      ],
+      "chapters": [
+        "Groupe B"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-ete2023-2.txt",
+  "old_units": [
+    "ete-2023"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 164,
+  "work_estimate": 112,
+  "id_block": [
+    "22001",
+    "22200"
+  ],
+  "status": "done",
+  "imported": [
+    "22001",
+    "22002",
+    "22003",
+    "22004",
+    "22005",
+    "22006",
+    "22007",
+    "22008",
+    "22009",
+    "22010",
+    "22011",
+    "22012",
+    "22013",
+    "22014",
+    "22015",
+    "22016",
+    "22017",
+    "22018",
+    "22019",
+    "22020",
+    "22021",
+    "22022",
+    "22023",
+    "22024",
+    "22025",
+    "22026",
+    "22027",
+    "22028",
+    "22029",
+    "22030",
+    "22031",
+    "22032",
+    "22033",
+    "22034",
+    "22035",
+    "22036",
+    "22037",
+    "22038",
+    "22039",
+    "22040",
+    "22041",
+    "22042",
+    "22043",
+    "22044",
+    "22045",
+    "22046",
+    "22047",
+    "22048",
+    "22049",
+    "22050",
+    "22051",
+    "22052",
+    "22053",
+    "22054",
+    "22055",
+    "22056",
+    "22057",
+    "22058",
+    "22059",
+    "22060",
+    "22061",
+    "22062",
+    "22063",
+    "22064",
+    "22065",
+    "22066"
+  ],
+  "grade_reasons": {
+    "22001": "4e: tangent perpendicular to radius and perpendicular bisector, both in the 4e/5e course",
+    "22002": "4e: equal tangent lengths proved inline with Pythagoras, then isosceles triangles and angle sum",
+    "22003": "4e: isosceles triangles and angle sum; inscribed angle converse explained inline as a short lemma (convexity hypothesis added)",
+    "22004": "4e: angle chasing with inscribed angles and the tangent-chord angle, both explained inline from the central angle",
+    "22005": "4e: only the midpoint theorem and the circle with a given diameter; the uniqueness of the circle through three points",
+    "22006": "2de: AM-GM for three numbers, proved inline from the factorisation of u^3+v^3+w^3-3uvw and squares, needs the cube root and the increasing cube function, known in 2de; not 3e because cube roots are not met at collège",
+    "22007": "Terminale: AM-GM for n numbers proved inline from ln t <= t-1 (study of a function with ln and derivative); n-th roots and ln need Terminale",
+    "22008": "2de: AM-GM for three numbers proved inline (same lemma as 22006), cube roots and the cube function known in 2de",
+    "22009": "3e: (t-1)^2 >= 0, (X+Y)^2 = (X-Y)^2 + 4XY and powers of positive numbers; the solution avoids square roots, so the identities of 3e are enough",
+    "22010": "3e: expand (a_i - m)^2 and add, then a square root of positive numbers; identities are 3e",
+    "22011": "2de: function Q to Q, substitutions, injectivity defined inline; the Cauchy equation on Q is solved inline by repeated addition (f(nx) = n f(x)), no induction needed",
+    "22012": "2de: a function from R (or Q, N) to itself and substitutions are 2de vocabulary; injectivity and surjectivity are defined inline in one sentence; here a single substitution suffices",
+    "22013": "2de: a function from R (or Q, N) to itself and substitutions are 2de vocabulary; injectivity and surjectivity are defined inline in one sentence; the contradiction uses only x and -x having the same square",
+    "22014": "2de: a function from R (or Q, N) to itself and substitutions are 2de vocabulary; injectivity and surjectivity are defined inline in one sentence",
+    "22015": "2de: a function from R (or Q, N) to itself and substitutions are 2de vocabulary; injectivity and surjectivity are defined inline in one sentence",
+    "22016": "2de: functions N to N; a smallest-counterexample argument replaces the printed strong induction (Terminale), so no induction is needed",
+    "22017": "2de: a function from R (or Q, N) to itself and substitutions are 2de vocabulary; injectivity and surjectivity are defined inline in one sentence; the sign case split uses only x = 1",
+    "22018": "2de: a function from R (or Q, N) to itself and substitutions are 2de vocabulary; injectivity and surjectivity are defined inline in one sentence; odd function and expanding products are 2de/3e",
+    "22019": "3e: needs similar triangles; inscribed angle lemma and the perpendicular bisector of the common chord are explained inline",
+    "22020": "3e: needs similar triangles (DBA ~ DAC, DBE ~ ABC); the tangent-chord angle is proved inline",
+    "22021": "4e: angle chasing only; inscribed angle and the south pole lemma are proved inline, then an isosceles triangle",
+    "22022": "4e: isosceles triangles, angle sums and congruent triangles; no tool beyond 4e",
+    "22023": "4e: angle chasing, Thales in nested triangles and the south pole lemma proved inline; competition level, so 5 stars",
+    "22024": "4e: circle of a diameter, inscribed angle, converse for a convex quadrilateral (proved inline), south pole lemma, cosine in a right triangle; IMO P1, so 5 stars",
+    "22025": "2de: functional equation solved by one substitution and a check; functions are a 2de topic",
+    "22026": "3e: the question asks for similar triangles; the central angle lemma is proved inline with isosceles triangles",
+    "22027": "2de: inequality with squares; the fraction-grouping lemma is proved inline from (x - tp)^2 >= 0",
+    "22028": "4e: congruent triangles (SAS) plus the inscribed angle lemma explained inline",
+    "22029": "4e: one step from the definition of divisibility, literal calculation",
+    "22030": "4e: parity of consecutive integers and a split by the remainder mod 3, written with 3k + 1 and 3k + 2",
+    "22031": "4e: a divisor of a positive integer is not larger than it; one comparison",
+    "22032": "grade 8: pigeonhole on the 78 possible sums plus the removal of a common element, both tools from 4e; difficulty 3 because the student must see to compare sums of pairs, and to handle a shared element",
+    "22033": "grade 8: pigeonhole on the 16 blocks of 2 by 2 squares of the board; difficulty 2, a direct application once the board is cut",
+    "22034": "grade 8: only divisibility, the PPCM and pigeonhole on odd parts, all known in 4e; difficulty 5 because it combines the odd-part pigeonhole with a careful bound, competition level for 4e",
+    "22035": "grade 8: Erdos-Szekeres is proved inline with pigeonhole on pairs (c_i, d_i), and the triangle argument is Pythagoras in a coordinate grid, both 4e tools; difficulty 5 because it chains two non-obvious ideas",
+    "22036": "grade 10: needs the integer part and the fractional part of a real number, absolute values and irrational numbers, all 2de; difficulty 4 for the pigeonhole on fractional parts plus the argument for infinitely many",
+    "22037": "grade 8: only divisibility and the difference of two multiples, both 4e; difficulty 2, two steps once (n + 1)(n - 1) is spotted",
+    "22038": "grade 8: counting the sums and pigeonhole on their 2n + 1 possible values, all 4e; difficulty 3 like 7251, the student must think of counting the possible values",
+    "22039": "grade 9: needs prime factorisation and its uniqueness, which is 3e; difficulty 2, the counting is the product rule explained in the solution",
+    "22040": "grade 9: the factorisation (p - x)(p + y) = p^2 is 4e, but listing the divisors of p^2 uses prime factorisation, 3e; difficulty 3 for spotting the factorisation",
+    "22041": "4e: only remainders in the division by 3 and the fact that adding a multiple of 3 keeps the remainder; difficulty 3 because the student must see the mod 3 invariant and also check the killing blow",
+    "22042": "4e: chessboard and stripe colourings with counting, a case check at the corner, and a 2x2 block colouring; nothing beyond counting and parity; difficulty 4 because four parts each need their own idea",
+    "22043": "4e: parity of the number of 1s, checked in three cases; difficulty 2, a direct use of a parity invariant",
+    "22044": "4e: only the Euclidean division n = 10q + r and the fact that a sum or difference of multiples of 7 (or 13) is a multiple; no congruences needed; difficulty 2, two short computations per direction",
+    "22045": "4e: remainders of a product shown by expanding (19k + r)(19l + s), a table of powers of 8, and the remainder of the exponent by 6; all remainder arithmetic, case 1 of the brief; difficulty 4 for the two-level tower",
+    "22046": "3e: needs that every integer >= 2 is a product of primes (prime factorisation, 3e), plus remainders of products checked by expanding (4e); difficulty 4, an Euclid-style construction to adapt twice",
+    "22047": "4e: squares of even and odd numbers in the division by 4 and by 8, found by expanding (2m + 1)^2, and parity; difficulty 3, the second equation needs the idea of halving and then looking at remainders by 8",
+    "22048": "Terminale, maths expertes (checked, kept): the proof rests on inverses modulo p, built from Euclid's lemma (a prime dividing a product divides a factor), i.e. congruences used as a theory, case 2 of the brief, the same family as Fermat's little theorem which the collection keeps at grade 12; a remainder-only version for 3e would have to teach the inverse theory inside the exercise; difficulty 3, guided in four questions, the pairing is the idea",
+    "22049": "Terminale, maths expertes (checked, kept): Euler's criterion, proved by pairing each x with the y such that xy ≡ n mod p; needs inverses modulo p and Euclid's lemma as in 22048 (case 2); no polynomial theory, unlike the printed solution; difficulty 4, one statement to prove with no guidance",
+    "22050": "4e: congruences explained in a few lines as equal remainders (case 1), expanding (x + 3b)^2 by distributivity, and a table of squares modulo 5; difficulty 4 because the student must find the shift by 3b and then separate five cases",
+    "22051": "Terminale, maths expertes (checked, kept): uses Fermat's little theorem and Euclid's lemma (Gauss) as known results, both named in case 2 of the brief; difficulty 3, apply Fermat twice, handle p | M, then combine",
+    "22052": "Terminale, maths expertes: needs Fermat little theorem for one direction and Wilson theorem (proved inline from inverses modulo p) for the other, case 2 of the brief, same family as 22048 and 22049; difficulty 4, two directions plus an Euclid-type infinity proof",
+    "22053": "Terminale, maths expertes: Fermat little theorem plus a Bezout relation between the exponents q and p-1, case 2 of the brief; no lower-grade route since q | p-1 is an order statement; difficulty 4, the Bezout-on-exponents idea plus a symmetric contradiction",
+    "22054": "4e: only the multiplication principle, used step by step (fix the first player, then repeat), no factorials needed for the answer 1 x 3 x ... x (2n-1); not lower since the database starts at 4e; difficulty 3, the idea is to always pair the first unpaired player so nothing is counted twice",
+    "22055": "3e: the only tool beyond counting by hand is the number of ways to choose k objects among N, explained inline (ordered choices divided by the number of orders, case 1); the rest is a bijection between 0/1 words and sets of change positions; 3e rather than 4e because the inline binomial count and a general-n answer are heavy for a 4e club; difficulty 4, the padding trick (add 1 in front and 0 at the end) is a real idea and both directions of the bijection must be checked",
+    "22056": "4e: parity and the square of an odd number 4k(k+1)+1 (4e expanding), remainders by 8; not lower, the database starts at 4e; difficulty 2, two short steps",
+    "22057": "4e: congruences as remainders explained inline (case 1) and a table of remainders of r^2 and r^4 mod 13 replaces Fermat; difficulty 3, the idea is to look mod 13 (26 = 2 x 13 and 12 = 13 - 1)",
+    "22058": "4e: last digit of a product depends only on last digits, cycle 3, 9, 7, 1, and 2024 = 4 x 506; difficulty 2, two steps",
+    "22059": "4e: cubes mod 9 from expanding (3k +- 1)^3, congruences as remainders (case 1); difficulty 3, the idea is to choose 9",
+    "22060": "3e: a^2 - 4 = (a - 2)(a + 2) and unique prime factorisation, both 3e; not 4e because of the identity; difficulty 3, seeing the difference of squares is the idea",
+    "22061": "3e: factorisation of 2^p + 3^p for odd p checked by expanding (telescoping, case 1), remainders mod 5 (case 1) and prime factorisation (3e); the source uses the binomial formula (Terminale), avoided here; difficulty 4, several ideas and cases p = 2, p = 5",
+    "22062": "4e: square roots, irreducible fractions and parity are all 4e tools; the brief lists sqrt(2) irrational as a 2de course result, but the proof itself uses nothing beyond 4e, so the lowest-grade rule puts it here; difficulty 3, the absurd hypothesis and the parity chain are the idea",
+    "22063": "4e: fractions and ordering a <= b <= c to bound a, then two small cases; difficulty 3, the symmetry plus bounding idea",
+    "22064": "3e: a^2 - b^2 = (a - b)(a + b) (3e) and divisibility with inequalities; difficulty 4, bounding a - b <= 1 then two cases, one with a size argument (APMO 2002)",
+    "22065": "4e: only logic about who shares a vote with whom, then the pigeonhole count 3 x 13 < 40 and a three-row example; not lower since the database starts at 4e; difficulty 4, a proof (all votes go to three animators) plus a separate construction",
+    "22066": "4e: coordinates in a repere (cycle 4) and the midpoint abscissa as an average, justified inline with a translation; not lower since the database starts at 4e; difficulty 4, needs a construction, a good choice of axes, and the extremal-point count"
+  },
+  "no_printed_solution": [
+    "22041",
+    "22042",
+    "22043"
+  ],
+  "skipped": [
+    {
+      "where": "p.165, Angle tangent, exercice 1",
+      "why": "already in the collection: 7225 proves the same pole Sud bisector fact and asks more",
+      "existing": "7225"
+    },
+    {
+      "where": "p.165, Angle tangent, exercice 3",
+      "why": "already in the collection: 8858 is the same isosceles triangle AED with the tangent and the bisector",
+      "existing": "8858"
+    },
+    {
+      "where": "p.166, Angle tangent, exercice 7",
+      "why": "already in the collection: 7439 part 1 is the reflections of H on the sides lying on the circumcircle, and asks more",
+      "existing": "7439"
+    },
+    {
+      "where": "p.171, Inégalités, exercice 1",
+      "why": "already in the collection: 0677 is a^2+b^2 >= 2ab at grade 9 (the equality case a = b is the only addition)",
+      "existing": "0677"
+    },
+    {
+      "where": "p.171, Inégalités, exercice 2",
+      "why": "already in the collection: 0880 is x + y^2/x >= 2y with equality, which is this exercise with y = 1",
+      "existing": "0880"
+    },
+    {
+      "where": "p.171, Inégalités, exercice 3",
+      "why": "DONE: 8515 is the same statement (worksheet right)",
+      "existing": "8515"
+    },
+    {
+      "where": "p.171, Inégalités, exercice 4",
+      "why": "already in the collection: 8421 is the same lemme du tourniquet with equality case",
+      "existing": "8421"
+    },
+    {
+      "where": "p.171, Inégalités, exercice 5",
+      "why": "NOT YOURS: same statement as Poly_Valbonne_2022-Corrigé-1.pdf p.50, exercice 19, owned by p43-ete2022-1 (worksheet right)"
+    },
+    {
+      "where": "p.172, Inégalités, exercice 10",
+      "why": "already in the collection: 8137 is the same minimum of a^2+b^2+c^2+d^2 under a+3b+5c+7d=14",
+      "existing": "8137"
+    },
+    {
+      "where": "p.172, Inégalités, exercice 11",
+      "why": "already in the collection: 2817 proves the inegalite des mauvais eleves for two fractions and then three by the same step, a student who solved it has nothing new for n fractions",
+      "existing": "2817"
+    },
+    {
+      "where": "p.177 Équations fonctionnelles 2, exercice 3",
+      "why": "NOT YOURS, verified: same four equations as Poly_Valbonne_2022-Corrigé-1.pdf p.138 exercice 7, owned by p43-ete2022-2"
+    },
+    {
+      "where": "p.178 Équations fonctionnelles 2, exercice 6 (f(f(x)f(y)) = f(x)y)",
+      "why": "already in the collection, same equation",
+      "existing": "8479"
+    },
+    {
+      "where": "p.181 TD de géométrie Ex2",
+      "why": "NOT YOURS: verified the same problem is Poly_Valbonne_2022-Corrigé-1.pdf p.88 ex 6, owner p43-ete2022-1"
+    },
+    {
+      "where": "p.181 TD de géométrie Ex3",
+      "why": "same problem already in the collection (Greece 2019)",
+      "existing": "10232"
+    },
+    {
+      "where": "p.182 TD de géométrie Ex4",
+      "why": "same problem already in the collection (PAMO 2021, with the correct reflection about A)",
+      "existing": "11836"
+    },
+    {
+      "where": "p.182 TD de géométrie Ex6",
+      "why": "DONE: worksheet status correct",
+      "existing": "8913"
+    },
+    {
+      "where": "p.182 TD de géométrie Ex8",
+      "why": "same problem already in the collection",
+      "existing": "10057"
+    },
+    {
+      "where": "p.199 Divisibilité Ex1",
+      "why": "below 4e: the Euclidean division of 53 by 7 is primary school arithmetic"
+    },
+    {
+      "where": "p.199 Divisibilité Ex6",
+      "why": "same problem already in the collection (6 divides n^3 - 7n)",
+      "existing": "0881"
+    },
+    {
+      "where": "p.202 Divisibilité Ex7",
+      "why": "same problem already in the collection (IMO 1959, (21n + 4)/(14n + 3))",
+      "existing": "8451"
+    },
+    {
+      "where": "p.202 Divisibilité Ex8",
+      "why": "same problem already in the collection (ab and a + b coprime)",
+      "existing": "8453"
+    },
+    {
+      "where": "p.202 Divisibilité Ex9",
+      "why": "DONE: worksheet status correct, 8452 is part b; part a is the lemma used in 8452",
+      "existing": "8452"
+    },
+    {
+      "where": "p.203 Divisibilité Ex10",
+      "why": "same problem already in the collection (n^3 + n - 2 a power of 2)",
+      "existing": "8578"
+    },
+    {
+      "where": "p.203 Divisibilité Ex11",
+      "why": "7059 is the same problem for any base a >= 2 instead of 2, so it asks more; keep 7059",
+      "existing": "7059"
+    },
+    {
+      "where": "p.205-209 Principe des tiroirs Ex1",
+      "why": "same problem already in the collection (two guests with the same number of acquaintances)",
+      "existing": "4602"
+    },
+    {
+      "where": "p.205-209 Principe des tiroirs Ex4",
+      "why": "NOT YOURS, verified: same problem as stage_ete_2007.pdf p.13, exercice 4, owner p43-ete2007-1"
+    },
+    {
+      "where": "p.205-209 Principe des tiroirs Ex5",
+      "why": "same problem already in the collection (two disjoint subsets with the same sum)",
+      "existing": "8832"
+    },
+    {
+      "where": "p.205-209 Principe des tiroirs Ex6",
+      "why": "same problem already in the collection (plane coloured in two colours, two points of the same colour one metre apart)",
+      "existing": "7716"
+    },
+    {
+      "where": "p.205-209 Principe des tiroirs Ex7",
+      "why": "NOT YOURS, verified: same problem as stage_ete_2008.pdf p.32, exercice 86, owner p43-ete2008-1"
+    },
+    {
+      "where": "p.205-209 Principe des tiroirs Ex9",
+      "why": "8145 is the same exercise with other numbers (points in a square and a small triangle), same method and same size",
+      "existing": "8145"
+    },
+    {
+      "where": "p.205-209 Principe des tiroirs Ex10",
+      "why": "same problem already in the collection (six people, three friends or three strangers)",
+      "existing": "0235"
+    },
+    {
+      "where": "p.205-209 Principe des tiroirs Ex12",
+      "why": "same problem already in the collection (Erdos-Szekeres, a monotone subsequence); 8864 has the n^2+1 form, same proof",
+      "existing": "8864"
+    },
+    {
+      "where": "p.205-209 Principe des tiroirs Ex14",
+      "why": "same problem already in the collection (the product of five consecutive integers is never a square); 7071 and 7667 are themselves the same problem and not linked",
+      "existing": "7071"
+    },
+    {
+      "where": "p.210-213 Nombres premiers Ex1",
+      "why": "same problem already in the collection at the right grade (p, p + 2, p + 4 all prime)",
+      "existing": "0876"
+    },
+    {
+      "where": "p.210-213 Nombres premiers Ex2",
+      "why": "same problem already in the collection (infinitely many primes of the form 4k + 3, with the 4k + 1 / 4k + 3 split in the statement)",
+      "existing": "8717"
+    },
+    {
+      "where": "p.210-213 Nombres premiers Ex3",
+      "why": "same problem already in the collection (2^n - 1 prime implies n prime, converse false with n = 11)",
+      "existing": "5014"
+    },
+    {
+      "where": "p.210-213 Nombres premiers Ex4",
+      "why": "same problem already in the collection (2^n + 1 prime implies n is a power of 2)",
+      "existing": "8323"
+    },
+    {
+      "where": "p.210-213 Nombres premiers Ex5 (p.211)",
+      "why": "not an exercise: the heading Exercice 5 sits on the printed solution of Exercice 4"
+    },
+    {
+      "where": "p.213 Invariants Ex1",
+      "why": "NOT YOURS, verified: same problem as Poly_Valbonne_2022-Corrigé-1.pdf p.130 exercice 1, owned by p43-ete2022-1 (worksheet right)"
+    },
+    {
+      "where": "p.214 Invariants Ex3",
+      "why": "NOT YOURS, verified: same problem as stage_ete_2011.pdf p.21 exercice 7, owned by p43-ete2011-1 (worksheet right)"
+    },
+    {
+      "where": "p.215 Invariants Ex5",
+      "why": "NOT YOURS, verified: same sign table as Poly_Valbonne_2022-Corrigé-1.pdf p.130 exercice 2, owned by p43-ete2022-1 (worksheet right)"
+    },
+    {
+      "where": "p.215 Invariants Ex6",
+      "why": "NOT YOURS, verified: T pieces on an n x n grid, same as Polycopie-Valbonne-2020-v2.pdf p.146 exercice 2, owned by p43-ete2020-2 (worksheet right)"
+    },
+    {
+      "where": "p.215-216 Invariants Ex10",
+      "why": "NOT YOURS, verified: same as Poly-2021-Valbonne.pdf p.158 exercice 18, owned by p43-ete2021-2 (worksheet right)"
+    },
+    {
+      "where": "p.216 Invariants Ex12",
+      "why": "NOT YOURS, verified: same words and moves as stage_ete_2011.pdf p.22 exercice 2, owned by p43-ete2011-1 (worksheet right)"
+    },
+    {
+      "where": "p.216 Invariants Ex14",
+      "why": "DONE: 8239 is the same problem with 2018 instead of 2022, which changes nothing (worksheet right)",
+      "existing": "8239"
+    },
+    {
+      "where": "p.214 Invariants Ex2",
+      "why": "same problem already in the collection: 2n points in general position, pair them with non-crossing segments (worksheet said YOURS, the suggested 8840 is in fact the same)",
+      "existing": "8840"
+    },
+    {
+      "where": "p.215 Invariants Ex4",
+      "why": "same problem already in the collection: 7234 asks for the parity of the last number from 1 to 2017 with |a-b|; n odd in 1..2n changes nothing in the method (worksheet said YOURS with no suggestion)",
+      "existing": "7234"
+    },
+    {
+      "where": "p.216 Invariants Ex11",
+      "why": "same problem already in the collection: a 2^n x 2^n grid with one cell removed, tiled by L-triominoes (worksheet said YOURS with no suggestion)",
+      "existing": "2007"
+    },
+    {
+      "where": "p.216 Invariants Ex13",
+      "why": "same problem already in the collection, once the misprint is fixed: swap a and c and shift x to x+t, from x^2-x-2 to x^2-x-1 (worksheet suggested 3013, right)",
+      "existing": "3013"
+    },
+    {
+      "where": "valbonne-2023.pdf p.217, Modulos (Jean), exercice 1",
+      "why": "same problem already in the collection: 8435 is y - 1 divides y^(y^2-y+2) - 4y + y^2021 + 3y^2 - 1, the same replace-n-by-1 argument with other terms (8133 and 8333 are two more of the same kind)",
+      "existing": "8435"
+    },
+    {
+      "where": "valbonne-2023.pdf p.218, Modulos (Jean), exercice 3",
+      "why": "same problem already in the collection: the sum of the cubes of three consecutive integers is a multiple of 9 (7754, linked same_as with 4803)",
+      "existing": "7754"
+    },
+    {
+      "where": "valbonne-2023.pdf p.220, Modulos (Jean), exercice 6",
+      "why": "NOT YOURS, verified: same equation x^2 + y^2 = 7z^2 as Poly-2021-Valbonne.pdf p.146 exercice 14, owned by p43-ete2021-2 (worksheet right)"
+    },
+    {
+      "where": "valbonne-2023.pdf p.221, Modulos (Jean), exercice 7",
+      "why": "already in the collection in a stronger form: 7613 proves that 24 divides p^2 - 1 for every prime p >= 5, which contains 12 | p^2 - 1",
+      "existing": "7613"
+    },
+    {
+      "where": "valbonne-2023.pdf p.223, Modulos (Jean), exercice 10",
+      "why": "DONE: 8669 is the same statement (2^(n+2) divides a^(2^n) - 1 for odd a), from the Groupe A Récurrence lecture of the same handout (worksheet right)",
+      "existing": "8669"
+    },
+    {
+      "where": "valbonne-2023.pdf p.225, Modulos (Jean), exercice 12",
+      "why": "already in the collection in a more general form: 8655 proves that no number 8n - 1 is a sum of three squares, and 2023 = 8 × 253 - 1; same squares-mod-8 argument",
+      "existing": "8655"
+    },
+    {
+      "where": "valbonne-2023.pdf p.227, Principe de l extremum (Paul), exercice 1",
+      "why": "same problem already in the collection: every point of a set is the midpoint of two others, so the set is infinite (7725 at grade 10, same_as 8834 at grade 11)",
+      "existing": "7725"
+    },
+    {
+      "where": "valbonne-2023.pdf p.227, Principe de l extremum (Paul), exercice 2",
+      "why": "same problem already in the collection: 2n points, no three aligned, joined by n non-crossing segments (8840 at grade 10, same_as 8341 at grade 11; worksheet missed it)",
+      "existing": "8840"
+    },
+    {
+      "where": "valbonne-2023.pdf p.228-231, Principe de l extremum, exercices 3 to 12",
+      "why": "DONE and NOT YOURS lines as listed in the worksheet: 3 is 8340, 4 is 8558, 5 is 7731, 8 and 11 are both 8572 (the handout prints the same exercise twice), 9 is 8841, 10 is 8305 / 8571; 6 is p43-ete2019-2, 7 is p43-ete2016-1, 12 is p43-junior2013 (titles checked)"
+    },
+    {
+      "where": "valbonne-2023.pdf p.232-237, Dénombrement, exercices 1 to 14",
+      "why": "NOT YOURS: the whole lecture is reprinted from Polycopie-mini.pdf p.19-20, owned by p43-junior2021; the worksheet lists 1-4, 6, 7 and 9-14 there, and exercises 5 (divisors of 2^4 x 3^2 x 5) and 8 (six books on a shelf) are also printed there as exercices 5 and 8, so they belong to p43-junior2021 too (worksheet said YOURS)"
+    },
+    {
+      "where": "valbonne-2023.pdf p.238, Équations diophantiennes, exercice 6",
+      "why": "same problem already in the collection: 8718 asks for all n with n^4 + 4^n prime (answer n = 1), which contains never prime for n > 1 (worksheet missed it)",
+      "existing": "8718"
+    },
+    {
+      "where": "valbonne-2023.pdf p.239, Équations diophantiennes, exercice 8",
+      "why": "same problem already in the collection: x^4 - 6x^2 + 1 = 7 x 2^y (10827, worksheet missed it)",
+      "existing": "10827"
+    },
+    {
+      "where": "valbonne-2023.pdf p.239, Équations diophantiennes, exercice 12",
+      "why": "same problem already in the collection: 8454 asks for which n >= 1 5^(n-1) + 3^(n-1) divides 5^n + 3^n (worksheet missed it)",
+      "existing": "8454"
+    },
+    {
+      "where": "valbonne-2023.pdf p.239, Équations diophantiennes, exercice 13",
+      "why": "NOT YOURS: x^2 + y^2 = 7z^2 is the same as p.220 exercice 6 of this handout and Poly-2021-Valbonne.pdf p.146 exercice 14, owned by p43-ete2021-2 (worksheet said YOURS)"
+    },
+    {
+      "where": "p.243, Entraînement de fin de parcours, exercice 1 (x³ + y³ − 53 = 7^ℓ)",
+      "why": "même énoncé que 8940 (Valbonne 2026, TD) ; la piste du worksheet était juste",
+      "existing": "8940"
+    },
+    {
+      "where": "p.243, Entraînement de fin de parcours, exercice 3 (x(y² − p) + y(x² − p) = 5p)",
+      "why": "même problème (JBMO 2011) déjà présent deux fois : 8666 (grade 11, Groupe A de ce même polycopié) et 8330 (grade 12), liés par same_as ; le worksheet ne le signalait pas",
+      "existing": "8666"
+    }
+  ],
+  "regrade_suggestions": [
+    {
+      "id": "7225",
+      "from": 10,
+      "to": 8,
+      "why": "only the inscribed angle theorem, explained in two lines, and isosceles triangles: 4e under the lowest grade rule"
+    },
+    {
+      "id": "8858",
+      "from": 11,
+      "to": 8,
+      "why": "tangent-chord angle and exterior angle of a triangle: pure angle chasing, fits 4e with the lemma explained inline"
+    },
+    {
+      "id": "7439",
+      "from": 11,
+      "to": 8,
+      "why": "reflection of H on a side: angle chasing with inscribed angles only, fits 4e with the lemma explained inline"
+    },
+    {
+      "id": "8515",
+      "from": 10,
+      "to": 9,
+      "why": "(2x-y)^2 + (x-1)^2 >= 0: only the identities of 3e"
+    },
+    {
+      "id": "8137",
+      "from": 11,
+      "to": 9,
+      "why": "its own solution only expands a sum of four squares, all 3e tools"
+    },
+    {
+      "id": "2817",
+      "from": 11,
+      "to": 9,
+      "why": "x^2/m + y^2/n >= (x+y)^2/(m+n) reduces to (xn - ym)^2 >= 0 after multiplying out, 3e tools"
+    },
+    {
+      "id": "8136",
+      "from": 11,
+      "to": 9,
+      "why": "it is the case n = 2 of 22009 (grade 9); expanding two squares and t + 1/t >= 2 are 3e tools"
+    },
+    {
+      "id": "8257",
+      "from": 11,
+      "to": 10,
+      "why": "AM-GM for three numbers with the lemma proved inline is 2de; note that 8257 is question 1 of 22006, so at grade 10 it would be a strict part of 22006 and could be retired instead"
+    },
+    {
+      "id": "8479",
+      "from": 12,
+      "to": 10,
+      "why": "f(f(x)f(y)) = f(x)y needs only substitutions and the notion of an injective function, all 2de; same problem as Valbonne 2023 Groupe B Équations fonctionnelles 2 exercice 6"
+    },
+    {
+      "id": "10232",
+      "from": 10,
+      "to": 8,
+      "why": "congruent triangles plus the inscribed angle lemma, all 4e once the lemma is explained"
+    },
+    {
+      "id": "11836",
+      "from": 11,
+      "to": 9,
+      "why": "similar triangles plus the tangent-chord lemma; nothing from 1re is needed"
+    },
+    {
+      "id": "8913",
+      "from": 10,
+      "to": 8,
+      "why": "circle of a diameter plus inscribed angle; there is also a 4e proof with congruent triangles through projections"
+    },
+    {
+      "id": "10057",
+      "from": 10,
+      "to": 8,
+      "why": "south pole lemma via inscribed angles, pure angle chasing"
+    },
+    {
+      "id": "8451",
+      "from": 9,
+      "to": 8,
+      "why": "a common divisor of 21n + 4 and 14n + 3 divides 3(14n + 3) - 2(21n + 4) = 1: pure 4e divisibility"
+    },
+    {
+      "id": "8578",
+      "from": 10,
+      "to": 9,
+      "why": "factorisation checked by expanding, divisors of a power of 2 (prime factorisation, 3e); nothing from 2de"
+    },
+    {
+      "id": "8453",
+      "from": 10,
+      "to": 9,
+      "why": "only uses that a prime dividing a^2 divides a, from prime factorisation (3e)"
+    },
+    {
+      "id": "7059",
+      "from": 12,
+      "to": 10,
+      "why": "the lemma PGCD(x, y) = PGCD(x - ky, y) is proved inline in the file itself; the descent on exponents can be written as a smallest counterexample, so no maths-expertes or induction is needed; keep 5 stars"
+    },
+    {
+      "id": "8832",
+      "from": 11,
+      "to": 9,
+      "why": "only the product rule for counting subsets and pigeonhole on their sums; nothing beyond 3e"
+    },
+    {
+      "id": "8145",
+      "from": 10,
+      "to": 8,
+      "why": "pigeonhole on small squares and the area of a triangle inside a square, all 4e"
+    },
+    {
+      "id": "8864",
+      "from": 12,
+      "to": 8,
+      "why": "Erdos-Szekeres by pigeonhole on pairs of lengths, pure 4e tools; keep difficulty 5"
+    },
+    {
+      "id": "7071",
+      "from": 11,
+      "to": 9,
+      "why": "prime factorisation and pigeonhole on remainders, all 3e"
+    },
+    {
+      "id": "7670",
+      "from": 12,
+      "to": 10,
+      "why": "pigeonhole on fractional parts, needs only integer part and irrationals from 2de"
+    },
+    {
+      "id": "8717",
+      "from": 11,
+      "to": 9,
+      "why": "Euclidean division by 4, the product of numbers 4k + 1, and a prime factor of N; prime factorisation is 3e. Difficulty 5 also looks high for 3e, 4 seems right"
+    },
+    {
+      "id": "5014",
+      "from": 11,
+      "to": 9,
+      "why": "the factorisation of x^b - 1 is checked by expanding, primes are 4e; nothing beyond 3e"
+    },
+    {
+      "id": "8323",
+      "from": 11,
+      "to": 9,
+      "why": "the factorisation of a^p + b^p for odd p is checked by expanding, and the odd part of n replaces the prime factorisation; nothing beyond 3e"
+    },
+    {
+      "id": "8840",
+      "from": 10,
+      "to": 8,
+      "why": "the sweep argument, or the shortest total length with the triangle inequality, is 4e"
+    },
+    {
+      "id": "8341",
+      "from": 11,
+      "to": 8,
+      "why": "same problem as 8840, same 4e argument; the two are already linked same_as, so 8341 would then become a same-grade copy and one of them should be retired"
+    },
+    {
+      "id": "7234",
+      "from": 9,
+      "to": 8,
+      "why": "parity of a sum, and |a-b| has the parity of a+b; pure 4e"
+    },
+    {
+      "id": "8221",
+      "from": 9,
+      "to": 8,
+      "why": "parity of the sum of the numbers on the board, pure 4e"
+    },
+    {
+      "id": "2007",
+      "from": 12,
+      "to": 8,
+      "why": "the doubling step (cut into four quarters and place one L in the centre) can be done step by step without formal induction, which the brief allows at a low grade"
+    },
+    {
+      "id": "3013",
+      "from": 11,
+      "to": 9,
+      "why": "the discriminant b^2-4ac is used only as an expression that does not change; checking it needs only expanding, which is 3e (no second degree theory needed)"
+    },
+    {
+      "id": "0508",
+      "from": 9,
+      "to": 8,
+      "why": "colouring the 2x2 blocks in a chessboard pattern and counting cells is 4e"
+    },
+    {
+      "id": "8636",
+      "from": 10,
+      "to": 8,
+      "why": "same problem as 0508, same 4e block colouring"
+    },
+    {
+      "id": "8435",
+      "from": 11,
+      "to": 9,
+      "why": "y^k - 1 is a multiple of y - 1, by expanding (y - 1)(y^(k-1) + ... + 1) or by remainders explained in a few lines; nothing from 1re"
+    },
+    {
+      "id": "8333",
+      "from": 11,
+      "to": 9,
+      "why": "same tool as 8435 (n^k - 1 is a multiple of n - 1); note 8333 and 8435 are the same kind of problem at the same grade and are not linked"
+    },
+    {
+      "id": "8133",
+      "from": 10,
+      "to": 9,
+      "why": "its own solution only uses the factorisation x^k - 1 = (x - 1)(...), checked by expanding"
+    },
+    {
+      "id": "7754",
+      "from": 10,
+      "to": 8,
+      "why": "expanding (n - 1)^3 and (n + 1)^3, and one of three consecutive integers is a multiple of 3: all 4e; 4803 (grade 12) is its same_as copy and would then be redundant"
+    },
+    {
+      "id": "7613",
+      "from": 11,
+      "to": 9,
+      "why": "p^2 - 1 = (p - 1)(p + 1), a product of two consecutive even numbers, and one of p - 1, p, p + 1 is a multiple of 3: 3e at most"
+    },
+    {
+      "id": "8655",
+      "from": 10,
+      "to": 8,
+      "why": "squares in the division by 8 come from (2m + 1)^2 = 4m(m + 1) + 1 and parity: 4e"
+    },
+    {
+      "id": "8669",
+      "from": 12,
+      "to": 9,
+      "why": "the induction can be replaced by the factorisation a^(2^n) - 1 = (a - 1)(a + 1)(a^2 + 1)...(a^(2^(n-1)) + 1), each step a^2 - b^2 (3e): (a - 1)(a + 1) gives 8 and each other factor gives one more 2"
+    },
+    {
+      "id": "7725",
+      "from": 10,
+      "to": 8,
+      "why": "the point with the largest abscissa (or the largest value along any direction) cannot be a midpoint, since a midpoint lies between its two endpoints; no coordinates formula needed, 4e is enough"
+    },
+    {
+      "id": "8718",
+      "from": 11,
+      "to": 9,
+      "why": "the only tool is the Sophie Germain identity a^4 + 4b^4 = (a^2 + 2b^2)^2 - (2ab)^2, a difference of squares (3e), plus parity"
+    },
+    {
+      "id": "8454",
+      "from": 10,
+      "to": 8,
+      "why": "5^n + 3^n - 5(5^(n-1) + 3^(n-1)) = -2 x 3^(n-1), then a size comparison; powers, divisibility and inequalities are 4e (check the file solution does not use more)"
+    },
+    {
+      "id": "8666",
+      "from": 11,
+      "to": 9,
+      "why": "la solution n’utilise que la factorisation (x + y)(xy − p) = 5p et la liste des diviseurs de 5p, outils de 3e ; 8330 (grade 12, même problème) serait alors lui aussi trop haut"
+    },
+    {
+      "id": "7662",
+      "from": 10,
+      "to": 8,
+      "why": "same problem as 22037 (n + 1 divides n² + 1, n ≥ 1); the solution n² + 1 = (n + 1)(n − 1) + 2 is 4e level; if moved, it becomes a same-grade copy of 22037 and one of the two must go"
+    }
+  ],
+  "same_as_added": [
+    {
+      "id": "22037",
+      "other": "7662"
+    }
+  ],
+  "see_also_added": [
+    {
+      "id": "22002",
+      "other": "13223"
+    },
+    {
+      "id": "22006",
+      "other": "8257"
+    },
+    {
+      "id": "22009",
+      "other": "8136"
+    },
+    {
+      "id": "22010",
+      "other": "13606"
+    },
+    {
+      "id": "22017",
+      "other": "10608"
+    },
+    {
+      "id": "22014",
+      "other": "22015"
+    },
+    {
+      "id": "22021",
+      "other": "7225"
+    },
+    {
+      "id": "22021",
+      "other": "22001"
+    },
+    {
+      "id": "22023",
+      "other": "22021"
+    },
+    {
+      "id": "22024",
+      "other": "22021"
+    },
+    {
+      "id": "22024",
+      "other": "22023"
+    },
+    {
+      "id": "22025",
+      "other": "22012"
+    },
+    {
+      "id": "22026",
+      "other": "10216"
+    },
+    {
+      "id": "22032",
+      "other": "11822"
+    },
+    {
+      "id": "22035",
+      "other": "8864"
+    },
+    {
+      "id": "22036",
+      "other": "7670"
+    },
+    {
+      "id": "22037",
+      "other": "7016"
+    },
+    {
+      "id": "22037",
+      "other": "22031"
+    },
+    {
+      "id": "22038",
+      "other": "7251"
+    },
+    {
+      "id": "22038",
+      "other": "8626"
+    },
+    {
+      "id": "22039",
+      "other": "13810"
+    },
+    {
+      "id": "22040",
+      "other": "7856"
+    },
+    {
+      "id": "22042",
+      "other": "0812"
+    },
+    {
+      "id": "22042",
+      "other": "0508"
+    },
+    {
+      "id": "22044",
+      "other": "5011"
+    },
+    {
+      "id": "22045",
+      "other": "7953"
+    },
+    {
+      "id": "22045",
+      "other": "0554"
+    },
+    {
+      "id": "22046",
+      "other": "8717"
+    },
+    {
+      "id": "22047",
+      "other": "8654"
+    },
+    {
+      "id": "22047",
+      "other": "8655"
+    },
+    {
+      "id": "22048",
+      "other": "8047"
+    },
+    {
+      "id": "22048",
+      "other": "2807"
+    },
+    {
+      "id": "22049",
+      "other": "22048"
+    },
+    {
+      "id": "22050",
+      "other": "5016"
+    },
+    {
+      "id": "22052",
+      "other": "22048"
+    },
+    {
+      "id": "22052",
+      "other": "22049"
+    },
+    {
+      "id": "22052",
+      "other": "22046"
+    },
+    {
+      "id": "22052",
+      "other": "8717"
+    },
+    {
+      "id": "22053",
+      "other": "10813"
+    },
+    {
+      "id": "22053",
+      "other": "22051"
+    },
+    {
+      "id": "22054",
+      "other": "0527"
+    },
+    {
+      "id": "22057",
+      "other": "22059"
+    },
+    {
+      "id": "22058",
+      "other": "4411"
+    },
+    {
+      "id": "22058",
+      "other": "22045"
+    },
+    {
+      "id": "22061",
+      "other": "10808"
+    },
+    {
+      "id": "22064",
+      "other": "8162"
+    },
+    {
+      "id": "22059",
+      "other": "22057"
+    },
+    {
+      "id": "22034",
+      "other": "8178"
+    },
+    {
+      "id": "22032",
+      "other": "8543"
+    },
+    {
+      "id": "22058",
+      "other": "8650"
+    },
+    {
+      "id": "22037",
+      "other": "8577"
+    }
+  ],
+  "not_yours_but_different": [
+    {
+      "where": "valbonne-2023.pdf p.219, Modulos (Jean), exercice 5",
+      "listed_owner": "p43-junior2011",
+      "id": "22046"
+    },
+    {
+      "where": "valbonne-2023.pdf p.226, Modulos (Jean), exercice 15",
+      "listed_owner": "p43-junior2011",
+      "id": "22052"
+    }
+  ],
+  "beyond_programme": [
+    {
+      "id": "22048",
+      "tool": "inverses modulo p (Wilson)",
+      "hors_programme": false
+    },
+    {
+      "id": "22049",
+      "tool": "inverses modulo p, Euler criterion",
+      "hors_programme": false
+    },
+    {
+      "id": "22051",
+      "tool": "Fermat little theorem, Gauss lemma",
+      "hors_programme": false
+    },
+    {
+      "id": "22052",
+      "tool": "Fermat little theorem, Wilson theorem",
+      "hors_programme": false
+    },
+    {
+      "id": "22053",
+      "tool": "Fermat little theorem, Bezout",
+      "hors_programme": false
+    }
+  ],
+  "source_errors": [
+    {
+      "where": "p.173, Inégalités, solution de l'exercice 6",
+      "what": "the proof of abc <= 1 writes 1 = 3/3 = (a+b+c)/3, which is false in general (only a+b+c >= 3 is known); 22006 gives a correct proof"
+    },
+    {
+      "where": "p.174, Inégalités, solution de l'exercice 10",
+      "what": "last line says a^2+b^2+c^2+d^2 = 84/36 = 7/2, it is 7/3 (typo; the minimum 7/3 is stated correctly earlier)"
+    },
+    {
+      "where": "p.180 Équations fonctionnelles 2, solution de l'exercice 9",
+      "what": "gap: in the case f(1) = 1 it writes f(1 - y) = y - 1 without checking the other sign f(1 - y) = 1 - y (that case also fails, but only for y non zero); same gap in the case f(1) = -1"
+    },
+    {
+      "where": "p.182 TD de géométrie Ex4 (statement)",
+      "what": "P' is the reflection of P about K in the printed statement, which makes the claim false (checked numerically); the printed solution uses AP' = AP, so the reflection must be about A, as in PAMO 2021"
+    },
+    {
+      "where": "p.188 TD de géométrie, solution of statement Ex9",
+      "what": "the solution swaps the names E and F"
+    },
+    {
+      "where": "p.190 TD de géométrie, JBMO 2010 restatement (Ex10)",
+      "what": "the parallel is said to pass through N, it should pass through L"
+    },
+    {
+      "where": "p.194 Mi-parcours, solution of Ex2",
+      "what": "says the triangles are right-angled at D and at O; it should be at D and at M"
+    },
+    {
+      "where": "p.207 Principe des tiroirs Ex11, statement",
+      "what": "the statement asks to show a_2 > 2n/3 where it should be a_1, the smallest number; the solution proves the a_1 version"
+    },
+    {
+      "where": "p.208-209 Principe des tiroirs Ex14, solution",
+      "what": "writes a_0 = 1 and a_4 = 5 where it should be 1 and 4, and a_1, ..., a_4 where it should be a_0, ..., a_4"
+    },
+    {
+      "where": "p.213 Nombres premiers Ex7",
+      "what": "the solution is printed under the title Solution de l'exercice 4"
+    },
+    {
+      "where": "p.215 Invariants Ex6",
+      "what": "the statement says n ⩽ 1, it should be n ≥ 1"
+    },
+    {
+      "where": "p.216 Invariants Ex13",
+      "what": "the statement says swap a and b; as printed the answer is yes (checked numerically, a chain of shifts and a<->b swaps reaches x^2-x-1); the classic problem, and the one with an invariant, swaps a and c"
+    },
+    {
+      "where": "p.215 Invariants Ex9",
+      "what": "ambiguous: it is not clear if one pair of neighbours is replaced per turn, or all pairs at once; both readings give no"
+    },
+    {
+      "where": "p.217 Modulos (Jean), solution de l'exercice 1",
+      "what": "writes 5n^2024 ≡ 5 × 1^2024 ≡ 1 [n - 1], it should be ≡ 5; the final sum 1 - 7 + 5 + 3 - 2 uses 5 and is right"
+    },
+    {
+      "where": "p.221-222 Modulos (Jean), solution de l'exercice 8, question 2",
+      "what": "writes 2021 ≡ 8 mod 11 for the right side 2022, and claims a^5 - 2b^2 cannot be 8 mod 11; false (a = 2, b = 1 gives 30 ≡ 8), modulo 11 the expression takes every value except 7, and 2022 ≡ 9, so the argument proves nothing; 22047 gives a proof by parity and remainders mod 8"
+    },
+    {
+      "where": "p.224 Modulos (Jean), solution de l'exercice 11",
+      "what": "concludes A admet au plus (p - 1)/2 éléments from each square having two roots; to get A = B from A ⊂ B and |B| ≤ (p - 1)/2 it needs |A| = (p - 1)/2, i.e. exactly two roots; 22049 gives a different, complete proof"
+    },
+    {
+      "where": "p.225 Modulos (Jean), solution de l'exercice 13",
+      "what": "rewrites x^2 + bx + c as (x + 3b)^2 + c + b, it should be + c + b^2 (since 9b^2 ≡ -b^2 mod 5); the whole case discussion is then wrong, e.g. b = 2, c = 0 has the solutions x = 0 and x = 3 but -(c + b) ≡ 3 says none; 22050 is correct"
+    },
+    {
+      "where": "p.226, Modulos (Jean), solution de l exercice 15",
+      "what": "takes N = (p1...pr)^2 + 1 and says every prime factor of N is 1 mod 4; 2 divides N when all pi are odd, so the argument has a gap; 22052 uses N = (2 p1...pr)^2 + 1; it also writes (-1)^((p-1)/2) = 1 [4] for [p]"
+    },
+    {
+      "where": "p.226, Modulos (Jean), solution de l exercice 16",
+      "what": "part 2 writes 5^p - 3^p and 5^q - 3^q for 5^p - 2^p and 5^q - 2^q (typo)"
+    },
+    {
+      "where": "p.237, Dénombrement, exercice 16",
+      "what": "the statement says nombres de n chiffres but the solution counts words that may start with 0 (example X = 0010111); the answer C(n+1, 2m+1) is right for words, checked by computer for n <= 11"
+    },
+    {
+      "where": "p.240, Équations diophantiennes, solution de l exercice 1",
+      "what": "splits on x = 0 for no reason (5 = 0, 3, 4 mod 8 is absurd for every x, then concludes x = 0); harmless, 22056 drops it"
+    },
+    {
+      "where": "p.240, Équations diophantiennes, solution de l exercice 6",
+      "what": "writes n^2 - 2^(k+1) n + 2^(2k+1) = (n - 2k)^2 + 2^k = 1 + 2^k; it is (n - 2^k)^2 + 2^(2k) >= 2^(2k) > 1"
+    },
+    {
+      "where": "p.239-240, Équations diophantiennes, exercice 7",
+      "what": "statement says a, b des entiers positifs (there is no b, it is n); solution writes 2^n + 3^n = 0 mod 25 for 2^p + 3^p"
+    },
+    {
+      "where": "p.241, Équations diophantiennes, solution de l exercice 11",
+      "what": "assumes b >= a then treats a = b + 1, and lists only (2, 2), (3, 3), (1, 2), (2, 3): the symmetric pairs (2, 1) and (3, 2) are missing (checked by computer)"
+    },
+    {
+      "where": "p.244, solution de l’exercice 3 (Entraînement de fin de parcours)",
+      "what": "coquilles « y = 2p = 5 − x = 4 » et « xt − p = 1 » pour xy − p = 1 ; le cas p = 5, où 5p = 25 n’a que trois diviseurs, n’est pas discuté (8666 l’ajoute)"
+    },
+    {
+      "where": "p.243, Entraînement de fin de parcours, exercice 4",
+      "what": "the statement does not say n >= 2, while the answer 2n - 3 is negative for n = 1"
+    }
+  ],
+  "notes": [
+    "Divisibilité: the worksheet suggestions missed the existing copies of Ex6 (0881), Ex10 (8578) and Ex11 (7059); a grep on the formula found them at once. similar.py works poorly when the statement is mostly a formula.",
+    "Two unlinked same_as pairs found in the collection while searching Principe des tiroirs: 7251 (grade 8) and 8626 (grade 9), the eight sums of a 3 by 3 grid; 7071 (grade 11) and 7667 (grade 12), five consecutive integers never a square. Not my files, so not linked.",
+    "22038 demande plus que 7251 et 8626: the n by n grid instead of 3 by 3, same pigeonhole argument. Coordinator decides which to keep.",
+    "Correction during the unit: I first skipped Divisibilité Ex5 (n + 1 | n^2 + 1, close to 7016) and Tiroirs Ex2 (n by n grid, general case of 7251) as variants. On re-reading the brief, numbers that change the answer make a different problem and the general case asks more, so both are now imported as 22037 and 22038. 22031 Going further item 2 was changed so it no longer repeats 22037.",
+    "Worksheet: p.211 Ex5 (Nombres premiers) is not an exercise but the solution of Ex4 printed under an Exercice 5 heading.",
+    "22042 demande plus que 0812 et 0508: 0812 is the T piece and 0508 the 1x4 bar on the same 10x10 grid; 22042 also asks the L and Z pieces",
+    "0508 (grade 9) and 8636 (grade 10) are the same problem (1x4 bars on a 10x10 grid) and are not linked; they need same_as, or one retired if both move to grade 8",
+    "22044 to 22051 were written by the previous agent just before it stalled; checked, fixed where needed, and built by the second agent on 2026-10-26.",
+    "22046 demande plus que 8717: 8717 proves the 4k + 3 case and leaves 6k + 5 as a Going further item; 22046 does both. stage_junior_2011.pdf p.31 ex 8 (listed owner of this text) asks only 4k + 3. If 8717 moves to grade 9 as suggested, the two sit at the same grade and the coordinator decides.",
+    "p.246 is the last page of Groupe B; p.247-248 start Groupe C (Polynômes 1), outside this unit",
+    "22037 (grade 8, n natural) is the same problem as 7662 (grade 10, n >= 1) and close to 8577 (grade 9, all relative integers, so 8577 asks more). Neither the worksheet nor the previous agent saw it; found at the end through the vm.py check lookalike notes. Linked 22037 same_as 7662 and see_also 8577. 7662 and 8577 are not linked to each other. Coordinator to arbitrate: all three need only 4e tools.",
+    "Back-links added between files of this block: 22045-22058, 22048-22049, 22048-22052, 22046-22052, 22049-22052, 22051-22053."
+  ],
+  "next_page": "",
+  "updated": "2026-10-26"
+}

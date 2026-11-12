@@ -6,7 +6,16 @@
   "8601",
   "8700"
  ],
- "status": "in_progress",
+ "status": "closed",
+ "superseded_by": [
+  "p43-ete2023-1",
+  "p43-ete2023-2",
+  "p43-ete2023-3",
+  "p43-ete2023-4",
+  "p43-ete2023-5",
+  "p43-ete2023-6",
+  "p43-ete2023-7"
+ ],
  "files_total": 1,
  "next_file": 0,
  "imported": [
@@ -146,9 +155,10 @@
   "L'identifiant 8620 n'a jamais ete utilise (exercice prevu puis abandonne). Il reste libre.",
   "ERREURS DE SOURCE relevees : (1) p. 97 ex 3 du cours invariants, le corrige compte 1012 nombres impairs entre 1 et 2022 et conclut que la somme est paire ; il y en a 1011, la somme est impaire et Caroline peut finir sur 1 (8630 publie avec la reponse correcte). (2) p. 93 ex 11, le corrige annonce 2021 tiroirs au lieu de 2022 ; conclusion inchangee. (3) p. 77 ex 4 du cours recurrence, l'hypothese dit 3^(n-2) x 2 et la conclusion 3^(n-1) x 2 ; le bon compte est 2 x 3^(n-2) pour n >= 2, verifie par enumeration (8659). (4) p. 46 ex 1, la liste des diviseurs de 72 contient 8 deux fois et oublie 9 et 18, celle de 2048 oublie 512, et 2023 a 119 pour diviseur, pas 219. (5) p. 69 ex 7, l'enonce imprime est n^3 + 2n - 1 mais le corrige (n = 2 ou 4 mod 5) correspond a n^3 + 2n^2 - 1 ; avec 2n l'expression n'est jamais divisible par 5 (8652 publie sous la forme corrigee). (6) p. 73 ex 18, le corrige annonce y - x = 2 mod 11 ; le bon calcul donne 3 mod 11, d'ou les trois solutions 271854, 274857, 278850 (8657). (7) p. 86 ex 11, le corrige oublie le cas particulier p = 5, ou la liste des diviseurs de 5p change ; il ne donne rien, la reponse p = 2, 3, 7 reste correcte (8666). (8) p. 595 Muraille ex 32, l'enonce dit « pour tout n » alors que n = 2 est impossible (8678 traite le cas a part).",
   "DOUBLONS reperes avec d'autres blocs, aucun fichier supprime, see_also pose de mon cote : 8649/0876/8819 ; 8661/7859/8326/8429 (quatre copies dans le meme dossier) ; 8664/8329 ; 8665/8433 ; 8630/8580 ; 8628/8522/7656 ; 8650/8728 ; 8656/8726 ; 8660/7720 ; 8666/8330 ; 8622/7246 ; 8629/8851 ; 8625/8831 ; 8644/7044 ; 8641/7045. Arbitrage a faire par le coordinateur.",
-  "OU REPRENDRE : valbonne-2023.pdf, chapitre III Groupe A, deuxieme partie Geometrie & Combinatoire (p. 101-137) : cours de chasse aux angles (p. 101-111), triangles semblables (p. 122-126), puissance d'un point. Puis chapitre IV Groupe B (p. 143-246), chapitre V Groupe C, chapitre VI Groupe D (IMO shortlist, a eviter), et le reste de La Muraille (p. 596-612, exercices 39 a 140, sans corriges)."
+  "OU REPRENDRE : valbonne-2023.pdf, chapitre III Groupe A, deuxieme partie Geometrie & Combinatoire (p. 101-137) : cours de chasse aux angles (p. 101-111), triangles semblables (p. 122-126), puissance d'un point. Puis chapitre IV Groupe B (p. 143-246), chapitre V Groupe C, chapitre VI Groupe D (IMO shortlist, a eviter), et le reste de La Muraille (p. 596-612, exercices 39 a 140, sans corriges).",
+  "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
  ],
- "updated": "2026-09-30",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "valbonne-2023.pdf",

@@ -1,0 +1,59 @@
+{
+  "unit": "p43-ete2015-3",
+  "source": "pofm",
+  "title": "POFM, stage_ete_2015 III. PREMIÈRE PÉRIODE, IV. DEUXIÈME PÉRIODE, V. VENDREDI 21 MATIN : TEST DE MI PARCOURS",
+  "wave": 2,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "stage_ete_2015.pdf",
+      "local_copy": "sources/originals/pofm/stage_ete_2015.pdf",
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_ete_2015.pdf",
+      "pages": [
+        [
+          68,
+          135
+        ],
+        [
+          169,
+          180
+        ],
+        [
+          189,
+          195
+        ]
+      ],
+      "chapters": [
+        "III. PREMIÈRE PÉRIODE",
+        "IV. DEUXIÈME PÉRIODE",
+        "V. VENDREDI 21 MATIN : TEST DE MI PARCOURS"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-ete2015-3.txt",
+  "old_units": [
+    "ete-2015"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 125,
+  "work_estimate": 105,
+  "id_block": [
+    "26801",
+    "27000"
+  ],
+  "status": "pending",
+  "imported": [],
+  "grade_reasons": {},
+  "no_printed_solution": [],
+  "skipped": [],
+  "regrade_suggestions": [],
+  "same_as_added": [],
+  "see_also_added": [],
+  "not_yours_but_different": [],
+  "beyond_programme": [],
+  "source_errors": [],
+  "notes": [],
+  "next_page": "",
+  "updated": ""
+}

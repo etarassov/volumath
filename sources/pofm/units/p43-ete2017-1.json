@@ -1,0 +1,73 @@
+{
+  "unit": "p43-ete2017-1",
+  "source": "pofm",
+  "title": "POFM, stage_ete_2017 II. Coupe Animath, III. Évaluation initiale, V. PREMIÈRE PÉRIODE, VI. Dimanche 20 matin : Test de",
+  "wave": 1,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "stage_ete_2017.pdf",
+      "local_copy": "sources/originals/pofm/stage_ete_2017.pdf",
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2017/10/stage_ete_2017.pdf",
+      "pages": [
+        [
+          1,
+          62
+        ],
+        [
+          103,
+          108
+        ],
+        [
+          119,
+          173
+        ],
+        [
+          227,
+          233
+        ],
+        [
+          248,
+          250
+        ]
+      ],
+      "chapters": [
+        "II. Coupe Animath",
+        "III. Évaluation initiale",
+        "V. PREMIÈRE PÉRIODE",
+        "VI. Dimanche 20 matin : Test de",
+        "VI. DIMANCHE 20 MATIN : TEST DE MI-PARCOURS",
+        "VII. DEUXIÈME PÉRIODE",
+        "VIII. Jeudi 24 matin : Test de fin de",
+        "VIII. JEUDI 24 MATIN : TEST DE FIN DE PARCOURS",
+        "IX. DERNIÈRE PÉRIODE"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-ete2017-1.txt",
+  "old_units": [
+    "ete-2017"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 186,
+  "work_estimate": 118,
+  "id_block": [
+    "19201",
+    "19400"
+  ],
+  "status": "pending",
+  "imported": [],
+  "grade_reasons": {},
+  "no_printed_solution": [],
+  "skipped": [],
+  "regrade_suggestions": [],
+  "same_as_added": [],
+  "see_also_added": [],
+  "not_yours_but_different": [],
+  "beyond_programme": [],
+  "source_errors": [],
+  "notes": [],
+  "next_page": "",
+  "updated": ""
+}

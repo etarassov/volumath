@@ -6,7 +6,14 @@
     "7701",
     "7800"
   ],
-  "status": "in_progress",
+  "status": "closed",
+  "superseded_by": [
+    "p43-ete2014-1",
+    "p43-ete2014-2",
+    "p43-ete2014-3",
+    "p43-ete2014-4",
+    "p43-ete2014-5"
+  ],
   "files_total": 1,
   "next_file": 0,
   "imported": [
@@ -167,9 +174,10 @@
     "Numerotation des solutions decalee d'un rang a partir de l'exercice 4 dans le cours de recurrence (Gachet).",
     "La muraille (p. 483-514, 136 exercices) est le meilleur gisement restant, mais elle est reimprimee d'une annee sur l'autre et d'autres agents l'ont deja largement prise. Verifier chaque enonce dans la base avant d'ecrire.",
     "Seuls les exercices resolus par un eleve pendant le stage ont une solution imprimee dans la muraille; les autres n'en ont aucune.",
-    "REPRISE: (1) La muraille, exercices 86 a 136; (2) les premiers exercices des cours des groupes B, C et D (p. 150-480), seulement echantillonnes; (3) le test de fin de parcours des groupes B, C, D."
+    "REPRISE: (1) La muraille, exercices 86 a 136; (2) les premiers exercices des cours des groupes B, C et D (p. 150-480), seulement echantillonnes; (3) le test de fin de parcours des groupes B, C, D.",
+    "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
   ],
-  "updated": "2026-10-02",
+  "updated": "2026-10-25",
   "files": [
     {
       "file": "stage_ete_2014.pdf",

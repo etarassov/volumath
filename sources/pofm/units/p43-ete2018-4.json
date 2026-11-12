@@ -1,0 +1,50 @@
+{
+  "unit": "p43-ete2018-4",
+  "source": "pofm",
+  "title": "POFM, stage_ete_2018 Groupe C, Groupe D",
+  "wave": 2,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "stage_ete_2018.pdf",
+      "local_copy": "sources/originals/pofm/stage_ete_2018.pdf",
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2019/02/stage_ete_2018.pdf",
+      "pages": [
+        [
+          234,
+          295
+        ]
+      ],
+      "chapters": [
+        "Groupe C",
+        "Groupe D"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-ete2018-4.txt",
+  "old_units": [
+    "ete-2018"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 97,
+  "work_estimate": 93,
+  "id_block": [
+    "28601",
+    "28800"
+  ],
+  "status": "pending",
+  "imported": [],
+  "grade_reasons": {},
+  "no_printed_solution": [],
+  "skipped": [],
+  "regrade_suggestions": [],
+  "same_as_added": [],
+  "see_also_added": [],
+  "not_yours_but_different": [],
+  "beyond_programme": [],
+  "source_errors": [],
+  "notes": [],
+  "next_page": "",
+  "updated": ""
+}

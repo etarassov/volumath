@@ -6,7 +6,14 @@
   "7201",
   "7300"
  ],
- "status": "done",
+ "status": "closed",
+ "superseded_by": [
+  "p43-junior2017",
+  "p43-junior2018",
+  "p43-junior2021",
+  "p43-junior2024-1",
+  "p43-junior2024-2"
+ ],
  "files_total": 4,
  "next_file": 4,
  "imported": [
@@ -188,9 +195,10 @@
   "Poly_StCheron_2024 tiroirs ex 12 (nombre maximal de fous) : la solution du polycopie annonce 14 sans construire le decoupage en 14 groupes. La majoration rédigée dans 7265 passe par les 15 diagonales montantes et l'exclusion mutuelle des deux coins.",
   "DOUBLONS A ARBITRER, memes dossiers, rien n'a ete supprime : 7216 et 7103 ; 7233 et 7002, 7106, 7407 ; 7238 et 7016, 0883, 8577 ; 7240 et 8734 ; 7217 et 8527 ; 7236 et 7024 ; 7241 et 7042 ; 7212 et 7717, 7848 ; 7254 et 7814 ; 7239 et 7101 ; 7235 et 7020, 7115 ; 7229 et 8535, 8828.",
   "7261 (jeu des deux tas de 2010) ressemble a 5305 mais les regles different : ici on peut vider autant de jetons qu'on veut d'un seul tas, la reponse et la strategie ne sont pas les memes.",
-  "Les quatre documents sont tous exploites. Le gisement restant est surtout du groupe B de 2021 et 2024 (olympiade, souvent au-dela du club) et les series d'exercices d'application deja couvertes ailleurs dans la base."
+  "Les quatre documents sont tous exploites. Le gisement restant est surtout du groupe B de 2021 et 2024 (olympiade, souvent au-dela du club) et les series d'exercices d'application deja couvertes ailleurs dans la base.",
+  "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
  ],
- "updated": "2026-10-02",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "Poly-CJ-17.pdf",

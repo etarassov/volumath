@@ -1,0 +1,65 @@
+{
+  "unit": "p43-ete2011-1",
+  "source": "pofm",
+  "title": "POFM, stage_ete_2011 II. Présentation des modules, III. Première période, IV. Seconde période, V. Troisième période",
+  "wave": 1,
+  "brief": "sources/pofm/import-brief.md",
+  "documents": [
+    {
+      "file": "stage_ete_2011.pdf",
+      "local_copy": "sources/originals/pofm/stage_ete_2011.pdf",
+      "url": "http://maths-olympiques.fr/wp-content/uploads/2017/09/stage_ete_2011.pdf",
+      "pages": [
+        [
+          1,
+          30
+        ],
+        [
+          63,
+          68
+        ],
+        [
+          89,
+          97
+        ],
+        [
+          171,
+          179
+        ]
+      ],
+      "chapters": [
+        "II. Présentation des modules",
+        "III. Première période",
+        "IV. Seconde période",
+        "V. Troisième période",
+        "IX. Test de sélection"
+      ]
+    }
+  ],
+  "scope": "every exercise whose statement starts on the pages listed in documents; its solution may lie beyond them",
+  "worksheet": "sources/originals/_coordinator/p43/units/p43-ete2011-1.txt",
+  "old_units": [
+    "ete-2010-2011"
+  ],
+  "solutions_printed": "yes",
+  "exercise_headings": 86,
+  "work_estimate": 57,
+  "id_block": [
+    "15601",
+    "15800"
+  ],
+  "status": "pending",
+  "imported": [],
+  "grade_reasons": {},
+  "no_printed_solution": [],
+  "skipped": [],
+  "regrade_suggestions": [],
+  "same_as_added": [],
+  "see_also_added": [],
+  "not_yours_but_different": [],
+  "beyond_programme": [],
+  "source_errors": [],
+  "notes": [],
+  "next_page": "",
+  "updated": ""
+}

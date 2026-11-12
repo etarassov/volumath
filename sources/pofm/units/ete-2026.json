@@ -6,7 +6,17 @@
   "8901",
   "9000"
  ],
- "status": "in_progress",
+ "status": "closed",
+ "superseded_by": [
+  "p43-ete2026-1",
+  "p43-ete2026-2",
+  "p43-ete2026-3",
+  "p43-ete2026-4",
+  "p43-ete2026-5",
+  "p43-ete2026-6",
+  "p43-ete2026-7",
+  "p43-ete2026-8"
+ ],
  "files_total": 1,
  "next_file": 0,
  "imported": [
@@ -441,9 +451,10 @@
   "Groupe B, « Combinatoire : Grilles » (p. 278-290) : seul l'exercice d'ouverture a été retenu (8942).",
   "Groupe C, « Combinatoire : Invariants » (p. 410) et « Récurrence » (p. 402-409) : ouvertures dépouillées, 4 exercices retenus ; le reste des listes n'a pas été lu au-delà des dix premiers exercices.",
   "Groupe C, « Combinatoire : Double Comptage » (p. 377-388) : les douze premiers exercices passés en revue, aucun retenu, tout est déjà dans la base.",
-  "Reprendre à : Groupe B « Combinatoire : Grilles » ex. 2 à 8 (p. 278-290, nécessitent de lire les figures), Groupe B « Ordre multiplicatif 1 » (p. 269) et « Équations diophantiennes » (p. 296), les cours du Groupe C au-delà de leurs ouvertures (Polynômes p. 316 et 334, Problèmes de taille p. 321, Restes chinois p. 349, Récurrence ex. 8 à 20, Invariants ex. 7 et suivants), et les ouvertures des cours du Groupe D (p. 444 et suivantes)."
+  "Reprendre à : Groupe B « Combinatoire : Grilles » ex. 2 à 8 (p. 278-290, nécessitent de lire les figures), Groupe B « Ordre multiplicatif 1 » (p. 269) et « Équations diophantiennes » (p. 296), les cours du Groupe C au-delà de leurs ouvertures (Polynômes p. 316 et 334, Problèmes de taille p. 321, Restes chinois p. 349, Récurrence ex. 8 à 20, Invariants ex. 7 et suivants), et les ouvertures des cours du Groupe D (p. 444 et suivantes).",
+  "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
  ],
- "updated": "2026-10-02",
+ "updated": "2026-10-25",
  "files": [
   {
    "file": "Poly-Valbonne-2026.pdf",

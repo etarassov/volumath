@@ -6,7 +6,14 @@
     "8201",
     "8300"
   ],
-  "status": "in_progress",
+  "status": "closed",
+  "superseded_by": [
+    "p43-ete2019-1",
+    "p43-ete2019-2",
+    "p43-ete2019-3",
+    "p43-ete2019-4",
+    "p43-ete2019-5"
+  ],
   "files_total": 1,
   "next_file": 0,
   "imported": [
@@ -309,9 +316,10 @@
     "Erreur source : La Muraille exercice 35 (suite avec PGCD(a_i,a_j) = PGCD(i,j)). L'enonce imprime dit « pour tous i, j » ; avec i = j l'egalite donne a_i = i immediatement et l'exercice est vide. Restitue en 8276 avec i different de j, qui est manifestement l'enonce voulu.",
     "L'exercice 12 de la Muraille (n^2016/(n-2016) entier) revient a compter les diviseurs de 2016^2016 superieurs a -2015 ; le compte est enorme et sans interet pour un club. Ecarte.",
     "La Muraille ne publie pas de solutions : les onze exercices importes depuis ce chapitre (8266 a 8276) ont ete resolus par moi puis verifies, par force brute quand c'etait possible.",
-    "Reprise : le chapitre III (Groupe A) et le chapitre IV (Groupe B) ont ete depouilles en entier, ainsi que le niveau 1 de La Muraille (exercices 1 a 42). Restent a traiter : les niveaux 2 et 3 de La Muraille (exercices 43 a 143), l'entrainement de fin de parcours du Groupe B exercice 4 (equation fonctionnelle), et, si un jour un agent veut s'y risquer, les chapitres V et VI (Groupes C et D), ecartes ici comme hors portee club."
+    "Reprise : le chapitre III (Groupe A) et le chapitre IV (Groupe B) ont ete depouilles en entier, ainsi que le niveau 1 de La Muraille (exercices 1 a 42). Restent a traiter : les niveaux 2 et 3 de La Muraille (exercices 43 a 143), l'entrainement de fin de parcours du Groupe B exercice 4 (equation fonctionnelle), et, si un jour un agent veut s'y risquer, les chapitres V et VI (Groupes C et D), ecartes ici comme hors portee club.",
+    "Fermé le 2026-10-25 sans être fini. Le reste de ce polycopié est repris par les unités listées dans superseded_by, avec le nouveau brief (tout prendre, la classe la plus basse où tous les outils sont connus). La liste skipped ci-dessus est périmée : ces unités reprennent toutes les pages, y compris les exercices sautés ici."
   ],
-  "updated": "2026-09-30",
+  "updated": "2026-10-25",
   "files": [
     {
       "file": "PolycopieV1-1.pdf",
