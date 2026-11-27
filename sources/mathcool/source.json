@@ -1,0 +1,11 @@
+{
+  "source": "mathcool",
+  "name": "MathCool (Géorgie), feuilles de stage d'été",
+  "url": "",
+  "language": "ru",
+  "kind": "Feuilles de séance d'un stage d'été de mathématiques en Géorgie, en russe, une feuille par séance et par groupe. Données par le responsable du club, pas téléchargées.",
+  "structure": "Énoncés seulement, sans solution. Les solutions sont écrites et vérifiées par celui qui importe.",
+  "citation": "MathCool, Грузия, <mois> <année>, группа «<groupe>», листок «<titre>» (<auteur>), <date>",
+  "note_levels": "La feuille « Делимость » du groupe « Земляные элементали » est d'un niveau 4e, avec quelques problèmes classiques déjà présents dans la base.",
+  "added": "2026-11-27"
+}

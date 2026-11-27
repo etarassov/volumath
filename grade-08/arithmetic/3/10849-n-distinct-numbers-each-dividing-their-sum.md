@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 20
 tags: [divisibilite, construction, puissances-de-deux, diviseurs]
 adapted_from: null
-see_also: ["7864", "40441"]
+see_also: ["7864", "40441", "41123"]
 same_as: []
 created: 2026-10-01
 source:
