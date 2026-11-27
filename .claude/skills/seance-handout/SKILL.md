@@ -23,7 +23,7 @@ the `block-title`, `separator-tight` and `float-figures` functions in `tools/pre
   block note says what to write and prove at the board, which exercises are for everyone
   and which are bonus, and how the exercises link to each other.
 - **One student PDF** (`eleves.pdf`) for the whole session: statements only, numbered 1 to N
-  across all the parts, under the part titles. No hints, no solutions, no notes.
+  across all the parts, without part titles. No hints, no solutions, no notes.
 - **No timings in any PDF**, student or teacher. Durations may guide the planning, but they
   are never printed.
 - A new hand-out on another topic is a new session folder, not an extra part in an
@@ -43,14 +43,13 @@ you change the code:
    the figure and continues at full width once it passes the bottom of the figure. The
    figure goes to the top right of its statement, even if the source file puts it in the
    middle. No caption on the student sheet (the description stays as alt text).
-3. **No page break between parts.** A new "Partie" continues on the current page.
-4. **A part title never ends a page alone.** It stays on the same page as its first
-   exercise.
-5. **An exercise is never split across two pages**: its label, statement and figure stay
+3. **No part titles.** The parts ("Partie 1. ...") exist only in the teacher PDF. On the
+   student sheet the exercises run on, numbered 1 to N, with no break between parts.
+4. **An exercise is never split across two pages**: its label, statement and figure stay
    together.
-6. **A thin light rule separates two exercises**, and is left out when it would fall at
+5. **A thin light rule separates two exercises**, and is left out when it would fall at
    the very top of a page.
-7. **Under the sheet title, only the date.** No group name. The teacher PDF keeps both.
+6. **Under the sheet title, only the date.** No group name. The teacher PDF keeps both.
 
 The teacher PDF keeps the fuller layout: the metadata line, captions, a new page for each
 part, the table of exercises on the first page, then for each part its notes followed by
@@ -95,7 +94,7 @@ Building is not enough. Before saying a hand-out is done:
    block notes, their figures). Zoom in at 200 dpi on anything that looks off.
 3. Check the rules above on the pages: "Exercice N." running into the text, only the date
    under the title, figures at the right and no wider
-   than half the text, no part title alone at the bottom of a page, no rule at the top of a
+   than half the text, no part titles, no rule at the top of a
    page, no timings.
 4. Check the figures against the statement, not just by eye: a point said to be on a circle
    must be at the radius from its centre (compute the distances from the SVG coordinates),

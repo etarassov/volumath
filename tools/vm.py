@@ -538,25 +538,22 @@ def doc_seance(meta, notes, overview, blocks, kind, here):
             out.append(md_to_typst(overview, here))
     n = 0
     for b, (block_title, exos) in enumerate(blocks, start=1):
-        # The students' sheet runs on from one part to the next, to save paper. There the
-        # part title goes inside its first exercise's block, so it never ends a page alone.
-        part_title = "#block-title(%d, %s, new-page: %s)\n" % (
-            b, tq(block_title), "true" if kind == "teacher" else "false")
+        # The students' sheet has no part titles: its exercises run on, numbered 1 to N,
+        # from one part to the next. Parts exist only in the teacher PDF.
         if kind == "teacher":
-            out.append(part_title)
+            out.append("#block-title(%d, %s, new-page: true)\n" % (b, tq(block_title)))
         if kind == "teacher" and notes.get(b, "").strip():
             out.append("#teacher-notes[\n%s\n]\n" % md_to_typst(notes[b], here))
-        for k, exo in enumerate(exos):
+        for exo in exos:
             n += 1
             src = exo.path.parent
             statement = exo.sections.get("Statement", "")
             if kind == "students":
-                if k > 0:
+                if n > 1:
                     out.append("#separator-tight()\n")
                 # No heading: "Exercice N." runs into the statement, with no title and no
                 # difficulty. Figures float to the right.
-                out.append("#block(breakable: false, width: 100%%)[\n%s%s\n]\n" % (
-                    part_title if k == 0 else "",
+                out.append("#block(breakable: false, width: 100%%)[\n%s\n]\n" % (
                     statement_floated(with_run_in_label(statement, n), src)))
                 continue
             out.append("#separator()\n")
