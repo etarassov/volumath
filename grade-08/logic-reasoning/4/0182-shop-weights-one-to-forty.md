@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 40
 tags: [denombrement, puissances, balance, majoration-et-exemple]
 adapted_from: null
-see_also: []
+see_also: ["40362", "40363"]
 same_as: []
 created: 2026-09-18
 source:

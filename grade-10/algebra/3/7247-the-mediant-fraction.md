@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 20
 tags: [fractions, inegalite, signe-d-une-difference, mediante]
 adapted_from: null
-see_also: []
+see_also: ["40806"]
 same_as: []
 created: 2026-09-20
 source:

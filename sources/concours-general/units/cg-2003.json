@@ -1,0 +1,296 @@
+{
+ "unit": "cg-2003",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2003, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2003-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2003.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40041",
+  "40080"
+ ],
+ "status": "done",
+ "imported": [
+  "40041",
+  "40042",
+  "40043",
+  "40044",
+  "40045",
+  "40046",
+  "40047",
+  "40048"
+ ],
+ "parts": [
+  {
+   "id": "40041",
+   "where": "questions préliminaires 1 et 2, première partie, questions 3 et 4"
+  },
+  {
+   "id": "40042",
+   "where": "première partie, questions 1 et 2"
+  },
+  {
+   "id": "40043",
+   "where": "deuxième partie, questions 1 à 3"
+  },
+  {
+   "id": "40044",
+   "where": "troisième partie, questions 1 à 3"
+  },
+  {
+   "id": "40045",
+   "where": "troisième partie, question 4 (a et b)"
+  },
+  {
+   "id": "40046",
+   "where": "quatrième partie, question 1 (a, b et c)"
+  },
+  {
+   "id": "40047",
+   "where": "quatrième partie, questions 2 à 4"
+  },
+  {
+   "id": "40048",
+   "where": "cinquième partie, questions 1 et 2"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40041",
+   "grade": 11,
+   "why": "produit scalaire et relation d’Euler vectorielle, repère orthonormé : rien de Terminale ; la réciproque de 4 a) demande une construction, d’où 4 étoiles"
+  },
+  {
+   "id": "40042",
+   "grade": 9,
+   "why": "orthocentre, triangle rectangle et cercle de diamètre l’hypoténuse, Pythagore : tout est de collège ; une classification à trois cas, d’où 5 étoiles en 3e"
+  },
+  {
+   "id": "40043",
+   "grade": 11,
+   "why": "probabilité uniforme, espérance, produit scalaire et cercle trigonométrique : 1re ; le dénombrement se fait sans coefficients binomiaux, et le critère d’angle aigu est démontré par un produit scalaire au lieu du théorème de l’angle inscrit"
+  },
+  {
+   "id": "40044",
+   "grade": 11,
+   "why": "produit scalaire en repère orthonormé pour l’orthocentre, puis raisonnement sur les signes : 1re ; la question 3 a) est une vraie démonstration par l’absurde à plusieurs étapes, d’où 5 étoiles"
+  },
+  {
+   "id": "40045",
+   "grade": 11,
+   "why": "formule de l’orthocentre admise, discussion de cas, suites géométriques et leurs limites : 1re"
+  },
+  {
+   "id": "40046",
+   "grade": 11,
+   "why": "produit scalaire en coordonnées et équation du second degré : 1re ; il faut deviner que l’orthocentre est sur l’hyperbole, d’où 3 étoiles"
+  },
+  {
+   "id": "40047",
+   "grade": 11,
+   "why": "second degré, somme et produit des racines, irrationalité par divisibilité, produit scalaire en coordonnées : 1re ; la similitude complexe du sujet est réécrite en coordonnées, donc pas besoin des nombres complexes (maths expertes)"
+  },
+  {
+   "id": "40048",
+   "grade": 11,
+   "why": "formules d’orthocentre admises, puissances entières, équation de cercle et produit des racines du second degré : 1re ; la similitude n’est utilisée que par un résultat admis ; synthèse de tout le problème, d’où 5 étoiles"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40041",
+   "how": "Python en fractions exactes : pour 5 quadruplets de points rationnels d’un cercle, H(X) est bien le symétrique de X par rapport à I (OI = s/2) et H(H(X)) = X ; formule de l’orthocentre (0 ; −bc/a) vérifiée ; OH² = 9R² − (AB²+BC²+CA²) et la construction réciproque vérifiées à la main"
+  },
+  {
+   "id": "40042",
+   "how": "Python en fractions exactes : tous les ensembles de 3 et de 4 points de la grille 7×7 testés ; les 2960 ensembles orthocentriques de 3 points sont des triangles rectangles, et les 1684 de 4 points se répartissent exactement en 476 triangle + orthocentre, 640 rectangles, 568 triangle rectangle + pied de la hauteur, aucun autre"
+  },
+  {
+   "id": "40043",
+   "how": "Python : pour n = 2 à 8, énumération de tous les triangles du 2n-gone ; P(rectangle) = 3/(2n−1), P(aigu) = (n−2)/(2(2n−1)) et E(L) = 3(2n−3)R²/(2n−1) confirmés exactement (L calculé avec la relation d’Euler)"
+  },
+  {
+   "id": "40044",
+   "how": "formule (0 ; −bc/a) vérifiée en fractions exactes ; la preuve de 3 a) relue cas par cas (au moins trois produits p_i n_j distincts) ; cohérence avec la recherche exhaustive de 40045 : aucun ensemble orthocentrique fini des axes n’a 3 abscisses non nulles"
+  },
+  {
+   "id": "40045",
+   "how": "Python en fractions exactes : toutes les parties de 3, 4 et 5 points prises parmi O et 24 points de chaque axe (valeurs ±1, ±2, ±3, ±4, ±1/2, ±2/3, ...) ; les 1838 parties orthocentriques trouvées coïncident exactement avec la liste de la conclusion (0 écart dans les deux sens) ; g∘f(t) = (c3/c2) t vérifié à la main"
+  },
+  {
+   "id": "40046",
+   "how": "Python en fractions exactes : orthocentre calculé par résolution du système des hauteurs pour k = 3, a, b, c = 1, −2, 5, égal au point d’abscisse −k²/(abc) ; identité AB·CD = (b−a)(d−c)(1 + k²/(abcd)) développée à la main"
+  },
+  {
+   "id": "40047",
+   "how": "Python en fractions exactes, q = ±1, ±2, ±3 : points entiers de x²+qxy−y²=1 avec |x|,|y| ≤ 400 ; pour tous les triangles de points avec |x|,|y| ≤ 30, l’orthocentre calculé est à coordonnées entières et sur la courbe ; (1, q) est bien un point entier ; la loi de produit (xx'+yy', xy'+x'y+qyy') reste sur la courbe ; identité (x+ry)(y−rx) = −r(x²+qxy−y²) développée à la main"
+  },
+  {
+   "id": "40048",
+   "how": "Python en fractions exactes : itération de H sur des quadruplets de Y1 (abcd = −1 : m = 1 ; abcd = 1 symétrique : m = 1 ; abcd = 1 non symétrique : m = 2 ; abcd = 30 et −6/7 : pas de retour en 6 étapes) et de Y0 (ρ = −1 : m = 1 ; ρ = 1 : m = 2, carré : m = 1 ; ρ = 3/10 : pas de retour) ; pour 200 triplets aléatoires de Y1, le point d’abscisse 1/(abc) est bien sur le cercle circonscrit"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40041",
+   "40042"
+  ],
+  [
+   "40041",
+   "40043"
+  ],
+  [
+   "40041",
+   "40044"
+  ],
+  [
+   "40041",
+   "40045"
+  ],
+  [
+   "40041",
+   "40046"
+  ],
+  [
+   "40041",
+   "40047"
+  ],
+  [
+   "40041",
+   "40048"
+  ],
+  [
+   "40042",
+   "40043"
+  ],
+  [
+   "40042",
+   "40044"
+  ],
+  [
+   "40042",
+   "40045"
+  ],
+  [
+   "40042",
+   "40046"
+  ],
+  [
+   "40042",
+   "40047"
+  ],
+  [
+   "40042",
+   "40048"
+  ],
+  [
+   "40043",
+   "40044"
+  ],
+  [
+   "40043",
+   "40045"
+  ],
+  [
+   "40043",
+   "40046"
+  ],
+  [
+   "40043",
+   "40047"
+  ],
+  [
+   "40043",
+   "40048"
+  ],
+  [
+   "40044",
+   "40045"
+  ],
+  [
+   "40044",
+   "40046"
+  ],
+  [
+   "40044",
+   "40047"
+  ],
+  [
+   "40044",
+   "40048"
+  ],
+  [
+   "40045",
+   "40046"
+  ],
+  [
+   "40045",
+   "40047"
+  ],
+  [
+   "40045",
+   "40048"
+  ],
+  [
+   "40046",
+   "40047"
+  ],
+  [
+   "40046",
+   "40048"
+  ],
+  [
+   "40047",
+   "40048"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Le sujet 2003 est un seul long problème (« parties orthocentriques ») : deux questions préliminaires et cinq parties. Coupé en 8 fichiers 40041 à 40048, tous liés deux à deux par see_also. Les préliminaires (deux questions de cours, relation d’Euler) sont fusionnés avec les questions 3 et 4 de la première partie, qui sont les seules à s’en servir directement ; les questions 1 et 2 de la première partie (classification des ensembles orthocentriques de 3 et 4 points) forment un fichier à part, de niveau collège (grade 9). La troisième partie est coupée en deux (questions 1 à 3, puis question 4), la quatrième aussi (question 1 sur l’hyperbole xy = k, puis questions 2 à 4 sur les points entiers). Dans 40047, la similitude complexe z ↦ (1 − ri)z est réécrite en coordonnées (x + ry ; y − rx) et une question 2 a) est ajoutée pour montrer qu’elle conserve les orthocentres : le fichier n’a donc pas besoin des nombres complexes. Dans 40043, le critère « angle aigu » est démontré par un produit scalaire plutôt que par le théorème de l’angle inscrit, et le dénombrement se fait sans coefficients binomiaux. Dans 40048, le résultat admis du sujet (similitude vers xy = 1 ou xy = 0) est complété par les propriétés des similitudes utilisées, et la réponse est donnée géométriquement (triangle + orthocentre ou rectangle pour m = 1 ; quatre points cocycliques non en rectangle pour m = 2). Aucune erreur trouvée dans le sujet. Pas de rapport ni de correction pour 2003. Doublons : aucun trouvé (recherche similar.py et grep sur orthocentre, hyperbole, polygone régulier) ; la question préliminaire 2 (relation d’Euler) est un classique, mais elle n’est qu’une question d’un fichier plus large.",
+ "next_problem": 2,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40042",
+   "40045",
+   "40046",
+   "40048"
+  ],
+  "fixed": [
+   {
+    "id": "40041",
+    "what": "normes écrites \\|…\\|^2 : le carré sortait au-dessus d'une barre décollée dans le PDF ; remplacées par \\lVert … \\rVert (indication 6, question 4 a), lemme). Mathématiques vérifiées, rien d'autre à changer"
+   },
+   {
+    "id": "40043",
+    "what": "même correction des normes \\|…\\|^2 (indication 6 et solution 3) ; « Pour aller plus loin » : le critère de la question 2 ne « dit » pas que l'angle vaut la moitié de l'angle au centre, il en découle ; phrase reformulée"
+   },
+   {
+    "id": "40044",
+    "what": "Bilan : il annonçait « trois de chaque côté que l'on veut » alors que la question 3 b) ne montre que trois abscisses strictement positives ; ramené à ce qui est démontré"
+   },
+   {
+    "id": "40047",
+    "what": "question 2 a), antécédent : « en ajoutant à la première égalité r fois la seconde » donne (1 − r²)x + 2ry, pas (1 + r²)y ; corrigé en « à la seconde égalité r fois la première » (le résultat écrit était juste)"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40042",
+    "what": "grade 3e, 5 étoiles gardé, mais 4e (5 étoiles) se défend : tous les outils (hauteurs, Pythagore, cercle de diamètre l'hypoténuse, diagonales du rectangle) sont de 4e ; la question est de savoir si un bon élève de 4e mène la classification à trois cas en une séance"
+   }
+  ],
+  "how": "Relecture contre le sujet rendu en image (pages 2 à 4). Scripts refaits de zéro (Python, fractions exactes, orthocentre calculé en résolvant le système des hauteurs, jamais par les formules du fichier) : 40041, 20 000 triangles inscrits, OH² = 9R² − ΣAB² et OH < 3R, construction réciproque du fichier testée sur 20 000 points P (OP = 0, R, et quelconque < 3R), construction du disque testée ; 40042, tous les ensembles de 3 et 4 points de la grille 5×5 : 596 orthocentriques à 3 points, tous rectangles, et 68 + 130 + 116 à 4 points (triangle + orthocentre, rectangle, triangle rectangle + pied), aucun autre ; 40043, n = 2 à 10, angles et orthocentre calculés directement : 3/(2n−1), (n−2)/(2(2n−1)) et 3(2n−3)R²/(2n−1) exacts ; 40045, toutes les parties de 3 à 5 points parmi O et 20 valeurs par axe : 2404 orthocentriques, 0 écart avec la conclusion ; 40046, 500 triplets ; 40047, q = ±1, ±2, 3, 5 : tous les triangles de points entiers (|x|, |y| ≤ 40) ont un orthocentre entier sur la courbe, s envoie la courbe sur xy = −r, identités de 2 a) et 2 b) et formule de l'antécédent vérifiées avec sympy ; 40048, H itéré directement : 200 triangles + orthocentre et 200 rectangles (dont tournés) donnent m = 1, 190 quadruplets cocycliques non rectangles donnent m = 2, 198 quadruplets quelconques ne reviennent pas en 3 étapes ; abcd = 1 ⇔ cocycliques sur Y1 et ad = bc ⇔ cocycliques sur Y0 testés. La similitude z ↦ (1 − ri)z du sujet est bien (x ; y) ↦ (x + ry ; y − rx), et la question 2 a) ajoutée est juste. Grades : aucun outil de Terminale dans 40044 ni 40048, 1re 5 étoiles confirmé. Les 8 fichiers construits sans avertissement pandoc, toutes les pages regardées."
+ },
+ "updated": "2026-11-27"
+}

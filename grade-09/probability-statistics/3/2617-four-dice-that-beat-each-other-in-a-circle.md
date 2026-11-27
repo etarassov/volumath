@@ -1,13 +1,13 @@
 ---
 id: "2617"
 title: "Quatre dés qui se battent en rond"
-grade: 11
+grade: 9
 theme: probability-statistics
-difficulty: 4
+difficulty: 3
 duration_min: 40
 tags: [probabilite, des, strategie, non-transitivite]
 adapted_from: null
-see_also: []
+see_also: ["40688"]
 same_as: []
 created: 2026-09-19
 source:

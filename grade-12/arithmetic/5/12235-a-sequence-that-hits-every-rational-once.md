@@ -7,7 +7,7 @@ difficulty: 5
 duration_min: 60
 tags: [suites, recurrence-forte, rationnels, fraction-irreductible, valuation, bijection]
 adapted_from: null
-see_also: []
+see_also: ["40841"]
 same_as: []
 created: 2026-10-01
 source:

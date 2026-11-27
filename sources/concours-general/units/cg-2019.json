@@ -1,0 +1,313 @@
+{
+ "unit": "cg-2019",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2019, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2019-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2019.pdf"
+  },
+  {
+   "role": "rapport",
+   "file": "sources/originals/concours-general/rapport-2019.pdf",
+   "url": "https://eduscol.education.fr/document/8243/download",
+   "note": "rapport du jury : statistiques et commentaires, aucune solution"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40681",
+  "40720"
+ ],
+ "status": "done",
+ "imported": [
+  "40681",
+  "40682",
+  "40683",
+  "40684",
+  "40685",
+  "40686",
+  "40687",
+  "40688",
+  "40689",
+  "40690"
+ ],
+ "parts": [
+  {
+   "id": "40681",
+   "where": "problème 1, questions 1 (a à d) et 2"
+  },
+  {
+   "id": "40682",
+   "where": "problème 1, question 3 a à d"
+  },
+  {
+   "id": "40683",
+   "where": "problème 1, question 3 e (i à iii) et f"
+  },
+  {
+   "id": "40684",
+   "where": "problème 2, partie I, questions 1 à 7"
+  },
+  {
+   "id": "40685",
+   "where": "problème 2, partie II, questions 1 et 2, et partie III, questions 1 à 3"
+  },
+  {
+   "id": "40686",
+   "where": "problème 2, partie III, question 4 (a à e)"
+  },
+  {
+   "id": "40687",
+   "where": "problème 2, partie III, questions 5 à 7"
+  },
+  {
+   "id": "40688",
+   "where": "problème 3, partie I, questions 1 et 2 (a à d)"
+  },
+  {
+   "id": "40689",
+   "where": "problème 3, partie II, questions 1 et 2 (a et b), avec une question d'échauffement ajoutée (cas k = 4)"
+  },
+  {
+   "id": "40690",
+   "where": "problème 3, partie III, questions 1 (a et b) et 2 (a et b)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40681",
+   "grade": 12,
+   "why": "fonction ln et composition de fonctions (Terminale) ; la question 2 demande de retrouver le produit à partir des autres propriétés"
+  },
+  {
+   "id": "40682",
+   "grade": 12,
+   "why": "ln, composition, loi binomiale suggérée par le sujet (Terminale)"
+  },
+  {
+   "id": "40683",
+   "grade": 12,
+   "why": "ln et composition de fonctions dans les définitions ; vérifications par cas, sans idée difficile"
+  },
+  {
+   "id": "40684",
+   "grade": 9,
+   "why": "fractions, nombres premiers et unicité de la décomposition en facteurs premiers (3e) ; sept questions courtes et guidées"
+  },
+  {
+   "id": "40685",
+   "grade": 11,
+   "why": "suites définies par récurrence (1re), enchaînements « de proche en proche » sans récurrence formelle ; H_{n-1} est admise, l'élève ne fait que des inégalités sur des fractions"
+  },
+  {
+   "id": "40686",
+   "grade": 11,
+   "why": "calcul sur des fractions et signe de (m - 2)^2 - 2 ; H_{n-1} admise ; la manipulation de n entiers et d'une propriété générale demande le niveau 1re"
+  },
+  {
+   "id": "40687",
+   "grade": 11,
+   "why": "inégalités sur des fractions, raisonnement par plus petit contre-exemple, conclusion « de proche en proche » ; aucun outil de Terminale, mais la question 2 est difficile (4 étoiles)"
+  },
+  {
+   "id": "40688",
+   "grade": 10,
+   "why": "probabilités par dénombrement de cas équiprobables et produit pour deux lancers indépendants (arbre, tableau) ; la question 2 d demande la loi d'une somme de deux lancers, plus lourde que la 3e"
+  },
+  {
+   "id": "40689",
+   "grade": 10,
+   "why": "la suite de Fibonacci est donnée par sa définition et n'utilise aucun outil sur les suites ; croissance « de proche en proche », encadrement par √2 et 2, probabilités par dénombrement"
+  },
+  {
+   "id": "40690",
+   "grade": 10,
+   "why": "dénombrement de couples, construction des cas n = 3 et n = 4 ; le passage de n à n + 2 est conclu « de proche en proche » sans récurrence formelle"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40681",
+   "how": "sympy : v(u(x)) = u(v(x)) = x, u(2x) - 2u(x) = u(x)^2, u(x+c) = e^c u(x) + e^c - 1, discriminant de 2x^2 - 3x + 4 égal à -23 ; chaque étape P5 vérifiée (différence positive)"
+  },
+  {
+   "id": "40682",
+   "how": "sympy : u(d v(x)) développé pour d = 1 à 7, coefficients binomiaux tous ≥ 1 ; lemme H - ((H - F) - G) = F + G vérifié à la main, chaque différence positive"
+  },
+  {
+   "id": "40683",
+   "how": "vérification à la main de chaque propriété, cas par cas pour (P4), (P5), (P6) ; contre-exemple x + 1 : valeur 1 en 0 et non borné"
+  },
+  {
+   "id": "40684",
+   "how": "recherche exhaustive en Python (Fraction) des entiers joviaux jusqu'à 24 : 6, 12, 15, 18, 20, 24 ; aucun premier, aucun d'ordre 2, seul 6 d'ordre 3"
+  },
+  {
+   "id": "40685",
+   "how": "u_n et v_n calculés jusqu'à n = 7, v_{n+1} = v_1...v_n + 1 vérifié ; H_n vérifiée exhaustivement pour n ≤ 4 (328 cas pour n = 4) ; pour tous les cas du type question 5 (n ≤ 4), q ≥ x_n - 1 et q ≥ x_{n-1} vérifiés"
+  },
+  {
+   "id": "40686",
+   "how": "identité (m+1)(m²-4m+2) + 4m - 2 = m(m-1)(m-2) vérifiée ; les deux seuls cas x_{n-1} = x_n avec (★) pour n ≤ 4, (2,5,7,7 ; a = 70) et (3,4,5,5 ; a = 60), vérifient m ≥ 4, a ≥ m(m-1), t ≥ r ≥ m, (m-2)(r+1) ≥ m²"
+  },
+  {
+   "id": "40687",
+   "how": "(m-1)(b+1) ≥ m(a+1) vérifiée sur les 325 cas où (★) est fausse (n ≤ 4) et sur 10^5 couples (m, a) aléatoires avec m ≤ a < m(m-1) ; b > a vérifié ; u_n plus grand jovial d'ordre 3 confirmé (6) par la recherche exhaustive"
+  },
+  {
+   "id": "40688",
+   "how": "toutes les probabilités recalculées en Python (Fraction) par énumération : 9/16 trois fois ; 7/12, 7/12, 25/36 ; sommes de deux lancers 85/144, 59/144, 671/1296 ; absence d'égalités vérifiée ; meilleure réponse de Claire : Paul gagne 11/36, 5/12, 5/12"
+  },
+  {
+   "id": "40689",
+   "how": "√2 F_n < F_{n+1} < 2F_n vérifié pour 3 ≤ n < 60 ; urnes construites et probabilités calculées par énumération pour 4 ≤ k ≤ 15, égales à 1 - x², x, x avec x = F_{k-1}/F_k, toutes > 1/2"
+  },
+  {
+   "id": "40690",
+   "how": "formules de la question 1 vérifiées sur 2000 répartitions aléatoires (n de 3 à 7) ; H_3 et H_4 vérifiées (5/9, 9/16) ; construction itérée jusqu'à n = 11 et n = 12, toutes les probabilités > 1/2 ; recherche exhaustive : aucune répartition pour n = 2, 15 pour n = 3"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40681",
+   "40682"
+  ],
+  [
+   "40681",
+   "40683"
+  ],
+  [
+   "40682",
+   "40683"
+  ],
+  [
+   "40684",
+   "40685"
+  ],
+  [
+   "40684",
+   "40686"
+  ],
+  [
+   "40684",
+   "40687"
+  ],
+  [
+   "40685",
+   "40686"
+  ],
+  [
+   "40685",
+   "40687"
+  ],
+  [
+   "40686",
+   "40687"
+  ],
+  [
+   "40688",
+   "40689"
+  ],
+  [
+   "40688",
+   "40690"
+  ],
+  [
+   "40689",
+   "40690"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [
+  {
+   "where": "problème 3, partie II, question 2 b",
+   "what": "coquille : « choisir son dé » au lieu de « choisir son urne » ; corrigé dans 40689, sans effet mathématique"
+  }
+ ],
+ "notes": "Sujet 2019 série S : trois problèmes, 10 fichiers (40681 à 40690). Problème 1 (ensembles de fonctions, sans parties) coupé en trois : questions 1-2 (40681), 3 a-d (40682), 3 e-f (40683) ; tous en Terminale à cause de ln et de la composition. Problème 2 (nombres joviaux) coupé en quatre : partie I (40684, grade 9), partie II avec partie III questions 1-3 (40685, la partie II seule était trop courte), III question 4 (40686), III questions 5-7 (40687). Les trois fichiers de la partie III admettent H_{n-1} et sont placés en 1re : la récurrence n'est jamais demandée formellement (conclusions « de proche en proche », plus petit contre-exemple à la question 6) ; le vérificateur peut juger que 40687 doit monter en Terminale. Deux précisions absentes du sujet, ajoutées dans les solutions : en III.4 e et en III.6, la liste d'entiers obtenue doit être réordonnée avant d'appliquer H (si x_{n-1} = x_n, x_n - 1 passe avant x_{n-1}) ; l'argument de la question 6 est rédigé par plus petit contre-exemple sur la somme x_1 + ... + x_n. 40687 ajoute une question 1 c (b > a), utile pour la question 6. Problème 3 (urnes et dés non transitifs) coupé en trois, une partie par fichier, tous en 2de ; 40689 ajoute une question d'échauffement (cas k = 4). Le rapport du jury 2019 ne contient aucun commentaire par question (seulement statistiques et palmarès). Aucun doublon trouvé (similar.py et grep : joviaux, fractions égyptiennes, Sylvester, transitif, Efron, segmentée). Liens see_also suggérés hors de mon bloc, non écrits dans les fichiers (le coordinateur peut les ajouter dans les deux sens) : 40684 <-> 8678 et 40684 <-> 11202 (sommes de fractions de numérateur 1 égales à 1, cités dans Going further) ; 40688 <-> 2617 (quatre dés non transitifs, cité dans Going further). vm.py check signale par titre 40684/40721 et 40687/5119 : sans rapport.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "how": "pages 2 à 7 du sujet rendues et relues ; chaque question re-résolue avant lecture des solutions. Scripts indépendants (scratchpad cg-2019-check) : sympy pour v∘u = u∘v = id, u(2x) − 2u(x) = u(x)², u(x+c) = e^c u(x) + e^c − 1, discriminant −23, coefficients de u(d v(x)) pour d ≤ 7, identités de 40686 ; recherche exhaustive (programmation dynamique en entiers) des joviaux jusqu'à 30 : 6, 12, 15, 18, 20, 24, 28, 30 (aucun premier, 9 non jovial, donc 15 est le plus petit jovial impair) ; énumération de toutes les écritures de 1 en n fractions unitaires distinctes : 0 pour n = 2, 1 pour n = 3 (2, 3, 6), 6 pour n = 4 (max 42), 72 pour n = 5 (max 1806) ; H_n vérifiée exhaustivement pour n ≤ 4 (1, 3, 18, 328 cas) avec, cas par cas, toutes les inégalités intermédiaires de 40685 (q), 40686 (m ≥ 4, a ≥ m(m−1), formule de r, t ≥ r ≥ m, (m−2)(r+1) ≥ m², H_{n−1} sur la liste réordonnée) et 40687 ((m−1)(b+1) ≥ m(a+1), b > a, liste remplacée réordonnée qui vérifie les hypothèses) ; 2·10^5 couples (m, a) rationnels aléatoires pour 40687 1 b ; problème 3 recalculé par énumération exacte (Fraction) : 9/16 ×3, 7/12, 7/12, 25/36, 85/144, 59/144, 671/1296, aucune égalité, réponses de Paul 11/36, 5/12, 5/12 ; urnes de Fibonacci construites pour 4 ≤ k ≤ 15 (1 − x², x, x) et encadrement √2 F_n < F_{n+1} < 2F_n pour n < 70 ; 40690 : formules de 1 a et 1 b sur 3000 répartitions aléatoires, chaînes H_3 → H_15 et H_4 → H_16, recherche exhaustive n = 2 (aucune), n = 3 (15), n = 4 (39). Les dix fichiers construits sans avertissement pandoc, toutes les pages regardées.",
+  "ok": [
+   "40683",
+   "40684",
+   "40686",
+   "40688",
+   "40689",
+   "40690"
+  ],
+  "fixed": [
+   {
+    "id": "40681",
+    "what": "Bilan : la stabilité par produit découle des cinq autres propriétés (P1) à (P5), pas des « quatre autres » ; première indication de la question 2 coupée en deux (d'abord « montrer que U vérifie (P6) », puis la réduction à λf et f²) pour aller du plus doux au plus fort"
+   },
+   {
+    "id": "40682",
+    "what": "indications de la question 4 réordonnées du plus doux au plus fort : la stratégie (coefficients positifs puis question 3 et P5) d'abord, le lemme ensuite, son écriture F + G = H − ((H − F) − G) en dernier ; l'ancienne première indication donnait le lemme et sa preuve d'un coup"
+   },
+   {
+    "id": "40685",
+    "what": "l'unique indication de la question 2 donnait toute la solution ; coupée en « exprimer v_{k+1} − 1 en fonction de v_k », puis l'égalité et l'enchaînement ; indications renumérotées"
+   },
+   {
+    "id": "40687",
+    "what": "pas de remplacement : la remarque sur le réordonnement couvre maintenant le cas où plusieurs x_i valent x_n (pas seulement x_{n−1}) ; Bilan précisé : le plus grand dénominateur vaut au plus u_n et u_n est atteint"
+   },
+   {
+    "id": "40684",
+    "what": "see_also complété avec 8678 et 11202 (écritures de 1 en fractions de numérateur 1 ; pas des doublons : grades 11 et 8, questions différentes)"
+   },
+   {
+    "id": "40688",
+    "what": "see_also complété avec 2617 (quatre dés non transitifs, grade 11 ; pas un doublon : autres dés, ni urnes ni somme de deux lancers)"
+   }
+  ],
+  "regrade": [],
+  "verdicts": [
+   {
+    "id": "40681",
+    "what": "reste 12/4 : la question 2 seule serait de niveau 5, mais la question 1 est routinière et les indications donnent le plan (P6 à retrouver, λf et f², u(x + c), u(2x)) ; 4 étoiles honnêtes pour le fichier"
+   },
+   {
+    "id": "40687",
+    "what": "reste 11/4 : aucune récurrence formelle demandée (H_{n−1} admise, conclusion de proche en proche), l'argument du plus petit contre-exemple est expliqué dans la solution et annoncé par l'indication 4 ; les deux étapes ajoutées par l'importateur (réordonner la liste, plus petit contre-exemple sur x_1 + … + x_n) sont justes et complètes, vérifiées exhaustivement pour n ≤ 4 ; la question ajoutée 1 c (b > a) est juste et sert bien à la question 2"
+   },
+   {
+    "id": "40688",
+    "what": "reste en 2de : les questions 1 et 2 a à c sont du niveau 3e, mais la question 2 d demande la loi de la somme de deux lancers puis la comparaison de deux telles lois (quatre lancers, dénominateur 1296), soit une loi de probabilité et une expérience à plusieurs épreuves, ce qui relève de la 2de ; la 3e s'arrête aux expériences à deux épreuves"
+   }
+  ],
+  "links_back_needed": [
+   {
+    "file": "8678",
+    "add_see_also": "40684"
+   },
+   {
+    "file": "11202",
+    "add_see_also": "40684"
+   },
+   {
+    "file": "2617",
+    "add_see_also": "40688"
+   }
+  ],
+  "doubts": [
+   {
+    "id": "40688",
+    "what": "le placement en 2de tient à la seule question 2 d ; une version sans 2 d serait un bon exercice de 3e (2 étoiles). Par ailleurs, l'exercice 2617 (dés d'Efron, un seul lancer) est placé en 1re/4, ce qui paraît trop haut pour des outils de 3e ; hors de mon bloc, à voir par le coordinateur"
+   },
+   {
+    "id": "40681",
+    "what": "5 étoiles reste défendable si l'on note le fichier sur sa question la plus dure ; laissé à 4"
+   }
+  ]
+ },
+ "updated": "2026-11-27"
+}

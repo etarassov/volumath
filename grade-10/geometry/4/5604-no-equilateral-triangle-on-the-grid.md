@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 40
 tags: [quadrillage, pick, triangle-equilateral, irrationnel, raisonnement-par-l-absurde]
 adapted_from: null
-see_also: ["5601"]
+see_also: ["5601", "40606"]
 same_as: []
 created: 2026-09-20
 source:

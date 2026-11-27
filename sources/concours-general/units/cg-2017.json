@@ -1,0 +1,289 @@
+{
+ "unit": "cg-2017",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2017, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2017-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2017.pdf"
+  },
+  {
+   "role": "rapport",
+   "file": "sources/originals/concours-general/rapport-2017.pdf",
+   "url": "https://eduscol.education.fr/document/8690/download",
+   "note": "rapport du jury : statistiques et commentaires, aucune solution"
+  },
+  {
+   "role": "correction",
+   "file": "sources/originals/concours-general/umlm-2017-correction.pdf",
+   "url": "http://unemainlavelautre.net/concours_examens/concours_general_2017_mathematique_s/concours_general_2017_mathematique_s_correction.pdf",
+   "note": "correction non officielle (unemainlavelautre.net), à utiliser comme vérification seulement"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40601",
+  "40640"
+ ],
+ "status": "done",
+ "imported": [
+  "40601",
+  "40602",
+  "40603",
+  "40604",
+  "40605",
+  "40606",
+  "40607",
+  "40608",
+  "40609"
+ ],
+ "parts": [
+  {
+   "id": "40601",
+   "where": "problème I, parties A et B, questions A1 à A3 et B1 à B2"
+  },
+  {
+   "id": "40602",
+   "where": "problème I, partie C, questions 1 et 2"
+  },
+  {
+   "id": "40603",
+   "where": "problème I, partie C, questions 3 à 6"
+  },
+  {
+   "id": "40604",
+   "where": "problème II, partie A, questions 1 à 3"
+  },
+  {
+   "id": "40605",
+   "where": "problème II, partie B, questions 1 à 4"
+  },
+  {
+   "id": "40606",
+   "where": "problème III, partie A, questions 1 a), 1 b) et 2"
+  },
+  {
+   "id": "40607",
+   "where": "problème III, partie A, question 4 (a et b)"
+  },
+  {
+   "id": "40608",
+   "where": "problème III, partie A question 1 c), partie B questions 1 et 2"
+  },
+  {
+   "id": "40609",
+   "where": "problème III, partie B, questions 3 et 4"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40601",
+   "grade": 12,
+   "why": "nombres complexes (forme exponentielle, module, conjugué) : maths expertes"
+  },
+  {
+   "id": "40602",
+   "grade": 12,
+   "why": "forme exponentielle d'un complexe, argument, cosinus de nθ : maths expertes"
+  },
+  {
+   "id": "40603",
+   "grade": 12,
+   "why": "racines de l'unité et argument d'un complexe : maths expertes ; une division euclidienne suffit pour décrire G"
+  },
+  {
+   "id": "40604",
+   "grade": 11,
+   "why": "événements indépendants et arbre pondéré, factorisation d'un polynôme du second degré : première ; pas besoin de la loi binomiale"
+  },
+  {
+   "id": "40605",
+   "grade": 12,
+   "why": "loi binomiale et coefficients binomiaux : Terminale"
+  },
+  {
+   "id": "40606",
+   "grade": 11,
+   "why": "produit scalaire dans le plan et coordonnées : première ; l'irrationalité de √3 est admise dans l'énoncé (classique de seconde)"
+  },
+  {
+   "id": "40607",
+   "grade": 9,
+   "why": "parité, écriture 2y + 1, développement d'un carré et descente infinie : rien au-delà du collège ; même type de descente que 12049 (grade 9)"
+  },
+  {
+   "id": "40608",
+   "grade": 12,
+   "why": "produit scalaire et projeté orthogonal dans l'espace : Terminale ; décomposition en facteurs premiers"
+  },
+  {
+   "id": "40609",
+   "grade": 12,
+   "why": "vecteurs orthogonaux et homothétie dans l'espace : Terminale ; Al-Kashi (première)"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40601",
+   "how": "Python : points de Z[j] de module ≤ 1 énumérés (7), aucune somme z1²+z2² nulle dans Z[j]* pour |coefficients| ≤ 6, racines carrées des 7 points comptées (13)"
+  },
+  {
+   "id": "40602",
+   "how": "Python : pour θ = kπ/N (N < 200) hors multiples de π/6 et π/4, et 10^5 θ aléatoires, un n existe ; le n explicite de b) (plus petit n avec nθ > π/3) et n ∈ {1, 2} en a) testés sur 10^5 valeurs ; pour les multiples de π/6 et π/4, aucun n ≤ 200 ne marche"
+  },
+  {
+   "id": "40603",
+   "how": "Python : tous les sous-ensembles de {0} ∪ U8 ∪ U12 (2^17) qui respectent les conditions nécessaires (stables par produit, z1²+z2² de module ≤ 1 dans l'ensemble, aucun module dans ]0,1[) ont 1, 2, 3, 5, 6, 7, 9 ou 13 éléments ; exemples Z[i] (5) et racines carrées de Z[i] (9) vérifiés ; correction non officielle d'accord sur b ≤ 17, 5 et 9 (elle ne termine pas la question 6)"
+  },
+  {
+   "id": "40604",
+   "how": "sympy : probabilités p_0 à p_4 obtenues par énumération des 2^k issues, factorisations p_4 − p_3 = −3p²(1−p)² et p_3 − p_1 = p(1−p)(2p−1) vérifiées ; la correction non officielle donne aussi p_1 = p et p_2 = p² (elle s'arrête là)"
+  },
+  {
+   "id": "40605",
+   "how": "sympy : P_k par énumération exhaustive pour k ≤ 12 égal à la somme binomiale ; P_{2k−1} − P_{2k} = C(2k−1,k)p^k(1−p)^k pour k = 1..13 et l'identité de la question 3 pour k = 0..11 vérifiées symboliquement ; meilleur k calculé pour p = 1/3, 1/2, 3/5, 9/10 (1, tous les impairs, 25, 25)"
+  },
+  {
+   "id": "40606",
+   "how": "preuve vérifiée à la main ; l'équivalent dans l'espace (triangle (1,0,0), (0,1,0), (0,0,1)) contrôlé ; pas de correction disponible pour ce problème (la correction non officielle s'arrête au problème II, question 1)"
+  },
+  {
+   "id": "40607",
+   "how": "Python : restes de x² modulo 8 = {0, 1, 4} pour x < 64 ; sommes de trois éléments de {0,1,4} modulo 8 = {0,...,6} ; aucune solution non nulle de 7a² = b²+c²+d² avec 0 ≤ a, b, c, d < 40"
+  },
+  {
+   "id": "40608",
+   "how": "Python (fractions exactes) : sur 3000 triangles aléatoires à sommets entiers dans [-6, 6]³, les tan² des angles non droits ont tous la même partie sans facteur carré k, et la construction de c) (a = BH, u = HA/r) donne bien a·u = 0 et |u|² = k|a|² à chaque fois"
+  },
+  {
+   "id": "40609",
+   "how": "Python : tangentes des triangles 3,3,2 (2√2, 2√2, 4√2/7) et 2,2,3 (√7/3, √7/3, −3√7) recalculées ; le triangle (−1,0,0), (1,0,0), (0,2,2) a bien les côtés 2, 3, 3 ; recherche exhaustive : E(3,7) (et E(3,15)) sans solution non nulle à coefficients dans [−4, 4], alors que E(3,k) en a pour k = 1, 2, 3, 5, 6, 10, 11"
+  }
+ ],
+ "skipped": [
+  {
+   "where": "problème III, partie A, question 3 (si √n est rationnel, n est un carré)",
+   "why": "même question, même niveau (grade 10) que 7038 « La racine carrée d'un entier » ; le résultat est admis dans 40606 et 40608 qui en ont besoin",
+   "existing": "7038"
+  }
+ ],
+ "beyond_programme": [
+  {
+   "id": "40601",
+   "tool": "nombres complexes, module, conjugué, racines sixièmes et douzièmes de l'unité",
+   "suggested_theme": "complex-numbers",
+   "hors_programme": false
+  },
+  {
+   "id": "40602",
+   "tool": "nombres complexes, forme exponentielle, argument",
+   "suggested_theme": "complex-numbers",
+   "hors_programme": false
+  },
+  {
+   "id": "40603",
+   "tool": "nombres complexes, racines de l'unité",
+   "suggested_theme": "complex-numbers",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  [
+   "40601",
+   "40602"
+  ],
+  [
+   "40601",
+   "40603"
+  ],
+  [
+   "40602",
+   "40603"
+  ],
+  [
+   "40604",
+   "40605"
+  ],
+  [
+   "40606",
+   "40607"
+  ],
+  [
+   "40606",
+   "40608"
+  ],
+  [
+   "40606",
+   "40609"
+  ],
+  [
+   "40607",
+   "40608"
+  ],
+  [
+   "40607",
+   "40609"
+  ],
+  [
+   "40608",
+   "40609"
+  ],
+  [
+   "40606",
+   "5604"
+  ],
+  [
+   "40607",
+   "8826"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Problème I : parties A et B réunies dans 40601 (la partie A n'est qu'un échauffement de trois questions faciles), puis la partie C coupée en deux : 40602 (questions 1 et 2, le lemme sur |a^{2n} + a^{4n}|) et 40603 (questions 3 à 6, qui admet les résultats de 40601 et 40602). La question C6 demande les valeurs possibles de b : réponse 0, 1, 2, 3, 5, 6, 7, 9, 13 et ∞ ; la correction non officielle laisse ce tableau incomplet, ma démonstration (G est l'ensemble des racines m-ièmes de l'unité, m | 24, m ≠ 3, 24, et 0 forcé quand 4 | m) est confirmée par une recherche exhaustive. En C2 b), j'ai utilisé le plus petit n tel que nθ > π/3 (n n'est pas une puissance de 2 en général : pour θ = π/12, aucun n = 2^m ne marche). Problème II : une partie par fichier, 40604 en première (arbre pondéré suffit), 40605 en Terminale (loi binomiale). L'indépendance des réponses, implicite dans le sujet, est écrite dans les deux énoncés. Pour la question B3 j'ai conditionné sur les deux dernières réponses au lieu d'utiliser la formule de Pascal proposée par le sujet ; l'autre voie est suggérée dans « Going further ». Problème III : partie A coupée selon le niveau. 40606 = A1 a), b) et A2 (plan, grade 11) ; la question A1 c), sur l'espace, est la question 1 de 40608 (grade 12), où elle sert. A3 est sauté (doublon de 7038, grade 10). A4 forme 40607 (grade 9). La partie B est coupée en 40608 (B1, B2) et 40609 (B3, B4). Liens hors de mon bloc, à compléter par le coordinateur : 40606 see_also 5604 (même question 2, « pas de triangle équilatéral sur le quadrillage », grade 10, résolue par le théorème de Pick ; 40606 demande davantage et passe par le produit scalaire, d'où grade 11 ; le coordinateur peut préférer same_as) ; 40607 see_also 8826 (grade 12, plus petit n tel que a²+b²+c² = n d² n'a que la solution nulle ; 40607 en est l'étape principale, guidée). Aucune erreur trouvée dans le sujet. Le rapport du jury 2017 ne contient que des statistiques et une phrase par problème (problème III peu traité hors partie A). La correction non officielle ne couvre que le problème I (sans finir C6) et la question II-A-1 ; elle est d'accord avec mes résultats là où elle existe.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40601",
+   "40602",
+   "40603",
+   "40605",
+   "40606",
+   "40607"
+  ],
+  "fixed": [
+   {
+    "id": "40604",
+    "what": "énoncé : ajouté que Franck ne sait pas, en répondant, si ses réponses aux quatre questions incertaines sont justes ; sinon la question 2 se lit comme une stratégie adaptative (s'arrêter dès 7 points), alors que le sujet et la solution comparent des stratégies fixées à l'avance"
+   },
+   {
+    "id": "40608",
+    "what": "question 3 b) : la lettre s servait à la fois de nombre de facteurs premiers (p_s^{e_s}) et de produit des p_i^{⌊e_i/2⌋} ; l'indice est devenu ℓ"
+   },
+   {
+    "id": "40609",
+    "what": "question 2 a) : « Tous les angles sont de la forme r√2 » remplacé par « Les tangentes des trois angles sont de la forme r√2 »"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40606",
+    "what": "lien avec 5604 (grade 10, « Pas de triangle équilatéral sur le quadrillage », par le théorème de Pick) : see_also me paraît juste, pas same_as. 40606 demande en plus la formule du pied de la hauteur et la rationalité de ses coordonnées, et passe par le produit scalaire ; un élève qui a fait 5604 a donc encore du travail dans 40606. Dans l'autre sens, un élève qui a fait 40606 connaît déjà la réponse de 5604 (seule la méthode imposée, Pick, est nouvelle) : à signaler au responsable de club. Le lien retour 40606 dans 5604 reste à écrire par le coordinateur."
+   },
+   {
+    "id": "40607",
+    "what": "grade 9, 4 étoiles gardé : outils de 3e (parité, écriture 8t + r, développement de (2y + 1)², plus petite solution), énoncé guidé par la question 1 et cinq indications ; faisable par un bon élève de 3e en une séance. Pas de doublon au même niveau trouvé. Rapproché de 8468 (grade 11/5, x² + y² = 7z², même descente) qui n'est pas lié : le coordinateur peut ajouter un see_also, et l'écart de niveau entre les deux mérite un regard."
+   },
+   {
+    "id": "40604",
+    "what": "grade 11 gardé : la règle du produit le long d'un arbre pondéré pour des épreuves indépendantes avec une probabilité p quelconque relève de la première ; un très bon élève de seconde pourrait le faire si on lui donne la règle, mais je ne descends pas sans certitude."
+   }
+  ],
+  "how": "Revérifié (agent de contrôle) : 40603 par recherche de toutes les configurations fermées « partie du disque » dans {0} ∪ U24 puis {0} ∪ U120 (conditions nécessaires : stabilité par produit et par z1² + z2² dans le disque, aucun module dans ]0, 1[) : tailles 1, 2, 3, 5, 6, 7, 9, 13 seulement, réalisées par les exemples, réponse 0, 1, 2, 3, 5, 6, 7, 9, 13, ∞ confirmée ; preuve lue (G = racines m-ièmes, m | 24, m ≠ 3, 24, 0 forcé si 4 | m) et correcte. 40602 : la recette de la solution (cas a, b avec le plus petit n tel que nθ > π/3, c par conjugué, d par −a) testée en arithmétique exacte sur les 388 844 θ = pπ/q, q < 800, hors multiples de π/6 et π/4 : aucun échec ; pour θ = π/12, n = 5 et aucune puissance de 2 ne marche ; la disjonction couvre bien tout ]−π, π]. 40604/40605 : énumération exhaustive (sympy) des 2^m issues, factorisations et identités des questions 1 et 3 pour tous les k de l'énoncé, meilleur k pour p = 1/3, 1/2, 3/5, 9/10. 40607 : restes des carrés modulo 8, sommes de trois restes, aucune solution non nulle pour |a| ≤ 60. 40608 : 4000 triangles entiers aléatoires de [−6, 6]³ en fractions exactes : même partie sans facteur carré pour tous les angles non droits, construction de 3 c) (a = BH, u = HA/r, mise à l'échelle) donne une solution non nulle de E(3, k). 40609 : tangentes des triangles 3, 3, 2 et 2, 2, 3 recalculées, triangle (0, 2, 2), (−1, 0, 0), (1, 0, 0) de côtés 3, 3, 2, E(3, 7), E(3, 14) et E(3, 15) sans solution pour des coordonnées dans [−4, 4]. Saut de A3 confirmé : 7038 (grade 10) est exactement « √n entier ou irrationnel ». Le résultat admis « √n rationnel ⇒ n carré » est écrit dans l'énoncé de 40608 où il sert (unicité de k) ; 40606 admet l'irrationalité de √3 ; 40609 admet (R2). Les neuf fichiers construits sans avertissement pandoc, pages regardées."
+ },
+ "updated": "2026-11-27"
+}

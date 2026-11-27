@@ -1,0 +1,354 @@
+{
+ "unit": "cg-2006",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2006, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2006-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2006.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40161",
+  "40200"
+ ],
+ "status": "done",
+ "imported": [
+  "40161",
+  "40162",
+  "40163",
+  "40164",
+  "40165",
+  "40166",
+  "40167",
+  "40168",
+  "40169",
+  "40170",
+  "40171",
+  "40172"
+ ],
+ "parts": [
+  {
+   "id": "40161",
+   "where": "exercice 1, questions 1 à 6"
+  },
+  {
+   "id": "40162",
+   "where": "exercice 2, partie I, questions 1 à 3"
+  },
+  {
+   "id": "40163",
+   "where": "exercice 2, partie I, questions 4 et 5"
+  },
+  {
+   "id": "40164",
+   "where": "exercice 2, partie II, questions 1 à 3"
+  },
+  {
+   "id": "40165",
+   "where": "exercice 2, partie II, questions 4 et 5"
+  },
+  {
+   "id": "40166",
+   "where": "exercice 2, partie III, questions 1 et 2"
+  },
+  {
+   "id": "40167",
+   "where": "exercice 2, partie III, question 3"
+  },
+  {
+   "id": "40168",
+   "where": "exercice 3, partie I, questions 1 à 3"
+  },
+  {
+   "id": "40169",
+   "where": "exercice 3, partie II, A « Généralités », questions 1 à 4"
+  },
+  {
+   "id": "40170",
+   "where": "exercice 3, partie II, B « Plans rencontrant 4 arêtes », questions 1 et 2"
+  },
+  {
+   "id": "40171",
+   "where": "exercice 3, partie II, C « Plans rencontrant 6 arêtes », questions 1 à 5"
+  },
+  {
+   "id": "40172",
+   "where": "exercice 3, partie II, C « Plans rencontrant 6 arêtes », question 6"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40161",
+   "grade": 9,
+   "why": "écriture décimale, divisibilité, principe des tiroirs ; la congruence de la question 4 se démontre comme « f_q(n) − qn = −p·d », sans théorème de Gauss : outils de 3e ; six questions guidées, à la portée d'un fort élève de 3e en une séance, d'où 4 étoiles"
+  },
+  {
+   "id": "40162",
+   "grade": 10,
+   "why": "hyperbole comme translatée de la courbe de la fonction inverse, encadrement de X + a/X par identités remarquables et factorisation, résolution par forme canonique, discussion de cas : outils de 2de ; la discussion en trois cas de la question 3 demande un fort élève, d'où 4 étoiles"
+  },
+  {
+   "id": "40163",
+   "grade": 12,
+   "why": "intégrale de 1/(1−x) par le logarithme, limite de a ln a, théorème des valeurs intermédiaires : Terminale"
+  },
+  {
+   "id": "40164",
+   "grade": 9,
+   "why": "bissectrices, distance à une droite, triangles semblables et homothétie : outils du cycle 4 ; trois questions guidées, à la portée d'un très fort élève de 3e avec les indications, d'où 5 étoiles ; les justifications de position (J dans l'angle A) sont données dans la solution"
+  },
+  {
+   "id": "40165",
+   "grade": 9,
+   "why": "mêmes outils de collège (chasse aux angles, triangles semblables), mais il faut voir l'alignement de I1, D, J2 et jongler avec trois triangles et deux résultats admis : trop long pour un élève de 3e en une séance, à la portée d'un fort élève de 2de. Décision du coordinateur : ramené en 3e/4 pour être cohérent avec 40164 (3e/5) ; ce fichier utilise les mêmes outils de collège et il est plus court, une fois les résultats de 40164 admis."
+  },
+  {
+   "id": "40166",
+   "grade": 12,
+   "why": "continuité et stricte croissance du rayon inscrit en fonction de BD, théorème des valeurs intermédiaires : Terminale"
+  },
+  {
+   "id": "40167",
+   "grade": 12,
+   "why": "récurrence, inégalité des moyennes pour 2^n nombres, limite de 2^n(1 − t^(1/2^n)) par le nombre dérivé de l'exponentielle en 0 : Terminale"
+  },
+  {
+   "id": "40168",
+   "grade": 12,
+   "why": "projection orthogonale, produit scalaire et bases orthonormées dans l'espace : Terminale"
+  },
+  {
+   "id": "40169",
+   "grade": 12,
+   "why": "équations de plans dans l'espace, vecteur normal, produit scalaire dans l'espace : Terminale"
+  },
+  {
+   "id": "40170",
+   "grade": 12,
+   "why": "équation de plan et produit scalaire dans l'espace : Terminale"
+  },
+  {
+   "id": "40171",
+   "grade": 12,
+   "why": "équation de plan dans l'espace et formule des projections, plus une étude de fonction par la dérivée : Terminale"
+  },
+  {
+   "id": "40172",
+   "grade": 10,
+   "why": "une fois S² = f(x, y, z) admis, il ne reste que du calcul littéral (changement de variable, développements, regroupement en carrés) et un argument « aussi proche qu'on veut » fait avec des majorations explicites, sans limite : outils de 2de ; long et technique, d'où 4 étoiles"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40161",
+   "how": "Python : pour q = 1 à 9 et m < 20000, f_q(p) = p, m > p ⇒ f_q(m) < m, m < p ⇒ f_q(m) < p, f_q(m) − qm = −p·⌊m/10⌋ ; points fixes cherchés jusqu'à 10p : 1..9 (q=1), 13, 26, 39 (q=4), 23, 46, 69 (q=7), p seul sinon ; les six critères (9, 19, 29, 13, 49, 7) testés pour n < 5000 ; suite d'exemple 4907 recalculée"
+  },
+  {
+   "id": "40162",
+   "how": "Python : 200 001 points de H1 pour a = 0,01 ; 0,1 ; 0,17 ; 0,1716 ; 0,2 ; 0,25 ; 0,3 ; 0,5 ; 0,9 : min et max de x+y et de x²+y² égaux aux formules des trois cas à 10^-6 près"
+  },
+  {
+   "id": "40163",
+   "how": "sympy : racines exactes de l'équation en X dans [a, 1] pour neuf valeurs de a (1 point pour a < 3−2√2 et a ≥ 1/4, 3 points pour a = 0,2) ; aire 1 − a + a ln a comparée à une somme de Riemann (a = 0,3) ; h(1/4) ≈ 0,0107 > 0, h(0,01) ≈ −0,33, racine ≈ 0,2059 par dichotomie"
+  },
+  {
+   "id": "40164",
+   "how": "Python : 2000 triangles aléatoires, centres I et J par barycentres : AI·AJ = AB·AC et AI/AJ = (h−2r)/h à 10^-13 près"
+  },
+  {
+   "id": "40165",
+   "how": "Python : 2000 triangles et points D aléatoires : h(h−2r) = (h−2r1)(h−2r2), AI1/AJ2 = AI/AC, AI2/AJ1 = AI/AB et alignement de D, I1, J2 vérifiés à 10^-13 près ; exemple du triangle équilatéral de côté 2 fait à la main"
+  },
+  {
+   "id": "40166",
+   "how": "Python : 300 triangles aléatoires, 3999 positions de D : r1 strictement croissant, le point où r1 = r2 est celui du maximum de r1 + r2, et celui du minimum de r1² + r2² exactement quand 8r ≤ 3h (cas limites |8r − 3h| < 0,05h exclus du test)"
+  },
+  {
+   "id": "40167",
+   "how": "Python : 3000 subdivisions aléatoires en N = 2, 4, 8 morceaux : produit des t_i égal à t à 10^-9, somme des r_i ≤ u_n, et somme des carrés ≥ v_n dans les 2418 cas où 8r ≤ 3h ; u_n et 2^n v_n calculés jusqu'à n = 20 pour h = 3, r = 1 et comparés aux limites −(h/2) ln t et (h/2 ln t)²"
+  },
+  {
+   "id": "40168",
+   "how": "vérifié à la main sur le triangle (1,0,0), (0,1,0), (0,0,1) : S² = 3/4 = 3 × 1/4 ; formules des aires projetées de l'hexagone recalculées avec sympy pour 40171 (produits vectoriels), cohérentes avec S² = S'² + S''² + S'''²"
+  },
+  {
+   "id": "40169",
+   "how": "sympy : aire du parallélogramme A N A' N' par produit vectoriel, S² = 24 + 8y² ; signes de l'équation aux huit sommets recalculés ; six plans à quatre sommets listés et contrôlés ; image des arêtes [BD'], [CD] par la rotation (X, Y, Z) ↦ (Z, X, Y) vérifiée à la main"
+  },
+  {
+   "id": "40170",
+   "how": "sympy : aire du parallélogramme M N M' N' par produit vectoriel, S² = 16 + 8u² + 8v² ; majoration |(v−u)Y − (u+v)Z| < 2 aux sommets vérifiée"
+  },
+  {
+   "id": "40171",
+   "how": "sympy : aire de l'hexagone par somme de produits vectoriels depuis O, égale à f(x, y, z) dès que z = −(x+y)/(1+xy) ; g(x) = (3+x)²(x²−2x+3) et g'(x) = 4x²(3+x) factorisés par sympy ; construction de R par K = (MN) ∩ (CD) et (KM') ∩ (CA') vérifiée sur 5 tirages aléatoires"
+  },
+  {
+   "id": "40172",
+   "how": "sympy : la formule admise de g(u, v) est exacte ; développements de P, Q, Q − P et 4P − 3Q recalculés, regroupement en trois carrés plus un reste à coefficients positifs vérifié ; g(u, 1) − 24 et 32 − g(u, 1) recalculés"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40162",
+   "40163"
+  ],
+  [
+   "40162",
+   "40164"
+  ],
+  [
+   "40162",
+   "40165"
+  ],
+  [
+   "40162",
+   "40166"
+  ],
+  [
+   "40162",
+   "40167"
+  ],
+  [
+   "40163",
+   "40164"
+  ],
+  [
+   "40163",
+   "40165"
+  ],
+  [
+   "40163",
+   "40166"
+  ],
+  [
+   "40163",
+   "40167"
+  ],
+  [
+   "40164",
+   "40165"
+  ],
+  [
+   "40164",
+   "40166"
+  ],
+  [
+   "40164",
+   "40167"
+  ],
+  [
+   "40165",
+   "40166"
+  ],
+  [
+   "40165",
+   "40167"
+  ],
+  [
+   "40166",
+   "40167"
+  ],
+  [
+   "40168",
+   "40169"
+  ],
+  [
+   "40168",
+   "40170"
+  ],
+  [
+   "40168",
+   "40171"
+  ],
+  [
+   "40168",
+   "40172"
+  ],
+  [
+   "40169",
+   "40170"
+  ],
+  [
+   "40169",
+   "40171"
+  ],
+  [
+   "40169",
+   "40172"
+  ],
+  [
+   "40170",
+   "40171"
+  ],
+  [
+   "40170",
+   "40172"
+  ],
+  [
+   "40171",
+   "40172"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Exercice 1 : un seul fichier (pas de parties, six questions liées). Proche de 22044 (grade 8, critère par 7 « d − 2a0 ») mais 40161 demande beaucoup plus : je le garde ; le coordinateur peut ajouter un see_also dans les deux sens. La « congruence modulo p » de la question 4 est posée comme « f_q(n) − qn est un multiple de p », démontrée par f_q(n) − qn = −p·d, sans Gauss. Exercice 2 : six fichiers, deux par partie. Partie I coupée entre 1-3 (2de, algèbre) et 4-5 (Terminale : intégrale, ln, TVI), le sujet disant lui-même que 4 et 5 ne servent pas ensuite. Partie II coupée entre 1-3 (cercle exinscrit, AI·AJ = AB·AC, homothétie) et 4-5 (h(h−2r) = (h−2r1)(h−2r2)), le second rappelant en « on admet » les résultats du premier. Partie III coupée entre 1-2 (point E, r1 + r2 maximal, condition 8r ≤ 3h) et 3 (2^n morceaux, limites), le second admettant la relation et l'existence de E. 40164 est mis en 3e (5 étoiles) : tous ses outils sont du cycle 4 ; c'est le choix le plus discutable de l unité, 2de/4 serait aussi défendable. Exercice 3 : cinq fichiers : partie I (formule des projections), II-A, II-B, II-C questions 1 à 5, II-C question 6. La figure du cube est redessinée en SVG (copiée dans 40169, 40170, 40171). Dans 40169 à 40171, j'ai ajouté à l'énoncé un « on admet » : la section est un polygone convexe dont les sommets sont les points où le plan coupe les arêtes. Le croquis à main levée de C.1 est remplacé par « expliquer comment construire R », avec la construction dans la solution. 40172 (question 6) est mis en 2de : une fois S² = f admis, c'est du calcul littéral ; l'argument de meilleur encadrement est fait par majorations explicites de g(u, 1), sans limite. Aucune erreur trouvée dans le sujet ; la formule admise pour g(u, v) (C.6.b) est exacte (vérifiée par sympy). Les notes de vm.py check sur 7416, 13809, 11833, 12014, 22018 sont de faux rapprochements (vérifié pour 7416). Pas de rapport du jury ni de correction pour 2006.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40161",
+   "40162",
+   "40163",
+   "40164",
+   "40165",
+   "40166",
+   "40167",
+   "40168",
+   "40170",
+   "40171",
+   "40172"
+  ],
+  "fixed": [
+   {
+    "id": "40169",
+    "what": "le résultat admis (« A est un polygone convexe dont les sommets sont les points où P rencontre les arêtes ») est faux tel quel pour les plans à 4 sommets, qui contiennent deux arêtes entières ; restreint à « lorsque P ne contient aucune arête du cube », et la solution de 3 b) dit maintenant pourquoi le plan ne contient aucune arête avant d'utiliser ce résultat (la question 2 ne s'en servait pas)"
+   }
+  ],
+  "regrade": [
+   {
+    "id": "40165",
+    "from": "10/4",
+    "to": "9/4",
+    "why": "coordinateur : alignement avec 40164 (3e/5), mêmes outils de collège, fichier plus court"
+   }
+  ],
+  "doubts": [
+   {
+    "id": "40164",
+    "what": "3e/5 gardé : tous les outils sont du cycle 4 (bissectrice expliquée par symétrie, triangles semblables, homothétie de 3e) et l'argument « J dans l'angle A » par les angles 90° − β et 90° − γ est juste ; mais trois idées enchaînées (position de J, deux paires de triangles semblables, image d'un cercle et d'une tangente par homothétie) sont à la limite pour un fort élève de 3e en une séance ; 2de/4 resterait défendable. 17822 (3e/4, alignement M, D, J par la même homothétie de A qui envoie le cercle exinscrit sur le cercle inscrit) est un voisin à lier en see_also par le coordinateur."
+   },
+   {
+    "id": "40165",
+    "what": "2de/4 gardé, mais incohérent avec 40164 : avec les résultats de 40164 admis, ce fichier est plutôt plus court et moins délicat que 40164 (une chasse aux angles, l'alignement I1, D, J2 donné par l'indication 2, puis de l'algèbre). Mettre les deux fichiers au même niveau : soit 3e/5 pour les deux, soit 2de/4 pour les deux ; je n'ai pas tranché."
+   },
+   {
+    "id": "40161",
+    "what": "3e/4 gardé ; aucun outil n'est propre à la 3e (divisibilité, écriture décimale, tiroirs), donc 4e/5 se discute, mais six questions abstraites (suite itérée, périodicité, quantificateurs) me paraissent trop pour un élève de 4e en une séance."
+   },
+   {
+    "id": "40172",
+    "what": "le Bilan (et le « Pour aller plus loin » de 40171) parlent de toutes les sections hexagonales, alors que le calcul porte sur les plans qui coupent [AB] et [BC] ; c'est vrai par symétrie du cube (le côté positif d'une section hexagonale est toujours un sommet et ses trois voisins) et le contexte de l'énoncé le présente comme acquis, donc laissé tel quel."
+   }
+  ],
+  "how": "Paper pages 2 to 7 rendered and read against every statement. Own scripts in the scratchpad (cg-2006-check): 40161 brute force for q = 1..9 and m < 30000 (f_q(m) − qm = −p⌊m/10⌋, decrease above p, stay below p, fixed points 1..9 / 13, 26, 39 / 23, 46, 69, the six criteria for n < 20000, the 4907 example); 40162 and 40163 on 200 001 points of the arc for ten values of a including 3 − 2√2 (ranges of x + y and x² + y², number of common points with the circle 1 / 3 / 1), h(1/4) ≈ 0,0107, h(0,01) ≈ −0,328, a single sign change of h on ]0, 1[ at 0,20585, area by a midpoint sum at a = 0,3; 40164 to 40166 on 3000 random triangles with J built as the meeting point of the two perpendiculars (AI·AJ = AB·AC, AI/AJ = (h − 2r)/h, h(h − 2r) = (h − 2r1)(h − 2r2), the two similarity ratios, alignment of I1, D, J2, all to 4e-14) and on 300 triangles × 3999 positions of D (r1 increasing, max of r1 + r2 at E, min of r1² + r2² at E exactly when 8r ≤ 3h, 292 clear cases); 40167 random subdivisions for N = 2, 4, 8 (product of the t_i = t, no sum above u_n, no sum of squares below v_n when t ≥ 1/4), equal radii built by bisection for N = 4 reach u_2, limits checked up to n = 30; 40169 to 40172 with sympy (S² = 24 + 8y², 16 + 8u² + 8v², hexagon area by cross products equal to f when z = −(x + y)/(1 + xy), six cut edges for 2000 random (x, y), g(x) and g'(x) = 4x²(3 + x), the admitted formula for g(u, v), the P and Q coefficient table, Q − P, the grouping of 4P − 3Q into three squares plus R, g(u, 1) − 24 and 32 − g(u, 1)), construction of R through K = (MN) ∩ (CD) checked on 5 random planes. All 12 files built without a pandoc warning; every page rendered and looked at; the cube figure (identical in 40169, 40170, 40171) matches the paper's labels, axes and hidden edges and gives nothing away."
+ },
+ "updated": "2026-11-27"
+}

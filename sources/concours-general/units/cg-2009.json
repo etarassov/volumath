@@ -1,0 +1,153 @@
+{
+ "unit": "cg-2009",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2009, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2009-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2009.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40281",
+  "40320"
+ ],
+ "status": "done",
+ "imported": [
+  "40281",
+  "40282",
+  "40283",
+  "40284",
+  "40285"
+ ],
+ "parts": [
+  {
+   "id": "40281",
+   "where": "exercice I « Analyse », questions 1 a) à 2 c) (tout l'exercice, une seule partie courte)"
+  },
+  {
+   "id": "40282",
+   "where": "exercice II « Jouons aux dés », questions 1 à 4 (lancer simple : probabilités, loi de X_a, espérance du gain)"
+  },
+  {
+   "id": "40283",
+   "where": "exercice II « Jouons aux dés », questions 5 et 6 (relance : quels dés garder)"
+  },
+  {
+   "id": "40284",
+   "where": "exercice III « Arithmétique », questions 1 a), 1 b) et 2 (théorème de Fine et Wilf)"
+  },
+  {
+   "id": "40285",
+   "where": "exercice III « Arithmétique », questions 3 a) et 3 b) (la borne a + b − 1 est optimale, suite palindrome)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40281",
+   "grade": 12,
+   "why": "limites de fonctions avec preuve, continuité en un point, dérivées de sin et cos, lim sin(u)/u : tout est de Terminale ; la formule de duplication est rappelée dans l'énoncé"
+  },
+  {
+   "id": "40282",
+   "grade": 11,
+   "why": "dénombrement de 20⁴ résultats, variable aléatoire, loi et espérance (1re) ; l'additivité de l'espérance est rappelée dans l'énoncé et justifiée par une moyenne sur un univers équiprobable ; pas de loi binomiale nécessaire (les 1, 4, 6, 4, 1 placements se listent)"
+  },
+  {
+   "id": "40283",
+   "grade": 11,
+   "why": "mêmes outils que 40282 : probabilités d'au moins un / au moins deux succès parmi 2 ou 3 dés par l'événement contraire, espérance comme somme ; comparaisons d'expressions affines"
+  },
+  {
+   "id": "40284",
+   "grade": 10,
+   "why": "restes de la division euclidienne, diviseurs communs, décomposition en facteurs premiers (collège/2de) ; le lemme de Gauss nécessaire en 1 a) est remplacé par un argument de facteurs premiers en quelques lignes ; long et abstrait, d'où 5 étoiles en 2de"
+  },
+  {
+   "id": "40285",
+   "grade": 10,
+   "why": "restes et multiples seulement, une fois admis les résultats R1 et R2 (permutation des restes, règle +a / −b) ; la symétrie se montre par une différence multiple de a + b, sans congruences"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40281",
+   "how": "inégalités 2θ/π ≤ sin θ et cos θ ≤ 1 − θ²/π testées sur 100 001 points de [0, π/2] en Python (minimum 0, atteint aux bornes) ; (1 − cos θ)/θ² → 1/2 vérifié numériquement ; cos(x√(2a)) vérifie la relation à 1e-15 près sur [−50, 50] et donne la limite a ; chaque étape de 2 b) et 2 c) relue à la main (unicité de θ dans [0, π], cas c = 0 séparé)"
+  },
+  {
+   "id": "40282",
+   "how": "les 160 000 lancers énumérés en Python avec Fraction : P(rien) = 2907/4000, lois des k = 0..4 occurrences, E(G) = 47103/16000, P(G = 8) = 2147/160000 ; la remarque de Going further (P(G = 20) = 2183/160000 > P(G = 8)) vérifiée aussi"
+  },
+  {
+   "id": "40283",
+   "how": "espérances exactes par énumération de toutes les relances : pour 11-7-2-2 les 16 choix calculés (garder le 11 seul = 24093/8000 est le meilleur, garder 2-2 = 63/25) ; pour les 4845 mains à valeurs distinctes, le meilleur choix est bien « garder a1 si a1 ≥ 11, sinon tout relancer », formules E1, E2, E3 confirmées ; égalité garder 20 / garder 20 et 19 (423/100) trouvée par le script, mentionnée dans la solution"
+  },
+  {
+   "id": "40284",
+   "how": "théorème vérifié par force brute en Python sur toutes les suites à 3 symboles, pour 1 ≤ a, b ≤ 6 et n de a + b − d à a + b − d + 2 ; propriétés des restes r_k (permutation de 1..a+b−1, r_{a+b−1} = b, règle +a / −b) vérifiées pour tous a, b premiers entre eux entre 2 et 29 ; exemple (1,0,1,1,0,1) de périodes 3 et 5 contrôlé"
+  },
+  {
+   "id": "40285",
+   "how": "pour a, b premiers entre eux de 2 à 29 : la construction A = {r_1..r_{j−1}}, B = {r_{j+1}..r_{a+b−1}} donne des périodes a et b et un palindrome ; pour a + b − 2 ≤ 16, énumération de toutes les suites de 0 et 1 : exactement 2 suites non constantes conviennent (V et son complément), toutes deux palindromes ; les affirmations de Going further (a, b−1 dans A ; a−1, b dans B) découlent de R2 et ont été relues"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40282",
+   "40283"
+  ],
+  [
+   "40284",
+   "40285"
+  ],
+  [
+   "40284",
+   "10646"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Sujet de 4 pages, trois exercices courts, 5 fichiers. Exercice I gardé en un seul fichier (la question 1 n'est qu'un échauffement pour la question 2). Exercice II coupé à « On suppose à partir de maintenant » : 40282 (lancer simple) et 40283 (relance) ; 40283 admet l'espérance 47103/16000 et précise le critère « maximiser l'espérance du score final », implicite dans le sujet. Exercice III coupé entre Fine-Wilf (questions 1 et 2, 40284) et l'optimalité (question 3, 40285) ; 40285 admet le résultat 1 a) et la règle de passage de r_k à r_{k+1}. Lien see_also 40284 → 10646 (même idée pour une suite infinie, grade 10) écrit d'un seul côté : le coordinateur peut ajouter 40284 dans 10646. Aucun outil hors programme : le lemme de Gauss de 1 a) est démontré par décomposition en facteurs premiers. Question 6 de l'exercice II : il y a une égalité exacte (garder 20 seul ou 20 et 19, espérance 4,23), signalée dans la solution. Aucun doublon trouvé (similar.py et grep sur dés à 20 faces, f(2x) = 2f(x)² − 1, périodes de suites finies).",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40281",
+   "40283",
+   "40285"
+  ],
+  "fixed": [
+   {
+    "id": "40282",
+    "what": "indication 4 (question 4) donnait d'emblée les deux cas (des 8, ou deux paires de somme 8) ; remplacée par une indication plus douce (« des dés qui montrent 8 ne sont pas la seule façon de marquer 8 points »), les deux paires passent dans l'indication 5"
+   },
+   {
+    "id": "40284",
+    "what": "la première indication de la question 1 b) donnait directement le mécanisme (+a / −b, une période relie u_{r_k} et u_{r_{k+1}}) ; ajout d'une indication plus douce avant elle, sur l'exemple a = 3, b = 5 (u_3 = u_6 par la période 3, u_6 = u_1 par la période 5, suivre l'ordre des restes) ; indications renumérotées"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40284",
+    "what": "niveau gardé à 2de, 5 étoiles. Aucun outil de 1re ne sert (la 1re spécialité n'a pas d'arithmétique), donc passer en 1re ne se justifierait que par la maturité. La chaîne est longue et abstraite (lemme de Gauss par facteurs premiers, chaîne des restes, réduction à une sous-suite) ; avec les 7 indications, un très bon élève de 2de peut la faire en une séance, mais c'est à la limite. Le coordinateur peut préférer 11/4. L'argument par facteurs premiers remplaçant Gauss est correct (il utilise l'unicité de la décomposition, admise en 2de)."
+   },
+   {
+    "id": "40284",
+    "what": "le lien see_also 40284 → 10646 n'est écrit que d'un côté (10646 est hors du bloc) ; vm.py check le note. 10646 est un cas particulier (périodes 2022 et 5, suite infinie), le lien est pertinent."
+   },
+   {
+    "id": "40282",
+    "what": "Going further demande quels scores non nuls sont les plus probables : réponse 19 et 20 à égalité (2183/160000 chacun), non écrite dans le fichier ; à ajouter si l'on veut une réponse pour l'animateur."
+   }
+  ],
+  "how": "Sujet rendu en images (pages 2 à 4) et relu contre chaque énoncé. Scripts propres dans le scratchpad cg-2009-check : dice.py énumère les 160 000 lancers (P(rien) = 2907/4000, loi du nombre de a : 130321, 27436, 2166, 76, 1, E(G) = 47103/16000, P(G = 8) = 2147/160000, P(G = 20) = 2183/160000) et calcule exactement l'espérance de chaque choix de relance : pour 11-7-2-2, garder le 11 seul = 24093/8000 est le meilleur des 16 choix (tout relancer 47103/16000, garder 2-2 = 63/25, garder 11-2-2 = 51/20) ; pour les 4845 mains à valeurs distinctes la règle « garder a1 si a1 ≥ 11, sinon tout relancer » est toujours optimale, et les seules égalités (153 mains) sont a1 = 20, a2 = 19 avec garder 20 ou garder 20 et 19, espérance 423/100. period.py : les deux inégalités de 1 b) sur 200 001 points de [0, π/2] (minimum 0 aux bornes), (1 − cos θ)/θ² → 1/2, cos(x√(2a)) vérifie la relation ; Fine et Wilf vérifié sur toutes les suites à 3 symboles pour a, b ≤ 6 et n ≥ a + b − d (aucun contre-exemple ; la borne est atteinte dans 14 cas) ; pour a, b premiers entre eux de 2 à 29, R1, R2, la construction de A et B, le palindrome, a et b − 1 dans A, a − 1 et b dans B, et pour a + b − 2 ≤ 18 exactement deux suites non constantes de 0 et 1 conviennent. Preuves de 40281 (unicité, borne cos θ ≤ 1 − θ²/π, cas c = 0) et de 40284/40285 relues ligne par ligne, sans erreur. Niveaux : 40281 12/4 (limites avec preuve, dérivées de sin et cos), 40282 11/3 et 40283 11/4 (variable aléatoire et espérance), 40285 10/4 confirmés. Les 5 fichiers construits sans avertissement pandoc, toutes les pages regardées."
+ },
+ "updated": "2026-11-27"
+}

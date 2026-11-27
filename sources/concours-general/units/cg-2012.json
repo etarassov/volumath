@@ -1,0 +1,196 @@
+{
+ "unit": "cg-2012",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2012, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2012-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2012.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40401",
+  "40440"
+ ],
+ "status": "done",
+ "imported": [
+  "40401",
+  "40402",
+  "40403",
+  "40404",
+  "40405",
+  "40406",
+  "40407"
+ ],
+ "parts": [
+  {
+   "id": "40401",
+   "where": "problème 1 « Les premiers sont les derniers », questions 1 à 3"
+  },
+  {
+   "id": "40402",
+   "where": "problème 1, question 4 (a à d)"
+  },
+  {
+   "id": "40403",
+   "where": "problème 1, question 5 (a à d)"
+  },
+  {
+   "id": "40404",
+   "where": "problème 2 « Une suite majoritairement décroissante », en entier (une seule question)"
+  },
+  {
+   "id": "40405",
+   "where": "problème 3 « Le facteur sonne toujours une fois (et une seule) », questions 1 et 2 (a, b)"
+  },
+  {
+   "id": "40406",
+   "where": "problème 3, question 3 (a, b)"
+  },
+  {
+   "id": "40407",
+   "where": "problème 3, question 4 (plus un échauffement ajouté : n = 3 et n = 4)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40401",
+   "grade": 9,
+   "why": "décomposition en facteurs premiers et puissances (3e) ; calculs et petites disjonctions de cas, à la portée d'un bon élève de 3e"
+  },
+  {
+   "id": "40402",
+   "grade": 10,
+   "why": "seulement des facteurs premiers et des puissances, mais la double décomposition à indices de la question 3 est trop abstraite pour la 3e ; la récurrence de la question 1 est expliquée « de proche en proche »"
+  },
+  {
+   "id": "40403",
+   "grade": 10,
+   "why": "facteurs premiers et règles de calcul sur les exposants littéraux ; la question 4 demande de décomposer les exposants eux-mêmes, plus naturel en 2de qu'en 3e"
+  },
+  {
+   "id": "40404",
+   "grade": 12,
+   "why": "la conclusion est une limite à démontrer (définition de la limite, Terminale) ; le raisonnement lui-même n'est que du dénombrement et une récurrence"
+  },
+  {
+   "id": "40405",
+   "grade": 9,
+   "why": "principe multiplicatif (expliqué en deux lignes) et distances sur une droite ; l'argument des tronçons parcourus deux fois est à la portée d'un bon élève de 3e avec les indications"
+  },
+  {
+   "id": "40406",
+   "grade": 10,
+   "why": "même argument des tronçons, mais la majoration par 2·min(j, n−j) puis la construction générale selon la parité de n demandent plus de maturité ; somme 1+…+p expliquée dans la solution ; cohérent avec 12634 (version chemin ouvert, 2de 5 étoiles)"
+  },
+  {
+   "id": "40407",
+   "grade": 11,
+   "why": "espérance d'une variable aléatoire (1re) ; la linéarité est justifiée comme un regroupement de sommes dans un tableau, la formule de la somme des carrés est rappelée dans l'énoncé"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40401",
+   "how": "f programmée en Python (sympy.factorint) : f(2012)=4, itérés de 36^36 = 2^72·3^72, 2^15·3^10, 225000, 225000 ; f(8)=9, f(9)=8 ; f(n)=2 sans solution pour n < 200000 ; solutions de f(n)=4 jusqu'à 3000 identiques à 4m, m impair sans facteur carré"
+  },
+  {
+   "id": "40402",
+   "how": "f(f(n)) ≤ n vérifié pour tout n < 100000 ; pour ces n la suite des itérés devient 2-périodique (prépériode au plus 11) ; exemple 2^6·5^4 recalculé"
+  },
+  {
+   "id": "40403",
+   "how": "construction m = 2^x·3^y (ou 2^x, 3^y) testée pour tous les n de E inférieurs à 3000 ; image de f sur n < 100000 incluse dans E ∪ {1} ; (2012^1006)^2 = 2012^2012 vérifié en entiers exacts"
+  },
+  {
+   "id": "40404",
+   "how": "200 suites construites en Python en fractions exactes (la suite maximale et 199 suites aléatoires sous la contrainte, 600 termes) : u_n ≤ 1/2^(k+1) dès n ≥ 2^(k+1) − 1 et N_k ≤ 2^k − 1 vérifiés pour k ≤ 8 ; la suite maximale vaut 1, 1/2, 1/2, 1/4 (4 fois), 1/8 (8 fois), donc la borne est atteinte"
+  },
+  {
+   "id": "40405",
+   "how": "tous les trajets énumérés en Python pour n = 2 à 9 : (n−1)! trajets, minimum 2(n−1), exactement 2^(n−2) trajets minimaux, et chacun croît jusqu'à n puis décroît ; 8 trajets de longueur 10 pour n = 5"
+  },
+  {
+   "id": "40406",
+   "how": "maximum par énumération pour n = 2 à 9 : 2, 4, 8, 12, 18, 24, 32, 40 = partie entière de n²/2 ; les deux constructions générales vérifiées (permutation valide, longueur exacte) pour n = 2 à 29"
+  },
+  {
+   "id": "40407",
+   "how": "espérance exacte (fractions) par énumération pour n = 2 à 9 : égale à n(n+1)/3 (4, 20/3, 10, 14, …) ; moyenne de |a−b| sur les couples distincts de N entiers consécutifs = (N+1)/3 vérifiée pour N = 2 à 14 ; tableau n = 4 recalculé (somme 40)"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40401",
+   "40402"
+  ],
+  [
+   "40401",
+   "40403"
+  ],
+  [
+   "40402",
+   "40403"
+  ],
+  [
+   "40405",
+   "40406"
+  ],
+  [
+   "40405",
+   "40407"
+  ],
+  [
+   "40406",
+   "40407"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Papier court : trois problèmes sans parties. Problème 1 (questions 1 à 5) coupé en trois fichiers : questions 1 à 3 (calculs, 3e), question 4 (f(f(n)) ≤ n et itérés 2-périodiques), question 5 (valeurs de f). Problème 2 (une seule question, non guidée) : un fichier, guidage mis dans les indications. Problème 3 coupé en trois : questions 1-2 (nombre de trajets, trajets minimaux), question 3 (trajet maximal), question 4 (espérance). 40406 met see_also vers 12634 (POFM, même idée des tronçons pour un chemin ouvert, réponse différente) : lien à sens unique, je n'ai pas touché 12634 ; au coordinateur d'ajouter 40406 dans 12634 s'il le juge utile. Dans 40406, l'exemple de trajet de l'énoncé du sujet (1, 5, 2, 4, 3, 1) a été remplacé par 1, 3, 5, 4, 2, 1, car le premier est de longueur maximale. Dans 40407, une question d'échauffement (n = 3 et n = 4) est ajoutée et la formule de la somme des carrés est rappelée. Aucune erreur trouvée dans le sujet ; question 5(d) « réciproque du (b) » interprétée comme « si n = f(m) avec m dans E, alors n est dans E » (vraie), avec en bilan l'image complète de f : {1} ∪ E.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40402",
+   "40403",
+   "40404",
+   "40405",
+   "40406",
+   "40407"
+  ],
+  "fixed": [
+   {
+    "id": "40401",
+    "what": "Bilan : « m impair sans facteur carré » (terme jamais défini pour un élève de 3e) remplacé par « m vaut 1 ou est un produit de nombres premiers impairs distincts », comme dans la solution"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40403",
+    "what": "2de/3 gardé ; 3e/4 serait défendable (questions 1 à 3 de niveau 3e, seule la question 4 décompose les exposants eux-mêmes). Pas assez sûr pour déplacer."
+   },
+   {
+    "id": "40404",
+    "what": "12/5 gardé après examen : problème entier non guidé, l'idée (compter les termes au-dessus de 1/2^k) n'est pas naturelle et la piste « la suite décroît » échoue ; 4 étoiles serait défendable vu la brièveté de la preuve une fois l'idée trouvée. La borne u_n ≤ 1/2^k dès n ≥ 2^k − 1 et sa finesse sont justes (vérifié)."
+   },
+   {
+    "id": "40406",
+    "what": "2de/4 gardé, cohérent avec 12634 (2de/5) ; tous les outils sont de collège, un placement 3e/5 se discuterait. Le lien see_also vers 12634 est à sens unique (12634 hors du bloc, au coordinateur d'ajouter 40406)."
+   },
+   {
+    "id": "40407",
+    "what": "1re/4 gardé : 4 étoiles honnêtes (moyenne colonne par colonne, symétrie des couples, somme Σ d(N−d)). L'outil réel n'est qu'une moyenne sur des cas équiprobables ; reformulé en « longueur moyenne », le fichier pourrait aller en 2de/5, mais l'énoncé parle d'espérance comme le sujet."
+   }
+  ],
+  "how": "Sujet rendu à 150 dpi (pages 2 et 3) et relu contre chaque énoncé. Scripts propres (scratchpad cg-2012-check) : f via sympy, f(2012)=4, itérés de 36^36 = 2^72·3^72 → 2^15·3^10 → 225000 fixe, f(8)=9, f(9)=8, f(49)=128, f(128)=49 ; f(n)=1 ⇔ n sans facteur carré, f(n)=2 sans solution et f(n)=4 ⇔ n=4m, m impair sans facteur carré, pour n < 200000 ; f(f(n)) ≤ n pour n < 200000 (prépériode au plus 12) ; ab ≤ a^b ; image de f ⊂ E ∪ {1} et construction m = 2^x3^y / 2^x / 3^y vérifiée pour E < 3000 ; 4024 = 2·2009 + 3·2. Problème 2 : suite gloutonne en fractions exactes (1/2^k sur les indices 2^k−1 à 2^(k+1)−2), 300 suites aléatoires sous la contrainte toutes ≤ la gloutonne et ≤ 1/2^k dès n ≥ 2^k−1, u_n < 2/(n+1) ; u_(2^k−2) = 1/2^(k−1) montre que le seuil 2^k−1 ne peut pas être abaissé. Problème 3 : énumération n = 2 à 9 : (n−1)! trajets, minimum 2(n−1) atteint par 2^(n−2) trajets tous montants puis descendants, maximum = partie entière de n²/2, espérance n(n+1)/3, longueurs toutes paires, 8 trajets de longueur 10 et 8 de longueur 12 pour n = 5 ; constructions des trajets maximaux vérifiées pour n = 2 à 59 ; exemple de 40406 (1,3,5,4,2,1) de longueur 8, non maximal (le maximum vaut 12). Tableau n = 4 de 40407 recalculé (somme 40). Les 7 fichiers construits sans avertissement pandoc et toutes les pages relues."
+ },
+ "updated": "2026-11-27"
+}

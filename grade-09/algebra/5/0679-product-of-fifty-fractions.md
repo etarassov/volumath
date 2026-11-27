@@ -7,7 +7,7 @@ difficulty: 5
 duration_min: 40
 tags: [inegalite, fractions, produit, telescopage]
 adapted_from: null
-see_also: []
+see_also: ["40765"]
 same_as: []
 created: 2026-09-19
 source:

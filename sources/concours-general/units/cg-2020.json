@@ -1,0 +1,269 @@
+{
+ "unit": "cg-2020",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2020, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2020-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2020.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40721",
+  "40760"
+ ],
+ "status": "done",
+ "imported": [
+  "40721",
+  "40722",
+  "40723",
+  "40724",
+  "40725",
+  "40726",
+  "40727",
+  "40728",
+  "40729"
+ ],
+ "parts": [
+  {
+   "id": "40721",
+   "where": "problème 1, partie I, questions 1 à 6"
+  },
+  {
+   "id": "40722",
+   "where": "problème 1, partie II, questions 7 et 8"
+  },
+  {
+   "id": "40723",
+   "where": "problème 1, partie III, questions 9 et 10"
+  },
+  {
+   "id": "40724",
+   "where": "problème 1, partie III, questions 11 à 13"
+  },
+  {
+   "id": "40725",
+   "where": "problème 1, partie IV, questions 14 à 18"
+  },
+  {
+   "id": "40726",
+   "where": "problème 2, partie I, questions 1 à 3, et partie II, question 4"
+  },
+  {
+   "id": "40727",
+   "where": "problème 2, partie II, questions 5 à 7"
+  },
+  {
+   "id": "40728",
+   "where": "problème 2, partie III, questions 8 à 11"
+  },
+  {
+   "id": "40729",
+   "where": "problème 2, partie III, questions 12 à 14"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40721",
+   "grade": 8,
+   "why": "décomposition en facteurs premiers et recherche de cas, rien au-delà du collège"
+  },
+  {
+   "id": "40722",
+   "grade": 10,
+   "why": "factorielles, relation de Pascal et décomposition en facteurs premiers ; la récurrence de 1 d) est un raisonnement ligne par ligne expliqué dans la solution"
+  },
+  {
+   "id": "40723",
+   "grade": 12,
+   "why": "logarithme, limite et croissances comparées (exp(y)/y)"
+  },
+  {
+   "id": "40724",
+   "grade": 10,
+   "why": "multiples, majorations de fractions, puissances de 2 et somme télescopique : outils de 2de ; la borne sur π est admise"
+  },
+  {
+   "id": "40725",
+   "grade": 11,
+   "why": "logique et principe des tiroirs, plus une seule limite de suite utilisée de façon intuitive (résultat R2 admis sans logarithme)"
+  },
+  {
+   "id": "40726",
+   "grade": 12,
+   "why": "intégrale de 1/t, logarithme, exponentielle, suite non majorée"
+  },
+  {
+   "id": "40727",
+   "grade": 12,
+   "why": "logarithme, dérivée, croissances comparées, récurrence"
+  },
+  {
+   "id": "40728",
+   "grade": 12,
+   "why": "composées, théorème des valeurs intermédiaires (bijection), théorème de la limite monotone, récurrence"
+  },
+  {
+   "id": "40729",
+   "grade": 12,
+   "why": "dérivée, limites avec croissances comparées (ln n / n, ln X / X, 2^n / n)"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40721",
+   "how": "définition codée en Python (sympy.factorint) : 2020 pointu, premier non pointu 6, plus petit pointu à 4 facteurs premiers 330 par recherche jusqu'à 10^5, liste 1..20 et plus longue suite 5 confirmées"
+  },
+  {
+   "id": "40722",
+   "how": "F_{3,1}=3, F_{9,4}=126 ; pour n de 0 à 299, le produit des premiers de ]n;2n] divise C(2n,n) et n^π_n ≤ 4^n vérifiés en Python"
+  },
+  {
+   "id": "40723",
+   "how": "A_2 ∩ [1,30] listé en Python ; identité (ln n/ln 2 + 1)^b = 2/(ln 2)^b f_b(2n) n vérifiée numériquement pour ℓ=1..4 et plusieurs n ; borne c) comparée au vrai cardinal jusqu'à 3000"
+  },
+  {
+   "id": "40724",
+   "how": "P_2={3}, P_4={5,7}, min B_{2,2}=35, min C_2=15 en Python ; π_{2^k} ≤ 2^{k+1}/k pour k ≤ 21 ; bornes de B_{k,1}, B_{k,2}, C_k pour n ∈ {2,10,100,1000,5000}, k ≤ 13, et D_ℓ ≤ 8n/(ℓ−1) pour n ∈ {10,200,3000}, ℓ ≤ 9, vérifiées par comptage direct"
+  },
+  {
+   "id": "40725",
+   "how": "question 2 vérifiée par comptage : pour ℓ = 2,3,4, tout non pointu ≤ 3000 est dans A_ℓ ou D_ℓ ; la suite de 84 pointus consécutifs 36189..36272 vérifiée (36188 et 36273 non pointus)"
+  },
+  {
+   "id": "40726",
+   "how": "encadrement de f_n vérifié en Python sur une grille ; suites pour α = 1 et α = 1,3 calculées jusqu'à n = 25 (termes énormes alternant avec des termes proches de 1)"
+  },
+  {
+   "id": "40727",
+   "how": "y_n calculé en mpmath : y_7 ≈ 2,641 < e < y_8 ≈ 2,909 (le seuil 8 est le bon) ; y_n > 1 et y_{n-1} ≤ n/ln(y_n) pour 2 ≤ n < 200 ; pour α = 1,1874523 la suite reste dans [y_{n-1} ; n/ln y_n] de n = 8 à 25"
+  },
+  {
+   "id": "40728",
+   "how": "h_2 comparé à ((2x+1)/(x+1))² ; u ≈ 1,3376 et v ≈ 18,7017 en mpmath (limites de h_8 en 0 et +∞, et valeurs de h_8 en 1e-9 et 1e9) ; J_9 à J_20 calculés par dichotomie, emboîtés, J_20 = [1,18686 ; 1,18850]"
+  },
+  {
+   "id": "40729",
+   "how": "minorant de 1 b) comparé à |f_n'(n/ln y_n)| pour plusieurs n ; il vaut au moins 2 pour 151 ≤ n ≤ 100 000 ; α = 1,18745235112650105… par dichotomie à 300 chiffres ; les six étapes de la dichotomie de 3 b) reproduites en Python (intervalle final [1,18125 ; 1,1875])"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40721",
+   "40722"
+  ],
+  [
+   "40721",
+   "40723"
+  ],
+  [
+   "40721",
+   "40724"
+  ],
+  [
+   "40721",
+   "40725"
+  ],
+  [
+   "40722",
+   "40723"
+  ],
+  [
+   "40722",
+   "40724"
+  ],
+  [
+   "40722",
+   "40725"
+  ],
+  [
+   "40723",
+   "40724"
+  ],
+  [
+   "40723",
+   "40725"
+  ],
+  [
+   "40724",
+   "40725"
+  ],
+  [
+   "40726",
+   "40727"
+  ],
+  [
+   "40726",
+   "40728"
+  ],
+  [
+   "40726",
+   "40729"
+  ],
+  [
+   "40727",
+   "40728"
+  ],
+  [
+   "40727",
+   "40729"
+  ],
+  [
+   "40728",
+   "40729"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Problème 1 coupé en 5 fichiers ; la partie III est coupée en deux (questions 9-10 sur A_ℓ avec le logarithme, questions 11-13 sur B, C, D sans logarithme). Dans 40725, le résultat de la partie III sur A_ℓ est admis sous la forme a_ℓ(N)/N → 0, pour que le fichier ne demande pas le logarithme. Problème 2 coupé en 4 fichiers : la question 4 (suite jamais majorée) est mise avec la partie I, qu'elle utilise directement ; la partie III est coupée en deux (existence, questions 8-11 ; unicité, questions 12-14). Dans 40728, la question 11 b est démontrée directement avec les intervalles J_n, sans la question 7. Aucune erreur trouvée dans le sujet. Pas de doublon trouvé dans la collection.",
+ "next_problem": 3,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40726",
+   "40727",
+   "40729"
+  ],
+  "fixed": [
+   {
+    "id": "40721",
+    "what": "Bilan : la définition de « pointu » oubliait le cas d'au plus un facteur premier ; complétée"
+   },
+   {
+    "id": "40722",
+    "what": "Bilan : π_{2^k} ≤ 2^{k+1}/k précisé pour k ≥ 1 (division par k)"
+   },
+   {
+    "id": "40723",
+    "what": "Going further : la définition de « pointu » entre parenthèses complétée (au plus un facteur premier)"
+   },
+   {
+    "id": "40724",
+    "what": "Going further : la définition de « pointu » entre parenthèses complétée (au plus un facteur premier)"
+   },
+   {
+    "id": "40725",
+    "what": "Bilan réécrit : « sauf s'il n'a que de petits facteurs premiers » laissait croire que les nombres de A_ℓ échappent à la propriété des tranches ; il dit maintenant exactement A_ℓ ou D_ℓ (k ≥ ℓ), au plus 2n entre 1 et 3mn, 2n + 1 paquets"
+   },
+   {
+    "id": "40728",
+    "what": "question 4 a) : ajouté α ≥ a_9 > 0, pour que les suites associées à α et β aient un sens"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40722",
+    "what": "gardé en 2de/4 : factorielles définies dans l'énoncé, unicité de la décomposition admise, récurrence présentée ligne par ligne, rien que la 1re ou la Terminale apporterait sauf l'habitude de la récurrence ; à revoir si le club juge 1 d) trop formel pour une 2de"
+   }
+  ],
+  "notes": "Tous les fichiers relus contre le sujet rendu en images (pages 3 à 8). Scripts indépendants (scratchpad cg-2020-check/p1.py et p2.py). Problème 1 : 2020 = 2²×5×101 pointu, premier non pointu 6, 330 minimal (recherche jusqu'à 200 000), liste 1..20 et plus longue suite 5 ; F_{3,1} = 3, F_{9,4} = 126, Pascal, 1 ≤ F ≤ 2^n, d | C(2n,n) et n^π ≤ 4^n pour n < 400 ; A_2 ∩ [1,30] (12 nombres) et bornes de 40723 pour ℓ = 1..3 ; P_2, P_4, min B_{2,2} = 35, min C_2 = 15, kπ_{2^k} ≤ 2^{k+1} pour k ≤ 16, bornes B, C, D_ℓ comptées pour n jusqu'à 100 000 ; question 2 de 40725 vérifiée pour tout non pointu ≤ 200 000 et ℓ = 2..6 ; les 84 pointus consécutifs 36189..36272 confirmés (la plus longue suite sous 200 000 en compte 98, à partir de 106092). Problème 2 (mpmath, 400 chiffres) : α = 1,18745235112650105459548015839…, par dichotomie avec le test de sortie de I_k ; y_7 ≈ 2,641, y_8 ≈ 2,909 ; u ≈ 1,3376, v ≈ 18,7017 ; u_m < e et v_m > m+1 pour 8 ≤ m < 200 ; J_9 à J_30 emboîtés, J_30 = [1,18745219 ; 1,18745268] contient α ; minorant de 12 b) ≥ |f_n'(n/ln y_n)| contrôlé pour n < 400, premier n où il atteint 2 : 151 (m_150 ≈ 1,9977) ; les six étapes de la dichotomie de 40729 3 b) reproduites (sorties aux rangs 17, 14, 14, 16, 25, 18). Preuves relues ligne par ligne : existence par intervalles emboîtés sans la question 7 du sujet correcte, unicité par doublement des écarts correcte. Rewordings des résultats admis fidèles (R2 de 40725 est une conséquence directe de 40723, pas plus fort). Pas de doublon : 0876, 40684, 10640, 10662, 10629 traitent d'autres questions. Tous les fichiers construits sans avertissement pandoc et pages regardées."
+ },
+ "updated": "2026-11-27"
+}

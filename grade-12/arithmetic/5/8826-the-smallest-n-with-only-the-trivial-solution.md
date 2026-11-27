@@ -7,7 +7,7 @@ difficulty: 5
 duration_min: 50
 tags: [carres-modulo-8, descente-infinie, equation-diophantienne, minimum]
 adapted_from: null
-see_also: []
+see_also: ["40607"]
 same_as: []
 created: 2026-09-20
 source:

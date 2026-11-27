@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 40
 tags: [cercle-inscrit, cercle-exinscrit, thales, triangles-semblables, alignement, hauteur]
 adapted_from: null
-see_also: []
+see_also: ["40164"]
 same_as: []
 created: 2026-10-25
 source:

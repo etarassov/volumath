@@ -1,0 +1,156 @@
+{
+ "unit": "cg-2010",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2010, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2010-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2010.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40321",
+  "40360"
+ ],
+ "status": "done",
+ "imported": [
+  "40321",
+  "40322",
+  "40323",
+  "40324",
+  "40325"
+ ],
+ "parts": [
+  {
+   "id": "40321",
+   "where": "exercice 1 « Une configuration géométrique », questions 1 à 6 (exercice sans parties, un seul fichier)"
+  },
+  {
+   "id": "40322",
+   "where": "exercice 2 « Des configurations géométriques », questions 1 à 4 (t(n) puis u(n), un seul fichier : u(n) réutilise toute la structure trouvée pour t(n))"
+  },
+  {
+   "id": "40323",
+   "where": "problème « De la vie sur Mars ! », question 1 (a et b) : probabilité de compatibilité et p ≥ 7/9"
+  },
+  {
+   "id": "40324",
+   "where": "problème « De la vie sur Mars ! », question 2 (a à d) : premier scénario"
+  },
+  {
+   "id": "40325",
+   "where": "problème « De la vie sur Mars ! », question 3 (a à e) : second scénario"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40321",
+   "grade": 9,
+   "why": "homothéties (rapport positif et négatif, programme de 3e), Thalès, tangentes à un cercle, cercle de diamètre et angle droit, concours des hauteurs : rien après le collège ; solution écrite sans vecteurs"
+  },
+  {
+   "id": "40322",
+   "grade": 10,
+   "why": "aucun outil au-delà du collège (raisonnement sur des ensembles de sommets, disjonction de cas, restes modulo 4), mais la classification en éventails et blocs et la majoration de u(n) forment une longue chaîne d'idées de concours : hors de portée d'un élève de 4e en une séance ; 2de, cinq étoiles (regradé au contrôle, était 8/5)"
+  },
+  {
+   "id": "40323",
+   "grade": 10,
+   "why": "dénombrement de N³ tirages équiprobables avec remise (2de), (a−b)² ≥ 0 et factorisation d'un polynôme de degré 3 par identification ; la dérivée n'est pas nécessaire"
+  },
+  {
+   "id": "40324",
+   "grade": 12,
+   "why": "récurrence, suite monotone bornée, passage à la limite dans une relation de récurrence : Terminale"
+  },
+  {
+   "id": "40325",
+   "grade": 12,
+   "why": "récurrence, suite croissante majorée, passage à la limite par l'absurde, théorème des gendarmes : Terminale"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40321",
+   "how": "configuration calculée en coordonnées (Python, geo.py) pour 5 couples (R, r) : G sur (ωO'), rapport GO'/Gω = r'/r, A, I, D alignés, (ID) ⊥ (GD), AB = GD, ωA = ωG, F, A, E alignés, D, C, E alignés, r' = r(R−r)/R ; preuve synthétique refaite pas à pas"
+  },
+  {
+   "id": "40322",
+   "how": "t(n) calculé par recherche exhaustive (familles maximales de triplets d'intersections 0 ou 2) pour n = 3 à 9 : 1, 4, 4, 4, 5, 8, 8, égal à la formule ; u(n) cherché sur 300 nuages aléatoires ou construits par n (n = 3 à 7, test de chevauchement par axe séparateur) : 1, 3, 3, 3, 4, jamais plus que la formule"
+  },
+  {
+   "id": "40323",
+   "how": "identité p = 1 − 6abc et factorisation 4 − 27c(1−c)² = (1−3c)²(4−3c) vérifiées avec sympy ; p ≥ 7/9 testé sur 20 000 triplets aléatoires"
+  },
+  {
+   "id": "40324",
+   "how": "formules et somme égale à 1 vérifiées en fractions exactes ; identité K = 2ab + c(a+b) − c² + 6abc (sous a+b+c = 1) vérifiée avec sympy ; croissance de a_n − b_n et a_n − c_n testée sur 20 000 triplets ; itération jusqu'à n = 200 depuis 3 départs : limite (1, 0, 0)"
+  },
+  {
+   "id": "40325",
+   "how": "factorisations (a−b)((a−b)²+3c²) et f − g = (1−3x)(8x²−3x+1)/2 vérifiées avec sympy ; inégalité c_{n+1}/c_n ≥ f(c_n)/g(c_n) testée sur 20 000 triplets ; itération (renormalisée) jusqu'à n = 3000 depuis 3 départs : limite (1/3, 1/3, 1/3), c_n croissante ; quatre premiers termes en fractions exactes ; affirmations de « Going further » (a_n décroissante, rapport des écarts vers 3/7) testées numériquement"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40323",
+   "40324"
+  ],
+  [
+   "40323",
+   "40325"
+  ],
+  [
+   "40324",
+   "40325"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Le sujet 2010 a trois problèmes : exercice 1 (géométrie), exercice 2 (triangles), problème « De la vie sur Mars ! » (questions 1 à 3, sans parties nommées). Exercice 1 : ajouté à l'énoncé que γ′ est du même côté de Δ que C ; sinon le cercle de diamètre [AB] vérifie aussi les hypothèses (cas dégénéré D = E = B, F = A) et la question 4 n'a plus de sens. Ajouté aussi trois rappels de cours (tangente ⟂ rayon, point de contact aligné avec les centres, image d'un cercle par une homothétie) et une figure qui ne montre ni G ni I. Problème « Vie sur Mars » coupé en trois fichiers (questions 1, 2, 3) : la question 1 est de niveau 2de, les deux autres de Terminale ; chaque fichier de Terminale rappelle le modèle et admet p = 1 − 6xyz ≥ 7/9, et 40325 admet aussi la conclusion du modèle 1 pour la question 3(e). Dans 40323, la population est présentée comme N cellules avec tirage avec remise pour rester au niveau 2de ; dans 40324, ajouté la vérification que a_n + b_n + c_n = 1 ; dans 40325, f et g sont écrites avec la variable x. La question 3(e) est ouverte : la solution donne un raisonnement (le modèle 2 explique la coexistence observée des trois espèces). Aucune erreur trouvée dans le sujet, aucun doublon trouvé dans la collection (similar.py et grep : arbelos, jumeaux, triangles et sommets communs, abc ≤ 1/27, cellules).",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40323",
+   "40324",
+   "40325"
+  ],
+  "fixed": [
+   {
+    "id": "40321",
+    "what": "question 4 g) : ajouté la justification par Pythagore de l'égalité des longueurs des tangentes issues de J (JB = JD), qui n'est pas au programme de 3e en tant que telle"
+   }
+  ],
+  "regrade": [
+   {
+    "id": "40322",
+    "from": "8/5",
+    "to": "10/5",
+    "why": "les outils sont de collège, mais un problème complet du Concours général (classification des familles de triangles en éventails et blocs, puis majoration de u(n) par un argument modulo 4) n'est pas faisable par un élève de 4e en une séance, même avec les indications ; la consigne place un problème entier gardé dans un seul fichier en 2de au plus bas. Fichier déplacé dans grade-10/combinatorics/5/"
+   }
+  ],
+  "doubts": [
+   {
+    "id": "40322",
+    "what": "3e (9/5) resterait défendable pour un très bon élève de 3e habitué aux olympiades ; 2de retenu par prudence, suivant la consigne sur les problèmes entiers"
+   },
+   {
+    "id": "40321",
+    "what": "niveau gardé en 3e/5 : homothéties de rapport positif et négatif, Thalès, angle droit dans un demi-cercle, concours des hauteurs sont bien du cycle 4. Mais le problème entier (six questions, l'identification de G comme centre d'homothétie est subtile) est très long pour un élève de 3e en une séance ; la 2de n'apporterait aucun outil de plus, donc pas regradé"
+   },
+   {
+    "id": "40325",
+    "what": "question 5 (ouverte) : la réponse est juste et utile (le modèle 1 ne laisse qu'une espèce, le modèle 2 garde les trois en proportions voisines, cohérent avec l'observation de trois espèces), avec la bonne réserve. Pas de doute de fond, seulement noté parce que la question est ouverte"
+   }
+  ],
+  "how": "refait moi-même : 40322, énumération exhaustive de toutes les familles vérifiant la règle 1 pour n = 3 à 10 (503 231 familles pour n = 10) : chaque composante est un éventail (paire commune) ou un bloc de 3 ou 4 triangles sur 4 points, et t(n) = 1, 4, 4, 4, 5, 8, 8, 8 conforme à la formule ; majoration de u(n) : l'arithmétique max(3β+2π+σ) sous 4β+4π+3σ+ι = n vérifiée jusqu'à n = 59, et recherche exacte de la plus grande famille (règle 1 + non-chevauchement testé en entiers par axes séparateurs) sur 1 950 nuages de 4 à 8 points (aléatoires ou en groupes de 4 avec point intérieur) : jamais au-dessus de la formule, formule atteinte pour chaque n, u(8) = 6. 40321 : configuration recalculée en coordonnées pour 6 couples (R, r), toutes les affirmations vérifiées (G sur (ωO'), rapport r'/r, A, I, D alignés, AD ⊥ GD, AB = GD, F, A, E et D, C, E alignés, ωA = ωG, r' = r(R−r)/R) ; figure : rayons et tangences contrôlés sur les coordonnées du SVG. 40323 à 40325 : p = 1 − 6abc, factorisations (1−3c)²(4−3c) et f − g, identités K et K' vérifiées avec sympy ; 20 000 triplets aléatoires pour les inégalités des deux modèles ; itérations : modèle 1 vers (1, 0, 0), modèle 2 vers 1/3 avec rapport des écarts vers 3/7 ; affirmation de « Going further » de 40325 (a_{n+1} ≤ a_n équivaut à a_n² ≥ b_n² − b_nc_n + c_n²) vérifiée symboliquement : P − (a² + 3b² + 3c²) = 2(1 − a)(a² − b² + bc − c²). Les cinq fichiers construits et relus page par page."
+ },
+ "updated": "2026-11-27"
+}

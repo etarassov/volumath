@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 35
 tags: [probabilite-conditionnelle, arbre, information, evenement-contraire]
 adapted_from: null
-see_also: []
+see_also: ["40884"]
 same_as: []
 created: 2026-09-19
 source:

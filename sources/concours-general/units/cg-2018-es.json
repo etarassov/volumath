@@ -1,0 +1,154 @@
+{
+ "unit": "cg-2018-es",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2018, mathématiques, série ES",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2018-es-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-es-2018.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "41041",
+  "41080"
+ ],
+ "status": "done",
+ "imported": [
+  "41041",
+  "41042",
+  "41043",
+  "41044",
+  "41045"
+ ],
+ "parts": [
+  {
+   "id": "41041",
+   "where": "problème I, questions 1 à 5"
+  },
+  {
+   "id": "41042",
+   "where": "problème I, questions 6 à 8 (les résultats des questions 2 b, 2 d et 3 b sont rappelés dans l'énoncé)"
+  },
+  {
+   "id": "41043",
+   "where": "problème II, questions 1 à 3 (cas n = 2, 3, 4)"
+  },
+  {
+   "id": "41044",
+   "where": "problème II, questions 4 à 7 (cas général, a_n tend vers 2)"
+  },
+  {
+   "id": "41045",
+   "where": "problème II, questions 8 à 11 (n pair, b_k tend vers -1 ; les résultats des questions 4 b et 5 d sont rappelés dans l'énoncé)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "41041",
+   "grade": 11,
+   "why": "indépendance, variable aléatoire et espérance, somme géométrique : 1re spécialité ; les limites de q^n et de nq^n sont admises dans l'énoncé, le reste des limites est intuitif ; guidé pas à pas, d'où 2 étoiles"
+  },
+  {
+   "id": "41042",
+   "grade": 12,
+   "why": "logarithme, convexité par la dérivée seconde, limites de fonctions, primitive et intégrale : Terminale spécialité ; calculs guidés de niveau bac, d'où 2 étoiles"
+  },
+  {
+   "id": "41043",
+   "grade": 11,
+   "why": "discriminant, dérivée et variations d'un polynôme, dichotomie : 1re spécialité ; l'existence d'une solution (corollaire du TVI, Terminale) est admise dans l'énoncé ; la question 3 demande l'idée de multiplier par x - 1, d'où 3 étoiles"
+  },
+  {
+   "id": "41044",
+   "grade": 11,
+   "why": "somme géométrique, dérivée de x^n, variations : 1re spécialité ; corollaire du TVI et théorème d'encadrement admis dans l'énoncé (le sujet admet déjà le second), limite de 2n/(n+1) intuitive ; chaîne guidée mais longue, d'où 3 étoiles"
+  },
+  {
+   "id": "41045",
+   "grade": 12,
+   "why": "limite de (x^2)^k pour |x| < 1, suite monotone convergente, passage à la limite dans une inégalité et raisonnement par l'absurde sur une limite : Terminale spécialité ; factorisation à trouver en 2 a et astuce en 4, d'où 3 étoiles"
+  }
+ ],
+ "checks": [
+  {
+   "id": "41041",
+   "how": "identités p_k = pq^(k-1), S_k = 1 - q^k, E_k = 1 + ... + q^(k-1) - kq^k vérifiées en fractions exactes pour k = 1 à 14 et quatre valeurs de p ; E_n calculé jusqu'à n = 2000 (limite 1/p) ; loi de X_n et E(X_n) simulés (400 000 essais, p = 0,3, n = 5)"
+  },
+  {
+   "id": "41042",
+   "how": "Q_n = f(S_n) vérifié numériquement pour p = 0,1 à 0,99 ; f croissante et sous la diagonale sur une grille de 10 000 points ; intégrale de 0 à A comparée à la formule (A = 0,7) ; 2 × aire calculée par la méthode du point milieu égale à -p/(2 ln(1-p)) à 1e-10 près pour cinq valeurs de p"
+  },
+  {
+   "id": "41043",
+   "how": "racines réelles de P_2, P_3, P_4 trouvées par changement de signe sur une grille fine puis dichotomie : (-0,618 ; 1,618), 1,8393 seule, (-0,7748 ; 1,9276) ; P_3(-1/3) = -22/27 et Q(8/5) = -5067/3125 en fractions exactes ; le programme de dichotomie du corrigé exécuté (a = 1,8388671875, b = 1,83984375)"
+  },
+  {
+   "id": "41044",
+   "how": "identité Q_n(x) = (x-1)P_n(x) vérifiée en fractions exactes sur 100 valeurs aléatoires ; pour n = 2 à 12, une seule racine positive a_n, avec 2n/(n+1) < a_n < 2 et 2 - a_n = 1/a_n^n"
+  },
+  {
+   "id": "41045",
+   "how": "pour n pair de 2 à 12, exactement deux racines réelles, la négative dans ]-1, 0[ ; identité Q_{2k+2} - Q_{2k} = x^{2k}(x-2)(x-1)(x+1) vérifiée en fractions exactes ; b_k calculé par dichotomie pour k = 1 à 10 000 : strictement décroissante, b_k^{2k} = 1/(2 - b_k) tend vers 1/3 (0,333339 pour k = 10 000)"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "41041",
+   "41042"
+  ],
+  [
+   "41043",
+   "41044"
+  ],
+  [
+   "41043",
+   "41045"
+  ],
+  [
+   "41044",
+   "41045"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Le sujet ES 2018 n'a aucun problème commun avec le sujet S 2018 (Bernstein et Bézier, Dirichlet sur un graphe, nombres en or) : aucun lien vers 40641-40648, rien à ajouter dans ces fichiers. Aucun doublon trouvé dans la collection (similar.py et grep sur Gini, Lorenz, q^{k-1}, x^{n+1} - 2x^n). Choix d'énoncé : dans 41041, 41043 et 41044, les outils de Terminale (limite de q^n, corollaire du TVI) sont admis dans l'énoncé pour garder la 1re ; dans 41042, l'aire sur [0, 1[ est définie comme limite de l'aire sur [0, A] ; dans 41043, la question 3 demande « exactement deux » solutions. Pas de rapport du jury ni de correction pour ce sujet : tout a été résolu et vérifié ici.",
+ "next_problem": 3,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "41041",
+   "41042",
+   "41044",
+   "41045"
+  ],
+  "fixed": [
+   {
+    "id": "41043",
+    "what": "indices de la question 2 a : l'unique indication donnait d'emblée le plan complet (P_3(x) < 0 pour x ≤ 1) ; coupée en deux, de la plus douce (factoriser P_3', tableau de variations) à la plus forte (signe du maximum local). Indication de la question 2 b : « On sait que a_3 est dans [1, 2] » devient « Vérifier que a_3 est dans [1, 2] (calculer P_3(2)) », car la question 2 a ne demande que a_3 > 1."
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "41044",
+    "what": "Gardé en 1re, 3 étoiles. Outils : somme géométrique, dérivée de x^n, variations (1re) ; le corollaire du TVI pour un polynôme monotone et le théorème d'encadrement sont admis dans l'énoncé, et la seule limite à trouver, 2 − 2/(n+1) → 2, est intuitive en 1re. La chaîne est guidée question par question et tient en une séance pour un bon élève de 1re avec les indications. Seul point discutable : l'usage du théorème d'encadrement reste formel en 1re ; si le coordinateur veut que toute preuve de limite soit en Terminale, ce serait 12/2."
+   },
+   {
+    "id": "41041",
+    "what": "Pas un doublon, mais 1017 (1re, premier record personnel, loi du premier succès sans espérance) traite les questions 1 et 4 a sous une autre forme ; un lien see_also 1017 ↔ 41041 serait utile (fichier hors de mon bloc, non modifié)."
+   },
+   {
+    "id": "41043, 41044, 41045",
+    "what": "vm.py check signale des ressemblances de titre avec 17817 (somme géométrique, 4e), 10662, 8209, 8219, 10640 : lus ou vérifiés, aucun n'est le même problème ; faux positifs."
+   }
+  ],
+  "how": "scripts propres (scratchpad cg-2018-es-check) : 41041 identités p_k, S_k, E_3, E_k en fractions exactes pour k ≤ 14 et quatre p, loi exacte de X_5 par énumération des 32 suites de lancers ; 41042 Q_n = S_n − np(1 − S_n) = f(S_n), f < x et croissante sur 9 999 points, dérivée numérique de F, intégrale de 0 à 0,7 comparée à la formule, 2 × aire (point milieu, 200 000 pas) = −p/(2 ln(1 − p)) à 1e-10 pour cinq p, G décroissante, G(1/2) = 1/(4 ln 2) ≈ 0,361, points de la figure recalculés ; 41043/41044/41045 nombre de racines réelles par suites de Sturm en fractions exactes pour n = 2 à 40 (une racine positive dans ]2n/(n+1), 2[, une négative dans ]−1, 0[ exactement quand n est pair), P_3(−1/3) = −22/27, Q(8/5) = −5067/3125, dichotomie du corrigé relancée (1,8388671875 ; 1,83984375), 840 pas de balayage, 0 < 2 − a_n < (3/4)^n, identité Q_{2k+2} − Q_{2k} en fractions exactes, b_k strictement décroissante pour k ≤ 40, b_k^{2k} = 1/(2 − b_k) → 1/3 (0,3333394 pour k = 10 000), 2k(1 + b_k) → ln 3."
+ },
+ "updated": "2026-11-27"
+}

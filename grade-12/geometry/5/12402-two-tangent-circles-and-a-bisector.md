@@ -71,7 +71,7 @@ $T$, leurs centres $O_1$ et $O_2$ sont alignés avec $T$, du même côté. Noton
 rayons et $k = \dfrac{r_2}{r_1}$, de sorte que $\overrightarrow{TO_2} = k \, \overrightarrow{TO_1}$.
 Si $M$ est sur $\omega_1$, le point $E$ défini par $\overrightarrow{TE} = k \, \overrightarrow{TM}$
 vérifie
-$$O_2E = \| k \, \overrightarrow{TM} - k \, \overrightarrow{TO_1} \| = k \cdot O_1M = k \, r_1 = r_2,$$
+$$O_2E = \lVert k \, \overrightarrow{TM} - k \, \overrightarrow{TO_1} \rVert = k \cdot O_1M = k \, r_1 = r_2,$$
 donc $E$ est sur $\omega_2$ : c'est le second point d'intersection de $(TM)$ avec $\omega_2$.
 Ainsi $TE = k \cdot TM$, et comme $M$ est entre $T$ et $E$, $ME = TE - TM = (k - 1) \, TM$.
 

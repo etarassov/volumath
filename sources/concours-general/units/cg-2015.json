@@ -1,0 +1,212 @@
+{
+ "unit": "cg-2015",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2015, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2015-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2015.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40521",
+  "40560"
+ ],
+ "status": "done",
+ "imported": [
+  "40521",
+  "40522",
+  "40523",
+  "40524",
+  "40525",
+  "40526",
+  "40527"
+ ],
+ "parts": [
+  {
+   "id": "40521",
+   "where": "problème I « Petits poids », préambule et questions 1° à 4°"
+  },
+  {
+   "id": "40522",
+   "where": "problème I « Petits poids », question 5° (a à e)"
+  },
+  {
+   "id": "40523",
+   "where": "problème II « Tétraèdres », questions 1° à 3°"
+  },
+  {
+   "id": "40524",
+   "where": "problème II « Tétraèdres », question 4° (a et b)"
+  },
+  {
+   "id": "40525",
+   "where": "problème III « Moyennes prévisionnelles », questions 1°, 2°, 3° et 5°"
+  },
+  {
+   "id": "40526",
+   "where": "problème III « Moyennes prévisionnelles », question 4° a) et b)"
+  },
+  {
+   "id": "40527",
+   "where": "problème III « Moyennes prévisionnelles », question 4° c), d) et e)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40521",
+   "grade": 9,
+   "why": "seulement des sommes de relatifs et des comparaisons ; |x| est défini dans l'énoncé comme distance à 0 (notion de collège), la question 4 demande une disjonction de cas, d'où 4 étoiles"
+  },
+  {
+   "id": "40522",
+   "grade": 9,
+   "why": "mêmes outils que 40521 plus l'inégalité |x+y| ≤ |x|+|y| démontrée dans la solution ; le raisonnement par la première somme trop grande est guidé par les indications ; niveau compétition pour la 3e"
+  },
+  {
+   "id": "40523",
+   "grade": 12,
+   "why": "géométrie dans l'espace : vecteurs, plans, projeté orthogonal sur un plan, produit scalaire dans l'espace, tout cela est en Terminale spécialité seulement"
+  },
+  {
+   "id": "40524",
+   "grade": 12,
+   "why": "produit scalaire et orthogonalité dans l'espace (Terminale), plus une construction et une discussion de non-coplanarité ; plusieurs idées combinées, d'où 4 étoiles"
+  },
+  {
+   "id": "40525",
+   "grade": 10,
+   "why": "une suite est présentée comme une liste de nombres, définie dans l'énoncé ; moyennes, système 2×2 par substitution, construction terme à terme : rien qui dépasse la 2de"
+  },
+  {
+   "id": "40526",
+   "grade": 10,
+   "why": "seulement des moyennes, des sommes de termes positifs et des numéros d'indices ; la notion de suite est définie dans l'énoncé ; longue chaîne d'idées, d'où 5 étoiles en 2de"
+  },
+  {
+   "id": "40527",
+   "grade": 10,
+   "why": "minorant défini dans l'énoncé, contraposée (logique de 2de), et (3/2)^k qui dépasse tout nombre grâce à la minoration élémentaire 1 + k/2 donnée dans la solution ; aucune notion de suite de 1re n'est nécessaire, comme pour 40526 placé en 2de (regradé 11 → 10 par le vérificateur)"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40521",
+   "how": "poids et minimum I calculés par force brute en Python (toutes les permutations) pour les listes des questions 1 et 2 ; C calculé pour tous les choix possibles de Clara en cas d'égalité ; C = I vérifié pour n = 2 et 2C ≤ 3I pour n = 3 sur 20 000 listes aléatoires d'entiers de -6 à 6, rapport 3/2 atteint"
+  },
+  {
+   "id": "40522",
+   "how": "S ≤ I, M ≤ 2I, C ≤ N vérifiés par force brute sur 20 000 listes aléatoires (n de 4 à 6, tous les choix de Clara) ; exemple 1, -1, 2, -2 complété par des zéros : I = 1 et C = 2 pour n de 4 à 7 ; recherche d'exemples à cinq nombres non nuls pour la partie Going further"
+  },
+  {
+   "id": "40523",
+   "how": "en Python (numpy) : AG = 3/4 AG_A sur un tétraèdre aléatoire ; contre-exemple A(0,0,0), B(1,0,0), C(0,1,0), D(0,1,1) : hauteurs non concourantes (écart des moindres carrés 0,84) et hauteurs issues de B et D calculées à la main et en Python ; tétraèdre régulier : hauteurs concourantes au centre ; preuve vectorielle de 3 c) refaite à la main (tous les produits scalaires égaux à k, arêtes de longueur racine de -8k)"
+  },
+  {
+   "id": "40524",
+   "how": "en Python : cinq tétraèdres orthocentriques aléatoires, c12c34 = c13c24 = c14c23 vérifié à 1e-15 près ; pour 2, les t_j de la solution appliqués à des directions vérifiant la condition (avec signes de u_i changés) redonnent un tétraèdre non plat (volume non nul) dont les hauteurs sont concourantes en H (écart 2e-14) ; les huit égalités de la question 2 vérifiées à la main"
+  },
+  {
+   "id": "40525",
+   "how": "sympy : la somme de u_{n+1} à u_{2n} divisée par n, moins u_n, vaut (n+1)(8an+a+3b)/6, donc nulle pour tout n seulement si a = b = 0 ; solution du système n = 1, 2 confirmée ; suite construite (termes impairs libres) calculée en fractions exactes jusqu'à n = 40, relation de type M vérifiée pour n ≤ 20, premiers termes 0, 0, 1, -1, 0, 4, 0, -8 confirmés"
+  },
+  {
+   "id": "40526",
+   "how": "preuve relue pas à pas (aucun test numérique possible, puisqu'une telle suite est constante d'après 40527) ; vérifié les inégalités d'indices q < p ≤ q' ≤ 2q donnent bien ]p, 2p] inclus dans ]q, 2q'] = ]q, 2q] ∪ ]q', 2q'] et q + q' < 3p"
+  },
+  {
+   "id": "40527",
+   "how": "preuve relue pas à pas : contraposée de 1 vérifiée algébriquement (3D/2 ≤ 3(u_s - u_p + 3D/2) équivaut à u_s ≥ u_p - D) ; minoration (3/2)^k ≥ 1 + k/2 vérifiée ; cohérence avec la suite non constante de 40525, qui prend des valeurs de -1224 à 1216 dès n ≤ 40"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40521",
+   "40522"
+  ],
+  [
+   "40523",
+   "40524"
+  ],
+  [
+   "40525",
+   "40526"
+  ],
+  [
+   "40525",
+   "40527"
+  ],
+  [
+   "40526",
+   "40527"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Le sujet 2015 n'a pas de parties : trois problèmes à questions numérotées. Découpage : problème I en 2 fichiers (questions 1-4, question 5), problème II en 2 fichiers (questions 1-3, question 4), problème III en 3 fichiers (questions 1, 2, 3 et 5 ; question 4 a-b ; question 4 c-e). Rien d'écarté, aucun doublon trouvé (similar.py et grep sur poids, glouton, tétraèdre, hauteurs, sphère circonscrite, moyenne des termes suivants). Le problème I ressemble à un problème de type olympiade internationale (algorithme glouton pour le « prix » d'une suite, facteur 2) ; aucun exemplaire n'en a été trouvé dans la collection. Dans 40521 et 40522, la notation |x| est définie dans l'énoncé comme distance à 0 pour permettre le niveau 3e ; le choix de Clara en cas d'égalité est laissé libre et les résultats sont démontrés pour tous les choix.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40521",
+   "40523",
+   "40525"
+  ],
+  "fixed": [
+   {
+    "id": "40522",
+    "what": "Bilan : il disait que M et S sont « deux quantités que même Isabelle ne peut pas éviter », ce qui laisse croire que I ≥ M ; on a seulement I ≥ S et I ≥ M/2. Phrase corrigée."
+   },
+   {
+    "id": "40524",
+    "what": "Going further : « la question 1 montre que u1 ⊥ A3A4 » n'est établi que dans le premier cas (aucun sommet en H) ; si A1 = H, u1 n'est pas forcément orthogonal à A3A4. Précisé."
+   },
+   {
+    "id": "40526",
+    "what": "honnêteté sur l'hypothèse : ajouté au Bilan et au premier point de Going further que les suites de type M à termes positifs ou nuls sont en fait constantes (40527), donc que l'inégalité est un outil vers ce résultat et ne peut pas être testée sur un exemple non constant."
+   },
+   {
+    "id": "40527",
+    "what": "l'unique indication de la question 1 donnait d'un coup la contraposée et la suite v_n = u_n - m ; coupée en deux indications, de la plus douce à la plus forte."
+   }
+  ],
+  "regrade": [
+   {
+    "id": "40527",
+    "from": "11/4",
+    "to": "10/4",
+    "why": "tous les outils sont de 2de : minorant défini dans l'énoncé, contraposée, et (3/2)^k ≥ 1 + k/2 prouvé dans la solution sans suite géométrique ni limite ; la répétition de la question 1 est la même récurrence informelle que la descente de 40526, déjà placé en 2de ; un bon élève de 2de le fait en séance avec les indications"
+   }
+  ],
+  "doubts": [
+   {
+    "id": "40522",
+    "what": "3e/5 gardé, mais c'est la limite de la condition « en séance de club » : la question 3 (première somme trop grande, deux cas) est le cœur d'un problème de type olympiade. Avec les indications 3 à 5, un très bon élève de 3e peut y arriver ; si les animateurs constatent le contraire, 2de/4 serait le repli."
+   },
+   {
+    "id": "40522",
+    "what": "question 5 : la liste formée de n zéros donne aussi C = 2I (= 0) ; la solution donne l'exemple non trivial, ce qui est bien, mais un élève peut répondre « tous nuls ». Non modifié."
+   },
+   {
+    "id": "40521",
+    "what": "Going further, question ouverte sur le plus petit poids de la liste 1 b) : la minoration 1008 est juste ; par recherche exhaustive pour ±1..±m avec m ≤ 9, le minimum vaut toujours l'arrondi supérieur de m/2, donc la réponse est très probablement 1008, mais aucune construction n'est écrite."
+   }
+  ],
+  "how": {
+   "40521": "recherche exhaustive écrite à neuf : toutes les listes d'entiers de -4 à 4 pour n = 2 à 5 (de -3 à 3 pour n = 6), I par toutes les permutations et C pour tous les choix de Clara en cas d'égalité : C = I pour n = 2, C ≤ 3/2·I pour n = 3 (rapport 3/2 atteint), plus 20 000 listes aléatoires de fractions ; valeurs des questions 1 et 2 recalculées ; preuve de 4 relue cas par cas (le renommage b/d est légitime car |c1 + c2| = min(|a+b|, |a+d|) quel que soit le choix)",
+   "40522": "même recherche exhaustive : S ≤ I, M ≤ 2I, C ≤ N et C ≤ 2I pour tous les choix de Clara, n = 4 à 6 ; exemple 1, -1, 2, -2 plus zéros : I = 1 et C = 2 pour tout choix, n = 4 à 7 ; 16 listes de cinq entiers non nuls avec C = 2I trouvées (par exemple -2, -2, 1, 1, 2 à l'échelle près), donc la question de Going further a bien une réponse",
+   "40523": "calcul exact en fractions : 1 b) sur un tétraèdre aléatoire ; contre-exemple 3 b) (hauteurs issues de B et D sans point commun) ; tétraèdre régulier : hauteurs par O = G ; tétraèdre isocèle (1,2,3), (1,-2,-3), (-1,2,-3), (-1,-2,3) : O = G sans être régulier, ce qui confirme la piste de Going further ; preuves de 2, 3 a) et 3 c) relues ligne par ligne",
+   "40524": "calcul exact en fractions : six tétraèdres orthocentriques (triangle, orthocentre, sommet à la verticale) : c12c34 = c13c24 = c14c23 exactement ; réciproque : u1, u2, u3 au hasard, u4 tiré des deux conditions (qui sont linéaires en u4), puis les t_j de la solution : 188 tétraèdres construits, tous de volume non nul et de hauteurs passant exactement par H ; la condition ne dépend ni de la longueur ni du sens des u_i, chaque produit contenant chaque indice une fois",
+   "40525": "sympy : (somme de u_{n+1} à u_{2n})/n - u_n = (n+1)(8an + a + 3b)/6, donc a = b = 0 ; suite construite recalculée en fractions jusqu'à n = 40 (0, 0, 1, -1, 0, 4, 0, -8, 0, 4, 0, 28, …), type M vérifié pour n ≤ 20",
+   "40526": "preuve relue ligne par ligne, et test d'une version finie : la preuve n'utilise que les égalités pour n < 2p et des termes de numéro < 4p, et des suites finies positives vérifiant les égalités pour n ≤ 8 existent sans être constantes ; sur 395 telles suites de longueur 16, u_p ≤ 3u_r pour r < p ≤ 4 toujours vrai (rapport maximal 15/11)",
+   "40527": "preuve relue : contraposée de 1 refaite à la main, itération en (3/2)^k, minoration (3/2)^k ≥ 1 + k/2 vérifiée en fractions pour k < 200 et par la récurrence donnée"
+  }
+ },
+ "updated": "2026-11-27"
+}

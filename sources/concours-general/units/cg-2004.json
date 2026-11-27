@@ -1,0 +1,259 @@
+{
+ "unit": "cg-2004",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2004, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2004-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2004.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40081",
+  "40120"
+ ],
+ "status": "done",
+ "imported": [
+  "40081",
+  "40082",
+  "40083",
+  "40084",
+  "40085",
+  "40086",
+  "40087"
+ ],
+ "parts": [
+  {
+   "id": "40081",
+   "where": "problème unique, partie I, questions 1 et 2"
+  },
+  {
+   "id": "40082",
+   "where": "problème unique, partie II, questions 1 à 4"
+  },
+  {
+   "id": "40083",
+   "where": "problème unique, partie III, questions 1 à 3"
+  },
+  {
+   "id": "40084",
+   "where": "problème unique, partie IV, questions 1 à 3"
+  },
+  {
+   "id": "40085",
+   "where": "problème unique, partie V, questions 1 à 3"
+  },
+  {
+   "id": "40086",
+   "where": "problème unique, partie V, questions 4 et 5"
+  },
+  {
+   "id": "40087",
+   "where": "problème unique, partie VI, questions 1 à 4"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40081",
+   "grade": 9,
+   "why": "Thalès, Pythagore, angle droit dans un demi-cercle, orthocentre ; le lemme « √N rationnel ⇒ N carré » est démontré en quelques lignes avec la décomposition en facteurs premiers (3e)"
+  },
+  {
+   "id": "40082",
+   "grade": 12,
+   "why": "coordonnées dans l'espace et équations de plans (Terminale) ; le reste est une forme canonique et une symétrie"
+  },
+  {
+   "id": "40083",
+   "grade": 12,
+   "why": "primitive d'une fonction continue, dérivée d'une composée, encadrement d'intégrales, théorème des gendarmes : Terminale. Le changement de variable du sujet (hors programme) est remplacé par la dérivée de x ↦ −S(π/2 − x)"
+  },
+  {
+   "id": "40084",
+   "grade": 9,
+   "why": "identités remarquables, parité, décomposition en facteurs premiers (3e) ; le lemme « deux entiers premiers entre eux dont le produit est un carré sont des carrés » est démontré dans la solution ; difficulté 5 car c'est la paramétrisation des triplets pythagoriciens primitifs, niveau concours en 3e"
+  },
+  {
+   "id": "40085",
+   "grade": 10,
+   "why": "restes dans la division par 4 par la parité, ensembles finis, calcul littéral, principe des tiroirs et choix d'un plus petit indice ; une suite définie par itération sans aucune théorie des suites : 2de, difficulté 4 pour l'invariant x − y + z > 0 et le retour au départ"
+  },
+  {
+   "id": "40086",
+   "grade": 12,
+   "why": "la question centrale (symétrie du cycle) est une démonstration par récurrence : Terminale ; le reste est du calcul littéral et un raisonnement par l'absurde"
+  },
+  {
+   "id": "40087",
+   "grade": 12,
+   "why": "récurrence forte (Terminale) ; les congruences modulo 4 sont écrites comme des restes, le lemme d'Euclide vient de l'unicité de la décomposition en facteurs premiers, les nombres complexes de la question 1 sont remplacés par une identité à développer (piste facultative) : pas de maths expertes nécessaires"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40081",
+   "how": "Python : longueur de corde B_kC_k calculée par intersection droite-cercle et comparée à 4r/(2n−1)·√(n(n−1)−k(k−1)) pour n ≤ 11, r = 1 et 2,5 ; BC = 1,6 pour n = 3 ; P et Q calculés pour n = 3, même abscisse 8/3 ; équivalence « N carré ⇔ N = 4a² » testée pour n < 300"
+  },
+  {
+   "id": "40082",
+   "how": "à la main : forme canonique (y−1/2)² + z² = (x−1/2)² vérifiée en développant ; symétrique (x, 1−y, −z) vérifié ; changement X = 2x−1, Y = 2y−1, Z = 2z donnant X² = Y² + Z² vérifié ; exemples (3, 2, 2) et (9, 8, 4) sur Σ"
+  },
+  {
+   "id": "40083",
+   "how": "Python : λ_n calculé à partir des cordes géométriques et par la formule de 2 a), égaux pour n = 2, 3, 5, 10, 100 ; λ_10000 ≈ 0,7853979 contre π/4 ≈ 0,7853982 ; inégalités de 2 b) vérifiées en fractions exactes pour n < 40 ; encadrement de 2 c) vérifié par intégration numérique pour 3 ≤ n < 30, 2 ≤ k ≤ n−1 ; bornes finales de la question 3 vérifiées pour n = 3, 10, 100, 1000"
+  },
+  {
+   "id": "40084",
+   "how": "Python : pour tous les impairs 1 ≤ q < p < 400 premiers entre eux vérifiant p² − q² = 16a², il existe un unique couple (u, v) de parités différentes avec p = u² + v², q = u² − v², et a = uv/2 ; équivalence (C1) ⇔ (C2) vérifiée par le calcul p² − q² = 4(n(n−1) − k(k−1)) ; exemples (n, k) = (3, 2), (7, 3), (9, 8), (13, 4), (13, 8) vérifiés"
+  },
+  {
+   "id": "40085",
+   "how": "Python : pour tous les premiers p ≡ 1 (mod 4), 13 ≤ p < 20000, la suite partie de (m, 1, 1) reste dans S, revient à (m, 1, 1), et la formule inverse de 3 b) (selon le signe de a − 4b + 2c, jamais nul) redonne X_{k−1} pour tout k ≥ 1 ; les 12 triplets pour m = 10 calculés et revérifiés à la main dans le tableau"
+  },
+  {
+   "id": "40086",
+   "how": "Python : pour tous les premiers p ≡ 1 (mod 4), 13 ≤ p < 20000 : X_{n−1} = (m, 1, −1), X_{n−2} = (m−2, 1, −3) si m > 6 et (1, m−2, 3) si m < 6, relation de la question 2 vraie pour tout j de 1 à n, n impair, x_r = y_r et (2x_r)² + z_r² = p ; de plus le premier indice où x = y est toujours r. Exemple 41 = 4² + 5² à l'étape 5, période 11 ; p = 10009 = 100² + 3² trouvé en 382 étapes"
+  },
+  {
+   "id": "40087",
+   "how": "Python : pour tout n < 3000, chaque facteur premier de n² + 1 est somme de deux carrés ; p_s calculé pour s = 2 à 8 (5, 37, 577, 14401, 13, 101, 17), toujours > s et somme de deux carrés ; identité (ac − bd)² + (ad + bc)² développée à la main ; recherche exhaustive pour n < 200 : n = 13 est le plus petit n avec deux k (4 et 8), n = 33 a k = 13, 17, 20, 32 ; L(33, 17) = 112/65 et L(33, 32) = 32/65 vérifiés ; famille (2t² + 1, 2t²) vérifiée par le calcul"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40081",
+   "40082"
+  ],
+  [
+   "40081",
+   "40083"
+  ],
+  [
+   "40081",
+   "40084"
+  ],
+  [
+   "40081",
+   "40085"
+  ],
+  [
+   "40081",
+   "40086"
+  ],
+  [
+   "40082",
+   "40083"
+  ],
+  [
+   "40082",
+   "40084"
+  ],
+  [
+   "40082",
+   "40085"
+  ],
+  [
+   "40082",
+   "40086"
+  ],
+  [
+   "40083",
+   "40084"
+  ],
+  [
+   "40083",
+   "40085"
+  ],
+  [
+   "40083",
+   "40086"
+  ],
+  [
+   "40084",
+   "40085"
+  ],
+  [
+   "40084",
+   "40086"
+  ],
+  [
+   "40085",
+   "40086"
+  ],
+  [
+   "40081",
+   "40087"
+  ],
+  [
+   "40082",
+   "40087"
+  ],
+  [
+   "40083",
+   "40087"
+  ],
+  [
+   "40084",
+   "40087"
+  ],
+  [
+   "40085",
+   "40087"
+  ],
+  [
+   "40086",
+   "40087"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [
+  {
+   "where": "partie II, question 1",
+   "what": "le sujet affirme que la section de Σ par le plan x = λ est un cercle pour tout λ ; pour λ = 1/2 elle est réduite au point I. Énoncé corrigé : cercle pour λ ≠ 1/2, et question sur le cas λ = 1/2."
+  }
+ ],
+ "notes": "Le sujet est un problème unique en six parties, coupé en sept fichiers : I → 40081 ; II → 40082 ; III → 40083 ; IV → 40084 ; V questions 1 à 3 → 40085 et V questions 4 et 5 → 40086 (la partie V est trop longue pour une séance, et ses deux moitiés tombent à des niveaux différents : la première n'utilise aucune récurrence) ; VI → 40087. Les sept fichiers sont reliés deux à deux par see_also. Aucun corrigé ni rapport du jury pour 2004 : tout a été résolu et vérifié ici. Modifications de forme : « congru à 1 modulo 4 » écrit en termes de reste (40085, 40086, 40087) ; à la question III.1 c), le sujet attend un changement de variable (hors programme aujourd'hui), la solution utilise la dérivée de x ↦ −S(π/2 − x) ; à la question VI.1, les nombres complexes imposés par le sujet deviennent une piste facultative et la solution développe l'identité. Doublons : aucun doublon trouvé (similar.py et grep sur « somme de deux carrés », « n² + 1 », √(1 − t²), triplets pythagoriciens). Voisins possibles pour un see_also par le coordinateur : 5010 (grade 10, « Quels nombres premiers sont sommes de deux carrés ? », dont la question 3 est notre 40085 Q1 a) ; 7540 (grade 12, deux façons d'être somme de deux carrés, utilise l'identité de 40087 Q1) ; 22052 (grade 12, −1 carré modulo p) ; 2211 (grade 11, triplets pythagoriciens par la tangente de l'angle moitié, voisin de 40084). Points de niveau discutables : 40084 mis en 3e (grade 9, 5 étoiles) car tous les outils sont de 3e, mais c'est la paramétrisation des triplets pythagoriciens primitifs ; 2de (4 étoiles) serait défendable. 40085 mis en 2de car la suite n'est qu'une itération sans théorie des suites ; 1re serait défendable. ",
+ "next_problem": 2,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40081",
+   "40082",
+   "40083",
+   "40086",
+   "40087"
+  ],
+  "fixed": [
+   {
+    "id": "40084",
+    "what": "Bilan : il disait que les couples cherchés sont « exactement » les (u² + v², u² − v²) avec u > v de parités différentes, ce qui est faux sans l'hypothèse u, v premiers entre eux (u = 6, v = 3 donne (45, 27), non premiers entre eux). Réécrit : tous s'écrivent ainsi, et tout couple de cette forme vérifie (C2), avec le contre-exemple cité."
+   },
+   {
+    "id": "40085",
+    "what": "Bilan : « Pour un tel nombre premier p = 4m + 1 » renvoyait à « nombre premier somme de deux carrés », ce qui rendait le raisonnement circulaire ; remplacé par « pour tout nombre premier p = 4m + 1 plus grand que 5 »."
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40081",
+    "what": "Grade 9 gardé. Les outils (Pythagore, Thalès en triangles emboîtés, angle droit dans un demi-cercle, hauteurs) sont presque tous de 4e ; seuls la décomposition en facteurs premiers utilisée pour « √N rationnel ⇒ N carré » et l'aisance avec les racines carrées penchent vers la 3e. 4e (grade 8, 5 étoiles) se discute, mais je ne crois pas qu'un élève de 4e fasse la question 2 c) en séance."
+   },
+   {
+    "id": "40084",
+    "what": "Grade 9, 5 étoiles gardé : tous les outils sont de 3e, et les indices 3 à 6 de la question 3 mènent pas à pas à la paramétrisation ; un très bon élève de 3e peut la finir en séance avec un animateur. 2de, 4 étoiles, resterait défendable."
+   },
+   {
+    "id": "40085",
+    "what": "Grade 10 gardé : outils de 3e, mais l'argument du plus petit indice (3 c) et le retour en arrière (3 b) demandent une aisance avec l'abstraction qui place le fichier en 2de plutôt qu'en 3e."
+   }
+  ]
+ },
+ "updated": "2026-11-27"
+}

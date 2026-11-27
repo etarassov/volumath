@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 45
 tags: [inegalite, produit, comparaison, telescopage, astuce]
 adapted_from: null
-see_also: []
+see_also: ["40765"]
 same_as: []
 created: 2026-09-19
 source:

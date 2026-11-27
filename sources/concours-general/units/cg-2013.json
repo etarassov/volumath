@@ -1,0 +1,204 @@
+{
+ "unit": "cg-2013",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2013, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2013-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2013.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40441",
+  "40480"
+ ],
+ "status": "done",
+ "imported": [
+  "40441",
+  "40442",
+  "40443",
+  "40444",
+  "40445",
+  "40446",
+  "40447"
+ ],
+ "parts": [
+  {
+   "id": "40441",
+   "where": "problème I, questions 1 à 3"
+  },
+  {
+   "id": "40442",
+   "where": "problème I, questions 4 et 5"
+  },
+  {
+   "id": "40443",
+   "where": "problème I, question 6"
+  },
+  {
+   "id": "40444",
+   "where": "problème II, questions 1 à 6 (un seul fichier, problème court sans parties)"
+  },
+  {
+   "id": "40445",
+   "where": "problème III, question 1 (a et b)"
+  },
+  {
+   "id": "40446",
+   "where": "problème III, question 2 (a et b)"
+  },
+  {
+   "id": "40447",
+   "where": "problème III, question 3 (a, b et c)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40441",
+   "grade": 9,
+   "why": "diviseurs, parité, décomposition en facteurs premiers (cycle 4) et une étude de cas ; rien au-delà de la 3e, et chaque question est à la portée d'un fort élève de 3e avec les indications"
+  },
+  {
+   "id": "40442",
+   "grade": 10,
+   "why": "divisibilité et inégalités entre entiers avec plusieurs lettres (a, r, n, k, k'), somme 1 + … + n expliquée dans la solution, raisonnement de proche en proche sans récurrence formelle ; le calcul littéral à quatre lettres de la question 1 dépasse un élève de 3e"
+  },
+  {
+   "id": "40443",
+   "grade": 10,
+   "why": "multiples communs et écriture en base deux (vue en 2de, et prouvée en trois lignes dans la solution) ; la question 1 est de niveau collège, la construction de la question 2 en plusieurs étages demande l'aisance en calcul littéral de la 2de"
+  },
+  {
+   "id": "40444",
+   "grade": 12,
+   "why": "droites et plans de l'espace, positions relatives, représentations paramétriques : programme de Terminale spécialité ; le reste (équation du second degré) est de 1re"
+  },
+  {
+   "id": "40445",
+   "grade": 12,
+   "why": "suite croissante majorée donc convergente, limite d'une suite géométrique et théorème des gendarmes : Terminale ; la question 1 seule serait de collège"
+  },
+  {
+   "id": "40446",
+   "grade": 10,
+   "why": "probabilités sur un arbre à trois niveaux, événement contraire, algorithme en Python : programme de 2de ; un arbre à trois épreuves et l'écriture d'un programme dépassent la 3e"
+  },
+  {
+   "id": "40447",
+   "grade": 11,
+   "why": "probabilités conditionnelles et formule des probabilités totales (1re) ; la récurrence sur u_m se calcule de proche en proche, sans limite ni récurrence formelle"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40441",
+   "how": "Python : b = 14 seule valeur jusqu'à 1000 ; suites superbes de longueur 3 énumérées (termes ≤ 250), primitives exactement (1,1,1), (1,1,2), (1,2,3) ; aucune suite de longueur 4 de somme 2013 par énumération des diviseurs ; construction 3 a) vérifiée pour n = 3 à 11 ; 3 b) vérifiée sur toutes les listes de 2 à 4 premiers distincts < 60"
+  },
+  {
+   "id": "40442",
+   "how": "Python : toutes les suites arithmétiques avec n ≤ 8, a < 80, r < 80 testées, seules (r, 2r, 3r) sont superbes ; recherche exhaustive des débuts de suites magnifiques (a_1 ≤ 10, 8 termes, croissance stricte à partir de k = 2) : uniquement (a, a, 2a, 4a, …)"
+  },
+  {
+   "id": "40443",
+   "how": "Python : construction de la question 2 (K = 2^t P, termes S·c) appliquée à 3000 suites aléatoires de 2 à 7 termes distincts < 60 : toujours superbe et à termes distincts ; exemple (1, 2, 3, 4) recalculé à la main ; construction de la question 1 testée sur 1000 suites"
+  },
+  {
+   "id": "40444",
+   "how": "sympy : D1, D2, D3 incluses dans S ; coefficients α et β de la question 4 recalculés ; Going further vérifié (A, B, C alignés et droite incluse dans S pour a quelconque, équation XY + YZ + ZX + 1/4 = 0 après translation) ; question 1 refaite par le raisonnement symétrique sur les deux plans Q1, Q2"
+  },
+  {
+   "id": "40445",
+   "how": "Python : plus court chemin gagnant par parcours en largeur, 17 lancers (0, 6, …, 96 puis 102) ; aucune case gagnante en 16 lancers (6 × 16 = 96) ; P(G) exact (fractions) ≈ 3,449 × 10^-4 > 6^-17 ; ln 2 / -ln(1 - w) ≈ 2009,3 pour la remarque des 2 010 réussites"
+  },
+  {
+   "id": "40446",
+   "how": "Python, fractions exactes : loi de X calculée par la récurrence sur les cases, somme égale à 1 ; P(X = 2) = P(X = 3) = 7/36, P(X ≥ 4) = 11/18, P(X = 5) = 49/216 retrouvés ; le programme de la solution a été extrait du fichier et exécuté tel quel"
+  },
+  {
+   "id": "40447",
+   "how": "Python, fractions exactes : α_2 = 7/29, α_3 = 49/132 ; produit de la question 2 égal exactement à P(G) ; valeurs u_0 à u_7 et tableau des A_δ recalculés ; pour chacun des 22 nombres premiers p de 5 à 89, l'α_p exact est bien entre le min et le max des A_δ ; bornes 1,268 × 10^-6 ≤ P(G) ≤ 2,733 × 10^-3 autour de la valeur exacte 3,449 × 10^-4 ; arrondis des bornes faits par défaut ou par excès"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40441",
+   "40442"
+  ],
+  [
+   "40441",
+   "40443"
+  ],
+  [
+   "40442",
+   "40443"
+  ],
+  [
+   "40445",
+   "40446"
+  ],
+  [
+   "40445",
+   "40447"
+  ],
+  [
+   "40446",
+   "40447"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Problème I (sans parties, six questions) coupé en trois fichiers : questions 1 à 3 (premières propriétés), 4 et 5 (suites arithmétiques et suites magnifiques), 6 (prolonger une suite). La question 3 a) de 40441 est le classique déjà présent en 10849 (grade 8, « n nombres dont chacun divise leur somme ») ; une seule question de la partie, donc je garde 40441 ; le coordinateur peut lier 40441 et 10849 (et 7864) en see_also. En 40442, la question 1 demande en plus de trouver la suite (r, 2r, 3r), que la preuve donne sans effort. En 40443, l'hypothèse n ≥ 4 du sujet ne sert pas ; je l'ai gardée dans l'énoncé et signalée dans Going further. Problème II : un seul fichier (six questions courtes, la question 1 sert à la question 6), avec une figure du cube. Problème III : un fichier par question (1 : réussites recommencées, 2 : loi de X et algorithme, 3 : encadrement de P(G)), car les trois questions ont des niveaux très différents (12, 10, 11) ; 40447 rappelle en « on admet » les valeurs de la question 2 a). La question 3 c) du sujet est ouverte (qualité de l'encadrement laissée au candidat) : je l'ai découpée en quatre étapes guidées (a à d) qui conduisent à un encadrement rigoureux de α_p par une moyenne pondérée selon la dernière case avant le saut ; l'encadrement obtenu, 1,2 × 10^-6 ≤ P(G) ≤ 2,8 × 10^-3, est large, une amélioration est indiquée dans Going further. Le sujet définit α_p pour p = 2, 3, 5, … sans borne ; pour p = 97 le nombre premier suivant est 101, hors du jeu, donc α_p n'est défini ici que pour p′ < 100 et le produit de la question 2 porte sur p = 2 à 89. Aucune erreur trouvée dans le sujet.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40442",
+   "40445"
+  ],
+  "fixed": [
+   {
+    "id": "40441",
+    "what": "la seule indication de la question 3 a) donnait la construction d'emblée ; ajout d'une indication plus douce avant elle (chercher un exemple de longueur 4 à partir d'une suite de la question 2 a))"
+   },
+   {
+    "id": "40443",
+    "what": "la somme 1 + 2 + ... + 2^(t-1) = 2^t - 1 était utilisée sans justification (somme géométrique de 1re) ; ajout d'une explication en une ligne. Bilan corrigé : il affirmait le résultat pour « n'importe quelle suite », alors que le fichier le prouve pour une suite d'au moins quatre termes tous différents"
+   },
+   {
+    "id": "40444",
+    "what": "Bilan : « au plus deux droites qui s'appuient sur quatre droites données » laissait croire à un énoncé général ; remplacé par les quatre droites D1, D2, D3, D4 de l'exercice"
+   },
+   {
+    "id": "40446",
+    "what": "v_j défini comme la probabilité que le jeton « s'arrête un jour » sur la case j, ce qui se lit comme « la réussite se termine en j » ; remplacé par « tombe un jour sur » (définition, indication 4, Bilan)"
+   },
+   {
+    "id": "40447",
+    "what": "question 3 a) contradictoire : un jeton « sans jamais s'arrêter » dont u_m est la probabilité qu'il « s'arrête un jour » sur une case ; remplacé par « tombe » dans l'énoncé, l'indication 3, la solution 3 a) à 3 c) et Going further. Bilan corrigé : P(G) est 29/36 fois 24 facteurs 1 - α_p, pas un produit de 24 probabilités conditionnelles seulement"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40443",
+    "what": "grade 2de gardé, mais 3e/5 se défend : seuls les outils de collège servent une fois la base deux et la somme des puissances de 2 expliquées dans la solution. La construction de la question 2 (K = 2^t P, termes S·c_j) reste longue pour un élève de 3e, d'où le statu quo. 40442 aussi examiné pour la 3e : la question 1 (chaîne d'inégalités avec k, k', n, r) est hors de portée d'une séance de 3e, 2de/4 confirmé ; 40441 ne peut pas descendre en 4e (décomposition en facteurs premiers et produit de premiers distincts divisant S)"
+   },
+   {
+    "id": "40445",
+    "what": "indépendance des réussites successives : la solution la justifie en une phrase (chaque réussite utilise de nouveaux lancers et dure au plus 100 lancers), ce qui suffit en Terminale ; pas de modification"
+   },
+   {
+    "id": "40447",
+    "what": "la version guidée de 3 c) (moyenne pondérée des A_δ selon la dernière case avant le saut) est une lecture loyale de la question ouverte du sujet et donne un encadrement rigoureux, mais large : 1,27 × 10^-6 ≤ P(G) ≤ 2,73 × 10^-3 pour une valeur exacte 3,449 × 10^-4 (la borne basse est 270 fois trop petite). C'est un choix d'auteur, pas une erreur ; Going further donne l'amélioration (9,6 × 10^-6, vérifiée). La coupure de α_p à p = 89 est juste : 97 est suivi de 101, et P(G) = P(X > 97) = (29/36) ∏_{p=2}^{89} (1 - α_p), vérifié exactement"
+   }
+  ],
+  "how": "Pages 3 et 4 du sujet rendues à 150 dpi et relues contre chaque énoncé. Problème I (scripts personnels, force brute) : b = 14 seule valeur jusqu'à 5000 ; toutes les suites superbes de longueur 2 et 3 à termes ≤ 120 sont des formes annoncées ; aucune suite superbe de 4 diviseurs de 2013 de somme 2013, ni de somme impaire à 2, 4 ou 6 termes ≤ 15 ; construction 3 a) vérifiée n = 3 à 14 ; aucun ensemble de 2 à 5 premiers distincts parmi les 25 premiers n'est superbe ; suites arithmétiques n ≤ 11, a, r < 120 : seules (r, 2r, 3r) ; suites magnifiques strictement croissantes dès k = 2 recherchées sur 9 termes, a_1 ≤ 12 : uniquement (a, a, 2a, 4a, ...) ; constructions de 40443 sur 3000 suites aléatoires, exemple (1, 2, 3, 4) et remarque (1, 2, 3, 5) recalculés. Problème II : preuve de la question 1 relue cas par cas, coefficients α, β, γ redéveloppés, alignement de A, B, C et changement de repère du Going further refaits à la main, figure contrôlée (coordonnées des 8 sommets cohérentes avec la projection, 12 arêtes, D2 passe par B et C). Problème III : loi de X recalculée par propagation avant en fractions exactes (somme 1, P(G) = 3,4491 × 10^-4), contrôlée par 2 × 10^6 simulations (3,59 × 10^-4, écart d'un écart-type) ; le programme Python de 40446 extrait du fichier et exécuté ; α_2 = 7/29, α_3 = 49/132, P(X > 5) = 83/216, produit égal exactement à P(G) ; u_0 à u_7, les 20 A_δ et les bornes exactes recalculés ; les 22 α_p de 5 à 89 sont dans leurs bornes ; écarts 2, 4, 6, 8 comptés 7, 7, 7, 1 ; bornes de P(G) 1,268 × 10^-6 et 2,733 × 10^-3 ; 17 lancers minimum ; ln 2 / -ln(1 - w) = 2009,3 ; 2/7 et 2,3 × 10^-4 du Going further. Les sept fichiers construits sans avertissement pandoc, pages relues."
+ },
+ "updated": "2026-11-27"
+}
