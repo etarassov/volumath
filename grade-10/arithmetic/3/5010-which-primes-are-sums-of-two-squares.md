@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 35
 tags: [nombres-premiers, carres, restes, division-euclidienne]
 adapted_from: null
-see_also: []
+see_also: ["40085"]
 same_as: []
 created: 2026-09-20
 source:

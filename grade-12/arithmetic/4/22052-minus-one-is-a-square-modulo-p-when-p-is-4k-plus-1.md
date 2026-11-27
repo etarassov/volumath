@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 45
 tags: [nombres-premiers, congruences, carres-modulo-p, petit-theoreme-de-fermat, theoreme-de-wilson, infini, raisonnement-par-l-absurde, maths-expertes]
 adapted_from: null
-see_also: ["22048", "22049", "22046", "8717"]
+see_also: ["22048", "22049", "22046", "8717", "40087"]
 same_as: []
 created: 2026-10-26
 source:

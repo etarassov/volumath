@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="270" viewBox="0 0 380 270">
+<rect x="0" y="0" width="380" height="270" fill="#ffffff"/>
+<line x1="60" y1="230" x2="200" y2="230" stroke="#000" stroke-width="1.6"/>
+<line x1="200" y1="230" x2="200" y2="90" stroke="#000" stroke-width="1.6"/>
+<line x1="200" y1="90" x2="60" y2="90" stroke="#000" stroke-width="1.6"/>
+<line x1="60" y1="90" x2="60" y2="230" stroke="#000" stroke-width="1.6"/>
+<line x1="200" y1="90" x2="320" y2="90" stroke="#000" stroke-width="1.6"/>
+<path d="M 60 90 Q 190 -10 320 90" fill="none" stroke="#000" stroke-width="1.6"/>
+<circle cx="60" cy="90" r="7" fill="#1f5fbf" stroke="#000" stroke-width="1"/>
+<text x="32" y="96" font-family="Helvetica" font-size="18" font-style="italic" fill="#000">D</text>
+<circle cx="200" cy="90" r="7" fill="#1f5fbf" stroke="#000" stroke-width="1"/>
+<text x="194" y="76" font-family="Helvetica" font-size="18" font-style="italic" fill="#000">C</text>
+<circle cx="200" cy="230" r="7" fill="#1f5fbf" stroke="#000" stroke-width="1"/>
+<text x="212" y="238" font-family="Helvetica" font-size="18" font-style="italic" fill="#000">B</text>
+<circle cx="60" cy="230" r="8" fill="#f5c400" stroke="#000" stroke-width="2"/>
+<text x="54" y="260" font-family="Helvetica" font-size="18" font-style="italic" fill="#000">A</text>
+<text x="30" y="238" font-family="Helvetica" font-size="17" font-style="italic" fill="#8a6d00">a</text>
+<circle cx="320" cy="90" r="8" fill="#f5c400" stroke="#000" stroke-width="2"/>
+<text x="332" y="80" font-family="Helvetica" font-size="18" font-style="italic" fill="#000">E</text>
+<text x="334" y="114" font-family="Helvetica" font-size="17" font-style="italic" fill="#8a6d00">e</text>
+</svg>

@@ -1,0 +1,199 @@
+{
+ "unit": "cg-2014",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2014, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2014-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2014.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40481",
+  "40520"
+ ],
+ "status": "done",
+ "imported": [
+  "40481",
+  "40482",
+  "40483",
+  "40484",
+  "40485",
+  "40486",
+  "40487"
+ ],
+ "parts": [
+  {
+   "id": "40481",
+   "where": "problème I, questions 1° et 2° (a, b)"
+  },
+  {
+   "id": "40482",
+   "where": "problème I, question 3° (a, b, c), résultat de 1° admis"
+  },
+  {
+   "id": "40483",
+   "where": "problème II, questions 1° à 3° (problème entier, sans parties)"
+  },
+  {
+   "id": "40484",
+   "where": "problème III, questions 1° (a, b) et 2° (a à e)"
+  },
+  {
+   "id": "40485",
+   "where": "problème III, question 3° (a, b), résultats de 1° b et 2° c, d, e admis"
+  },
+  {
+   "id": "40486",
+   "where": "problème III, questions 4° (a à d) et 5°"
+  },
+  {
+   "id": "40487",
+   "where": "problème III, question 6°"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40481",
+   "grade": 11,
+   "why": "suite géométrique et somme 1 + q + … + q^(n-1), télescopage, aucune limite : 1re"
+  },
+  {
+   "id": "40482",
+   "grade": 12,
+   "why": "suite croissante majorée donc convergente, passage à la limite dans les inégalités, unicité de la limite : Terminale"
+  },
+  {
+   "id": "40483",
+   "grade": 12,
+   "why": "k joueurs indépendants, linéarité de l'espérance pour le nombre de gagnants, limites de suites géométriques : Terminale"
+  },
+  {
+   "id": "40484",
+   "grade": 8,
+   "why": "chiffres, multiples, 1000 = 8 × 125, divisions par 27 et 32 faites à la main, contre-exemple : outils de 4e ; six petites questions guidées, faisables par un bon élève de 4e avec les indications"
+  },
+  {
+   "id": "40485",
+   "grade": 10,
+   "why": "petit théorème de Fermat donné par l'énoncé, aucun calcul de congruence : multiples de p, 10^(mL) - 1 = (10^L - 1)(1 + 10^L + …), 99…9 = 9 × 11…1, décomposition en facteurs premiers : 2de ; long calcul guidé, d'où 5 étoiles"
+  },
+  {
+   "id": "40486",
+   "grade": 10,
+   "why": "reste de la division par 9 et somme des chiffres, décomposition en facteurs premiers, disjonction de cas ; notation ≡ définie dans l'énoncé comme « u - v multiple de 9 » : 2de ; cas nombreux, 5 étoiles"
+  },
+  {
+   "id": "40487",
+   "grade": 10,
+   "why": "principe des tiroirs et décomposition en facteurs premiers (lemme de Gauss évité), écriture décimale de mots répétés : 2de"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40481",
+   "how": "Python avec fractions exactes : 2000 suites aléatoires (q dans {1/7, 1/3, 1/2, 4/5, 9/10}, 40 termes), formule de 1° vérifiée terme à terme, |c q^n - x_n| ≤ ε/(1-q) vérifié pour c = x_0 - B, x_0 - B/2, x_0, x_0 + B/3, x_0 + B"
+  },
+  {
+   "id": "40482",
+   "how": "Python avec fractions exactes : 500 suites (q dans {5/4, 3/2, 2, 3}, 30 termes), x_n = q^n (x_0 + u_n) vérifié, 0 ≤ u_m - u_n ≤ ε/(q^n (q-1)) vérifié pour tous n < m ≤ 30 ; unicité prouvée à la main (argument ρL = L)"
+  },
+  {
+   "id": "40483",
+   "how": "Python avec fractions exactes : énumération de tous les k-uplets de scores pour p dans {1/2, 1/3, 3/4, 1/10}, k = 2 à 4, n = 2 à 5 ; P(gagnant unique) et E(nombre de gagnants) égales aux formules ; cas k = 2, p = 1/2 : limites 2/3 et 4/3 cohérentes entre elles"
+  },
+  {
+   "id": "40484",
+   "how": "Python : AB bloque tout d de 99 à 399, AAB bloque 27, ABBAB bloque 32 (toutes les attributions) ; 8 et 10 bons vérifiés sur tous les mots (formes canoniques) de longueur 1 à 6 ; 66716 = 4 × 16679 ; les cinq multiples de 8 du tableau vérifiés"
+  },
+  {
+   "id": "40485",
+   "how": "Python : le mot A AA^(p-2) BA^(p-2) … JA^(p-2) testé sur les 10! attributions pour p = 7, 11, 13, 17, 19, 23 : aucune divisible par p, et 90N ≡ 405 (mod p) pour chacune ; liste des 2^α 3^β 5^γ ≤ 99 sans 27 ni 32 recomptée : 27 nombres, contenant les 22 diviseurs de 18, 24, 45, 50, 60, 80 ; bloqueurs cités en Going further (AAB pour 36 et 72, ABA pour 48, AABA pour 75) vérifiés par recherche exhaustive"
+  },
+  {
+   "id": "40486",
+   "how": "Python : 18 (donc 9) bon vérifié par programmation dynamique sur toutes les classes de nombres d'occurrences modulo 9 et de dernière lettre (437 580 cas) ; formule a' ≡ a + n - k (mod 9) testée sur 20 000 nombres ; la preuve écrite des questions 2 à 5 simulée comme un algorithme sur 60 000 mots (aléatoires et à nombres d'occurrences structurés), elle aboutit toujours à une attribution divisible par 9, puis par 18 via x ↦ 9 - x"
+  },
+  {
+   "id": "40487",
+   "how": "Python : (AAB) répété 28 fois et 2 fois bloque 27, (ABBAB) répété 2 et 3 fois bloque 32 (toutes les attributions) ; période M = 27 retrouvée par le principe des tiroirs pour d' = 27, n = 3"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40481",
+   "40482"
+  ],
+  [
+   "40484",
+   "40485"
+  ],
+  [
+   "40484",
+   "40486"
+  ],
+  [
+   "40484",
+   "40487"
+  ],
+  [
+   "40485",
+   "40486"
+  ],
+  [
+   "40485",
+   "40487"
+  ],
+  [
+   "40486",
+   "40487"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Sujet de 3 problèmes sans parties ; pas de rapport ni de correction pour 2014, tout a été résolu ici. Problème I coupé en deux fichiers : questions 1° et 2° (cas 0 < q < 1, aucune limite, 1re) dans 40481, question 3° (cas q > 1, convergence, Terminale) dans 40482 avec le résultat de 1° admis. Pour 2° b, j'ai montré que toutes les suites c q^n avec |c - x_0| ≤ ε/(1-q) conviennent. Problème II en un seul fichier (40483), trop court pour être coupé. Problème III coupé en quatre fichiers : 1°-2° (40484, grade 8), 3° (40485, résultats de 1° b, 2° c, d, e admis), 4°-5° (40486), 6° (40487) ; chaque fichier redonne les définitions. Lecture du mot de 3° a : « A AA^(p-2) BA^(p-2) … JA^(p-2) », soit A^p B A^(p-2) … J A^(p-2), 10p - 9 lettres (61 pour p = 7) ; c'est la seule lecture qui contient les dix lettres, et elle est vérifiée par force brute. Choix de rédaction : aucune congruence ni lemme de Gauss dans 40485 et 40487 (on multiplie par 90 pour éviter de diviser modulo p, on passe par la décomposition en facteurs premiers), d'où le grade 10 sans tag maths-expertes ; 40486 définit ≡ (mod 9) dans l'énoncé comme « u - v multiple de 9 ». Les questions 4° c et 4° d n'ont pas de solution évidente : ma preuve change la lettre qui porte le 9 (ou supprime le 9) selon les nombres d'occurrences des lettres modulo 3 ou 9 ; je l'ai simulée comme un algorithme sur 60 000 mots. L'affirmation finale du sujet (exactement 22 nombres bons) n'est pas démontrée ici : seulement vérifié que les 22 diviseurs de 18, 24, 45, 50, 60, 80 sont parmi les 27 candidats, et que 36, 48, 72, 75 ont des bloqueurs courts ; pour 90, aucun bloqueur trouvé parmi les mots d'au plus 8 lettres et 4 lettres distinctes, donc 40485 ne cite pas de bloqueur de 90. Aucun doublon trouvé (similar.py et grep : cryptarithme 5409 sans rapport, pièces 2819 et 3813 différentes). Aucune erreur trouvée dans le sujet.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40481",
+   "40482",
+   "40484",
+   "40486",
+   "40487"
+  ],
+  "fixed": [
+   {
+    "id": "40483",
+    "what": "mise en page : $P(\\text{le joueur } i \\text{ gagne})$ s'imprimait avec des espaces doubles autour du numéro ; écrit $\\text{le joueur 1 gagne}$ (et $\\text{le joueur} \\ i \\ \\text{gagne}$). Mathématiques inchangées, formules vérifiées exactes."
+   },
+   {
+    "id": "40485",
+    "what": "mise en page : « (un multiple de  p) » avec espace double dans un affichage, corrigé. Going further complété : le mot AB^8C est un bloqueur de 90 (vérifié par force brute), si bien que les cinq nombres mauvais du tableau ont chacun un bloqueur explicite ; phrase ajoutée qui dit que la bonté des 22 autres n'est pas démontrée (seuls les diviseurs de 8, 10 et 18 le sont dans 40484 et 40486)."
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40484",
+    "what": "4e/4 gardé : outils de 4e (critère par 1000 = 8 × 125 donné en indication, restes, parité) et sept questions courtes guidées, mais les définitions emboîtées (bon = tout mot a une attribution divisible) demandent une vraie maturité logique ; 3e/3 serait aussi défendable."
+   },
+   {
+    "id": "40486",
+    "what": "2de/5 gardé : la preuve de 4° c et 4° d est celle de l'importateur (le sujet n'a pas de corrigé) ; je l'ai relue ligne à ligne et la trouve complète, et 9 et 18 sont bons par une vérification exhaustive indépendante. Mais c'est le fichier le plus dur du lot, à la limite de la condition « séance de club » même pour un très bon élève de 2de avec les indications."
+   },
+   {
+    "id": "40485",
+    "what": "l'affirmation du sujet « exactement 22 nombres bons » n'est démontrée dans aucun fichier et aucun fichier ne la présente comme démontrée ; vérifié ici seulement que 9, 18 et 45 sont bons (modèle exhaustif) et que 36, 48, 72, 75, 90 sont mauvais. La bonté de 24, 50, 60, 80 n'a pas été vérifiée."
+   }
+  ],
+  "how": "Rendu du sujet (pages 3 et 4) relu, mot de 3° a confirmé à 300 dpi et par pdfsupers.py : A A A^(p-2) B A^(p-2) ... J A^(p-2), 10p - 9 lettres. Scripts propres dans le scratchpad cg-2014-check : (1) problème I, fractions exactes, 400 suites q < 1 et q > 1 (b nuls après le rang 25 pour avoir s exact), formule de 1°, bornes de 2° et 3° b, existence en 3° c, 0 violation ; (2) problème II, énumération exacte de tous les k-uplets de scores, p dans {1/2, 1/3, 3/4, 1/10}, k = 2 à 4, n = 2 à 5, P(gagnant unique) et E(nombre de gagnants) égales aux formules, limites 2/3 et 4/3 pour k = 2, p = 1/2 ; (3) problème III par force brute : AB bloque 99 à 999, AAB bloque 27, ABBAB bloque 32, 8, 9, 10, 18 bons sur tous les mots canoniques de longueur au plus 7 ; pour tout premier p de 7 à 397, les dix lettres du mot de 3° a ont le même poids modulo p, donc toute attribution vaut 45 w modulo p, non nul, et 90N - 405 multiple de p sur des attributions tirées au hasard ; liste des 27 candidats et des 22 diviseurs recomptée ; bloqueurs AAB (36, 72), ABA (48), AABA (75), AB^8C (90), (AAB)^28 et AABAAB (27), (ABBAB)^m pour m = 1 à 7 (32) ; (4) programme C sur les 437 580 types (nombres d'occurrences modulo 9, dernière lettre) : 9 et 18 bons, aucun échec, et 45 bon ; (5) la preuve écrite de 40486 programmée branche par branche sur 40 000 mots, toutes les branches (Q2, cas A, B1, B2, B3, 4a, 4b, 4c) atteintes, chaque fois une attribution divisible par 9 puis par 18. Les sept fichiers construits sans avertissement pandoc et toutes les pages regardées."
+ },
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422" height="322" viewBox="0 0 422 322">
+<rect x="0" y="0" width="422" height="322" fill="#ffffff"/>
+<polygon points="124.2,37.4 25.0,297.8 397.0,297.8" fill="none" stroke="#000000" stroke-width="1.5"/>
+<polygon points="161.8,203.6 25.0,297.8 397.0,297.8" fill="none" stroke="#7a8fb8" stroke-width="0.8"/>
+<polygon points="167.3,253.5 25.0,297.8 397.0,297.8" fill="none" stroke="#7a8fb8" stroke-width="0.8"/>
+<polygon points="168.6,276.0 25.0,297.8 397.0,297.8" fill="none" stroke="#7a8fb8" stroke-width="0.8"/>
+<polygon points="168.9,286.9 25.0,297.8 397.0,297.8" fill="none" stroke="#7a8fb8" stroke-width="0.8"/>
+<circle cx="124.2" cy="37.4" r="2.8" fill="#000000"/>
+<text x="130.2" y="32.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic">A<tspan font-size="10" dy="4" font-style="normal">0</tspan></text>
+<circle cx="161.8" cy="203.6" r="2.8" fill="#000000"/>
+<text x="167.8" y="198.6" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic">A<tspan font-size="10" dy="4" font-style="normal">1</tspan></text>
+<circle cx="167.3" cy="253.5" r="2.8" fill="#000000"/>
+<text x="173.3" y="248.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic">A<tspan font-size="10" dy="4" font-style="normal">2</tspan></text>
+<circle cx="168.6" cy="276.0" r="2.8" fill="#000000"/>
+<text x="174.6" y="271.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic">A<tspan font-size="10" dy="4" font-style="normal">3</tspan></text>
+<circle cx="168.9" cy="286.9" r="2.8" fill="#000000"/>
+<circle cx="169.0" cy="292.4" r="2.8" fill="#000000"/>
+<text x="11.0" y="311.8" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic">B</text>
+<text x="401.0" y="311.8" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic">C</text>
+<circle cx="169.0" cy="297.8" r="4" fill="#b03030"/>
+<text x="165.0" y="315.8" font-family="Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#b03030">A</text>
+</svg>

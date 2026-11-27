@@ -1,0 +1,186 @@
+{
+ "unit": "cg-2019-es",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2019, mathématiques, série ES",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2019-es-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-es-2019.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "41081",
+  "41120"
+ ],
+ "status": "done",
+ "imported": [
+  "41081",
+  "41082",
+  "41083",
+  "41084",
+  "41085",
+  "41086"
+ ],
+ "parts": [
+  {
+   "id": "41081",
+   "where": "problème I, question 1° (a) à (e)"
+  },
+  {
+   "id": "41082",
+   "where": "problème I, question 1° (f) et question 2° (a) à (i)"
+  },
+  {
+   "id": "41083",
+   "where": "problème I, question 3° (a) à (f)"
+  },
+  {
+   "id": "41084",
+   "where": "problème I, question 4° (a) à (d)"
+  },
+  {
+   "id": "41085",
+   "where": "problème II, questions 1° (a), (b) et 2° (a), (b) (problème entier)"
+  },
+  {
+   "id": "41086",
+   "where": "problème III, questions 1° (a) à (f), 2° (a) à (f), 3° (a), (b) (problème entier)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "41081",
+   "grade": 11,
+   "why": "probabilités totales, suite géométrique, espérance, limite de (1/2)^n vue de façon intuitive : tout est de 1re ; la question 1° (f), qui demande une matrice, a été déplacée dans 41082"
+  },
+  {
+   "id": "41082",
+   "grade": 12,
+   "why": "matrices (maths expertes) demandées explicitement par les questions 1, 2 b à 2 e ; le reste est de 1re"
+  },
+  {
+   "id": "41083",
+   "grade": 12,
+   "why": "produits de matrices 4 × 4 et associativité (maths expertes) ; calculs guidés"
+  },
+  {
+   "id": "41084",
+   "grade": 11,
+   "why": "probabilités totales et suites géométriques (1re), sans matrice ; l'idée de chercher une combinaison géométrique et l'algèbre avec q en lettre donnent 4 étoiles ; les coefficients binomiaux ne sont qu'en prolongement"
+  },
+  {
+   "id": "41085",
+   "grade": 12,
+   "why": "convexité par le signe de la dérivée seconde et logarithme (contre-exemple ln(1 + x²)) : Terminale ; une idée pour la réciproque (choisir lambda selon le point)"
+  },
+  {
+   "id": "41086",
+   "grade": 11,
+   "why": "second degré, dérivée d'un produit, fonctions polynômes ; le résultat sur les racines est admis par l'énoncé ; rien de Terminale. Problème court et guidé, gardé en un seul fichier : la partie 3 seule serait trop mince et devrait tout redire"
+  }
+ ],
+ "checks": [
+  {
+   "id": "41081",
+   "how": "loi de X_n calculée exactement (Fraction) par la récurrence de transition pour n = 0 à 11, égale à 1/2^n et 1 - 1/2^n"
+  },
+  {
+   "id": "41082",
+   "how": "loi exacte calculée par transitions (Fraction) pour q = 2, n = 0 à 11 : P(X_n=2) = 1/3^n, P(X_n=1) = 2(1/2^n - 1/3^n), P(X_n=0), E(X_n) = 2/2^n ; produit MA = A/2 calculé"
+  },
+  {
+   "id": "41083",
+   "how": "loi exacte (Fraction) pour q = 3, n = 0 à 11 : les quatre formules, alpha_n = 3/2^n et beta_n = 3/3^n ; MA = A/2 et MB = B/3 calculés"
+  },
+  {
+   "id": "41084",
+   "how": "loi exacte (Fraction) pour q = 1 à 8 et n = 0 à 11 : P(X_n=q), u_n = q/q^n, formules pour q-1, q-2, q-3, et la combinaison de coefficients 1, q-2, (q-1)(q-2)/2, q(q-1)(q-2)/6 géométrique de raison 1/(q-2) ; formule générale binomiale du prolongement vérifiée pour tous k ≤ q ≤ 8"
+  },
+  {
+   "id": "41085",
+   "how": "sympy : f_lambda'' = (u'' + (u' + lambda)^2) e^(u + lambda x) ; u = ln(1 + x²) a u'' = 2(1 - x²)/(1 + x²)², u''(2) = -6/25, e^u = 1 + x² de dérivée seconde 2"
+  },
+  {
+   "id": "41086",
+   "how": "solution (-1, 11/6, -1, 1/6) vérifiée dans les quatre équations ; formules explicites de x, y, z pour n = 3 testées sur 200 jeux de (a_i, b_i) entiers aléatoires en Fraction ; identité du prolongement (somme des L_i = 1) vérifiée avec sympy"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [
+  {
+   "id": "41082",
+   "tool": "matrices (écriture matricielle d'une chaîne de Markov)",
+   "suggested_theme": "matrices",
+   "hors_programme": false
+  },
+  {
+   "id": "41083",
+   "tool": "matrices (écriture matricielle d'une chaîne de Markov)",
+   "suggested_theme": "matrices",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  [
+   "41081",
+   "41082"
+  ],
+  [
+   "41081",
+   "41083"
+  ],
+  [
+   "41081",
+   "41084"
+  ],
+  [
+   "41082",
+   "41083"
+  ],
+  [
+   "41082",
+   "41084"
+  ],
+  [
+   "41083",
+   "41084"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Aucun problème du sujet ES 2019 ne recoupe le sujet S 2019 (S : ensembles de fonctions 40681-40683, nombres joviaux 40684-40687, urnes non transitives 40688-40690 ; ES : marche aléatoire, fonctions convexes, polynômes de Lagrange). Rien n'a donc été sauté pour cette raison et aucun lien avec les fichiers S n'est à ajouter. Problème I : la question 1° (f) (matrice pour q = 1) a été déplacée au début de 41082 pour que la partie q = 1 reste au niveau 1re. Problèmes II et III : un seul fichier chacun (II est court, III est une seule construction guidée de 55 minutes) ; pas de see_also pour eux, aucun fichier lié dans la collection. Recherche de doublons faite (similar.py et grep « Lagrange », « convexe », « marche aléatoire ») : rien de proche ; 12850 (grade 12) cite l'interpolation de Lagrange comme outil d'un autre problème.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "41081",
+   "41082",
+   "41083",
+   "41084",
+   "41085"
+  ],
+  "fixed": [
+   {
+    "id": "41086",
+    "what": "énoncé : ajout d'une phrase qui définit « fonction polynôme de degré au plus m » et ses coefficients, pour qu'un élève de 1re (qui n'a vu que le second degré) puisse lire le résultat admis et les questions 2 e, 2 f et 3 ; rien d'autre changé"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "41084",
+    "what": "1re, 4 étoiles gardé : tous les outils sont de 1re (probabilités totales, suites géométriques, calcul littéral en q) et la question 4 est faisable avec les indications, mais la question ouverte 4 et le calcul avec q en lettre sont longs ; 1re/5 se défendrait aussi. Méthode et application à k = 3 vérifiées, ainsi que la formule binomiale du prolongement (q ≤ 10, tous k, n ≤ 12)"
+   },
+   {
+    "id": "41085",
+    "what": "prolongement : les deux questions « pour quelles valeurs de a > 0 … est convexe » ont pour réponse « aucune » (ln(a + x²) a une dérivée seconde négative pour x² > a, e^(−a x²) pour 2a x² < 1) ; c'est correct mais un peu piège, laissé tel quel"
+   }
+  ],
+  "how": "loi exacte recalculée (Fraction) par transitions pour q = 0 à 10 et n ≤ 15 : formules de 41081, 41082 (q = 2), 41083 (q = 3), 41084 (q − 1, q − 2, q − 3, combinaisons géométriques, méthode des coefficients un par un, formule binomiale) ; U(n+1) = U(n)M vérifié pour q = 1, 2, 3 avec les matrices des fichiers ; MA = A/2, MB = B/3, MC = C/4 ; sympy pour f_lambda'' et u = ln(1 + x²) (u''(2) = −6/25) ; système 4 × 4 de 41086 résolu par pivot de Gauss en Fraction : (−1, 11/6, −1, 1/6) ; formules de x, y, z de 2 f testées sur 300 tirages aléatoires ; prolongement (0,1), (1,3), (2,7) donne 1 + x + x². Les six fichiers construits et toutes les pages regardées, sans défaut d'affichage."
+ },
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,231 @@
+{
+ "unit": "cg-2018",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2018, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2018-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2018.pdf"
+  },
+  {
+   "role": "correction",
+   "file": "sources/originals/concours-general/umlm-2018-correction.pdf",
+   "url": "http://unemainlavelautre.net/concours_examens/concours_general_2018_mathematique_s/concours_general_2018_mathematique_s_correction.pdf",
+   "note": "correction non officielle (unemainlavelautre.net), à utiliser comme vérification seulement"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40641",
+  "40680"
+ ],
+ "status": "done",
+ "imported": [
+  "40641",
+  "40642",
+  "40643",
+  "40644",
+  "40645",
+  "40646",
+  "40647",
+  "40648"
+ ],
+ "parts": [
+  {
+   "id": "40641",
+   "where": "problème I « Approximations de courbes », partie A, questions 1 à 5"
+  },
+  {
+   "id": "40642",
+   "where": "problème I « Approximations de courbes », partie B, questions 1 à 4"
+  },
+  {
+   "id": "40643",
+   "where": "problème II « Un si discret Monsieur Dirichlet », partie A, questions 1 à 3"
+  },
+  {
+   "id": "40644",
+   "where": "problème II, partie B, sous-partie « Existence d'une solution », questions 1 à 3"
+  },
+  {
+   "id": "40645",
+   "where": "problème II, partie B, sous-partie « Unicité de la solution », questions 4 à 6"
+  },
+  {
+   "id": "40646",
+   "where": "problème III « Les nombres en or », partie A questions 1 à 4, avec les questions 1 et 4 de la partie B (dans l'ordre A1, A2, A3 + B1, B4, A4)"
+  },
+  {
+   "id": "40647",
+   "where": "problème III, partie B, questions 2 a, 2 b et 5"
+  },
+  {
+   "id": "40648",
+   "where": "problème III, partie B, questions 3 a, 3 b et 3 c (les résultats de 2 a et 2 b sont admis dans l'énoncé)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40641",
+   "grade": 12,
+   "why": "coefficients binomiaux, formule du binôme et loi binomiale : Terminale spécialité ; tout est une application directe du cours, d'où 2 étoiles"
+  },
+  {
+   "id": "40642",
+   "grade": 11,
+   "why": "vecteurs et décomposition dans une base (2de), mais la question 4 (arc de parabole) demande le produit scalaire et un repère orthonormé adapté : 1re spécialité ; seuls les polynômes de degré 2 servent, rappelés dans l'énoncé, donc rien de Terminale"
+  },
+  {
+   "id": "40643",
+   "grade": 10,
+   "why": "systèmes linéaires à deux ou trois inconnues avec paramètres (2de) ; aucun outil de 1re ; calculs guidés, d'où 2 étoiles"
+  },
+  {
+   "id": "40644",
+   "grade": 12,
+   "why": "récurrence et théorème de la limite monotone (une suite croissante majorée converge), passage à la limite dans une somme finie : Terminale spécialité ; questions très guidées"
+  },
+  {
+   "id": "40645",
+   "grade": 10,
+   "why": "aucun outil au-delà de la moyenne et du raisonnement par l'absurde ; l'idée (regarder la plus grande valeur et la propager le long d'un chemin) est celle de l'exercice 8836, rangé en 2de ; démonstration à plusieurs idées, d'où 4 étoiles. Partie B coupée en deux fichiers pour que l'unicité, sans limite, descende en 2de"
+  },
+  {
+   "id": "40646",
+   "grade": 10,
+   "why": "puissances d'exposant négatif, l'égalité φ² = φ + 1 (vérifiable en 2de avec φ = (1+√5)/2 donné), un argument de terminaison (le nombre de chiffres 1 diminue) et un raisonnement de proche en proche ; aucun outil de 1re. Les questions 4 et 5 demandent plusieurs idées, d'où 4 étoiles ; trop long et trop abstrait pour un club de 3e"
+  },
+  {
+   "id": "40647",
+   "grade": 10,
+   "why": "somme télescopique, raisonnement par l'absurde, irrationalité de √5 démontrée en quelques lignes par les derniers chiffres ; tout est de 2de"
+  },
+  {
+   "id": "40648",
+   "grade": 12,
+   "why": "la question 1 demande explicitement le logarithme népérien (Terminale spécialité) ; le reste est un algorithme glouton et un calcul à la machine, d'où 2 étoiles"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40641",
+   "how": "sympy : partition de l'unité, relation de Pascal, somme des i B = np et des i² B = np(1-p) + n²p² vérifiées symboliquement pour n = 0 à 8 ; résultats concordants avec la correction non officielle"
+  },
+  {
+   "id": "40642",
+   "how": "sympy : points M(1/4), M(1/2), M(3/4) et construction par partages successifs recalculés en fractions exactes ; équation implicite de la courbe de l'exemple 9x²+6xy+y²-58x-62y+193=0, discriminant b²-4ac = 0 (parabole) ; 3x+y = 16p-1 linéaire, axe parallèle à BA+BC = (-2;6) ; tangentes en A et C vérifiées. La correction non officielle traite la question 4 de façon incomplète (changement de variable X = racine de x), la preuve publiée ici passe par un repère orthonormé dont un axe est parallèle à BA+BC"
+  },
+  {
+   "id": "40643",
+   "how": "systèmes résolus avec sympy (2a : (3a+e)/4, (a+e)/2, (a+3e)/4 ; 2b : (9a+4e)/13, (5a+8e)/13, (6a+7e)/13 ; 2c : (a+e)/2 partout) ; arêtes du schéma 2b relues sur la page rendue à 150 dpi ; résultats identiques à ceux de la correction non officielle"
+  },
+  {
+   "id": "40644",
+   "how": "simulation Python sur 120 graphes connexes aléatoires : la suite f_n est croissante, reste dans [0, K] et converge vers la solution du système linéaire (calculée exactement avec sympy)"
+  },
+  {
+   "id": "40645",
+   "how": "même simulation : le système linéaire des points bleus a toujours un déterminant non nul (solution unique) et la solution reste entre le min et le max des valeurs jaunes ; preuve par le principe du maximum relue pas à pas"
+  },
+  {
+   "id": "40646",
+   "how": "arithmétique exacte dans Z[φ] en Python : représentations en or pur de 1 à 20 recalculées (2 = 10,01 ; 3 = 100,01 ; 4 = 101,01 ; 5 = 1000,1001) ; équivalence de 0 suivi de n chiffres 1 avec (10)^(n/2)0 ou (10)^((n-1)/2)01 vérifiée numériquement pour n = 1 à 11 ; la descente de la question 5 (remplacements 100 -> 011 le long de la chaîne a_0, a_-2, ...) testée sur les 1157 représentations pures de la fenêtre [-10, 6] ayant a_0 = 1. La correction non officielle s'arrête à la question A3 : rien à comparer pour A4 et la partie B"
+  },
+  {
+   "id": "40647",
+   "how": "encadrement φ^n + φ^(n-2) + ... + φ^(n-2r+2) = φ^(n+1) - φ^(n-2r+1) vérifié numériquement pour r = 1 à 7 ; unicité contrôlée en recalculant par algorithme glouton exact les représentations de 1 à 20000 ; stabilité de {u + vφ} par multiplication par φ et par 1/φ = φ - 1 vérifiée à la main"
+  },
+  {
+   "id": "40648",
+   "how": "algorithme glouton en arithmétique exacte dans Z[φ] et en mpmath à 40 chiffres : 2018 = φ^15 + φ^13 + φ^10 + φ^4 + φ^2 + φ^-2 + φ^-4 + φ^-11 + φ^-16 ; vérification exacte par les nombres de Lucas (1364 + 521 + 123 + 7 + 3) ; le programme Python publié, avec sa correction d'arrondi, donne le bon résultat pour tous les entiers de 1 à 19999, alors que la version sans correction se trompe dès 1242 et pour 2018 (partie entière -17 au lieu de -16 à la dernière étape)"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40641",
+   "40642"
+  ],
+  [
+   "40643",
+   "40644"
+  ],
+  [
+   "40643",
+   "40645"
+  ],
+  [
+   "40644",
+   "40645"
+  ],
+  [
+   "40646",
+   "40647"
+  ],
+  [
+   "40646",
+   "40648"
+  ],
+  [
+   "40647",
+   "40648"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Huit fichiers pour trois problèmes. Choix de découpe : (1) problème II, partie B coupée en deux fichiers (existence 40644 en Terminale car elle passe par la limite monotone ; unicité 40645 en 2de car elle n'utilise que le principe du maximum). (2) problème III : la partie A ne tient pas seule, car A4 (tout entier est en or) se démontre proprement avec B4 (toute représentation se ramène à une représentation en or pur) ; B4 et B1 ont donc été placées dans le fichier de la partie A (40646, questions renumérotées, ordre expliqué dans source.reference). B2 et B5 (unicité, réels non en or) forment 40647 en 2de ; B3 (logarithme, algorithme, 2018) forme 40648 en Terminale, avec les résultats de B2 admis dans l'énoncé. Lien see_also proposé au coordinateur, non écrit car hors de mon bloc : 40645 <-> 8836 (même principe du maximum sur un cercle) ; 40645 cite 8836 dans « Going further ». Les paires 40644/40645 (similarité 0,73) et 40647/40648 (0,71) partagent seulement les définitions de l'énoncé : elles posent des questions différentes et sont liées par see_also. Remarques sur la correction non officielle : elle ne traite pas A4 ni la partie B du problème III ; sa réponse à I.B.4 (arc de parabole) repose sur un changement de variable X = racine de x qui ne prouve rien, la preuve publiée passe par un repère orthonormé. Imprécisions du sujet, sans conséquence : la partie I.B demande « n + 1 points non alignés » alors qu'elle étudie les degrés 0 et 1 (supprimé) ; « inscrite dans le triangle » est compris comme « contenue dans le triangle » ; en III, φ est donné par sa valeur pour que 40646 et 40647 restent en 2de. Notes de vm.py check à arbitrer : 40643 question 2 a (chemin de cinq points, suite arithmétique) recoupe la question 1 de 1210 (grade 11), et 40643, 40644, 40645 ressemblent à 8836 et 1210 ; ce sont des problèmes apparentés, pas des copies (les miens portent sur un graphe quelconque avec des points fixés), à lier par see_also si le coordinateur le juge utile.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40641",
+   "40645",
+   "40646",
+   "40648"
+  ],
+  "fixed": [
+   {
+    "id": "40642",
+    "what": "question 4 : ajouté ce qu'il faut montrer (une parabole = courbe d'une fonction du second degré dans un repère orthonormé), la justification des coordonnées par produit scalaire dans le repère (A ; u, w), et le fait que le coefficient de X² n'est pas nul. La preuve de l'importateur était déjà juste et complète ; la correction non officielle (X = racine de x dans le repère oblique (B, A, C)) ne prouve pas la forme, confirmé à la lecture"
+   },
+   {
+    "id": "40643",
+    "what": "indice de la question 2 b : « essayer a = 0 et e = 13 » trahissait le dénominateur 13 de la réponse ; remplacé par « essayer a = e »"
+   },
+   {
+    "id": "40644",
+    "what": "Going further : « Nulle part » était inexact, l'hypothèse de liaison sert à garantir que chaque point bleu a au moins un voisin (sinon la moyenne n'a pas de sens) ; phrase corrigée"
+   },
+   {
+    "id": "40647",
+    "what": "Bilan : « beaucoup de réels positifs ne sont pas en or » disait plus que ce qui est prouvé (seul 1/2 l'est) ; remplacé par « certains réels positifs, comme 1/2 »"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40646",
+    "what": "2de 4 étoiles gardé : outils de collège et de 2de seulement (puissances, φ² = φ + 1 vérifiable, terminaison), preuve de « tout entier est en or » relue et complète (descente 100 -> 011 le long de a_0, a_-2, ... puis question 4). 1re 3 étoiles serait aussi défendable, rien dans le fichier ne demande un outil de 1re, donc pas de changement"
+   },
+   {
+    "id": "40648",
+    "what": "contenu juste (programme imprimé exécuté : [15, 13, 10, 4, 2, -2, -4, -11, -16], identique à un glouton exact dans Z[φ] pour 1 à 19999). L'entrée checks de l'importateur dit que la version sans correction « se trompe dès 1242 » : faux, elle se trompe dès 2 (ln(φ^-2)/ln φ calculé -2,0000000000000004). Le fichier lui-même ne dit que « c'est le cas en Python sans la correction » pour 2018, ce qui est vrai ; rien à corriger dans le fichier"
+   }
+  ],
+  "how": {
+   "40641": "sympy : partition de l'unité, relation de Pascal, sommes i B et i² B vérifiées pour n = 0 à 8",
+   "40642": "points Q, R, M(p) pour p = 1/4, 1/2, 3/4 recalculés en fractions, x(p), y(p) et 3x + y = 16p - 1 ; formule Y = ||W||/(4α²) X² + (β/α) X testée sur 200 triangles aléatoires ; figure vérifiée (A, B, C et M(1/4) aux bons pixels), elle est dans la solution et ne dévoile rien",
+   "40643": "systèmes 1, 2 a, 2 b, 2 c résolus avec sympy, question 3 pour n = 1 à 6 ; arêtes des 4 figures comparées à la page 4 du sujet rendue",
+   "40644": "150 graphes reliés aléatoires (2 à 9 points) : f_n croissante entre 0 et K en fractions exactes, limite égale à la solution exacte du système",
+   "40645": "mêmes graphes : solution unique (sympy) et comprise entre le min et le max des valeurs jaunes",
+   "40646": "Z[φ] exact : procédure de la question 5 (avec la question 4) déroulée de 0 à 500, chaque étape vérifiée ; représentations 2 à 5 ; équivalence de 0 1^n pour n = 0 à 11",
+   "40647": "somme télescopique vérifiée pour n de -5 à 7 et r de 1 à 7 ; preuve d'unicité et d'irrationalité de √5 relues",
+   "40648": "programme imprimé extrait du fichier et exécuté ; tableau des restes recalculé à 80 chiffres ; nombres de Lucas L2, L4, L10, L13, L15 et somme 2018 recalculés"
+  }
+ },
+ "updated": "2026-11-27"
+}

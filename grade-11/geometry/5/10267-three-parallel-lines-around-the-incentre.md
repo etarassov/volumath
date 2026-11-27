@@ -101,7 +101,7 @@ où l'on a utilisé le théorème des milieux dans le triangle $YXX'$, puis $\ov
 
 *Remarques.*
 
-- Comme $(\vec{v} - \vec{u}) \cdot (\vec{u} + \vec{v}) = \|\vec{v}\|^2 - \|\vec{u}\|^2 = 0$, et que la bissectrice $(AI)$ est dirigée par $\vec{u} + \vec{v}$ (la diagonale du losange construit sur $\vec{u}$ et $\vec{v}$), les trois droites sont perpendiculaires à $(AI)$. C'est ce que suggère la figure, et c'est la stratégie du corrigé officiel.
+- Comme $(\vec{v} - \vec{u}) \cdot (\vec{u} + \vec{v}) = \lVert \vec{v} \rVert^2 - \lVert \vec{u} \rVert^2 = 0$, et que la bissectrice $(AI)$ est dirigée par $\vec{u} + \vec{v}$ (la diagonale du losange construit sur $\vec{u}$ et $\vec{v}$), les trois droites sont perpendiculaires à $(AI)$. C'est ce que suggère la figure, et c'est la stratégie du corrigé officiel.
 - Les deux hypothèses ajoutées sont nécessaires. Si $D = Y$, alors $\rho' = \rho$ : le cercle $DEF$ est le cercle inscrit, tangent à $(AB)$ et à $(AC)$, et il ne les recoupe pas. Si $E = A$, alors $e = 0$, donc $n = 0$ et $N = A = E$ : la droite $(EN)$ n'existe pas. Ce cas se produit vraiment, pour certains triangles et certaines positions de $D$.
 - L'énoncé original suppose le triangle non isocèle. La preuve ci-dessus n'utilise pas cette hypothèse.
 - Le corrigé officiel passe par des angles et utilise le théorème de Miquel pour montrer que $A$, $E$, $I$, $F$ sont cocycliques. Les correcteurs signalent que plusieurs positions des points $E$, $M$ et $F$, $N$ sont possibles sur la figure : le calcul par abscisses ci-dessus les traite toutes à la fois.

@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 25
 tags: [principe-de-lextremum, moyenne, cercle, maximum]
 adapted_from: null
-see_also: ["8340"]
+see_also: ["8340", "40643", "40644", "40645"]
 same_as: []
 created: 2026-09-20
 source:

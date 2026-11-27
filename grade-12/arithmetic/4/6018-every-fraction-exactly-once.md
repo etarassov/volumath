@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 60
 tags: [fraction-irreductible, pgcd, arbre-binaire, recurrence, denombrable]
 adapted_from: null
-see_also: []
+see_also: ["40841"]
 same_as: []
 created: 2026-09-20
 source:

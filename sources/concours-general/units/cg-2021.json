@@ -1,0 +1,336 @@
+{
+ "unit": "cg-2021",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2021, mathématiques, spécialité mathématiques",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2021-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2021.pdf"
+  },
+  {
+   "role": "rapport",
+   "file": "sources/originals/concours-general/rapport-2021.pdf",
+   "url": "https://eduscol.education.fr/document/12239/download",
+   "note": "rapport du jury : statistiques et commentaires, aucune solution"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40761",
+  "40800"
+ ],
+ "status": "done",
+ "imported": [
+  "40761",
+  "40762",
+  "40763",
+  "40764",
+  "40765",
+  "40766",
+  "40767",
+  "40768",
+  "40769",
+  "40770",
+  "40771",
+  "40772"
+ ],
+ "parts": [
+  {
+   "id": "40761",
+   "where": "problème 1, questions 1 à 3"
+  },
+  {
+   "id": "40762",
+   "where": "problème 1, questions 4 à 7"
+  },
+  {
+   "id": "40763",
+   "where": "problème 1, questions 8 à 11"
+  },
+  {
+   "id": "40764",
+   "where": "problème 2, parties I et II, questions 1 à 6"
+  },
+  {
+   "id": "40765",
+   "where": "problème 2, partie III, questions 7 à 10"
+  },
+  {
+   "id": "40766",
+   "where": "problème 2, partie IV, questions 11 à 17"
+  },
+  {
+   "id": "40767",
+   "where": "problème 3, préambule et partie I, questions 1 à 5"
+  },
+  {
+   "id": "40768",
+   "where": "problème 3, partie II, questions 6 à 8"
+  },
+  {
+   "id": "40769",
+   "where": "problème 3, partie II, question 9"
+  },
+  {
+   "id": "40770",
+   "where": "problème 3, partie III, questions 10 à 13"
+  },
+  {
+   "id": "40771",
+   "where": "problème 3, partie IV, question 14"
+  },
+  {
+   "id": "40772",
+   "where": "problème 3, partie IV, question 15"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40761",
+   "grade": 12,
+   "why": "limites avec preuve (gendarmes, comparaison) et logarithme : Terminale"
+  },
+  {
+   "id": "40762",
+   "grade": 12,
+   "why": "deux récurrences, théorème des gendarmes et divergence par comparaison : Terminale ; chaque question est courte et guidée, d'où 2 étoiles"
+  },
+  {
+   "id": "40763",
+   "grade": 12,
+   "why": "dichotomie, théorème de la limite monotone, passage à la limite dans une inégalité, logarithme : Terminale"
+  },
+  {
+   "id": "40764",
+   "grade": 11,
+   "why": "dénombrement d'une petite liste, produit de probabilités conditionnelles le long des tirages, espérance et symétrie : rien de Terminale ; la question 4 demande une idée"
+  },
+  {
+   "id": "40765",
+   "grade": 12,
+   "why": "récurrence, coefficients binomiaux, probabilités totales sur une suite de tirages et théorème des gendarmes : Terminale"
+  },
+  {
+   "id": "40766",
+   "grade": 12,
+   "why": "récurrence sur n portant sur une loi entière, probabilités conditionnelles, partition et bijection ; longue chaîne d'idées, niveau concours : Terminale 5 étoiles"
+  },
+  {
+   "id": "40767",
+   "grade": 11,
+   "why": "dérivée d'un quotient et fonction exponentielle (1re) ; le reste est du sens de variation ; question 5 : 2^k dépasse tout nombre, vu intuitivement en 1re"
+  },
+  {
+   "id": "40768",
+   "grade": 10,
+   "why": "seulement du calcul algébrique, l'étude de t + 1/t par différence, le sens de variation et un raisonnement par l'absurde : tout est en 2de ; plusieurs idées, d'où 4 étoiles"
+  },
+  {
+   "id": "40769",
+   "grade": 12,
+   "why": "théorème des valeurs intermédiaires pour le signe constant de f' (Terminale), et passage à la limite dans des taux d'accroissement"
+  },
+  {
+   "id": "40770",
+   "grade": 10,
+   "why": "une fois le critère max/min donné dans l'énoncé, ce ne sont que des inégalités entre nombres positifs et des puissances : 2de"
+  },
+  {
+   "id": "40771",
+   "grade": 9,
+   "why": "produit en croix, puissances, croissance de t + 1/t sur [1, +∞[ démontrée par une factorisation : tout est connu en 3e ; même niveau que 22009 (grade 9)"
+  },
+  {
+   "id": "40772",
+   "grade": 11,
+   "why": "dérivées de sin et cos données par l'énoncé, dérivée d'un quotient, cos² + sin² = 1, variations : 1re"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40761",
+   "how": "Python (mpmath, 60 chiffres) : pour des départs de part et d'autre du seuil, la suite passe sous 1 à un rang ≥ 2 ou dépasse n + 1 ; inégalité u_n > ln(n+1) contrôlée sur les départs divergents"
+  },
+  {
+   "id": "40762",
+   "how": "Python (mpmath) : u(0) = 0 ; 1 ; 1,3591 ; 1,2976 ; 0,9151 ; e/2 = 1,3591 < ln(3 ln 4) = 1,4252 ; e² − 6 = 1,389 et e² − 5 = 2,389 ; u_1(1) = e ≥ 2"
+  },
+  {
+   "id": "40763",
+   "how": "Python (mpmath, 60 chiffres) : dichotomie sur 150 étapes, δ ≈ 0,3132776395 ; c_ℓ calculé pour ℓ = 2 à 39, strictement croissant, c_39 = δ à 10^-25 près ; u_ℓ(c_ℓ) = 1 vérifié pour ℓ = 2 à 7 ; v_j ≥ 1 pour j ≥ 2 vérifié pour ℓ ≤ 29"
+  },
+  {
+   "id": "40764",
+   "how": "Python : loi exacte de D_n (Fraction) par récurrence sur n, en renumérotant les boules restantes, pour n ≤ 11 ; confirmée par une simulation directe du protocole (200 000 parties, n = 3 et 5) ; D_2 = (0, 1/10, 4/5, 1/10, 0) ; P(D_n = 1) = 6/((2n−1)2n(2n+1)), symétrie et E(D_n) = n vérifiées pour n ≤ 11"
+  },
+  {
+   "id": "40765",
+   "how": "Python : u_n ≤ 1/√(3n+1) et M_n ≤ (8/3)u_n vérifiés pour n ≤ 11 avec les lois exactes ; formule de p_j comparée au comptage direct des tirages pour n ≤ 9 ; min p_j ≥ 1/(2n) vrai pour n ≥ 3, faux pour n = 1 et 2 ; développement (2n+2)²(3n+1) − (2n+1)²(3n+4) = n refait à la main"
+  },
+  {
+   "id": "40766",
+   "how": "Python, lois exactes (Fraction) pour n ≤ 11 : P_n vraie (même stricte) ; pour n = 2 à 9 et chaque k ≤ n−1, les probabilités conditionnelles sachant X, Y∖X, G, H, I calculées en sommant sur les tirages : 3c, égalité 4a, 5a, 5b toujours vraies, 5c vraie pour k ≤ n−2 ; Y, G, H, I recouvrent tous les tirages ; pour k = n−1, l'inégalité sachant I est renversée (n = 3 à 9) et #H ≥ #I (5/0, 21/1, 54/4, …)"
+  },
+  {
+   "id": "40767",
+   "how": "Python : signe du produit de la définition testé sur 20 000 couples aléatoires pour chaque exemple (x² avec k = 1 et 3, exp sur ]0,1[ et ]1,+∞[, 1/x pour k = 1 à 5) ; dérivées refaites à la main"
+  },
+  {
+   "id": "40768",
+   "how": "développement de la question 1 refait à la main ; fonction par morceaux de 3c : produit ≥ 0 vérifié en Python sur 1 200 000 couples (dont x = 1 et x = 2), minimum 0 ; non-monotonie de g_1 et h_1 sur 0,5 ; 1 ; 1,5"
+  },
+  {
+   "id": "40769",
+   "how": "calcul de g_k' h_k' = (x² f'² − k² f²)/x² refait à la main ; critère comparé aux exemples de 40767 : pour x², |f'| = 2x est ≥ 1·x et ≤ 3·x ; pour exp, |f'|/f = 1 est ≤ 1/x sur ]0,1[ et ≥ 1/x sur ]1,+∞["
+  },
+  {
+   "id": "40770",
+   "how": "Python : x² + 1/x 2-faible et x² + 3 2-faible testés sur 20 000 couples avec le critère R ; contre-exemple x + 1/x : produit de la définition = −14,06 pour (1/2, 2) ; inégalité R(ac, bd) ≤ R(a,b)R(c,d) vérifiée à la main"
+  },
+  {
+   "id": "40771",
+   "how": "Python : l'inégalité vérifiée sur 200 000 tirages aléatoires de (a, b, c, n), n ≤ 8, aucune violation"
+  },
+  {
+   "id": "40772",
+   "how": "Python : les deux inégalités vérifiées sur 200 000 couples (a, b) de ]0, π/2[, aucune violation ; N' = −x sin x et M' = 2 sin² x recalculés à la main"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40761",
+   "40762"
+  ],
+  [
+   "40761",
+   "40763"
+  ],
+  [
+   "40762",
+   "40763"
+  ],
+  [
+   "40764",
+   "40765"
+  ],
+  [
+   "40764",
+   "40766"
+  ],
+  [
+   "40765",
+   "40766"
+  ],
+  [
+   "40767",
+   "40768"
+  ],
+  [
+   "40767",
+   "40769"
+  ],
+  [
+   "40767",
+   "40770"
+  ],
+  [
+   "40767",
+   "40771"
+  ],
+  [
+   "40767",
+   "40772"
+  ],
+  [
+   "40768",
+   "40769"
+  ],
+  [
+   "40768",
+   "40770"
+  ],
+  [
+   "40768",
+   "40771"
+  ],
+  [
+   "40768",
+   "40772"
+  ],
+  [
+   "40769",
+   "40770"
+  ],
+  [
+   "40769",
+   "40771"
+  ],
+  [
+   "40769",
+   "40772"
+  ],
+  [
+   "40770",
+   "40771"
+  ],
+  [
+   "40770",
+   "40772"
+  ],
+  [
+   "40771",
+   "40772"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Problème 1 : coupé en trois fichiers (questions 1 à 3, 4 à 7, 8 à 11). Le sujet n'a pas de parties pour ce problème. Le rapport du jury 2021 ne contient que des statistiques, aucun commentaire sur les questions. Problème 2 : un fichier par partie, sauf les parties I et II réunies (la partie I n'a que deux questions courtes). 40765 : la question 1 (produit 1/2 × 3/4 × … ≤ 1/√(3n+1)) est un classique présent pour n = 50 dans 0679 (grade 9) et 2424 (grade 11) ; une seule question de la partie, je garde la partie et je cite ces ids dans « Going further ». 40766 : la question 17 du sujet (« Démontrer P_n ») ne découle pas seulement de la question 16 : pour k = n − 1 l'inégalité sachant I est renversée. J'ai ajouté l'argument manquant (comparer H et I, avec une injection de I dans H) ; ce n'est pas une erreur du sujet, seulement une étape laissée au candidat. Problème 3 : six fichiers. La partie II est coupée en deux (questions 6 à 8 sans dérivée, grade 10 ; question 9 avec le théorème des valeurs intermédiaires, grade 12). La partie IV est coupée en deux (question 14 au grade 9, question 15 au grade 11), avec des solutions directes qui n'utilisent pas la théorie des fonctions fortes et faibles. 40770 donne dans l'énoncé la définition par le critère max/min (question 7 du sujet), équivalente à celle du sujet. Pour la question 9 c) (réciproques), la solution divise le produit par (y − x)² et passe à la limite, sans utiliser la question 8 b). Aucune erreur trouvée dans le sujet. Doublons cherchés avec similar.py et grep (boules et médiane, k-forte, sin/tan, Wallis) : rien d'autre que 0679 et 2424 pour une seule question de 40765.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40761",
+   "40762",
+   "40764",
+   "40765",
+   "40766",
+   "40767",
+   "40768",
+   "40769",
+   "40771",
+   "40772"
+  ],
+  "fixed": [
+   {
+    "id": "40763",
+    "what": "question 2 : la parenthèse sur l'existence des logarithmes affirmait v_j ≥ ln(j+1) pour tout j ≥ 2, faux pour j = ℓ (v_ℓ = 1) ; réécrite (si v_{j+1} ≥ 1 et 2 ≤ j ≤ ℓ − 1 alors v_j > 1, puis v_1 ≥ ln 2 > 0)"
+   },
+   {
+    "id": "40770",
+    "what": "question 4 : la notation g ∘ f n'était pas définie, alors que la composition n'est nommée qu'en Terminale ; définition (g ∘ f)(x) = g(f(x)) ajoutée dans l'énoncé pour un lecteur de 2de"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40765",
+    "what": "lien suggéré pour le coordinateur : la question 1 (produit 1/2 × 3/4 × … ≤ 1/√(3n+1), par récurrence) est proche de 2424 question 2 (même produit < 1/√(2n), par le produit décalé) et de 0679 (n = 50). Ce n'est pas la même question ; un see_also 40765 ↔ 2424 et 40765 ↔ 0679 serait juste, mais ces fichiers sont hors de mon bloc, je ne l'ai pas écrit."
+   },
+   {
+    "id": "40768",
+    "what": "grade 10 gardé : tous les outils sont de 2de (calcul algébrique, t + 1/t par différence, monotonie, absurde) et les indications sont fortes, mais le texte est abstrait (quantificateurs, équivalences, fonction définie par morceaux) ; 11/3 serait aussi défendable. Pas assez sûr pour changer."
+   },
+   {
+    "id": "40761",
+    "what": "3 étoiles en Terminale un peu généreux : questions 1 et 2 sont directes, seule la question 3 (contraposée de 2 puis logarithme) demande une idée ; 2 étoiles possible. Gardé."
+   }
+  ],
+  "how": "Page 3 à 8 du sujet rendues en image et relues contre chaque énoncé. Scripts personnels (scratchpad cg-2021-check) : p1.py (mpmath 60 chiffres) termes de u(0), e/2 < ln(3 ln 4), dichotomie 150 pas δ = 0,3132776395…, c_ℓ pour ℓ = 2 à 44 strictement croissants vers δ (écart 2·10^-27), u_ℓ(c_ℓ) = 1 pour ℓ = 2 à 7, valeurs c_2, c_3, c_4, c_5, c_10 du « Going further » ; p2.py loi exacte de D_n (Fraction, en renumérotant les boules restantes) pour n ≤ 11, confirmée par 200 000 simulations directes pour n = 3 : P(D_n = 1) = 3/(n(2n−1)(2n+1)), symétrie, E = n, table de D_2, loi de D_3, P_n (et strict) pour n ≤ 11, M_n ≤ (8/3)u_n et u_n ≤ 1/√(3n+1), formule de p_j contre comptage direct (n ≤ 9) et min p_j ≥ 1/(2n) exactement pour n ≥ 3 ; pour n = 2 à 9 et chaque k, les inégalités sachant X, Y∖X (égalité), Y, G, H, I, et Y, G, H, I couvrent tous les tirages ; pour k = n − 1 l'inégalité sachant I est strictement renversée et #H ≥ #I (5/0, 21/1, 54/4, …) ; injection {a,b,c} ↦ {2n−c, b, c} de I dans H vérifiée à la main ; p3.py : exemples de 40767 sur 20 000 couples, fonction par morceaux de 40768 3c (produit minimal 0), équivalence des trois définitions sur 20 000 tirages, contre-exemple x + 1/x, R(ac,bd) ≤ R(a,b)R(c,d), 40771 et 40772 sur 200 000 tirages sans violation, N' = −x sin x et M' = 2 sin² x par différences finies. 40772 : la solution n'utilise que les dérivées de sin et cos données par l'énoncé, la dérivée d'un quotient et cos² + sin² = 1, jamais sin x < x < tan x : le grade 11 est juste. 40766 : l'argument ajouté pour k = n − 1 (comparaison de H et I, injection de I dans H) est correct, et le champ reference dit bien qu'il est ajouté sans prétendre que le sujet est faux. 40765 question 4 : le passage par les probabilités conditionnelles est correct (sachant l'état du sac, le tirage suivant est uniforme, la probabilité d'élimination ne dépend que du rang de la boule). Les 21 liens see_also sont réciproques. Les 12 fichiers construits sans avertissement pandoc, toutes les pages regardées."
+ },
+ "updated": "2026-11-27"
+}

@@ -92,13 +92,13 @@ $$N(n\,;\,0) \qquad \text{et} \qquad M\left(\frac{m}{2}\,;\,\frac{\sqrt{3}}{2}\,
 
 Dans un triangle équilatéral, le centre $I$ du cercle inscrit est le centre de gravité, donc $I\left(\frac{1}{2}\,;\,\frac{\sqrt{3}}{6}\right)$. Le rayon $r$ est la distance de $I$ à la droite $(AB)$, donc $r = \frac{\sqrt{3}}{6}$.
 
-**Étape 7 : la distance d'un point à une droite.** Soit $d$ une droite, $P$ un point de $d$, et $\vec{w}$ un vecteur non nul orthogonal à $d$. Pour tout point $J$, si $H$ est le projeté orthogonal de $J$ sur $d$, on a $\overrightarrow{PJ} = \overrightarrow{PH} + \overrightarrow{HJ}$, avec $\overrightarrow{PH}$ orthogonal à $\vec{w}$ et $\overrightarrow{HJ}$ colinéaire à $\vec{w}$. Donc $\overrightarrow{PJ} \cdot \vec{w} = \overrightarrow{HJ} \cdot \vec{w} = \pm\, HJ \times \|\vec{w}\|$, et la distance de $J$ à $d$ vaut
+**Étape 7 : la distance d'un point à une droite.** Soit $d$ une droite, $P$ un point de $d$, et $\vec{w}$ un vecteur non nul orthogonal à $d$. Pour tout point $J$, si $H$ est le projeté orthogonal de $J$ sur $d$, on a $\overrightarrow{PJ} = \overrightarrow{PH} + \overrightarrow{HJ}$, avec $\overrightarrow{PH}$ orthogonal à $\vec{w}$ et $\overrightarrow{HJ}$ colinéaire à $\vec{w}$. Donc $\overrightarrow{PJ} \cdot \vec{w} = \overrightarrow{HJ} \cdot \vec{w} = \pm\, HJ \times \lVert \vec{w} \rVert$, et la distance de $J$ à $d$ vaut
 
-$$HJ = \frac{|\overrightarrow{PJ} \cdot \vec{w}|}{\|\vec{w}\|}.$$
+$$HJ = \frac{|\overrightarrow{PJ} \cdot \vec{w}|}{\lVert \vec{w} \rVert}.$$
 
 **Étape 8 : la distance de $I$ à $(MN)$.** On a $\overrightarrow{NM}\left(\frac{m}{2} - n\,;\,\frac{\sqrt{3}}{2}\,m\right)$. Le vecteur $\vec{w}\left(\frac{\sqrt{3}}{2}\,m\,;\,n - \frac{m}{2}\right)$ lui est orthogonal, car leur produit scalaire vaut $\left(\frac{m}{2} - n\right)\frac{\sqrt{3}}{2}\,m + \frac{\sqrt{3}}{2}\,m\left(n - \frac{m}{2}\right) = 0$. De plus
 
-$$\|\vec{w}\|^2 = \frac{3m^2}{4} + n^2 - mn + \frac{m^2}{4} = m^2 - mn + n^2,$$
+$$\lVert \vec{w} \rVert^2 = \frac{3m^2}{4} + n^2 - mn + \frac{m^2}{4} = m^2 - mn + n^2,$$
 
 qui n'est pas nul car $m \neq 0$. Avec $\overrightarrow{NI}\left(\frac{1}{2} - n\,;\,\frac{\sqrt{3}}{6}\right)$ :
 

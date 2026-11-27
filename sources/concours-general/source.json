@@ -1,0 +1,32 @@
+{
+ "id": "concours-general",
+ "name": "Concours général des lycées, mathématiques (sujets 2002 à 2026, et série ES 2017 à 2019)",
+ "url": "https://www.freemaths.fr/concours-general/serie-s/sujets-et-corriges-maths-toutes-les-annees",
+ "original_language": "fr",
+ "added": "2026-11-27",
+ "brief": "sources/concours-general/import-brief.md",
+ "files": "files.tsv lists every local copy with the URL it was downloaded from",
+ "local_copy": "sources/originals/concours-general/",
+ "what_it_is": [
+  "The national contest for the best Terminale students: one 5-hour paper a year, calculators allowed.",
+  "Série S until 2020, maths spécialité since 2021. Three or four independent long problems, each split into",
+  "parts of guided questions. The economics stream (ES) had its own paper; 2017 to 2019 are included."
+ ],
+ "solutions": [
+  "No official solution is published. The jury reports on eduscol (2017, 2019, 2021 to 2025) give",
+  "statistics and comments only. Unofficial teacher corrections exist only for 2017 and 2018",
+  "(unemainlavelautre.net; its 2021 and 2022 links are dead). freemaths.fr has corrections for every year behind a login; not used.",
+  "Every solution in the collection is the importer's own, re-checked by a second agent."
+ ],
+ "format_decision": "One file per Partie when it stands alone, merged otherwise; files of one problem linked with see_also (owner, 2026-11-27).",
+ "scale": {
+  "papers": 28,
+  "problems_estimate": 85
+ },
+ "id_blocks": "série S year y: 40001 + 40*(y - 2002), 40 ids; ES 2017-2019: 41001, 41041, 41081",
+ "how_it_was_enumerated": [
+  "freemaths.fr statement URLs probed for every year 1985 to 2026 on 2026-11-17: S papers exist",
+  "for 2002 to 2026, ES papers for 2017 to 2019. The freemaths PDF is the official paper with a cover page added."
+ ],
+ "not_found": "Papers before 2002. Worth a later search (APMEP bulletins, publimath)."
+}

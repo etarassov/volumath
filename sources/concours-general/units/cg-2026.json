@@ -1,0 +1,260 @@
+{
+ "unit": "cg-2026",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2026, mathématiques, spécialité mathématiques",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2026-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2026.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40961",
+  "41000"
+ ],
+ "status": "done",
+ "imported": [
+  "40961",
+  "40962",
+  "40963",
+  "40964",
+  "40965",
+  "40966",
+  "40967",
+  "40968",
+  "40969"
+ ],
+ "parts": [
+  {
+   "id": "40961",
+   "where": "exercice 1, partie 1, questions 1 à 5"
+  },
+  {
+   "id": "40962",
+   "where": "exercice 1, partie 2, questions 6 à 8"
+  },
+  {
+   "id": "40963",
+   "where": "exercice 1, partie 3, questions 9 à 12"
+  },
+  {
+   "id": "40964",
+   "where": "exercice 2, partie 1 (question 1) et partie 2, questions 2 à 6"
+  },
+  {
+   "id": "40965",
+   "where": "exercice 2, partie 3, questions 7 à 11"
+  },
+  {
+   "id": "40966",
+   "where": "exercice 2, parties 4 et 5, questions 12 à 17"
+  },
+  {
+   "id": "40967",
+   "where": "exercice 2, partie 6, question 18"
+  },
+  {
+   "id": "40968",
+   "where": "exercice 3, questions 1 à 5"
+  },
+  {
+   "id": "40969",
+   "where": "exercice 3, question 6"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40961",
+   "grade": 12,
+   "why": "théorème de la limite monotone (question 1) et récurrence ; le reste est du télescopage, deux étoiles"
+  },
+  {
+   "id": "40962",
+   "grade": 12,
+   "why": "partie entière, récurrence, limites et gendarmes ; la question 3 demande de séparer deux cas"
+  },
+  {
+   "id": "40963",
+   "grade": 12,
+   "why": "unicité par comparaison de produits infinis et argument de descente sur les numérateurs : niveau concours en Terminale"
+  },
+  {
+   "id": "40964",
+   "grade": 8,
+   "why": "constructions avec des blocs de signes, développement de (n+3)^2 par double distributivité, restes dans la division par 4 : rien au-delà de la 4e"
+  },
+  {
+   "id": "40965",
+   "grade": 12,
+   "why": "formule du binôme et récurrence sur k, degré d'un polynôme : Terminale"
+  },
+  {
+   "id": "40966",
+   "grade": 10,
+   "why": "divisibilité, restes, parité et la factorisation de a^k - b^k (vérifiée en développant, lemme court) : tout est de 2de ; le bloc R_k est admis ; aucun outil de 1re, mais l'assemblage vaut cinq étoiles (regradé de 1re à 2de par le vérificateur)"
+  },
+  {
+   "id": "40967",
+   "grade": 12,
+   "why": "l'étape clé est un théorème de Bézout pour plusieurs entiers (maths expertes), redémontré dans la solution ; généralisation de 40966"
+  },
+  {
+   "id": "40968",
+   "grade": 10,
+   "why": "aires, inégalités sur max et min, raisonnement de jeu ; la continuité des aires et le critère de croisement de deux cordes sont admis dans l'énoncé, ce qui évite le théorème des valeurs intermédiaires"
+  },
+  {
+   "id": "40969",
+   "grade": 10,
+   "why": "repère, symétries axiales, découpage d'aires en bandes et rectangle, 2st <= s^2 + t^2 : tout est de 2de, l'idée du découpage vaut quatre étoiles"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40961",
+   "how": "formules des produits partiels (questions 2 à 5) vérifiées en fractions exactes en Python pour plusieurs n et q = 1, 2, 3, 7 ; limite (q-1)/q confirmée numériquement"
+  },
+  {
+   "id": "40962",
+   "how": "algorithme glouton exécuté en fractions exactes sur 0, 1/2, 2/3, 5/7, 13/17, 99/100, 1/3, 123/457 : encadrement de la question 1, inégalité a_{k+1}-1 >= (a_k-1)^2 et u_n - l -> 0 vérifiés"
+  },
+  {
+   "id": "40963",
+   "how": "sur 300 rationnels p/q tirés au hasard (q <= 400), 14 pas de l'algorithme : numérateurs de 1 - x_k décroissants, finissent à 1, et égalité a_{k+1}-1 = (a_k-1)^2 à partir de ce rang ; contre-exemple d'unicité 0 = P((2)) = P((k+2)) et 1/2 = P(glouton) = P((k+2)^2) vérifiés"
+  },
+  {
+   "id": "40964",
+   "how": "représentations de 1 à 7 par des cubes signés cherchées par programme (7 = -1 + 8) ; identité n^2-(n+1)^2-(n+2)^2+(n+3)^2 = 4 testée ; écritures de 2, 3, 4 et de 11 recalculées"
+  },
+  {
+   "id": "40965",
+   "how": "signes de Thue-Morse et constante R_k vérifiés en Python pour k = 0 à 5 et plusieurs n : R = 1, -1, 4, -48, 1536, -122880 = (-1)^k k! 2^{k(k-1)/2} ; relation R_k = -k 2^{k-1} R_{k-1} vérifiée"
+  },
+  {
+   "id": "40966",
+   "how": "la construction de la solution (départ selon la parité, blocs de r^2 termes, puis blocs R_k) programmée et exécutée pour k = 1, 2, 3 et M = 1 à 59 : le reste obtenu est toujours celui de M modulo r = |R_k|"
+  },
+  {
+   "id": "40967",
+   "how": "même construction programmée pour 25 polynômes aléatoires de degré 1 à 3 sans diviseur commun des valeurs, M = 1 à 24 (combinaison de Bézout trouvée par recherche en largeur sur les restes) ; 2 = P(1)+P(2)+P(3)-P(4) pour x^2+x+1 vérifié"
+  },
+  {
+   "id": "40968",
+   "how": "aires calculées en Python par découpage d'un polygone à 6000 côtés : diamètre du renard donne 1/2 pour toute seconde corde ; constructions des questions 2 (0,992), 4 (renard < 1/2 pour a = 0,1 ; 0,25 ; 0,4 ; 0,45) et 5 (0,348 ; 0,336 ; 0,334 quand les extrémités se rapprochent) ; sur 300 paires de cordes au hasard, A + D toujours entre 0,347 et 0,995"
+  },
+  {
+   "id": "40969",
+   "how": "formule A + D = 1/2 + 2st comparée aux aires calculées par découpage polygonal pour cinq couples (s, t), écart < 1e-4 ; borne 1/2 + 1/pi = 0,818"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [
+  {
+   "id": "40967",
+   "tool": "théorème de Bézout pour plusieurs entiers (redémontré par l'argument du plus petit élément positif)",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  [
+   "40961",
+   "40962"
+  ],
+  [
+   "40961",
+   "40963"
+  ],
+  [
+   "40962",
+   "40963"
+  ],
+  [
+   "40964",
+   "40965"
+  ],
+  [
+   "40964",
+   "40966"
+  ],
+  [
+   "40964",
+   "40967"
+  ],
+  [
+   "40965",
+   "40966"
+  ],
+  [
+   "40965",
+   "40967"
+  ],
+  [
+   "40966",
+   "40967"
+  ],
+  [
+   "40968",
+   "40969"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Découpage : exercice 1 en trois fichiers (une partie chacun) ; exercice 2 en quatre (parties 1 et 2 ensemble car la question 1 est un échauffement d'une ligne, partie 3, parties 4 et 5 ensemble car la partie 5 n'est que l'assemblage de la partie 4, partie 6) ; exercice 3 en deux (questions 1 à 5, puis la question 6 sur les coupes perpendiculaires). Dans 40968, deux propriétés que le sujet utilise sans les dire sont admises dans l'énoncé : la continuité des aires quand on bouge les cordes, et le critère d'alternance des extrémités pour que deux cordes se croisent. vm.py check signale 12454 (valeurs de phi sans diviseur commun) comme proche de 40967 : ce sont deux problèmes différents, aucun lien ajouté. Pas d'erreur trouvée dans le sujet. Remarque : à la question 5 de l'exercice 1, le cas q = 1 donne a_k = 2 ; la formule (q-1)/q reste juste (limite 0) mais la question 4 ne s'applique pas directement car x = 1 ; traité à part dans 40961.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40961",
+   "40962",
+   "40963",
+   "40964",
+   "40965",
+   "40967",
+   "40969"
+  ],
+  "fixed": [
+   {
+    "id": "40968",
+    "what": "énoncé : « On pourra admettre » devient « On admet » pour les deux propriétés ajoutées (croisement des cordes, continuité des aires), qui sont exactement ce que la solution utilise ; conclusion de la question 4 : « sa seule bonne stratégie est de couper selon un diamètre » était trop fort (pour g < 1/2 d'autres coupes conviennent), remplacé par « pour g = 1/2, sa seule stratégie est de couper selon un diamètre »"
+   }
+  ],
+  "regrade": [
+   {
+    "id": "40966",
+    "from": "11/5",
+    "to": "10/5",
+    "why": "aucun outil de 1re : divisibilité, restes, parité, et a^k - b^k = (a - b)(a^{k-1} + ... + b^{k-1}) vérifié en développant ; le bloc R_k est admis dans l'énoncé ; un bon élève de 2de peut suivre la chaîne avec les indications, l'assemblage reste à cinq étoiles"
+   }
+  ],
+  "doubts": [
+   {
+    "id": "40968",
+    "what": "gardé en 2de, 5 étoiles : aucun outil de 1re n'est utilisé (les deux propriétés délicates sont admises, les arguments d'approximation des questions 4 et 5 sont écrits avec un écart explicite eta, sans limite de suite), et la réduction « le corbeau obtient A + D » est à la portée d'un bon élève de 2de ; mais cinq questions de jeu en 60 minutes, c'est à la limite de la condition « en une séance » ; 1re/5 serait aussi défendable"
+   },
+   {
+    "id": "40969",
+    "what": "gardé en 2de, 4 étoiles ; les outils (repère, symétries axiales, aire du disque, (s - t)^2 >= 0) sont presque tous de collège, et les droites x = s peuvent se dire « droite verticale d'abscisse s » : 3e/5 est envisageable si un bon élève de 3e suit le découpage en bandes avec l'indication 3. Aucune trigonométrie ni aire de segment circulaire n'est nécessaire : les aires v et h des bandes s'éliminent."
+   },
+   {
+    "id": "40967",
+    "what": "gardé en Terminale (maths-expertes) parce que le brief classe Bézout en maths expertes ; mais le lemme (plus petit élément strictement positif de A) est entièrement redémontré dans le fichier et tout le reste est de 2de, comme 40966 : si l'on traite ce lemme comme un « lemme court », la fiche descendrait en 1re ou 2de, 5 étoiles"
+   }
+  ],
+  "how": {
+   "40961": "formules des questions 2 à 5 recalculées en fractions exactes (n jusqu'à 29, x = 1/3, -2, 5/7, 3, q = 1, 2, 3, 7) ; cas q = 1 relu : a_k = 2, u_n = 2^{-n} -> 0 = (q-1)/q, traité à part car x = 1/q = 1 est interdit à la question 4 : correct",
+   "40962": "glouton en fractions exactes sur 500 rationnels p/q (q <= 600), 12 pas : encadrement de la question 1, a_{k+1}-1 >= (a_k-1)^2, x_k dans [0;1[ ; suite 3, 5, 17, 257 pour 1/2",
+   "40963": "sur les mêmes 500 rationnels : numérateurs de 1 - x_k décroissants, l'égalité a_{k+1}-1 = (a_k-1)^2 tient dès que le numérateur vaut 1 ; 5/7 donne 4, 22, 442, 194482 ; lemme d'unicité et descente relus ligne à ligne",
+   "40964": "exemples de l'énoncé (10, 4, 6, 7 = -1^3 + 2^3) recalculés ; bloc +--+ (constante 4) et bloc de huit (somme nulle) testés pour n = 1 à 49 ; écritures de 2, 3, 4, 11 recalculées",
+   "40965": "signes de Thue-Morse, R_k pour k = 0 à 6 = (-1)^k k! 2^{k(k-1)/2} (1, -1, 4, -48, 1536, -122880, 23592960), et nullité des sommes pour les puissances j < k, vérifiés en Python",
+   "40966_40967": "construction des solutions reprogrammée sans réutiliser le script de l'importeur : départ selon la parité, blocs de r^2 termes (somme de chaque bloc calculée exactement et vérifiée égale à 2P(c) modulo r), coefficients lambda_c >= 0 par parcours en largeur sur les restes, puis blocs (R) ; les 20 premiers blocs (R) et un bloc lointain sont recalculés terme à terme, les autres ajoutés par le calcul (il peut en falloir plus de 10^17 : l'écriture obtenue existe mais est astronomiquement longue, ce que la preuve n'exclut pas) ; somme finale égale à M ; x^k pour k = 1, 2, 3 et M = 1 à 60, 30 polynômes aléatoires de degré 1 à 3 sans diviseur commun (|R| <= 60) et M = 1 à 24, P = ±1 ; 2 = P(1)+P(2)+P(3)-P(4) pour x^2+x+1 confirmé par recherche exhaustive",
+   "40968": "aires par découpage d'un polygone à 4000 côtés : diamètre du renard donne A + D = 0,5 pour cinq secondes cordes au hasard ; stratégie du renard de la question 4 donne 0,45 ; 0,376 ; 0,40 ; 0,45 ; 0,49 pour a = 0,1 ; 0,25 ; 0,4 ; 0,45 ; 0,49 (toujours < 1/2, proche de max(a, (1-a)/2)) ; question 5 : 0,348 ; 0,336 ; 0,334 ; question 2 : 0,998 ; 300 paires de cordes au hasard entre 0,36 et 0,998",
+   "40969": "formule A + D = 1/2 + 2|st| retrouvée indépendamment (les bandes |x| < s s'éliminent par symétrie) et comparée au découpage polygonal pour cinq couples (s, t), accord à 1e-4 ; borne 1/2 + 1/pi = 0,818"
+  }
+ },
+ "updated": "2026-11-27"
+}

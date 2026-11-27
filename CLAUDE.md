@@ -96,6 +96,8 @@ looking at it, which is the only way they show up. Nothing here raises an error.
 | `$$(\star) \qquad ...$$` | `\tag{...}` | tags are dropped silently, so a later reference points at nothing |
 | `(` `)` | `\big(` `\big)` `\Big(` `\Big)` | the `\big` and `\Big` forms open ugly gaps |
 | plain `(` `)` around an absolute value | an absolute value inside `\left( \right)` | the bars come loose, with a space on each side of what they hold |
+| `\lVert \vec{u} \rVert^2` | `\|\vec{u}\|^2` | the double bar prints loose, with gaps around what it holds |
+| `$x \rVert$` | `$x \rVert $` | a space just before the closing `$` ends the maths: the whole formula prints as raw text |
 | a big fraction on its own `$$` line | `\dfrac` `\tfrac` | both are ignored: a fraction inside a sentence stays small, one on a display line stays large |
 | `≥` `≤` in plain prose and titles | `⩾` `⩽` outside `$...$` | the slanted signs print as empty boxes, `vm.py check` reports them |
 | two equations joined by "et" | `\begin{cases}` | renders badly |

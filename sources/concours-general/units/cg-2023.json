@@ -1,0 +1,252 @@
+{
+ "unit": "cg-2023",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2023, mathématiques, spécialité mathématiques",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2023-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2023.pdf"
+  },
+  {
+   "role": "rapport",
+   "file": "sources/originals/concours-general/rapport-2023.pdf",
+   "url": "https://eduscol.education.fr/document/52881/download",
+   "note": "rapport du jury : statistiques et commentaires, aucune solution"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40841",
+  "40880"
+ ],
+ "status": "done",
+ "imported": [
+  "40841",
+  "40842",
+  "40843",
+  "40844",
+  "40845",
+  "40846",
+  "40847",
+  "40848"
+ ],
+ "parts": [
+  {
+   "id": "40841",
+   "where": "exercice 1 « Soyons rationnels ! », questions 1 à 6 (exercice entier, sans parties)"
+  },
+  {
+   "id": "40842",
+   "where": "exercice 2, partie A « Quelques exemples », questions 1 à 4"
+  },
+  {
+   "id": "40843",
+   "where": "exercice 2, partie B « Polynômes sympathiques », questions 5 à 9"
+  },
+  {
+   "id": "40844",
+   "where": "exercice 2, partie C « De la suite dans les idées », questions 10 à 14"
+  },
+  {
+   "id": "40845",
+   "where": "exercice 3, préambule et partie A « Triangles équilatéraux », questions 1 et 2"
+  },
+  {
+   "id": "40846",
+   "where": "exercice 3, préambule et partie B « Carrés de centre O », questions 3 à 5"
+  },
+  {
+   "id": "40847",
+   "where": "exercice 3, préambule et partie C « Où l'on prouve que d ≥ k − 1 », question 6"
+  },
+  {
+   "id": "40848",
+   "where": "exercice 3, préambule et partie D « Où l'on prouve que tout entier d ≥ k − 1 convient », questions 7 et 8"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40841",
+   "grade": 12,
+   "why": "récurrence forte pour établir u(2n) = u(n) + 1 et u(2n+1) = u(n)/(u(n)+1), puis récurrence sur p + q : outils de Terminale ; rien d'autre que des fractions"
+  },
+  {
+   "id": "40842",
+   "grade": 12,
+   "why": "limites de suites avec preuve, suite croissante majorée, passage à la limite, théorème des valeurs intermédiaires : Terminale ; chaque question est une application directe, d'où 2 étoiles"
+  },
+  {
+   "id": "40843",
+   "grade": 12,
+   "why": "variations par la dérivée, limites en +∞, théorème des valeurs intermédiaires et une récurrence sur le degré : Terminale"
+  },
+  {
+   "id": "40844",
+   "grade": 12,
+   "why": "définition de la limite d'une suite, passage à la limite dans les inégalités, divergence vers +∞ : Terminale"
+  },
+  {
+   "id": "40845",
+   "grade": 9,
+   "why": "distances dans un repère par le théorème de Pythagore, racines carrées, courbe d'une fonction affine (une droite), évaluation de polynômes dont la définition est donnée : tout est de 3e (régradé par le vérificateur, 2de/2 → 3e/3)"
+  },
+  {
+   "id": "40846",
+   "grade": 11,
+   "why": "cos et sin de u + π/2 sur le cercle trigonométrique pour le quart de tour, second degré et discriminant, identification des coefficients (admise dans l'énoncé à partir du nombre de racines) : 1re, aucune limite ni récurrence"
+  },
+  {
+   "id": "40847",
+   "grade": 12,
+   "why": "théorème des valeurs intermédiaires pour trouver k − 1 racines : Terminale ; le reste est du cercle trigonométrique de 1re ; la description des sommets par des angles est admise dans l'énoncé"
+  },
+  {
+   "id": "40848",
+   "grade": 12,
+   "why": "récurrence (à deux pas) pour T_n(cos t) = cos(nt) et pour le degré de T_n : Terminale ; la formule d'addition est démontrée dans le fichier"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40841",
+   "how": "script Python en fractions exactes : 131 071 premiers termes, tous > 0, les deux formules vérifiées pour chaque n, aucune valeur répétée, toute fraction p/q avec p + q ≤ 18 atteinte ; u_8 = 4 ; de plus u_n = s(n+1)/s(n) (suite diatomique de Stern) vérifié, ce qui justifie le lien avec 6013 donné dans Going further"
+  },
+  {
+   "id": "40842",
+   "how": "racines calculées numériquement (numpy) pour n de 1 à 10^5 : x_n égale la formule et tend vers 1, y_n égale la formule et tend vers +∞, z_n croissante (vérifié pour n < 200) dans ]0, 1[ et tend vers 1, t_n unique racine réelle et > 2n/3"
+  },
+  {
+   "id": "40843",
+   "how": "20 000 polynômes vraiment sympathiques tirés au hasard (d ≤ 7, k de 0 à d − 1) : exactement une racine strictement positive, négatif avant, positif après ; contre-exemple à la question 8 a) du sujet vérifié à la main (P = x² − x − 1, P' = 2x − 1) ; exemple de Going further : x³/6 − x² + 11x/6 − 1 = (x − 1)(x − 2)(x − 3)/6"
+  },
+  {
+   "id": "40844",
+   "how": "raisonnement vérifié pas à pas ; les quatre exemples de la question 5 recoupés avec les calculs numériques de 40842 (limites 1, +∞, 1, +∞)"
+  },
+  {
+   "id": "40845",
+   "how": "sympy : AB² = BC² = CA² = 4, OA² = OB² = OC² = 4/3, Q et R passent par A, B, C ; S_d vérifié à la main (s'annule en −1, 0, 1)"
+  },
+  {
+   "id": "40846",
+   "how": "sympy : P(P(t)) + t = t·Q(t²) pour P = t³ + bt ; avec b = −√8, Q = (X − α)²(X − β)² exactement ; résolution du système d'identification (seules solutions b = ±2√2, p = 3) ; carré construit : les quatre sommets sont sur la courbe (à 10^-130 près), quatre côtés égaux, y² = β ; racines positives de Q calculées pour plusieurs b (aucune pour −2√2 < b < 0, quatre pour b < −2√2), ce qui appuie la remarque de Going further"
+  },
+  {
+   "id": "40847",
+   "how": "3000 polygones réguliers aléatoires (k de 3 à 12) : rangés par abscisse croissante, les ordonnées alternent de signe ; quand sin(kθ) = 0 deux sommets ont la même abscisse (vérifié pour tous les θ = mπ/k, k ≤ 11)"
+  },
+  {
+   "id": "40848",
+   "how": "3000 polygones réguliers aléatoires (k de 3 à 12, sin(kθ) non petit) : le polynôme (R/sin kθ)(T_{k−1}(x/R) − cos(kθ)x/R) passe par les k sommets à 10^-6 près ; exemple du triangle de 40845 recalculé à la main (on retrouve Q)"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40842",
+   "40843"
+  ],
+  [
+   "40842",
+   "40844"
+  ],
+  [
+   "40843",
+   "40844"
+  ],
+  [
+   "40845",
+   "40846"
+  ],
+  [
+   "40845",
+   "40847"
+  ],
+  [
+   "40845",
+   "40848"
+  ],
+  [
+   "40846",
+   "40847"
+  ],
+  [
+   "40846",
+   "40848"
+  ],
+  [
+   "40847",
+   "40848"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [
+  {
+   "where": "exercice 2, partie B, définition de « vraiment sympathique » (et donc questions 8 a) et 14)",
+   "what": "le sujet impose 1 ≤ k ≤ d − 1. Avec cette borne, la question 8 a) est fausse : P(x) = x² − x − 1 est vraiment sympathique et pas initialement, mais P'(x) = 2x − 1 ne s'écrit pas b·x^ℓ·Q(x) avec Q vraiment sympathique (il faudrait Q = 2x − 1, de coefficient a_1 > 0). De plus, à la question 14, le premier exemple x² + x/n − 1 (a_1 = 1/n > 0) n'est pas vraiment sympathique, donc la partie C ne s'y applique pas. Corrigé en 0 ≤ k ≤ d − 1 dans 40843 et 40844 ; tout le reste du sujet devient cohérent, et la question 9 a alors la réponse nette « exactement les vraiment sympathiques »."
+  }
+ ],
+ "notes": "Exercice 1 : pas découpé (pas de parties, une heure de travail). Proche de trois fichiers existants, aucun n'est une copie : 6018 (grade 12, arbre de Calkin-Wilf, chaque fraction une fois) a la même conclusion que nos questions 5 et 6 mais pas la suite récurrente, qui est le cœur des questions 1 à 4 ; 12235 (grade 12, POFM) est la même construction avec v_3 et les puissances de 3, sans guidage ; 6013 (grade 11) compte les écritures hyperbinaires, dont les quotients successifs donnent notre suite. 40841 les cite en see_also ; le coordinateur peut ajouter les liens retour (je n'ai pas touché ces fichiers). Exercice 2 : découpé en trois fichiers, un par partie. Aucun doublon trouvé (recherche de « sympathique », de racines qui convergent avec les coefficients, de suites de racines). Exercice 3 : découpé en quatre fichiers, un par partie. La partie A (triangle équilatéral sur une parabole) est courte mais tient seule, à 2de. Dans les parties C et D, l'énoncé admet la description des sommets d'un polygone régulier par des angles (θ + 2(j−1)π/k) ; le sujet la laissait implicite, ce qui aurait exigé un argument « cordes égales, angles au centre égaux » hors de propos. Aucun doublon trouvé (recherche de Tchebychev, de polygone régulier sur une courbe, de carré sur une courbe ; similar.py signale 8744, un jeu sur les sommets d'un polygone, sans rapport). Le rapport du jury 2023 ne contient aucun commentaire par question (seulement la composition du jury, des statistiques et les palmarès), il n'a donc servi à rien pour les pièges. ",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40841",
+   "40842",
+   "40843",
+   "40844",
+   "40846",
+   "40847",
+   "40848"
+  ],
+  "fixed": [
+   {
+    "id": "40843",
+    "what": "erreur du sujet vérifiée : la page rendue à 400 dpi porte bien « 1 ≤ k ≤ d − 1 », et le contre-exemple x² − x − 1 à la question 8 a) est juste (P' = 2x − 1 n'est vraiment sympathique pour aucun d avec la borne d'origine). La correction 0 ≤ k ≤ d − 1 est le plus petit changement et rend tout le sujet cohérent (questions 7, 8, 9, 11 et 14 revues). Question 9 refaite : les polynômes sympathiques qui ont une racine strictement positive sont exactement les vraiment sympathiques, négatifs avant la racine et positifs après. source.reference réécrit pour dire clairement ce qui a changé, pourquoi, et que la précision « de degré au plus d − 1 » de la question 4 a) est un ajout"
+   },
+   {
+    "id": "40844",
+    "what": "source.reference : « restatés » remplacé par « rappelés », et la correction de la borne expliquée plus clairement (le premier exemple de la partie A sort du cadre de la partie C avec la borne d'origine)"
+   },
+   {
+    "id": "40845",
+    "what": "solution 2 a) : la formule de distance est justifiée par le théorème de Pythagore (niveau 3e) ; Q et R de l'énoncé mis sur une ligne à part, ils se coupaient en fin de ligne"
+   },
+   {
+    "id": "40846",
+    "what": "Going further : la condition b ≤ −2√2 est maintenant dite observée à la calculatrice et non démontrée (vérifiée numériquement par le vérificateur pour 2000 valeurs de b dans [−10, 0[ ; la condition « Q a une racine strictement positive » est bien nécessaire et suffisante, par 2 c) et 3 a))"
+   },
+   {
+    "id": "40848",
+    "what": "solution 1 b) : on dit honnêtement que les coordonnées (cos b, sin b) de B dans le repère tourné viennent d'un argument de figure admis (une rotation conserve les angles), que le sujet attendait, et qu'un calcul serait circulaire ; un affichage trop large dans 2 a) coupé en deux lignes"
+   }
+  ],
+  "regrade": [
+   {
+    "id": "40845",
+    "from": "10/2",
+    "to": "9/3",
+    "why": "aucun outil de 2de : la courbe d'une fonction affine est une droite (3e), les distances se calculent avec Pythagore, racines carrées et polynômes définis dans l'énoncé ; un bon élève de 3e le fait en séance. Trois étoiles à ce niveau, car la question 2 d) (polynôme de degré d quelconque, x^(d−2)(x² − 1)) demande une idée pour un élève de 3e. Durée portée à 30 min. Fichier déplacé dans grade-09/geometry/3/ ; aucun doublon en 3e"
+   }
+  ],
+  "doubts": [
+   {
+    "id": "40841",
+    "what": "liens retour à ajouter par le coordinateur : 40841 dans see_also de 6018, 12235 et 6013. Aucun n'est un doublon : 6018 (grade 12) arrive à la même conclusion par l'arbre de Calkin et Wilf, sans la suite récurrente ni v(n) ; 6013 (grade 11) compte les écritures hyperbinaires. 12235 (grade 12, POFM) est la même construction avec v₃ et les puissances de 3, non guidée, 5 étoiles : même idée sur une suite différente, donc see_also et non same_as, mais un élève qui a fait l'un sait faire l'autre ; à ne pas donner au même groupe la même année. Grade 12 confirmé : les récurrences fortes (questions 4 et 5) et le plus petit contre-exemple (question 6) sont indispensables, et la récurrence est de Terminale"
+   },
+   {
+    "id": "40847",
+    "what": "grade 12 gardé uniquement pour le théorème des valeurs intermédiaires (questions 5 et 6) ; tout le reste est du cercle trigonométrique de 1re (cos(π + x), parité, monotonie de cos sur [0, π]), sans formule d'addition. La description des sommets par des angles est admise dans l'énoncé, et c'est dit dans source.reference"
+   },
+   {
+    "id": "40846",
+    "what": "1re/4 gardé : le quart de tour passe par cos(u + π/2) et le discriminant sert en 2 e) ; une version 2de serait possible avec Pythagore pour le quart de tour, mais pas sans le second degré"
+   }
+  ]
+ },
+ "updated": "2026-11-27"
+}

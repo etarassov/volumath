@@ -1,0 +1,171 @@
+{
+ "unit": "cg-2016",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2016, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2016-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2016.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40561",
+  "40600"
+ ],
+ "status": "done",
+ "imported": [
+  "40561",
+  "40562",
+  "40563",
+  "40564",
+  "40565",
+  "40566"
+ ],
+ "parts": [
+  {
+   "id": "40561",
+   "where": "problème I « Sommes de cubes », questions 1 et 5"
+  },
+  {
+   "id": "40562",
+   "where": "problème I « Sommes de cubes », questions 3 et 4"
+  },
+  {
+   "id": "40563",
+   "where": "problème I « Sommes de cubes », questions 2 et 6 (questions 3, 4, 5 admises)"
+  },
+  {
+   "id": "40564",
+   "where": "problème II « La rangée d'arbres qui cache la forêt », questions 1 à 6 (problème entier, sans parties)"
+  },
+  {
+   "id": "40565",
+   "where": "problème III « Allons dans ℂ », questions 1 à 4"
+  },
+  {
+   "id": "40566",
+   "where": "problème III « Allons dans ℂ », questions 5 à 7 (reformulées sans nombres complexes)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40561",
+   "grade": 9,
+   "why": "cubes, une identité admise et un échange de groupes de trois cubes : rien au-delà du collège ; un bon élève de 3e le fait avec les indications"
+  },
+  {
+   "id": "40562",
+   "grade": 9,
+   "why": "développement de (288t+1)^3 et division euclidienne, la notation de congruence est définie dans l'énoncé ; seule difficulté, l'abstraction de la question 2"
+  },
+  {
+   "id": "40563",
+   "grade": 11,
+   "why": "notation Σ, somme télescopique, inégalité sur les cubes ; la récurrence de la question 6b est rédigée de proche en proche, sans récurrence formelle ; trop abstrait pour la 2de"
+  },
+  {
+   "id": "40564",
+   "grade": 10,
+   "why": "distance à une droite obtenue par un calcul d'aire (pas de produit scalaire), Pythagore, parité, signe d'un produit de facteurs affines, irrationnels : tout est de 2de ; chaîne de six questions courtes, faisable en séance avec les indications"
+  },
+  {
+   "id": "40565",
+   "grade": 12,
+   "why": "nombres complexes et forme exponentielle (maths expertes), loi binomiale et probabilité conditionnelle de Terminale"
+  },
+  {
+   "id": "40566",
+   "grade": 12,
+   "why": "suite croissante majorée, logarithme et divergence de la somme des 1/m, récurrence, indépendance et espérance d'une somme : Terminale spécialité ; aucun complexe une fois reformulé"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40561",
+   "how": "Python : 2016 = 2^3+4^3+6^3+12^3 est la seule décomposition en cubes pairs distincts ; identité vérifiée avec sympy ; construction x_t = 7t vérifiée pour n de 2 à 11 (nombres distincts, écarts 288) ; exemples numériques 59688, 59976, 60264 et 27216, 27504 recalculés"
+  },
+  {
+   "id": "40562",
+   "how": "Python : s_i = somme des (288t+1)^3, t < i, vérifie s_i ≡ i mod 288 pour i = 1..288 ; le lemme de la question 2 testé par force brute avec un module 2, 3, 5, 6, 12 à la place de 288 et des s_i, u_1, n aléatoires"
+  },
+  {
+   "id": "40563",
+   "how": "Python : 1a testé sur [5, 1005] et faux pour x = 4 ; 1b vérifié pour 5 ≤ k < 30 et k ≤ p < 300 (et faux dès p = k pour k ≤ 4) ; logique de 2b relue pas à pas ; par force brute, le plus grand entier hors de S jusqu'à 300 000 est 12 758, cohérent avec le résultat ; 128 pour les carrés distincts vérifié aussi"
+  },
+  {
+   "id": "40564",
+   "how": "Python : critère de la question 1 comparé à l'intersection exacte demi-droite/cercle (équation du second degré, racine x > 0) sur 200 000 tirages aléatoires, 0 désaccord ; pour R = 1/√5, 200 000 pentes aléatoires entre 10^-3 et 10^3 rencontrent toutes un arbre de la première rangée (recoupé par force brute sur α ≤ 4000) ; pour R = 0,999/√5, D_2 ne rencontre aucun arbre (a ≤ 999, b ≤ 1999)"
+  },
+  {
+   "id": "40565",
+   "how": "Python : j^3, 1+j+j^2 et les trois côtés √3 calculés numériquement ; loi exacte de la marche (Fraction) jusqu'à n = 60 : p_n = 0 si 3 ne divise pas n, p_3m = C(3m,m)C(2m,m)/27^m, P(U=m) et la probabilité conditionnelle vérifiées pour m ≤ 7 ; p_3 = 2/9 et p_6 = 10/81"
+  },
+  {
+   "id": "40566",
+   "how": "Python : rapport p_{3m+3}/p_{3m} et p_3m ≥ 2/(9m) vérifiés exactement jusqu'à n = 60 ; loi exacte de X_n (Fraction) jusqu'à n = 24 : E(X_n) = p_1+…+p_n, E(X_n) = Σ P(X_n ≥ r) et P(X_n ≥ r) ≤ q_n^r ; q_n calculé par renouvellement : q_24 = 0,4267 (égal au calcul exact), q_30 ≈ 0,444, q_3000 ≈ 0,669 ; pour quatre types, Σ p_4m converge (≈ 0,286), ce qui confirme la remarque de Going further"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [
+  {
+   "id": "40565",
+   "tool": "nombres complexes, racines cubiques de l'unité (forme exponentielle)",
+   "suggested_theme": "complex-numbers",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  [
+   "40561",
+   "40562"
+  ],
+  [
+   "40561",
+   "40563"
+  ],
+  [
+   "40562",
+   "40563"
+  ],
+  [
+   "40565",
+   "40566"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Plan: problème I en trois fichiers (Q1+Q5, Q3+Q4, Q2+Q6), problème II en un fichier, problème III en deux fichiers (Q1-Q4 avec les complexes, Q5-Q7 reformulées sans complexes). Problème II : l'énoncé dit explicitement que seuls comptent les arbres du quart de plan (le sujet le laissait implicite ; la conclusion n'en dépend pas, voir Going further). La figure du sujet montrait une demi-droite de pente 2, qui donne la réponse : elle est redessinée avec la seule demi-droite qui rencontre un arbre. Problème III : les questions 5 à 7 (40566) sont réécrites sans complexes : S_k = 0 devient l'égalité des trois compteurs de types (reste du résultat modulo 3), ce qui est équivalent d'après la question 3c ; j'y ai ajouté le calcul de p_3 (question 1a), que le sujet laissait implicite. Aucune erreur trouvée dans le sujet. Aucun doublon trouvé (recherches : sommes de cubes distincts, forêt/arbres/verger, marche aléatoire, racines cubiques de l'unité) ; 2815 (divergence de la série harmonique) n'est qu'un outil d'une question de 40566.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40561",
+   "40563",
+   "40565",
+   "40566"
+  ],
+  "fixed": [
+   {
+    "id": "40562",
+    "what": "question 1 : ajouté le développement (A+1)^3 = (A^2+2A+1)(A+1) = A^3+3A^2+3A+1, qu'un élève de 3e ne connaît pas par cœur (il ne connaît que les identités du second degré)"
+   },
+   {
+    "id": "40564",
+    "what": "question 1 : le passage « le pied H tombe du côté de D_m » était affirmé sans preuve ; ajouté l'argument de niveau 2de : l'angle POQ est aigu (deux demi-droites du quart de plan) ; si H était O, cet angle serait droit ; si H était sur la demi-droite opposée, le triangle OHP rectangle en H donnerait POQ = 180° − POH obtus"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40563",
+    "what": "gardé en 1re. La question 2b est, dans sa forme, une récurrence (propriété P(p), départ en p = k, passage de p à p+1), seulement nommée « de proche en proche ». Je la garde en 1re parce que la récurrence est simple (aucune hypothèse forte, aucun piège d'initialisation), que la difficulté du fichier est l'idée d'agrandir l'intervalle et non le formalisme, que les indications 6 et 7 donnent la structure, et que la collection accepte déjà ce type de raisonnement sous la Terminale (cg-2012, cg-2013, fichiers de 4e à 2de). Si le coordinateur considère qu'une propriété indexée propagée de p à p+1 est une récurrence au sens du programme, le fichier va en 12/3."
+   }
+  ],
+  "notes": "Toutes les vérifications refaites avec mes propres scripts (scratchpad cg-2016-check) : 2016 = 2^3+4^3+6^3+12^3 est la seule décomposition en cubes pairs distincts ; identité de 288 ; 59688, 59976, 60264, 27216, 27504 ; construction x_t = 7t pour n de 2 à 14 ; s_i ≡ i mod 288 et s_288 à 17 chiffres ; lemme (R2) par force brute avec modules 2, 3, 5, 6, 12 ; 1a et 1b de 40563 (faux pour x = 4 et pour k ≤ 4) ; plus grand entier hors de S jusqu'à 200 000 : 12 758 ; 128 pour les carrés. Problème II : critère de la question 1 contre l'intersection exacte sur 300 000 tirages, 0 désaccord ; abscisse du pied H toujours positive ; R = 1/√5 : 100 000 pentes, toutes bouchées par la première rangée ; R < 1/√5 : D_2 ne touche aucun arbre ; la figure a R = 0,3 et une demi-droite de pente 3,5 qui ne touche que l'arbre (1, 3), elle ne montre pas la pente 2. Problème III : j, triangle, Z selon la face ; p_k exact (Fraction) jusqu'à 60, formule, rapport, minoration 2/(9m) ; 4b et 4c par énumération pour m ≤ 4 ; loi exacte de X_n pour n = 6, 12, 18, 24 : E(X_n) = p_1+…+p_n et P(X_n ≥ r) ≤ q_n^r ; q_n par renouvellement : q_30 ≈ 0,444, q_300 ≈ 0,583, q_3000 ≈ 0,669. 40566 : l'argument de 3b à 3d est correct ligne à ligne (E_k ∩ {X_n ≥ r} = E_k ∩ G_k, indépendance par lancers disjoints, P(G_k) = P(X_{n−k} ≥ r−1)), et le sujet demande bien q_n → 1 (question 7, « l'objectif de la question suivante est de montrer que la suite (q_n) converge vers 1 ») : rien à couper. Les valeurs q_30 ≈ 0,44 et q_3000 ≈ 0,67 ne contredisent pas la limite 1 : 1 − q_n décroît comme 1/ln n. L'équivalence « S_k = 0 si et seulement si les trois compteurs sont égaux » est la question 1c/3c de 40565 (j^2 = −1 − j, partie imaginaire), juste ; la question 1a ajoutée (p_3 = 2/9) est juste. Niveaux : 40561 et 40562 en 3e (4 étoiles) défendables avec les indications, la 4e est trop tôt pour l'abstraction des indices ; 40564 en 2de (valeur absolue, irrationnels, tableau de signes) ; 40565 maths expertes 2 étoiles, honnête pour un élève de Terminale qui connaît j ; 40566 Terminale 4 étoiles. Tous les fichiers construits sans avertissement pandoc et relus page par page."
+ },
+ "updated": "2026-11-27"
+}

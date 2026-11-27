@@ -1,0 +1,183 @@
+{
+ "unit": "cg-2011",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2011, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2011-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2011.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40361",
+  "40400"
+ ],
+ "status": "done",
+ "imported": [
+  "40361",
+  "40362",
+  "40363",
+  "40364",
+  "40365"
+ ],
+ "parts": [
+  {
+   "id": "40361",
+   "where": "exercice 1 « C'est dans la boite », question unique"
+  },
+  {
+   "id": "40362",
+   "where": "exercice 2 « Rendez la monnaie ! », question 1° (a à d), sans rendu"
+  },
+  {
+   "id": "40363",
+   "where": "exercice 2 « Rendez la monnaie ! », question 2°, avec rendu de monnaie"
+  },
+  {
+   "id": "40364",
+   "where": "exercice 3 « La racine du carré », questions 1° à 4° (conditions nécessaires)"
+  },
+  {
+   "id": "40365",
+   "where": "exercice 3 « La racine du carré », question 5° (a à e), cas n impair et exemples"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40361",
+   "grade": 10,
+   "why": "trigonométrie du triangle rectangle (3e), sens de variation de fonctions et dichotomie à la calculatrice (2de) ; la croissance de f1 et f2 est prouvée sans dérivée, avec t = sin/(1+cos) ; problème ouvert de concours, d'où 5 étoiles"
+  },
+  {
+   "id": "40362",
+   "grade": 8,
+   "why": "sommes d'entiers, puissances de 2 et comptage des 2^n choix par un arbre : tout est de 4e ; une preuve d'optimalité et d'unicité, d'où 4 étoiles"
+  },
+  {
+   "id": "40363",
+   "grade": 8,
+   "why": "mêmes outils que 40362 (comptage de groupes de pièces, puissances de 2), le résultat de 40362 est admis ; l'idée de poser toutes les pièces du marchand sur le comptoir est de niveau concours pour un élève de 4e, d'où 5 étoiles"
+  },
+  {
+   "id": "40364",
+   "grade": 12,
+   "why": "racines n-ièmes de l'unité sous forme exponentielle : nombres complexes de maths expertes ; questions courtes avec deux idées (i et j), 3 étoiles"
+  },
+  {
+   "id": "40365",
+   "grade": 12,
+   "why": "racines de l'unité (maths expertes), bijection et composée ; l'impossibilité pour n = 5 demande un raisonnement sur un cycle, 4 étoiles"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40361",
+   "how": "Python : maximum de min(f1, f2) sur 2 millions d'angles = 0,829759 à 38,419°, identique à la racine 0,8297588 de a^4 - 159a^2 + 840a - 588 trouvée par dichotomie ; vérifié qu'en ce point 7cos+a sin = 6 et 7 sin + a cos = 5 ; identités f1 = (13t - 1/t)/2 et f2 = 6u - 1/u vérifiées numériquement ; tableau de valeurs recalculé"
+  },
+  {
+   "id": "40362",
+   "how": "Python : C(1,2,4)=7, C(1,2,5)=3, C(1,2,3,4,5)=15 recalculés ; condition de la question 2 et méthode de la question 3 testées sur 20 000 porte-monnaie aléatoires ; maximum 2^n - 1 et unicité de 1,2,...,2^(n-1) vérifiés exhaustivement pour n <= 4"
+  },
+  {
+   "id": "40363",
+   "how": "Python : recherche exhaustive pour n + p <= 5 (n, p >= 1, pièces de valeur au plus 2^(n+p)) ; le maximum vaut toujours 2^(n+p) - 2^p et n'est atteint que par marchand 1..2^(p-1), acheteur 2^p..2^(n+p-1)"
+  },
+  {
+   "id": "40364",
+   "how": "Python : recherche exhaustive avec propagation des solutions f sur Z/2n (z = e^(2ikπ/2n) <-> k, carré <-> doublement) pour n = 1 à 25 : aucune solution pour n pair ni pour n multiple de 3, ce qui confirme les questions 3 et 4 ; f(1) = f(-1) = 1 constaté sur la solution trouvée pour n = 7"
+  },
+  {
+   "id": "40365",
+   "how": "Python : solutions f trouvées seulement pour n = 1, 7, 17, 23 parmi n <= 25 ; énumération des 5^5, 7^7 et 9^9 fonctions φ : 0 pour n = 5, 4 pour n = 7, 0 pour n = 9 ; vérifié que f(z) = z^4 convient sur U_14 (16k ≡ 2k mod 14) et que la solution trouvée pour n = 7 vérifie f(-z) = f(z)"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [
+  {
+   "id": "40364",
+   "tool": "nombres complexes, racines n-ièmes de l'unité",
+   "suggested_theme": "complex-numbers",
+   "hors_programme": false
+  },
+  {
+   "id": "40365",
+   "tool": "nombres complexes, racines n-ièmes de l'unité",
+   "suggested_theme": "complex-numbers",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  [
+   "40362",
+   "40363"
+  ],
+  [
+   "40364",
+   "40365"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "40362 et 40363 sont proches de 0182 « Les poids de l'épicier » (même borne 2^n - 1 pour des poids sur un seul plateau) : 40362 demande plus (méthode de calcul de la capacité, unicité) et 40363 est une autre question (rendu de monnaie, pas les deux plateaux). Pas de lien see_also écrit, car 0182 est hors de mon bloc ; le coordinateur peut ajouter 0182 <-> 40362 et 0182 <-> 40363 en see_also. Ils sont seulement cités en texte dans « Going further ». Exercice 3 : coupé en deux fichiers, questions 1 à 4 (conditions nécessaires) et question 5 (n impair) ; 40365 rappelle en « On admet » les trois résultats utiles de 40364. Exercice 1 : le sujet n'a qu'une figure et une question ouverte ; la réponse est numérique (a ≤ 0,8298, racine de a^4 - 159a^2 + 840a - 588), la figure redessinée montre une plaque plus étroite que l'optimum. Le PDF de 2011 n'a pas de page de couverture ajoutée par freemaths : la page 1 est la couverture officielle.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40362",
+   "40364",
+   "40365"
+  ],
+  "fixed": [
+   {
+    "id": "40363",
+    "what": "indication 2 : elle disait que le marchand « reprend celles qu'il ne rend pas », ce qui laisse sur le comptoir les pièces de l'acheteur et la monnaie rendue (total x + y, pas V + s) ; réécrite : c'est l'acheteur qui ramasse sur le comptoir les pièces qui lui sont rendues, comme dans la solution"
+   },
+   {
+    "id": "40361",
+    "what": "solution, « Le meilleur angle » : l'existence du point de croisement reposait sans le dire sur la continuité ; ajouté que les courbes se tracent sans lever le crayon (argument intuitif de niveau 2de)"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40361",
+    "what": "gardé en 2de/5. La substitution t = sin θ/(1 + cos θ) (c'est tan(θ/2)) est donnée par l'indication 4, et les deux identités à vérifier ne demandent que cos² + sin² = 1 ; aucune formule de trigonométrie au-delà de Pythagore n'est utilisée, et sans elle il faudrait dériver cos et sin (Terminale). Mais c'est l'indication, pas l'énoncé, qui la donne : si le coordinateur applique la règle du brief à la lettre (« unless the statement gives them »), il faut soit déplacer la substitution dans l'énoncé, soit monter le fichier"
+   },
+   {
+    "id": "40363",
+    "what": "gardé en 4e/5. Les outils sont de 4e et les indications 2 à 4 livrent l'idée (tout poser sur le comptoir, compter les groupes) ; un passage en 3e/4 serait défendable si l'on juge qu'un élève de 4e ne manie pas des groupes de pièces parmi n + p en général"
+   },
+   {
+    "id": "40362",
+    "what": "chevauche 0182 « Les poids de l'épicier » (4e, même grade) : 0182 q.1 est le cas n = 4 de la borne 2^n − 1 ; 40362 demande plus (méthode de calcul, cas général, unicité) et 0182 a en plus les deux plateaux. Ce sont des problèmes liés, pas des copies : lien see_also 0182 <-> 40362 (et 0182 <-> 40363) à écrire par le coordinateur, 0182 étant hors du bloc"
+   }
+  ],
+  "how": [
+   {
+    "id": "40361",
+    "how": "recherche indépendante, pour chaque a, d'un angle de [0°, 180°[ (200 000 angles) où la boîte englobante tient dans 6 × 5, dichotomie sur a : a* ≈ 0,82973 (pas de grille) ; racine 0,8297588 de a^4 − 159a^2 + 840a − 588 redérivée à la main (système 7c + as = 6, ac + 7s = 5) et recalculée, θ* = 38,419° ; tableau de valeurs et identités f1 = (13t − 1/t)/2, f2 = 6u − 1/u recalculés ; figure : plaque de largeur 0,6 à 37°, dans la boîte, ne donne pas la réponse"
+   },
+   {
+    "id": "40362",
+    "how": "C(1,2,4) = 7, C(1,2,5) = 3, C(1..5) = 15 ; méthode gloutonne et condition de la question 2 testées sur 20 000 porte-monnaie aléatoires ; maximum 2^n − 1 atteint seulement par 1, 2, ..., 2^(n−1) pour n ≤ 5, même sans supposer a1 = 1 (pièces ≤ 2^n)"
+   },
+   {
+    "id": "40363",
+    "how": "recherche exhaustive pour n + p ≤ 5, pièces ≤ 2^(n+p) : maximum 2^(n+p) − 2^p, atteint seulement par marchand 1..2^(p−1), acheteur 2^p..2^(n+p−1)"
+   },
+   {
+    "id": "40364",
+    "how": "recherche directe par retour arrière de toutes les f sur Z/2n (doublement) pour n ≤ 25 : solutions seulement pour n = 1, 7, 17, 23, tous impairs et non multiples de 3 ; 70 solutions f pour n = 7"
+   },
+   {
+    "id": "40365",
+    "how": "5^5 et 7^7 fonctions φ : 0 et 4 solutions ; n = 9 : 9! bijections (φ∘φ = g bijective force φ injective), 0 solution ; critère des cycles de g sur Z/n confirme 1, 7, 17, 23 pour n ≤ 25 ; z^4 sur U_14 vérifié ; ordre de 2 mod 17 = 8"
+   }
+  ]
+ },
+ "updated": "2026-11-27"
+}

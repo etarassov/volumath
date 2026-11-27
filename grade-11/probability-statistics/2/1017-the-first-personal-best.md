@@ -7,7 +7,7 @@ difficulty: 2
 duration_min: 25
 tags: [independance, arbre, evenement-contraire, suite-geometrique, probabilite]
 adapted_from: null
-see_also: []
+see_also: ["41041"]
 same_as: []
 created: 2026-09-19
 source:

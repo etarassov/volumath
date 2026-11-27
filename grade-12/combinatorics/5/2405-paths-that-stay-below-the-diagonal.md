@@ -7,7 +7,7 @@ difficulty: 5
 duration_min: 55
 tags: [denombrement, chemins, coefficient-binomial, bijection, symetrie, catalan]
 adapted_from: null
-see_also: ["0155", "5201", "5202", "7908"]
+see_also: ["0155", "5201", "5202", "7908", "41006"]
 same_as: []
 created: 2026-09-19
 source:

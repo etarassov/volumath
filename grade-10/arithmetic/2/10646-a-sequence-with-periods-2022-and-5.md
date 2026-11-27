@@ -7,7 +7,7 @@ difficulty: 2
 duration_min: 15
 tags: [suites, periodicite, multiples]
 adapted_from: null
-see_also: []
+see_also: ["40284"]
 same_as: []
 created: 2026-10-01
 source:

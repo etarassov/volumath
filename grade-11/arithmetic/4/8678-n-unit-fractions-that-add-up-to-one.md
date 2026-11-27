@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 35
 tags: [fractions-egyptiennes, recurrence, construction, telescopage]
 adapted_from: null
-see_also: ["11202"]
+see_also: ["11202", "40684"]
 same_as: []
 created: 2026-09-20
 source:

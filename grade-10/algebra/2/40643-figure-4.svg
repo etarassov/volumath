@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="290" viewBox="0 0 380 290">
+<rect x="0" y="0" width="380" height="290" fill="#ffffff"/>
+<line x1="190.0" y1="40.0" x2="294.6" y2="116.0" stroke="#000" stroke-width="1.6"/>
+<line x1="190.0" y1="40.0" x2="254.7" y2="239.0" stroke="#000" stroke-width="1.6"/>
+<line x1="190.0" y1="40.0" x2="125.3" y2="239.0" stroke="#000" stroke-width="1.6"/>
+<line x1="190.0" y1="40.0" x2="85.4" y2="116.0" stroke="#000" stroke-width="1.6"/>
+<line x1="294.6" y1="116.0" x2="254.7" y2="239.0" stroke="#000" stroke-width="1.6"/>
+<line x1="294.6" y1="116.0" x2="125.3" y2="239.0" stroke="#000" stroke-width="1.6"/>
+<line x1="294.6" y1="116.0" x2="85.4" y2="116.0" stroke="#000" stroke-width="1.6"/>
+<line x1="254.7" y1="239.0" x2="125.3" y2="239.0" stroke="#000" stroke-width="1.6"/>
+<line x1="254.7" y1="239.0" x2="85.4" y2="116.0" stroke="#000" stroke-width="1.6"/>
+<line x1="125.3" y1="239.0" x2="85.4" y2="116.0" stroke="#000" stroke-width="1.6"/>
+<circle cx="190.0" cy="40.0" r="8" fill="#f5c400" stroke="#000" stroke-width="2"/>
+<text x="184.0" y="24.0" font-family="Helvetica" font-size="18" font-style="italic" fill="#000">A</text>
+<text x="204.0" y="46.0" font-family="Helvetica" font-size="17" font-style="italic" fill="#8a6d00">a</text>
+<circle cx="294.6" cy="116.0" r="7" fill="#1f5fbf" stroke="#000" stroke-width="1"/>
+<text x="308.6" y="122.0" font-family="Helvetica" font-size="18" font-style="italic" fill="#000">B</text>
+<circle cx="254.7" cy="239.0" r="7" fill="#1f5fbf" stroke="#000" stroke-width="1"/>
+<text x="264.7" y="261.0" font-family="Helvetica" font-size="18" font-style="italic" fill="#000">C</text>
+<circle cx="125.3" cy="239.0" r="7" fill="#1f5fbf" stroke="#000" stroke-width="1"/>
+<text x="103.3" y="261.0" font-family="Helvetica" font-size="18" font-style="italic" fill="#000">D</text>
+<circle cx="85.4" cy="116.0" r="8" fill="#f5c400" stroke="#000" stroke-width="2"/>
+<text x="57.400000000000006" y="110.0" font-family="Helvetica" font-size="18" font-style="italic" fill="#000">E</text>
+<text x="55.400000000000006" y="140.0" font-family="Helvetica" font-size="17" font-style="italic" fill="#8a6d00">e</text>
+</svg>

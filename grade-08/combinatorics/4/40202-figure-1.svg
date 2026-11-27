@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="112" viewBox="0 0 112 112">
+<rect x="0" y="0" width="112" height="112" fill="#ffffff"/>
+<line x1="2" y1="2" x2="110" y2="2" stroke="#000" stroke-width="1.5"/>
+<line x1="2" y1="2" x2="2" y2="110" stroke="#000" stroke-width="1.5"/>
+<line x1="2" y1="38" x2="110" y2="38" stroke="#000" stroke-width="1.5"/>
+<line x1="38" y1="2" x2="38" y2="110" stroke="#000" stroke-width="1.5"/>
+<line x1="2" y1="74" x2="110" y2="74" stroke="#000" stroke-width="1.5"/>
+<line x1="74" y1="2" x2="74" y2="110" stroke="#000" stroke-width="1.5"/>
+<line x1="2" y1="110" x2="110" y2="110" stroke="#000" stroke-width="1.5"/>
+<line x1="110" y1="2" x2="110" y2="110" stroke="#000" stroke-width="1.5"/>
+<text x="20.0" y="27.0" font-family="Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle" fill="#000">1</text>
+<text x="56.0" y="27.0" font-family="Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle" fill="#000">8</text>
+<text x="92.0" y="27.0" font-family="Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle" fill="#000">7</text>
+<text x="20.0" y="63.0" font-family="Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle" fill="#000">9</text>
+<text x="56.0" y="63.0" font-family="Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle" fill="#000">2</text>
+<text x="92.0" y="63.0" font-family="Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle" fill="#000">4</text>
+<text x="20.0" y="99.0" font-family="Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle" fill="#000">6</text>
+<text x="56.0" y="99.0" font-family="Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle" fill="#000">5</text>
+<text x="92.0" y="99.0" font-family="Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle" fill="#000">3</text>
+</svg>

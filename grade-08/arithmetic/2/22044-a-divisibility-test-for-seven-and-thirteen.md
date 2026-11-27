@@ -7,7 +7,7 @@ difficulty: 2
 duration_min: 25
 tags: [criteres-de-divisibilite, divisibilite, division-euclidienne]
 adapted_from: null
-see_also: ["5011"]
+see_also: ["5011", "40161"]
 same_as: []
 created: 2026-10-25
 source:

@@ -1,0 +1,187 @@
+{
+ "unit": "cg-2017-es",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2017, mathématiques, série ES",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2017-es-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-es-2017.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "41001",
+  "41040"
+ ],
+ "status": "done",
+ "imported": [
+  "41001",
+  "41002",
+  "41003",
+  "41004",
+  "41005",
+  "41006"
+ ],
+ "parts": [
+  {
+   "id": "41001",
+   "where": "problème I, questions 1 à 4"
+  },
+  {
+   "id": "41002",
+   "where": "problème I, questions 5 et 6"
+  },
+  {
+   "id": "41003",
+   "where": "problème II, partie A (questions 1 et 2), partie C (questions 1 à 3) et partie D (questions 1 à 3)"
+  },
+  {
+   "id": "41004",
+   "where": "problème II, partie B (questions 1 à 5) et partie D (question 1) ; partie A rappelée dans l'énoncé"
+  },
+  {
+   "id": "41005",
+   "where": "problème III, partie A (questions 1 à 3) et partie B (questions 1 à 3)"
+  },
+  {
+   "id": "41006",
+   "where": "problème III, partie B (question 4 a, b, c) et partie C (questions 1 à 3)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "41001",
+   "grade": 10,
+   "why": "fonctions affines, équation de droite, valeur absolue, développement d'un carré ; la partie entière est définie dans l'énoncé : rien au-delà de la seconde"
+  },
+  {
+   "id": "41002",
+   "grade": 12,
+   "why": "dérivée seconde, théorème des valeurs intermédiaires et logarithme népérien : Terminale"
+  },
+  {
+   "id": "41003",
+   "grade": 11,
+   "why": "second degré et suites géométriques : première ; les deux limites sont justifiées par des encadrements explicites (u_n ≥ n-1 et |u_{n+1}/u_n - α| ≤ 1/(n-1)), donc l'approche intuitive des limites de première suffit"
+  },
+  {
+   "id": "41004",
+   "grade": 12,
+   "why": "calcul matriciel, matrice inverse 2×2 et diagonalisation : option maths expertes"
+  },
+  {
+   "id": "41005",
+   "grade": 12,
+   "why": "loi binomiale et coefficients binomiaux : Terminale ; la partie A seule (parité de la fortune) serait de collège mais trop mince pour un fichier, elle ouvre celui-ci"
+  },
+  {
+   "id": "41006",
+   "grade": 12,
+   "why": "dénombrement de chemins avec coefficients binomiaux et probabilités p^j q^(n-j) : Terminale ; même niveau que 2405 (Catalan par réflexion, grade 12)"
+  }
+ ],
+ "checks": [
+  {
+   "id": "41001",
+   "how": "identité ta²+(1-t)b²-(ta+(1-t)b)² = t(1-t)(a-b)² et inégalité pour |x| testées sur 10 000 tirages en Python ; contre-exemple a=1/2, b=3/2, t=1/2 pour la partie entière vérifié en fractions exactes ; type C de la partie entière sur [0,1] vérifié sur une grille de 21×21×21 rationnels"
+  },
+  {
+   "id": "41002",
+   "how": "formule de φ' pour f=-ln comparée à une dérivée numérique sur 2 000 tirages, φ ≥ 0 vérifié ; les deux étapes de 2 b) et l'inégalité finale testées sur 10 000 triplets en Python"
+  },
+  {
+   "id": "41003",
+   "how": "80 termes de Fibonacci calculés en Python : v_n = β^n, w_n = α^n, formule de Binet, u_n ≥ n-1 et |u_{n+1}/u_n - α| ≤ 1/u_n ≤ 1/(n-1) vérifiés pour n ≤ 70"
+  },
+  {
+   "id": "41004",
+   "how": "en Python : AX_n = X_{n+1}, AC_1 = αC_1, AC_2 = βC_2, P^{-1}P = I, P^{-1}AP = D et X_n = P D^n P^{-1} X_0 = (u_n, u_{n+1}) vérifiés pour n ≤ 19 ; l'expression simplifiée de A^n et l'identité de Cassini vérifiées à la main sur n = 5"
+  },
+  {
+   "id": "41005",
+   "how": "en Python, fractions exactes : loi de G_k comparée à C(k,j)p^j q^(k-j) par énumération des 2^k parties pour k ≤ 8 et p = 1/3 ; points d'arrivée pour n = 5, f_0 = 2 énumérés ({-3,-1,1,3,5,7}) ; condition sur b vérifiée pour n ≤ 8, -4 ≤ f_0 ≤ 4"
+  },
+  {
+   "id": "41006",
+   "how": "énumération de toutes les trajectoires en Python pour n ≤ 12, 0 ≤ f_0 ≤ 6, b > 0 : nombre de trajectoires qui touchent l'axe = nombre depuis le symétrique = C(n, j+f_0), trajectoires > 0 = C(n,j) - C(n,j+f_0), trajectoires ≥ 0 = C(n,j) - C(n,j+f_0+1) ; N_2n = C(2n-2,n-1) - C(2n-2,n) et p_2n = C(2n,n)/4^n vérifiés pour n ≤ 8 (1, 1, 2, 5, 14, 42, 132, 429)"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [
+  {
+   "id": "41004",
+   "tool": "matrices 2×2, matrice inverse, diagonalisation",
+   "suggested_theme": "algebra",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  [
+   "41001",
+   "41002"
+  ],
+  [
+   "41003",
+   "41004"
+  ],
+  [
+   "41005",
+   "41006"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Aucun problème de ce sujet ES n'est commun avec le sujet S 2017 (40601 à 40609 : parties de type S dans C, QCM et probabilités, triangles à sommets entiers) : les trois problèmes ont été importés en entier. Problème I : coupé en 41001 (questions 1 à 4, définition et exemples, grade 10) et 41002 (questions 5 et 6, dérivée seconde et moyenne de trois nombres, grade 12). Problème II : les parties B (matrices, spécialité ES) et C (suites géométriques) sont deux routes au choix vers la même partie D ; j'en ai fait deux fichiers : 41003 = A + C + D (grade 11, limites justifiées par des encadrements explicites) et 41004 = B + D1 (grade 12, maths expertes), la partie A étant rappelée dans l'énoncé de 41004 et les limites D2-D3 laissées à 41003 seulement. Problème III : 41005 = A + B1-B3 (loi binomiale), 41006 = B4 + C (principe de réflexion et N_2n). La partie C est mise avec B4 parce que C3 n'est qu'une application de la réflexion et que C1, C2 sont deux lignes. Énoncé précisé : en B4 b) le sujet demande « la probabilité que dans une trajectoire de M0 à M(n,b) tous les sommets aient une ordonnée strictement positive », ce qui peut se lire comme une probabilité conditionnelle ou comme celle de l'intersection ; 41006 demande les deux (la conditionnelle ne dépend pas de p). Liens hors de mon bloc, à compléter par le coordinateur (je n'ai mis le lien que dans mes fichiers) : 41003 see_also 7079 (grade 12, POFM : F_{n+1} = Φ F_n + (-1/Φ)^n par récurrence ; c'est exactement v_n = β^n, question 4 de 41003, qui demande davantage : w_n, formule de Binet, deux limites ; placé en grade 11) ; 41006 see_also 2405 (grade 12, nombres de Catalan par réflexion sur un quadrillage ; la question 4 c) de 41006 est le même résultat dans le langage des trajectoires, mais 41006 demande bien plus, d'où import et pas skip). Pas de rapport du jury pour la série ES dans le rapport 2017 (il ne parle que de la série S), pas de correction non officielle pour ES : toutes les solutions sont de moi, vérifiées en Python.",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "41002",
+   "41003",
+   "41004",
+   "41005"
+  ],
+  "fixed": [
+   {
+    "id": "41001",
+    "what": "figure 1 : l'étiquette −1 de l'axe des ordonnées était posée sur la marche [−1, 0[ et sous le point creux (0, −1) ; déplacée à droite de l'axe, les autres étiquettes de l'axe décalées de 6 px vers la gauche. Mathématiques inchangées : réponses de la partie entière (non sur [−2, 2], oui sur [0, 1]) vérifiées"
+   },
+   {
+    "id": "41006",
+    "what": "Bilan précisé : les deux comptes C(n, j) − C(n, j + f_0) et C(n, j) − C(n, j + f_0 + 1) sont ceux des parties qui finissent à b (b > 0), sous f_0 > 0 et f_0 ≥ 0 respectivement ; le texte disait seulement « le nombre de parties où la fortune reste strictement positive »"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "41005",
+    "what": "Grade 12 gardé, mais 11 est défendable : l'énoncé rappelle ce que compte C(n, k), et un bon élève de 1re peut retrouver P(S_k = j) = C(k, j) p^j q^(k−j) avec un arbre (chaque suite de j Pile a la probabilité p^j q^(k−j), il y en a C(k, j)). Mais la loi de Bernoulli, la succession de k épreuves indépendantes et la loi binomiale sont du programme de Terminale, la question 2 demande de nommer la loi, et le cœur du fichier est exactement ce chapitre ; un passage en 1re demanderait de réécrire les solutions des questions 2 et 3 (et le titre) pour démontrer la formule au lieu de la citer. Au coordinateur de trancher"
+   },
+   {
+    "id": "41006",
+    "what": "Grade 12/4 gardé. Les comptes C(n, j) et la probabilité p^j q^(n−j) sont admis dans l'énoncé, le reste (bijection par réflexion, parité, probabilité conditionnelle) n'utilise rien de Terminale ; un placement en 1re/5 serait discutable mais pas exclu. Gardé à 12, cohérent avec 2405 (Catalan par réflexion, 12/5)"
+   },
+   {
+    "id": "41001",
+    "what": "3e envisagé et écarté : notation des intervalles, sens de variation d'une fonction affine, équation de droite y = mx + p et valeur absolue sont de 2de ; 2de/3 confirmé"
+   }
+  ],
+  "links_back_needed": [
+   {
+    "file": "grade-12/algebra/4/7079-fibonacci-and-the-golden-ratio.md",
+    "add_see_also": "41003",
+    "why": "7079 (12/4) démontre seulement F_{n+1} = Φ F_n + (−1/Φ)^n par récurrence ; 41003 (grade 11) en tire aussi Binet et deux limites : grades différents, pas une copie, see_also correct"
+   },
+   {
+    "file": "grade-12/combinatorics/5/2405-paths-that-stay-below-the-diagonal.md",
+    "add_see_also": "41006",
+    "why": "même grade 12, mais pas un doublon : 2405 ne demande que les chemins sous la diagonale (Catalan) ; 41006 demande en plus le principe de réflexion général avec f_0 quelconque, les probabilités, la version ≥ 0, la parité et p_2n ; même idée sur des questions différentes, donc see_also et non same_as"
+   }
+  ],
+  "how": "Paper rendered (pages 2 to 6) and every statement compared with it. All questions re-solved before reading the solutions. Own scripts in the scratchpad (cg-2017-es-check/verify.py, verify2.py): 41001 identity t a² + (1−t) b² − (t a + (1−t) b)² = t(1−t)(a−b)², |x| inequality and t = (b−x)/(b−a) on 20 000 exact-fraction draws, floor counterexample 1/2, 3/2, t = 1/2 and type C of floor on [0, 1] on a 25×25×25 grid including the endpoint 1; 41002 φ'' = −(a−b)²/u² for −ln against a numeric second derivative, both steps of 2 b) and the 3-term AM-GM on 20 000 triples; 41003 Fibonacci up to u_100, u_n ≥ n−1, |u_{n+1}/u_n − α| ≤ 1/u_n ≤ 1/(n−1), v_n = β^n, w_n = α^n, Binet; 41004 in sympy, exact: P^{-1} formula, P^{-1}AP = D, det P = −√5, the raw and the simplified A^n and X_n for n ≤ 14; 41005 law of G_k by enumeration of all 2^k sequences for k ≤ 9 with p = 2/7, end points {−3, −1, 1, 3, 5, 7}, the condition on b for n ≤ 8 and −4 ≤ f_0 ≤ 4; 41006 by enumeration of every trajectory for n ≤ 12, 0 ≤ f_0 ≤ 6, b > 0: total C(n, j), touching = reflected = C(n, j + f_0), > 0 count and its exact probability, ≥ 0 count C(n, j) − C(n, j + f_0 + 1); N_2n = 1, 1, 2, 5, 14, 42, 132, 429 and p_2n = C(2n, n)/4^n for n ≤ 8. All six built with no pandoc warning and every page looked at."
+ },
+ "updated": "2026-11-27"
+}

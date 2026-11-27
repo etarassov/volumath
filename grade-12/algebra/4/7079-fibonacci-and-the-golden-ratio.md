@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 30
 tags: [suite-de-fibonacci, nombre-d-or, recurrence]
 adapted_from: null
-see_also: []
+see_also: ["41003"]
 same_as: []
 created: 2026-09-20
 source:

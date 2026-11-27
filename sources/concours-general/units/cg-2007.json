@@ -1,0 +1,229 @@
+{
+ "unit": "cg-2007",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2007, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2007-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2007.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40201",
+  "40240"
+ ],
+ "status": "done",
+ "imported": [
+  "40201",
+  "40202",
+  "40203",
+  "40204",
+  "40205",
+  "40206",
+  "40207"
+ ],
+ "parts": [
+  {
+   "id": "40201",
+   "where": "exercice 1, questions 1 et 2"
+  },
+  {
+   "id": "40202",
+   "where": "exercice 2, questions 1 a), 1 b) et 2"
+  },
+  {
+   "id": "40203",
+   "where": "exercice 3, partie I « Géométrie », questions 1, 2 a) à 2 c), 4 a) et 4 b)"
+  },
+  {
+   "id": "40204",
+   "where": "exercice 3, partie I « Géométrie », questions 2 d) et 3 a) à 3 d)"
+  },
+  {
+   "id": "40205",
+   "where": "exercice 3, partie II A « Deux familles de triangles », question 1 a) à 1 e)"
+  },
+  {
+   "id": "40206",
+   "where": "exercice 3, partie II A « Deux familles de triangles », questions 2 à 5 (question 2 corrigée)"
+  },
+  {
+   "id": "40207",
+   "where": "exercice 3, partie II B « Entiers de la forme u² − uv − v² », questions 1, 2 a) à 2 d), 3 a) et 3 b)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40201",
+   "grade": 10,
+   "why": "valeur absolue, trinômes, signe d'un produit x(x+1) : tout est en 2de ; la définition récursive des types T_n est guidée par les indices"
+  },
+  {
+   "id": "40202",
+   "grade": 8,
+   "why": "seulement des produits d'entiers et des inégalités entre produits positifs ; l'idée (ligne et colonne du 1, puis le 5) est donnée par les indices"
+  },
+  {
+   "id": "40203",
+   "grade": 9,
+   "why": "centre de gravité aux deux tiers (rappelé dans l'énoncé), cercle de diamètre [AB], homothétie, Pythagore et sa réciproque, inégalité triangulaire, factorisation : tout est au collège ; la solution n'utilise ni vecteurs ni formule de distance"
+  },
+  {
+   "id": "40204",
+   "grade": 11,
+   "why": "orthocentre calculé avec le produit scalaire en repère et cercle d'équation x² + y² = 9 : 1re ; les variations de f sont obtenues sans dérivée (f = s − 8/s)"
+  },
+  {
+   "id": "40205",
+   "grade": 10,
+   "why": "parité, nombres premiers, restes de carrés modulo 3, 4, 8 et 5 expliqués comme des restes : programme de 2de avec un court rappel"
+  },
+  {
+   "id": "40206",
+   "grade": 10,
+   "why": "le paramétrage des triplets de Pythagore et les résultats précédents sont admis ; il reste des inégalités factorisées et des restes modulo 5 : 2de"
+  },
+  {
+   "id": "40207",
+   "grade": 12,
+   "why": "petit théorème de Fermat et congruences modulo p (lemme de Gauss pour 5) : maths expertes"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40201",
+   "how": "décomposition f = t3 + (β−α)/2·|x| + α/2·|x²+x| testée en Python sur 1000 couples de trinômes aléatoires et 50 points chacun ; φ et ψ vérifiés sur une grille de 201 points"
+  },
+  {
+   "id": "40202",
+   "how": "les 9! tableaux parcourus en Python : le minimum du plus grand produit de ligne vaut 72, celui du plus grand produit de ligne ou de colonne vaut 90 (atteint par 144 tableaux) ; exemple 1 b) et tableau optimal vérifiés"
+  },
+  {
+   "id": "40203",
+   "how": "en Python : médianes perpendiculaires vérifiées pour le triangle (1, √2, √3) ; pour 2000 points C du cercle de rayon 3 avec A(−1;0), B(1;0), produit scalaire des médianes nul et a² + b² = 5c² ; b/c observé dans ]1, 2[ (min 1,00001, max 1,99999) ; 10 000 triplets aléatoires : triangle ⟺ 1/2 < a/b < 2 quand a² + b² = 5c²"
+  },
+  {
+   "id": "40204",
+   "how": "en Python : 20 000 points B du cercle de rayon 3 avec A(−1;0), C(−5;0) donnent des triangles de type W ; a/b observé dans ]1/2, 2[ ; rayon circonscrit minimal 2,000000 atteint en B ≈ (−2,3332 ; ±1,8858), conforme à (−7/3 ; ±4√2/3) ; orthocentre calculé par résolution de système et comparé aux formules (1 − x²)/y₀ et −(x + 1)(x + 5)/y₀ ; valeurs de f et g recalculées ; −x³ + 23x + 54 > 0 sur [−3, 3] (minimum 11,54)"
+  },
+  {
+   "id": "40205",
+   "how": "les 151 triplets primitifs de a² + b² = 5c² avec c < 400 trouvés par force brute en Python : premiers entre eux deux à deux, parités différentes, non divisibles par 3, 4, 5, existence de (α, β) premiers entre eux avec α² + β² = c², jamais les deux cas (I) et (II) à la fois ; exemple (19, 22, 13) → (12, 5, 13) ; contre-exemple α = 4, β = 3 → (5, 10)"
+  },
+  {
+   "id": "40206",
+   "how": "en Python : pour c < 400, les triangles de type We avec a pair coïncident exactement avec ceux donnés par (1) et (2), les deux familles sont disjointes ; les conditions u > 3v, 5 ∤ u − 3v pour (1) et v < u < 2v, 5 ∤ u − 2v pour (2) testées dans les deux sens pour u < 60 ; liste c ≤ 50 confirmée par force brute (5 triangles, 10 avec l'échange de a et b) ; (19, 22, 13) confirmé comme contre-exemple à la question 2 du sujet"
+  },
+  {
+   "id": "40207",
+   "how": "en Python : pour tous u, v premiers entre eux avec |u|, |v| ≤ 60, tout facteur premier de u² − uv − v² est 5 ou congru à ±1 modulo 10, et les congruences de 2 a) et 5^q ≡ 1 sont vérifiées ; pour tous les premiers 7 ≤ p < 5000, m = expression en parties entières, les f(j) forment {1, …, q}, m pair ⟺ p ≡ ±1 (mod 10) ⟺ 5^q ≡ 1 ; identités de 1 b), 1 c) et 3 testées sur 1000 quadruplets aléatoires ; égalité E = F confirmée sur les valeurs de 1 à 59 ; facteurs premiers de a et b vérifiés pour tous les triangles We avec c < 3000"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [
+  {
+   "id": "40207",
+   "tool": "petit théorème de Fermat, congruences modulo un nombre premier, lemme de Gauss",
+   "suggested_theme": "arithmetic",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  [
+   "40203",
+   "40204"
+  ],
+  [
+   "40203",
+   "40205"
+  ],
+  [
+   "40203",
+   "40206"
+  ],
+  [
+   "40203",
+   "40207"
+  ],
+  [
+   "40204",
+   "40205"
+  ],
+  [
+   "40204",
+   "40206"
+  ],
+  [
+   "40204",
+   "40207"
+  ],
+  [
+   "40205",
+   "40206"
+  ],
+  [
+   "40205",
+   "40207"
+  ],
+  [
+   "40206",
+   "40207"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [
+  {
+   "where": "exercice 3, partie II A, question 2",
+   "what": "Le sujet affirme que tout triangle de type We vérifie (1) ou (2). C'est faux quand a est impair : (a, b, c) = (19, 22, 13) est de type We (361 + 484 = 5 × 169, 1/2 < 19/22 < 2), mais (1) et (2) donnent toujours a pair. C'est alors (b, a, c) qui vérifie (1) ou (2). Version publiée (40206) : on suppose a pair, ce qui est toujours possible en échangeant A et B ; 40207 admet ce résultat sous la même hypothèse."
+  }
+ ],
+ "notes": "Sept fichiers pour trois exercices. Exercice 3 découpé en cinq fichiers : partie I en deux (40203 pour les questions 1, 2 a-c et 4, au collège ; 40204 pour les questions 2 d et 3, qui demandent le produit scalaire), partie II A en deux à la frontière « On admet désormais » (40205, 40206), partie II B en un fichier (40207). Lien suggéré vers un fichier hors de mon bloc : 40203 liste 0477 (« Deux médianes perpendiculaires », construire un tel triangle sur quadrillage, grade 9) en see_also ; il faudrait ajouter 40203 dans le see_also de 0477. Aucun doublon trouvé (similar.py et grep sur médianes perpendiculaires, 5c², tableau 1 à 9, u² − uv − v², lemme de Gauss). Question 1 c) de la partie B : la réponse publiée est plus forte que ce que le sujet attendait sans doute (F = E, pas seulement « F est stable par multiplication »).",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40201",
+   "40202",
+   "40203",
+   "40204",
+   "40205",
+   "40207"
+  ],
+  "fixed": [
+   {
+    "id": "40206",
+    "what": "question 2 : la solution ne vérifiait jamais que les relations (1) et (2) donnent a² + b² = 5c², alors que (R1) l'exige pour conclure au type We ; ajout d'un paragraphe (avec α = u² − v², β = 2uv : a = 2α ∓ β, b = ±α + 2β, donc a² + b² = 5(α² + β²) = 5c²)"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40203",
+    "what": "grade 9 / 4 gardé, mais à la limite : outils tous du collège (homothétie de 3e, Pythagore, cercle de diamètre, centre de gravité rappelé), et les indications portent les mises en place ; la question 2 c) (ensemble des valeurs de b/c) est la plus dure pour un élève de 3e. Si le cercle de diamètre [AB] n'est plus au programme du collège, c'est un court lemme."
+   },
+   {
+    "id": "40203",
+    "what": "see_also vers 0477 à sens unique (0477 ne liste pas 40203) : hors de mon bloc, à ajouter par le coordinateur. Les autres rapprochements de vm.py check (5408, 10257, 0477 avec 40204 et 40206) ne sont pas des doublons."
+   },
+   {
+    "id": "40207",
+    "what": "« lemme de Gauss » désigne ici le lemme de comptage sur les résidus quadratiques, pas le théorème de Gauss sur la divisibilité que connaît un élève de maths expertes ; le bilan et le tag lemme-de-gauss peuvent prêter à confusion, laissé tel quel"
+   }
+  ],
+  "how": {
+   "paper": "pages 2 à 6 rendues en image et relues ; énoncés fidèles et autonomes",
+   "40201": "décomposition f = t3 + (β−α)/2·|x| + α/2·|x² + x| testée sur 2000 couples aléatoires et 101 points ; écriture T1 quand |α| ≤ |β| (s = x(αx + β), d = s/2 + sgn(β)|s|/2) testée ; preuve que ψ n'est pas T1 refaite (signe de s à gauche et à droite de 0) : affirmation du Going further exacte",
+   "40202": "les 9! tableaux parcourus : 72, 90 et 144 tableaux optimaux confirmés ; tableau du Going further vérifié",
+   "40203": "20 000 points C du cercle de rayon 3 : G sur le cercle de diamètre [AB], b/c dans ]1, 2[ ; calculs de 2 c) et 3 a) refaits à la main",
+   "40204": "40 000 points : orthocentre par résolution de système comparé à (1 − x²)/y₀ et −(x + 1)(x + 5)/y₀, a² + b² = 5c² sur Γ', rayon minimal 2 en (−7/3 ; 4√2/3) ; valeurs de f, g et minimum 11,54 de −x³ + 23x + 54 recalculés ; figures construites et regardées",
+   "40205": "316 triplets primitifs avec c < 600 : toutes les propriétés de 1 à 4 ; question 5 testée pour |α|, |β| ≤ 40 (PGCD 1 ou 5, et 5 exactement quand 5 | 2α − β)",
+   "40206": "erreur du sujet confirmée : 63 des 126 triangles We avec c < 600 ont a impair, dont (19, 22, 13) ; correction « a pair » valide ; tous les We à a pair produits une seule fois par (1) ou (2), conditions de la question 2 testées dans les deux sens pour u, v < 80 ; liste c ≤ 50 confirmée",
+   "40207": "facteurs premiers de u² − uv − v² (|u|, |v| ≤ 60, u et v premiers entre eux) : 5 ou ±1 mod 10, congruences de 2 a), 2 b) ; premiers 7 ≤ p < 20 000 : f bijective, m = expression, m pair ⟺ p ≡ ±1 (mod 10) ; E = F vérifié sur [−500, 500] et preuve de 1 c) relue (les trois cas de parité sont couverts) ; tout premier < 5000 finissant par 1 ou 9 s'écrit u² − uv − v² (affirmation du Going further exacte, c'est aussi un théorème connu : Z[ω] est principal) ; facteurs premiers de a et b vérifiés sur les 126 We"
+  }
+ },
+ "updated": "2026-11-27"
+}

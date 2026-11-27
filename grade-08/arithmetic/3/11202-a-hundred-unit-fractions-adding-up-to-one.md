@@ -7,7 +7,7 @@ difficulty: 3
 duration_min: 25
 tags: [fractions, fractions-egyptiennes, construction, puissances-de-deux]
 adapted_from: null
-see_also: ["8678"]
+see_also: ["8678", "40684"]
 same_as: []
 created: 2026-10-01
 source:

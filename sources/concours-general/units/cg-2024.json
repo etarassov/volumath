@@ -1,0 +1,360 @@
+{
+ "unit": "cg-2024",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2024, mathématiques, spécialité mathématiques",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2024-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2024.pdf"
+  },
+  {
+   "role": "rapport",
+   "file": "sources/originals/concours-general/rapport-2024.pdf",
+   "url": "https://eduscol.education.fr/document/61428/download",
+   "note": "rapport du jury : statistiques et commentaires, aucune solution"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40881",
+  "40920"
+ ],
+ "status": "done",
+ "imported": [
+  "40881",
+  "40882",
+  "40883",
+  "40884",
+  "40885",
+  "40886",
+  "40887",
+  "40888",
+  "40889",
+  "40890",
+  "40891",
+  "40892"
+ ],
+ "parts": [
+  {
+   "id": "40881",
+   "where": "problème 1, partie 1, questions 1 à 5"
+  },
+  {
+   "id": "40882",
+   "where": "problème 1, partie 2, questions 6 à 8"
+  },
+  {
+   "id": "40883",
+   "where": "problème 1, partie 3, questions 9 et 10"
+  },
+  {
+   "id": "40884",
+   "where": "problème 2, parties 1 et 2, questions 1 à 4"
+  },
+  {
+   "id": "40885",
+   "where": "problème 2, partie 3, questions 5 à 8"
+  },
+  {
+   "id": "40886",
+   "where": "problème 2, partie 4, question 9"
+  },
+  {
+   "id": "40887",
+   "where": "problème 3, préambule et partie 1, questions 1 à 5"
+  },
+  {
+   "id": "40888",
+   "where": "problème 3, partie 2, questions 6 à 8"
+  },
+  {
+   "id": "40889",
+   "where": "problème 3, partie 3, questions 9 à 13"
+  },
+  {
+   "id": "40890",
+   "where": "problème 3, partie 3, question 14"
+  },
+  {
+   "id": "40891",
+   "where": "problème 3, partie 3, questions 15 à 19"
+  },
+  {
+   "id": "40892",
+   "where": "problème 3, partie 4, questions 20 et 21"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40881",
+   "grade": 12,
+   "why": "récurrences et passage à la limite par continuité de la racine, suite décroissante minorée : Terminale"
+  },
+  {
+   "id": "40882",
+   "grade": 12,
+   "why": "encadrement par récurrence et théorème des gendarmes : Terminale"
+  },
+  {
+   "id": "40883",
+   "grade": 12,
+   "why": "limites par comparaison, n/2^n tend vers 0 : Terminale"
+  },
+  {
+   "id": "40884",
+   "grade": 9,
+   "why": "probabilité d'un choix au hasard parmi n boîtes (programme du cycle 4, expériences à une ou deux épreuves) et raisonnement par cas ; la généralisation à n boîtes et n − 1 tours reprend exactement le même argument, à la portée d'un fort élève de 3e avec les indications (regradé de 10 à 9 par le vérificateur)"
+  },
+  {
+   "id": "40885",
+   "grade": 12,
+   "why": "outils de 1re (probabilités conditionnelles, probabilités totales), mais le raisonnement sur tout un historique, propagé tour après tour, est une récurrence, et un fort élève de 1re ne le mène pas à bout en une séance ; le jury note que presque aucun candidat de Terminale ne l'a abordée"
+  },
+  {
+   "id": "40886",
+   "grade": 9,
+   "why": "aucune connaissance, que de la logique ; mais raisonner sur n boîtes quelconques, inventer un code et prouver l'impossibilité pour n = 3 demande un fort élève de 3e plutôt que de 4e"
+  },
+  {
+   "id": "40887",
+   "grade": 11,
+   "why": "outils de 2de (partie entière définie dans l'énoncé, tiroirs, rationnels), mais la chaîne Dirichlet puis cas rationnel avec un ε est trop longue pour un élève de 2de en une séance ; le jury note que les parties entières ont gêné les candidats de Terminale dès le début"
+  },
+  {
+   "id": "40888",
+   "grade": 10,
+   "why": "dénombrement avec parties entières et irrationalité, rien au-delà de la 2de ; trois questions bien guidées, à la portée d'un très fort élève de 2de avec les indications, d'où 5 étoiles"
+  },
+  {
+   "id": "40889",
+   "grade": 12,
+   "why": "aucun outil de Terminale stricto sensu (vecteurs, tiroirs en dimension 2), mais raisonnements « pour tout ε > 0 » et longue chaîne d'idées : seul un fort élève de Terminale la mène à bout"
+  },
+  {
+   "id": "40890",
+   "grade": 12,
+   "why": "géométrie analytique de 2de, mais une suite d'arguments en ε et de passages à la limite déguisés, au niveau d'un fort élève de Terminale"
+  },
+  {
+   "id": "40891",
+   "grade": 12,
+   "why": "sous-ensembles de R stables par différence, PGCD et irrationalité ; outils de 2de/3e, mais chaîne d'abstraction (ensembles Λ, Γ, W) qui demande un fort élève de Terminale"
+  },
+  {
+   "id": "40892",
+   "grade": 10,
+   "why": "une fois les théorèmes A et B admis, il reste un passage au complémentaire et une élimination dans un système linéaire, à la portée d'un fort élève de 2de"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40881",
+   "how": "Python : suite associée à 0 calculée jusqu'à n = 10^5 (w_n ≥ 1) ; décroissance stricte vérifiée sur 2000 termes pour α = φ²+10^-9, 2,7, 4, 50, 10^6 ; condition u_1 < u_0 ⇔ α > (3+√5)/2 vérifiée à la main"
+  },
+  {
+   "id": "40882",
+   "how": "Python : 1+2/n ≤ t_n ≤ 1+3/n et 2 ≤ s_n ≤ 2+6/n vérifiés pour tous n ≤ 10^6 ; signe de 2n²-7n-3 vérifié pour n = 1 à 6 ; s_n - 2 ≈ 10^-6 à n = 10^6"
+  },
+  {
+   "id": "40883",
+   "how": "Python : pour α = 0 ; 0,3 ; 1 ; 2 ; 4 ; 10 ; 1000, n(u_n-1)-2 ≈ 10^-5 à n = 10^5 et u_n = t_n en double précision ; écart u_n - t_n pour α = 0 comparé au majorant 2/2^(n-1) sur 10 termes"
+  },
+  {
+   "id": "40884",
+   "how": "réponses 1/3, 2/3, 1/n, (n−1)/n vérifiées à la main par arbre ; la stratégie « garder puis changer au dernier tour » est aussi un cas particulier de l'arbre exhaustif fait pour 40885"
+  },
+  {
+   "id": "40885",
+   "how": "Python, fractions exactes : arbre complet du jeu pour n = 3 à 6 avec Germain aléatoire et toutes les stratégies déterministes de Sophie ; la formule de la question 2 et l'inégalité de la question 3 sont vérifiées sur chaque branche, et la meilleure probabilité de gain de Sophie vaut exactement (n−1)/n"
+  },
+  {
+   "id": "40886",
+   "how": "Python : recherche exhaustive de toutes les stratégies communes (Germain dépend du paquet et de l'historique, Sophie de l'historique) pour n = 3, 4, 5, 6 : aucune pour n = 3, une pour n = 4, 5, 6 ; la stratégie écrite est simulée pour n = 4 à 11 et chaque position du paquet"
+  },
+  {
+   "id": "40887",
+   "how": "Python : E(1) = N* et E(x) = N pour x = 3/2 et √2 (jusqu'à 3000) ; pour α = 1/2, 2/3, 3/7 et quatre β < 1 (deux irrationnels, deux rationnels), intersection non vide et un entier manquant à la réunion ; identité de 4 d) testée sur 2000 réels aléatoires"
+  },
+  {
+   "id": "40888",
+   "how": "Python (50 chiffres) : pour α = √2 − 1, β = 2 − √2, E(α) et E(β) partitionnent {1, …, 3000} ; le compte de 1 a) égal à ent(nα) pour tout n < 3000"
+  },
+  {
+   "id": "40889",
+   "how": "Python : exemples u α + v β = 1 avec (u, v) = (1, 1), (1, 2), (2, 3), (3, 1) : E(α) ∩ E(β) vide jusqu'à 3000 ; pour α = (√2 − 1)/2, β = 2 − √2, aucun point de Ω dans ]0, α[ × ]0, β[ pour |k| ≤ 20000"
+  },
+  {
+   "id": "40890",
+   "how": "Python, même exemple : tous les points de Ω dans ]0, ε[ × ]−ε, 0[ (ε = min/2, |k| ≤ 20000) sont alignés avec O, de pente −2"
+  },
+  {
+   "id": "40891",
+   "how": "Python, même exemple : −s/t = 1/2, λ = 1/2, d'où j = 1, u' = 2, v' = 1 et 2α + β = 1, cohérent avec la relation de départ"
+  },
+  {
+   "id": "40892",
+   "how": "Python : exemple α = 1 − (√2 − 1)/2, β = √2 − 1 (2(1 − α) + (1 − β) = 1) : E(α) ∪ E(β) = {1, …, 3000} ; question 2 : preuve par élimination, pas de vérification numérique utile"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40881",
+   "40882"
+  ],
+  [
+   "40881",
+   "40883"
+  ],
+  [
+   "40882",
+   "40883"
+  ],
+  [
+   "40884",
+   "40885"
+  ],
+  [
+   "40884",
+   "40886"
+  ],
+  [
+   "40885",
+   "40886"
+  ],
+  [
+   "40887",
+   "40888"
+  ],
+  [
+   "40887",
+   "40889"
+  ],
+  [
+   "40887",
+   "40890"
+  ],
+  [
+   "40887",
+   "40891"
+  ],
+  [
+   "40887",
+   "40892"
+  ],
+  [
+   "40888",
+   "40889"
+  ],
+  [
+   "40888",
+   "40890"
+  ],
+  [
+   "40888",
+   "40891"
+  ],
+  [
+   "40888",
+   "40892"
+  ],
+  [
+   "40889",
+   "40890"
+  ],
+  [
+   "40889",
+   "40891"
+  ],
+  [
+   "40889",
+   "40892"
+  ],
+  [
+   "40890",
+   "40891"
+  ],
+  [
+   "40890",
+   "40892"
+  ],
+  [
+   "40891",
+   "40892"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Problème 1 : coupé en trois fichiers, un par partie. Problème 2 : parties 1 et 2 réunies (la partie 1 n'est que le cas n = 3), puis un fichier par partie. 40884 contient le problème de Monty Hall, déjà présent en 1014 (grade 11, « Trois portes et une voiture ») ; 40884 demande davantage (n boîtes, n − 1 tours), je l'ai donc gardé, sans lien same_as ; le coordinateur peut ajouter un see_also dans les deux sens. 40885 et 40886 : j'ai explicité dans l'énoncé deux points que le sujet laisse implicites (Sophie choisit au hasard au premier tour ; ses choix n'apportent aucune information sur le paquet). Après la note du coordinateur sur la seconde condition de niveau, 40885 est passé de grade 11 à 12 et 40886 de grade 8 à 9 avant d'être écrit. Problème 3 : six fichiers. La partie 3 (questions 9 à 19, très longue) est coupée en trois fichiers : 9 à 13, 14, 15 à 19 ; chacun rappelle en « on admet » ce qu'il utilise des précédents. Doublon partiel : la question 4 de 40887 (lemme de Dirichlet par les tiroirs) est proche de 7534 « Un multiple tout près d'un entier » (grade 11) ; une seule question de la partie, donc je garde 40887 ; le coordinateur peut lier les deux en see_also. Aucune erreur trouvée dans le sujet. Pas de correction non officielle pour 2024 ; le rapport du jury ne contient que des commentaires généraux (question 4 du problème 1 souvent manquée, partie 3 du problème 2 quasi jamais traitée, parties entières difficiles au problème 3), repris dans les « Going further ».",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40881",
+   "40882",
+   "40883",
+   "40886",
+   "40887",
+   "40888",
+   "40889",
+   "40890"
+  ],
+  "fixed": [
+   {
+    "id": "40885",
+    "what": "question 3 : le passage « de proche en proche » est remplacé par une vraie récurrence sur ℓ, « il existe K_ℓ > 0 tel que p_ℓ(x) = K_ℓ a_ℓ(x) pour toute boîte non éliminée », avec la relation a_ℓ = c_ℓ a_{ℓ−1} sur s_{ℓ−1} ; question 4 : précisé que la probabilité de gagner sachant un déroulement est p_{n−1} de la boîte choisie, ou une moyenne des deux si Sophie tire au sort"
+   },
+   {
+    "id": "40891",
+    "what": "question 4 b) : « w divise u et v donc divise leur PGCD » (propriété de maths expertes) remplacé par « w est un diviseur commun de u et v, donc w ≤ PGCD(u, v) = 1 » ; indication 5 ajustée de même"
+   },
+   {
+    "id": "40892",
+    "what": "Going further : la conjecture de Fraenkel porte sur des suites de Beatty décalées de modules tous différents ; précisé"
+   }
+  ],
+  "regrade": [
+   {
+    "id": "40884",
+    "from": "10/3",
+    "to": "9/3",
+    "why": "le seul outil est la probabilité 1/n d'un choix au hasard, au programme du cycle 4 ; le reste est du raisonnement par cas identique pour 3 et pour n boîtes ; fichier déplacé dans grade-09/probability-statistics/3"
+   }
+  ],
+  "doubts": [
+   {
+    "id": "40884",
+    "what": "grade 8 serait peut-être possible (probabilités dès la 4e), mais la question 4 en n − 1 tours avec n quelconque m'a paru plus sûre en 3e. Pas le même problème que 1014 (grade 11, Monty Hall seul avec « où est l'erreur ? ») : 40884 contient 1014 et va plus loin ; un élève qui a fait 40884 n'apprend presque rien de neuf dans 1014. Je propose un see_also 40884 ↔ 1014 (le coordinateur l'écrit, 1014 est hors de mon bloc) ; on peut aussi se demander si 1014 mérite encore le grade 11"
+   },
+   {
+    "id": "40886",
+    "what": "laissé au grade 9 : aucun outil, mais l'argument d'impossibilité pour n = 3 (deux situations que Sophie ne peut pas distinguer) et le code avec le repli sur une boîte vide font une chaîne d'idées que je ne suis pas sûr de voir menée par un élève de 4e en une séance ; grade 8/5 défendable, à arbitrer"
+   },
+   {
+    "id": "40885",
+    "what": "grade 12/5 confirmé : outils de 1re (probabilités conditionnelles), mais la propagation tour par tour est une récurrence (Terminale) et la modélisation est très difficile. L'hypothèse « les choix de Sophie n'apportent aucune information » est juste (ses choix ne dépendent que de l'historique observé, éventuellement d'un tirage indépendant) et est énoncée en « on admet », ce qui convient"
+   },
+   {
+    "id": "40888",
+    "what": "laissé à 10/5 : tous les outils sont de 2de (partie entière, dénombrement, irrationnalité) et les questions sont bien guidées ; 11/4 serait aussi défendable, mais la règle du grade le plus bas où les deux conditions tiennent donne 10"
+   },
+   {
+    "id": "40887",
+    "what": "laissé à 11/4 ; les outils sont de 2de, et 10/5 n'est pas exclu, mais la question 5 avec un ε quelconque après le lemme de Dirichlet est longue pour une séance de 2de"
+   },
+   {
+    "id": "40889, 40890, 40891",
+    "what": "arguments en ε relus ligne à ligne, tous justes. Chaque fichier tient seul : 40890 n'utilise que (R1) à (R3), qui sont bien les conclusions de 40889 (questions 3 et 5 c, 5 d) ; 40891 n'utilise que (R1), (R2) et un point Q dont les deux propriétés sont exactement les questions 5 et 6 de 40890, avec 0 < s < 1 et −1 < t < 0 qui découlent de 0 < s < ε, −ε < t < 0. La coupe est raisonnable : réunir 40890 et 40891 donnerait un fichier de plus de 90 minutes. Seule réserve : dans 40891, le point Q tombe du ciel avec ses propriétés, ce qui rend l'énoncé abstrait pour qui n'a pas fait 40890 ; le see_also y renvoie"
+   },
+   {
+    "id": "40881",
+    "what": "vm.py check signale une ressemblance avec 12408 (grade 11) : vérifié, ce n'est pas le même problème (récurrence x_{n+2} = √(a x_{n+1} − x_n)), rien à faire"
+   }
+  ]
+ },
+ "updated": "2026-11-27"
+}

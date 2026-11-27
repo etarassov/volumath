@@ -1,0 +1,221 @@
+{
+ "unit": "cg-2005",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2005, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2005-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2005.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40121",
+  "40160"
+ ],
+ "status": "done",
+ "imported": [
+  "40121",
+  "40122",
+  "40123",
+  "40124",
+  "40125",
+  "40126",
+  "40127",
+  "40128"
+ ],
+ "parts": [
+  {
+   "id": "40121",
+   "where": "exercice 1, partie I, questions 1 et 2"
+  },
+  {
+   "id": "40122",
+   "where": "exercice 1, partie II, questions 1 à 4"
+  },
+  {
+   "id": "40123",
+   "where": "exercice 1, partie III, questions 1 à 3"
+  },
+  {
+   "id": "40124",
+   "where": "exercice 2, questions 1 et 2 (exercice entier)"
+  },
+  {
+   "id": "40125",
+   "where": "exercice 3, questions 1 et 2 (exercice entier)"
+  },
+  {
+   "id": "40126",
+   "where": "exercice 4, partie I, questions 1 à 3"
+  },
+  {
+   "id": "40127",
+   "where": "exercice 4, partie II, questions 1 à 4"
+  },
+  {
+   "id": "40128",
+   "where": "exercice 4, partie II, question 5 (a à d)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40121",
+   "grade": 11,
+   "why": "symétries et rotations repérées par une mesure d'angle sur le cercle trigonométrique (1re) ; les angles orientés de vecteurs ne sont plus au programme, la solution s'en passe"
+  },
+  {
+   "id": "40122",
+   "grade": 12,
+   "why": "nombres complexes (affixes, conjugué, module, j), option maths expertes"
+  },
+  {
+   "id": "40123",
+   "grade": 11,
+   "why": "variations de cos² sans dérivée, valeurs remarquables de cos et sin, tracé point par point ; le point d'affixe r e^{iθ} est réécrit (r cos θ, r sin θ), le résultat de la partie II est admis"
+  },
+  {
+   "id": "40124",
+   "grade": 12,
+   "why": "théorème des valeurs intermédiaires (Terminale) appliqué à g et à f"
+  },
+  {
+   "id": "40125",
+   "grade": 12,
+   "why": "limite de sin x / x en 0 (dérivée de sin, Terminale) et passage à la limite ; la question 2 seule serait de niveau 3e mais ne fait pas un fichier à elle seule"
+  },
+  {
+   "id": "40126",
+   "grade": 10,
+   "why": "restes, principe des tiroirs, décomposition en facteurs premiers (lemme d'Euclide déduit de l'unicité de la décomposition, cas 1 du brief), algorithme en Python ; les congruences sont définies dans l'énoncé comme des restes"
+  },
+  {
+   "id": "40127",
+   "grade": 10,
+   "why": "calculs de restes et produits de congruences (règle démontrée en une ligne), propriétés (P1) et (P2) de la partie I admises en préambule ; le système modulo 52 se résout en essayant les multiples de 3, sans inverse modulaire"
+  },
+  {
+   "id": "40128",
+   "grade": 12,
+   "why": "logarithme népérien, comparaison somme-intégrale et récurrence (Terminale) ; aucune congruence nécessaire une fois le résultat de 4a admis"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40121",
+   "how": "résultat classique ; composées vérifiées à la main sur les angles 0, 2π/3, 4π/3"
+  },
+  {
+   "id": "40122",
+   "how": "20000 points M aléatoires en Python : affixes de M1..M4, centre du cercle circonscrit comparé à λe^{-iθ}, formule de R² et factorisation de R²−1 (erreur max 2e-9) ; alignement testé sur ρ = −2cos θ ; cas R = ρ testé sur le cercle unité et la droite x = −1/2"
+  },
+  {
+   "id": "40123",
+   "how": "en Python : chaque point de la courbe r1 (4000 valeurs de θ) donne un triangle M2M3M4 de rayon 1 (à 1e-6) ; recherche sur 200000 points aléatoires : tout point de rayon 1 est sur le cercle unité ou sur la courbe (à la tolérance près) ; extrémités (−1/3, ±√2/3), passage par B, C, (0, ±1), abscisse minimale −1/2 atteinte en B"
+  },
+  {
+   "id": "40124",
+   "how": "exemple affine par morceaux vérifié en Python en fractions exactes : f(x+3/10) − f(x) = −1 sur 4901 points de [0, 7/10], zéros exacts 0, 1/4, 1/3, 1/2, 2/3, 3/4, 1 ; formule sin²(10πx/3) − 3x/4 vérifiée numériquement ; chaîne des signes relue dans les deux sens"
+  },
+  {
+   "id": "40125",
+   "how": "5 triangles aléatoires en Python : 60 itérations du centre du cercle inscrit, distance au point de [BC] avec BA = γ/(β+γ)·BC inférieure à 1e-15 ; orthocentre de l'orthocentre = point de départ (erreur 4e-15) ; cas des angles droits relus à la main"
+  },
+  {
+   "id": "40126",
+   "how": "racines primitives modulo 7 et 5 recalculées en Python ({3, 5} et {2, 3}) ; 20 racine primitive modulo 53 vérifiée ; ℓ(40) = 18 par l'algorithme et table des 19 premières puissances de 20 modulo 53"
+  },
+  {
+   "id": "40127",
+   "how": "en Python : 55 racine primitive modulo 113, ℓ(2) = 60, ℓ(3) = 5, ℓ(54) = 75 ; modulo 53 avec g = 20 : 20³ ≡ 50, ℓ(2) = 17, ℓ(5) = 19, ℓ(40) = 18, ℓ(30) = 13 (s = 3 donne 16 = 2⁴), ℓ(3) = 29 pour le Going further ; liste des 12 entiers 2^a 5^b ≤ 52"
+  },
+  {
+   "id": "40128",
+   "how": "encadrement de la question 2 testé en Python pour tous les premiers p < 3000 et tous les couples parmi les 6 premiers nombres premiers inférieurs à p (aucun échec) ; cas n = 3 testé pour un premier sur sept jusqu'à 3000 avec 4 triplets (aucun échec) ; exemple p = 53 : 0,135 ≤ 12/52 ≤ 0,445 ; p = 101 : 34 entiers 2^a 3^b 5^c ≤ 100"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [
+  {
+   "id": "40122",
+   "tool": "nombres complexes, symétrie z ↦ u² z̄, racine cubique de l'unité j",
+   "suggested_theme": "complex-numbers",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  [
+   "40121",
+   "40122"
+  ],
+  [
+   "40121",
+   "40123"
+  ],
+  [
+   "40122",
+   "40123"
+  ],
+  [
+   "40126",
+   "40127"
+  ],
+  [
+   "40126",
+   "40128"
+  ],
+  [
+   "40127",
+   "40128"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Exercice 1 : la partie III (courbes « polaires ») est réécrite avec le point P(r, θ) = (r cos θ, r sin θ) au lieu de l'affixe r e^{iθ}, pour rester en 1re ; la question 1a se traite sans dérivée. La partie I généralise 0657 (deux symétriques d'un point, angle 50°), sans être un doublon. Exercice 4 : la partie II est coupée en deux fichiers (questions 1 à 4 au grade 10, question 5 au grade 12), car la question 5 change de nature (dénombrement avec ln et intégrales) et le tout dépassait une séance. La question 5 d « Généraliser » est posée avec l'encadrement à démontrer écrit explicitement. Aucun doublon trouvé (pas de racine primitive ni de logarithme discret dans la collection ; corde universelle absente ; système orthocentrique absent en tant qu'exercice). Aucune erreur trouvée dans le sujet ; aucun rapport du jury ni corrigé pour 2005. Rien de sauté. Grades à arbitrer : 40121 (11/3, peut-être 10 si l'on accepte des angles orientés informels), 40123 (11/4, tracé de courbes « polaires » réécrit en coordonnées ; 12 défendable), 40126 et 40127 (10/4 et 10/3 par la règle du grade le plus bas ; 11 défendable pour la charge d'abstraction). L'exercice 3 reste un seul fichier au grade 12 : sa question 2 (système orthocentrique) est de niveau 3e mais trop courte pour un fichier.",
+ "next_problem": 5,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40122",
+   "40124",
+   "40125",
+   "40126",
+   "40127",
+   "40128"
+  ],
+  "fixed": [
+   {
+    "id": "40121",
+    "what": "question 1 : la solution ne traitait pas le cas où M et N sont diamétralement opposés (triangle MIN aplati, l'argument du triangle isocèle ne s'applique pas) ; cas ajouté, D est alors la perpendiculaire à (MN) en son milieu I"
+   },
+   {
+    "id": "40123",
+    "what": "indications : la première indication de la question 3 donnait toute la méthode (les deux valeurs de ρ et le passage à θ + π) ; coupée en deux indications, de la plus douce à la plus forte"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40121",
+    "what": "grade 11 gardé : la solution repère les points par des angles en radians définis à 2π près (cercle trigonométrique, 1re). Une version écrite en degrés avec des angles orientés informels tiendrait en 2de, voire la question 2 seule en 3e, mais ce serait une réécriture, pas une correction"
+   },
+   {
+    "id": "40127",
+    "what": "le préambule présente (P2) « g^x ≡ g^y si et seulement si x ≡ y modulo p − 1 » comme démontré dans 40126 ; 40126 démontre le sens « si » (question 2c) et l'unicité (2b), dont le sens « seulement si » découle en deux lignes sans être écrit. Sans gravité, puisque (P2) est admis"
+   },
+   {
+    "id": "40126",
+    "what": "grade 10 gardé (et 10 pour 40127) : tous les outils sont de 2de ou expliqués en quelques lignes (restes, principe des tiroirs, lemme d'Euclide tiré de l'unicité de la décomposition), et les indications portent les questions 2a et 2c ; c'est toutefois une chaîne abstraite, à surveiller en séance avec un groupe de 2de"
+   },
+   {
+    "id": "40125",
+    "what": "la question 2 (A0 est l'orthocentre de HBC, système orthocentrique) recoupe 40042 (grade 9, autre unité, « orthocentric sets of three or four points ») ; pas un doublon, 40125 demande plus, mais un see_also entre les deux est à décider par le coordinateur (hors de ce bloc d'ids)"
+   }
+  ],
+  "how": "Sujet rendu en images (pages 2 à 5) et relu contre chaque énoncé. Scripts propres dans le scratchpad cg-2005-check : 40121 composée de deux symétries = rotation d'angle 2(φ'−φ) sur 1000 cas aléatoires (erreur 5e-15) et M2 = r²(M1), M3 = r(M1) pour des triangles équilatéraux quelconques ; 40122 affixes de M1..M4, centre Ω = λe^{-iθ}, formules de R² et de R² − 1 sur 20000 points (erreur relative 1e-9), alignement sur |z+1| = 1, Ω = O sur (BC) et Ω = −m1 sur le cercle unité ; 40123 R = 1 sur 40000 points de C1 (erreur 1e-13), recherche aléatoire de points de rayon 1 (seuls deux « écarts », dus à la tolérance près de (0, −1) où les deux courbes se croisent), extrémités (−1/3, ±√2/3), abscisse minimale −1/2 atteinte en B et C, points S(π/6), S(π/4), S(π/3) ; 40124 exemple affine par morceaux en fractions exactes (f(x + 3/10) = f(x) − 1 sur 4901 points, zéros 0, 1/4, 1/3, 1/2, 2/3, 3/4, 1) et formule sin² ; 40125 80 itérations du centre du cercle inscrit sur 10 triangles (écart à la limite annoncée 2e-15), orthocentre de HBC = A0, coordonnées de la figure recalculées ; 40126/40127 racines primitives modulo 5, 7, 53 et 113, table des puissances de 20 modulo 53, ℓ(40) = 18, ℓ(2) = 60, ℓ(3) = 5, ℓ(54) = 75 modulo 113, ℓ(2) = 17, ℓ(5) = 19, ℓ(30) = 13, ℓ(3) = 29 modulo 53, 12 entiers 2^a 5^b ≤ 52, critère pgcd(k, p − 1) = 1 du Going further ; 40128 encadrement vérifié par dénombrement exact pour n = 1 à 5 sur 6405 cas (tous les premiers p < 3000, premiers p_i tirés parmi les 12 plus petits), aucun échec ; exemple p = 53 (0,135 ≤ 12/52 ≤ 0,445) et 34 entiers 2^a 3^b 5^c ≤ 100 ; preuve de la minoration (somme contre intégrale, récurrence) relue ligne à ligne. Les huit fichiers construits sans avertissement pandoc, toutes les pages regardées ; les figures sont toutes dans les solutions sauf celle de 40122, qui ne montre que les points et ne donne rien. Grades 40123 (11/4) et 40126, 40127 (10) jugés au plus bas défendable."
+ },
+ "updated": "2026-11-27"
+}

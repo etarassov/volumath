@@ -1,0 +1,270 @@
+{
+ "unit": "cg-2022",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2022, mathématiques, spécialité mathématiques",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2022-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2022.pdf"
+  },
+  {
+   "role": "rapport",
+   "file": "sources/originals/concours-general/rapport-2022.pdf",
+   "url": "https://eduscol.education.fr/document/43327/download",
+   "note": "rapport du jury : statistiques et commentaires, aucune solution"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40801",
+  "40840"
+ ],
+ "status": "done",
+ "imported": [
+  "40801",
+  "40802",
+  "40803",
+  "40804",
+  "40805",
+  "40806",
+  "40807",
+  "40808",
+  "40809",
+  "40810"
+ ],
+ "parts": [
+  {
+   "id": "40801",
+   "where": "problème 1 « En pleine effervescence », partie 1, questions 1 à 4"
+  },
+  {
+   "id": "40802",
+   "where": "problème 1, partie 2 « Existence », questions 5 à 9"
+  },
+  {
+   "id": "40803",
+   "where": "problème 1, partie 3 « Unicité », questions 10 à 13"
+  },
+  {
+   "id": "40804",
+   "where": "problème 2 « Garder le cap », partie 1 (questions 1 et 2) et partie 7 (question 19)"
+  },
+  {
+   "id": "40805",
+   "where": "problème 2, partie 2 « Préliminaires » (questions 3 à 6) et partie 3 « Barrières rationnelles » (questions 7 et 8)"
+  },
+  {
+   "id": "40806",
+   "where": "problème 2, partie 4 « Couples serrés, moyennes naïves et recouvrements par des intervalles principaux », questions 9 à 14"
+  },
+  {
+   "id": "40807",
+   "where": "problème 2, partie 5 « Coincé dans un intervalle principal » (questions 15 à 17) et partie 6 « Conclusion » (question 18)"
+  },
+  {
+   "id": "40808",
+   "where": "problème 3 « Un tournoi par équipes », partie 1 « Un jeu, deux joueurs » (questions 1 à 3) et partie 2 « Qu'est-ce qu'un jeu régulier ? » (question 4)"
+  },
+  {
+   "id": "40809",
+   "where": "problème 3, partie 3 « Un tournoi régulier par équipes », questions 5 et 6"
+  },
+  {
+   "id": "40810",
+   "where": "problème 3, partie 4 « Une généralisation », questions 7 à 9"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40801",
+   "grade": 9,
+   "why": "partie entière définie dans l'énoncé, puissances, carrés entre deux carrés consécutifs : rien au-delà du collège ; quatre questions courtes"
+  },
+  {
+   "id": "40802",
+   "grade": 12,
+   "why": "récurrence, théorème des valeurs intermédiaires, théorème de la limite monotone, passage à la limite dans une inégalité"
+  },
+  {
+   "id": "40803",
+   "grade": 12,
+   "why": "récurrence sur un encadrement par des carrés, théorème des gendarmes, unicité de la limite"
+  },
+  {
+   "id": "40804",
+   "grade": 10,
+   "why": "équation cartésienne de droite, partie entière définie dans la solution, irrationalité de √2 : programme de 2de ; la construction du contre-exemple est l'idée"
+  },
+  {
+   "id": "40805",
+   "grade": 10,
+   "why": "coordonnées et colinéarité de vecteurs (2de), principe des tiroirs démontré dans le fichier, inégalités entre fractions"
+  },
+  {
+   "id": "40806",
+   "grade": 10,
+   "why": "fractions irréductibles, un diviseur commun divise une combinaison, dénombrement simple, arrêt d'un processus : rien au-delà de la 2de"
+  },
+  {
+   "id": "40807",
+   "grade": 10,
+   "why": "seulement inégalités, principe des tiroirs et un argument de franchissement discret ; difficile (5) mais aucun outil de 1re ou de Terminale"
+  },
+  {
+   "id": "40808",
+   "grade": 11,
+   "why": "indépendance, suite géométrique et somme de ses termes, limite de λ^n vue intuitivement : programme de 1re ; la seule limite est un passage à la limite dans une minoration"
+  },
+  {
+   "id": "40809",
+   "grade": 11,
+   "why": "produits de probabilités le long d'un arbre (indépendance, 1re), calcul littéral ; rien de Terminale"
+  },
+  {
+   "id": "40810",
+   "grade": 11,
+   "why": "indépendance, formule des probabilités totales (1re), dénombrement par le principe multiplicatif, bijection ; difficulté 5 car la question 3 demande un découpage original du tournoi"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40801",
+   "how": "E((3/2)^4)=5 calculé en fractions exactes ; m^2+2 jamais carré vérifié pour m ≤ 1000"
+  },
+  {
+   "id": "40802",
+   "how": "a_n, b_n calculés en Decimal à 4000 chiffres pour k = 1 à 5, n ≤ 8 : (a_n) croissante, (b_n) décroissante, E(α^(2^n)) + 2 = u_n pour n ≤ 6 ; α_1 ≈ 1,678459"
+  },
+  {
+   "id": "40803",
+   "how": "seul carré dans [k²+2,(k+1)²+1] vérifié pour k < 200, et dans [N²+2,(N+1)²+1] pour N < 2000 ; inégalité 3a testée sur 10 000 tirages ; b_n - a_n ≤ 1/2^n vérifié numériquement ; α_1² = α_2 et α_2² = α_7 vérifiés à 15 chiffres (Going further)"
+  },
+  {
+   "id": "40804",
+   "how": "recherche exhaustive : 3 points alignés parmi M0..M4 pour les 16 escaliers ; escalier E(k(√2−1)) vérifié (pas 0 ou 1) sur 3000 pas ; recherche exhaustive : il existe un escalier à 9 points sans 4 alignés, aucun à 10 points (Going further)"
+  },
+  {
+   "id": "40805",
+   "how": "inégalité a−b ≤ bu_k − ak ≤ a testée sur 3000 escaliers aléatoires de 60 pas et fractions de dénominateur ≤ 12, à chaque franchissement"
+  },
+  {
+   "id": "40806",
+   "how": "processus simulé pour n = 2 à 14 : couples consécutifs serrés, au plus 4n² fractions, dénominateurs des médiantes dans [2n, 4n−2], inclusions dans les intervalles principaux vérifiées en fractions exactes ; liste finale = suite de Farey d'ordre 2n−1 (Going further)"
+  },
+  {
+   "id": "40807",
+   "how": "question 1 testée sur 2526 blocs aléatoires vérifiant l'hypothèse ; la question 4 est une preuve, relue pas à pas (nombre d'extrémités 2N−1 < 8n², 8n² × 4n² = 32n⁴ blocs, dernier rang 2^(32n⁴)n − 1)"
+  },
+  {
+   "id": "40808",
+   "how": "P(G_A) calculé en Fraction par somme partielle (200 termes) pour deux couples (a, b) et comparé à a(1−b)/(1−λ) ; P(G_A)+P(G_B)=1 exact ; rapport de la question 4 vérifié exactement"
+  },
+  {
+   "id": "40809",
+   "how": "probabilité de victoire calculée exactement (récurrence sur l'état (i, j), Fraction) : u_{1,n}=1/2^n et u_{2,n}=(n+2)/2^(n+1) pour n ≤ 8 ; formule de la question 2b vérifiée sur 50 jeux de forces aléatoires ; Going further (loi binomiale) vérifié pour m, n ≤ 6"
+  },
+  {
+   "id": "40810",
+   "how": "énumération des 2^(2n) tableaux pour n ≤ 8 : nombre de gagnants 2^n + n·2^(n−1) et caractérisation (pas de BB, pas de AB à droite d'un BA) confirmés ; somme des P_T sur les tableaux gagnants = probabilité exacte (m=2, n=3) ; invariance par toutes les permutations des deux équipes vérifiée exactement pour (m,n) = (3,3), (4,2), (3,4) sur 30 tirages de forces"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [],
+ "see_also_added": [
+  [
+   "40801",
+   "40802"
+  ],
+  [
+   "40801",
+   "40803"
+  ],
+  [
+   "40802",
+   "40803"
+  ],
+  [
+   "40804",
+   "40805"
+  ],
+  [
+   "40804",
+   "40806"
+  ],
+  [
+   "40804",
+   "40807"
+  ],
+  [
+   "40805",
+   "40806"
+  ],
+  [
+   "40805",
+   "40807"
+  ],
+  [
+   "40806",
+   "40807"
+  ],
+  [
+   "40808",
+   "40809"
+  ],
+  [
+   "40808",
+   "40810"
+  ],
+  [
+   "40809",
+   "40810"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Problème 2 coupé en 4 fichiers : la partie 1 (deux questions très courtes) est regroupée avec la partie 7 (question ouverte finale) ; les parties 2 et 3, et les parties 5 et 6, sont regroupées. Dans 40805, le principe des tiroirs utilise p tiroirs (k dans le sujet) et le mot « franchit » est introduit pour la condition v_k ≤ a/b ≤ v_{k+1} ou l'inverse. Dans 40807, les fractions q_k et r_k de la partie 4 sont renommées e_0 < … < e_L dans le rappel (R4). 40806 est proche de 7247 (médiante, 2de) mais demande bien plus : pas un doublon, lien see_also possible pour le coordinateur. Problème 3 coupé en 3 fichiers : la partie 2 (une seule question, qui utilise le résultat de la partie 1) est regroupée avec la partie 1. Le rapport du jury 2022 ne contient que des statistiques et le palmarès, aucun commentaire sur les questions : rien à en tirer. 40808 est proche par le thème de 2610 et 40483 (jeux de pile ou face répétés, Terminale) mais ce n'est pas le même jeu. Points de niveau les moins sûrs : 40807 (2de, 5 étoiles : aucun outil au-delà de la 2de, mais la synthèse de la question 4 est très exigeante) ; 40808 (1re : le seul passage à la limite porte sur λ^n, vu intuitivement en 1re ; 2610, jeu voisin, est rangé en Terminale) ; 40801 (3e : pourrait se défendre en 4e).",
+ "next_problem": 4,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40801",
+   "40802",
+   "40803",
+   "40804",
+   "40806",
+   "40808",
+   "40809",
+   "40810"
+  ],
+  "fixed": [
+   {
+    "id": "40807",
+    "what": "la question 4b utilisait que les points alignés fournis par (R1) et (R3) sont des points M_k de rangs pris dans les blocs, alors que (R1) et (R3) disaient seulement « la suite contient n points alignés » ; (R1) dit maintenant « les n points M_k correspondants sont alignés » et (R3) « n des points M_k, pris parmi ces rangs, sont alignés », ce qui est exactement ce que prouvent les solutions de 40805 ; solutions des questions 2, 3, 4a (étape 3) et 4b ajustées en conséquence"
+   },
+   {
+    "id": "40805",
+    "what": "conclusions des questions 2 et 6 et Bilan précisés : les points alignés sont les M_k des rangs considérés (ce que la preuve montrait déjà), pour que les rappels (R1) et (R3) de 40807 soient exactement ce que 40805 démontre ; énoncés inchangés"
+   }
+  ],
+  "regrade": [],
+  "doubts": [
+   {
+    "id": "40807",
+    "what": "gardé en 2de, 5 étoiles : aucun outil au-delà de la 2de, et aucun outil de 1re ou de Terminale ne rendrait la question 4a plus accessible ; la condition « résoluble en une séance de club avec les indices » repose sur les indices 3 à 5, qui donnent le découpage en blocs. À arbitrer si le coordinateur juge la synthèse hors de portée d'un bon élève de 2de"
+   },
+   {
+    "id": "40801",
+    "what": "gardé en 3e : la question 3a demande (x²)^(2^n) = x^(2^(n+1)), règle des puissances plutôt vue en 3e ; 4e défendable mais pas assez sûr pour déplacer"
+   },
+   {
+    "id": "40806",
+    "what": "pour le coordinateur : un lien see_also 40806 ↔ 7247 (« La fraction coincée entre deux autres », 2de, la médiante est entre les deux fractions) est justifié, 7247 étant une étape de 40806 (question 2a et propriété P2) ; pas un doublon, 40806 demande bien plus. Lien non écrit, 7247 est hors du bloc"
+   }
+  ],
+  "notes": "Tout re-vérifié avec mes propres scripts (cg-2022-check) : problème 1, α_k calculé en Decimal 3000 chiffres pour k = 1 à 8 ((a_n) croissante, (b_n) décroissante, b_n − a_n ≤ 1/2^n, E(α^(2^n)) + 2 = u_n pour n ≤ 6, α_1 ≈ 1,678459, α_1² = α_2, α_2² = α_7), seul carré dans [N²+2, (N+1)²+1] pour N < 3000, inégalité 3a sur 20 000 tirages. Problème 2 : recherche exhaustive (3 alignés parmi M0..M4 toujours ; escalier à 4 points sans 3 alignés ; à 9 points sans 4 alignés ; 4 alignés toujours parmi 10 points), escalier E(k(√2−1)) valide sur 3000 pas, inégalité de 40805 Q5 testée en fractions exactes, processus de 40806 pour n = 2 à 14 (couples serrés, N ≤ 4n², liste = suite de Farey d'ordre 2n−1, dénominateurs des médiantes dans [2n, 4n−2], inclusions dans les intervalles principaux, 2N−1 < 8n² et dénominateurs ≤ 4n−1 comme dans (R4)), question 1 de 40807 sur 34 681 blocs aléatoires. La preuve de 40804 question 2 est complète (s = θ forcé par la croissance de k, puis θ rationnel). (R4) de 40807 est un peu plus précis que l'énoncé de la question 6 de 40806 (intervalle supérieur de e_i ou inférieur de e_{i+1}), mais c'est exactement ce que prouve sa solution. Problème 3 : P(G_A) exacte, sommes partielles, rapport de régularité en Fraction ; u_{1,n}, u_{2,n}, u_{m,n} + u_{n,m} = 1 et la loi binomiale du Going further de 40809 (m, n ≤ 6) par récurrence exacte ; formule 2b de 40809 sur 50 tirages ; 40810 : nombre de tableaux gagnants 2^n + n·2^(n−1) pour n ≤ 8, caractérisation (pas de BB, pas de AB à droite d'un BA) dans les deux sens, somme des P_T = probabilité du tournoi, invariance par permutation des deux équipes pour (m, n) = (3,3), (4,2), (3,4), (2,5), (5,3), (1,4). Niveaux : 40808 reste en 1re (seule limite : λ^n → 0 dans une minoration, puis complément à 1 ; 2610 est en Terminale parce qu'il somme une série, ce que 40808 évite). L'ajout « u_n est un entier » à la question 1 de 40802 est vrai et sert à la question 5 (E(α^(2^n)) = u_n − 2 et u_n carré d'un entier). Les changements de formulation (p tiroirs, « franchit », e_0 < … < e_L) ne changent pas le sens. Les 10 fichiers construits sans avertissement pandoc, pages regardées."
+ },
+ "updated": "2026-11-27"
+}

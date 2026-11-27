@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 40
 tags: [tiroirs, partie-fractionnaire, approximation, reels]
 adapted_from: null
-see_also: []
+see_also: ["40887"]
 same_as: []
 created: 2026-09-20
 source:

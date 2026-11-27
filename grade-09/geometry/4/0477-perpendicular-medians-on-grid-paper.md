@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 30
 tags: [mediane, quadrillage, perpendiculaire, construction, centre-de-gravite]
 adapted_from: null
-see_also: []
+see_also: ["40203"]
 same_as: []
 created: 2026-09-18
 source:

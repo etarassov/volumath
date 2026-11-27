@@ -7,7 +7,7 @@ difficulty: 4
 duration_min: 35
 tags: [diviseurs, minimum, encadrement, recherche-exhaustive]
 adapted_from: null
-see_also: ["10849"]
+see_also: ["10849", "40441"]
 same_as: []
 created: 2026-09-20
 source:

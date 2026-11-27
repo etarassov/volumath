@@ -1,0 +1,413 @@
+{
+ "unit": "cg-2002",
+ "source": "concours-general",
+ "title": "Concours général des lycées 2002, mathématiques, série S",
+ "brief": "sources/concours-general/import-brief.md",
+ "documents": [
+  {
+   "role": "sujet",
+   "file": "sources/originals/concours-general/cg-2002-s-sujet.pdf",
+   "url": "https://www.freemaths.fr/annales-composition-mathematiques-concours-general/concours-general-mathematiques-sujet-serie-s-2002.pdf"
+  }
+ ],
+ "scope": "every problem of the paper",
+ "solutions_printed": "no",
+ "id_block": [
+  "40001",
+  "40040"
+ ],
+ "status": "done",
+ "imported": [
+  "40001",
+  "40002",
+  "40003",
+  "40004",
+  "40005",
+  "40006",
+  "40007",
+  "40008",
+  "40009",
+  "40010"
+ ],
+ "parts": [
+  {
+   "id": "40001",
+   "where": "problème unique, première partie, questions 1 à 5"
+  },
+  {
+   "id": "40002",
+   "where": "problème unique, première partie, question 6 (a à d)"
+  },
+  {
+   "id": "40003",
+   "where": "problème unique, deuxième partie, question 1"
+  },
+  {
+   "id": "40004",
+   "where": "problème unique, deuxième partie, questions 2 et 3"
+  },
+  {
+   "id": "40005",
+   "where": "problème unique, deuxième partie, questions 4, 5 et 6"
+  },
+  {
+   "id": "40006",
+   "where": "problème unique, deuxième partie, question 7"
+  },
+  {
+   "id": "40007",
+   "where": "problème unique, troisième partie, questions 1 et 3"
+  },
+  {
+   "id": "40008",
+   "where": "problème unique, troisième partie, question 2 (a à d)"
+  },
+  {
+   "id": "40009",
+   "where": "problème unique, quatrième partie, questions 1 et 2"
+  },
+  {
+   "id": "40010",
+   "where": "problème unique, quatrième partie, question 3 (a à c)"
+  }
+ ],
+ "grade_reasons": [
+  {
+   "id": "40001",
+   "grade": 10,
+   "why": "chasse aux angles, Pythagore et sa réciproque, coordonnées et distances dans un repère : outils de collège et de 2de ; cinq équivalences avec des cas, d'où 4 étoiles"
+  },
+  {
+   "id": "40002",
+   "grade": 12,
+   "why": "arguments de nombres complexes et angles orientés : maths expertes"
+  },
+  {
+   "id": "40003",
+   "grade": 9,
+   "why": "Pythagore, cosinus, sinus et tangente d'un angle aigu dans le triangle rectangle, symétrie axiale, racines carrées : tout est du cycle 4 ; cos 2θ = cos²θ − sin²θ est donné dans l'énoncé. La construction réciproque demande une vraie idée, d'où 5 étoiles en 3e (regradé par le vérificateur, de 10/4 à 9/5)"
+  },
+  {
+   "id": "40004",
+   "grade": 10,
+   "why": "calcul sur les rationnels, tangente d'un angle aigu, factorisations ; les formules en tan(φ) sont données dans l'énoncé comme dans le sujet"
+  },
+  {
+   "id": "40005",
+   "grade": 10,
+   "why": "diviseurs, nombres premiers, parité, restes modulo 8 expliqués comme restes, décomposition en facteurs premiers à la place du lemme de Gauss"
+  },
+  {
+   "id": "40006",
+   "grade": 10,
+   "why": "décomposition en facteurs premiers, PGCD, parité des carrés ; aucune congruence ni Gauss nécessaires"
+  },
+  {
+   "id": "40007",
+   "grade": 12,
+   "why": "intégrale, logarithme, croissance comparée de ln : Terminale ; la rotation du repère est donnée en coordonnées explicites"
+  },
+  {
+   "id": "40008",
+   "grade": 12,
+   "why": "somme géométrique, limite de n(e^(l/n) − 1) par le nombre dérivé de exp en 0, encadrement et passage à la limite : Terminale"
+  },
+  {
+   "id": "40009",
+   "grade": 12,
+   "why": "géométrie analytique dans l'espace (repère, plans, droites paramétrées) : Terminale spécialité ; le reste est Pythagore et la tangente au cercle"
+  },
+  {
+   "id": "40010",
+   "grade": 10,
+   "why": "parité, restes modulo 4, différence de deux carrés, diviseurs et PGCD : arithmétique de 2de ; la construction de la question 2 donne les 4 étoiles"
+  }
+ ],
+ "checks": [
+  {
+   "id": "40001",
+   "how": "20 000 triangles aléatoires en Python (dont des cas forcés pseudo-rectangles et rectangles) : les cinq conditions et la condition sur Z coïncident avec la définition par les angles, 0 désaccord"
+  },
+  {
+   "id": "40002",
+   "how": "Re Z = 0 vérifié numériquement sur des triangles pseudo-rectangles déplacés par des similitudes aléatoires ; lieux xy = 1/2 et x² − y² = 1 recalculés à la main"
+  },
+  {
+   "id": "40003",
+   "how": "relation [ii] vérifiée sur les triangles entiers (7,20,15), (161,255,136), (41,609,580) ; construction de [ii] vers [i] contrôlée par le calcul PB = c²/d, PC = b²/d"
+  },
+  {
+   "id": "40004",
+   "how": "formules de 1.b vérifiées en Python pour (p,q) = (1,3), (1,4), (2,5), (1,5), (3,8) : la relation b² − c² = a√(b²+c²) est exacte"
+  },
+  {
+   "id": "40005",
+   "how": "PGCD calculé en Python pour tous p,q premiers entre eux < 40 : toujours 1 ou 4 selon la parité ; solutions de x²(y²+z²) = (y²−z²)² avec y ≤ 300 trouvées par force brute (17) et identiques à la liste donnée par la paramétrisation"
+  },
+  {
+   "id": "40006",
+   "how": "force brute sur y, z < 400 : 28 solutions, identiques à celles de la formule k·(w1³, e·y1, e·z1)"
+  },
+  {
+   "id": "40007",
+   "how": "aire calculée par intégration numérique pour r = 3 (6,7225342) contre rs − ln(r+s) (6,7225342) ; S' calculée numériquement pour x = 2 et comparée à (s − ln(r+s))/2 ; rapport S'/S évalué jusqu'à x = 10^4 (0,4995)"
+  },
+  {
+   "id": "40008",
+   "how": "aire d'un trapèze T_k vérifiée par la formule du lacet (shoelace) ; Σ_n calculée pour r = 3, n = 10, 100, 1000 : converge vers (A + s²)/2 = 7,36127 ; figure tracée à partir des mêmes formules"
+  },
+  {
+   "id": "40009",
+   "how": "pour T et P tirés au hasard, le point de (D) à la hauteur PT donne B − C = π/2 (calcul d'angles en 3D) et x² + y² − z² = 1"
+  },
+  {
+   "id": "40010",
+   "how": "famille de la question 2 vérifiée (équation, positivité, PGCD = 2e) pour e de 2 à 5 et m de 1 à 5 ; formule du nombre de solutions τ(K)/2 comparée à la force brute pour tous les m impairs de 3 à 59 ; listes pour m = 3, 5, 7, 9 identiques à la force brute"
+  }
+ ],
+ "skipped": [],
+ "beyond_programme": [
+  {
+   "id": "40002",
+   "tool": "nombres complexes, argument et angles orientés",
+   "suggested_theme": "complex-numbers",
+   "hors_programme": false
+  }
+ ],
+ "see_also_added": [
+  [
+   "40001",
+   "40002"
+  ],
+  [
+   "40001",
+   "40003"
+  ],
+  [
+   "40001",
+   "40004"
+  ],
+  [
+   "40001",
+   "40005"
+  ],
+  [
+   "40001",
+   "40006"
+  ],
+  [
+   "40001",
+   "40007"
+  ],
+  [
+   "40001",
+   "40008"
+  ],
+  [
+   "40001",
+   "40009"
+  ],
+  [
+   "40001",
+   "40010"
+  ],
+  [
+   "40002",
+   "40003"
+  ],
+  [
+   "40002",
+   "40004"
+  ],
+  [
+   "40002",
+   "40005"
+  ],
+  [
+   "40002",
+   "40006"
+  ],
+  [
+   "40002",
+   "40007"
+  ],
+  [
+   "40002",
+   "40008"
+  ],
+  [
+   "40002",
+   "40009"
+  ],
+  [
+   "40002",
+   "40010"
+  ],
+  [
+   "40003",
+   "40004"
+  ],
+  [
+   "40003",
+   "40005"
+  ],
+  [
+   "40003",
+   "40006"
+  ],
+  [
+   "40003",
+   "40007"
+  ],
+  [
+   "40003",
+   "40008"
+  ],
+  [
+   "40003",
+   "40009"
+  ],
+  [
+   "40003",
+   "40010"
+  ],
+  [
+   "40004",
+   "40005"
+  ],
+  [
+   "40004",
+   "40006"
+  ],
+  [
+   "40004",
+   "40007"
+  ],
+  [
+   "40004",
+   "40008"
+  ],
+  [
+   "40004",
+   "40009"
+  ],
+  [
+   "40004",
+   "40010"
+  ],
+  [
+   "40005",
+   "40006"
+  ],
+  [
+   "40005",
+   "40007"
+  ],
+  [
+   "40005",
+   "40008"
+  ],
+  [
+   "40005",
+   "40009"
+  ],
+  [
+   "40005",
+   "40010"
+  ],
+  [
+   "40006",
+   "40007"
+  ],
+  [
+   "40006",
+   "40008"
+  ],
+  [
+   "40006",
+   "40009"
+  ],
+  [
+   "40006",
+   "40010"
+  ],
+  [
+   "40007",
+   "40008"
+  ],
+  [
+   "40007",
+   "40009"
+  ],
+  [
+   "40007",
+   "40010"
+  ],
+  [
+   "40008",
+   "40009"
+  ],
+  [
+   "40008",
+   "40010"
+  ],
+  [
+   "40009",
+   "40010"
+  ]
+ ],
+ "same_as_added": [],
+ "source_errors": [],
+ "notes": "Le sujet 2002 est un seul long problème en quatre parties, découpé en 10 fichiers (40001 à 40010), tous reliés deux à deux par see_also. Les fichiers de 2de utilisent des angles en degrés au lieu des radiens du sujet. 40008 ajoute une question 1.b (aire de chaque trapèze) pour guider. Aucune erreur trouvée dans le sujet. Dans la partie 4, question 3.b, le cas d = 2 n'est infini que grâce aux triplets (1, y, y) (x = 1) ; la famille générale ne marche que pour d ≥ 4. Doublons cherchés avec similar.py et grep (pseudo-rectangle, hyperbole, x² + y² = z² + 1, Fermat) : rien de semblable dans la collection.",
+ "next_problem": 2,
+ "check": {
+  "date": "2026-11-27",
+  "ok": [
+   "40001",
+   "40002",
+   "40004",
+   "40005",
+   "40007",
+   "40009",
+   "40010"
+  ],
+  "fixed": [
+   {
+    "id": "40006",
+    "what": "Pour aller plus loin : le X = (y² + z²)/x tiré d'une solution de l'exercice 40005 vérifie l'équation de 40006 mais n'est en général pas entier (625/7 pour (7, 20, 15)) ; énoncé corrigé, avec une variable t pour ne plus mélanger les deux x"
+   },
+   {
+    "id": "40008",
+    "what": "Bilan : « l'aire sous l'hyperbole vaut ((r+s)² − 1)/4 − ln(r+s)/2 » remplacé par « l'aire de la partie Ω » ; l'aire sous l'arc seule vaut 𝒜/2, pas cette valeur"
+   }
+  ],
+  "regrade": [
+   {
+    "id": "40003",
+    "from": "10/4",
+    "to": "9/5",
+    "why": "aucun outil de 2de : Pythagore, cos/sin/tan d'un angle aigu (programme de 3e), symétrie axiale, racines carrées ; cos 2θ est donné en (R3), et cos²θ + sin²θ = 1 se démontre avec Pythagore. Une seule question du sujet, très guidée par les indications 3 et 4 pour la construction : faisable en une séance par un bon élève de 3e, au niveau compétition. Fichier déplacé dans grade-09/geometry/5/, durée portée à 60 min"
+   }
+  ],
+  "doubts": [
+   {
+    "id": "40006",
+    "what": "Gardé en 2de/4. Les outils (décomposition en facteurs premiers, parité des carrés) sont aussi ceux du cycle 4, donc 3e/5 se défend ; mais la chaîne d'arguments sur les exposants (un cube qui est un carré, d divise w, e divise d) est abstraite, et la démonstration littérale d'énoncés d'arithmétique est un objectif de 2de. À trancher par le coordinateur si l'on veut le passer en 3e/5. Mathématiques vérifiées : force brute y, z ≤ 2000, 148 solutions, identiques à la paramétrisation k·(w1³, e·y1, e·z1)"
+   },
+   {
+    "id": "40005",
+    "what": "Même remarque que 40006 : outils du cycle 4 (premiers, décomposition, fractions irréductibles), gardé en 2de/4 pour la longueur (trois questions, calcul modulo 8, quartiques en p et q)"
+   },
+   {
+    "id": "40010",
+    "what": "Gardé en 2de/4. Le cas d = 2 de la question 2 n'est réalisé QUE par x = 1 : si PGCD(x + 1, y + z) = 2 avec x = 2u − 1 > 1, alors b = (y + z)/2 divise u − 1 et b² > u(u − 1), contradiction. La solution est juste (elle utilise (1, y, y), et S autorise x = 1), mais un élève qui cherche x > 1 pour d = 2 ne trouvera rien ; l'indication 3 l'oriente vers x = 1. Vérifié par force brute (x < 120, z < 800 : aucun d impair, aucun d = 2 avec x > 1)"
+   },
+   {
+    "id": "40004",
+    "what": "Gardé en 2de/4 : outils accessibles en 3e (tangente donnée, rationnels, (u + 1)² = 2), mais beaucoup de calcul littéral sur des polynômes de degré 4 ; 3e/5 possible, pas assez sûr pour déplacer"
+   }
+  ],
+  "notes": "Vérifications refaites avec mes propres scripts (dossier scratchpad cg-2002-check) : 40001 sur 30 000 triangles (pseudo-rectangles forcés sur l'hyperbole x² − y² = 1, rectangles, quelconques, puis similitude aléatoire), les cinq équivalences coïncident (2 écarts dus à la tolérance numérique sur des triangles presque rectangles, PB + PC − 2R étant quadratique en l'écart) ; 40002 critère Re Z = 0 sur 20 000 triangles et lieu xy = 1/2 ; 40003 (7,20,15), (161,255,136), (119,156,65), (41,609,580) : θ = Ĉ et ρ = 2R ; 40005 PGCD pour p, q < 60, force brute y, z ≤ 400 : 46 solutions = paramétrisation ; 40007 aire et S' par intégration numérique (r = 1,5 ; 3 ; 10), S'/S = 0,49999990 pour x = 10^8 ; 40008 aires des trapèzes T_k et T'_k par la formule du lacet, Σ_n ≤ aire(Ω) ≤ Σ'_n jusqu'à n = 10 000 ; 40009 sur 5 000 couples (T, P) ; 40010 nombre de solutions τ(K)/2 pour m impair de 3 à 79. 40002, 40007, 40008, 40009 ne peuvent pas descendre : nombres complexes (maths expertes), intégrale et logarithme, limite de n(e^(ℓ/n) − 1) et logarithme, géométrie repérée dans l'espace. 40001 reste en 2de : la question 4 calcule le centre du cercle circonscrit en coordonnées. Aucune formule de trigonométrie hors 2de n'est utilisée sans être donnée dans l'énoncé (cos 2θ en 40003, formules en tan φ en 40004, comme dans le sujet). Tous les fichiers compilent sans avertissement pandoc ; pages et figure de 40008 regardées."
+ },
+ "updated": "2026-11-27"
+}

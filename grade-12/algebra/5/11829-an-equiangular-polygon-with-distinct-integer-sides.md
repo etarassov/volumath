@@ -5,7 +5,7 @@ grade: 12
 theme: algebra
 difficulty: 5
 duration_min: 75
-tags: [nombres-complexes, racines-de-l-unite, polygone-equiangle, polynomes-cyclotomiques, transformee-de-fourier-discrete, hors-programme, polynome]
+tags: [nombres-complexes, racines-de-lunite, polygone-equiangle, polynomes-cyclotomiques, transformee-de-fourier-discrete, hors-programme, polynome]
 adapted_from: null
 see_also: []
 same_as: []
