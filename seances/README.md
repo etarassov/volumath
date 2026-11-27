@@ -54,8 +54,9 @@ blocks:
 - `## Overview` (optional) and `## Block <n>` hold teaching notes in French, Markdown and
   LaTeX maths as in an exercise. They go **only** into `prof.pdf`.
 - `eleves.pdf`: the statements, numbered across the whole session, under the block titles,
-  laid out tight to save paper. Each heading is one line (title and difficulty dots, no
-  metadata). Figures float at the top right of their statement, at most half the text width
+  laid out tight to save paper. Only the date goes under the sheet title. Each exercise
+  starts with "Exercice N." in bold and its statement runs on from there, with no title,
+  no difficulty dots and no metadata. Figures float at the top right of their statement, at most half the text width
   and without caption, with the text wrapping on their left. Parts follow on without a page
   break, and an exercise is never split across two pages.
 - `prof.pdf`: a table of all exercises, the overview, then for each block its notes followed

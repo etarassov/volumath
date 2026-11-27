@@ -457,6 +457,29 @@ def load_seance(folder):
 
 IMAGE_LINE_RE = re.compile(r"^!\[(.*)\]\(([^)\s]+)\)\s*$")
 LIST_ITEM_RE = re.compile(r"^(\s*)([-*+]|\d+[.)])\s")
+# Lines that open a block (display maths, list, table, heading...) rather than a paragraph.
+# Letters count as list markers too: pandoc reads "a) Montrer..." as a list item.
+BLOCK_START_RE = re.compile(
+    r"^\s*(\$\$|\||#|>|<|```|~~~|[-*+]\s|\d+[.)]\s|\(?[a-zA-Z][.)]\s|\(\d+\)\s)")
+
+
+def with_run_in_label(markdown, numero):
+    """Put "Exercice N." in bold at the start of the statement, so the text runs on after it.
+
+    When the statement opens with a block rather than a paragraph (a list, a display, a
+    table), glueing the label onto it would break the block, so the label gets a line of its
+    own. Figure lines are skipped: statement_floated takes them out of the text anyway.
+    """
+    label = "**Exercice %d.**" % numero
+    lines = markdown.split("\n")
+    for i, line in enumerate(lines):
+        if not line.strip() or IMAGE_LINE_RE.match(line.strip()):
+            continue
+        if BLOCK_START_RE.match(line):
+            break
+        lines[i] = "%s %s" % (label, line.lstrip())
+        return "\n".join(lines)
+    return "%s\n\n%s" % (label, markdown)
 
 
 def statement_floated(markdown, source_dir):
@@ -495,7 +518,9 @@ def doc_seance(meta, notes, overview, blocks, kind, here):
     """kind 'students': statements only, no notes, no durations.
     kind 'teacher': overview, then per block the notes and every exercise in full."""
     title = str(meta.get("title") or "Séance")
-    bits = [str(meta[k]) for k in ("group", "date") if meta.get(k)]
+    # The students' sheet shows only the date under its title.
+    keys = ("group", "date") if kind == "teacher" else ("date",)
+    bits = [str(meta[k]) for k in keys if meta.get(k)]
     if kind == "teacher":
         title += " : notes pour l'animateur"
     out = [typst_head(), "#doc-title(%s, %s)\n" % (tq(title), tq(" · ".join(bits)))]
@@ -528,10 +553,11 @@ def doc_seance(meta, notes, overview, blocks, kind, here):
             if kind == "students":
                 if k > 0:
                     out.append("#separator-tight()\n")
-                # Compact heading (no metadata line, no rule), figures floated to the right.
-                out.append("#block(breakable: false, width: 100%%)[\n%s#exo-item-compact(numero: %d, title: %s, difficulty: %d)\n%s\n]\n" % (
-                    part_title if k == 0 else "", n, tq(exo.title), int(exo.difficulty or 1),
-                    statement_floated(statement, src)))
+                # No heading: "Exercice N." runs into the statement, with no title and no
+                # difficulty. Figures float to the right.
+                out.append("#block(breakable: false, width: 100%%)[\n%s%s\n]\n" % (
+                    part_title if k == 0 else "",
+                    statement_floated(with_run_in_label(statement, n), src)))
                 continue
             out.append("#separator()\n")
             # Heading and statement stay on one page, so a heading never ends a page alone.

@@ -2,7 +2,7 @@
 
 Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 
-3931 exercice(s).
+3932 exercice(s).
 
 ## 4e
 
@@ -1073,6 +1073,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 22009 | (1 + a/b)ⁿ + (1 + b/a)ⁿ ≥ 2ⁿ⁺¹ | [md](grade-09/algebra/3/22009-one-plus-a-over-b-to-the-n.md) |
 | ●●●○○ | 22010 | La moyenne quadratique dépasse la moyenne arithmétique | [md](grade-09/algebra/3/22010-quadratic-mean-above-arithmetic-mean.md) |
 | ●●●○○ | 40771 | ((a + c)/(b + c))ⁿ + ((b + c)/(a + c))ⁿ ≤ (a/b)ⁿ + (b/a)ⁿ | [md](grade-09/algebra/3/40771-adding-c-to-both-terms-of-a-ratio.md) |
+| ●●●○○ | 41121 | x² + y⁴ + z⁶ contre xy² + y²z³ + xz³ | [md](grade-09/algebra/3/41121-x-squared-y-fourth-z-sixth-tourniquet.md) |
 | ●●●●○ | 0409 | Quatre entiers consécutifs | [md](grade-09/algebra/4/0409-four-consecutive-integers-plus-one.md) |
 | ●●●●○ | 0459 | Le théorème de Sophie Germain | [md](grade-09/algebra/4/0459-sophie-germain-identity.md) |
 | ●●●●○ | 0533 | La meule de foin du fermier | [md](grade-09/algebra/4/0533-farmer-haystack-impossible-rates.md) |

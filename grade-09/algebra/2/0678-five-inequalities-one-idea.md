@@ -7,7 +7,7 @@ difficulty: 2
 duration_min: 20
 tags: [inegalite, identites-remarquables, carres, calcul-litteral]
 adapted_from: null
-see_also: []
+see_also: ["41121"]
 same_as: []
 created: 2026-09-19
 source:

@@ -13,8 +13,8 @@ The file format is in `seances/README.md`. Build both PDFs with:
 python3 tools/vm.py seance seances/<group>/<date>
 ```
 
-The code is `doc_seance` and `statement_floated` in `tools/vm.py`, and the `block-title`,
-`exo-item-compact`, `separator-tight` and `float-figures` functions in `tools/preamble.typ`.
+The code is `doc_seance`, `with_run_in_label` and `statement_floated` in `tools/vm.py`, and
+the `block-title`, `separator-tight` and `float-figures` functions in `tools/preamble.typ`.
 
 ## What goes where
 
@@ -34,9 +34,10 @@ The code is `doc_seance` and `statement_floated` in `tools/vm.py`, and the `bloc
 The student sheet is printed for every child, so it is laid out tight. Keep these rules when
 you change the code:
 
-1. **The heading is a single line.** "Exercice N." and the title on the left, the
-   difficulty dots on the right, at the same height. No metadata line (no
-   "2de · Géométrie · n° 10245") and no grey rule under the heading.
+1. **No heading.** "Exercice N." in bold, and the statement starts right after it on the
+   same line: "**Exercice 4.** Démontrer que pour tous nombres réels...". No exercise title,
+   no difficulty dots, no metadata line. When the statement opens with a list or a display
+   (for example "a) Montrer que..."), the label stands on its own line above it.
 2. **Figures float to the right**, as in HTML. Each figure takes at most half of the text
    width; a smaller figure keeps its natural size. The statement text runs to the left of
    the figure and continues at full width once it passes the bottom of the figure. The
@@ -45,10 +46,11 @@ you change the code:
 3. **No page break between parts.** A new "Partie" continues on the current page.
 4. **A part title never ends a page alone.** It stays on the same page as its first
    exercise.
-5. **An exercise is never split across two pages**: its heading, statement and figure stay
+5. **An exercise is never split across two pages**: its label, statement and figure stay
    together.
 6. **A thin light rule separates two exercises**, and is left out when it would fall at
    the very top of a page.
+7. **Under the sheet title, only the date.** No group name. The teacher PDF keeps both.
 
 The teacher PDF keeps the fuller layout: the metadata line, captions, a new page for each
 part, the table of exercises on the first page, then for each part its notes followed by
@@ -91,7 +93,8 @@ Building is not enough. Before saying a hand-out is done:
    ```
    Look at every page of the student PDF, and at every teacher page that is new (overview,
    block notes, their figures). Zoom in at 200 dpi on anything that looks off.
-3. Check the rules above on the pages: one-line headings, figures at the right and no wider
+3. Check the rules above on the pages: "Exercice N." running into the text, only the date
+   under the title, figures at the right and no wider
    than half the text, no part title alone at the bottom of a page, no rule at the top of a
    page, no timings.
 4. Check the figures against the statement, not just by eye: a point said to be on a circle

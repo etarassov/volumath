@@ -21815,7 +21815,9 @@
       "calcul-litteral"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "41121"
+    ],
     "same_as": [],
     "created": "2026-09-19",
     "source": {
@@ -24131,6 +24133,42 @@
     ]
   },
   {
+    "id": "41121",
+    "title": "x² + y⁴ + z⁶ contre xy² + y²z³ + xz³",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "inegalite",
+      "identites-remarquables",
+      "substitution",
+      "somme-cyclique",
+      "cas-d-egalite"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "8421",
+      "0678"
+    ],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe A",
+      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre III, « Inégalités 2 » (Théo), exercice 14 (énoncé dans le polycopié Inegalites-Theo.pdf)",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
+    },
+    "path": "grade-09/algebra/3/41121-x-squared-y-fourth-z-sixth-tourniquet.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "4426",
     "title": "Des carrés moins des produits",
     "grade": 9,
@@ -24366,7 +24404,9 @@
       "cas-degalite"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "41121"
+    ],
     "same_as": [],
     "created": "2026-09-20",
     "source": {
