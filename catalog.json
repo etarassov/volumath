@@ -3062,6 +3062,164 @@
     ]
   },
   {
+    "id": "41122",
+    "title": "Tous les diviseurs de quatre nombres",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "diviseurs",
+      "decomposition-en-facteurs-premiers"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "MathCool, Грузия, август 2026 г., группа «Земляные элементали», листок «Делимость» (А. А. Пронина)",
+      "reference": "mathcool-2026-08-17-delimost.pdf, задача 1",
+      "url": "",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mathcool/mathcool-2026-08-17-delimost.pdf"
+    },
+    "path": "grade-08/arithmetic/1/41122-list-all-divisors.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "41123",
+    "title": "Trois nombres et leur somme",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "divisibilite",
+      "construction",
+      "somme"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "10849"
+    ],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "MathCool, Грузия, август 2026 г., группа «Земляные элементали», листок «Делимость» (А. А. Пронина)",
+      "reference": "mathcool-2026-08-17-delimost.pdf, задача 2",
+      "url": "",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mathcool/mathcool-2026-08-17-delimost.pdf"
+    },
+    "path": "grade-08/arithmetic/1/41123-three-numbers-and-their-sum.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "41125",
+    "title": "Divisible par 4 et par 6, donc par 24 ?",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "divisibilite",
+      "contre-exemple",
+      "ppcm"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "MathCool, Грузия, август 2026 г., группа «Земляные элементали», листок «Делимость» (А. А. Пронина)",
+      "reference": "mathcool-2026-08-17-delimost.pdf, задача 4",
+      "url": "",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mathcool/mathcool-2026-08-17-delimost.pdf"
+    },
+    "path": "grade-08/arithmetic/1/41125-divisible-by-four-and-six-so-by-twenty-four.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "41127",
+    "title": "Le cow-boy Bill et le barman",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "divisibilite",
+      "criteres-de-divisibilite",
+      "prix",
+      "monnaie"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "MathCool, Грузия, август 2026 г., группа «Земляные элементали», листок «Делимость» (А. А. Пронина)",
+      "reference": "mathcool-2026-08-17-delimost.pdf, задача 7",
+      "url": "",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mathcool/mathcool-2026-08-17-delimost.pdf"
+    },
+    "path": "grade-08/arithmetic/1/41127-cowboy-bill-and-the-barman.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "41128",
+    "title": "Les journées chargées de Robinson",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 1,
+    "duration_min": 10,
+    "tags": [
+      "multiples",
+      "ppcm",
+      "calendrier"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "0611"
+    ],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "MathCool, Грузия, август 2026 г., группа «Земляные элементали», листок «Делимость» (А. А. Пронина)",
+      "reference": "mathcool-2026-08-17-delimost.pdf, задача 8",
+      "url": "",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mathcool/mathcool-2026-08-17-delimost.pdf"
+    },
+    "path": "grade-08/arithmetic/1/41128-robinson-crusoe-busy-days.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "4201",
     "title": "Le bébé lynx et sa mère",
     "grade": 8,
@@ -4535,6 +4693,129 @@
     ]
   },
   {
+    "id": "41124",
+    "title": "Le produit des chiffres peut-il valoir 630, 5500 ou 2014 ?",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "produit-des-chiffres",
+      "chiffres",
+      "decomposition-en-facteurs-premiers",
+      "nombres-premiers"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "MathCool, Грузия, август 2026 г., группа «Земляные элементали», листок «Делимость» (А. А. Пронина)",
+      "reference": "mathcool-2026-08-17-delimost.pdf, задача 3 (la question du baron, задача 0, est dans « Going further »)",
+      "url": "",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mathcool/mathcool-2026-08-17-delimost.pdf"
+    },
+    "path": "grade-08/arithmetic/2/41124-can-the-product-of-digits-be.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "41126",
+    "title": "2013 × 15 × 77 sans le calculer",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "divisibilite",
+      "decomposition-en-facteurs-premiers",
+      "criteres-de-divisibilite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "MathCool, Грузия, август 2026 г., группа «Земляные элементали», листок «Делимость» (А. А. Пронина)",
+      "reference": "mathcool-2026-08-17-delimost.pdf, задача 5",
+      "url": "",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mathcool/mathcool-2026-08-17-delimost.pdf"
+    },
+    "path": "grade-08/arithmetic/2/41126-without-computing-2013-times-15-times-77.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "41130",
+    "title": "Deux affirmations vraies, deux fausses",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 2,
+    "duration_min": 10,
+    "tags": [
+      "divisibilite",
+      "logique",
+      "multiples"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "MathCool, Грузия, август 2026 г., группа «Земляные элементали», листок «Делимость» (А. А. Пронина)",
+      "reference": "mathcool-2026-08-17-delimost.pdf, задача 10",
+      "url": "",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mathcool/mathcool-2026-08-17-delimost.pdf"
+    },
+    "path": "grade-08/arithmetic/2/41130-two-true-statements-two-false.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "41131",
+    "title": "L'échiquier numéroté et les pièces",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 2,
+    "duration_min": 15,
+    "tags": [
+      "divisibilite",
+      "echiquier",
+      "somme",
+      "criteres-de-divisibilite"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "MathCool, Грузия, август 2026 г., группа «Земляные элементали», листок «Делимость» (А. А. Пронина)",
+      "reference": "mathcool-2026-08-17-delimost.pdf, задача 11",
+      "url": "",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mathcool/mathcool-2026-08-17-delimost.pdf"
+    },
+    "path": "grade-08/arithmetic/2/41131-numbered-chessboard-and-chess-pieces.md",
+    "sections": [
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "4203",
     "title": "Le nombre à deux chiffres écrit deux fois",
     "grade": 8,
@@ -5811,7 +6092,9 @@
       "calendrier"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "41128"
+    ],
     "same_as": [],
     "created": "2026-09-19",
     "source": {
@@ -6332,7 +6615,8 @@
     "adapted_from": null,
     "see_also": [
       "7864",
-      "40441"
+      "40441",
+      "41123"
     ],
     "same_as": [],
     "created": "2026-10-01",
@@ -6947,6 +7231,38 @@
       "local_copy": "sources/originals/concours-general/cg-2026-s-sujet.pdf"
     },
     "path": "grade-08/arithmetic/3/40964-every-integer-is-a-signed-sum-of-squares.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
+    "id": "41129",
+    "title": "Trois nombres dont aucun ne divise un autre",
+    "grade": 8,
+    "theme": "arithmetic",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "divisibilite",
+      "construction",
+      "existence",
+      "decomposition-en-facteurs-premiers"
+    ],
+    "adapted_from": null,
+    "see_also": [],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "MathCool, Грузия, август 2026 г., группа «Земляные элементали», листок «Делимость» (А. А. Пронина)",
+      "reference": "mathcool-2026-08-17-delimost.pdf, задача 9",
+      "url": "",
+      "original_language": "ru",
+      "local_copy": "sources/originals/mathcool/mathcool-2026-08-17-delimost.pdf"
+    },
+    "path": "grade-08/arithmetic/3/41129-three-numbers-none-dividing-another.md",
     "sections": [
       "Going further",
       "Hints",
@@ -21815,7 +22131,9 @@
       "calcul-litteral"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "41121"
+    ],
     "same_as": [],
     "created": "2026-09-19",
     "source": {
@@ -24131,6 +24449,42 @@
     ]
   },
   {
+    "id": "41121",
+    "title": "x² + y⁴ + z⁶ contre xy² + y²z³ + xz³",
+    "grade": 9,
+    "theme": "algebra",
+    "difficulty": 3,
+    "duration_min": 15,
+    "tags": [
+      "inegalite",
+      "identites-remarquables",
+      "substitution",
+      "somme-cyclique",
+      "cas-d-egalite"
+    ],
+    "adapted_from": null,
+    "see_also": [
+      "8421",
+      "0678"
+    ],
+    "same_as": [],
+    "created": "2026-11-27",
+    "source": {
+      "name": "POFM, stage olympique de Valbonne 2022, cours de Groupe A",
+      "reference": "Poly_Valbonne_2022-Corrigé-1.pdf, chapitre III, « Inégalités 2 » (Théo), exercice 14 (énoncé dans le polycopié Inegalites-Theo.pdf)",
+      "url": "https://maths-olympiques.fr/wp-content/uploads/2022/09/Poly_Valbonne_2022-Corrigé-1.pdf",
+      "original_language": "fr",
+      "local_copy": "sources/originals/pofm/Poly_Valbonne_2022-Corrigé-1.pdf"
+    },
+    "path": "grade-09/algebra/3/41121-x-squared-y-fourth-z-sixth-tourniquet.md",
+    "sections": [
+      "Going further",
+      "Hints",
+      "Solution",
+      "Statement"
+    ]
+  },
+  {
     "id": "4426",
     "title": "Des carrés moins des produits",
     "grade": 9,
@@ -24366,7 +24720,9 @@
       "cas-degalite"
     ],
     "adapted_from": null,
-    "see_also": [],
+    "see_also": [
+      "41121"
+    ],
     "same_as": [],
     "created": "2026-09-20",
     "source": {

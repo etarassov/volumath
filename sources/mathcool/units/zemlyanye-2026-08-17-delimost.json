@@ -1,0 +1,22 @@
+{
+  "unit": "zemlyanye-2026-08-17-delimost",
+  "source": "mathcool",
+  "title": "Делимость, groupe « Земляные элементали », 17 août 2026 (А. А. Пронина)",
+  "files": ["sources/originals/mathcool/mathcool-2026-08-17-delimost.pdf"],
+  "scope": "problèmes 0 à 11, une page",
+  "id_block": ["41122", "41140"],
+  "status": "done",
+  "imported": ["41122", "41123", "41124", "41125", "41126", "41127", "41128", "41129", "41130", "41131"],
+  "skipped": [
+    {
+      "ref": "problème 0 (le baron de Münchhausen, produit des chiffres égal à 1210)",
+      "reason": "Même idée et même niveau que le problème 3 (630, 5500, 2014) : un élève qui a fait l'un n'a rien de nouveau dans l'autre. Gardé dans la partie « Going further » de 41124 plutôt qu'en fichier séparé."
+    },
+    {
+      "ref": "problème 6 (zéros à la fin de 10! et de 100!)",
+      "reason": "Déjà dans la base, mot pour mot : 4220."
+    }
+  ],
+  "notes": "Problèmes 1 à 9 utilisés dans la séance seances/group1/2026-11-28. Liens see_also : problème 2 avec 10849 (n nombres dont chacun divise leur somme), problème 8 avec 0611 (le triathlon d'Alex).",
+  "updated": "2026-11-27"
+}

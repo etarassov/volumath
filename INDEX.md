@@ -2,7 +2,7 @@
 
 Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 
-3931 exercice(s).
+3942 exercice(s).
 
 ## 4e
 
@@ -43,6 +43,11 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●○○○○ | 13871 | Additionner 13/6, 7/10 et 2/15 | [md](grade-08/arithmetic/1/13871-adding-three-fractions-with-denominators-6-10-15.md) |
 | ●○○○○ | 22029 | Si a divise b et c divise d | [md](grade-08/arithmetic/1/22029-if-a-divides-b-and-c-divides-d.md) |
 | ●○○○○ | 22031 | Quand n² + 1 divise n | [md](grade-08/arithmetic/1/22031-n-squared-plus-one-divides-n.md) |
+| ●○○○○ | 41122 | Tous les diviseurs de quatre nombres | [md](grade-08/arithmetic/1/41122-list-all-divisors.md) |
+| ●○○○○ | 41123 | Trois nombres et leur somme | [md](grade-08/arithmetic/1/41123-three-numbers-and-their-sum.md) |
+| ●○○○○ | 41125 | Divisible par 4 et par 6, donc par 24 ? | [md](grade-08/arithmetic/1/41125-divisible-by-four-and-six-so-by-twenty-four.md) |
+| ●○○○○ | 41127 | Le cow-boy Bill et le barman | [md](grade-08/arithmetic/1/41127-cowboy-bill-and-the-barman.md) |
+| ●○○○○ | 41128 | Les journées chargées de Robinson | [md](grade-08/arithmetic/1/41128-robinson-crusoe-busy-days.md) |
 | ●●○○○ | 0102 | Les bonbons des trois amies | [md](grade-08/arithmetic/2/0102-candies-for-three-friends.md) |
 | ●●○○○ | 0606 | Comparer des puissances | [md](grade-08/arithmetic/2/0606-comparing-powers.md) |
 | ●●○○○ | 0686 | Deux nombres premiers qui diffèrent de 11 | [md](grade-08/arithmetic/2/0686-two-primes-eleven-apart.md) |
@@ -108,6 +113,10 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●○○○ | 22044 | Un critère de divisibilité par 7, puis par 13 | [md](grade-08/arithmetic/2/22044-a-divisibility-test-for-seven-and-thirteen.md) |
 | ●●○○○ | 22056 | 8x + 3y² = 5 en entiers | [md](grade-08/arithmetic/2/22056-eight-x-plus-three-y-squared-equals-five.md) |
 | ●●○○○ | 22058 | Le dernier chiffre d'une tour de puissances | [md](grade-08/arithmetic/2/22058-last-digit-of-a-tower-of-powers-of-2023.md) |
+| ●●○○○ | 41124 | Le produit des chiffres peut-il valoir 630, 5500 ou 2014 ? | [md](grade-08/arithmetic/2/41124-can-the-product-of-digits-be.md) |
+| ●●○○○ | 41126 | 2013 × 15 × 77 sans le calculer | [md](grade-08/arithmetic/2/41126-without-computing-2013-times-15-times-77.md) |
+| ●●○○○ | 41130 | Deux affirmations vraies, deux fausses | [md](grade-08/arithmetic/2/41130-two-true-statements-two-false.md) |
+| ●●○○○ | 41131 | L'échiquier numéroté et les pièces | [md](grade-08/arithmetic/2/41131-numbered-chessboard-and-chess-pieces.md) |
 | ●●●○○ | 0001 | Parité de n² + n | [md](grade-08/arithmetic/3/0001-parity-of-n-squared-plus-n.md) |
 | ●●●○○ | 0104 | Le nombre écrit au tableau | [md](grade-08/arithmetic/3/0104-the-number-on-the-board.md) |
 | ●●●○○ | 0106 | La pyramide de carreaux | [md](grade-08/arithmetic/3/0106-pyramid-of-odd-numbers.md) |
@@ -179,6 +188,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 22063 | 1/a + 1/b + 1/c = 1 | [md](grade-08/arithmetic/3/22063-one-over-a-plus-one-over-b-plus-one-over-c-equals-one.md) |
 | ●●●○○ | 40721 | Les nombres pointus : premiers exemples | [md](grade-08/arithmetic/3/40721-sharp-numbers-first-examples.md) |
 | ●●●○○ | 40964 | Tout entier est une somme de carrés consécutifs signés | [md](grade-08/arithmetic/3/40964-every-integer-is-a-signed-sum-of-squares.md) |
+| ●●●○○ | 41129 | Trois nombres dont aucun ne divise un autre | [md](grade-08/arithmetic/3/41129-three-numbers-none-dividing-another.md) |
 | ●●●●○ | 0105 | Le plus petit nombre à somme de chiffres imposée | [md](grade-08/arithmetic/4/0105-smallest-number-with-a-given-digit-sum.md) |
 | ●●●●○ | 0127 | Faut-il marcher jusqu'à l'arrêt suivant ? | [md](grade-08/arithmetic/4/0127-walk-to-the-next-bus-stop.md) |
 | ●●●●○ | 0129 | Combien d'élèves ont passé le contrôle ? | [md](grade-08/arithmetic/4/0129-how-many-pupils-took-the-test.md) |
@@ -1073,6 +1083,7 @@ Fichier produit par `python3 tools/vm.py index`. Ne pas modifier à la main.
 | ●●●○○ | 22009 | (1 + a/b)ⁿ + (1 + b/a)ⁿ ≥ 2ⁿ⁺¹ | [md](grade-09/algebra/3/22009-one-plus-a-over-b-to-the-n.md) |
 | ●●●○○ | 22010 | La moyenne quadratique dépasse la moyenne arithmétique | [md](grade-09/algebra/3/22010-quadratic-mean-above-arithmetic-mean.md) |
 | ●●●○○ | 40771 | ((a + c)/(b + c))ⁿ + ((b + c)/(a + c))ⁿ ≤ (a/b)ⁿ + (b/a)ⁿ | [md](grade-09/algebra/3/40771-adding-c-to-both-terms-of-a-ratio.md) |
+| ●●●○○ | 41121 | x² + y⁴ + z⁶ contre xy² + y²z³ + xz³ | [md](grade-09/algebra/3/41121-x-squared-y-fourth-z-sixth-tourniquet.md) |
 | ●●●●○ | 0409 | Quatre entiers consécutifs | [md](grade-09/algebra/4/0409-four-consecutive-integers-plus-one.md) |
 | ●●●●○ | 0459 | Le théorème de Sophie Germain | [md](grade-09/algebra/4/0459-sophie-germain-identity.md) |
 | ●●●●○ | 0533 | La meule de foin du fermier | [md](grade-09/algebra/4/0533-farmer-haystack-impossible-rates.md) |

@@ -116,19 +116,6 @@
   v(10pt)
 }
 
-// En-tete compact pour la fiche eleves : titre et pastilles sur la meme ligne,
-// sans ligne de metadonnees ni trait.
-#let exo-item-compact(numero: 1, title: "", difficulty: 1) = {
-  grid(
-    columns: (1fr, auto),
-    align: (left + horizon, right + horizon),
-    column-gutter: 8pt,
-    [#text(size: 12pt, weight: "bold")[Exercice #numero.] #h(4pt) #text(size: 12pt)[#title]],
-    difficulty-marks(difficulty),
-  )
-  v(2pt)
-}
-
 // Trait entre deux exercices, omis quand il tomberait tout en haut d'une page.
 #let separator-tight() = context {
   if here().position().y > 2cm + 6pt {
